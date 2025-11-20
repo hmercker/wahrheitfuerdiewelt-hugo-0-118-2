@@ -1,18 +1,27 @@
 [build]
   publish = "public"
-  command = "hugo -b $URL"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.118.2"
+  HUGO_ENV = "production"
+  HUGO_EXTENDED = "true"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_URL"
-
+  command = "hugo --gc --minify"
+  
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.118.2"
+  HUGO_EXTENDED = "true"
 
 [context.production.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.118.2"
+  HUGO_EXTENDED = "true"
 
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.118.2"
+  HUGO_EXTENDED = "true"
+
