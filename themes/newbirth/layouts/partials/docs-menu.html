@@ -1,3 +1,7 @@
+{{/* docs-menu.html — updated for Hugo >= 0.57 / 0.118 compatibility
+   Replaced .URL (removed on pageState) with .RelPermalink (relative links).
+   Use .Permalink if you need absolute links. */}}
+
 {{$currentNode := .}}
 <ul>
   {{ range .Site.Home.Sections }}
@@ -10,7 +14,7 @@
 {{ with .sect }}
 {{ if .IsSection }}
 <li class="section{{ if .IsAncestor $currentNode }} active-trail{{ end }}">
-  <a href="{{ .URL }}"><span>{{ .Title | truncate 50 }}</span></a>
+  <a href="{{ .RelPermalink }}"><span>{{ .Title | truncate 50 }}</span></a>
 
   <div class="dropdown">
     <ul>
@@ -34,7 +38,7 @@
 </li>
 {{- else -}}
 <li class="{{ if eq .UniqueID $currentNode.UniqueID }}active{{ end }}">
-  <a href="{{ .URL }}"><span>{{ .Title | truncate 45 }}</span></a>
+  <a href="{{ .RelPermalink }}"><span>{{ .Title | truncate 45 }}</span></a>
 </li>
 {{ end -}}
 
