@@ -9,9 +9,9 @@ weight: 760
 ---
 ## Botschaften empfangen durch Jimbeau Walsh
 
- | <div style="text-align: center;">Jahr</div> | 
+|| 
 ---|---|---
-<div style="text-align: center;">[2025](/botschaften-anderer-medien/jimbeau-walsh-2025/)</div> | <div style="text-align: center;">[2024](/botschaften-anderer-medien/jimbeau-walsh-2024/)</div> | <div style="text-align: center;">[2023](/botschaften-anderer-medien/jimbeau-walsh-2023/)</div>
-<div style="text-align: center;">[2022](/botschaften-anderer-medien/jimbeau-walsh-2022/)</div> | <div style="text-align: center;">[2021](/botschaften-anderer-medien/jimbeau-walsh-2021/)</div> | <div style="text-align: center;">[2020](/botschaften-anderer-medien/jimbeau-walsh-2020/)</div>
-<div style="text-align: center;">[2019](/botschaften-anderer-medien/jimbeau-walsh-2019/)</div> | | 
- | | 
+[2025](/botschaften-anderer-medien/jimbeau-walsh-2025/) | [2024](/botschaften-anderer-medien/jimbeau-walsh-2024/) | [2023](/botschaften-anderer-medien/jimbeau-walsh-2023/)
+[2022](/botschaften-anderer-medien/jimbeau-walsh-2022/) | [2021](/botschaften-anderer-medien/jimbeau-walsh-2021/) | [2020](/botschaften-anderer-medien/jimbeau-walsh-2020/)
+[2019](/botschaften-anderer-medien/jimbeau-walsh-2019/) | | 
+||
