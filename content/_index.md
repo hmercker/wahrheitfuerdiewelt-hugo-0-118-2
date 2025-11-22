@@ -49,6 +49,4 @@ Einem jedem ist es offen diese dargebotenen Wahrheiten in ihr Leben einzubringen
 
 Die Webseite *wahrheitfuerdiewelt.de* ist nicht Teil, und soll nicht einer religiösen Einstellung, Institution, Bewegung oder Glaubensrichtung dienen.  Diese Webseite ist allein gedacht, dem Schöpfer des Universums, Gott, zu verhelfen, die Menschheit zu erlösen und die Wichtigkeit des [Gebets für die Göttliche Liebe](/die-gemeinschaft-der-goettlichen-liebe/das-gebet/) klar zu stellen.
 
-<p style="text-align: center;">
-<script type="text/javascript" src="//counter.websiteout.net/js/5/6/1350/1"></script>
-</p>
+{{< visitor-counter >}}
