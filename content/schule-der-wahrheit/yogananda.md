@@ -19,9 +19,9 @@ Hintergrund – Wer war Paramahansa [Yogananda](/schule-der-wahrheit/de-yoganand
 
 ### Botschaften von Paramahansa Yogananda
 
- | <div style="text-align: center;">Jahr</div> | 
+||
 ---|---|---
-<div style="text-align: center;">[2024](/schule-der-wahrheit/yogananda-2024/)</div> | <div style="text-align: center;">[2022 - 2023](/schule-der-wahrheit/yogananda-2022-2023/)</div> | <div style="text-align: center;">[2021](/schule-der-wahrheit/yogananda-2021/)</div>
-<div style="text-align: center;">[2020](/schule-der-wahrheit/yogananda-2020/)</div> | <div style="text-align: center;">[2019](/schule-der-wahrheit/yogananda-2019/)</div> | <div style="text-align: center;">[2017 - 2018](/schule-der-wahrheit/yogananda-2017-2018/)</div>
- | | 
+[2024](/schule-der-wahrheit/yogananda-2024/) | [2022 - 2023](/schule-der-wahrheit/yogananda-2022-2023/) | [2021](/schule-der-wahrheit/yogananda-2021/)
+[2020](/schule-der-wahrheit/yogananda-2020/) | [2019](/schule-der-wahrheit/yogananda-2019/) | [2017 - 2018](/schule-der-wahrheit/yogananda-2017-2018/)
+||
  

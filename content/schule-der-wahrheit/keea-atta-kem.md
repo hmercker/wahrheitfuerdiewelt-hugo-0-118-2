@@ -15,8 +15,8 @@ Hintergrund – Wer war [Keea Atta Kem](/schule-der-wahrheit/de-keea-atta-kem-hi
 
 ### Botschaften von Keea Atta Kem
 
- | <div style="text-align: center;">Jahr</div> | 
+||
 ---|---|---
-<div style="text-align: center;">[2024](/schule-der-wahrheit/keea-atta-kem-2024/)</div> | <div style="text-align: center;">[2020 - 2023](/schule-der-wahrheit/keea-atta-kem-2020-2023/)</div> | <div style="text-align: center;">[2019](/schule-der-wahrheit/keea-atta-kem-2019/)</div>
-<div style="text-align: center;">[2018](/schule-der-wahrheit/keea-atta-kem-2018/)</div> | <div style="text-align: center;">[2015 - 2017](/schule-der-wahrheit/keea-atta-kem-2015-2017/)</div> | <div style="text-align: center;">[1996 - 1970](/schule-der-wahrheit/keea-atta-kem-1969-1970/)</div>
- | | 
+[2024](/schule-der-wahrheit/keea-atta-kem-2024/) | [2020 - 2023](/schule-der-wahrheit/keea-atta-kem-2020-2023/) | [2019](/schule-der-wahrheit/keea-atta-kem-2019/)
+[2018](/schule-der-wahrheit/keea-atta-kem-2018/) | [2015 - 2017](/schule-der-wahrheit/keea-atta-kem-2015-2017/) | [1996 - 1970](/schule-der-wahrheit/keea-atta-kem-1969-1970/)
+||

@@ -17,9 +17,9 @@ Der [Konfuzianismus](https://de.wikipedia.org/wiki/Konfuzianismus) gehört neben
 
 ### Botschaften von Konfuzius
 
- | <div style="text-align: center;">Jahr</div> | 
+||
 ---|---|---
-<div style="text-align: center;">[2020 - 2024](/schule-der-wahrheit/konfuzius-2020-2024/)</div> | <div style="text-align: center;">[2019](/schule-der-wahrheit/konfuzius-2019/)</div> | <div style="text-align: center;">[2018](/schule-der-wahrheit/konfuzius-2018/)</div>
-[2017](/schule-der-wahrheit/konfuzius-2017/)</div> | <div style="text-align: center;">[2014 - 2016](/schule-der-wahrheit/konfuzius-2014-2016/)</div> | <div style="text-align: center;">[1969](/schule-der-wahrheit/konfuzius-1969/)</div>
- | | 
+[2020 - 2024](/schule-der-wahrheit/konfuzius-2020-2024/) | [2019](/schule-der-wahrheit/konfuzius-2019/) | [2018](/schule-der-wahrheit/konfuzius-2018/)
+[2017](/schule-der-wahrheit/konfuzius-2017/) | [2014 - 2016](/schule-der-wahrheit/konfuzius-2014-2016/) | [1969](/schule-der-wahrheit/konfuzius-1969/)
+|| 
  

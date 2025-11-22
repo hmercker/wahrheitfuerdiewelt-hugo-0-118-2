@@ -13,8 +13,8 @@ In all diesen Botschaften wurde das Urheberrecht an Geoff Cutler (new-birth.net)
 
 Wir danken Geoff Cutler, dass er uns die Erlaubnis gegeben hat, diese Botschaften in Deutsch zu übersetzen und zu veröffentlichen.
 
- | <div style="text-align: center;">Jahr</div> | 
+ | | 
 ---|---|---
-<div style="text-align: center;">[2024](/judas-von-kerioth-botschaften/botschaften-von-judas-2024/)</div> | <div style="text-align: center;">[2021 - 2023](/judas-von-kerioth-botschaften/botschaften-von-judas-2021-2023/)</div> | <div style="text-align: center;">[2012 - 2020](/judas-von-kerioth-botschaften/botschaften-von-judas-2012-2020/)</div>
-<div style="text-align: center;">[2003](/judas-von-kerioth-botschaften/botschaften-von-judas-2003/)</div> | <div style="text-align: center;">[2002](/judas-von-kerioth-botschaften/botschaften-von-judas-2002/)</div> | <div style="text-align: center;">[1970 - 2001](/judas-von-kerioth-botschaften/botschaften-von-judas-1970-2001/)</div>
+[2024](/judas-von-kerioth-botschaften/botschaften-von-judas-2024/) | [2021 - 2023](/judas-von-kerioth-botschaften/botschaften-von-judas-2021-2023/) | [2012 - 2020](/judas-von-kerioth-botschaften/botschaften-von-judas-2012-2020/)
+[2003](/judas-von-kerioth-botschaften/botschaften-von-judas-2003/) | [2002](/judas-von-kerioth-botschaften/botschaften-von-judas-2002/) | [1970 - 2001](/judas-von-kerioth-botschaften/botschaften-von-judas-1970-2001/)
  | | 

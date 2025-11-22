@@ -25,9 +25,9 @@ Hintergrund – Wer war [Augustinus](/schule-der-wahrheit/de-augustinus-hintergr
 
 ### Botschaften von Augustinus
 
- | | <div style="text-align: center;">Jahr</div> | | 
+||||
 ---|---|---|---|---
-<div style="text-align: center;">[2024](/schule-der-wahrheit/augustinus-2024/)</div> | <div style="text-align: center;">[2023](/schule-der-wahrheit/augustinus-2023/)</div> | <div style="text-align: center;">[2022](/schule-der-wahrheit/augustinus-2022/)</div> | <div style="text-align: center;">[2021](/schule-der-wahrheit/augustinus-2021/)</div> | <div style="text-align: center;">[2020](/schule-der-wahrheit/augustinus-2020/)</div>
-<div style="text-align: center;">[2019](/schule-der-wahrheit/augustinus-2019/)</div> | <div style="text-align: center;">[2018](/schule-der-wahrheit/augustinus-2018/)</div> | <div style="text-align: center;">[2017](/schule-der-wahrheit/augustinus-2017/)</div> | <div style="text-align: center;">[2016](/schule-der-wahrheit/augustinus-2016/)</div> | <div style="text-align: center;">[2014 - 2015](/schule-der-wahrheit/augustinus-2014-2015/)</div>
-<div style="text-align: center;">[1969 - 1970](/schule-der-wahrheit/augustinus-1969-1970/)</div> | | | | 
- | | | | 
+[2024](/schule-der-wahrheit/augustinus-2024/) | [2023](/schule-der-wahrheit/augustinus-2023/) | [2022](/schule-der-wahrheit/augustinus-2022/) | [2021](/schule-der-wahrheit/augustinus-2021/) | [2020](/schule-der-wahrheit/augustinus-2020/)</div>
+[2019](/schule-der-wahrheit/augustinus-2019/) | [2018](/schule-der-wahrheit/augustinus-2018/) | [2017](/schule-der-wahrheit/augustinus-2017/) | [2016](/schule-der-wahrheit/augustinus-2016/) | [2014 - 2015](/schule-der-wahrheit/augustinus-2014-2015/)
+[1969 - 1970](/schule-der-wahrheit/augustinus-1969-1970/)|||
+|||| 
