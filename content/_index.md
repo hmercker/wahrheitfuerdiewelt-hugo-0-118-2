@@ -40,10 +40,16 @@ Es werden viele Themen angesprochen z.B. die Bedeutung der [Gleichnisse Jesu](/z
 
 #### ...in anderen Sprachen
 
-1. Englisch - [new-birth.net](https://new-birth.net), [soultruth.ca](https://soultruth.ca), [divinelovesanctuary.com](https://divinelovesanctuary.com), [lightbringers.info](https://lightbringers.info), [divinelovemessages.com](https://divinelovemessages.blogspot.com)
-2. Französisch - [lanouvelleverite.fr](https://lanouvelleverite.fr)
-3. Spanisch - [elcaminodelaverdad.es](https://elcaminodelaverdad.es) - noch im Bau
-4. Holländisch - [nieuwe-geboorte.nl](https://nieuwe-geboorte.nl) - noch im Bau
+||
+---|---
+Englisch | [new-birth.net](https://new-birth.net)
+Englisch | [soultruth.ca](https://soultruth.ca)
+Englisch | [divinelovesanctuary.com](https://divinelovesanctuary.com)
+Englisch | [lightbringers.info](https://lightbringers.info)
+Französisch | [lanouvelleverite.fr](https://lanouvelleverite.fr)
+Spanisch | [elcaminodelaverdad.es](https://elcaminodelaverdad.es) - noch im Bau
+Holländisch | [nieuwe-geboorte.nl](https://nieuwe-geboorte.nl) - noch im Bau
+||
 
 Einem jedem ist es offen diese dargebotenen Wahrheiten in ihr Leben einzubringen, egal des kulturellen Hintergrundes oder des Standes im Leben.  Mögen die folgenden Seiten dir auf deinem Seelenweg große Freude bereiten, und die tiefe Erkenntnis, dass wir - ein jeder von uns - innigst geliebt werden.
 
