@@ -1,13 +1,13 @@
 ---
-title: "Lektion 16 - Die Barrieren des Verstandes werden durch eine Welt im Wandel zerbröckeln - Band 3"
+title: "Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3"
 menu_title: ""
-description: "Lektion 16 - Die Barrieren des Verstandes werden durch eine Welt im Wandel zerbröckeln - Band 3"
+description: "Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True
 weight:
 ---
-### Lektion 16 - Die Barrieren des Verstandes werden durch eine Welt im Wandel zerbröckeln - Band 3
+### Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3
 
 *[Hier zum Mithören](https://www.youtube.com/watch?v=JldfMcKH8ZY)*
 
