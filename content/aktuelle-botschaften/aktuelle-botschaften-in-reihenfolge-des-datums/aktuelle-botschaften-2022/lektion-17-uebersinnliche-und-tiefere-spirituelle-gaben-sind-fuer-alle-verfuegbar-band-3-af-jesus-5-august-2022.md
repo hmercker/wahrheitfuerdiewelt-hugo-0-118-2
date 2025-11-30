@@ -9,6 +9,8 @@ weight:
 ---
 ### Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3
 
+*[Hier zum Mithören](https://www.youtube.com/watch?v=At4uv1CDGhU)*
+
 Jesus - empfangen durch Al Fike am 6. August 2022, Gibsons, BC, Kanada.
 
 Ich komme. Ich bin Jesus, euer Freund und Bruder, der es ernst meint, zu denen zu sprechen, die Ohren haben, um zuzuhören, und einen Verstand und eine Seele, um die Worte, in denen ich spreche, und die Wahrheit, die ich mitteile, zu empfangen und zu integrieren. Mögen alle, die auf der Suche nach der Wahrheit sind, die Wahrheit in dem, was ich mit euch teile, entdecken und diese Lektionen entsprechend anwenden.

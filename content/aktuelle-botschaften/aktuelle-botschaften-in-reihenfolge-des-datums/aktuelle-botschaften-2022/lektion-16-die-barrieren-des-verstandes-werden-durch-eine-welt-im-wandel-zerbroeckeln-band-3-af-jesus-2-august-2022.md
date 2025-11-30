@@ -9,6 +9,8 @@ weight:
 ---
 ### Lektion 16 - Die Barrieren des Verstandes werden durch eine Welt im Wandel zerbröckeln - Band 3
 
+*[Hier zum Mithören](https://www.youtube.com/watch?v=JldfMcKH8ZY)*
+
 Jesus - empfangen durch Al Fike am 2. August 2022, Gibsons, BC, Kanada.
 
 Geliebte Seelen, ich bin Jesus. Ich bin wieder einmal gekommen, um zu euch über Dinge zu sprechen, die die spirituelle Natur der Menschheit betreffen. Heute möchte ich über den Verstand sprechen und darüber, wie er das bewusste Erleben und Verstehen der Seele behindert und warum er ein so großes Hindernis für dieses Verstehen und Erleben ist. 

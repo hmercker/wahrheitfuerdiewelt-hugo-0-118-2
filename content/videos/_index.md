@@ -137,3 +137,6 @@ Jesus | [Lektion 11 - Die Natur des Verstandes und des Seelenbewusstseins - Ban
 Jesus | [Lektion 12 - Der mäandernde Weg des menschlichen Zustands - Band 3](https://www.youtube.com/watch?v=HlPyJtXTBe8) | 20 Juli 2022
 Jesus | [Lektion 13 - Gleichgewicht erzeugt Harmonie - Band 3](https://www.youtube.com/watch?v=suYY7hVctmk) | 23 Juli 2022
 Jesus | [Lektion 14 - Das Gesetz des Begehrens - Band 3](https://www.youtube.com/watch?v=k6lVse8lOgk) | 26 Juli 2022
+Jesus | [Lektion 15 - Die Erweiterung des Seelenbewusstseins mit Göttlicher Liebe  - Band 3](https://www.youtube.com/watch?v=dp3zpmxrwm8) | 28 Juli 2022
+Jesus | [Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3](https://www.youtube.com/watch?v=JldfMcKH8ZY) | 
+Jesus | [Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3](https://www.youtube.com/watch?v=At4uv1CDGhU) | 

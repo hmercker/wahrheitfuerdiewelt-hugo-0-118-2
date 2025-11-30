@@ -9,6 +9,8 @@ weight:
 ---
 ### Lektion 15 - Die Erweiterung des Seelenbewusstseins mit göttlicher Liebe - Band 3
 
+*[Hier zum Mithören](https://www.youtube.com/watch?v=dp3zpmxrwm8)*
+
 Jesus - empfangen durch Al Fike am 28. Julie 2022, Gibsons, BC, Kanada.
 
 Hier ist Jesus und ich bin gekommen, um noch einmal zu euch über die Wunder und die Herrlichkeit Gottes und seiner Schöpfung zu sprechen, also über euch und alle Kinder seiner Schöpfung. Ob in der materiellen Welt oder in der geistigen Welt, jede Seele wird von Gott zutiefst geliebt. Jede Seele hat die Möglichkeit, diese Liebe zu erwidern, indem sie den Segen Gottes in ihrer Seele empfängt.
