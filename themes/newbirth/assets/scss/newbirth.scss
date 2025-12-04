@@ -1108,3 +1108,23 @@ article th {
     border-collapse: collapse;
   }
 }
+/* --- Ensure table headings match table width + background on mobile --- */
+@media (max-width: 767px) {
+  /* Make TH match TD widths and wrap behavior */
+  article table th,
+  article table td {
+    width: auto;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    background-color: #ffffff;   /* ensure same background as table */
+    box-sizing: border-box;
+  }
+
+  /* Ensure TH background looks identical to the table */
+  article table th {
+    font-weight: bold;
+    background-color: #ffffff !important;  /* override any theme shading */
+  }
+}
