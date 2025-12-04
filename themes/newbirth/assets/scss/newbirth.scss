@@ -1086,7 +1086,7 @@ body {
     text-align: center;
     margin-top: 5px;
 }
-/* ========= SoulTruth mobile overflow fixes ========= */
+/* ========= SoulTruth responsive fixes (revised) ========= */
 
 /* 1) Fix article width on larger screens (avoid calc(75% + 8px)) */
 @media (min-width: 768px) {
@@ -1095,29 +1095,52 @@ body {
   }
 }
 
-/* 2) Prevent long text from breaking the layout */
+/* 2) Prevent long text from breaking the layout (but keep cells readable) */
 article,
 article p,
-article li,
+article li {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
+  max-width: 100%;
+}
+
 article td,
 article th {
-  overflow-wrap: break-word;   /* modern */
-  word-wrap: break-word;       /* older browsers */
-  word-break: break-word;      /* extra safety */
-  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;   /* no brutal breaking in the middle of words */
 }
 
-/* 3) Make tables inside the article responsive */
-article table {
-  width: 100%;
-  max-width: 100%;
-  table-layout: fixed;   /* cells share space and wrap */
-  border-collapse: collapse;
-  display: block;        /* allows horizontal scrolling if needed */
-  overflow-x: auto;
+/* 3) Tables: natural layout on desktop, scrollable on mobile */
+
+/* Desktop / tablets */
+@media (min-width: 768px) {
+  article table {
+    width: auto;          /* let columns take the space they need */
+    max-width: 100%;
+    table-layout: auto;   /* natural column sizing */
+    border-collapse: collapse;
+    display: table;       /* normal table layout */
+    overflow-x: visible;
+  }
 }
 
-/* allow cell content to wrap normally */
+/* Phones */
+@media (max-width: 767px) {
+  article table {
+    display: block;              /* allow horizontal scroll */
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    table-layout: auto;          /* still natural, just scrollable */
+    min-width: 480px;            /* prevents columns from becoming too skinny */
+  }
+}
+
+/* Cell white-space: normal so text wraps sensibly */
 article table th,
 article table td {
   white-space: normal;
