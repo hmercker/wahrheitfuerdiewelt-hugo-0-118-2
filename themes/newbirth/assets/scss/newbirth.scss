@@ -1112,7 +1112,7 @@ article th {
   word-break: normal;   /* no brutal breaking in the middle of words */
 }
 
-/* 3) Tables: natural layout on desktop, scrollable on mobile */
+/* 3) Tables: natural layout on desktop, contained on mobile */
 
 /* Desktop / tablets */
 @media (min-width: 768px) {
@@ -1129,14 +1129,12 @@ article th {
 /* Phones */
 @media (max-width: 767px) {
   article table {
-    display: block;              /* allow horizontal scroll */
-    width: 100%;
+    width: 100%;          /* stay inside the article background */
     max-width: 100%;
+    table-layout: auto;
     border-collapse: collapse;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    table-layout: auto;          /* still natural, just scrollable */
-    min-width: 480px;            /* prevents columns from becoming too skinny */
+    display: table;       /* no forced block/min-width => no overflow */
+    overflow-x: visible;
   }
 }
 
