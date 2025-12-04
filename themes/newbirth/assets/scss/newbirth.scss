@@ -1086,85 +1086,10 @@ body {
     text-align: center;
     margin-top: 5px;
 }
-/* ========= SoulTruth responsive fixes (revised) ========= */
-
-/* 1) Fix article width on larger screens (avoid calc(75% + 8px)) */
-@media (min-width: 768px) {
-  article {
-    width: 75%;      /* clean 75% instead of calc(75% + 8px) */
-  }
-}
-
-/* 2) Prevent long text from breaking the layout (but keep cells readable) */
-article,
 article p,
-article li {
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  word-break: normal;
-  max-width: 100%;
-}
-
+article li,
 article td,
 article th {
   overflow-wrap: break-word;
   word-wrap: break-word;
-  word-break: normal;   /* no brutal breaking in the middle of words */
-}
-
-/* 3) Tables: natural layout on desktop, contained on mobile */
-
-/* Desktop / tablets */
-@media (min-width: 768px) {
-  article table {
-    width: auto;          /* let columns take the space they need */
-    max-width: 100%;
-    table-layout: auto;   /* natural column sizing */
-    border-collapse: collapse;
-    display: table;       /* normal table layout */
-    overflow-x: visible;
-  }
-}
-
-/* Phones */
-@media (max-width: 767px) {
-  article table {
-    width: 100%;          /* stay inside the article background */
-    max-width: 100%;
-    table-layout: auto;
-    border-collapse: collapse;
-    display: table;       /* no forced block/min-width => no overflow */
-    overflow-x: visible;
-  }
-}
-
-/* Cell white-space: normal so text wraps sensibly */
-article table th,
-article table td {
-  white-space: normal;
-}
-
-/* 4) Make images inside the article responsive */
-article img {
-  max-width: 100%;
-  height: auto;
-}
-/* ===== Horizontal scroll instead of cutting off text ===== */
-
-/* Allow horizontal scrolling inside the article if content is wider */
-article {
-  overflow-x: auto;
-  overscroll-behavior-x: contain;
-}
-
-/* On phones: let tables be as wide as they need, and scroll inside the article */
-@media (max-width: 767px) {
-  article table {
-    display: block;                  /* enables scrolling area */
-    width: auto;                     /* don’t force 100% */
-    max-width: none;                 /* allow natural width */
-    margin: 0 auto;
-    border-collapse: collapse;
-    -webkit-overflow-scrolling: touch;  /* smooth scroll on iOS */
-  }
 }
