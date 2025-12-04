@@ -1086,3 +1086,45 @@ body {
     text-align: center;
     margin-top: 5px;
 }
+/* ========= SoulTruth mobile overflow fixes ========= */
+
+/* 1) Fix article width on larger screens (avoid calc(75% + 8px)) */
+@media (min-width: 768px) {
+  article {
+    width: 75%;      /* clean 75% instead of calc(75% + 8px) */
+  }
+}
+
+/* 2) Prevent long text from breaking the layout */
+article,
+article p,
+article li,
+article td,
+article th {
+  overflow-wrap: break-word;   /* modern */
+  word-wrap: break-word;       /* older browsers */
+  word-break: break-word;      /* extra safety */
+  max-width: 100%;
+}
+
+/* 3) Make tables inside the article responsive */
+article table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;   /* cells share space and wrap */
+  border-collapse: collapse;
+  display: block;        /* allows horizontal scrolling if needed */
+  overflow-x: auto;
+}
+
+/* allow cell content to wrap normally */
+article table th,
+article table td {
+  white-space: normal;
+}
+
+/* 4) Make images inside the article responsive */
+article img {
+  max-width: 100%;
+  height: auto;
+}
