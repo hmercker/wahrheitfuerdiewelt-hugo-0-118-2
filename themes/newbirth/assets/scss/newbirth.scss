@@ -1149,19 +1149,22 @@ article img {
   max-width: 100%;
   height: auto;
 }
-/* ===== Final mobile table containment tweaks ===== */
+/* ===== Horizontal scroll instead of cutting off text ===== */
 
-/* Clip any tiny horizontal overflow inside the article */
+/* Allow horizontal scrolling inside the article if content is wider */
 article {
-  overflow-x: hidden;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
 }
 
-/* On phones, make tables a bit narrower and centered */
+/* On phones: let tables be as wide as they need, and scroll inside the article */
 @media (max-width: 767px) {
   article table {
-    width: 98%;              /* slightly less than full width */
-    max-width: 98%;
-    margin: 0 auto;          /* center the table */
-    box-sizing: border-box;  /* include borders/padding inside width */
+    display: block;                  /* enables scrolling area */
+    width: auto;                     /* don’t force 100% */
+    max-width: none;                 /* allow natural width */
+    margin: 0 auto;
+    border-collapse: collapse;
+    -webkit-overflow-scrolling: touch;  /* smooth scroll on iOS */
   }
 }
