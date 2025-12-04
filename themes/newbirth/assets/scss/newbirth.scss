@@ -1093,3 +1093,18 @@ article th {
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
+/* --- Make article + tables solid white on small screens --- */
+@media (max-width: 767px) {
+  /* Make the entire content block white so there's no grey strip */
+  article {
+    background: #ffffff !important;   /* override bg-content texture on mobile */
+  }
+
+  /* Ensure tables fill the article width and match the background */
+  article table {
+    width: 100%;
+    max-width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+  }
+}
