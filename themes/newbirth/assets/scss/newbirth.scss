@@ -1149,3 +1149,19 @@ article img {
   max-width: 100%;
   height: auto;
 }
+/* ===== Final mobile table containment tweaks ===== */
+
+/* Clip any tiny horizontal overflow inside the article */
+article {
+  overflow-x: hidden;
+}
+
+/* On phones, make tables a bit narrower and centered */
+@media (max-width: 767px) {
+  article table {
+    width: 98%;              /* slightly less than full width */
+    max-width: 98%;
+    margin: 0 auto;          /* center the table */
+    box-sizing: border-box;  /* include borders/padding inside width */
+  }
+}
