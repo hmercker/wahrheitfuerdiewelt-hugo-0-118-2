@@ -1,13 +1,15 @@
 ---
-title: "Lektion 18 - Die geistliche Unreife der Menschheit überwinden - Band 3"
+title: "Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3"
 menu_title: ""
-description: "Lektion 18 - Die geistliche Unreife der Menschheit überwinden - Band 3"
+description: "Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True
 weight:
 ---
-### Lektion 18 - Die geistliche Unreife der Menschheit überwinden - Band 3
+### Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3
+
+*[Hier zum Mithören](https://www.youtube.com/watch?v=OS5dt69Ue34)*
 
 Jesus - empfangen durch Al Fike am 8. August 2022, Gibsons, BC, Kanada.
 

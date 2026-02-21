@@ -140,3 +140,7 @@ Jesus | [Lektion 14 - Das Gesetz des Begehrens - Band 3](https://www.youtube.com
 Jesus | [Lektion 15 - Die Erweiterung des Seelenbewusstseins mit Göttlicher Liebe - Band 3](https://www.youtube.com/watch?v=dp3zpmxrwm8) | 28 Juli 2022
 Jesus | [Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3](https://www.youtube.com/watch?v=JldfMcKH8ZY) | 2 August 2022
 Jesus | [Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3](https://www.youtube.com/watch?v=At4uv1CDGhU) | 5 August 2022
+Jesus | [Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3](https://www.youtube.com/watch?v=OS5dt69Ue34) | 8 August 2022
+Jesus | [Lektion 19 - Gottes Gesetze der Liebe und Harmonie - Band 3](https://www.youtube.com/watch?v=w4TGrnAPpHA) | 10 August 2022
+
+

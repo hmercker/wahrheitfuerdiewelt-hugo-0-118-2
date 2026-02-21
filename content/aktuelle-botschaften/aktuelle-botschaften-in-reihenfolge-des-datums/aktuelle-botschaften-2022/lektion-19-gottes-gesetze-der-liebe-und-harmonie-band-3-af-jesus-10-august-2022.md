@@ -9,6 +9,8 @@ weight:
 ---
 ### Lektion 19 - Gottes Gesetze der Liebe und Harmonie - Band 3
 
+*[Hier zum Mithören](https://www.youtube.com/watch?v=w4TGrnAPpHA)*
+
 Ich bin gekommen, um zu euch und den Menschen auf der Erdebene über spirituelle Wahrheiten und Wahrheiten über die Seele und ihre Beziehung zum Schöpfer zu sprechen. Der Schöpfer ist die Quelle der gesamten Liebe. Der Schöpfer hat die Anfänge allen Lebens geschaffen. Durch das Wirken seiner Gesetze existiert das Leben in einem Fluss von Harmonie und Orientierung. 
 
 Das [Gesetz des Fortschritts](/spirituelle-themen/spirituelle-gesetze/das-gesetz-des-fortschritts-wandels-und-wachstums/) ist ein wichtiger Aspekt davon, nicht nur für die Ergebnisse der menschlichen Bemühungen, sondern für das Funktionieren aller Elemente des Universums. So viele Menschen in eurer Welt verstehen nicht, dass ihr Leben eine Richtung und einen Sinn hat. Wenn ihr so wollt, können sie das Gesamtbild des Lebens nicht sehen und auch nicht, was das Leben dem Einzelnen an Fortschritten und Erfahrungen gebracht hat, nicht nur auf der materiellen Ebene, sondern auch in der geistigen Welt. So sind viele weiterhin von den tieferen Aspekten des Lebens geblendet und missverstehen seinen Zweck. Ich habe viel über diese Missverständnisse und Irrwege der Menschheit gesprochen.
