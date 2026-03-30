@@ -142,5 +142,4 @@ Jesus | [Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Wel
 Jesus | [Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3](https://www.youtube.com/watch?v=At4uv1CDGhU) | 5 August 2022
 Jesus | [Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3](https://www.youtube.com/watch?v=OS5dt69Ue34) | 8 August 2022
 Jesus | [Lektion 19 - Gottes Gesetze der Liebe und Harmonie - Band 3](https://www.youtube.com/watch?v=w4TGrnAPpHA) | 10 August 2022
-
-
+Jesus | [Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3](https://www.youtube.com/watch?v=GI_g6kx0Fv0) | 12 August 2022

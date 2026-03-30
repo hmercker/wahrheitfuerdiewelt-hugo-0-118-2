@@ -1,13 +1,15 @@
 ---
-title: "Lektion 20 - Es werden mehr hingebungsvolle Seelen benötigt, um Pforten zu bauen und das Lichtgitter zu erweitern - Band 3"
+title: "Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3"
 menu_title: ""
-description: "Lektion 20 - Es werden mehr hingebungsvolle Seelen benötigt, um Pforten zu bauen und das Lichtgitter zu erweitern - Band 3"
+description: "Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True
 weight:
 ---
-### Lektion 20 - Es werden mehr hingebungsvolle Seelen benötigt, um Pforten zu bauen und das Lichtgitter zu erweitern - Band 3
+### Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3
+
+*[Hier zum Mithören](https://www.youtube.com/watch?v=GI_g6kx0Fv0)*
 
 Jesus - empfangen durch Al Fike am 12. August 2022, Gibsons, BC, Kanada.
 
