@@ -13,7 +13,7 @@ weight:
 
 Jesus - empfangen durch Al Fike am 16. Juni 2021, Gibsons, BC, Kanada.
 
-Ich komme. Ich bin Jesus. Ich komme, um noch einmal zu euch zu sprechen, in der Hoffnung, dass diese Worte aufgezeichnet und mit anderen geteilt werden können. Heute möchte ich über die drei Bewusstseinszentren <sup id="a1">[1](#f1)</sup> eines jeden Individuums sprechen. Ich weiß, dass dies für euch überraschend sein mag, aber tatsächlich gibt es drei Zentren des Bewusstseins innerhalb derjenigen, die auf der Erdenebene leben.
+Ich komme. Ich bin Jesus. Ich komme, um noch einmal zu euch zu sprechen, in der Hoffnung, dass diese Worte aufgezeichnet und mit anderen geteilt werden können. Heute möchte ich über die drei Bewusstseinszentren [^1] eines jeden Individuums sprechen. Ich weiß, dass dies für euch überraschend sein mag, aber tatsächlich gibt es drei Zentren des Bewusstseins innerhalb derjenigen, die auf der Erdenebene leben.
 
 Das Erste ist der materielle Verstand mit all seinen linearen Schlussfolgerungen, seinen intensiven Emotionen und seinen Wahrnehmungen und der Realität, die von den fünf Sinnen des Körpers abgeleitet werden. Der materielle Verstand organisiert Informationen, die ihm von den fünf Sinnen und von den Dingen, die in diesem Verstand empfangen werden, gegeben werden, denn der materielle Verstand ist das Zentrum der Erinnerung an die materiellen Erfahrungen und Informationen, die in ihm gesammelt und organisiert werden. Tatsächlich könnte man ohne diesen Verstand auf der materiellen Ebene nicht überleben, da er lebenswichtige Funktionen und Fähigkeiten besitzt, um das Leben zu sichern und zu erhalten und dem Leben in gewisser Weise einen Sinn zu geben. Vieles ist über den materiellen Verstand erforscht und dokumentiert, daher werde ich nicht weiter auf diese Einzelheiten eingehen, da diese Informationen wohlbekannt und frei verfügbar sind.
 
@@ -84,4 +84,4 @@ Möge Gott euch auf dieser Reise segnen, geliebte Seelen. Ich danke euch, dass i
 Gott segne euch, Geliebte. Ich bin Jesus. Meine Liebe ist mit euch allen. Gott segne euch.
 <small>
 
-1. <large id="f1"> Die direkte Übersetzung von dem englischen Wort "mind" ist "Verstand".  Im deutschen wird das Wort "Verstand" nur im Singular benutzt.  Somit benutzen wir hier das Wort "Bewusstseinszentren" oder "Verstandesebenen" für eine Mehrzahl von "Verstand".[↩](#a1)
+[^1]: Die direkte Übersetzung von dem englischen Wort "mind" ist "Verstand".  Im deutschen wird das Wort "Verstand" nur im Singular benutzt.  Somit benutzen wir hier das Wort "Bewusstseinszentren" oder "Verstandesebenen" für eine Mehrzahl von "Verstand".
