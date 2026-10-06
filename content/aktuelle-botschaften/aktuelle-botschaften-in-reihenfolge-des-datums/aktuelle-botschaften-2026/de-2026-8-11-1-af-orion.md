@@ -1,0 +1,28 @@
+﻿---
+title: "Werdet euch eurer reflexartigen und unbewussten Verhaltensmuster bewusst"
+menu_title: ""
+description: "Werdet euch eurer reflexartigen und unbewussten Verhaltensmuster bewusst"
+date: 2026-10-06 00:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Werdet euch eurer reflexartigen und unbewussten Verhaltensmuster bewusst
+
+Orion - empfangen durch Al Fike am 11. August 2026, Direkte Stimme, Sechelt, BC, Kanada.
+
+Das Erwachen eurer Seele ist ein Akt des Glaubens. Es ist der Wunsch eurer Seele, Gott im Bewusstsein zu erkennen. Meine geliebten Freunde, ich bin Orion und ich bin gekommen, um euch zum Erwachen zu ermutigen, euch zu ermutigen, bewusst zu dieser wunderschönen Seele zu werden, in der ihr das Licht in euch tragt. Eure Seele ist von Gottes Liebe erfüllt und befindet sich im Prozess des Erwachens. Doch wie ihr wisst, gibt es Hindernisse.
+
+Ein großes Hindernis ist die Umgebung, in der ihr lebt – die Erdebene ist eine schwierige. Als Folge dieser Umgebung und eures Lebens darin gibt es viele Hindernisse, die errichtet wurden, um euch vor der Härte der Welt zu schützen – Hindernisse, die durch eure gesellschaftliche Prägung entstanden sind, Hindernisse, die aus Angst bestehen, Hindernisse aufgrund mentaler Vorurteile. All dies sind Dinge, die behoben werden können, wenn ihr dazu bereit seid.
+
+Es ist nicht so, als ob ihr in diesen Umständen feststeckt und euch nicht bewegen könnt. Ihr habt freien Willen und könnt wählen, was ihr tun wollt. Das größere Problem sind jene Dinge, derer ihr euch nicht bewusst seid – jene reflexartigen Muster in euch, die so alltäglich und so sehr Teil von euch sind, dass es schwerfällt, sie zu erkennen. Sie verbergen sich in euren täglichen Reaktionen auf das Leben. Dennoch müsst ihr zu der Erkenntnis gelangen, zu dem Bewusstsein dessen, was euch davon abhält, dieses Licht in der Welt zu sein, diese wunderschöne, erlöste und freie Seele. Deshalb habt ihr eure Freunde, ganz sicher eure Engelsfreunde und uns, von meinem Planeten und so vielen anderen. Wir sind hier, um euch zu helfen, zu verstehen und zu erkennen, was es ist, das euch von diesem wahren Seelenbewusstsein zurückhält – von diesem Erwachen, das direkt vor eurer Haustür liegt, so nah und doch zögert ihr. Selbst dieses Zögern ist oft reflexartig und ihr seid euch dessen nicht bewusst, aber es ist dennoch ein Zögern, und ihr ringt weiterhin mit den Hindernissen, von denen ich spreche.
+
+Dennoch gibt es Hoffnung, und es besteht die Möglichkeit, dass ihr in naher Zukunft von diesen Dingen befreit werdet, denn das Erwachen ist nahe und die Hindernisse sind nicht mehr so stark. Sie werden durch die Kraft der Liebe geschwächt. Indem ihr dieses große Geschenk der göttlichen Liebe weiterhin empfangt, stärkt ihr den Kern eures Wesens, der wiederum auf seine Weise euer Bewusstsein prägt. Unsere Hoffnung ist, dass der Kern eures Seins, der erwachte Teil, den noch nicht erwachten Teil ansteckt und somit ein Übergang, eine Bewusstseinsveränderung, stattfinden kann, während ihr weiter wächst, während die Kraft dieser Liebe weiterhin ihre Wirkung entfaltet und ihr langsam aus dem Schlummer der schlafenden Kinder der Erde erwacht.
+
+Ihr werdet anders werden. Ihr werdet die Welt anders sehen. Ihr werdet wissen, wer ihr wirklich seid. Ihr werdet wissen, wer Gott wirklich ist, und ihr werdet die Schichten und die Komplexität des Lebens verstehen. Nicht alle Schichten und nicht die gesamte Komplexität, aber genug, damit das Erwachen dauerhaft sein kann. Leider ist dieses Erwachen mit einer gewissen Härte verbunden, denn ihr beginnt, die Dunkelheit eurer Welt klar zu erkennen, die Atmosphäre, die in eurer Welt herrscht, sowie die Gedanken und Lebensumstände eurer Brüder und Schwestern, die diese Welt bewohnen und keine Ahnung haben, warum sie so unglücklich sind, warum sie so allein sind, warum sie in ihrer Seele um diese Leere trauern, die da ist.
+
+Hier könnt ihr helfen. Ihr könnt dazu beitragen, eure Brüder und Schwestern aufzuklären, ihnen den Weg zu zeigen, wie sie diese Leere, diesen Schmerz und dieses Leid heilen und Freude in ihr Wesen bringen können – wahres Bewusstsein und wahre Wahrheit –, damit sie von den Fesseln des menschlichen Daseins befreit werden. Meine Freunde, ich weiß, dass dies eine große Aufgabe ist. Doch ihr seid auf dem besten Weg zu eurer eigenen Heilung, und es wäre schade, wenn ihr diese Reise nicht teilen würdet – das, was euch widerfahren ist, euer eigenes Zeugnis und eure Erfahrung dessen, was wahrhaftig die Wahrheit der Liebe Gottes ist. Ihr werdet weiter wachsen, meine Freunde.
+
+Die Ewigkeit des Wachstums, des Erwachens, der Transformation – all diese Dinge folgen unmittelbar auf die Liebe Gottes. Möget ihr diese tiefe Freude erfahren. Mögt ihr diese Erfüllung erfahren, die die Leere auslöscht. Mögt ihr die Wahrheit erkennen und nach ihr leben, damit ihr frei seid, meine Freunde, wahrhaft frei, meine geliebten Freunde. Ihr schreitet weiter auf größeres Licht zu, um den Schöpfer des gesamten Universums kennenzulernen und eure Rolle in diesem Universum zu erkennen. Dies folgt unmittelbar auf diese Gabe der Liebe. Sie erweckt euch und verwandelt euch dann. Wir wandeln gemeinsam, meine Freunde. Wir freuen uns, das Licht in euch wachsen zu sehen, und wir sind bestrebt, euch beim Übergang vom Zustand menschlichen Irrtums und der Dunkelheit hin zu Licht, Freude und Freiheit zu helfen. Es steht euch zur Verfügung, meine Freunde, zum Greifen nah. Es wartet auf euren Wunsch, auf euren Eifer, in der Umarmung Gottes und in Gottes Liebe zu sein.
+
+Gott segne euch, mein Freund. Orion liebt euch. Gott segne euch alle, die Welt und die gesamte Menschheit. Gott segne euch. Orion liebt euch.
