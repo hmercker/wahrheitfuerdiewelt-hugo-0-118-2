@@ -1,0 +1,19 @@
+﻿---
+title: "Spirituelle Freude wird durch Gnade erlangt"
+menu_title: ""
+description: "Spirituelle Freude wird durch Gnade erlangt"
+date: 2026-11-04 00:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Spirituelle Freude wird durch Gnade erlangt
+
+Judas - empfangen durch Jimbeau Walsh am 20. Juli 2026, Online-Kreis des Lichts, Nashville, TN, USA.
+
+Ich bin es, euer Bruder und Freund Judas. Ich weiß, dass dies für so viele Seelen schwierige Zeiten sind. So viele Veränderungen auf der Erde, so viel Unruhe, so viel Unsicherheit, die Angst und Sorge hervorrufen, und ihr seid aufgefordert, euch über die Dunkelheit, die Turbulenzen und all jene Sorgen zu erheben, die die Menschheit so sehr bedrängen. Doch hier lebt ihr auf der Erde und seid von den Ereignissen betroffen, und es gibt diejenigen, die das Gefühl haben, in einer Schleife festzustecken. Ja, sogar jene, die sich auf dem spirituellen Weg der göttlichen Liebe befinden. Mal fühlen sie sich gesegnet, mal haben sie das Gefühl, in einem Kreislauf der Stagnation gefangen zu sein, und fragen sich: *„Wie komme ich aus diesem Zustand heraus?“* Deshalb möchte ich euch meine Gedanken dazu mitteilen.
+
+Das menschliche Dasein ist oft an rituelles Verhalten gebunden und für viele an *„Trostessen“* – was vieles sein kann: eine Familienfeier, ein überflüssiges Treffen mit Freunden oder einfach irgendeine Form der Ablenkung, die zwar einen Moment des Glücks schenkt, aber, da sie nicht dem Wesen des wahren Glücks entspricht, zu Depression und Verzweiflung führen kann. Ein Beispiel, das ich anführen möchte, ist, dass man sich manchmal nach einem Festtag einsam und von Liebe und Freude entfernt fühlt, als käme man von einem Rausch herunter. Ich möchte jedoch auf den Unterschied zwischen spiritueller Freude, Glück und Lachen einerseits und der menschlichen Existenz andererseits hinweisen. Denn spirituelle Freude wird in der Gnade, in der Liebe Gottes erlangt und geht über die Höhen und Tiefen menschlicher Emotionen hinaus. Sie beruht auf Glauben, Hoffnung und Freiheit und ist ein Segen, der den Menschen trägt. Typisches Lachen hingegen verschleiert oft eine Tragödie oder ist schlichtweg ein Spott über das Absurde; es bringt zwar einen Moment des Lachens, hinterlässt danach jedoch eine Leere.
+
+Wenn ihr also euer Verhalten betrachtet – das aus Ritualen besteht, die die menschliche Existenz nicht transzendieren –, werdet ihr beginnen, darüber nachzudenken, weniger an diesen Ritualen teilzunehmen, an jenen Umständen, die euch keine wahre Freude bringen und euch gewissermaßen in eurem Zustand gefangen halten. Lasst eure Gebete tief in euch eindringen. Gebt euren Schmerz und eure Sorgen, eure Ängste, eure Furcht, eure Unversöhnlichkeit, euer Urteilen – gebt all das Gott und bittet im Gegenzug um das große Geschenk der Liebe. Die Liebe, die eure Seele erfüllt und Veränderung bewirkt – echte Veränderung, nicht nur einen Moment der Glückseligkeit, sondern die eigentliche Substanz der Seelenverwandlung und des spirituellen Fortschritts. Das ist die Freude des Segens, der Gnade. Das ist die Freude, die jede Seele berührt, der ihr unter allen Umständen begegnet, die einen Raum wahrhaft erhellt; und so wie in der Botschaft vom Kampf gegen die Dunkelheit gelesen wurde, würde ich sagen: eine Kerze anzünden und das Licht der Liebe Gottes in eine Welt der Dunkelheit zu bringen. Dieser Unterschied in der wahren Freude ist für die Seele und das mit Gott im Einssein befindliche Herz vollkommen erkennbar – das Einssein eures Gebets mit eurem Schöpfer. Wenn ihr also loslasst, werdet ihr weder euer Mitgefühl noch eure Empathie für die Welt verlieren, aber ihr werdet auch nicht von ihren Unzulänglichkeiten heruntergezogen werden, und wie es in dem Lied heißt: Seid das Licht, seid die Liebe. Mögen der Friede, die Freude und die Glückseligkeit der Liebe Gottes mit euch sein, euch erfüllen und euch verwandeln.
+
