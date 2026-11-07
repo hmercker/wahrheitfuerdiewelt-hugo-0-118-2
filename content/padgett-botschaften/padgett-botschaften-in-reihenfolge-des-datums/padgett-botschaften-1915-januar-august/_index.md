@@ -1,7 +1,7 @@
 ---
 title: "Padgett Botschaften 1915 - Januar bis August"
 menu_title: "Padgett Botschaften 1915 - Januar bis August"
-description: "Author | Titel | Datum der Botschaft ---|---|--- Priscilla Stone | Erste Mitteilung von der Mutter von Dr Leslie R Stone | 1 Januar 1915 Jesus | Padgett …“"
+description: "Padgett Botschaften vom Jahre 1915 - Januar bis August"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: True

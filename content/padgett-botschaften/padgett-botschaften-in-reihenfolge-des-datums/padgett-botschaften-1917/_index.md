@@ -1,7 +1,7 @@
 ---
 title: "Padgett Botschaften 1917"
 menu_title: "Padgett Botschaften 1917"
-description: "Author | Titel | Datum der Botschaft ---|---|--- Jesus | Jesus korrigiert die Lehre der Ersten Kirche Christi | 2 Januar 1917 Helen Padgett | Helen …“"
+description: "Padgett Botschaften vom Jahre 1917"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: True

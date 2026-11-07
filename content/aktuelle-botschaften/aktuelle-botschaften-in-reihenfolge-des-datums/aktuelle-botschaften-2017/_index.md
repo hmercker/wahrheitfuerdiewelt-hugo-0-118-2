@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2017"
 menu_title: "Aktuelle Botschaften 2017"
-description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Jesus | Der Weg ist frei vor euch | 2 Januar 2017 Seretta Kem | Ein Neujahrssegen | 2 Januar …“"
+description: "Aktuelle Botschaften vom Jahre 2017"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True

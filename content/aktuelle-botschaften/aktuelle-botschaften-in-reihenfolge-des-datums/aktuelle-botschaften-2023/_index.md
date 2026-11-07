@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2023"
 menu_title: "Aktuelle Botschaften 2023"
-description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Jesus | Segen für das neue Jahr | 1 Januar 2023 Judas | Glaube jenseits von Furcht | 2 …“"
+description: "Aktuelle Botschaften vom Jahre 2023"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

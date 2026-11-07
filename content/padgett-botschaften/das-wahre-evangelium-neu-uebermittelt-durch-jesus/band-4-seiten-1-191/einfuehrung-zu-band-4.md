@@ -1,7 +1,7 @@
 ---
 title: "Einführung zu Band IV"
 menu_title: ""
-description: "Die Botschaften von Jesus und den Himmlischen Wesen hörte ich zum ersten Mal von einem völlig Fremden beim Mittagessen in einem Restaurant in New York …“"
+description: "Einführung zu Band IV"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

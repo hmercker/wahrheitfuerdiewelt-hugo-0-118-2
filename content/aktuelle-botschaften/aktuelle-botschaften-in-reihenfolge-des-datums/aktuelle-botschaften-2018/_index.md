@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2018"
 menu_title: "Aktuelle Botschaften 2018"
-description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Andreas | Ihr seid am Erwachen | 1 Januar 2018 Augustinus | Ihr betretet eine neue Phase des …“"
+description: "Aktuelle Botschaften vom Jahre 2018"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True

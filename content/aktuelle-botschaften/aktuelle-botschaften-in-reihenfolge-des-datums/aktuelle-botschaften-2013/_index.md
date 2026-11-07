@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2013"
 menu_title: "Aktuelle Botschaften 2013"
-description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Jesus | Neujahrsgruß | 1 Januar 2013 Ann Rollins | Kommunikation erfordert Hingabe und …“"
+description: "Aktuelle Botschaften vom Jahre 2013"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True

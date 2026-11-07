@@ -1,7 +1,7 @@
 ---
 title: "Goldie spricht als Lehrerin"
 menu_title: ""
-description: "Durch das Dienen wachsen wir selbst, und durch das Geben empfangen wir auch. Und so ist es, dass ich genau beobachte, jeder von euch in den Gruppen, die …“"
+description: "Goldie spricht als Lehrerin"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

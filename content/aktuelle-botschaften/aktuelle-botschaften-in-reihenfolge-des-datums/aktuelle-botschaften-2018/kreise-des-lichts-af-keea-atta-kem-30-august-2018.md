@@ -1,7 +1,7 @@
 ---
 title: "Kreise des Lichts"
 menu_title: ""
-description: "Ein Lichtkreis wird durch die Absichten derer gebildet, die sich im Kreis befinden, jener Sterblichen, die kommen, um gemeinsam zu beten. Wenn ihre …“"
+description: "Kreise des Lichts"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True
