@@ -1,7 +1,7 @@
 ---
 title: "Was verursacht in den Seelen der Menschen die Unruhe, die jetzt in der Welt herrscht?"
 menu_title: ""
-description: "Was verursacht in den Seelen der Menschen die Unruhe, die jetzt in der Welt herrscht?"
+description: "Samuel, empfangen durch James Padgett: „Nein, ich habe schon lange nicht mehr geschrieben, obwohl ich ziemlich oft bei dir war und die anderen Geister …“"
 date: 2020-08-01 06:25:48+00:288
 draft: False
 hidden: True

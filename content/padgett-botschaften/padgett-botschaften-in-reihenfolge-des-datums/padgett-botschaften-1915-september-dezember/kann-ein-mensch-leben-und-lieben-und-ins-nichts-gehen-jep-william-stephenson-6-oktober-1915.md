@@ -1,7 +1,7 @@
 ---
 title: "Kann ein Mensch leben und lieben und ins Nichts gehen?"
 menu_title: ""
-description: "Kann ein Mensch leben und lieben und ins Nichts gehen?"
+description: "William T. Stephenson, empfangen durch James Padgett: „Ich war Engländer, lebte in Liverpool und starb 1876. Was ich sagen möchte: Kann ein Mensch leben …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

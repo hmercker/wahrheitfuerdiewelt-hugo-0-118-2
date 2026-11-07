@@ -1,7 +1,7 @@
 ---
 title: "Werde ein Superstar"
 menu_title: ""
-description: "Werde ein Superstar"
+description: "Judas, empfangen durch Jimbeau Walsh: „Habt ihr euch jemals gefragt, warum Menschen sich wünschen, berühmt zu werden, prominent zu werden?“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass es Cäsar war der tatsächlich schrieb, wie auch andere"
 menu_title: ""
-description: "Helen bestätigt, dass es Cäsar war der tatsächlich schrieb, wie auch andere"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend einige Botschaften, die dir zeigen, was die Liebe für einige der …“"
 date: 2020-08-01 06:25:48+00:296
 draft: False
 hidden: True

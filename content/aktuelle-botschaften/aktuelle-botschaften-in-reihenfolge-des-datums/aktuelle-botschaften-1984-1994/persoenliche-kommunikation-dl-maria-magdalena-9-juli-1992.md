@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Kommunikation"
 menu_title: ""
-description: "Persönliche Kommunikation"
+description: "Maria Magdalena, empfangen durch David Lampron: „Und natürlich ist mein geliebter Seelenpartner 1 Jesus bei mir, der der Meister der Göttlichen Himmeln …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

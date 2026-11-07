@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Johannes geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Johannes geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Ich werde jetzt schreiben, denn ich möchte mein Zeugnis dem von Mary und Frau Stone hinzufügen, was die Wahrheit der …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

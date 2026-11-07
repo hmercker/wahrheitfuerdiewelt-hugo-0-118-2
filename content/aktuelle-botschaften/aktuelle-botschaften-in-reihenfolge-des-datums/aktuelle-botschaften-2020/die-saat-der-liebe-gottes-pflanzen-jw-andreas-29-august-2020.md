@@ -1,7 +1,7 @@
 ---
 title: "Die Saat der Liebe Gottes pflanzen"
 menu_title: ""
-description: "Die Saat der Liebe Gottes pflanzen"
+description: "Andreas, empfangen durch Jimbeau Walsh: „Wie ihr vielleicht wisst, kam ich zu Judas, als er in den Höllen war, um ihm Hoffnung zu geben, um ihn wissen zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

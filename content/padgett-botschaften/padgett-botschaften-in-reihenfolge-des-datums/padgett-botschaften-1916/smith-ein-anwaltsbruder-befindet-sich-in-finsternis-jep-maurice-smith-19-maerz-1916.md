@@ -1,7 +1,7 @@
 ---
 title: "Smith, ein Anwaltsbruder, befindet sich in Finsternis"
 menu_title: ""
-description: "Smith, ein Anwaltsbruder, befindet sich in Finsternis"
+description: "Maurice Smith, empfangen durch James Padgett: „Lass mich auch ein Wort sagen. Da Hay die Gelegenheit hatte zu schreiben, würde ich das auch gerne tun.“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bringt euren Körper, Verstand und Seele in Einklang und erlaubt eurer Seele, euer Fahrzeug zu steuern"
 menu_title: ""
-description: "Bringt euren Körper, Verstand und Seele in Einklang und erlaubt eurer Seele, euer Fahrzeug zu steuern"
+description: "Matthäus, empfangen durch Maureen Cardoso: „Wenn ihr das Licht eines anderen seht und das, was um sie herum ausstrahlt, ist das die Essenz ihrer Seele, die …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

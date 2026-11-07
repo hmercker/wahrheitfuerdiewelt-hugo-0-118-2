@@ -1,7 +1,7 @@
 ---
 title: "Die Erkenntnis der Wahrheit"
 menu_title: ""
-description: "Die Erkenntnis der Wahrheit"
+description: "Martin Luther, empfangen durch Helge Mercker: „Durch die Segnungen des intuitiven Wissens kommt der Ausdruck dessen, was in größerer Übereinstimmung mit …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

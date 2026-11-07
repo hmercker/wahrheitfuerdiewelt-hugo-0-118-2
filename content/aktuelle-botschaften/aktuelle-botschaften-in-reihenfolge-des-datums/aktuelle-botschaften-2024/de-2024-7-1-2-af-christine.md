@@ -1,7 +1,7 @@
 ---
 title: "Große Schuhe zu füllen"
 menu_title: ""
-description: "Große Schuhe zu füllen"
+description: "Christine [^1], empfangen durch Al Fike: „Du befindest dich auf einem sehr intensiven Entwicklungsprogramm. Deshalb musstest du das tun, was du getan hast …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Alles was ihr braucht ist die Göttliche Liebe"
 menu_title: ""
-description: "Alles was ihr braucht ist die Göttliche Liebe"
+description: "John Lennon, empfangen durch Al Fike: „Es ist gut, von meinem Freund Maharishi zu hören. Ich habe viel gelernt, seit ich in die spirituelle Welt gekommen bin.“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

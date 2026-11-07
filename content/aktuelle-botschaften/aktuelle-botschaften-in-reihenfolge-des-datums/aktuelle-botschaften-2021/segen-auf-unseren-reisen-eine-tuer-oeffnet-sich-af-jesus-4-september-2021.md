@@ -1,7 +1,7 @@
 ---
 title: "Segen auf unseren Reisen; eine Tür öffnet sich"
 menu_title: ""
-description: "Segen auf unseren Reisen; eine Tür öffnet sich"
+description: "Jesus, empfangen durch Al Fike: „Ihr werdet also von Gott gesegnet und auf euren Reisen von Gott geführt. Die große Reise des Erwachens der Seele wird eine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

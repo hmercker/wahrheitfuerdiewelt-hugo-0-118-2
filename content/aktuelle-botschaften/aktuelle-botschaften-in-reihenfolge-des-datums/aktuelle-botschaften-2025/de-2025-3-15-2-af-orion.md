@@ -1,7 +1,7 @@
 ---
 title: "Göttliche Liebe bringt Einheit in der Vielfalt"
 menu_title: ""
-description: "Göttliche Liebe bringt Einheit in der Vielfalt"
+description: "Orion, empfangen durch Al Fike: „Möge der Segen dieser großen Liebe Gottes mit euch sein, eure Seele weiterhin erfüllen, euch mit Liebe überschütten, euch …“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

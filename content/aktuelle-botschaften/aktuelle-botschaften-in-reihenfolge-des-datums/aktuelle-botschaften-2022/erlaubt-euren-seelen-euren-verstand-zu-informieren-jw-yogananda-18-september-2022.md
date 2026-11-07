@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt euren Seelen, euren Verstand zu informieren"
 menu_title: ""
-description: "Erlaubt euren Seelen, euren Verstand zu informieren"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Diejenigen unter euch, die das einfache Geheimnis entdeckt haben, ihre Seelen aufsteigen zu lassen, damit Gott …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

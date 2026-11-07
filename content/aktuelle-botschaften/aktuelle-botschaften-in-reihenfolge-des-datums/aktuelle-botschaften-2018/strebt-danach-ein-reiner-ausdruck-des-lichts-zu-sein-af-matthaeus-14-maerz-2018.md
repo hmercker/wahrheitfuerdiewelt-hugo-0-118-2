@@ -1,7 +1,7 @@
 ---
 title: "Strebt danach, ein reiner Ausdruck des Lichts zu sein"
 menu_title: ""
-description: "Strebt danach, ein reiner Ausdruck des Lichts zu sein"
+description: "Matthäus, empfangen durch Al Fike: „Wir haben über die Veränderungen gesprochen, die in dieser Welt kommen, über die Schwierigkeiten, die aus diesen …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Anziehung und der Bindung an dunkle spirituelle Wesen"
 menu_title: ""
-description: "Das Gesetz der Anziehung und der Bindung an dunkle spirituelle Wesen"
+description: "Josephus, empfangen von Al Fike: „Wie schön ist es, dass Lukas zu euren Seelen gesprochen hat, gesprochen in Worten und Liebe.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

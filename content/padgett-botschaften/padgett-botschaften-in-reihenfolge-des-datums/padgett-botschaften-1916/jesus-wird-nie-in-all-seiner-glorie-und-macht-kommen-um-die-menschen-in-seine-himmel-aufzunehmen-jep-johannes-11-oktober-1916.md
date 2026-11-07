@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird nie in all seiner Glorie und Macht kommen, um die Menschen in seine Himmel aufzunehmen"
 menu_title: ""
-description: "Jesus wird nie in all seiner Glorie und Macht kommen, um die Menschen in seine Himmel aufzunehmen"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich zuhörte, als du meine Botschaft last, und ich hörte eure Bemerkungen darüber, und …“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

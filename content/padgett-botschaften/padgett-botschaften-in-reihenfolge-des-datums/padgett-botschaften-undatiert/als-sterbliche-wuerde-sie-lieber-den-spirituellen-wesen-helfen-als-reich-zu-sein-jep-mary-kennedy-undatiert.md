@@ -1,7 +1,7 @@
 ---
 title: "Als Sterbliche würde sie lieber den spirituellen Wesen helfen, als reich zu sein"
 menu_title: ""
-description: "Als Sterbliche würde sie lieber den spirituellen Wesen helfen, als reich zu sein"
+description: "Mary Kennedy, empfangen durch James Padgett: „Es ist eine so großartige Sache: die Macht zu haben, diesen spirituellen Wesen zu helfen, und wenn ich ein …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

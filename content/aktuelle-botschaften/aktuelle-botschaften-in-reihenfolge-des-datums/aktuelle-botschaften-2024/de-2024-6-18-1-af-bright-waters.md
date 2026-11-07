@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Engel, der großes Licht bringt"
 menu_title: ""
-description: "Ein neuer Engel, der großes Licht bringt"
+description: "Bright Waters, empfangen durch Al Fike: „Wie der Große Weiße Geist eure Seelen berührt. Das bin ich schon seit langer Zeit.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

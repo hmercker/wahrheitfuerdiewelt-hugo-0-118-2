@@ -1,7 +1,7 @@
 ---
 title: "Wie man sich gesund hält"
 menu_title: ""
-description: "Wie man sich gesund hält"
+description: "Dr Gordon Leonard: „Ich würde gerne über Heilung sprechen, aber ich würde viel lieber zu euch darüber sprechen, wie ihr gesund bleiben könnt, denn das …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

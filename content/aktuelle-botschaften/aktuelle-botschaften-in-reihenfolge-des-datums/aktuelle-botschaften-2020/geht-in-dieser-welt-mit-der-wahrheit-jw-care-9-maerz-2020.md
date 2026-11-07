@@ -1,7 +1,7 @@
 ---
 title: "Geht in dieser Welt mit der Wahrheit"
 menu_title: ""
-description: "Geht in dieser Welt mit der Wahrheit"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ja, es war Johannes, der kam. Er wurde angezogen, wie viele hier.“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Parallelen zwischen Galiläa zur Zeit Jesu und heute"
 menu_title: ""
-description: "Parallelen zwischen Galiläa zur Zeit Jesu und heute"
+description: "Judas, empfangen durch H.: „Es handelt sich nicht um einen Bericht über die Geschichte Jesu, aber ich möchte diese Gelegenheit nutzen, um die Ereignisse in …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

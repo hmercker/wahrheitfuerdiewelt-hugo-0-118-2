@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden"
 menu_title: ""
-description: "Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden"
+description: "Jakobus, empfangen durch James Padgett: „Ich werde heute Abend nur ein paar Zeilen schreiben, da die Bedingungen nicht sehr gut sind, denn du bist müde und …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

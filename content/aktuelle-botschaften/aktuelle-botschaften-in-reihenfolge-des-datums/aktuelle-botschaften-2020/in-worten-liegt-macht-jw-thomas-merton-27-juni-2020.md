@@ -1,7 +1,7 @@
 ---
 title: "In Worten liegt Macht"
 menu_title: ""
-description: "In Worten liegt Macht"
+description: "Thomas Merton, empfangen durch Jimbeau Walsh: „Sie können die Seele berühren, wenn sie von der Seele kommen. Wenn sie aus dem Verstand kommen, berühren sie …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Tür wird geöffnet"
 menu_title: ""
-description: "Die Tür wird geöffnet"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich freue mich sehr, bei euch zu sein, und ja, ich war es. Im Moment ist es jedoch nur ein Abglanz des …“"
 date: 2022-01-01 06:25:48+00:73
 draft: False
 hidden: True

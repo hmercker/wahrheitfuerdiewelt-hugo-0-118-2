@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards ist in die Dritte Sphäre aufgestiegen"
 menu_title: ""
-description: "Professor Salyards ist in die Dritte Sphäre aufgestiegen"
+description: "Professor Salyards, empfangen durch James Padgett: „Deine Ehefrau erzählte mir heute, dass ich heute Abend schreiben würde und ich werde versuchen, mein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

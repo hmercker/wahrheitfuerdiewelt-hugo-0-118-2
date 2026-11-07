@@ -1,7 +1,7 @@
 ---
 title: "Erhebe deine Gedanken"
 menu_title: ""
-description: "Erhebe deine Gedanken"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte etwas über Gedanken sagen und nicht so sehr darüber, wie Gedanken zu Dingen werden, sondern wie …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

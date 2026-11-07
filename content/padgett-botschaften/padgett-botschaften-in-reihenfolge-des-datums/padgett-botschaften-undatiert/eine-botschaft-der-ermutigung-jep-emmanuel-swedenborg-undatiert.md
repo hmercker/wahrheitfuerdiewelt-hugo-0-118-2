@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft der Ermutigung"
 menu_title: ""
-description: "Eine Botschaft der Ermutigung"
+description: "Emmanuel Swedenborg, empfangen durch James Padgett: „Nun, es tut mir leid, sagen zu müssen, dass meine Arbeit ein Misserfolg war; und dass ich wegen dieser …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

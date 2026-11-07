@@ -1,7 +1,7 @@
 ---
 title: "Die Auswirkungen der Seelenentwicklung auf den physischen Verstand nach dem Tod"
 menu_title: ""
-description: "Die Auswirkungen der Seelenentwicklung auf den physischen Verstand nach dem Tod"
+description: "Caligula, empfangen durch James Padgett: „Du hast Recht, wenn du sagst, dass der Zustand des physischen Verstandes nach dem Tod durch die Entwicklung der …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

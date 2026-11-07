@@ -1,7 +1,7 @@
 ---
 title: "Helen kam auf den Ruf ihres Ehemanns"
 menu_title: ""
-description: "Helen kam auf den Ruf ihres Ehemanns"
+description: "Helen Padgett, empfangen durch James Padgett: „Ich habe deinen Ruf gehört und natürlich geantwortet, aber da war ein armes dunkles Wesen, das schreiben wollte.“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

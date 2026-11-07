@@ -1,7 +1,7 @@
 ---
 title: "Der Beginn des öffentlichen Dienstes Jesu"
 menu_title: ""
-description: "Der Beginn des öffentlichen Dienstes Jesu"
+description: "Judas, empfangen durch H.: „Was für eine Überraschung! Nun, mein lieber Bruder, du hast einige freie Tage genossen und deinen Körper mit Schinken und …“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

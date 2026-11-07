@@ -1,7 +1,7 @@
 ---
 title: "Der Wille Gottes"
 menu_title: ""
-description: "Der Wille Gottes"
+description: "Augustinus, empfangen durch Al Fike: „Es ist Augustinus, euer Lehrer und ich möchte zum Thema des Willens Gottes sprechen - wie er sich in eurem Leben und …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

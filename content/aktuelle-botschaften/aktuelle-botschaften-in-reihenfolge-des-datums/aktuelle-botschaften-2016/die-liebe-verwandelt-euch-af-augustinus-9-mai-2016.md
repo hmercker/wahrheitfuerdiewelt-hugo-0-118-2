@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe verwandelt euch"
 menu_title: ""
-description: "Die Liebe verwandelt euch"
+description: "Augustinus, empfangen durch Al Fike: „Diese Zustände, diese Negativitäten, diese Zustände, die nicht von Gott geschaffen sind, sondern von all denen um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

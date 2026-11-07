@@ -1,7 +1,7 @@
 ---
 title: "Das Wunder von Fátima und die Liebe Gottes"
 menu_title: ""
-description: "Das Wunder von Fátima und die Liebe Gottes"
+description: "Maria & White Eagle, empfangen durch Amada Reza: „[Lieber Gott, Quelle aller Liebe, ich möchte Dir mit all meiner Liebe dienen. Ich bete darum, dass Deine …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

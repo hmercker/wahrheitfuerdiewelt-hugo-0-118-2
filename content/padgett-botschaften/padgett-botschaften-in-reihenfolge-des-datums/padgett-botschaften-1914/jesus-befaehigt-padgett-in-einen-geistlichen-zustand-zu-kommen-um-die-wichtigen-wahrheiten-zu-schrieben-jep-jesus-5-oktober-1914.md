@@ -1,7 +1,7 @@
 ---
 title: "Jesus befähigt Padgett in einen geistlichen Zustand zu kommen, um die wichtigen Wahrheiten zu schrieben"
 menu_title: ""
-description: "Jesus befähigt Padgett in einen geistlichen Zustand zu kommen, um die wichtigen Wahrheiten zu schrieben"
+description: "Jesus, empfangen durch James Padgett: „Du darfst nicht so ungeduldig mit mir sein, dir alle Mysterien der Schöpfung Gottes zu erklären.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Verstand und die Seele"
 menu_title: ""
-description: "Der Verstand und die Seele"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte über Angelegenheiten des Verstandes und der Seele für diejenigen sprechen, die es schwierig finden …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

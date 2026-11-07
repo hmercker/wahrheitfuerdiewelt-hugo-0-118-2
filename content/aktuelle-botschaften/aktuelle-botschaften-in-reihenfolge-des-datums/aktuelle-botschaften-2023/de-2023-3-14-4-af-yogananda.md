@@ -1,7 +1,7 @@
 ---
 title: "Lehre über die Wahrheit"
 menu_title: ""
-description: "Lehre über die Wahrheit"
+description: "Yogananda, empfangen durch Al Fike: „Die Wahrheit kommt auf eurer Erdebene aus vielen verschiedenen Quellen, nicht wahr? Sie hängt von den Kulturen und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

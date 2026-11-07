@@ -1,7 +1,7 @@
 ---
 title: "Seid euch der Bedingungen bewusst, die euch umgeben"
 menu_title: ""
-description: "Seid euch der Bedingungen bewusst, die euch umgeben"
+description: "Augustinus, empfangen durch Al Fike: „Ich sehe, dass die Verpflichtungen dieser Welt euch immer noch manchmal ablenken, obwohl wir euch einen sehr bequemen …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

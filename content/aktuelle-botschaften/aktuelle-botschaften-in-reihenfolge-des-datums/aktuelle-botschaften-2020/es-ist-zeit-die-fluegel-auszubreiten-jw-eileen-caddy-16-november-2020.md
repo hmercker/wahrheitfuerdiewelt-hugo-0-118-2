@@ -1,7 +1,7 @@
 ---
 title: "Es ist Zeit die Flügel auszubreiten"
 menu_title: ""
-description: "Es ist Zeit die Flügel auszubreiten"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Für alle, die mich nicht kennen, möchte ich mich kurz vorstellen. Ich war die spirituelle Mitbegründerin der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

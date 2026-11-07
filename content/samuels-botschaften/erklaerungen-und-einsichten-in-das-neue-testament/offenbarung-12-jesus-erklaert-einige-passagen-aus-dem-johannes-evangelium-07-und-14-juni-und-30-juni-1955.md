@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 12 : Jesus erklärt einige Passagen aus dem Johannes-Evangelium"
 menu_title: ""
-description: "Offenbarung 12 : Jesus erklärt einige Passagen aus dem Johannes-Evangelium"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte heute auf einen gravierenden Irrtum eingehen, der im Johannes-Evangelium zu finden ist — Kapitel 5, Vers 22 …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Nonne - ist keine Katholikin mehr, sondern eine durch den Vater erlöste Christin"
 menu_title: ""
-description: "Eine Nonne - ist keine Katholikin mehr, sondern eine durch den Vater erlöste Christin"
+description: "Camelia, empfangen durch James Padgett: „Ja, ich war eine katholische Nonne. Ich möchte nur sagen, dass ich nicht länger eine Nonne oder Katholikin bin …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

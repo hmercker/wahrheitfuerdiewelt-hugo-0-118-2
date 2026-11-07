@@ -1,7 +1,7 @@
 ---
 title: "Wem würde Jesus predigen?"
 menu_title: ""
-description: "Wem würde Jesus predigen?"
+description: "Judas, empfangen durch H.: „Mein lieber H, wie ich dir gestern gesagt habe, beabsichtige ich, ein anderes Thema zu besprechen, das einen großen Einfluss …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

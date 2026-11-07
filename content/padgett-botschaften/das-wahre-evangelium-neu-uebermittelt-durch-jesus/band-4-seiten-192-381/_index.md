@@ -1,7 +1,7 @@
 ---
 title: "Band IV - Seiten 192 bis 381"
 menu_title: "Band IV - Seiten 192 bis 381"
-description: "Padgett Botschaften Band IV - Seiten 192 bis 381"
+description: "Das wahre Evangelium neu übermittelt durch Jesus Band IV - Seiten 192 bis 381: „Dies ist ein Index der Publikation, die von der Foundation Church of the …“"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

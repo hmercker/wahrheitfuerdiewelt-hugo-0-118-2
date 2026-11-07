@@ -1,7 +1,7 @@
 ---
 title: "Hintergründe warum James Padgett auserwählt wurde"
 menu_title: ""
-description: "Hintergründe warum James Padgett auserwählt wurde"
+description: "Salomo, empfangen von James Padgett: „Dass du für diese Arbeit ausgewählt wurdest, war nicht die Sache des Augenblicks, aber über einen langen Zeitraum …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

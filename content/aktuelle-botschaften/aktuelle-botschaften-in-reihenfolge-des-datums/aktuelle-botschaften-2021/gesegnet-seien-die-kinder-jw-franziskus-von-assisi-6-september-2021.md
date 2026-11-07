@@ -1,7 +1,7 @@
 ---
 title: "Gesegnet seien die Kinder"
 menu_title: ""
-description: "Gesegnet seien die Kinder"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Gesegnet seien die Kinder. Es ist leicht, Mitgefühl für die Kleinen zu haben, denn ihr spürt ihre …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wahre Freude kommt von der Seele"
 menu_title: ""
-description: "Wahre Freude kommt von der Seele"
+description: "Goldie, empfangen durch Maureen Cardoso: „Ihr alle lernt so viel über euch selbst, die Engel und die Aspekte eures gesamten Wesens als Menschen, die auf …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

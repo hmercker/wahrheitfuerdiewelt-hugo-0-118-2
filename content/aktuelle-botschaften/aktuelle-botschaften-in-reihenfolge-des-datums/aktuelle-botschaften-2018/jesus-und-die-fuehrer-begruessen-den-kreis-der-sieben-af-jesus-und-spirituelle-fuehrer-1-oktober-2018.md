@@ -1,7 +1,7 @@
 ---
 title: "Jesus und die Führer begrüßen den Kreis der Sieben"
 menu_title: ""
-description: "Jesus und die Führer begrüßen den Kreis der Sieben"
+description: "Empfangen durch Al Fike am 1. Oktober 2018, Gibsons, BC, Kanada: „Und so landet ihr an diesen Ufern wieder zusammen, um euren Widmungen des Dienstes …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

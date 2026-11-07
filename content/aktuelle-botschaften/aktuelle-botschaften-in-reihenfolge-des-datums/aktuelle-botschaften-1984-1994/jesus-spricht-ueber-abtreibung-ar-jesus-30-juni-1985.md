@@ -1,7 +1,7 @@
 ---
 title: "Jesus spricht über Abtreibung"
 menu_title: ""
-description: "Jesus spricht über Abtreibung"
+description: "Jesus, empfangen durch Amada Reza: „[Während der Trancebotschaft vom 30. Juni 1985 wurden dem Meister mehrere Fragen zur Abtreibung gestellt.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

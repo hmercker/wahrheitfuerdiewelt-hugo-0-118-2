@@ -1,7 +1,7 @@
 ---
 title: "Hans Henning Mercker an Betty und Judy"
 menu_title: ""
-description: "Hans Henning Mercker an Betty und Judy"
+description: "Andreas & Hans Henning Mercker, empfangen durch Al Fike: „Er möchte sagen, dass es ihm leid tut, dass er nicht leibhaftig für euch da sein konnte, aber er …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Bewußtsein der Seele"
 menu_title: ""
-description: "Das Bewußtsein der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte das Bewusstsein der Seele erläutern und zu eurem Verständnis davon beitragen. Viele in eurer Welt …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wisset, dass ihr benutzt werdet"
 menu_title: ""
-description: "Wisset, dass ihr benutzt werdet"
+description: "Petrus, empfangen durch Elisabeth Mack: „Wir kommen, weil wir euch lieben. Wir folgen in allem dem Willen Gottes, und Gottes Wille ist es, den Menschen zu …“"
 date: 2025-01-10 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein ernsthaftes Gespräch über die sich verändernden Bedingungen auf der Erde"
 menu_title: ""
-description: "Ein ernsthaftes Gespräch über die sich verändernden Bedingungen auf der Erde"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Die Welt befindet sich in großem Wandel und verschiebt sich jenseits eures Verständnisses.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

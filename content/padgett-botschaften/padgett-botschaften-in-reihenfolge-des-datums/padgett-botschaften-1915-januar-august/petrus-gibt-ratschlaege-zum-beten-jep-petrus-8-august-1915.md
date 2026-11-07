@@ -1,7 +1,7 @@
 ---
 title: "Petrus gibt Ratschläge zum Beten"
 menu_title: ""
-description: "Petrus gibt Ratschläge zum Beten"
+description: "Petrus, empfangen durch James Padgett: „Ich möchte dir sagen, dass du heute Abend dem Vater sehr nahe bist und dass Seine Liebe deine Seele zu einem großen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

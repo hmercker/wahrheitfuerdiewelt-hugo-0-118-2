@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme - Fortsetzung"
 menu_title: ""
-description: "Direkte Stimme - Fortsetzung"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte mit meiner gestrigen Botschaft über die Direkte Stimme fortfahren. Und dieser Teil der Botschaft wird …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

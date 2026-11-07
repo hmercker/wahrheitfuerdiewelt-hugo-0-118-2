@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone, unternimmt beträchtliche Anstrengungen, um ihren Kindern auf der Erde zu helfen"
 menu_title: ""
-description: "Priscilla Stone, unternimmt beträchtliche Anstrengungen, um ihren Kindern auf der Erde zu helfen"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich befinde mich nun in einer höheren Sphäre des Göttlichen Himmels und bin dementsprechend glücklich, und …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

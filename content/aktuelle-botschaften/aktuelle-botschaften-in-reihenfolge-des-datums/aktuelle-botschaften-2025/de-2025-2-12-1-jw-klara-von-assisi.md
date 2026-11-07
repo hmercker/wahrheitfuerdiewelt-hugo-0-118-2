@@ -1,7 +1,7 @@
 ---
 title: "Der Kreis der offenen Herzen"
 menu_title: ""
-description: "Der Kreis der offenen Herzen"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Wenn ihr betet und euer Auge eins wird, euer Wille mit dem großen Willen des himmlischen Vaters in …“"
 date: 2025-02-12 06:00:00+00:10
 draft: False
 hidden: True

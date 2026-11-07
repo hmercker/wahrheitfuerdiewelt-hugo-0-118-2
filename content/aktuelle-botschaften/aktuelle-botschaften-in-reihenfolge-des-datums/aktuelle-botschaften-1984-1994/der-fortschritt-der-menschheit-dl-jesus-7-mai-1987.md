@@ -1,7 +1,7 @@
 ---
 title: "Der Fortschritt der Menschheit"
 menu_title: ""
-description: "Der Fortschritt der Menschheit"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich euch allen eine Botschaft von einiger Wichtigkeit übermitteln, die sich mit einem Thema befasst …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Zentrum in der Stadt"
 menu_title: ""
-description: "Zentrum in der Stadt"
+description: "Andreas: „Ich brauche kein Licht in eure Mitte zu bringen, denn während ich hier stehe, meine Freunde, gibt es ein großes Licht.“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

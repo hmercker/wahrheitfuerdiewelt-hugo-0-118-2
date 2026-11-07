@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen uns einig sein in unseren Absichten"
 menu_title: ""
-description: "Wir müssen uns einig sein in unseren Absichten"
+description: "Augustinus: „Es enttäuscht mich, dass ich heute Abend kommen muss, da Samuel hier war, um eine Vorlesung zu halten und ihr sie nicht empfangen könnt.“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Beten für Höhere Liebe bringt viele Segnungen"
 menu_title: ""
-description: "Beten für Höhere Liebe bringt viele Segnungen"
+description: "Matthäus, empfangen durch Al Fike: „Ein großer Segen der Liebe des Vaters fließt in eure Seelen, ihr Geliebten, ihr schönen Freunde der Erde.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

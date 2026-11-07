@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist die wahre Währung des Lebens"
 menu_title: ""
-description: "Liebe ist die wahre Währung des Lebens"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Denn die Liebe ist die große vereinigende Kraft im Universum. Die Liebe ist die Essenz der Existenz Gottes.“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

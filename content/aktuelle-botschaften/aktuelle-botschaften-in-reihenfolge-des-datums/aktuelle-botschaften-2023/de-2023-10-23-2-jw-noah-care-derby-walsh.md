@@ -1,7 +1,7 @@
 ---
 title: "Das tiefe Vertrauen und die Schaffung von Heiligtümern"
 menu_title: ""
-description: "Das tiefe Vertrauen und die Schaffung von Heiligtümern"
+description: "Noah & Care Darby Walsh, empfangen durch Jimbeau Walsh: „Wir in den himmlischen Gefilden sind uns der Veränderungen auf der Erde, des politischen Klimas …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

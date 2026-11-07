@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt neue Kreise des Lichts"
 menu_title: ""
-description: "Ermutigt neue Kreise des Lichts"
+description: "Matthäus, empfangen durch Al Fike: „...[unverständlich] in eure Seelen einfließen zu lassen, geliebte Freunde. Es ist wichtig für die Welt, dass diese …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

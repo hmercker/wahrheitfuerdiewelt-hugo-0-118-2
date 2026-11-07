@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch selbst muss das Reich Gottes auf Erden errichten"
 menu_title: ""
-description: "Der Mensch selbst muss das Reich Gottes auf Erden errichten"
+description: "Lukas, empfangen durch James Padgett: „Ja, ich möchte heute Nacht ein paar Zeilen über ein Thema schreiben, über das noch nie geschrieben worden ist, und …“"
 date: 2020-08-01 06:25:48+00:274
 draft: False
 hidden: True

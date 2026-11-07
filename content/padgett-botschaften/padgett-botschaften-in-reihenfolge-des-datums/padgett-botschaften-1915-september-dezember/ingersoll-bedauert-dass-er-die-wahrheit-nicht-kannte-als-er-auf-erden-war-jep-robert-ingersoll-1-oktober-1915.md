@@ -1,7 +1,7 @@
 ---
 title: "Ingersoll bedauert, dass er die Wahrheit nicht kannte, als er auf Erden war"
 menu_title: ""
-description: "Ingersoll bedauert, dass er die Wahrheit nicht kannte, als er auf Erden war"
+description: "Robert Ingersoll, empfangen von James Padgett: „Ich habe mich noch nicht von der wunderbaren Erfahrung erholt, die ich in der Nacht machte, als Jesus seine …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

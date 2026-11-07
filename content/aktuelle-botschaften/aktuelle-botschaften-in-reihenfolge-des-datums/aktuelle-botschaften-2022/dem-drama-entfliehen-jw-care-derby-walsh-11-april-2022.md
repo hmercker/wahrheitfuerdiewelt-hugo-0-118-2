@@ -1,7 +1,7 @@
 ---
 title: "Dem Drama entfliehen"
 menu_title: ""
-description: "Dem Drama entfliehen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Und ganz sicher auch für Al und Jeanne auf ihren Reisen, wenn sie die Wahrheiten der göttlichen Liebe …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

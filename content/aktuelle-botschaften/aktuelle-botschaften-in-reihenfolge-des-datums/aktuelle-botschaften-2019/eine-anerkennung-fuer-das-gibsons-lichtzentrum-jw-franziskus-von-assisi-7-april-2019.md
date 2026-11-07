@@ -1,7 +1,7 @@
 ---
 title: "Eine Anerkennung für das Gibsons Lichtzentrum"
 menu_title: ""
-description: "Eine Anerkennung für das Gibsons Lichtzentrum"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Dieses Heiligtum ist ein Ort der Zuflucht für viele. Als ich mit meinen Freunden in den Hügeln um …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Gaben der Seele"
 menu_title: ""
-description: "Die Gaben der Seele"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „In dieser Zeit des Jahres drehen sich die Gedanken mehr und mehr um das Geben, die Fürsorge, die …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

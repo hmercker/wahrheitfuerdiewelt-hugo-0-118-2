@@ -1,7 +1,7 @@
 ---
 title: "Bringt eure Barrieren zu Gott"
 menu_title: ""
-description: "Bringt eure Barrieren zu Gott"
+description: "Barbare Davies, empfangen durch Maureen Cardoso: „Liebe Seele, die darauf wartet, dass ihre geliebte Freundin die Eingebungen der Engel empfängt, und ich …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

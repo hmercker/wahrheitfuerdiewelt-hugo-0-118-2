@@ -1,7 +1,7 @@
 ---
 title: "Die zweite formelle Botschaft von Jesus über die Natur seines Vaters als mein und dein Gott"
 menu_title: ""
-description: "Die zweite formelle Botschaft von Jesus über die Natur seines Vaters als mein und dein Gott"
+description: "Jesus, empfangen durch James Padgett: „Wie ich dir bereits gesagt habe werde ich heute Abend meine zweite Nachricht schreiben. Ich werde dir zum jetzigen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

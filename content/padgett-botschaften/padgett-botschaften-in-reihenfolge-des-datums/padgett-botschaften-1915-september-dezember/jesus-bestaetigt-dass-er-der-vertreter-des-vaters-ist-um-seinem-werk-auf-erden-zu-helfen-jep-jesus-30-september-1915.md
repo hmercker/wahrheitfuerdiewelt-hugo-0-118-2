@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt, dass er der Vertreter des Vaters ist, um Seinem Werk auf Erden zu helfen"
 menu_title: ""
-description: "Jesus bestätigt, dass er der Vertreter des Vaters ist, um Seinem Werk auf Erden zu helfen"
+description: "Jesus, empfangen von James Padgett: „Was du von Lukas in seiner letzten Botschaft erhalten hast, ist wahr. Der Höhepunkt deiner Sorgen ist erreicht und von …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

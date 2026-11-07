@@ -1,7 +1,7 @@
 ---
 title: "Lektion 7 - Die Natur unseres wachsenden Seelenbewusstseins - Band 3"
 menu_title: ""
-description: "Lektion 7 - Die Natur unseres wachsenden Seelenbewusstseins - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte meine Sichtweise darüber teilen, was Göttliches Bewusstsein ist, verglichen mit dem Bewusstsein des materiellen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

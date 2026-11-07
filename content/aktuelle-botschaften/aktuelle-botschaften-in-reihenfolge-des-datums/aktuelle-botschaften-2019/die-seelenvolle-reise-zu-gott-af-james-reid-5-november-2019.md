@@ -1,7 +1,7 @@
 ---
 title: "Die seelenvolle Reise zu Gott"
 menu_title: ""
-description: "Die seelenvolle Reise zu Gott"
+description: "James Reid, empfangen durch Al Fike: „So glücklich, dass wir alle die Gnade Gottes kennen, Seine wunderbare Liebe, und dass wir alle auf diesem Weg zu mehr …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

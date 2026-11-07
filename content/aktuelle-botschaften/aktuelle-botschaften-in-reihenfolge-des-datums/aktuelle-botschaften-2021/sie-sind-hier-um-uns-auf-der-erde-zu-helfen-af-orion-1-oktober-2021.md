@@ -1,7 +1,7 @@
 ---
 title: "Sie sind hier, um uns auf der Erde zu helfen"
 menu_title: ""
-description: "Sie sind hier, um uns auf der Erde zu helfen"
+description: "Orion, empfangen durch Al Fike: „Im Fluss Seiner Liebe kommt dieses Licht und diese Gnade, kommt alles, was gut ist, alles, was in Harmonie mit Seiner …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

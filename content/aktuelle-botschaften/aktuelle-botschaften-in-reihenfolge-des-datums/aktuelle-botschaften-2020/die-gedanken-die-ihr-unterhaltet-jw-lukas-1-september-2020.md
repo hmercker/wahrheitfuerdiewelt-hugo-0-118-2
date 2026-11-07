@@ -1,7 +1,7 @@
 ---
 title: "Die Gedanken, die ihr unterhaltet"
 menu_title: ""
-description: "Die Gedanken, die ihr unterhaltet"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Meine Brüder und ich und unsere beiden Schwestern waren heute bei euch und haben eurem Gespräch zugehört.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

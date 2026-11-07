@@ -1,7 +1,7 @@
 ---
 title: "Heilung durch Liebe erschafft den Reichtum der Seele"
 menu_title: ""
-description: "Heilung durch Liebe erschafft den Reichtum der Seele"
+description: "Matthäus, empfangen durch Al Fike: „Ich sehe die Bewegungen und Veränderungen in euren Seelen, Geliebte. Ich sehe eine große Bereitschaft und Sehnsucht …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

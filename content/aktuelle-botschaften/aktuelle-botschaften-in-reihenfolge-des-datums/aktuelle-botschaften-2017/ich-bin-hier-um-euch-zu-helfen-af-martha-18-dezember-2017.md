@@ -1,7 +1,7 @@
 ---
 title: "Ich bin hier um euch zu helfen"
 menu_title: ""
-description: "Ich bin hier um euch zu helfen"
+description: "Martha, empfangen durch Al Fike: „Habt Vertrauen in euer schönes Selbst und wisst, dass viele Veränderungen in euch stattgefunden haben.“"
 date: 2020-08-01 06:25:48+00:267
 draft: False
 hidden: True

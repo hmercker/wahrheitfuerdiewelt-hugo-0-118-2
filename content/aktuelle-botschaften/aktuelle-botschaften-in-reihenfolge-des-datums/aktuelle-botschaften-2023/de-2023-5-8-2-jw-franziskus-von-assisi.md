@@ -1,7 +1,7 @@
 ---
 title: "Vollkommenheit in der Gnade"
 menu_title: ""
-description: "Vollkommenheit in der Gnade"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Für den irdischen Reisenden kann ein Kompass helfen, die Richtung zu finden. Für den spirituellen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

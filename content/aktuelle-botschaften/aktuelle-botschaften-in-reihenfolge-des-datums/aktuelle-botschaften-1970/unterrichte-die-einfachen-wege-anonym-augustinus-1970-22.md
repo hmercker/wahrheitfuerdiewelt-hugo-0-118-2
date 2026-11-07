@@ -1,7 +1,7 @@
 ---
 title: "Unterrichte die einfachen Wege"
 menu_title: ""
-description: "Unterrichte die einfachen Wege"
+description: "Augustinus: „Es macht uns sehr glücklich, ein kleines Kind in unserer Mitte sitzen zu sehen, eine Seele, die lernt, ein Individuum zu werden, während sie …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

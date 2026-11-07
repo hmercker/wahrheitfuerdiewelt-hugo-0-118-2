@@ -1,7 +1,7 @@
 ---
 title: "Die Welt ist in Nebel und Grautöne gehüllt "
 menu_title: ""
-description: "Die Welt ist in Nebel und Grautöne gehüllt "
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Die Welt ist in Nebel gehüllt, in Grautöne, manche dunkel, manche heller, aber sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

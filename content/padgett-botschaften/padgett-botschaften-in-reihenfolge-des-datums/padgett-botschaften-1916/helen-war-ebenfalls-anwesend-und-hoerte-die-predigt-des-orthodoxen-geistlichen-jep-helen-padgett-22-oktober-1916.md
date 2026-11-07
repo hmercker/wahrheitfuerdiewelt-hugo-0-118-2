@@ -1,7 +1,7 @@
 ---
 title: "Helen war ebenfalls anwesend und hörte die Predigt des orthodoxen Geistlichen"
 menu_title: ""
-description: "Helen war ebenfalls anwesend und hörte die Predigt des orthodoxen Geistlichen"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich sehe, dass du den Abend sehr genossen hast und im Großen und Ganzen mit der Predigt des Predigers …“"
 date: 2020-08-01 06:25:48+00:241
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Grant hat seine geistlichen Augen geöffnet und sucht die Göttliche Liebe des Vaters"
 menu_title: ""
-description: "Grant hat seine geistlichen Augen geöffnet und sucht die Göttliche Liebe des Vaters"
+description: "Ulysses Grant 1, empfangen durch James Padgett: „Ich war der Präsident deines Landes und auch der General der Bundesarmeen. Nun, ich möchte sagen, dass ich …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

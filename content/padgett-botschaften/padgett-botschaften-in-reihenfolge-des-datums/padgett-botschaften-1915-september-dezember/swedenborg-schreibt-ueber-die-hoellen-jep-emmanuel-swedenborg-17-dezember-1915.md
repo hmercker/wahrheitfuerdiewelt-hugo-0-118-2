@@ -1,7 +1,7 @@
 ---
 title: "Swedenborg schreibt über die Höllen"
 menu_title: ""
-description: "Swedenborg schreibt über die Höllen"
+description: "Swedenborg, empfangen durch James Padgett: „Laß mich ein paar Zeilen schreiben, denn ich möchte dir einige Wahrheiten über das schreiben, worüber du und …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

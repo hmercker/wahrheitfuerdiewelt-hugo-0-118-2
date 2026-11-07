@@ -1,7 +1,7 @@
 ---
 title: "Der Magnetismus von Gottes Liebe"
 menu_title: ""
-description: "Der Magnetismus von Gottes Liebe"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Als ich auf der Erde wandelte, hatte der Meister uns gebeten, hinauszugehen und die gute Nachricht der Liebe Gottes …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Im Glauben gehen"
 menu_title: ""
-description: "Im Glauben gehen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich möchte euch sagen, dass ihr euch nicht um die Ereignisse in dieser Welt sorgen müsst, auch wenn ihr …“"
 date: 2022-03-14 06:00:00+00:10
 draft: False
 hidden: True

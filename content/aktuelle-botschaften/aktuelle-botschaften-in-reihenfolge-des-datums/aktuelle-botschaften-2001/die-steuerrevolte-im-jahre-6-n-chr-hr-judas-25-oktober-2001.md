@@ -1,7 +1,7 @@
 ---
 title: "Die Steuerrevolte im Jahre 6 n. Chr."
 menu_title: ""
-description: "Die Steuerrevolte im Jahre 6 n. Chr."
+description: "Judas, empfangen durch H.: „Wie ich sehe, bist du meinem Vorschlag gefolgt und hast ein wenig über die Steuerrevolte gelesen.“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

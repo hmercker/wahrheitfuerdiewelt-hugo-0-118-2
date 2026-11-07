@@ -1,7 +1,7 @@
 ---
 title: "Eure Wahrheit ist höher und mächtig"
 menu_title: ""
-description: "Eure Wahrheit ist höher und mächtig"
+description: "Matthäus, empfangen durch Al Fike: „Es gibt viele Sterbliche in eurer Welt, die sich den Mantel eines Lehrers angezogen haben und die selbstbewusst die …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

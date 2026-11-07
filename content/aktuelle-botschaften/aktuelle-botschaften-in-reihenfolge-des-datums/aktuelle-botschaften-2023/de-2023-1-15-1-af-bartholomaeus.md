@@ -1,7 +1,7 @@
 ---
 title: "Übernehmt die Verantwortung für dieses Geschenk Gottes um euch zu stärken"
 menu_title: ""
-description: "Übernehmt die Verantwortung für dieses Geschenk Gottes um euch zu stärken"
+description: "Bartholomäus, empfangen durch Al Fike: „Gott hat euch ein großes Geschenk gemacht, meine Freunde. Es liegt an euch, dieses Geschenk zu ehren und im …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

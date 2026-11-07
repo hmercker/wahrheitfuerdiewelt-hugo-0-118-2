@@ -1,7 +1,7 @@
 ---
 title: "Die politische Lage im Jahre 26 n. Chr. - Publius Pontius Pilatus"
 menu_title: ""
-description: "Die politische Lage im Jahre 26 n. Chr. - Publius Pontius Pilatus"
+description: "Judas, empfangen durch H.: „Ihr werdet schon müde von diesen \"politischen Themen des ersten Jahrhunderts\". Aber ich möchte eine Klarstellung über die …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

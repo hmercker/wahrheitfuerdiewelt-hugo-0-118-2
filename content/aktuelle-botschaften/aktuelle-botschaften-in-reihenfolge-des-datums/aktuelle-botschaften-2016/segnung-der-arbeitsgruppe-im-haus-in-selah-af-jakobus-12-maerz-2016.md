@@ -1,7 +1,7 @@
 ---
 title: "Segnung der Arbeitsgruppe im Haus in Selah"
 menu_title: ""
-description: "Segnung der Arbeitsgruppe im Haus in Selah"
+description: "Jakobus, empfangen durch Al Fike: „Das größte Gut, das ihr hier an diesem Ort erschafft, ist eure Liebe. Während ihr reinigt und euch abmüht und die Dinge …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

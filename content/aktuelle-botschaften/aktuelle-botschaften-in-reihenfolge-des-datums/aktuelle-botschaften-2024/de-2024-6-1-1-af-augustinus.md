@@ -1,7 +1,7 @@
 ---
 title: "Lektion über das Seelenbewusstsein"
 menu_title: ""
-description: "Lektion über das Seelenbewusstsein"
+description: "Augustinus, empfangen durch Al Fike: „Die Art und Weise, wie ihr die Wahrheit ausdrückt und lebt, wird sich entwickeln und verändern, wenn ihr in der Liebe …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

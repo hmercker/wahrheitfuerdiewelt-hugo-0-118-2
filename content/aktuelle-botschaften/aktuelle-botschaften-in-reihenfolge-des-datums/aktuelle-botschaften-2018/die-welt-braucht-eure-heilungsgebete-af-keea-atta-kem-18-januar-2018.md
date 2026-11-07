@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht eure Heilungsgebete"
 menu_title: ""
-description: "Die Welt braucht eure Heilungsgebete"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Dieses Licht kommt mit dem aufrichtigen Wunsch und Gebet, in diesem Raum zusammen zu sein, mit dem Wunsch tief in …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

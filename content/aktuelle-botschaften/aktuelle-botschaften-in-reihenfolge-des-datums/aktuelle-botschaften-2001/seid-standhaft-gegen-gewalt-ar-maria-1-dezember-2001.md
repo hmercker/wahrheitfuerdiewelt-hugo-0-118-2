@@ -1,7 +1,7 @@
 ---
 title: "Seid standhaft gegen Gewalt"
 menu_title: ""
-description: "Seid standhaft gegen Gewalt"
+description: "Maria, empfangen durch Amda Reza: „Es ist eine traurige Zeit für die vielen von euch, die entweder die Schrecken des Krieges beobachten, die von euren …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

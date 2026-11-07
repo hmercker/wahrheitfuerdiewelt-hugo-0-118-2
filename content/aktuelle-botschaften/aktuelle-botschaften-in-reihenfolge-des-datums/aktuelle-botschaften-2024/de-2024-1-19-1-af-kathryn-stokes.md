@@ -1,7 +1,7 @@
 ---
 title: "Das Experimentieren hat seinen Preis"
 menu_title: ""
-description: "Das Experimentieren hat seinen Preis"
+description: "Kathryn Stokes, empfangen durch Al Fike: „Wir hatten schöne gemeinsame Gebete. Ich möchte auf die etwas wechselvolle Geschichte dieser Bewegung der …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

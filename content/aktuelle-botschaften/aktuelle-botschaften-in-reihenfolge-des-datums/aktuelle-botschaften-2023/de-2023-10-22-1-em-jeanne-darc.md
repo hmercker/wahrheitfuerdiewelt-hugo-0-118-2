@@ -1,7 +1,7 @@
 ---
 title: "Gott will die Qualen seiner Kinder heilen"
 menu_title: ""
-description: "Gott will die Qualen seiner Kinder heilen"
+description: "Jenne d'Arc, empfangen durch Elisabeth Mack: „Er sieht die Ängste und den Mangel an Liebe und möchte seine Liebe über all diese Seelen gießen, um ihnen …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

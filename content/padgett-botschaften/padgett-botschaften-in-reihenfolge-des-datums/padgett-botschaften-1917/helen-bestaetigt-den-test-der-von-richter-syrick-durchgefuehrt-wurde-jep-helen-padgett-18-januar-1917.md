@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt den Test, der von Richter Syrick durchgeführt wurde"
 menu_title: ""
-description: "Helen bestätigt den Test, der von Richter Syrick durchgeführt wurde"
+description: "Helen, empfangen durch James Padgett: „Ich werde nicht viel schreiben, denn du bist nicht in guter Verfassung. Aber ich war heute Abend bei dir im …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

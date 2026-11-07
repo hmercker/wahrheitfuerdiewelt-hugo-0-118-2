@@ -1,7 +1,7 @@
 ---
 title: "Sühne und Läuterung der Seele"
 menu_title: ""
-description: "Sühne und Läuterung der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Wenn ihr nach Gott strebt, wenn ihr nach etwas Höherem und Besserem als dem, was ihr heute seid, strebt und …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt überall einen Kreis des Lichts haben"
 menu_title: ""
-description: "Ihr könnt überall einen Kreis des Lichts haben"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Was für einen schönen Kreis des Lichts habt ihr hier. Wir kommen hierher, wenn wir die Sehnsucht …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

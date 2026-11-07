@@ -1,7 +1,7 @@
 ---
 title: "Seelen, die nach Licht streben, werden den Wandel bringen"
 menu_title: ""
-description: "Seelen, die nach Licht streben, werden den Wandel bringen"
+description: "Petrus, empfangen durch Al Fike: „Die Liebe Gottes wird sich durch die Seelen, die nach Licht streben, in der Welt ausbreiten.“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

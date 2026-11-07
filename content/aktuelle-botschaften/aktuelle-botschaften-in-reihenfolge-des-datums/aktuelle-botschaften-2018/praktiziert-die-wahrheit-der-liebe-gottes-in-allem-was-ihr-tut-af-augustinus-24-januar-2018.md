@@ -1,7 +1,7 @@
 ---
 title: "Praktiziert die Wahrheit der Liebe Gottes in allem, was ihr tu"
 menu_title: ""
-description: "Praktiziert die Wahrheit der Liebe Gottes in allem, was ihr tu"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Möge die Liebe des Vaters weiterhin eure Seelen erfüllen und euch dem Schöpfer immer …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

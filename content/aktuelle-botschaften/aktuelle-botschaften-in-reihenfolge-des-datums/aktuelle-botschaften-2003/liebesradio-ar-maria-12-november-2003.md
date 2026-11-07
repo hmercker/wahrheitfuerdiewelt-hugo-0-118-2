@@ -1,7 +1,7 @@
 ---
 title: "Liebes-Radio"
 menu_title: ""
-description: "Liebes-Radio"
+description: "Maria, empfangen durch Amada Reza: „Du bist in guter Verfassung, um meine Gedanken über das Thema der Heilung, besonders der Heilung des Verstandes, zu …“"
 date: 2020-08-01 06:25:48+00:283
 draft: False
 hidden: True

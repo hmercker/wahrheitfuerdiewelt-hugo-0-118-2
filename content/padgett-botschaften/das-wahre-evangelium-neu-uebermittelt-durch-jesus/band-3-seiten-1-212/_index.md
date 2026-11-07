@@ -1,7 +1,7 @@
 ---
 title: "Band III - Seiten 1 bis 212"
 menu_title: "Band III - Seiten 1 bis 212"
-description: "Padgett Botschaften Band III - Seiten 1 bis 212"
+description: "Das wahre Evangelium neu übermittelt durch Jesus Band III - Seiten 1 bis 212: „Dies ist ein Index der Publikation, die von der Foundation Church of the New …“"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

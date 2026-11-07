@@ -1,7 +1,7 @@
 ---
 title: "Die Harmonie in einer Gruppe spiegelt die Harmonie innerhalb der Individuen wider"
 menu_title: ""
-description: "Die Harmonie in einer Gruppe spiegelt die Harmonie innerhalb der Individuen wider"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Wir waren an diesem Tag bei euch, als ihr euch durch diese wunderschöne Insel manövriert habt, in …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Erfüllung eurer Seele in Gottes Familie der Liebe"
 menu_title: ""
-description: "Die Erfüllung eurer Seele in Gottes Familie der Liebe"
+description: "Johannes der Geliebte, empfangen durch Al Fike: „Es ist wichtig, dass ihr euch bemüht, das Furnier eures eigenen Geisteszustandes und eurer Gedanken zu …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

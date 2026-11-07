@@ -1,7 +1,7 @@
 ---
 title: "Augustinus sagt, dass man sich auf viele der Lehren der Bibel nicht verlassen kann"
 menu_title: ""
-description: "Augustinus sagt, dass man sich auf viele der Lehren der Bibel nicht verlassen kann"
+description: "Augustinus, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich der heilige Augustinus bin, der nach dem Tod Jesu lebte und mit seinen Lehren …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

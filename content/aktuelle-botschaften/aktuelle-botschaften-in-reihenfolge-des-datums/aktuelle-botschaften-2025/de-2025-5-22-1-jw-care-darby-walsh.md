@@ -1,7 +1,7 @@
 ---
 title: "Die Klarheit der Seelenwahrnehmungen"
 menu_title: ""
-description: "Die Klarheit der Seelenwahrnehmungen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich möchte nicht, dass ihr beunruhigt seid, aber ich merke und sehe, dass einige von euch durch die …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

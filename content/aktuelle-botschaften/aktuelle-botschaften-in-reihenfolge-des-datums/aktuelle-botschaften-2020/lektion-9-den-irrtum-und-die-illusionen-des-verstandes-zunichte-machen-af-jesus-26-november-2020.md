@@ -1,7 +1,7 @@
 ---
 title: "Lektion 9 - Den Irrtum und die Illusionen des Verstandes zunichte machen"
 menu_title: ""
-description: "Lektion 9 - Den Irrtum und die Illusionen des Verstandes zunichte machen"
+description: "Jesus, empfangen durch Al Fike: „Wir sprechen oft über den menschlichen Zustand und darüber, dass dieser „die“ große Barriere zu Gott ist.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

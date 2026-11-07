@@ -1,7 +1,7 @@
 ---
 title: "Betet, um die heilige Essenz Gottes zu empfangen"
 menu_title: ""
-description: "Betet, um die heilige Essenz Gottes zu empfangen"
+description: "Jesus, empfangen durch Al Fike: „Möge Sein Licht, Sein Friede und Seine Liebe auf euch herabkommen und euch einhüllen und tragen, wenn ihr euch in diese …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

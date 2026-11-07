@@ -1,7 +1,7 @@
 ---
 title: "Die Seele Gottes"
 menu_title: ""
-description: "Die Seele Gottes"
+description: "Judas, empfangen durch H.: „Du hast Recht, mein lieber Bruder, es ist sinnlos, auf einen bestimmten Moment zu warten, um ein Buch mit unseren Botschaften …“"
 date: 2020-08-01 06:25:48+00:225
 draft: False
 hidden: True

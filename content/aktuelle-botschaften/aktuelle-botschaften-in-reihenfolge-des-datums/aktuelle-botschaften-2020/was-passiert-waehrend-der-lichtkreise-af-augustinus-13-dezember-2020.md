@@ -1,7 +1,7 @@
 ---
 title: "Was passiert während der Lichtkreise"
 menu_title: ""
-description: "Was passiert während der Lichtkreise"
+description: "Augustinus, empfangen durch Al Fike: „Wenn ihr so zusammenkommt, wie ihr es auf diese Weise tut, sind so viele von euch gekommen, um sich im Gebet zu vereinen.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

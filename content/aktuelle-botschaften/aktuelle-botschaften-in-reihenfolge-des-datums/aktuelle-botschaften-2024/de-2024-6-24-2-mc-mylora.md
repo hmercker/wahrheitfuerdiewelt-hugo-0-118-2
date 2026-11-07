@@ -1,7 +1,7 @@
 ---
 title: "Erwacht, Kinder Gottes"
 menu_title: ""
-description: "Erwacht, Kinder Gottes"
+description: "Mylora, empfangen durch Maureen Cardoso: „Die Erfahrungen, auf die ihr euch einlasst, helfen euch, ein wenig tiefer nach innen zu gehen, in die Essenz …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

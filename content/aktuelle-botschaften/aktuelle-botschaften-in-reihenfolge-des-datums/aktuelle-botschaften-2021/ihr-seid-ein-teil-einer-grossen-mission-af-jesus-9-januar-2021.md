@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid ein Teil einer großen Mission"
 menu_title: ""
-description: "Ihr seid ein Teil einer großen Mission"
+description: "Jesus, empfangen durch Al Fike: „Ich war mit euch in euren Gesprächen und freue mich, eine Harmonie und Liebe zu sehen, die ihr unter euch teilt, und dass …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

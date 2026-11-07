@@ -1,7 +1,7 @@
 ---
 title: "Sucht das Glück in allem, was ihr tut"
 menu_title: ""
-description: "Sucht das Glück in allem, was ihr tut"
+description: "Paulus: „Seid gesegnet, meine Kinder, Paulus. Den Frieden zu spüren, der heute Abend hier bei uns ist, macht uns sehr glücklich und wir wissen, liebe …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

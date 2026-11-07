@@ -1,7 +1,7 @@
 ---
 title: "Lektion 3 - Wie der Verstand und der Menschliche Zustand die Dunkelheit in dieser Welt Manifestiert"
 menu_title: ""
-description: "Lektion 3 - Wie der Verstand und der Menschliche Zustand die Dunkelheit in dieser Welt Manifestiert"
+description: "Jesus, empfangen durch Al Fike: „Es gibt einen Plan und einen Rhythmus für jene Themen, über die ich jetzt und in Zukunft sprechen werde, denn ich wünsche …“"
 date: 2020-10-01 06:25:48+00:73
 draft: False
 hidden: True

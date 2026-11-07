@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt eine Botschaft"
 menu_title: ""
-description: "Helen schreibt eine Botschaft"
+description: "Helen, empfangen durch James Padgett: „Jakobus hat ihm tatsächlich geschrieben und war sehr daran interessiert, da er sehr viel von dem Doktor hält und …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

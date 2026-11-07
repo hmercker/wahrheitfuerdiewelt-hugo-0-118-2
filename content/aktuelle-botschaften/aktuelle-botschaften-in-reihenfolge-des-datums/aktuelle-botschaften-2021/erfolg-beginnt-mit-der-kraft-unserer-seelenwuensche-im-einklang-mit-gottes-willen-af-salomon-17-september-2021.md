@@ -1,7 +1,7 @@
 ---
 title: "Erfolg beginnt mit der Kraft unserer Seelenwünsche im Einklang mit Gottes Willen"
 menu_title: ""
-description: "Erfolg beginnt mit der Kraft unserer Seelenwünsche im Einklang mit Gottes Willen"
+description: "Salomo, empfangen durch Al Fike: „Wie wunderbar ist es, in diesem Kreis des Lichts zusammen zu beten, dass ihr uns durch eure Gebete näher bringt, dass ihr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

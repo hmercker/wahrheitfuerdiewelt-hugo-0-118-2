@@ -1,7 +1,7 @@
 ---
 title: "Vom Licht angezogen wie Motten von der Flamme"
 menu_title: ""
-description: "Vom Licht angezogen wie Motten von der Flamme"
+description: "Augustinus, empfangen durch Al Fike: „Eure Seelen werden durch den großen Segen der Liebe des Vaters aktiviert. Seht ihr, was das in eurem Leben bedeutet?“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

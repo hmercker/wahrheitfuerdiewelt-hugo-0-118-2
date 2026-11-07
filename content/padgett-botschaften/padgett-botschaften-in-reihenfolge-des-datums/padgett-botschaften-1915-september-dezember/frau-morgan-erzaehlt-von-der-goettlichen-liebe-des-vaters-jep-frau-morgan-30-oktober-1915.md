@@ -1,7 +1,7 @@
 ---
 title: "Frau Morgan erzählt von der Göttlichen Liebe des Vaters"
 menu_title: ""
-description: "Frau Morgan erzählt von der Göttlichen Liebe des Vaters"
+description: "Frau Morgan, empfangen durch James Padgett: „Ich hörte ihn heute den Wunsch äußern, dass ich ihm schreiben soll und ich habe dann beschlossen, dass ich …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

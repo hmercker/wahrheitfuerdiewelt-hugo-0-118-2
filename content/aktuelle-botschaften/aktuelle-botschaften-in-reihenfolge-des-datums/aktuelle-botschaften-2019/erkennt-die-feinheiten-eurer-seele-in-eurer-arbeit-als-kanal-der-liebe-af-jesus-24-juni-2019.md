@@ -1,7 +1,7 @@
 ---
 title: "Erkennt die Feinheiten eurer Seele in eurer Arbeit als Kanal der Liebe"
 menu_title: ""
-description: "Erkennt die Feinheiten eurer Seele in eurer Arbeit als Kanal der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Ihr seid wahrhaftig gesegnet in euren Seelen und dieser Segen, der in euren Seelen wohnt, diese Liebe der Essenz Gottes …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

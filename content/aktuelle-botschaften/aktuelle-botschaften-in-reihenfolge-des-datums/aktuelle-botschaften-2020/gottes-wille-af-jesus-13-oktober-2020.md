@@ -1,7 +1,7 @@
 ---
 title: "Gottes Wille"
 menu_title: ""
-description: "Gottes Wille"
+description: "Jesus, empfangen durch Al Fike: „Möget ihr gesegnet sein, geliebte Kinder, durch die tiefe Liebe unseres himmlischen Vaters, die in eure Seelen strömt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

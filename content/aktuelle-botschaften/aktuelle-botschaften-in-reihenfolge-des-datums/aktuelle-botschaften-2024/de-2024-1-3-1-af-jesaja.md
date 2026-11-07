@@ -1,7 +1,7 @@
 ---
 title: "Wachsen und sich auf das Bewustsein der Seele zubewegen"
 menu_title: ""
-description: "Wachsen und sich auf das Bewustsein der Seele zubewegen"
+description: "Jesaja, empfangen durch Al Fike: „Die Welt, in der ihr lebt, bricht vor euren Augen zusammen. Auch wenn ihr in diesem Überfluss und Luxus sitzt, ist es …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt das Gesetz von Kommunikation und Verbindung"
 menu_title: ""
-description: "Johannes erklärt das Gesetz von Kommunikation und Verbindung"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend kurz über ein Thema schreiben, das ich für wichtig halte und das du vielleicht als …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

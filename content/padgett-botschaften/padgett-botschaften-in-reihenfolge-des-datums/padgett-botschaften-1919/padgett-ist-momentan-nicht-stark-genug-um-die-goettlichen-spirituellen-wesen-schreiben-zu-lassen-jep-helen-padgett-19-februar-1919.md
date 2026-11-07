@@ -1,7 +1,7 @@
 ---
 title: "Padgett ist momentan nicht stark genug um die göttlichen Spirituellen Wesen schreiben zu lassen"
 menu_title: ""
-description: "Padgett ist momentan nicht stark genug um die göttlichen Spirituellen Wesen schreiben zu lassen"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, dein Zustand ist heute Abend so gut wie schon lange nicht mehr und wir haben große Erwartungen, dass …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gesegnet sind die Liebeswilligen"
 menu_title: ""
-description: "Gesegnet sind die Liebeswilligen"
+description: "Hesekiel, empfangen durch Al Fike: „Seine Liebe erreicht euch und umhüllt euch, und der Vater ist begierig darauf, dass ihr diese Liebe einatmet, um diese …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

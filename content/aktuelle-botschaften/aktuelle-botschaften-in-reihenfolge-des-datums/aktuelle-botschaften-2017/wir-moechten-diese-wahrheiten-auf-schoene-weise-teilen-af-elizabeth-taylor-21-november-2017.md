@@ -1,7 +1,7 @@
 ---
 title: "Wir möchten diese Wahrheiten auf schöne Weise teilen"
 menu_title: ""
-description: "Wir möchten diese Wahrheiten auf schöne Weise teilen"
+description: "Elizabeth Taylor, empfangen durch Al Fike: „Auch ich möchte mich meinen Freunden anschließen und über die Herrlichkeiten Gottes und die Herrlichkeiten …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

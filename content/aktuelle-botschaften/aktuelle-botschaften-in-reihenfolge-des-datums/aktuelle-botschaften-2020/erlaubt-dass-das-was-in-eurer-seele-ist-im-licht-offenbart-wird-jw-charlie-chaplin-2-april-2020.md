@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt, dass das, was in eurer Seele ist, im Licht offenbart wird"
 menu_title: ""
-description: "Erlaubt, dass das, was in eurer Seele ist, im Licht offenbart wird"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Ihr kennt mich vielleicht als Charlie Chaplin oder ihr kennt mich nicht. Meine lieben Freunde, die Welt …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

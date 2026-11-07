@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt unsere Bemühungen"
 menu_title: ""
-description: "Bestätigt unsere Bemühungen"
+description: "Orion, empfangen durch Al Fike: „Möget ihr weiter in der Liebe des Vaters wachsen, diesem großen universellen Segen, der vom Schöpfer aller Dinge kommt.“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

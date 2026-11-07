@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins schreibt, dass der Meister so nah bei Herrn Padgett ist"
 menu_title: ""
-description: "Ann Rollins schreibt, dass der Meister so nah bei Herrn Padgett ist"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun mein Sohn, was für ein schöner und tröstlicher Brief, den du vom Herrn erhalten hast. Er war so liebevoll …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

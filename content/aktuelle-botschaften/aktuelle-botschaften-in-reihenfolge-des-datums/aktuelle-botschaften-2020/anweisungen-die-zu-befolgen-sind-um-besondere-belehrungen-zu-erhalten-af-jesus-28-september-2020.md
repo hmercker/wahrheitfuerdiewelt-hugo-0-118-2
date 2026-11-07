@@ -1,7 +1,7 @@
 ---
 title: "Anweisungen, die zu befolgen sind, um besondere Belehrungen zu erhalten"
 menu_title: ""
-description: "Anweisungen, die zu befolgen sind, um besondere Belehrungen zu erhalten"
+description: "Jesus, empfangen durch Al Fike: „Ich wünsche mir für dieses Instrument und für euch beide, dass ihr mir einen Vormittag in der Woche zur Verfügung stellt …“"
 date: 2020-09-28 06:25:48+00:73
 draft: False
 hidden: True

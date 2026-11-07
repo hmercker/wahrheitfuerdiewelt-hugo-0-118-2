@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid meine Engel auf Erden"
 menu_title: ""
-description: "Ihr seid meine Engel auf Erden"
+description: "Vater, empfangen durch Child of God: „Ihr seid meine Engel auf Erden. Eure Liebe zu mir berührt mich zutiefst.“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

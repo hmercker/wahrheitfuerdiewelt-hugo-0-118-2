@@ -1,7 +1,7 @@
 ---
 title: "White Eagle kommt, um Heilung anzubieten"
 menu_title: ""
-description: "White Eagle kommt, um Heilung anzubieten"
+description: "White Eagle, empfangen durch Jimbeau Walsh: „In meiner Zeit auf der Erde verließen wir uns auf den Großen Geist, den Schöpfer, Gott, für unsere spirituelle …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

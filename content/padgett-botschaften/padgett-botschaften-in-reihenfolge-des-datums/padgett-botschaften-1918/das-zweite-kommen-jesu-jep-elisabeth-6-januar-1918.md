@@ -1,7 +1,7 @@
 ---
 title: "Das zweite Kommen Jesu"
 menu_title: ""
-description: "Das zweite Kommen Jesu"
+description: "Elisabeth, empfangen durch James Padgett: „Lass mich ein Wort sagen und zwar, dass du gerade jetzt ein sehr glücklicher Mann bist und das solltest du auch …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins' Bestätigung das Jesus schrieb"
 menu_title: ""
-description: "Ann Rollins' Bestätigung das Jesus schrieb"
+description: "Ann Rollins, empfangen durch James Padgett: „War er nicht liebevoll und großartig? Du bist definitiv ein sehr bevorzugter Mann und ich wundere mich über …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

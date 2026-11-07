@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 4 : Jesus erklärt sich in der Synagoge von Nazareth öffentlich als Messias Gottes"
 menu_title: ""
-description: "Offenbarung 4 : Jesus erklärt sich in der Synagoge von Nazareth öffentlich als Messias Gottes"
+description: "Jesus, empfangen durch Dr Samuels: „Ich war bei dir, als du mit dem Doktor die Bibelstelle gelesen hast, da ich mich vor versammelter Gemeinde in der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

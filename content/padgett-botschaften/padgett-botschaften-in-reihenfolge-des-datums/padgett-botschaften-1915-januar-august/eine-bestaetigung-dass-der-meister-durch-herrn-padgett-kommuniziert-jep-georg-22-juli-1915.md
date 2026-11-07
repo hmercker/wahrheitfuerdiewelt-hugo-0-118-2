@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung, dass der Meister durch Herrn Padgett kommuniziert"
 menu_title: ""
-description: "Eine Bestätigung, dass der Meister durch Herrn Padgett kommuniziert"
+description: "Georg, empfangen durch James Padgett: „Ich war ein Krieger und kein Heiliger. Ich habe mich für die Sache der Christen gegen die Türken begeistert, und ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

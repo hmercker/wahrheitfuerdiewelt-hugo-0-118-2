@@ -1,7 +1,7 @@
 ---
 title: "Unschuldige Parteien des Terrorismus?"
 menu_title: ""
-description: "Unschuldige Parteien des Terrorismus?"
+description: "Judas, empfangen durch H.: „Mein lieber H , letzte Nacht bist du eingeschlafen und hast mich mitten in einer Nachricht verlassen, aber das macht nichts.“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

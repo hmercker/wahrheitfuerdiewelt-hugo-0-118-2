@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euer Herz für die Liebe Gottes"
 menu_title: ""
-description: "Öffnet euer Herz für die Liebe Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Dies ist eine Pforte des Lichts, dieses Heiligtum mit dem Licht, das sich bis zu den Göttlichen Himmeln …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

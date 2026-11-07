@@ -1,7 +1,7 @@
 ---
 title: Die Großmutter von Herrn Padgett beschreibt ihre Heimat in der zweiten Göttlichen Himmels-Sphäre"
 menu_title: ""
-description: "Die Großmutter von Herrn Padgett beschreibt ihre Heimat in der zweiten Göttlichen Himmels-Sphäre"
+description: "Ann Rollins, empfangen durch James Padgett: „Mein Zuhause besteht aus einem Material, von welchem ihr nicht das geringste Gegenstück auf der Erde besitzt …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

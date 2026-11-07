@@ -1,7 +1,7 @@
 ---
 title: "Seele, Verstand und Freier Wille"
 menu_title: ""
-description: "Seele, Verstand und Freier Wille"
+description: "Jesus, empfangen durch Al Fike: „Gesegnet seien die Kinder der Erde, die den Wunsch ihrer Seele zum Ausdruck bringen, in Einklang mit Gott zu sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

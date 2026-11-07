@@ -1,7 +1,7 @@
 ---
 title: "Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3"
 menu_title: ""
-description: "Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Möge Gott euch tief segnen und seine Liebe in eure Seele strömen lassen. Heute möchte ich über die Hindernisse sprechen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

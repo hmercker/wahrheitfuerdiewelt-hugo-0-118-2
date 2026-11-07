@@ -1,7 +1,7 @@
 ---
 title: "Ersetzte die Ambitionen des Verstandes durch die der Seele"
 menu_title: ""
-description: "Ersetzte die Ambitionen des Verstandes durch die der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ah, diese jungen Seelen zusammen im Gebet zu sehen, wie schön ist dieser Anblick? Wie schön sind eure Seelen, Geliebte.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

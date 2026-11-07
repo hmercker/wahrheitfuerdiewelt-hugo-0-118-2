@@ -1,7 +1,7 @@
 ---
 title: "Mehr Pforten in der Welt errichten"
 menu_title: ""
-description: "Mehr Pforten in der Welt errichten"
+description: "Seretta Kem, empfangen durch Al Fike: „Viele weitere Pforten des Lichts werden in der Welt aufgrund eurer Bemühungen und Gebete geöffnet.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das einzige Gebet, dass der Mensch an den Vater richten braucht"
 menu_title: ""
-description: "Das einzige Gebet, dass der Mensch an den Vater richten braucht"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte nur kurz ein Wort zu deinem Nutzen und zu dem deines Freundes sagen (Dr. Leslie Stone), und zwar, dass …“"
 date: 2020-08-01 06:25:48+00:276
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Teilt die Wahrheit der göttlichen Liebe"
 menu_title: ""
-description: "Teilt die Wahrheit der göttlichen Liebe"
+description: "Maria, empfangen durch Maureen Cardoso: „Oh meine Kinder, wenn das Herz sich sehnt und die Seele sucht, dann ist da nur Gott, der darauf wartet, euch mit …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

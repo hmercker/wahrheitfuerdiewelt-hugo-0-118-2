@@ -1,7 +1,7 @@
 ---
 title: "Glaube haben"
 menu_title: ""
-description: "Glaube haben"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ihr habt alle schon einmal den Ausdruck \"Schönwetterfreund\" gehört und wisst, was das bedeutet.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

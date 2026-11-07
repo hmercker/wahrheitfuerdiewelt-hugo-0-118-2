@@ -1,7 +1,7 @@
 ---
 title: "Medialität"
 menu_title: ""
-description: "Medialität"
+description: "Jesus, empfangen durch Kathryn Stokes: „In unseren Kreisen diskutieren wir über die Genauigkeit der Medialität, und wir suchen nach einer Anleitung, wie …“"
 date: 2020-08-01 06:25:48+00:271
 draft: False
 hidden: True

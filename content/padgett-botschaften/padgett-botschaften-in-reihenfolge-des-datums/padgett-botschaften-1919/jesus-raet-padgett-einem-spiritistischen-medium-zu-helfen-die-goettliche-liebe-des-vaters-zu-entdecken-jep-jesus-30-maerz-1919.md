@@ -1,7 +1,7 @@
 ---
 title: "Jesus rät Padgett einem spiritistischen Medium zu helfen, die Göttliche Liebe des Vaters zu entdecken"
 menu_title: ""
-description: "Jesus rät Padgett einem spiritistischen Medium zu helfen, die Göttliche Liebe des Vaters zu entdecken"
+description: "Jesus, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, denn es liegt mir am Herzen, dir zu sagen, dass du heute nicht in guter …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

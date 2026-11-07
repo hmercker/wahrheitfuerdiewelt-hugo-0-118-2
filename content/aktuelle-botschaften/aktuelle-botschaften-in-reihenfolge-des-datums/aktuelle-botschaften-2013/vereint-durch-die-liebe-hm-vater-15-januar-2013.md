@@ -1,7 +1,7 @@
 ---
 title: "Vereint durch die Liebe"
 menu_title: ""
-description: "Vereint durch die Liebe"
+description: "Vater, empfangen durch Helge Mercker: „Mein Kind, es ist dein Vater, Die Liebe, die durch jeden einzelnen von euch strahlt, soll sich vereinen und eine …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

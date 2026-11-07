@@ -1,7 +1,7 @@
 ---
 title: "Johannes berät  Padgett zu einem Plan der zu einem späteren Zeitpunkt offengelegt werden soll"
 menu_title: ""
-description: "Johannes berät  Padgett zu einem Plan der zu einem späteren Zeitpunkt offengelegt werden soll"
+description: "Johannes, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, da ich dir von etwas erzählen möchte, das für dich von Bedeutung sein könnte.“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

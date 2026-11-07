@@ -1,7 +1,7 @@
 ---
 title: "Lektion 3 - Heilung des menschlichen Zustands - Band 2"
 menu_title: ""
-description: "Lektion 3 - Heilung des menschlichen Zustands - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte das Thema besprechen, wie ihr den menschlichen Zustand auf eurer Erdenebene neutralisieren und bekämpfen könnt …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

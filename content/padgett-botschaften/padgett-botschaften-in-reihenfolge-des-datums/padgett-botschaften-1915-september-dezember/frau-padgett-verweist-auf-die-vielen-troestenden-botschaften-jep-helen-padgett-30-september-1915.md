@@ -1,7 +1,7 @@
 ---
 title: "Frau Padgett verweist auf die vielen tröstenden Botschaften"
 menu_title: ""
-description: "Frau Padgett verweist auf die vielen tröstenden Botschaften"
+description: "Helen, empfangen von James Padgett: „Du hast heute Abend die wunderbarsten tröstlichen Botschaften erhalten, die je einem Sterblichen überbracht wurden.“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Vicky Forests erste Botschaft aus dem Jenseits"
 menu_title: ""
-description: "Vicky Forests erste Botschaft aus dem Jenseits"
+description: "Keea Atta Kem & Vicky Forest, empfangen durch Al Fike: „[Keea:] Ich möchte euch eine Freundin von euch vorstellen, die ihr liebt, und wir werden ihr …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

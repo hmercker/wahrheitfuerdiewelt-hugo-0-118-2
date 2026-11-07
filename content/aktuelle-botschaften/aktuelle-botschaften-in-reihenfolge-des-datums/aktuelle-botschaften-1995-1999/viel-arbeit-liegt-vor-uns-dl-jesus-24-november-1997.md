@@ -1,7 +1,7 @@
 ---
 title: "Viel Arbeit liegt vor uns"
 menu_title: ""
-description: "Viel Arbeit liegt vor uns"
+description: "Jesus, empfangen durch David Lampron: „Deine kürzliche Krankheit, obwohl sie körperlich eine Zeit lang sehr belastend war, hatte auch ihre positiven Aspekte.“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

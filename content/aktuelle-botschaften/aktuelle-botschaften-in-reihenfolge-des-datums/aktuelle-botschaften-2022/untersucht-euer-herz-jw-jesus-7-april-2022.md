@@ -1,7 +1,7 @@
 ---
 title: "Untersucht euer Herz"
 menu_title: ""
-description: "Untersucht euer Herz"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Der Weg des in Gottes Liebe geöffneten Herzens ist der Weg der verwandelten Seele. Denn der Verstand kann euch …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

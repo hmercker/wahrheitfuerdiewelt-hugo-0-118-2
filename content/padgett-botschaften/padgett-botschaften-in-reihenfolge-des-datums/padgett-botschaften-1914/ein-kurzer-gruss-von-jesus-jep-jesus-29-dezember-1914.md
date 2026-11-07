@@ -1,7 +1,7 @@
 ---
 title: "Ein kurzer Gruss von Jesus"
 menu_title: ""
-description: "Ein kurzer Gruss von Jesus"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir nur eine Zeile schreiben. Ich war bei dir, wie du gelesen hast und sah, dass du gedacht hast, dass ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone freut sich, dass die Liebe des Vaters in seine Seele kommt"
 menu_title: ""
-description: "Priscilla Stone freut sich, dass die Liebe des Vaters in seine Seele kommt"
+description: "Priscilla Stone, empfangen durch James Padgett: „Lass mich nur ein Wort sagen. Ich möchte meinem Sohn so gerne sagen, wie glücklich ich heute Abend bin und …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Riddle ist Teil seiner Gruppe von Arbeitern und Beschützern aus dem spirituellen Bereich"
 menu_title: ""
-description: "Riddle ist Teil seiner Gruppe von Arbeitern und Beschützern aus dem spirituellen Bereich"
+description: "AG Riddle, empfangen von James Padgett: „Es ist lange her, dass ich dir geschrieben habe, und ich habe die Gelegenheit sehr vermisst.“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

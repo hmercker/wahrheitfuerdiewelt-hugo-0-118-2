@@ -1,7 +1,7 @@
 ---
 title: "Ich bin bei euch"
 menu_title: ""
-description: "Ich bin bei euch"
+description: "Albert Schweitzer, empfangen durch Al Fike: „Ich werde in meiner eigenen Sprache zu meinem Volk sprechen. Ich hoffe, meinen Landsleuten mehr Vernunft und …“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

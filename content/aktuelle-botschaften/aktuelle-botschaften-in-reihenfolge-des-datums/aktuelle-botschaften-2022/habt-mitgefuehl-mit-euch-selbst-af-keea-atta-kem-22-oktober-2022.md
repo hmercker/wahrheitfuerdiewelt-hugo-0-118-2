@@ -1,7 +1,7 @@
 ---
 title: "Habt Mitgefühl mit euch selbst"
 menu_title: ""
-description: "Habt Mitgefühl mit euch selbst"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ihr müsst zärtlich mit euch umgehen, geliebte Seelen, denn in diesem Stadium eurer Entwicklung seid ihr sehr …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

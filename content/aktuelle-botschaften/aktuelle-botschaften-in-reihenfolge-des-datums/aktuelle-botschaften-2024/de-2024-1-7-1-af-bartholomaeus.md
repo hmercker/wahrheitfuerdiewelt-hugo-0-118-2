@@ -1,7 +1,7 @@
 ---
 title: "Öffnet eure Seelen, um geheilt zu werden"
 menu_title: ""
-description: "Öffnet eure Seelen, um geheilt zu werden"
+description: "Bartholomäus, empfangen durch Al Fike: „Möge der Segen der Liebe des Vaters eure Seelen erfüllen. Jeder von euch hat seine Herausforderungen, seine …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

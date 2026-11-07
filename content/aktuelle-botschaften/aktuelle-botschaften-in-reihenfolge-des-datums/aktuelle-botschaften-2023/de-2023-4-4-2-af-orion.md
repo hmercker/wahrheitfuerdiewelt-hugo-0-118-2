@@ -1,7 +1,7 @@
 ---
 title: "Transformation erfordert die willentliche Akzeptanz, im Einklang mit Gottes Plan zu sein"
 menu_title: ""
-description: "Transformation erfordert die willentliche Akzeptanz, im Einklang mit Gottes Plan zu sein"
+description: "Orion, empfangen durch Al Fike: „Möge der Segen des Schöpfers euer sein und Seine Liebe in eure Seele fließen, so dass ihr von diesen sterblichen Zuständen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

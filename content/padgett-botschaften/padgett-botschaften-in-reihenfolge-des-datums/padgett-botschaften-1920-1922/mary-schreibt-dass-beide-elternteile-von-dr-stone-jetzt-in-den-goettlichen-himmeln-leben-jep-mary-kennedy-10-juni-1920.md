@@ -1,7 +1,7 @@
 ---
 title: "Mary schreibt, dass beide Elternteile von Dr. Stone jetzt in den Göttlichen Himmeln leben"
 menu_title: ""
-description: "Mary schreibt, dass beide Elternteile von Dr. Stone jetzt in den Göttlichen Himmeln leben"
+description: "Mary, empfangen durch James Padgett: „Erlaube mir, meinem Liebsten ein paar Zeilen zu schreiben, denn du hast mich enttäuscht, als er das letzte Mal hier war.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

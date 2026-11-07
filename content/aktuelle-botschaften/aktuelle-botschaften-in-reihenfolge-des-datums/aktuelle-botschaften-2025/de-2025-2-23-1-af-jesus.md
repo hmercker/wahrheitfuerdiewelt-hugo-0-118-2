@@ -1,7 +1,7 @@
 ---
 title: "Beabsichtigt, die Macht der Liebe Gottes für alle sichtbar zu demonstrieren"
 menu_title: ""
-description: "Beabsichtigt, die Macht der Liebe Gottes für alle sichtbar zu demonstrieren"
+description: "Jesus, empfangen durch Al Fike: „Möge der Heilige Geist euch mit seiner Liebe in großer Fülle erfüllen. Möget ihr diesen Segen, dieses Licht auf euch …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

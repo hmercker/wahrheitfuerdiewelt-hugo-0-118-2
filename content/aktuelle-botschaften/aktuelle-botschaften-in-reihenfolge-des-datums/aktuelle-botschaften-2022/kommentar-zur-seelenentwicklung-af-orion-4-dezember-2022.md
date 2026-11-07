@@ -1,7 +1,7 @@
 ---
 title: "Kommentar zur Seelenentwicklung"
 menu_title: ""
-description: "Kommentar zur Seelenentwicklung"
+description: "Orion, empfangen durch Al Fike: „Da ihr über Fragen und Kommentare zu meinen Mitteilungen diskutiert habt, bin ich gekommen, um einige Fragen zu klären und …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

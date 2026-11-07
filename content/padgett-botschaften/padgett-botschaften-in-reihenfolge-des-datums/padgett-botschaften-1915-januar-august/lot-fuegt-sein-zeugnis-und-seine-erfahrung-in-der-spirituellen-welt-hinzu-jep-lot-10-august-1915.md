@@ -1,7 +1,7 @@
 ---
 title: "Lot fügt sein Zeugnis und seine Erfahrung in der spirituellen Welt hinzu"
 menu_title: ""
-description: "Lot fügt sein Zeugnis und seine Erfahrung in der spirituellen Welt hinzu"
+description: "Lot, empfangen durch James Padgett: „Ich möchte mein Zeugnis zu dem der anderen aus den alten Zeiten hinzufügen, die dir geschrieben haben, dass Jesus lebt …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

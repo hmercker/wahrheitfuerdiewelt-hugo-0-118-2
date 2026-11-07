@@ -1,7 +1,7 @@
 ---
 title: "Wisst, dass ihr gebraucht werdet"
 menu_title: ""
-description: "Wisst, dass ihr gebraucht werdet"
+description: "Matthäus, empfangen durch Al Fike: „Gottes Plan entfaltet sich mit jedem Tag, nicht wahr? Die Segnungen und Geschenke, die ihr jeden Tag erhaltet, die …“"
 date: 2023-11-06 06:00:00+00:10
 draft: False
 hidden: True

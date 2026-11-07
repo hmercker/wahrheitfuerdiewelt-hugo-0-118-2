@@ -1,7 +1,7 @@
 ---
 title: "Das Fortschreiten der Seele zum Licht"
 menu_title: ""
-description: "Das Fortschreiten der Seele zum Licht"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn man die Weite der Schöpfung betrachtet, die Universen des Makrokosmos, die Universen des Mikrokosmos, lässt …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

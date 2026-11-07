@@ -1,7 +1,7 @@
 ---
 title: "Gott wird euch gebrauchen"
 menu_title: ""
-description: "Gott wird euch gebrauchen"
+description: "Maria, empfangen durch Al Fike: „Kostbare und geliebte Seelen, Gott wird euch viele Gelegenheiten vor Augen stellen, auf diese Weise und auf viele Arten in …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Werdet der Wind des Wandels"
 menu_title: ""
-description: "Werdet der Wind des Wandels"
+description: "Jakobus, empfangen durch Al Fike: „Segen für diejenigen, die in dieser Welt gereift sind und diejenigen, die ihre Reise auf dieser Welt gerade erst …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

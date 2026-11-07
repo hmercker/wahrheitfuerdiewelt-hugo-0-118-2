@@ -1,7 +1,7 @@
 ---
 title: "Nathan Plummer ist dankbar für die Hilfe, die ihm auf Erden von Dr. Stone gewährt wurde"
 menu_title: ""
-description: "Nathan Plummer ist dankbar für die Hilfe, die ihm auf Erden von Dr. Stone gewährt wurde"
+description: "Plummer, empfangen durch James Padgett: „Lass mich jetzt ein Wort sagen. Er mag nicht begreifen, wie die Dinge, die er mir sagte, diese Wirkung haben können.“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

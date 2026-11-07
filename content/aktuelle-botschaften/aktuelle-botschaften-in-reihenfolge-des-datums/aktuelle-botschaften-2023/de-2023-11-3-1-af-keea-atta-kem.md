@@ -1,7 +1,7 @@
 ---
 title: "Der Weg ist frei"
 menu_title: ""
-description: "Der Weg ist frei"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Der Weg, der vor uns liegt, ist frei. Auch wenn ihr in eurem Verstand die Einzelheiten, die Windungen und Kurven …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

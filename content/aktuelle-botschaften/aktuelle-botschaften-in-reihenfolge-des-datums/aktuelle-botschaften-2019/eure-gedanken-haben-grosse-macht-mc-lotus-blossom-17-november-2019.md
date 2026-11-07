@@ -1,7 +1,7 @@
 ---
 title: "Eure Gedanken haben große Macht"
 menu_title: ""
-description: "Eure Gedanken haben große Macht"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Ihr zieht mich in eure Nähe mit der Gelegenheit für meine lieben Schützlinge, die Verbindung mit euch zu …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

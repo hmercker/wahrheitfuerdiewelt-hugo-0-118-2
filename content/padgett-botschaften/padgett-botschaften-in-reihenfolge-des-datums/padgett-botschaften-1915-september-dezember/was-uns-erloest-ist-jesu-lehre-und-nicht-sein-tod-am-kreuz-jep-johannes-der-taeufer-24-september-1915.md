@@ -1,7 +1,7 @@
 ---
 title: "Was uns erlöst, ist Jesu Lehre und nicht sein Tod am Kreuz"
 menu_title: ""
-description: "Was uns erlöst, ist Jesu Lehre und nicht sein Tod am Kreuz"
+description: "Johannes der Täufer, empfangen von James Padgett: „Ich möchte dir gerne heute Nacht über eine gewisse Wahrheit schreiben, die du kennen musst, damit du in …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

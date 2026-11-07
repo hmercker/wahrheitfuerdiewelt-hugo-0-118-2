@@ -1,7 +1,7 @@
 ---
 title: "Ein Überblick über unseren Fortschritt"
 menu_title: ""
-description: "Ein Überblick über unseren Fortschritt"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr habt in der Tat Fortschritte gemacht. Ihr habt euch konsequent weiter auf der Skala des Lichts nach oben …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

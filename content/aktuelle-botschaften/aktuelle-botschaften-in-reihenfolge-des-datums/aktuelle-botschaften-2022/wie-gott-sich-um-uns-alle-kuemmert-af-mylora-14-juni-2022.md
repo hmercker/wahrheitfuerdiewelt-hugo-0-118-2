@@ -1,7 +1,7 @@
 ---
 title: "Wie Gott sich um uns alle kümmert"
 menu_title: ""
-description: "Wie Gott sich um uns alle kümmert"
+description: "Mylora, empfangen durch Al Fike: „Wie Gott sich um uns alle kümmert, was auch immer unsere Bedürfnisse sein mögen, in welcher Situation wir uns auch …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

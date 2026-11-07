@@ -1,7 +1,7 @@
 ---
 title: "Diskurs über die Wahrheit - Teil 2"
 menu_title: ""
-description: "Diskurs über die Wahrheit - Teil 2"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte unserem Diskurs darüber, wie man zur Wahrheit kommt, etwas hinzufügen. In eurer Welt beginnen fast alle …“"
 date: 2020-08-01 06:25:48+00:237
 draft: False
 hidden: True

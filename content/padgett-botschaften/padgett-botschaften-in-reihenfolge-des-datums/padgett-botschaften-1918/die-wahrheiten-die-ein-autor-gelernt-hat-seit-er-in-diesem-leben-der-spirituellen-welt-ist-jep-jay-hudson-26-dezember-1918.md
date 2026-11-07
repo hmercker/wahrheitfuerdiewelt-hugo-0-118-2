@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheiten, die ein Autor gelernt hat, seit er in diesem Leben der spirituellen Welt ist"
 menu_title: ""
-description: "Die Wahrheiten, die ein Autor gelernt hat, seit er in diesem Leben der spirituellen Welt ist"
+description: "Jay Hudson, empfangen durch James Padgett: „Du tust nicht das Richtige, wenn du dieses Buch liest 1 , denn es ist größtenteils Spekulation und führt zu …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

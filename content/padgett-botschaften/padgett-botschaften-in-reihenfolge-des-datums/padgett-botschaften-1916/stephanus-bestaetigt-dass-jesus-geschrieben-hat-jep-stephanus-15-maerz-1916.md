@@ -1,7 +1,7 @@
 ---
 title: "Stephanus bestätigt, dass Jesus geschrieben hat"
 menu_title: ""
-description: "Stephanus bestätigt, dass Jesus geschrieben hat"
+description: "Stephanus, empfangen durch James Padgett: „Der Meister war enttäuscht, aber er ist so liebevoll und gut, dass er sich nicht beklagte und nur wollte, dass …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

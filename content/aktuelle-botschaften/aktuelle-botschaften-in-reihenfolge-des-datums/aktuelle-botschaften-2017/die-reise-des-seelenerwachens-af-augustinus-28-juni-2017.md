@@ -1,7 +1,7 @@
 ---
 title: "Die Reise des Seelenerwachens"
 menu_title: ""
-description: "Die Reise des Seelenerwachens"
+description: "Augustinus, empfangen durch Al Fike: „Tief in euch rührt sich etwas, ein neues Erwachen, eine Öffnung jener Teile eurer Seele, die lange geschlafen haben …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

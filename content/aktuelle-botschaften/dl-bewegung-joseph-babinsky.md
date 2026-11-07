@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Joseph Babinsky"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Joseph Babinsky"
+description: "Aktuelle Botschaften empfangen von Joseph Babinsky: „Joseph wurde 1935 in New Jersey (U.S.A.) als zwölftes Kind und siebter Sohn geboren. Sein Vater wurde …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Folgt euren Träumen"
 menu_title: ""
-description: "Folgt euren Träumen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte über Träume sprechen. Habt ihr euch jemals gefragt, warum die Leute sagen: „Folge deinem Traum” …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Warum das Leben verkomplizieren?"
 menu_title: ""
-description: "Warum das Leben verkomplizieren?"
+description: "Goldie, empfangen durch Al Fike: „Oh, ihr habt den Pastor zum Nachdenken gebracht, meine Freunde. An diesem Ort des Gebets habt ihr eine Süße in diesen …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es beginnt mit einem einfachen Wunsch"
 menu_title: ""
-description: "Es beginnt mit einem einfachen Wunsch"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Spürt ihr den Frieden in diesem Raum?“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

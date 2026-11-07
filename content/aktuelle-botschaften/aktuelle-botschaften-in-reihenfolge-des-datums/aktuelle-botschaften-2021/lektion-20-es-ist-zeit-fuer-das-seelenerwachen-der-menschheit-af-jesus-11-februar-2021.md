@@ -1,7 +1,7 @@
 ---
 title: "Lektion 20 - Es ist Zeit für das Seelenerwachen der Menschheit "
 menu_title: ""
-description: "Lektion 20 - Es ist Zeit für das Seelenerwachen der Menschheit "
+description: "Jesus, empfangen durch Al Fike: „Möge die Gnade der Liebe Gottes weiterhin eure Seelen mit Seiner Essenz erfüllen. Ich möchte diesem Instrument für seine …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

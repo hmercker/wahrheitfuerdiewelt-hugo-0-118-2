@@ -1,7 +1,7 @@
 ---
 title: "Paulus weist das stellvertretende Sühneopfer Jesu als Weg der Erlösung zurück"
 menu_title: ""
-description: "Paulus weist das stellvertretende Sühneopfer Jesu als Weg der Erlösung zurück"
+description: "Paulus, empfangen durch James Padgett: „Das Buch über das \"stellvertretende Sühneopfer\", das du gerade gelesen hast - über das Lösegeld und das Blut Jesu …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

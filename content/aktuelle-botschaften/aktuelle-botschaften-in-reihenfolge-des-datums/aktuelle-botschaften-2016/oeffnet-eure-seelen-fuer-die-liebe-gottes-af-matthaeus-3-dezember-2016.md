@@ -1,7 +1,7 @@
 ---
 title: "Öffnet eure Seelen für die Liebe Gottes"
 menu_title: ""
-description: "Öffnet eure Seelen für die Liebe Gottes"
+description: "Matthäus, empfangen durch Al Fike: „Danke, dass ihr euch heute hier versammelt habt. Danke, dass ihr das Gebet um die Liebe des Vaters gesprochen habt …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

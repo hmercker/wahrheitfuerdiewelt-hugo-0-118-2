@@ -1,7 +1,7 @@
 ---
 title: "Der einzige Weg zum Reich Gottes in den Göttlichen Himmeln"
 menu_title: ""
-description: "Der einzige Weg zum Reich Gottes in den Göttlichen Himmeln"
+description: "Jesus, empfangen durch James Padgett: „Ich habe den Weg zum Reich Gottes auf der Erde und in der Geistigen Welt beschrieben, und nun werde ich den einzigen …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

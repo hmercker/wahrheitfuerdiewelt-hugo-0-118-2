@@ -1,7 +1,7 @@
 ---
 title: "Geht im Glauben an Gott und seinen Plan für euch und die Menschheit"
 menu_title: ""
-description: "Geht im Glauben an Gott und seinen Plan für euch und die Menschheit"
+description: "Maria, empfangen durch Al Fike: „Gott hat einen großen Plan und Sein Plan beinhaltet, diese Welt in Harmonie und Gleichgewicht zu bringen.“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

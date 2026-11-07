@@ -1,7 +1,7 @@
 ---
 title: "Viele der Heiligen beteten von ganzem Herzen um die Liebe Gottes"
 menu_title: ""
-description: "Viele der Heiligen beteten von ganzem Herzen um die Liebe Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Unser lieber Bruder James Padgett hat mir erlaubt, heute vorzutreten. Ich möchte damit beginnen, dass ich mir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt, dass Henry Ward Beecher geschrieben hat"
 menu_title: ""
-description: "Jesus bestätigt, dass Henry Ward Beecher geschrieben hat"
+description: "Jesus, empfangen durch James Padgett: „Es freut mich, dass deine Kräfte allmählich zurückkehren –und das sowohl physisch als auch spirituell.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

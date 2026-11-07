@@ -1,7 +1,7 @@
 ---
 title: "Die Demut lehren und Fehltritte vermeiden"
 menu_title: ""
-description: "Die Demut lehren und Fehltritte vermeiden"
+description: "Jesaja, empfangen durch Al Fike: „Mögen die großen Segnungen der Liebe Gottes in Ewigkeit euch gehören. Diejenigen, die hingebungsvoll und treu sind …“"
 date: 2025-01-29 06:00:00+00:10
 draft: False
 hidden: True

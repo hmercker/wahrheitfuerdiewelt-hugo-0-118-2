@@ -1,7 +1,7 @@
 ---
 title: "Anweisungen für die Direkte Stimme"
 menu_title: ""
-description: "Anweisungen für die Direkte Stimme"
+description: "Jakobus: „Ich wünsche mir zuerst, dass zwischen uns, mir und euch, ein Band der Liebe aufgebaut wird, damit ihr mich als jemanden kennen lernt, der euch …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

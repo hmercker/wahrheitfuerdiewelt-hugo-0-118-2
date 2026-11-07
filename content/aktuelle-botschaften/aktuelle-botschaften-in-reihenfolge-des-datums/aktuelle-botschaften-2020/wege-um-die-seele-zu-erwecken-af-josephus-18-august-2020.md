@@ -1,7 +1,7 @@
 ---
 title: "Wege, um die Seele zu erwecken"
 menu_title: ""
-description: "Wege, um die Seele zu erwecken"
+description: "Josephus, empfangen durch Al Fike: „Obwohl die Seelen der meisten unvollständig bleiben, ein Gefäß halb voll, voller Leben, voller Licht, aber dennoch …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

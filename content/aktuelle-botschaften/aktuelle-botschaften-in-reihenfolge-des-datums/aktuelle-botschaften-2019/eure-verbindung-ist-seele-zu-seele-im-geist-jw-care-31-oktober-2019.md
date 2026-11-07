@@ -1,7 +1,7 @@
 ---
 title: "Eure Verbindung ist Seele zu Seele im Geist"
 menu_title: ""
-description: "Eure Verbindung ist Seele zu Seele im Geist"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich freue mich sehr für jeden von euch, dass ihr euch auf diese Reise begebt. Ich spüre eure Sorgen, eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Sicht der Engel auf die Zeit"
 menu_title: ""
-description: "Die Sicht der Engel auf die Zeit"
+description: "Matthäus, empfangen von Al Fike: „Ihr alle spürt die Ebbe und Flut der Zeit in eurem irdischen Dasein. Sie bestimmt so vieles in eurem Leben und in eurem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

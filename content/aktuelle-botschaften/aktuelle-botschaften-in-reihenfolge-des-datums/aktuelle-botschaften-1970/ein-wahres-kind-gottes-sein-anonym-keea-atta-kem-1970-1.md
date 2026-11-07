@@ -1,7 +1,7 @@
 ---
 title: "Ein wahres Kind Gottes sein"
 menu_title: ""
-description: "Ein wahres Kind Gottes sein"
+description: "Keea Atta Kem: „Es sind heute Abend viele aus dem himmlischen Sphären, und sie sind sehr darauf bedacht, einen Kanal für die Direkte Stimme geöffnet zu …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

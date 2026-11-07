@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Licht in den dunklen Bedingungen, die euch bedrängen"
 menu_title: ""
-description: "Seid ein Licht in den dunklen Bedingungen, die euch bedrängen"
+description: "Orion, empfangen durch Al Fike: „Meine Freunde, Orion kommt wieder einmal, um euch zu helfen, euch zu erheben, zu lehren und zu inspirieren.“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

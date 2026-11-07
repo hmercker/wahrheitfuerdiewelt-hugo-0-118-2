@@ -1,7 +1,7 @@
 ---
 title: "Der Stoff, aus dem euer Leben ist"
 menu_title: ""
-description: "Der Stoff, aus dem euer Leben ist"
+description: "Maria, empfangen durch Amada Reza: „[Lieber und liebender Vater/Mutter, ich bete um ein Einströmen Deiner Göttlichen Liebe in meine Seele zu dieser Zeit …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

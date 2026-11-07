@@ -1,7 +1,7 @@
 ---
 title: "Schutz vor Verletzung"
 menu_title: ""
-description: "Schutz vor Verletzung"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „Aber wie du siehst, sind wir nicht immer in der Lage, dich vor dir selbst zu schützen. Wenn …“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes hörte das Gespräch das Herr Padgett mit Dr. Stone führte und befürwortet die Idee"
 menu_title: ""
-description: "Johannes hörte das Gespräch das Herr Padgett mit Dr. Stone führte und befürwortet die Idee"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass du heute Abend in einem besseren Zustand bist, als du es bisher warst, und ich würde …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

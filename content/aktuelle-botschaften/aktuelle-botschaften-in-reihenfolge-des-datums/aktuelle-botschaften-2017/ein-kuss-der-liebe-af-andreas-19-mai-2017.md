@@ -1,7 +1,7 @@
 ---
 title: "Ein Kuss der Liebe"
 menu_title: ""
-description: "Ein Kuss der Liebe"
+description: "Andreas, empfangen durch Al Fike: „Möge der Heilige Geist eure Seelen berühren, ihr Geliebten, damit ihr euch für diese Heilige Berührung öffnet und aufblüht.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wisst, dass diese Liebe ewig ist"
 menu_title: ""
-description: "Wisst, dass diese Liebe ewig ist"
+description: "Klara von Asissi, empfangen durch Jimbeau Walsh: „Wir leben im Licht und in der Liebe des himmlischen Vaters, der dieses Licht und diese Liebe auch auf …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

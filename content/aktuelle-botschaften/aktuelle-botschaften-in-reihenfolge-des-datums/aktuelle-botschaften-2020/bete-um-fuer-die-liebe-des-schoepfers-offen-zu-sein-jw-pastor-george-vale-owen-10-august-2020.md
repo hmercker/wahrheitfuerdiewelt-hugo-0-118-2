@@ -1,7 +1,7 @@
 ---
 title: "Bete, um für die Liebe des Schöpfers offen zu sein"
 menu_title: ""
-description: "Bete, um für die Liebe des Schöpfers offen zu sein"
+description: "Pastor George Vale Owen, empfangen durch Jimbeau Walsh: „Einige kennen mich vielleicht als Pastor Owen. 1 Ich war Pastor einer kleinen Gemeinde in England …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

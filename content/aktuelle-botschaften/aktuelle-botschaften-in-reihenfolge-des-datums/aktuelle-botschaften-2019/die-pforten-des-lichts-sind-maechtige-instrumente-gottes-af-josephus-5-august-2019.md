@@ -1,7 +1,7 @@
 ---
 title: "Die Pforten des Lichts sind mächtige Instrumente Gottes"
 menu_title: ""
-description: "Die Pforten des Lichts sind mächtige Instrumente Gottes"
+description: "Josephus, empfangen durch Al Fike: „Ich möchte über die Bedeutung dieser Pforten des Lichts sprechen, die in eurer Welt errichtet wurden, und wie unser …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

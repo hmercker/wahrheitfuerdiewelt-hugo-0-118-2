@@ -1,7 +1,7 @@
 ---
 title: "Eröffnungsbotschaft "
 menu_title: ""
-description: "Eröffnungsbotschaft "
+description: "Augustinus, empfangen durch Al Fike: „Sind wir bereit, uns auf die Reise zu begeben, um die Potenziale in euch zu erwecken? Habt ihr den Glauben in euch …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

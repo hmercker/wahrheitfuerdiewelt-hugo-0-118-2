@@ -1,7 +1,7 @@
 ---
 title: "Kommt, um seine Fehler auf der Erde zu korrigieren"
 menu_title: ""
-description: "Kommt, um seine Fehler auf der Erde zu korrigieren"
+description: "Augustinus, empfangen durch Al Fike: „Ich glaube, ihr kennt mich aus der Geschichte: Ich war einst Bischof von Hippo und bin als einer der Gründer der …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

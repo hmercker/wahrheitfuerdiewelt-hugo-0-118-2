@@ -1,7 +1,7 @@
 ---
 title: "Grüße von Martin Luther"
 menu_title: ""
-description: "Grüße von Martin Luther"
+description: "Martin Luther, empfangen durch Al Fike: „Ihr habt euch zu dieser Arbeit verpflichtet. Ich werde während der gesamten Zeit, in der ihr zusammen seid, bei …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

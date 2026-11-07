@@ -1,7 +1,7 @@
 ---
 title: "Juhu! Das ist wundervoll!"
 menu_title: ""
-description: "Juhu! Das ist wundervoll!"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Ihr habt mich in Irland gespürt und ihr habt erkannt, dass ihr nicht zu meinem Sommerplatz dort gehen …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

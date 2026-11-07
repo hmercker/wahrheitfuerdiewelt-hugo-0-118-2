@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt Göttliche Liebe, natürliche Liebe, seelenverwandte Liebe und andere Lieben"
 menu_title: ""
-description: "Helen erklärt Göttliche Liebe, natürliche Liebe, seelenverwandte Liebe und andere Lieben"
+description: "Helen, empfangen durch James Padgett: „Nachdem ich hinübergegangen war, sah ich, dass ich einen Weg suchen musste, um mit dir in meiner spirituellen …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

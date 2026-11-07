@@ -1,7 +1,7 @@
 ---
 title: "Euer Leben wird einen Sinn haben, wenn ihr Gottes Willen und Wahrheit folgt "
 menu_title: ""
-description: "Euer Leben wird einen Sinn haben, wenn ihr Gottes Willen und Wahrheit folgt "
+description: "Jesus, empfangen durch Al Fike: „Euer Treffen wurde von uns gesegnet und etwas inszeniert, weil es wichtig ist, dass ihr alle die Gelegenheit habt in …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

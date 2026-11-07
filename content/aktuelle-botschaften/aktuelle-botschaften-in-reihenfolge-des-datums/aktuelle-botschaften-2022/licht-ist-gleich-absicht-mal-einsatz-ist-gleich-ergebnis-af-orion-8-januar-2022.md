@@ -1,7 +1,7 @@
 ---
 title: "Licht = Absicht x Einsatz = Ergebnis"
 menu_title: ""
-description: "Licht = Absicht x Einsatz = Ergebnis"
+description: "Orion, empfangen durch Al Fike: „Möget ihr weiterhin im Licht wachsen und wahrhaftig Gottes Kinder im Licht sein. Mögen wir weiterhin in Harmonie …“"
 date: 2022-01-27 06:00:00+00:00
 draft: False
 hidden: True

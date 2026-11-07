@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr dem Ruf Gottes folgen?"
 menu_title: ""
-description: "Werdet ihr dem Ruf Gottes folgen?"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich war einst ein Bewohner Ägyptens, vor vielen tausend Jahren, und jetzt wohne ich im himmlischen Königreich.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

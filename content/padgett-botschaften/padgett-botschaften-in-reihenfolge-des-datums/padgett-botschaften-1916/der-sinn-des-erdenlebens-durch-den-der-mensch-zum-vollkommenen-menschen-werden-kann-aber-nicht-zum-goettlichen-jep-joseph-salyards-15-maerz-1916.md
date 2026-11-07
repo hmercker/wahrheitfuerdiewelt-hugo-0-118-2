@@ -1,7 +1,7 @@
 ---
 title: "Der Sinn des Erdenlebens, durch den der Mensch zum vollkommenen Menschen werden kann - aber nicht zum göttlichen"
 menu_title: ""
-description: "Der Sinn des Erdenlebens, durch den der Mensch zum vollkommenen Menschen werden kann - aber nicht zum göttlichen"
+description: "Prof Salyards, empfangen durch James Padgett: „Nun, ich habe dir von dem Sinn und Zweck des Lebens des Menschen auf Erden erzählt, und von der …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

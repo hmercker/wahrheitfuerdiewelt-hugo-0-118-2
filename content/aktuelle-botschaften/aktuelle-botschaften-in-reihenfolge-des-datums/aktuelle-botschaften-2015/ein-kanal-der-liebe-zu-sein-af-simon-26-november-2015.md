@@ -1,7 +1,7 @@
 ---
 title: "Ein Kanal der Liebe zu sein"
 menu_title: ""
-description: "Ein Kanal der Liebe zu sein"
+description: "Simon, empfangen durch Al Fike: „Jeder von euch wünscht sich, dieser Kanal der Liebe zu sein, und in der Tat ist jeder von euch ein Kanal der Liebe zu Gott.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

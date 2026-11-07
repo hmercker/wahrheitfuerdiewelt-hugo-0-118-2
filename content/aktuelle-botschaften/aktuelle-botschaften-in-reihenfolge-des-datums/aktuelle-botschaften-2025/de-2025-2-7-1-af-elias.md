@@ -1,7 +1,7 @@
 ---
 title: "Kommt, um das Leben zu bekräftigen und die Wahrheit zu stärken"
 menu_title: ""
-description: "Kommt, um das Leben zu bekräftigen und die Wahrheit zu stärken"
+description: "Elias, empfangen durch Al Fike: „Seid gesegnet, ihr alle auf der Erdebene. Denn es ist die Gabe des Lebens, die Gott dieser Erde und allen auf ihr gegeben …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Bedeutung der Aussprüche Jesu"
 menu_title: ""
-description: "Die wahre Bedeutung der Aussprüche Jesu"
+description: "Judas, empfangen durch H.: „Weißt du, das heutige Thema macht mich fast traurig, weil ich mich mit einer außergewöhnlichen Schönheit beschäftigen möchte …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

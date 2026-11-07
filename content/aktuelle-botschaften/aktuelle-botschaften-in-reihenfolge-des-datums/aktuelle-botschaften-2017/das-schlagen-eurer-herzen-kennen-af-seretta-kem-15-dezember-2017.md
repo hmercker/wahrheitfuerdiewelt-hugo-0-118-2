@@ -1,7 +1,7 @@
 ---
 title: "Das Schlagen eurer Herzen kennen"
 menu_title: ""
-description: "Das Schlagen eurer Herzen kennen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich habe euch in diesen Wochen schon vieles gesagt, daher brauche ich nicht viel mehr zu sagen, als wie sehr ich …“"
 date: 2020-08-01 06:25:48+00:254
 draft: False
 hidden: True

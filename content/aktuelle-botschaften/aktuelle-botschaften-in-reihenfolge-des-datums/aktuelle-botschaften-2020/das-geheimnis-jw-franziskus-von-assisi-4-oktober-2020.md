@@ -1,7 +1,7 @@
 ---
 title: "Das Geheimnis"
 menu_title: ""
-description: "Das Geheimnis"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Danke, dass ihr zusammengekommen seid, um die Liebe unseres Schöpfers zu empfangen und mich und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

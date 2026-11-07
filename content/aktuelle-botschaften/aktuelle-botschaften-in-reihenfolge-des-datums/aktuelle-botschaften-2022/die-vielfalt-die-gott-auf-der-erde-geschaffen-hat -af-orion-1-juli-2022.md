@@ -1,7 +1,7 @@
 ---
 title: "Die Vielfalt, die Gott auf der Erde geschaffen hat "
 menu_title: ""
-description: "Die Vielfalt, die Gott auf der Erde geschaffen hat "
+description: "Orion, empfangen durch Al Fike: „Die Vielfalt des Lebens und die Kraft des Lebens, die sich in eurer Welt manifestiert, ist für uns von großem Interesse.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

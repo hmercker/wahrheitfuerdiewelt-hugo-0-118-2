@@ -1,7 +1,7 @@
 ---
 title: "Fragen und Antworten"
 menu_title: ""
-description: "Fragen und Antworten"
+description: "Josephus, empfangen durch Al Fike: „Zuerst möchte ich mich zu dem Gaben der lieben Tochter der Wahrnehmung und Kreativität äußern.“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

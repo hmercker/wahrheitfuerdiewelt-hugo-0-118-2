@@ -1,7 +1,7 @@
 ---
 title: "Lasst Eurem Herzen Flügel wachsen"
 menu_title: ""
-description: "Lasst Eurem Herzen Flügel wachsen"
+description: "Rumi 1, empfangen durch Jimbeau Walsh: „Jahrhundert und wurde in einer Stadt namens Balkh geboren, die ihr vielleicht aus dem Iran kennt.“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

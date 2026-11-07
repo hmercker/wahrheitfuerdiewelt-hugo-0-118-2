@@ -1,7 +1,7 @@
 ---
 title: "Große Religionen und Göttliche Liebe"
 menu_title: ""
-description: "Große Religionen und Göttliche Liebe"
+description: "Judas, empfangen durch Jimbeau Walsh: „Die so genannten großen Religionen haben viele Anhänger, und diese Religionen haben im Laufe der Zeit, der …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

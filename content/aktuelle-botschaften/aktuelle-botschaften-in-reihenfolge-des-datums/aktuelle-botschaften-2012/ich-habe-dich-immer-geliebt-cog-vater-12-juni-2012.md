@@ -1,7 +1,7 @@
 ---
 title: "Ich habe dich immer geliebt"
 menu_title: ""
-description: "Ich habe dich immer geliebt"
+description: "Vater, empfangen durch Child of God: „Da du unsere Kommunikation gestern Abend genossen hast und von der Freude meiner Nähe erfüllt warst, wünsche ich mir …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

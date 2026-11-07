@@ -1,7 +1,7 @@
 ---
 title: "Unsere Rolle in Gottes Plan - Teil 2"
 menu_title: ""
-description: "Unsere Rolle in Gottes Plan - Teil 2"
+description: "Michael Collier, empfangen durch Al Fike: „Ich kehre zurück, Michael Collier. Ich kehre zurück, um weiter über die Dinge zu sprechen, die das spirituelle …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

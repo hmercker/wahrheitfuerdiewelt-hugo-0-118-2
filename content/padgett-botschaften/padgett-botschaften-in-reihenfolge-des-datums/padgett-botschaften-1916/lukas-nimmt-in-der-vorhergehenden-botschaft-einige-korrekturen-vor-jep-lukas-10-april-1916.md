@@ -1,7 +1,7 @@
 ---
 title: "Lukas nimmt in der vorhergehenden Botschaft einige Korrekturen vor"
 menu_title: ""
-description: "Lukas nimmt in der vorhergehenden Botschaft einige Korrekturen vor"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte einige Korrekturen in meiner Botschaft von gestern Abend vornehmen, und ich danke dir, dass du sie …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

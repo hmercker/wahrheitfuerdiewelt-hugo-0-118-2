@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt unseren Herzen sich zu öffnen, hört mit unseren Seelen"
 menu_title: ""
-description: "Erlaubt unseren Herzen sich zu öffnen, hört mit unseren Seelen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich fühle mich zu diesem Kreis des Lichts hingezogen. Wie wir in Findhorn, wo ich der spirituelle Gründer …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen gesteht, dass sie nicht immer anwesend ist wenn Padgett Mitteilungen erhält"
 menu_title: ""
-description: "Helen gesteht, dass sie nicht immer anwesend ist wenn Padgett Mitteilungen erhält"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, ich war nicht hier, denn ich war mit der Arbeit mit der höheren Sphäre beschäftigt, wo meine Arbeit …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

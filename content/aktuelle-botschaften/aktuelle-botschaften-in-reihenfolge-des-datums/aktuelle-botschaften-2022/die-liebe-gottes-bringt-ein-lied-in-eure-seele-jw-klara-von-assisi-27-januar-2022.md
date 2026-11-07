@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes bringt ein Lied in eure Seele"
 menu_title: ""
-description: "Die Liebe Gottes bringt ein Lied in eure Seele"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich war bei euch, als ihr über das musikalische Konzert in der Geisterwelt, im großen Amphitheater und …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

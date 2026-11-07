@@ -1,7 +1,7 @@
 ---
 title: "Seelen bei der Schöpfung, Entwicklung und Dematerialisierung "
 menu_title: ""
-description: "Seelen bei der Schöpfung, Entwicklung und Dematerialisierung "
+description: "Jesus, empfangen von Dr Samuels: „Ich möchte dir zu den Fragen schreiben, die einige der kalifornischen Mitglieder der Gründungskirche der Neuen Geburt …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Nehmt eure Verpflichtung sehr ernst"
 menu_title: ""
-description: "Nehmt eure Verpflichtung sehr ernst"
+description: "Seretta Kem, empfangen durch Al Fike: „Seid gesegnet für eure Bemühungen, Geliebte. Seid gesegnet für eure Gebete.“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

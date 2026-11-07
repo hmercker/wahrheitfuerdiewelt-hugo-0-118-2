@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist mit uns"
 menu_title: ""
-description: "Jesus ist mit uns"
+description: "Jesus, empfangen durch Al Fike: „Möge die Hand des Vaters euch berühren. Seine Liebe strömt in jeden Winkel eurer Seele.“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

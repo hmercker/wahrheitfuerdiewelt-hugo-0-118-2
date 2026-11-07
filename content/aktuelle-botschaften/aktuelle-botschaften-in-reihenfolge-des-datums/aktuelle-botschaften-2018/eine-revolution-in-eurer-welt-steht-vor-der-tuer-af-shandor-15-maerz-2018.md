@@ -1,7 +1,7 @@
 ---
 title: "Eine Revolution in eurer Welt steht vor der Tür"
 menu_title: ""
-description: "Eine Revolution in eurer Welt steht vor der Tür"
+description: "Shandor, empfangen durch Al Fike: „Ihr habt mich gebeten zu kommen, um zu euch zu sprechen. Wie ihr wisst, wohne ich nicht auf eurem Planeten, denn ich …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

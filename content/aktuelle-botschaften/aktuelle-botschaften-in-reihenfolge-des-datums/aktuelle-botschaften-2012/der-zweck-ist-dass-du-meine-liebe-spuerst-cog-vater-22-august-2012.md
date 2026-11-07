@@ -1,7 +1,7 @@
 ---
 title: "Der Zweck ist, dass du meine Liebe spürst"
 menu_title: ""
-description: "Der Zweck ist, dass du meine Liebe spürst"
+description: "Vater, empfangen durch Child of God: „Du spürtest, dass du ein Wunder erlebt hast. Gestern fand eine große Veränderung in deinem emotionalen Zustand statt.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

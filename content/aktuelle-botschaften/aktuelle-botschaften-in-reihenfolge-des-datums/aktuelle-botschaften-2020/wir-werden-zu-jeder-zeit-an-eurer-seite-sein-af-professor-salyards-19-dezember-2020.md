@@ -1,7 +1,7 @@
 ---
 title: "Wir werden zu jeder Zeit an eurer Seite sein"
 menu_title: ""
-description: "Wir werden zu jeder Zeit an eurer Seite sein"
+description: "Professor Salyards, empfangen durch Al Fike: „Mein Versprechen an euch ist, dass ich jeden einzelnen von euch auf dieser großen Anstrengung und Reise …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

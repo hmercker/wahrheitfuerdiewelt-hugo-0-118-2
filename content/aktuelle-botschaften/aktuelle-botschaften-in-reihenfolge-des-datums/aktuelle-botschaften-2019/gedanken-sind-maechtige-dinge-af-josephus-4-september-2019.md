@@ -1,7 +1,7 @@
 ---
 title: "Gedanken sind mächtige Dinge"
 menu_title: ""
-description: "Gedanken sind mächtige Dinge"
+description: "Josephus, empfangen durch Al Fike: „Um mit der Diskussion meines Bruders fortzufahren, möchte ich sagen, dass eure Welt voller Querströmungen von Gedanken …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

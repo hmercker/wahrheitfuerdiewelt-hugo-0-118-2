@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt uns, mehr Kreise des Lichts in der Welt zu schaffen"
 menu_title: ""
-description: "Ermutigt uns, mehr Kreise des Lichts in der Welt zu schaffen"
+description: "Matthäus, empfangen durch Al Fike: „Das ist es, was in eurer Welt gebraucht wird, Kreise wie diesen hier. Wo Brüder und Schwestern zusammenkommen und beten …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

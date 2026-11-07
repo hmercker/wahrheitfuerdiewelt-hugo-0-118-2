@@ -1,7 +1,7 @@
 ---
 title: "Die Seele eines Kindes"
 menu_title: ""
-description: "Die Seele eines Kindes"
+description: "Jesus, empfangen durch Dr Samuels: „Januar 1961 aufgeworfen wurde, in dem es um den Fortschritt eines Säuglings geht, der vorzeitig in das spirituelle …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

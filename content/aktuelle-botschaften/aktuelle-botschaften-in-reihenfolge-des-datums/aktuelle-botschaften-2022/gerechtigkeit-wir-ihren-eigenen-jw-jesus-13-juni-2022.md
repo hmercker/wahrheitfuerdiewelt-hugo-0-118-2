@@ -1,7 +1,7 @@
 ---
 title: "Gerechtigkeit wir ihren eigenen"
 menu_title: ""
-description: "Gerechtigkeit wir ihren eigenen"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes mit euch allen sein, meine lieben Freunde, meine Brüder und Schwestern.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Folgt der Freude"
 menu_title: ""
-description: "Folgt der Freude"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes jeden einzelnen von euch segnen und euch Frieden bringen. Denn manchmal spürte ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Licht über die Dunkelheit wählen"
 menu_title: ""
-description: "Das Licht über die Dunkelheit wählen"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott euch mit Wahrheit und Licht segnen und dass alles Verstehen ein Segen für jede eurer Seelen ist, Geliebte.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

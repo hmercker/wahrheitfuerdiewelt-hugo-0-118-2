@@ -1,7 +1,7 @@
 ---
 title: "Auf dem Wasser gehen"
 menu_title: ""
-description: "Auf dem Wasser gehen"
+description: "Jesus, empfangen durch Kathryn Stokes: „Lieber Gott, wir beten darum, unsere Gedanken auf höhere Ebenen zu heben. Ich bete für ein Einströmen Deiner …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

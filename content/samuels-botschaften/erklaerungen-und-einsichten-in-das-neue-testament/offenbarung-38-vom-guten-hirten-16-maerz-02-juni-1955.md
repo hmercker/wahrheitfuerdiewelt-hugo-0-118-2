@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 38 : Vom Guten Hirten"
 menu_title: ""
-description: "Offenbarung 38 : Vom Guten Hirten"
+description: "Jesus, empfangen durch Dr Samuels: „Heute möchte ich dir — so wir die erforderliche Verbindung herstellen können — über das Gleichnis vom Guten Hirten …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

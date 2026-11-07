@@ -1,7 +1,7 @@
 ---
 title: "Die Reise des Erwachens"
 menu_title: ""
-description: "Die Reise des Erwachens"
+description: "Augustinus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin eure Seelen durchfluten und euch ins Einssein bringen.“"
 date: 2020-08-01 06:25:48+00:247
 draft: False
 hidden: True

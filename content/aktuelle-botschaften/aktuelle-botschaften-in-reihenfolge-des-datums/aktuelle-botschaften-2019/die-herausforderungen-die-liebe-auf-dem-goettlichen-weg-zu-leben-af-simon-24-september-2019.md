@@ -1,7 +1,7 @@
 ---
 title: "Die Herausforderungen, die Liebe auf dem göttlichen Weg zu leben"
 menu_title: ""
-description: "Die Herausforderungen, die Liebe auf dem göttlichen Weg zu leben"
+description: "Simon, empfangen durch Al Fike: „Gott will nicht, dass Seine Werkzeuge leiden, also wird Gott dafür sorgen, dass eure Bedürfnisse erfüllt werden.“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

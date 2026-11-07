@@ -1,7 +1,7 @@
 ---
 title: "Medialität erfordert eine Hingabe, um eine Beziehung zu Gott zu entwickeln"
 menu_title: ""
-description: "Medialität erfordert eine Hingabe, um eine Beziehung zu Gott zu entwickeln"
+description: "Seretta Kam, empfangen durch Al Fike: „So wenige in eurer Welt haben diesen Wunsch oder auch nur eine Ahnung davon, was möglich ist.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

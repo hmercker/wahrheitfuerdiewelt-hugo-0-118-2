@@ -1,7 +1,7 @@
 ---
 title: "Dr. Leslie Rippon Stone"
 menu_title: ""
-description: "Dr. Leslie Rippon Stone"
+description: "Dr. Leslie Rippon Stone wurde am 10. November 1876 in 9 Wellington Street Aldershot Hants, England, geboren. Er besuchte die Schulen in England und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

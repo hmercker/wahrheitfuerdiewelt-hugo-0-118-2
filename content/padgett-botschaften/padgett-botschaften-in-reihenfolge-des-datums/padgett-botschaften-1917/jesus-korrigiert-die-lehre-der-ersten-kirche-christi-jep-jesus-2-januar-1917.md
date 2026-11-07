@@ -1,7 +1,7 @@
 ---
 title: "Jesus korrigiert die Lehre der Ersten Kirche Christi"
 menu_title: ""
-description: "Jesus korrigiert die Lehre der Ersten Kirche Christi"
+description: "Jesus, empfangen durch James Padgett: „Ich war anwesend, als du den Artikel über die Christliche Wissenschaft gelesen hast, und war an deinen Kommentaren …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

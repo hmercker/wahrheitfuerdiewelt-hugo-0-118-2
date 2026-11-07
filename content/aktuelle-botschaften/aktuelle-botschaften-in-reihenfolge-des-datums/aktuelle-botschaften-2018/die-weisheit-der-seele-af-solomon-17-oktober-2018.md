@@ -1,7 +1,7 @@
 ---
 title: "Die Weisheit der Seele"
 menu_title: ""
-description: "Die Weisheit der Seele"
+description: "Salomo, empfangen durch Al Fike: „Ich habe für euch gebetet, meine Freunde, einer von vielen, vielen, die euch in unserem Bewusstsein behalten haben und …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

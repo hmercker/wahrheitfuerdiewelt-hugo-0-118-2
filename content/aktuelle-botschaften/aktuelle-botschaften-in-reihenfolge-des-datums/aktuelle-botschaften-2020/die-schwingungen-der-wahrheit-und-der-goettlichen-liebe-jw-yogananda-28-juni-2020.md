@@ -1,7 +1,7 @@
 ---
 title: "Die Schwingungen der Wahrheit und der göttlichen Liebe"
 menu_title: ""
-description: "Die Schwingungen der Wahrheit und der göttlichen Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte über die Erkenntnis der Wahrheit sprechen. Es hat viele Diskussionen gegeben, sowohl öffentlich als …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

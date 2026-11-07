@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy beabsichtigt Dr. Stone zu zeigen wo sie lebt "
 menu_title: ""
-description: "Mary Kennedy beabsichtigt Dr. Stone zu zeigen wo sie lebt "
+description: "Mary Kenney, empfangen durch James Padgett: „Aber nun, da ich wieder schreibe, hoffe ich, dass du mich nicht für egoistisch hältst, wenn ich ein wenig …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone ist sehr glücklich, das Einströmen der Göttlichen Liebe in Leslie's Seele zu sehen"
 menu_title: ""
-description: "Priscilla Stone ist sehr glücklich, das Einströmen der Göttlichen Liebe in Leslie's Seele zu sehen"
+description: "Priscilla Stone, empfangen durch James Padgett: „Nun, eine ganze Anzahl spiritueller Wesen war heute Abend anwesend und hat eurem Gespräch zugehört, und …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

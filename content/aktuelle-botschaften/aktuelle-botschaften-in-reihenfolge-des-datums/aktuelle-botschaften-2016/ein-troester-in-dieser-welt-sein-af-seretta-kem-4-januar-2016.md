@@ -1,7 +1,7 @@
 ---
 title: "Ein Tröster in dieser Welt sein"
 menu_title: ""
-description: "Ein Tröster in dieser Welt sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Ist es euer Verstand oder sind es eure Seelen? Zweifellos würde eure Antwort beides sein und die Motivation, der …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

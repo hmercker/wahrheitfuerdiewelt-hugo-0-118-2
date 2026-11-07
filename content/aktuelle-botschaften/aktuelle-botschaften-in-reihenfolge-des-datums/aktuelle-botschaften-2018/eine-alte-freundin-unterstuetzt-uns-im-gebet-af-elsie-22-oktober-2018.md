@@ -1,7 +1,7 @@
 ---
 title: "Eine alte Freundin unterstützt uns im Gebet"
 menu_title: ""
-description: "Eine alte Freundin unterstützt uns im Gebet"
+description: "Elsie, empfangen durch Al Fike: „Und ja, ihr habt mich in letzter Zeit in eurer Nähe gespürt. Ich hole die verlorene Zeit wieder auf, wie man sagt.“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

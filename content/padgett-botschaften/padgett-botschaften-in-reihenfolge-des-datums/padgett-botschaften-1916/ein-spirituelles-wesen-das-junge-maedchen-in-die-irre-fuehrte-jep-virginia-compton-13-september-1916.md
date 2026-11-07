@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen, das junge Mädchen in die Irre führte"
 menu_title: ""
-description: "Ein spirituelles Wesen, das junge Mädchen in die Irre führte"
+description: "Virginia Compton, empfangen durch James Padgett: „Höre dir meine Leidensgeschichte an. Denn wehe mir in meiner Dunkelheit und Pein.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

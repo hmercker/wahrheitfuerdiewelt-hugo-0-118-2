@@ -1,7 +1,7 @@
 ---
 title: "Lektion 10 - Eine sich verändernde Welt und ein Aufruf zur Einheit"
 menu_title: ""
-description: "Eine sich verändernde Welt und ein Aufruf zur Einheit"
+description: "Jesus, empfangen durch Al Fike: „Es ist euer Bruder und Freund, Jesus, der wieder einmal kommt, um zu sprechen, um zu all den gesegneten Seelen zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

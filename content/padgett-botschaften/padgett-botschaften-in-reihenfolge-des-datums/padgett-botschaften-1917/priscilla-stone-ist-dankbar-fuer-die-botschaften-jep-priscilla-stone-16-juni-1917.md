@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone ist dankbar für die Botschaften"
 menu_title: ""
-description: "Priscilla Stone ist dankbar für die Botschaften"
+description: "Priscilla Stone, empfangen durch James Padgett: „Auch wenn wir der Zeit nicht viel Aufmerksamkeit schenken, so ist doch in diesem Fall die Zeit wesentlich …“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

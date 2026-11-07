@@ -1,7 +1,7 @@
 ---
 title: "Wie man bei Gott sein kann"
 menu_title: ""
-description: "Wie man bei Gott sein kann"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ich habe mit vielen von euch, die hier sind, gearbeitet. Geliebte Seelen, spürt ihr nicht diese lebendigen Wasser …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

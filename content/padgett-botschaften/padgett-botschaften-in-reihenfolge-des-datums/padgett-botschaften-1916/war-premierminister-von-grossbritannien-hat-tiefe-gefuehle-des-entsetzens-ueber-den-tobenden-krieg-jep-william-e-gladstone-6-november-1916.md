@@ -1,7 +1,7 @@
 ---
 title: "War Premierminister von Großbritannien. Hat tiefe Gefühle des Entsetzens über den tobenden Krieg"
 menu_title: ""
-description: "War Premierminister von Großbritannien. Hat tiefe Gefühle des Entsetzens über den tobenden Krieg"
+description: "William E. Gladstone 1, empfangen durch James Padgett: „Ja, ich war der Premierminister Großbritanniens und ich möchte nur sagen, dass ich irgendwann zu …“"
 date: 2020-08-01 06:25:48+00:261
 draft: False
 hidden: True

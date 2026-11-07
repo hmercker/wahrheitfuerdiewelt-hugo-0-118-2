@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards beschreibt seinen Eintritt in die geistige Welt und seinen spirituellen Fortschritt"
 menu_title: ""
-description: "Professor Salyards beschreibt seinen Eintritt in die geistige Welt und seinen spirituellen Fortschritt"
+description: "Professor Salyards, empfangen durch James Padgett: „Deine Mutter ist der Hauptgrund für meinen Fortschritt, da sie mir als erste den Weg zu Gottes‘ Liebe …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

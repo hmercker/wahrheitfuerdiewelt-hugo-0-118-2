@@ -1,7 +1,7 @@
 ---
 title: "Du fragst, wie du Mir dienen kannst"
 menu_title: ""
-description: "Du fragst, wie du Mir dienen kannst"
+description: "Vater, empfangen durch Child of God: „Du fragst, wie du Mir dienen kannst. Für jene von euch, die Meine Liebe kennen und fühlen, möchte Ich, dass ihr diese …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Botschaft an Herrn Padgett von Jesus"
 menu_title: ""
-description: "Persönliche Botschaft an Herrn Padgett von Jesus"
+description: "Jesus, empfangen durch James Padgett: „Du bist mein Freund und Jünger. Du bist für alle Ewigkeit in mir.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

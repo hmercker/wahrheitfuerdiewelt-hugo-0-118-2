@@ -1,7 +1,7 @@
 ---
 title: "Lektion 11 - Die Natur des Verstandes und des Seelenbewusstseins - Band 3"
 menu_title: ""
-description: "Lektion 11 - Die Natur des Verstandes und des Seelenbewusstseins - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Die gegenwärtigen Aktivitäten und die Art und Weise der Interaktion mit eurer Welt müssen transformiert und in etwas …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

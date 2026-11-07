@@ -1,7 +1,7 @@
 ---
 title: "Liebe dich selbst zuerst"
 menu_title: ""
-description: "Liebe dich selbst zuerst"
+description: "Vater, empfangen durch Child of God: „Wir sprachen über das menschliche Bedürfnis nach menschlicher Liebe und du warst ein wenig verwirrt.“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

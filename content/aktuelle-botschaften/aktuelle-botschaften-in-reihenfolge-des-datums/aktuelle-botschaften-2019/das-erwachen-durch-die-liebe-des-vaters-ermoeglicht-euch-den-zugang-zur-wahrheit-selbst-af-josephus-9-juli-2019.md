@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen durch die Liebe des Vaters ermöglicht euch den Zugang zur Wahrheit selbst"
 menu_title: ""
-description: "Das Erwachen durch die Liebe des Vaters ermöglicht euch den Zugang zur Wahrheit selbst"
+description: "Josephus, empfangen durch Al Fike: „Ich werde Fragen von euch, geliebte Seelen, beantworten. Ich weiß, dass es hier einen gibt, der sehr gerne Fragen stellt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

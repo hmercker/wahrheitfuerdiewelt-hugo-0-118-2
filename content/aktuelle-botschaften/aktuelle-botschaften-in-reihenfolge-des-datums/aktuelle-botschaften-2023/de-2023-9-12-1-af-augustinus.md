@@ -1,7 +1,7 @@
 ---
 title: "Fordert uns alle auf, uns über die irdischen Bedingungen zu erheben und Gott zu dienen"
 menu_title: ""
-description: "Fordert uns alle auf, uns über die irdischen Bedingungen zu erheben und Gott zu dienen"
+description: "Augustinus, empfangen durch Al Fike: „Möge der Segen der Liebe Gottes weiterhin in eure Seelen fließen, liebe Schülerinnen und Schüler.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

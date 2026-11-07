@@ -1,7 +1,7 @@
 ---
 title: "Wir sehen deine Kämpfe"
 menu_title: ""
-description: "Wir sehen deine Kämpfe"
+description: "Jesus, empfangen durch Helge Mercker: „Wir sehen deine Kämpfe, ein Leben in Wahrhaftigkeit und Liebe zu leben, und wir helfen dir, größere Erkenntnisse …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe, die ich bin, ist die Liebe, die du bist"
 menu_title: ""
-description: "Die Liebe, die ich bin, ist die Liebe, die du bist"
+description: "Vater, empfangen durch Child of God: „Erkenne dich selbst und du wirst mich erkennen. Meine ganze Weisheit ist in dir.“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

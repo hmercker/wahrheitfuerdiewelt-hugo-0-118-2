@@ -1,7 +1,7 @@
 ---
 title: "Segensverheißungen in Laurelville"
 menu_title: ""
-description: "Segensverheißungen in Laurelville"
+description: "Josephus, empfangen durch Al Fike: „Möge der Segen Gottes über euch sein. Ich möchte heute zu euch über ein Gesetz im Universum sprechen, das besagt, dass …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich bin dankbar für Gebete und Liebe, die mir von der Erde gesandt wurden"
 menu_title: ""
-description: "Ich bin dankbar für Gebete und Liebe, die mir von der Erde gesandt wurden"
+description: "Mario Lanza: „Ich wünsche mir nur, dass ich mit direkter Stimme zu euch sprechen kann, aber das wird wohl noch einige Zeit dauern, fürchte ich.“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

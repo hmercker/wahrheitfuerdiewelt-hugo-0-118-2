@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt Lukas' Botschaft"
 menu_title: ""
-description: "Helen bestätigt Lukas' Botschaft"
+description: "Helen, empfangen durch James Padgett: „Ich sehe, dass du vielleicht einige Zweifel daran hast, wer der letzte Schreiber war, weil er eine so wichtige …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

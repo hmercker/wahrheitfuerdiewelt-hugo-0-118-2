@@ -1,7 +1,7 @@
 ---
 title: "Das Momentum baut sich auf"
 menu_title: ""
-description: "Das Momentum baut sich auf"
+description: "Professor Salyards, empfangen durch Al Fike: „Du wirst mit Sicherheit geliebt, lieber Bruder, wie ihr alle hier. Die Dynamik nimmt zu und wir tragen …“"
 date: 2022-03-29 06:00:00+00:10
 draft: False
 hidden: True

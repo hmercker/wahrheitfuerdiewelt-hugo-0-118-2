@@ -1,7 +1,7 @@
 ---
 title: "Fordert uns alle auf, uns über die irdischen Bedingungen zu erheben und Gott zu dienen"
 menu_title: ""
-description: "Fordert uns alle auf, uns über die irdischen Bedingungen zu erheben und Gott zu dienen"
+description: "Jesus, empfangen durch Al Fike: „Die Gnade Gottes sei mit euch, meine Lieben, seine Berührung ein mächtiger Segen für eure Seele.“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

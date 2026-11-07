@@ -1,7 +1,7 @@
 ---
 title: "Das Wunder von Naym"
 menu_title: ""
-description: "Das Wunder von Naym"
+description: "Judas, empfangen durch H: „Um diese Botschaft zu beginnen, möchte ich dich nur an die Neuigkeiten erinnern, die du heute gehört hast.“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

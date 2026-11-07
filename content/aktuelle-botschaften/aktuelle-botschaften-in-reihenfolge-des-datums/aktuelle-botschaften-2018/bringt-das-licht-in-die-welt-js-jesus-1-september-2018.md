@@ -1,7 +1,7 @@
 ---
 title: "Bringt das Licht in die Welt"
 menu_title: ""
-description: "Bringt das Licht in die Welt"
+description: "Jesus, empfangen durch Jesper Sorensen: „Ich sage, dies ist ein wunderschöner Kreis. Das schöne Licht, das hier erzeugt wurde und das ihr alle so gut …“"
 date: 2020-08-01 06:25:48+00:241
 draft: False
 hidden: True

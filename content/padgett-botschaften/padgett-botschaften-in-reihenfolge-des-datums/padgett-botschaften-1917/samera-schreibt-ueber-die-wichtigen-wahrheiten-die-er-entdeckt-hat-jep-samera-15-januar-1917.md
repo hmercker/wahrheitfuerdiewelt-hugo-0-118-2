@@ -1,7 +1,7 @@
 ---
 title: "Samera schreibt über die wichtigen Wahrheiten die er entdeckt hat"
 menu_title: ""
-description: "Samera schreibt über die wichtigen Wahrheiten die er entdeckt hat"
+description: "Samera, empfangen durch James Padgett: „Diese Wahrheit ist: Das Einssein Gottes. Als ich auf Erden lebte, glaubten und lehrten wir die Existenz vieler …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Predigt 14 - Davids unerschütterlicher Glaube an den Vater"
 menu_title: ""
-description: "Predigt 14 - Davids unerschütterlicher Glaube an den Vater"
+description: "Jesus, empfangen durch Dr Samuels: „In zahllosen Geschichten und Kommentaren über David werden immer wieder seine Tapferkeit im Kampf, seine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

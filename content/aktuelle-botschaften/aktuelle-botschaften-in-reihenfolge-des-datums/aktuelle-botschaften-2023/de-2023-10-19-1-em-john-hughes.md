@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid Partner in dieser Entwicklung"
 menu_title: ""
-description: "Ihr seid Partner in dieser Entwicklung"
+description: "John Hughes, empfangen durch Elisabeth Mack: „Ich werde immer mit euch gehen. Ich bringe euch den Segen des Vaters, um den ihr gebeten habt, und es gibt …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

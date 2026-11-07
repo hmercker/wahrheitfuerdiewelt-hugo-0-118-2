@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt die Suche in wahre Sehnsucht verwandeln"
 menu_title: ""
-description: "Ihr könnt die Suche in wahre Sehnsucht verwandeln"
+description: "Jeanne d'Arc, empfangen durch Elisabeth Mack: „In Liebe und Glauben besitzt meine Seele die Göttliche Liebe in dem Maße, dass ich im himmlischen Königreich …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

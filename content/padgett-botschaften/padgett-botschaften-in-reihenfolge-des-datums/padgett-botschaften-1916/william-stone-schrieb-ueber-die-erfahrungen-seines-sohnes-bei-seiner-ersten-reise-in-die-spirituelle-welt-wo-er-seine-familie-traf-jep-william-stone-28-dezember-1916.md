@@ -1,7 +1,7 @@
 ---
 title: "William Stone schrieb über die Erfahrungen seines Sohnes bei seiner ersten Reise in die spirituelle Welt, wo er seine Familie traf"
 menu_title: ""
-description: "William Stone schrieb über die Erfahrungen seines Sohnes bei seiner ersten Reise in die spirituelle Welt, wo er seine Familie traf"
+description: "William Stone, empfangen durch James Padgett: „Ich möchte meinem Sohn ein paar Zeilen schreiben, da ich sehe, dass er sich in einem Zustand befindet, der …“"
 date: 2020-08-01 06:25:48+00:300
 draft: False
 hidden: True

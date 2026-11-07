@@ -1,7 +1,7 @@
 ---
 title: "Eure Familie profitiert von euren Bemühungen"
 menu_title: ""
-description: "Eure Familie profitiert von euren Bemühungen"
+description: "Barbara Davies, empfangen durch Al Fike: „Ich möchte euch erzählen, wie ihr eure Lieben zu euch zieht, die in der geistigen Welt sind; eure Mütter und …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

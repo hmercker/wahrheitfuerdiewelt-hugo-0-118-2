@@ -1,7 +1,7 @@
 ---
 title: "Weiter nach Seelenbewusstsein suchen"
 menu_title: ""
-description: "Weiter nach Seelenbewusstsein suchen"
+description: "Matthäus, empfangen durch Al Fike: „Die Welt der Menschen ist eine Welt voller Täuschung und Irrtum. Die Welt, die ihr gebaut habt, die Realität, die die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

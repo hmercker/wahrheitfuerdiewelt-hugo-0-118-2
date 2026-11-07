@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt ihre Heimat in der dritten Sphäre"
 menu_title: ""
-description: "Helen beschreibt ihre Heimat in der dritten Sphäre"
+description: "Helen, empfangen durch James Padgett: „Es ist aus weißem Marmor und ist von Rasenflächen, Blumen und Bäumen verschiedenster Art umgeben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

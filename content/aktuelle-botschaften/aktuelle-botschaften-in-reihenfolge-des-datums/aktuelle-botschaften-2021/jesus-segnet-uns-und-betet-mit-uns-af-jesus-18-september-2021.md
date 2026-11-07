@@ -1,7 +1,7 @@
 ---
 title: "Jesus segnet uns und betet mit uns "
 menu_title: ""
-description: "Jesus segnet uns und betet mit uns "
+description: "Jesus, empfangen durch Al Fike: „Ihr strebt danach, auf jede Weise und mit allen Mitteln, die euch zur Verfügung stehen, Diener Gottes zu sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eure Gebete berühren viele"
 menu_title: ""
-description: "Eure Gebete berühren viele"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge der Friede der Gegenwart Gottes immer mit euch sein, so wie Er jetzt mit euch ist. Eure Gebete um Heilung für …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Schlussbotschaft des Treffens, das unseren Zusammenhalt gestärkt hat"
 menu_title: ""
-description: "Schlussbotschaft des Treffens, das unseren Zusammenhalt gestärkt hat"
+description: "Andreas, empfangen durch Al Fike: „Ihr seid an den Ort des Miteinanders und der Gemeinschaft gekommen und nun seid ihr tiefer miteinander verbunden …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es ist herausfordernd und faszinierend, Verbindungen mit Erdbewohnern zu knüpfen!"
 menu_title: ""
-description: "Es ist herausfordernd und faszinierend, Verbindungen mit Erdbewohnern zu knüpfen!"
+description: "Orion, empfangen durch Al Fike: „Es läuft gut, auch wenn er sich die Zeit dafür etwas besser einteilen könnte. Aber das wird schon noch werden, wenn wir in …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

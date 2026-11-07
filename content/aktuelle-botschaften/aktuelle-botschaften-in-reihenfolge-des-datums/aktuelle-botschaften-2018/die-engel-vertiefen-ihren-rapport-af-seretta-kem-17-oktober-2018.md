@@ -1,7 +1,7 @@
 ---
 title: "Die Engel vertiefen ihren Rapport"
 menu_title: ""
-description: "Die Engel vertiefen ihren Rapport"
+description: "Seretta Kem, empfangen durch Al Fike: „Dies wird die Bedingungen in euren Kreisen verändern. Ihr werdet mehr fühlen und mehr gemeinsam erleben.“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

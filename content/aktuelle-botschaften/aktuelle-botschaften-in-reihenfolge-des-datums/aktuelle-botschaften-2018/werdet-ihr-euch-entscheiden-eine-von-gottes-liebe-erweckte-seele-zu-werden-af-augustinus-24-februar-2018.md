@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr euch entscheiden, eine von Gottes Liebe erweckte Seele zu werden?"
 menu_title: ""
-description: "Werdet ihr euch entscheiden, eine von Gottes Liebe erweckte Seele zu werden?"
+description: "Augustinus, empfangen durch Al Fike: „Gott schuf diese Welt und dann schuf Er die Menschheit. Er gab der Menschheit ein großes Geschenk, ein Geschenk …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

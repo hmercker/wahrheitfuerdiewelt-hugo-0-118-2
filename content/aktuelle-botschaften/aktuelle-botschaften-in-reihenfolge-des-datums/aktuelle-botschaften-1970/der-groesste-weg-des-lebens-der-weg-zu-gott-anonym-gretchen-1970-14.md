@@ -1,7 +1,7 @@
 ---
 title: "Der größte Weg des Lebens, der Weg zu Gott"
 menu_title: ""
-description: "Der größte Weg des Lebens, der Weg zu Gott"
+description: "Gretchen 1: „Ich war noch nie bei euch und ich habe versucht, eure Sprache zu sprechen, denn als ich auf der Erde war, habe ich nur meine Muttersprache …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

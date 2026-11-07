@@ -1,7 +1,7 @@
 ---
 title: "Mit Gott verwundbar sein, um die Wunden der Seele zu heilen"
 menu_title: ""
-description: "Mit Gott verwundbar sein, um die Wunden der Seele zu heilen"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Ich schließe mich euch in eurem Kreis an, während ihr euch für den Segen der Göttlichen Liebe öffnet …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert den Mangel an Rapport und Verbindung "
 menu_title: ""
-description: "Helen kommentiert den Mangel an Rapport und Verbindung "
+description: "Helen, empfangen durch James Padgett: „Nun, es tut mir leid, dass du das Schreiben nicht fortsetzen konntest, denn der Meister war sehr darauf bedacht, die …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

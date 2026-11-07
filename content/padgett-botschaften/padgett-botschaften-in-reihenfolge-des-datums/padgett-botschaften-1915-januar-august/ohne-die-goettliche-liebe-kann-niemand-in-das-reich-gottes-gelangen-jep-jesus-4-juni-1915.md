@@ -1,7 +1,7 @@
 ---
 title: "Ohne die Göttliche Liebe kann niemand in das Reich Gottes gelangen"
 menu_title: ""
-description: "Ohne die Göttliche Liebe kann niemand in das Reich Gottes gelangen"
+description: "Jesus, empfangen durch James Padgett: „Heute Nacht wünsche ich über ein Thema zu schreiben, das für die gesamte Menschheit von Interesse ist, und ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Wende ist jetzt"
 menu_title: ""
-description: "Die Wende ist jetzt"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Wann werden die Veränderungen kommen?“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

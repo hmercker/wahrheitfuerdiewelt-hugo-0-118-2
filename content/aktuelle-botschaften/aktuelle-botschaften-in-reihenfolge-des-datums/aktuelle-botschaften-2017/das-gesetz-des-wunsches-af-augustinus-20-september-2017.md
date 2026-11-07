@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz des Wunsches (im Volksmund als Gesetz der Anziehung verwechselt)"
 menu_title: ""
-description: "Das Gesetz des Wunsches (im Volksmund als Gesetz der Anziehung verwechselt)"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte über das Gesetz des Wunsches oder Begehrens 1 sprechen, wie wichtig dies für die Entfaltung des Lebens …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

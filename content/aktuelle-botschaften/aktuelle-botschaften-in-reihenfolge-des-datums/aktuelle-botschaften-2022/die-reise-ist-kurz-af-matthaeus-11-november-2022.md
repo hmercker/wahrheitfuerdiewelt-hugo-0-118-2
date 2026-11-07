@@ -1,7 +1,7 @@
 ---
 title: "Die Reise ist kurz"
 menu_title: ""
-description: "Die Reise ist kurz"
+description: "Matthäus, empfangen durch Al Fike: „Haltet ihr in dieser Zeit auf der Erdebene, die ihr gemeinsam verbringt, nicht die große Wahrheit der Liebe Gottes so …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

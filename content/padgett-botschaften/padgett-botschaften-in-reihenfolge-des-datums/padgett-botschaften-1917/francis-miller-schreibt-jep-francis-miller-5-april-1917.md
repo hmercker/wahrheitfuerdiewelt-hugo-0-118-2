@@ -1,7 +1,7 @@
 ---
 title: "Francis Miller schreibt"
 menu_title: ""
-description: "Francis Miller schreibt"
+description: "Francis Miller, empfangen durch James Padgett: „Ich glaube nicht an die göttliche Liebe, von der diese spirituellen Wesen geschrieben haben, aber ich …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

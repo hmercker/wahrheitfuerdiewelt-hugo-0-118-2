@@ -1,7 +1,7 @@
 ---
 title: "Bekräftigt, dass Orion hier ist, um uns auf der Erde zu helfen "
 menu_title: ""
-description: "Bekräftigt, dass Orion hier ist, um uns auf der Erde zu helfen "
+description: "Jesus, empfangen durch Al Fike: „Es gibt so viel, das helfen kann. Die Kraft des Gebets geht nicht nur zu Gott, sondern hallt durch das Universum, und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

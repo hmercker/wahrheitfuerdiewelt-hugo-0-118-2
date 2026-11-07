@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid der Segen, den die Welt braucht"
 menu_title: ""
-description: "Ihr seid der Segen, den die Welt braucht"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Wenn ihr in die Stille geht, egal ob ihr die stille kleine Stimme Gottes oder die Engel hört, ist es wichtig …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid im Moment"
 menu_title: ""
-description: "Seid im Moment"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Und wie weise sind diese Worte, hier im Moment zu sein, im Moment zu leben. Die anderen Geschöpfe Gottes …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

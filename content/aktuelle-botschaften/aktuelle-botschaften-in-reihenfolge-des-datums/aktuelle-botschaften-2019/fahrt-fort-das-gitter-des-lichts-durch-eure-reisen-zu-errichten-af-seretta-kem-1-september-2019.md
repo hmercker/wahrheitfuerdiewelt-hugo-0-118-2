@@ -1,7 +1,7 @@
 ---
 title: "Fahrt fort, das Gitter des Lichts durch eure Reisen zu errichten"
 menu_title: ""
-description: "Fahrt fort, das Gitter des Lichts durch eure Reisen zu errichten"
+description: "Seretta Kem, empfangen durch Al Fike: „Meine Tochter (J), du hast auf eine Art und Weise gegeben, wie du es vorher nicht getan hast.“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

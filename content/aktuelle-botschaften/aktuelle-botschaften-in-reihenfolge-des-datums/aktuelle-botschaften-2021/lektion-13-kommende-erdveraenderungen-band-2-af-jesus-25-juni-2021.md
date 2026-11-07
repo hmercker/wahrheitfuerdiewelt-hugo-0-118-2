@@ -1,7 +1,7 @@
 ---
 title: "Lektion 13 - Kommende Veränderungen sind voller Herausforderungen und Segnungen - Band 2"
 menu_title: ""
-description: "Lektion 13 - Kommende Veränderungen sind voller Herausforderungen und Segnungen - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Es ist die Menschheit, die sich selbst so große Schwierigkeiten bereitet und solche Barrieren gegen den natürlichen Fluss …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

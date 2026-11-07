@@ -1,7 +1,7 @@
 ---
 title: "Die Probleme der organisierten religiösen Gruppen"
 menu_title: ""
-description: "Die Probleme der organisierten religiösen Gruppen"
+description: "Jesus- empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich liebe Dich und bin dankbar für Deine Liebe und Barmherzigkeit.“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

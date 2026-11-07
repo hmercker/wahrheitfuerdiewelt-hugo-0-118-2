@@ -1,7 +1,7 @@
 ---
 title: "Spirituelles Licht oder spirituelle Schwingungen?"
 menu_title: ""
-description: "Spirituelles Licht oder spirituelle Schwingungen?"
+description: "Judas, empfangen durch H: „Gestern habe ich versprochen, über das Thema Licht in der spirituellen Wesenswelt zu schreiben, und siehe da, eine Frage kam von …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

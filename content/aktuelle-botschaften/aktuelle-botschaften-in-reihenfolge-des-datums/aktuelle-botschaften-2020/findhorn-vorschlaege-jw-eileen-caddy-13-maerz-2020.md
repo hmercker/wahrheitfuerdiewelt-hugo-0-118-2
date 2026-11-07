@@ -1,7 +1,7 @@
 ---
 title: "Findhorn Vorschläge"
 menu_title: ""
-description: "Findhorn Vorschläge"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Nun, da sich die Ereignisse auf der Erde verschwören, um die Menschen in ihre Seelen zu ziehen, die über das …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wendet euch an Gott um Nahrung zu bekommen"
 menu_title: ""
-description: "Wendet euch an Gott um Nahrung zu bekommen"
+description: "Andreas, empfangen durch Al Fike: „So wenige wenden sich wirklich so an Gott, dass Gott sie hören und entsprechend antworten kann.“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

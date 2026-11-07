@@ -1,7 +1,7 @@
 ---
 title: "Gott beschenkt euch in Liebe"
 menu_title: ""
-description: "Gott beschenkt euch in Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Seht ihr denn nicht, wie Gott seine hellsten Engel in eure Mitte schickt, um euch zu erheben und zu ermutigen auf …“"
 date: 2020-08-01 06:25:48+00:236
 draft: False
 hidden: True

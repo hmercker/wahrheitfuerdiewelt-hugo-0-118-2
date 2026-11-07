@@ -1,7 +1,7 @@
 ---
 title: "Ostersonntag - Diese Flamme der Liebe wird alle Welten reinigen"
 menu_title: ""
-description: "Ostersonntag - Diese Flamme der Liebe wird alle Welten reinigen"
+description: "Jesus, empfangen durch Al Fike: „Nur ein Riss des Lichts fließt hindurch und es wird sich weiter öffnen, so dass größere Wahrheit in eure Welt fließen …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

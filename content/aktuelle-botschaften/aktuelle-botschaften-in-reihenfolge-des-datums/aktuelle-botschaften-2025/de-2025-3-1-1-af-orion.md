@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt dem Wirken eurer Seele, die Oberhand zu gewinnen"
 menu_title: ""
-description: "Erlaubt dem Wirken eurer Seele, die Oberhand zu gewinnen"
+description: "Orion, empfangen durch Al Fike: „Jeder von euch hat große Fortschritte gemacht, seit wir diese gemeinsame Zeit begonnen haben.“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

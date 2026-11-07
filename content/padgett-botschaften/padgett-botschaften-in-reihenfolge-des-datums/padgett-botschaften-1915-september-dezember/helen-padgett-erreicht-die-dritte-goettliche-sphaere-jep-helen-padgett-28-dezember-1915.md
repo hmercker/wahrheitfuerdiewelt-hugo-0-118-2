@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett erreicht die Dritte, göttliche Sphäre"
 menu_title: ""
-description: "Helen Padgett erreicht die Dritte, göttliche Sphäre"
+description: "Helen, empfangen durch James Padgett: „Und du darfst nicht glauben, dass ich dir nicht davon erzähle, was mir so am Herzen liegt und auch dir lieb sein sollte.“"
 date: 2020-08-01 06:25:48+00:230
 draft: False
 hidden: True

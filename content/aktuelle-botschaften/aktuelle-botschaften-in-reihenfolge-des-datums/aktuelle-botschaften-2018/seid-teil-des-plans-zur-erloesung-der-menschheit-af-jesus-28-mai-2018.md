@@ -1,7 +1,7 @@
 ---
 title: "Seid Teil des Plans zur Erlösung der Menschheit"
 menu_title: ""
-description: "Seid Teil des Plans zur Erlösung der Menschheit"
+description: "Jesus, empfangen durch Al Fike: „Ihr seid ein Teil von vielen und ihr werdet auf diese Weise zusammenarbeiten. Diese große Vereinigung von Seelen des …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

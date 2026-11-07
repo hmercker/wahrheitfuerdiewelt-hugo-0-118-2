@@ -1,7 +1,7 @@
 ---
 title: "Den Willen Gottes in diese Welt zu bringen"
 menu_title: ""
-description: "Den Willen Gottes in diese Welt zu bringen"
+description: "Markus, empfangen durch Al Fike: „Jeder von euch hat sich in letzter Zeit inspirieren lassen. Jeder von euch hat eine andere Vision und Ideen, Konzepte und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

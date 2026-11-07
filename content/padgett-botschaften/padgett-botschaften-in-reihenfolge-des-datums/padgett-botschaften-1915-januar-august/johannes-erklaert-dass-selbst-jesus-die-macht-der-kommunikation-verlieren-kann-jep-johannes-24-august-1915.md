@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, dass selbst Jesus die Macht der Kommunikation verlieren kann"
 menu_title: ""
-description: "Johannes erklärt, dass selbst Jesus die Macht der Kommunikation verlieren kann"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass das, was der Meister sagt, wahr ist und bald triumphieren wird, und du musst daran …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

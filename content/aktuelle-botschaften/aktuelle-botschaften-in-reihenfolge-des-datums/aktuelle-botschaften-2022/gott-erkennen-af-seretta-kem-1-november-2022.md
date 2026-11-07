@@ -1,7 +1,7 @@
 ---
 title: "Gott erkennen"
 menu_title: ""
-description: "Gott erkennen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, es stehen große Veränderungen um euch herum an. In eurem Leben und im Leben dieses Planeten, den ihr bewohnt …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt unsere Zusammenarbeit mit anderen Lichtbringern"
 menu_title: ""
-description: "Bestätigt unsere Zusammenarbeit mit anderen Lichtbringern"
+description: "Augustinus, empfangen durch Al Fike: „Ich freue mich auf das heutige Gespräch, wie ihr zusammenarbeiten könnt und wie ihr andere Seelen erreichen könnt, um …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele"
 menu_title: ""
-description: "Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele"
+description: "Jesus, empfangen durch James Padgett: „Ich habe euer Gespräch mitgehört und freue mich sehr, dass du und dein Freund so schnell in der Erkenntnis der …“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

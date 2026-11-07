@@ -1,7 +1,7 @@
 ---
 title: "Reichtum und Freude"
 menu_title: ""
-description: "Reichtum und Freude"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich fühle mich zu diesem schönen Kreis hingezogen. Wir sind in die Fußstapfen meines geliebten Franz von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid stark im Licht und haltet die Herausforderung aus"
 menu_title: ""
-description: "Seid stark im Licht und haltet die Herausforderung aus"
+description: "Konfuzius, empfangen durch Al Fike: „Jeder von euch ist hier, weil eure Seelen sich wünschen sich im Gebet zu vereinen und diese Gemeinschaft zu kennen und …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

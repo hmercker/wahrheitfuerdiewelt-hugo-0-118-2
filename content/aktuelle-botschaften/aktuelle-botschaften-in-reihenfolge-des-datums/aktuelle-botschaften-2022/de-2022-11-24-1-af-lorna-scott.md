@@ -1,7 +1,7 @@
 ---
 title: "Lorna Scott kommuniziert nach ihrem Ableben"
 menu_title: ""
-description: "Lorna Scott kommuniziert nach ihrem Ableben"
+description: "Lorna Scott, empfangen durch Al Fike: „Oh, was habe ich alles erlebt und erfahren, seit ich das Land der Lebenden, wie ihr es nennt, verlassen habe.“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

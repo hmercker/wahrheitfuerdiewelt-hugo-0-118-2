@@ -1,7 +1,7 @@
 ---
 title: "Seid beständig in euren Gebeten"
 menu_title: ""
-description: "Seid beständig in euren Gebeten"
+description: "Seretta Kem, empfangen durch Al Fike: „Die Welt wartet weiterhin auf ihr Erwachen. Die Welt braucht dringend diejenigen, die erwacht sind.“"
 date: 2022-01-23 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Besonderer Segen für unsere Familien, Geliebten und alle, mit denen wir verbunden sind"
 menu_title: ""
-description: "Besonderer Segen für unsere Familien, Geliebten und alle, mit denen wir verbunden sind"
+description: "Jesus & Augustinus, empfangen durch Al Fike: „In Zeiten, in denen ihr ernsthaft betet, um das große Geschenk der Liebe Gottes in euren Seelen zu empfangen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

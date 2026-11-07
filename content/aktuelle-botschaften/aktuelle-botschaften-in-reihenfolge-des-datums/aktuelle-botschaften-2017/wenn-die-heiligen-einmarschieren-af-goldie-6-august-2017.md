@@ -1,7 +1,7 @@
 ---
 title: "Wenn die Heiligen einmarschieren"
 menu_title: ""
-description: "Wenn die Heiligen einmarschieren"
+description: "Goldie, empfangen durch Al Fike: „Oh, wenn die Heiligen einmarschieren und sie durch diese Tür kommen, den Raum füllen, im Kreis des Lichts und der Liebe …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

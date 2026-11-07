@@ -1,7 +1,7 @@
 ---
 title: "Verpflichtung"
 menu_title: ""
-description: "Verpflichtung"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ich wohne im himmlischen Königreich und bin eine der vielen Lehrer, die kommen und sich diesen Lichtkreisen …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

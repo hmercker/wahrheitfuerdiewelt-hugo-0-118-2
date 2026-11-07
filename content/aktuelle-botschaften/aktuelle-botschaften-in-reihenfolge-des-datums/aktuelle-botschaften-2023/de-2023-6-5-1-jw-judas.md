@@ -1,7 +1,7 @@
 ---
 title: "Dankbarkeit an Leib und Seele"
 menu_title: ""
-description: "Dankbarkeit an Leib und Seele"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es ist viel über die Notwendigkeit des Gebets gesagt worden. Wahres Gebet aus dem Herzen, aus der Seele, bringt …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

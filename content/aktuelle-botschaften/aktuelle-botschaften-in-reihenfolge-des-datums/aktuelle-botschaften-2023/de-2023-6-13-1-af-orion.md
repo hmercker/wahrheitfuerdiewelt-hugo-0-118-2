@@ -1,7 +1,7 @@
 ---
 title: "Die Perspektive unseres stellaren Freundes auf das Gebet"
 menu_title: ""
-description: "Die Perspektive unseres stellaren Freundes auf das Gebet"
+description: "Orion, empfangen durch Al Fike: „Eure Gebete werden nicht nur von Gott erhört, sondern auch von den Engeln, von den höchsten spirituellen Wesen, sogar bis …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Heisst Loraine willkommen zu dem DS Retreat"
 menu_title: ""
-description: "Heisst Loraine willkommen zu dem DS Retreat"
+description: "Mylora, empfangen durch Al Fike: „Während dieser Zeit der Geduld konnten wir mit ihr und durch sie viel erreichen, um sie in diesen Lichtkreis zu integrieren.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

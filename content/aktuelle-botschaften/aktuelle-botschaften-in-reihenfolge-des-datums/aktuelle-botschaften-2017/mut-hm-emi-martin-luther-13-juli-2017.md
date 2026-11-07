@@ -1,7 +1,7 @@
 ---
 title: "Mut"
 menu_title: ""
-description: "Mut"
+description: "Emi und Martin Luther, empfangen durch Helge Mercker: „Es ist die Liebe des Vaters, die dir die Freude bringt, die dir die Einsichten bringt, die dich …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

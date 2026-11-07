@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, wann eine Seele wie tot erscheint"
 menu_title: ""
-description: "Jesus erklärt, wann eine Seele wie tot erscheint"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte heute Abend darüber schreiben, wie die erlöste Seele vor den Strafen erlöst wird, die Sünde und Irrtum …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

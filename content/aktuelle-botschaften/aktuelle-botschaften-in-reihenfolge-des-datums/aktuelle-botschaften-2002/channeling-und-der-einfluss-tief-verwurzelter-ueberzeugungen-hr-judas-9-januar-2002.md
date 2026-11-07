@@ -1,7 +1,7 @@
 ---
 title: "Channeling und der Einfluss tief verwurzelter Überzeugungen"
 menu_title: ""
-description: "Channeling und der Einfluss tief verwurzelter Überzeugungen"
+description: "Judas, empfangen durch H: „[H.: Lieber Judas, ich würde gerne ein wenig mehr über Seelenwahrnehmungen wissen. Ich habe in dieser Hinsicht immer noch ein …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

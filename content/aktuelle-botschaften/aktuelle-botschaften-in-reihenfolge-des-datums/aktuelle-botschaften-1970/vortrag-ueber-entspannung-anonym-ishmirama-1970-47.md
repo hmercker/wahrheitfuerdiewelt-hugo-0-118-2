@@ -1,7 +1,7 @@
 ---
 title: "Vortrag über Entspannung"
 menu_title: ""
-description: "Vortrag über Entspannung"
+description: "Ishmirama: „Ich freue mich sehr, heute Abend hier bei euch zu sein, um mit euch in eurer Stunde der Gemeinschaft zu sein.“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

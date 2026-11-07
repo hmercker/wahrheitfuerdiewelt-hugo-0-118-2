@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt den Fortschritt ihrer Tochter Nita und die Wahrheit über Jesu zweites Kommen auf die Erde"
 menu_title: ""
-description: "Helen bestätigt den Fortschritt ihrer Tochter Nita und die Wahrheit über Jesu zweites Kommen auf die Erde"
+description: "Helen, empfangen durch James Padgett: „Johannes wird bald kommen - es hängt alles von dir ab. Nun, unser Baby war so glücklich, dass sie dir schreiben …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

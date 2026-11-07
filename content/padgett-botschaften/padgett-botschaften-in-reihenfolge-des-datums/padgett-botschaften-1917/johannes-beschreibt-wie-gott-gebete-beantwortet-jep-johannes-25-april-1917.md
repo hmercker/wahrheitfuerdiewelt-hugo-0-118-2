@@ -1,7 +1,7 @@
 ---
 title: "Johannes beschreibt, wie Gott Gebete beantwortet"
 menu_title: ""
-description: "Johannes beschreibt, wie Gott Gebete beantwortet"
+description: "Johannes, empfangen durch James Padgett: „Nun, Er beantwortet die Gebete für die materiellen Dinge durch das Wirken und die Tätigkeit Seiner Engel und …“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

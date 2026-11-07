@@ -1,7 +1,7 @@
 ---
 title: "Seretta Kem gibt Anweisungen für die 'Direkte Stimme'-  Vorbereitung"
 menu_title: ""
-description: "Seretta Kem gibt Anweisungen für die 'Direkte Stimme'-  Vorbereitung"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, dieses Instrument hat Probleme mit seiner Sehkraft erfahren und weiß, dass diese Dinge mit der Zeit korrigiert …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

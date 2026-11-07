@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Salomo durch Herrn Padgett geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Salomo durch Herrn Padgett geschrieben hat"
+description: "Helen, empfangen von James Padgett: „Nun, du hast heute Abend sicherlich einige wundervolle Botschaften erhalten. Was Salomo dir geschrieben hat, ist wahr …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

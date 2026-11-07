@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle eins in diesem wunderbaren Werk"
 menu_title: ""
-description: "Wir sind alle eins in diesem wunderbaren Werk"
+description: "Jesus: „„Halte diese deine Kinder in Harmonie miteinander, Vater, halte sie stark und zielstrebig - mache jedes einzelne heute Abend hier, jene, die von …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

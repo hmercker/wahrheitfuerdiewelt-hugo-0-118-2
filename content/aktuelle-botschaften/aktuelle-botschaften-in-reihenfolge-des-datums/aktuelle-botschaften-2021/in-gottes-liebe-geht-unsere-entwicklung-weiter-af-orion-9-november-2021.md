@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe geht unsere Entwicklung weiter"
 menu_title: ""
-description: "In Gottes Liebe geht unsere Entwicklung weiter"
+description: "Orion, empfangen durch Al Fike: „Wir tun dies oft in euren Schlafzuständen. Wir wenden bestimmte Mechanismen an, um euch beim Erwachen zu helfen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

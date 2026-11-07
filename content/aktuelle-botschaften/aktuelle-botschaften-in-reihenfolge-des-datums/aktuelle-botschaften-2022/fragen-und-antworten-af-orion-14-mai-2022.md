@@ -1,7 +1,7 @@
 ---
 title: "Fragen und Antworten - Seelen Erwachungs Tour"
 menu_title: ""
-description: "Fragen und Antworten - Seelen Erwachungs Tour"
+description: "Orion, empfangen durch Al Fike: „Dieses Instrument ist stark. Wir könnten uns also etwas Zeit nehmen, um einige Fragen zu beantworten, die ihr vielleicht …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

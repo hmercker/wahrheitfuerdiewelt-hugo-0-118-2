@@ -1,7 +1,7 @@
 ---
 title: "John H. Padgett stimmt dem Vorschlag zu, eine Gruppe zu gründen, um seinen Sohn zu schützen"
 menu_title: ""
-description: "John H. Padgett stimmt dem Vorschlag zu, eine Gruppe zu gründen, um seinen Sohn zu schützen"
+description: "John H. Padgett, empfangen durch James Padgett: „Und ich werde versuchen dir zu sagen was du tun musst, um eine Gruppe von Geist-Arbeitern zu bilden.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

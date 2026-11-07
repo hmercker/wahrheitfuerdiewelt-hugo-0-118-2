@@ -1,7 +1,7 @@
 ---
 title: "Paulus: Keine unverzeihliche Sünde"
 menu_title: ""
-description: "Paulus: Keine unverzeihliche Sünde"
+description: "Paulus, empfangen durch James Padgett: „Nun, jetzt geht es besser. Ich möchte nur sagen, dass die unverzeihliche Sünde, wie sie vom Prediger gelehrt wird …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

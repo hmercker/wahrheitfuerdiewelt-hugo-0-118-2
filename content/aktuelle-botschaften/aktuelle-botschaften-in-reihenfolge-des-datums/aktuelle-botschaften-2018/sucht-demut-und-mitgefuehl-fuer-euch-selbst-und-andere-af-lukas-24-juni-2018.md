@@ -1,7 +1,7 @@
 ---
 title: "Sucht Demut und Mitgefühl für euch selbst und andere"
 menu_title: ""
-description: "Sucht Demut und Mitgefühl für euch selbst und andere"
+description: "Lukas, empfangen durch Al Fike: „Du hast einige Fragen gestellt, liebe Tochter, Fragen, auf die du Antworten und ein tieferes Verständnis haben möchtest.“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

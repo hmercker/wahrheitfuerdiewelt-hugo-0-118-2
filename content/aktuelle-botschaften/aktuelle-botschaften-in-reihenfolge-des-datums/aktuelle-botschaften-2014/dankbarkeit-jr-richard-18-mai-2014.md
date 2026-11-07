@@ -1,7 +1,7 @@
 ---
 title: "Dankbarkeit"
 menu_title: ""
-description: "Dankbarkeit"
+description: "Richard, empfangen durch James R.: „Wenn ihr so zusammenkommt, wie ihr es in eurem freien Willen seid, um euch mit Dankbarkeit, mit Gebet und mit …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Annahme des Dienens von Gottes Willen"
 menu_title: ""
-description: "Die Annahme des Dienens von Gottes Willen"
+description: "Yogananda, empfangen durch Al Fike: „Ich hörte eure Gespräche über eine Reise in mein Land und die Neugierde und Besorgnis dieses Instruments über die …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

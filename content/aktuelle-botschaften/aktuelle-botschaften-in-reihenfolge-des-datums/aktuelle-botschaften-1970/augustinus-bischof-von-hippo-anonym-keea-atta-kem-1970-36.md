@@ -1,7 +1,7 @@
 ---
 title: "Augustinus - Bischof von Hippo"
 menu_title: ""
-description: "Augustinus - Bischof von Hippo"
+description: "Keea Atta Kem: „(Bestätigung des vorherigen Redners) Für einige von euch, die zum ersten Mal sitzen, der letzte Sprecher war Augustinus, auf der Erdebene …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

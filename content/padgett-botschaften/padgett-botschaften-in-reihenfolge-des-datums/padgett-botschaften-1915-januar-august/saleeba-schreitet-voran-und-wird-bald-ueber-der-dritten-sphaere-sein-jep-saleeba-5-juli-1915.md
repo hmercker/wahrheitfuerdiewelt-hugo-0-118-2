@@ -1,7 +1,7 @@
 ---
 title: "Saleeba schreitet voran und wird bald über der dritten Sphäre sein"
 menu_title: ""
-description: "Saleeba schreitet voran und wird bald über der dritten Sphäre sein"
+description: "Saleeba, empfangen durch James Padgett: „Oh, was für eine wunderbare Sache ist die Göttliche Liebe. Wenn ich an die langen Jahre denke, in denen ich als …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

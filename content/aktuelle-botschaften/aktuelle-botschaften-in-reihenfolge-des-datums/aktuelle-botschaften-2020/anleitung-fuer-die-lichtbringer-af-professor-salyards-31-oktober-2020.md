@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für die Lichtbringer"
 menu_title: ""
-description: "Anleitung für die Lichtbringer"
+description: "Professor Salyards, empfangen durch Al Fike: „Ihr vier seid zusammen ein starkes Team, das in der Tat diese Falten und Probleme und Rätsel, die euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

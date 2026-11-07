@@ -1,7 +1,7 @@
 ---
 title: "Selbstliebe und die Göttliche Liebe"
 menu_title: ""
-description: "Selbstliebe und die Göttliche Liebe"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es heißt, wenn man sich etwas vornimmt, gibt es nichts, was nicht zu schaffen ist. Nun, an dieser Aussage ist etwas …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

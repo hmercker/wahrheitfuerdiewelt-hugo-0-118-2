@@ -1,7 +1,7 @@
 ---
 title: "White Eagle (Weißer Adler) würde einem dunklen Wesen nicht erlauben zu schreiben"
 menu_title: ""
-description: "White Eagle (Weißer Adler) würde einem dunklen Wesen nicht erlauben zu schreiben"
+description: "White Eagle, empfangen durch James Padgett: „Lipscomb versuchte zu schreiben und ich wollte ihn nicht schreiben lassen, weil er betrunken war und ich weiß …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen uns selbst zu wahren Dienern für Gott machen"
 menu_title: ""
-description: "Wir müssen uns selbst zu wahren Dienern für Gott machen"
+description: "Gandhi: „Ihr habt nun viele Monate und viele Jahre treu gesessen und ich möchte euch, die ihr so treu gewesen seid, unseren dankbaren Dank aussprechen und …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

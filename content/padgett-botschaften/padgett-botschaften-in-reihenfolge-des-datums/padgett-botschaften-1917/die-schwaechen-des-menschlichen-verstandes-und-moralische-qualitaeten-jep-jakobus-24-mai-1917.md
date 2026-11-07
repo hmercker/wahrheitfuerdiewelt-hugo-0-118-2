@@ -1,7 +1,7 @@
 ---
 title: "Die Schwächen des menschlichen Verstandes und moralische Qualitäten"
 menu_title: ""
-description: "Die Schwächen des menschlichen Verstandes und moralische Qualitäten"
+description: "Jakobus, empfangen durch James Padgett: „Ich habe gehört, dass du die Botschaft des Meisters gelesen hast, und ich glaube, dass du darin viel Wahrheit …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

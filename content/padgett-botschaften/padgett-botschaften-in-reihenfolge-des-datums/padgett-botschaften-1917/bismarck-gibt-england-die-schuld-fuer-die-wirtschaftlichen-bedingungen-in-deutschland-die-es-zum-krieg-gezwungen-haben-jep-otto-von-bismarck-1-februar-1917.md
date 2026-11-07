@@ -1,7 +1,7 @@
 ---
 title: "Bismarck gibt England die Schuld für die wirtschaftlichen Bedingungen in Deutschland, die es zum Krieg gezwungen haben"
 menu_title: ""
-description: "Bismarck gibt England die Schuld für die wirtschaftlichen Bedingungen in Deutschland, die es zum Krieg gezwungen haben"
+description: "Bismarck, empfangen durch James Padgett: „Lass mich ein Wort sagen, denn ich habe mir das eben Geschriebene angehört und interessiere mich für den …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

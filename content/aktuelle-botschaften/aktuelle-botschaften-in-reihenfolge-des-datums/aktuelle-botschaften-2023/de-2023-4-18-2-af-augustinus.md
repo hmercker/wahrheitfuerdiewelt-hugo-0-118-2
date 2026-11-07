@@ -1,7 +1,7 @@
 ---
 title: "Spricht Klartext darüber, was für Direkte Stimme Manifestationen erforderlich sind"
 menu_title: ""
-description: "Spricht Klartext darüber, was für Direkte Stimme Manifestationen erforderlich sind"
+description: "Augustinus, empfangen durch Al Fike: „Habt ihr euer Leben zu einem Leben des Gebets gemacht, so dass jeder Ausdruck dessen, wer ihr seid und was ihr in der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

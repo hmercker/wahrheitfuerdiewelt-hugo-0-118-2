@@ -1,7 +1,7 @@
 ---
 title: "Ihr erwacht weiter, während eure Seelen in der Liebe des Vaters wachsen"
 menu_title: ""
-description: "Ihr erwacht weiter, während eure Seelen in der Liebe des Vaters wachsen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte euch, jedem von euch, versichern, dass ihr geführt werden werdet, wenn es nötig ist, dass es keine …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

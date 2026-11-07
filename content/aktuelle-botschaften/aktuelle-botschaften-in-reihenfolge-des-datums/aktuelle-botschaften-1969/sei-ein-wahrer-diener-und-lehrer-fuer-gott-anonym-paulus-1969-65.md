@@ -1,7 +1,7 @@
 ---
 title: "Sei ein wahrer Diener und Lehrer für Gott"
 menu_title: ""
-description: "Sei ein wahrer Diener und Lehrer für Gott"
+description: "Paulus: „Ich hatte nicht das Gefühl, dass ich um diese Zeit kommen sollte, weil alles, was ich sagen könnte, so unangemessen erscheinen würde nach dem …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

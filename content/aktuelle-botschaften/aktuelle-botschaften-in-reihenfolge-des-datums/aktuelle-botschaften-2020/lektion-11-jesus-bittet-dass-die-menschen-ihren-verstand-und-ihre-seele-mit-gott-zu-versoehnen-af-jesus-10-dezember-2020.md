@@ -1,7 +1,7 @@
 ---
 title: "Lektion 11 - Jesus bittet die Menschen, ihren Verstand und ihre Seele mit Gott zu versöhnen"
 menu_title: ""
-description: "Lektion 11 - Jesus bittet die Menschen, ihren Verstand und ihre Seele mit Gott zu versöhnen"
+description: "Jesus, empfangen durch Al Fike: „Möge eure Welt zur Wahrheit erwachen, damit sie wirklich Kinder Gottes sein können, damit die Schleier der Täuschung, des …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

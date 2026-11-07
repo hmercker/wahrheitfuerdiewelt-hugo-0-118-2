@@ -1,7 +1,7 @@
 ---
 title: "Ihr betretet eine neue Phase des Dienstes"
 menu_title: ""
-description: "Ihr betretet eine neue Phase des Dienstes"
+description: "Augustinus, empfangen durch Al Fike: „Dies ist euer Lehrer Augustinus. So wie sich euer Verstand auf das Erwachen eurer Seelen einstellt, so werdet ihr in …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

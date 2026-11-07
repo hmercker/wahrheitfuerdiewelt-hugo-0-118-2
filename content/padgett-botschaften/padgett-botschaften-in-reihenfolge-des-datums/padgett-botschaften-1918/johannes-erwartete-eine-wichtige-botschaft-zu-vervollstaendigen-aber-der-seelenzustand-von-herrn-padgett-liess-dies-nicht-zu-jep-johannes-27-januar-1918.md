@@ -1,7 +1,7 @@
 ---
 title: "Johannes erwartete, eine wichtige Botschaft zu vervollständigen, aber der Seelenzustand von Herrn Padgett ließ dies nicht zu"
 menu_title: ""
-description: "Johannes erwartete, eine wichtige Botschaft zu vervollständigen, aber der Seelenzustand von Herrn Padgett ließ dies nicht zu"
+description: "Johannes, empfangen durch James Padgett: „Nein, ich kann heute Abend nicht schreiben, wie ich es erwartet habe und bin enttäuscht, dass du nicht in der …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

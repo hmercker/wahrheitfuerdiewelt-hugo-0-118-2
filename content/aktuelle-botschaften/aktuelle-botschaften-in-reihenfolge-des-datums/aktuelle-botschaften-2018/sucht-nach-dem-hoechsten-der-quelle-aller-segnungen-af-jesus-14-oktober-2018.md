@@ -1,7 +1,7 @@
 ---
 title: "Sucht nach dem Höchsten, der Quelle aller Segnungen"
 menu_title: ""
-description: "Sucht nach dem Höchsten, der Quelle aller Segnungen"
+description: "Jesus, empfangen durch Al Fike: „Denn seht ihr, wir alle tragen das Licht in die Welt. Wir tragen das Licht durch unsere Gebete, unsere Sehnsüchte, unsere …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

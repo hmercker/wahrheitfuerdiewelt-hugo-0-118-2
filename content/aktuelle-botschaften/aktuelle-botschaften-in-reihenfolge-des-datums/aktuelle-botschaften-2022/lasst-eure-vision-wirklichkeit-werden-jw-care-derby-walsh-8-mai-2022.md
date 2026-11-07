@@ -1,7 +1,7 @@
 ---
 title: "Lasst eure Vision Wirklichkeit werden"
 menu_title: ""
-description: "Lasst eure Vision Wirklichkeit werden"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Es bringt mir große Freude und öffnet mein Herz für euch. Ihr braucht euch keine Sorgen zu machen, wenn …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

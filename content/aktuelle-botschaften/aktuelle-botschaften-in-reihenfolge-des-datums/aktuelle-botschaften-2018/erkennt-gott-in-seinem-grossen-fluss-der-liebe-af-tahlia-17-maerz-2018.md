@@ -1,7 +1,7 @@
 ---
 title: "Erkennt Gott in Seinem großen Fluss der Liebe"
 menu_title: ""
-description: "Erkennt Gott in Seinem großen Fluss der Liebe"
+description: "Tahlia, empfangen durch Al Fike: „Ich habe eine besondere Verbindung zu dir, meine Tochter und ich arbeite mit dir. Du wirst meine Kraft spüren.“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

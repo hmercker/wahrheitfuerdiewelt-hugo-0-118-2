@@ -1,7 +1,7 @@
 ---
 title: "Die Vorbereitungen durch die spirituellen Wesen gehen weiter"
 menu_title: ""
-description: "Die Vorbereitungen durch die spirituellen Wesen gehen weiter"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir fahren fort, euch vorzubereiten, jeden einzelnen, auch diejenigen, die reisen werden. Wir arbeiten weiterhin mit …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

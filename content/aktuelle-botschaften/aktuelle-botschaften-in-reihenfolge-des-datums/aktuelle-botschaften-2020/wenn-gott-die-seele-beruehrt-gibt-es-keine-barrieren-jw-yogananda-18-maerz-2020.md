@@ -1,7 +1,7 @@
 ---
 title: "Wenn Gott die Seele berührt, gibt es keine Barrieren"
 menu_title: ""
-description: "Wenn Gott die Seele berührt, gibt es keine Barrieren"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Dank der wunderbaren Technologie, die euch zur Verfügung steht, seid ihr in der Lage, zusammenzukommen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

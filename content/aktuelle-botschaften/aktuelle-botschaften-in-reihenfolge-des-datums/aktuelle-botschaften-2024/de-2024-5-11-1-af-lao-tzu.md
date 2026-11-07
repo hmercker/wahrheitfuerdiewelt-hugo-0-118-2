@@ -1,7 +1,7 @@
 ---
 title: "Die Wandlungen, die mit der Göttlichen Liebe kommen"
 menu_title: ""
-description: "Die Wandlungen, die mit der Göttlichen Liebe kommen"
+description: "Lao Tzu, empfangen durch Al Fike: „Jede Seele sehnt sich nach Wahrheit. Doch nicht jede Seele findet die Wahrheit und bemüht sich auch nicht, sie zu finden.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

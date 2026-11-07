@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, mit den Plänen fortzufahren"
 menu_title: ""
-description: "Ermutigung, mit den Plänen fortzufahren"
+description: "Mahatma Gandhi, empfangen durch Al Fike: „Es warten viele Reisen auf euch, viele Reisen an viele Orte, denn der geliebte Meister Jesus saß in seinem Dienst …“"
 date: 2020-08-01 06:25:48+00:234
 draft: False
 hidden: True

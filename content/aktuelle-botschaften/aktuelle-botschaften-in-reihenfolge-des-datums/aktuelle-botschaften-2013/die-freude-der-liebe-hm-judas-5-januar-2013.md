@@ -1,7 +1,7 @@
 ---
 title: "Die Freude der Liebe"
 menu_title: ""
-description: "Die Freude der Liebe"
+description: "Judas, empfangen durch Helge Mercker: „Du liest meine Botschaften, die ich durch HR gegeben habe. Du findest etwas Klarheit über einige Themen und das …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

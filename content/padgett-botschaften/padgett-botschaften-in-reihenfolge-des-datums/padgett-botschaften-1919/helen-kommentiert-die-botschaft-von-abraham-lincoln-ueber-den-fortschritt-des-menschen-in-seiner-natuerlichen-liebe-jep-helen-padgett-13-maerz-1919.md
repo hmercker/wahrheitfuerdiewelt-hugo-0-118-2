@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Botschaft von Abraham Lincoln über den Fortschritt des Menschen in seiner natürlichen Liebe"
 menu_title: ""
-description: "Helen kommentiert die Botschaft von Abraham Lincoln über den Fortschritt des Menschen in seiner natürlichen Liebe"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hast heute Abend eine Mitteilung von Lincoln erhalten, der es für ratsam hält dir zu schreiben …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

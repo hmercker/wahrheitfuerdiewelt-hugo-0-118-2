@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Helen"
 menu_title: ""
-description: "Bestätigung durch Helen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hast heute Abend wunderbare Botschaften von wunderbaren spirituellen Wesen erhalten und ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

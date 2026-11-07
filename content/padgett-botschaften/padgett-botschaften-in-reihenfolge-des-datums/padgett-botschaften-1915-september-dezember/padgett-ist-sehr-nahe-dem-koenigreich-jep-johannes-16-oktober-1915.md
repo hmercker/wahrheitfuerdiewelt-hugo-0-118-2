@@ -1,7 +1,7 @@
 ---
 title: "Padgett ist sehr nahe dem Königreich"
 menu_title: ""
-description: "Padgett ist sehr nahe dem Königreich"
+description: "Johannes, empfangen durch James Padgett: „Du bist jetzt so erfüllt von der Liebe des Vaters und vom Einfluss des Meisters, dass du dem Königreich sehr nahe …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

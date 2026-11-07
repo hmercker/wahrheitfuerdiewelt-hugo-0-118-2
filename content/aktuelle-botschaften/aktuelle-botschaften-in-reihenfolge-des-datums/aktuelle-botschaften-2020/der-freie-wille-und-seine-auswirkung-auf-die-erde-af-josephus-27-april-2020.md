@@ -1,7 +1,7 @@
 ---
 title: "Der freie Wille und seine Auswirkungen auf die Bedingungen der Erde"
 menu_title: ""
-description: "Der freie Wille und seine Auswirkungen auf die Bedingungen der Erde"
+description: "Josephus, empfangen durch Al Fike: „Ich möchte eine Botschaft für all jene geben, die bereit sind zuzuhören. Es geht um das Thema des freien Willens und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

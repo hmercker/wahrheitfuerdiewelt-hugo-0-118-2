@@ -1,7 +1,7 @@
 ---
 title: "Es beginnt im Westen und erstreckt sich über die ganze Welt"
 menu_title: ""
-description: "Es beginnt im Westen und erstreckt sich über die ganze Welt"
+description: "Jesus, empfangen durch Al Fike: „(Betet) für eure Brüder, so wie wir auch für all jene beten, die Gottes Kinder in Liebe sind.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

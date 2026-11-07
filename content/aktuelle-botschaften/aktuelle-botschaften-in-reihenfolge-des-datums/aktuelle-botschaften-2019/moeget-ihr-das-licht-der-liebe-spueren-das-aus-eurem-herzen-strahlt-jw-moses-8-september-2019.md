@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr das Licht der Liebe spüren, das aus eurem Herzen strahlt"
 menu_title: ""
-description: "Möget ihr das Licht der Liebe spüren, das aus eurem Herzen strahlt"
+description: "Moses, empfangen durch Jimbeau Walsh: „Meine Kinder der Erde, von wo ich schon lange weggegangen bin, aber heute wieder gekommen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

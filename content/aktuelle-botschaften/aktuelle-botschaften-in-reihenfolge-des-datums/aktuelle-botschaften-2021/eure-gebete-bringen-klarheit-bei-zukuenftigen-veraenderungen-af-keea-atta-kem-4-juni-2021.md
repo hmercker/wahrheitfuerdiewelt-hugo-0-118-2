@@ -1,7 +1,7 @@
 ---
 title: "Eure Gebete bringen Klarheit bei zukünftigen Veränderungen"
 menu_title: ""
-description: "Eure Gebete bringen Klarheit bei zukünftigen Veränderungen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Es ist gut, dass ihr um die großen Segnungen des Lichts und der Liebe für eure Welt betet.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht mehr wie euch"
 menu_title: ""
-description: "Die Welt braucht mehr wie euch"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ja, ich habe schon eine Weile nicht mehr gesprochen. Das bedeutet aber nicht, dass ich weg war.“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

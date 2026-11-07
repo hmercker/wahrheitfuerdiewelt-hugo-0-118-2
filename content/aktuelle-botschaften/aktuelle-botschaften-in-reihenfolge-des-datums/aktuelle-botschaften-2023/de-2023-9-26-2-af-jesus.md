@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit von Gottes Liebe wahrnehmen und praktizieren"
 menu_title: ""
-description: "Die Wahrheit von Gottes Liebe wahrnehmen und praktizieren"
+description: "Jesus, empfangen durch Al Fike: „Ich begleite euch auf eurer Suche nach der Liebe Gottes in euren Seelen, um diese Wahrheit zu bekräftigen, die ich vor so …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

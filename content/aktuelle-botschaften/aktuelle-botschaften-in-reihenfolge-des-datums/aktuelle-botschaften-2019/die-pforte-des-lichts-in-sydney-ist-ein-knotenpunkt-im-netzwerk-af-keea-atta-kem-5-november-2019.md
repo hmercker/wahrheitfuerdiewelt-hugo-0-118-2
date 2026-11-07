@@ -1,7 +1,7 @@
 ---
 title: "Die Pforte des Lichts in Sydney ist ein Knotenpunkt im Netzwerk"
 menu_title: ""
-description: "Die Pforte des Lichts in Sydney ist ein Knotenpunkt im Netzwerk"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wie entzückend ist es, euch an diesem Ort zusammen zu sehen, eure Liebe füreinander zu bekräftigen, zusammen zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

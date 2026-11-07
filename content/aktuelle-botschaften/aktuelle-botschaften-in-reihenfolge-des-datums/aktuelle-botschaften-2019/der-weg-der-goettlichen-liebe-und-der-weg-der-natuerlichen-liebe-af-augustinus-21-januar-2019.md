@@ -1,7 +1,7 @@
 ---
 title: "Der Weg der göttlichen Liebe und der Weg der natürlichen Liebe"
 menu_title: ""
-description: "Der Weg der göttlichen Liebe und der Weg der natürlichen Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Gottes Mantel des Friedens ist auf euch herabgekommen, Geliebte. Wie die Flügel der Tauben, die sich ausbreiten und …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

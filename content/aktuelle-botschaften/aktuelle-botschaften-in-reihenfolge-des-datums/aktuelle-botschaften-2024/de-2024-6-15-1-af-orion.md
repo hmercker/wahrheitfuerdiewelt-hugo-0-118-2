@@ -1,7 +1,7 @@
 ---
 title: "Ich spreche nur die Wahrheit zu euch in Liebe"
 menu_title: ""
-description: "Ich spreche nur die Wahrheit zu euch in Liebe"
+description: "Orion, empfangen durch Al Fike: „Ihr seht euch als getrennte, individuelle Seelen in der Welt, und das ist eine Tatsache. Doch auf manchen Ebenen seid ihr …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

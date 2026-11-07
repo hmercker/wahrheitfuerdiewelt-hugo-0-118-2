@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt, wie sie und Barbara auf der Erde parallele Wege gegangen sind"
 menu_title: ""
-description: "Beschreibt, wie sie und Barbara auf der Erde parallele Wege gegangen sind"
+description: "Grace Jordan, empfangen durch Al Fike: „Auch ich war sensibel, aber meine Reise und meine Erfahrungen waren anders, weil ich eine andere Seele bin und das …“"
 date: 2025-01-22 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr ein wahres Beispiel dafür sein, was diese Segnungen für die Menschheit tun können"
 menu_title: ""
-description: "Möget ihr ein wahres Beispiel dafür sein, was diese Segnungen für die Menschheit tun können"
+description: "Paulus: „Seid gesegnet, meine Kinder, Paulus. Der Frieden der Welt liegt in euren Händen, erinnert euch daran, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

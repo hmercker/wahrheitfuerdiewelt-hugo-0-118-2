@@ -1,7 +1,7 @@
 ---
 title: "Seine Kirche auf Erden"
 menu_title: ""
-description: "Seine Kirche auf Erden"
+description: "Jesus, empfangen durch David Lampron: „Du hast nach B.R.s Rolle in der zukünftigen Arbeit der Kirche gefragt, und ich kann zu diesem Zeitpunkt sagen, dass …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

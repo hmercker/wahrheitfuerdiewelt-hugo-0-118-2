@@ -1,7 +1,7 @@
 ---
 title: "Enttäuschung über kulturelle Veränderungen"
 menu_title: ""
-description: "Enttäuschung über kulturelle Veränderungen"
+description: "James Tudor, empfangen durch Al Fike: „Wenn ich heute auf mein Land Barbados schaue, bin ich traurig und enttäuscht über die Bedingungen und die …“"
 date: 2025-01-22 06:00:00+00:10
 draft: False
 hidden: True

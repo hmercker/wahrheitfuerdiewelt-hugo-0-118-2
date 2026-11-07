@@ -1,7 +1,7 @@
 ---
 title: "Kommt, um uns aus dem menschlichen Zustand zu erheben"
 menu_title: ""
-description: "Kommt, um uns aus dem menschlichen Zustand zu erheben"
+description: "Mylora, empfangen durch Al Fike: „Ich bringe jedem von euch heute Heilung und Aufmunterung. Ich spüre den Körper und den Zustand dieses Instruments.“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

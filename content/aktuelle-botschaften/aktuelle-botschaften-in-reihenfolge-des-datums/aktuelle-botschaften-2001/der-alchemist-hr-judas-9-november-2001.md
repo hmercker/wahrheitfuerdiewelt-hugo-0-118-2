@@ -1,7 +1,7 @@
 ---
 title: "Der Alchemist"
 menu_title: ""
-description: "Der Alchemist"
+description: "Judas, empfangen durch H.am: „Ich werde nicht viel von deiner Zeit in Anspruch nehmen, denn du bist schon sehr müde. Ich freue mich, dass dir das Buch …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

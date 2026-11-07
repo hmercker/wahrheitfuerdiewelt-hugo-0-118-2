@@ -1,7 +1,7 @@
 ---
 title: "Ihr tragt eine besondere Wahrheit"
 menu_title: ""
-description: "Ihr tragt eine besondere Wahrheit"
+description: "Michael Collier, empfangen durch Al Fike: „Jeder von euch ist ein Torwächter für Gott, denn es sind eure Gebete und eure Bemühungen, Gott in der Wahrheit …“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Wahrheit kann man nur mit der Seele ergründen"
 menu_title: ""
-description: "Die Göttliche Wahrheit kann man nur mit der Seele ergründen"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „So wie die Liebe Gottes ewig ist, so sind auch Seine Gesetze und Seine Wahrheiten ewig. Ihr seid eine etwas …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

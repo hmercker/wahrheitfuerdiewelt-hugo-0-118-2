@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen Verstand und Seele"
 menu_title: ""
-description: "Der Unterschied zwischen Verstand und Seele"
+description: "Matthäus, empfangen durch Al Fike: „Wenn ihr euch den Verstand als Wasser vorstellt, denkt an die Seele als Licht. In beiden Fällen können viele Ebenen des …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

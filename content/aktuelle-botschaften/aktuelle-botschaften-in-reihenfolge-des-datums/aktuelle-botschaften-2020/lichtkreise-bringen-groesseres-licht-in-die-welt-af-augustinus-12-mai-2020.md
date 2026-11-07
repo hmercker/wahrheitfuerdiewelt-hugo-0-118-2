@@ -1,7 +1,7 @@
 ---
 title: "Lichtkreise bringen größeres Licht in die Welt "
 menu_title: ""
-description: "Lichtkreise bringen größeres Licht in die Welt "
+description: "Augustinus, empfangen durch Al Fike: „Dies ist euer Lehrer Augustinus. Wieder einmal kommt ihr in einem Kreis des Lichts zusammen, in der Absicht zu beten …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

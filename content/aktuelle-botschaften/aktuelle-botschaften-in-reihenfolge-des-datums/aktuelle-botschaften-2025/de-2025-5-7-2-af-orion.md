@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist für jedes Wesen im Universum verfügbar und wird die Menschheit retten"
 menu_title: ""
-description: "Gottes Liebe ist für jedes Wesen im Universum verfügbar und wird die Menschheit retten"
+description: "Orion, empfangen durch Al Fike: „Unser Wunsch ist es, dass alle auf eurem Planeten diesem Beispiel folgen und so leben, dass Harmonie Harmonie erzeugt …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

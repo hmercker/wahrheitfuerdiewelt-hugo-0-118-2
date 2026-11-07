@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet euren Weg auf dieser Reise des Erwachens durch Medialität finden"
 menu_title: ""
-description: "Ihr werdet euren Weg auf dieser Reise des Erwachens durch Medialität finden"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich werde diesen Entwicklungskreis leiten und die verschiedenen Abläufe und Ereignisse organisieren, die in den …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

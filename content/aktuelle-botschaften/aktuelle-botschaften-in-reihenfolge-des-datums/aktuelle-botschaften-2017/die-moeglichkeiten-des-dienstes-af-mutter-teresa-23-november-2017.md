@@ -1,7 +1,7 @@
 ---
 title: "Die Möglichkeiten des Dienstes"
 menu_title: ""
-description: "Die Möglichkeiten des Dienstes"
+description: "Mutter Teresa, empfangen durch Al Fike: „Es gibt immer viel Arbeit zu tun, meine Freunde, immer viel zu tun, denn niemand kann untätig bleiben, wenn es so …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

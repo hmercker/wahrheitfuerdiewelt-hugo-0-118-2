@@ -1,7 +1,7 @@
 ---
 title: "Der Weg den ihr gemeinsam geht"
 menu_title: ""
-description: "Der Weg den ihr gemeinsam geht"
+description: "Andreas, empfangen durch Al Fike: „Ihr seid wahrhaftig Brüder und Schwestern in diesem geliebten Fluss der Liebe des Vaters und der Fürsorge und Bewahrung …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

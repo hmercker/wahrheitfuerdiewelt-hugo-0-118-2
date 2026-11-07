@@ -1,7 +1,7 @@
 ---
 title: "Die Dunkelheit mit Licht bekämpfen"
 menu_title: ""
-description: "Die Dunkelheit mit Licht bekämpfen"
+description: "Orion, empfangen durch Al Fike: „Wir bemühen uns sehr, euch zu unterstützen und dabei zu helfen, das zu neutralisieren, was ihr als Gift in eurer …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

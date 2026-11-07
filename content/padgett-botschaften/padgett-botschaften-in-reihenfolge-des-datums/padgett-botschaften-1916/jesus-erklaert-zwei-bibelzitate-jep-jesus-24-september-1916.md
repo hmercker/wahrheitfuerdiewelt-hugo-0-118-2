@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt zwei Bibelzitate"
 menu_title: ""
-description: "Jesus erklärt zwei Bibelzitate"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute ziemlich oft bei dir und weiß genau, was in deinem Verstand vorgegangen ist, und ich versuchte, dich …“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

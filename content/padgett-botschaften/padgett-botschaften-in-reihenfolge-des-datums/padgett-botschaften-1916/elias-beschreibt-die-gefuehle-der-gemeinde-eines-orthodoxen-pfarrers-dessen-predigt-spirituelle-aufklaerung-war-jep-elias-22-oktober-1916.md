@@ -1,7 +1,7 @@
 ---
 title: "Elias beschreibt die Gefühle der Gemeinde eines orthodoxen Pfarrers, dessen Predigt spirituelle Aufklärung war "
 menu_title: ""
-description: "Elias beschreibt die Gefühle der Gemeinde eines orthodoxen Pfarrers, dessen Predigt spirituelle Aufklärung war "
+description: "Elias, empfangen durch James Padgett: „Heute Abend waren in der Kirche viele spirituelle Wesen anwesend, und wie der Prediger sagte, war jedes Teilchen des …“"
 date: 2020-08-01 06:25:48+00:240
 draft: False
 hidden: True

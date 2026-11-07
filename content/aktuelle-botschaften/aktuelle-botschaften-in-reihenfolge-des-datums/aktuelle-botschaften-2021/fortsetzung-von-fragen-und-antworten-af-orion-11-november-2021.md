@@ -1,7 +1,7 @@
 ---
 title: "Fortsetzung von Fragen und Antworten"
 menu_title: ""
-description: "Fortsetzung von Fragen und Antworten"
+description: "Orion, empfangen durch Al Fike: „Insbesondere möchte ich auf die mangelnde Zusammenarbeit und Einheit mit der menschlichen Rasse eingehen, die in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

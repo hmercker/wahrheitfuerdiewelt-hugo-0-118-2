@@ -1,7 +1,7 @@
 ---
 title: "Erwartet den Anbruch einer neuen Art zu leben"
 menu_title: ""
-description: "Erwartet den Anbruch einer neuen Art zu leben"
+description: "Andreas, empfangen durch Al Fike: „Möge der Segen der Liebe des Vaters weiterhin in eure Seelen fließen. Denn viele von euch gehen weiterhin verschleiert …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

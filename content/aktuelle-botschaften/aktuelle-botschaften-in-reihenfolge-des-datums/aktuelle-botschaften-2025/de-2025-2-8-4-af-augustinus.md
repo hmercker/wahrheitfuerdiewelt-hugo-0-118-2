@@ -1,7 +1,7 @@
 ---
 title: "Seid stark, zuversichtlich und begierig darauf, eine neue Welt zu akzeptieren"
 menu_title: ""
-description: "Seid stark, zuversichtlich und begierig darauf, eine neue Welt zu akzeptieren"
+description: "Augustinus, empfangen durch Al Fike: „Ihr seid euch der materiellen Welt wohl bewusst und wisst sie zu schätzen. Sie ist schon seit vielen Jahren eure …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

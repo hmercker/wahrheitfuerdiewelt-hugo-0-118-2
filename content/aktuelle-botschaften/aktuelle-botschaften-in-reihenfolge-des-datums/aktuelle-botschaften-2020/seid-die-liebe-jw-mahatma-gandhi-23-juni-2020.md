@@ -1,7 +1,7 @@
 ---
 title: "Seid die Liebe"
 menu_title: ""
-description: "Seid die Liebe"
+description: "Mahatma Gandhi, empfangen durch Jimbeau Walsh: „Danke, dass ihr mir erlaubt habt, zu kommen. Als ich die Worte sprach: \"Seid die Veränderung, die ihr in …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 1 - Die Reise der Seele und die Gesetze der Liebe"
 menu_title: ""
-description: "Lektion 1 - Die Reise der Seele und die Gesetze der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Ihr habt in eurem Leben die Wohltat der Engel mit euch gehabt und ihr habt die Wahrheit der Göttlichen Liebe während eines …“"
 date: 2020-10-01 06:25:48+00:73
 draft: False
 hidden: True

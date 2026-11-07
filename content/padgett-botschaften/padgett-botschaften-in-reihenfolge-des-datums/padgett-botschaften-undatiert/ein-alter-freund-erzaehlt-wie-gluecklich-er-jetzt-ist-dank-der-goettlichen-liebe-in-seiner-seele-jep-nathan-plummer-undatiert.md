@@ -1,7 +1,7 @@
 ---
 title: "Ein alter Freund erzählt, wie glücklich er jetzt ist, dank der Göttlichen Liebe in seiner Seele"
 menu_title: ""
-description: "Ein alter Freund erzählt, wie glücklich er jetzt ist, dank der Göttlichen Liebe in seiner Seele"
+description: "Nathan Plummer, empfangen durch James Padgett: „Ich weiß nicht genau, wie ich dir meinen Zustand beschreiben soll, aber so wie ich dir gesagt habe, dass es …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

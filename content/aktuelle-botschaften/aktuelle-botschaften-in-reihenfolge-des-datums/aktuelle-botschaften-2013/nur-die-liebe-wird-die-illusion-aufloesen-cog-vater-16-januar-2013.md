@@ -1,7 +1,7 @@
 ---
 title: "Nur die Liebe wird die Illusion auflösen"
 menu_title: ""
-description: "Nur die Liebe wird die Illusion auflösen"
+description: "Vater, empfangen durch Child of God: „Kannst du mein Glück spüren? Fühlt das Weben der großen Liebe zwischen uns.“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

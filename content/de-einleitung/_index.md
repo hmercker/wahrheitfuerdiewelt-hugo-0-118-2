@@ -1,7 +1,7 @@
 ---
 title: "Einleitung "
 menu_title: "Einleitung "
-description: "Einleitung "
+description: "Herzlich willkommen auf unserer Website. Mögen die hier präsentierten Seiten dir Freude auf deiner spirituellen Reise zum Erwachen deiner Seele und …“"
 date: 2024-01-17 02:18:11+11:00
 draft: False
 hidden: False

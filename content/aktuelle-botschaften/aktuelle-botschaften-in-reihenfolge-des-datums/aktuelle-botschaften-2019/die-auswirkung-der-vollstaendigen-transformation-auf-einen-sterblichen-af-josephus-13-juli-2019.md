@@ -1,7 +1,7 @@
 ---
 title: "Die Auswirkung der vollständigen Transformation auf einen Sterblichen"
 menu_title: ""
-description: "Die Auswirkung der vollständigen Transformation auf einen Sterblichen"
+description: "Josephus, empfangen durch Al Fike: „Ich diene euch weiterhin mit der Möglichkeit, eure Fragen und Wunder des Lebens in Bezug auf das Erwachen eurer Seele …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

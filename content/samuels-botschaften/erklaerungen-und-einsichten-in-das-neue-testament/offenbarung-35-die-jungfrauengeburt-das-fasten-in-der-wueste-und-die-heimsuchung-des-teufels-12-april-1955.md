@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 35 : Die Jungfrauengeburt, das Fasten in der Wüste und die Heimsuchung des Teufels"
 menu_title: ""
-description: "Offenbarung 35 : Die Jungfrauengeburt, das Fasten in der Wüste und die Heimsuchung des Teufels"
+description: "Jesus, empfangen durch Dr Samuels: „Beginnen wir heute mit dem Lukas-Evangelium, wobei wir uns zuerst einmal mit der sogenannten Unbefleckten Empfängnis …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

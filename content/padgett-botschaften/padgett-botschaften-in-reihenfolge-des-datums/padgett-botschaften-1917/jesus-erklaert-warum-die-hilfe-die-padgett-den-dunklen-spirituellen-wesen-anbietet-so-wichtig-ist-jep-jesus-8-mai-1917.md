@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, warum die Hilfe, die Padgett den dunklen, spirituellen Wesen anbietet, so wichtig ist"
 menu_title: ""
-description: "Jesus erklärt, warum die Hilfe, die Padgett den dunklen, spirituellen Wesen anbietet, so wichtig ist"
+description: "Jesus, empfangen durch James Padgett: „Ich sehe, dass deine Arbeit dich daran gehindert hat, meine Botschaft heute Abend zu empfangen, und obwohl es mir …“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

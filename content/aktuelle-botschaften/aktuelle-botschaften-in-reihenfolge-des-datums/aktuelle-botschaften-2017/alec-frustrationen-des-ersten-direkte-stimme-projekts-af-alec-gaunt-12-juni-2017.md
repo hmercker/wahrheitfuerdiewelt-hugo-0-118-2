@@ -1,7 +1,7 @@
 ---
 title: "Alec: Frustrationen des ersten Direkte Stimme Projekts"
 menu_title: ""
-description: "Alec: Frustrationen des ersten Direkte Stimme Projekts"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ihr habt also von eurem alten Freund Alec hören wollen? Ich werde meine Kommentare kurz halten, denn ihr müsst jetzt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 43 : Messianische Verweise im Buch Jesaja"
 menu_title: ""
-description: "Offenbarung 43 : Messianische Verweise im Buch Jesaja"
+description: "Jesus, empfangen durch Dr Samuels: „Heute möchte ich dir über eine Passage im Buch Jesaja schreiben, die messianische Bezüge hat und wo von einer jungen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Alte und der Neue Pakt"
 menu_title: ""
-description: "Der Alte und der Neue Pakt"
+description: "Jesus, empfangen durch Dr Samuels im August: „Der Bund, den Gott mit Abraham schloss, war vielleicht nicht der erste zwischen der Gottheit und dem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

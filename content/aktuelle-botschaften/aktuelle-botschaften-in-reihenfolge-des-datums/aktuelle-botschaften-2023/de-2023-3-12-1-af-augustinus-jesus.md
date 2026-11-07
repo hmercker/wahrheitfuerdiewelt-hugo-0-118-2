@@ -1,7 +1,7 @@
 ---
 title: "Einladung zur Göttlichen Liebe"
 menu_title: ""
-description: "Einladung zur Göttlichen Liebe"
+description: "Augustinus & Jesus, empfangen durch Al Fike: „Möge Gott euch segnen, geliebte Seelen, Kinder Gottes, Brüder und Schwestern. Es ist ein Geschenk, ein …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

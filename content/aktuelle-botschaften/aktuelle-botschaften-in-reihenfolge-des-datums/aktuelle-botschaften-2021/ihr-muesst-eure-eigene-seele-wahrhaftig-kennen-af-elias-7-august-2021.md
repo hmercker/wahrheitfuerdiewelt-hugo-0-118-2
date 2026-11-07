@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst eure eigene Seele wahrhaftig kennen"
 menu_title: ""
-description: "Ihr müsst eure eigene Seele wahrhaftig kennen"
+description: "Elias, empfangen durch Al Fike: „Möge jeder von euch stark sein, stark und aufrecht, während die Winde des Wandels eure Welt umfassen, so dass ihr euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

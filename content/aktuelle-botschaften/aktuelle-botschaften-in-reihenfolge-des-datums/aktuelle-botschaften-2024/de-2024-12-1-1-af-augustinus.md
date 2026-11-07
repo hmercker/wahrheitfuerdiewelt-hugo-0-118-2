@@ -1,7 +1,7 @@
 ---
 title: "Seid offen für Pforten der Veränderung"
 menu_title: ""
-description: "Seid offen für Pforten der Veränderung"
+description: "Augustinus, empfangen durch Al Fike: „In der kommenden Zeit wird Gott in eurem Leben Pforten der Gelegenheit und des Wandels öffnen, die mehr Licht bringen …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

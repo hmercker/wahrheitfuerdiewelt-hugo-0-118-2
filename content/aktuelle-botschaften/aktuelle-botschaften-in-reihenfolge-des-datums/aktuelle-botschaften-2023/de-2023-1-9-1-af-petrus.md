@@ -1,7 +1,7 @@
 ---
 title: "Die Wirklichkeit der Liebe kennenlernen"
 menu_title: ""
-description: "Die Wirklichkeit der Liebe kennenlernen"
+description: "Petrus, empfangen durch Al Fike: „Was ist die Realität der Liebe? Es ist die Wirklichkeit Gottes.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

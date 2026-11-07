@@ -1,7 +1,7 @@
 ---
 title: "Vorstellung der Dinge, die da kommen"
 menu_title: ""
-description: "Vorstellung der Dinge, die da kommen"
+description: "Seretta Kem, empfangen durch Al Fike: „Das Licht zeigt sich in eurer liebevollen Fürsorge füreinander und in eurem Wunsch, bei eurem Schöpfer zu sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

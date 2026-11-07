@@ -1,7 +1,7 @@
 ---
 title: "Der weniger begangene Pfad"
 menu_title: ""
-description: "Der weniger begangene Pfad"
+description: "Paulus, empfangen durch Al Fike: „Wenn ihr in einem solchen Kreis zusammen betet, bringt ihr eure geistlichen Energien und Absichten in den Kreis.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

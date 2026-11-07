@@ -1,7 +1,7 @@
 ---
 title: "Padgett Botschaften 1916"
 menu_title: "Padgett Botschaften 1916"
-description: "Padgett Botschaften vom Jahre 1916"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Helen Padgett | Helen erklärt, dass das Buch, das er las keinen guten Einfluss auf ihn hatte …“"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: True

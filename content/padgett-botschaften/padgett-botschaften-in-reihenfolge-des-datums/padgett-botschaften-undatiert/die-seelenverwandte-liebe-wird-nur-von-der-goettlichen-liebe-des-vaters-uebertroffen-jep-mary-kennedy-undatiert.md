@@ -1,7 +1,7 @@
 ---
 title: "Die seelenverwandte Liebe wird nur von der Göttlichen Liebe des Vaters übertroffen"
 menu_title: ""
-description: "Die seelenverwandte Liebe wird nur von der Göttlichen Liebe des Vaters übertroffen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Denn jetzt, seit ich mich in ihn verliebt habe, scheine ich nie zufrieden zu sein, wenn ich ihn nicht auf …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

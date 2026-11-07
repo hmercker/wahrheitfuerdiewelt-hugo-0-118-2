@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebetes für Gottes Liebe bringt allen Segen"
 menu_title: ""
-description: "Die Kraft des Gebetes für Gottes Liebe bringt allen Segen"
+description: "Andreas, empfangen durch Al Fike: „Es gibt ein großes Licht, das euch umgibt, Geliebte, das Licht des Friedens, das Licht der Gegenwart Gottes mit euch.“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

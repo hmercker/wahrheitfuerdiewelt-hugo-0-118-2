@@ -1,7 +1,7 @@
 ---
 title: "Helen‘s Erfahrung im Versuch einem Spirituellen Wesen den Weg zur Liebe Gottes zu zeigen"
 menu_title: ""
-description: "Helen‘s Erfahrung im Versuch einem Spirituellen Wesen den Weg zur Liebe Gottes zu zeigen"
+description: "Helen, empfangen durch James Padgett: „Ich möchte dir erzählen, wie es mir vor nicht allzu langer Zeit ergangen ist, als ich versucht habe einem Geist den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

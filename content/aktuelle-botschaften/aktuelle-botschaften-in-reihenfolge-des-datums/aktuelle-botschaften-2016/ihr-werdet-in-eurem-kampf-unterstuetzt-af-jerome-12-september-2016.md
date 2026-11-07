@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet in eurem Kampf unterstützt"
 menu_title: ""
-description: "Ihr werdet in eurem Kampf unterstützt"
+description: "Jerome, empfangen durch Al Fike: „Die Bedingungen in diesem Land sind in der Tat schwer, seine Erde ist mit Blut getränkt. Der Verstand derer, die diesen …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

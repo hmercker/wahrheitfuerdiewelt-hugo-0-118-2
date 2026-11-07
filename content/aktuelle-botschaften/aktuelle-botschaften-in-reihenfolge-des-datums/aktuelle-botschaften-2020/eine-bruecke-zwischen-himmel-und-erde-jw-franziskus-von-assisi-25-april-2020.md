@@ -1,7 +1,7 @@
 ---
 title: "Eine Brücke zwischen Himmel und Erde"
 menu_title: ""
-description: "Eine Brücke zwischen Himmel und Erde"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ihr seid eine äußerst sanfte Gruppe und ihr habt mein Herz berührt. Ich habe die Geschäftigkeit der …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

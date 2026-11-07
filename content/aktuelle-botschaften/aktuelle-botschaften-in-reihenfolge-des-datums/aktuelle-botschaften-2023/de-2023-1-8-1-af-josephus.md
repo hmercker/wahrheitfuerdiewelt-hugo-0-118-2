@@ -1,7 +1,7 @@
 ---
 title: "Wer wir sind"
 menu_title: ""
-description: "Wer wir sind"
+description: "Josephus, empfangen durch Al Fike: „Ich möchte mit euch über die Chemie der Spiritualität sprechen. Das mag vielleicht etwas widersprüchlich klingen, aber …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

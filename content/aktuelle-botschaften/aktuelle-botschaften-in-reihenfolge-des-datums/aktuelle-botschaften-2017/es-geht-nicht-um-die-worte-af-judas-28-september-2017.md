@@ -1,7 +1,7 @@
 ---
 title: "Es geht nicht um die Worte"
 menu_title: ""
-description: "Es geht nicht um die Worte"
+description: "Judas, empfangen durch Al Fike: „Ich möchte heute über das Thema der Gemeinschaft sprechen. Idealerweise würdet ihr alle wollen, dass diejenigen, mit denen …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

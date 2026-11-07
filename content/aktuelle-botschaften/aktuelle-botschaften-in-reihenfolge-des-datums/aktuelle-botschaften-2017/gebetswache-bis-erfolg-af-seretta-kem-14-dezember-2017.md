@@ -1,7 +1,7 @@
 ---
 title: "Gebetswache bis Erfolg"
 menu_title: ""
-description: "Gebetswache bis Erfolg"
+description: "Seretta Kem, empfangen durch Al Fike: „Und es ist gewiss eure Art, die nächsten Schritte zu hinterfragen, sich zu fragen, was kommen wird.“"
 date: 2020-08-01 06:25:48+00:253
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick bestätigt Helen's Schönheit"
 menu_title: ""
-description: "Richter Syrick bestätigt Helen's Schönheit"
+description: "Frank Syrick, empfangen durch James Padgett: „Nun Padgett, ich habe gehört, was deine Frau gesagt hat und ich würde dir gerne sagen, wie sie aussieht, aber …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

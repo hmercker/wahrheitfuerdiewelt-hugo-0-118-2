@@ -1,7 +1,7 @@
 ---
 title: "Jesus empfiehlt James Padgett, die Gottesdienste der Kirche der Heiligung zu besuchen"
 menu_title: ""
-description: "Jesus empfiehlt James Padgett, die Gottesdienste der Kirche der Heiligung zu besuchen"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Abend bei dir und mein Geist war in deinem Herzen in einem Ausmaß, das dich seine Gegenwart spüren …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

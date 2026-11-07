@@ -1,7 +1,7 @@
 ---
 title: "Der Vergleich des mohammedanischen und des christlichen Himmels"
 menu_title: ""
-description: "Der Vergleich des mohammedanischen und des christlichen Himmels"
+description: "Selegman, empfangen durch James Padgett: „Ich weiß nicht, wann, aber vor etwa vierhundert Jahren. Allah ist sein Name und Mohammed ist sein Prophet!“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

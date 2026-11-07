@@ -1,7 +1,7 @@
 ---
 title: "Befreundet euch mit eurer Seele"
 menu_title: ""
-description: "Befreundet euch mit eurer Seele"
+description: "Lukas, empfangen durch Al Fike: „Willkommen in diesem Kreis des Lichts, in dieser Oase des Friedens, in eurem heiligen Ort der Liebe.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

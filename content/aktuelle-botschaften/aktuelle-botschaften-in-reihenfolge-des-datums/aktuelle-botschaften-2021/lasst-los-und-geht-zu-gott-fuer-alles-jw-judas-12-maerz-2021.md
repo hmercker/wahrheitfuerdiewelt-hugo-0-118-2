@@ -1,7 +1,7 @@
 ---
 title: "Lasst los und geht zu Gott für alles"
 menu_title: ""
-description: "Lasst los und geht zu Gott für alles"
+description: "Judas, empfangen durch Jimbeau Walsh: „Die größte ist die Wahrheit der Liebe Gottes. Der Verstand ist im Fluss und kann sich biegen und drehen und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

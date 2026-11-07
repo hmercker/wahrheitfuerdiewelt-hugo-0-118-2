@@ -1,7 +1,7 @@
 ---
 title: "Wichtig ist, dass der Mensch die Wahrheit suchen und finden muss"
 menu_title: ""
-description: "Wichtig ist, dass der Mensch die Wahrheit suchen und finden muss"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend schreiben, und wenn du denkst, es ist noch nicht zu spät, werden wir es tun.“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

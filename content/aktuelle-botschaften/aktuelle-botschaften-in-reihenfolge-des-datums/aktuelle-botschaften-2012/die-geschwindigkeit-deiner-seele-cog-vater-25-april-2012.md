@@ -1,7 +1,7 @@
 ---
 title: "Die Geschwindigkeit deiner Seele"
 menu_title: ""
-description: "Die Geschwindigkeit deiner Seele"
+description: "Vater, empfangen durch Child of God: „Lass uns schreiben über das Leben, nach dem Tempo deiner Seele zu leben. Deine Seele ist ein sehr empfindlicher Teil …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

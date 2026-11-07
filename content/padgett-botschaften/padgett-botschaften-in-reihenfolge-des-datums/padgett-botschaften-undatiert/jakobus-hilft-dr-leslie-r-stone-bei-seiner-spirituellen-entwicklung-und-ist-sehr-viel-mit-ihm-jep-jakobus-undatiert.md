@@ -1,7 +1,7 @@
 ---
 title: "Jakobus hilft Dr. Leslie R. Stone bei seiner spirituellen Entwicklung und ist sehr viel mit ihm"
 menu_title: ""
-description: "Jakobus hilft Dr. Leslie R. Stone bei seiner spirituellen Entwicklung und ist sehr viel mit ihm"
+description: "Jakobus, empfangen durch James Padgett: „Ich werde nur ein Wort sagen und das ist, dass es dir in deinem Seelenzustand besser geht, wie auch deinen beiden …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

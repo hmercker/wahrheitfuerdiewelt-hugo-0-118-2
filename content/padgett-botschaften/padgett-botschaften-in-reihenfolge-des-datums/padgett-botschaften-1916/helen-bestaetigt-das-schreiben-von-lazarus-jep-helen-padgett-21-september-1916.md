@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt das Schreiben von Lazarus"
 menu_title: ""
-description: "Helen bestätigt das Schreiben von Lazarus"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Schatz, du hast eine Botschaft von Lukas und eine von Lazarus erhalten, und ich möchte dir sagen, dass sie …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Aktivierung Teil 1"
 menu_title: ""
-description: "Das Gesetz der Aktivierung Teil 1"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich ein Thema von einiger Bedeutung im Zusammenhang mit dem Gesetz des Gebetes besprechen, das du …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

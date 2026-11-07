@@ -1,7 +1,7 @@
 ---
 title: "Botschaft der Hoffnung"
 menu_title: ""
-description: "Botschaft der Hoffnung"
+description: "Matthäus & Andreas, empfangen durch Kathryn Stokes: „Wir sind hier, um zu schreiben und kommen mit unserer Liebe, die sich auf alle Kinder Gottes erstreckt.“"
 date: 2020-08-01 06:25:48+00:292
 draft: False
 hidden: True

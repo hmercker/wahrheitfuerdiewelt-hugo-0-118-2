@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für Anfänger"
 menu_title: ""
-description: "Anleitung für Anfänger"
+description: "Francois Fenelon 1: „Wir sind eine Gruppe, die hier versammelt ist, mit verschiedenen Ideen und verschiedenen Gedanken, und ihr alle werdet euch …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

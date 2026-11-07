@@ -1,7 +1,7 @@
 ---
 title: "Salyards hat so große Fortschritte gemacht, dass er jetzt ein Helfer ist, andere dunkle Wesen ins Licht zu führen"
 menu_title: ""
-description: "Salyards hat so große Fortschritte gemacht, dass er jetzt ein Helfer ist, andere dunkle Wesen ins Licht zu führen"
+description: "Joseph Salyards, empfangen durch James Padgett: „Wie schön sind diese spirituellen Wesen! Der eine, dessen Heimat jenseits des Sternenhimmels liegt, wie …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

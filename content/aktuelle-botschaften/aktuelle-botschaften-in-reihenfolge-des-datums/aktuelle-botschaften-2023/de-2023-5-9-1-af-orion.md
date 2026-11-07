@@ -1,7 +1,7 @@
 ---
 title: "Wir schreiten in Gottes Liebe voran"
 menu_title: ""
-description: "Wir schreiten in Gottes Liebe voran"
+description: "Orion, empfangen durch AlFike: „Ihr hebt weiterhin eure Füße, um euch vorwärts zu bewegen, obwohl diese Füße oft mit bleiernen Stoffen bedeckt sind und ihr …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

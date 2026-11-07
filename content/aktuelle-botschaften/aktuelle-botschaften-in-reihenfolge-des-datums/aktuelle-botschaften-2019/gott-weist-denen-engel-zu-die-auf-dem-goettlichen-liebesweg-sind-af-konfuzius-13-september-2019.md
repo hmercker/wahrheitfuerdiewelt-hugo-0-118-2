@@ -1,7 +1,7 @@
 ---
 title: "Gott weist denen Engel zu, die auf dem göttlichen Liebesweg sind"
 menu_title: ""
-description: "Gott weist denen Engel zu, die auf dem göttlichen Liebesweg sind"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr habt ein Geschenk der Heilung empfangen, ein jeder von euch, ein Segen über euch. Wir kommen in diese Kreise, um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

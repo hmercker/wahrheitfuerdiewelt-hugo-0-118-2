@@ -1,7 +1,7 @@
 ---
 title: "Ihr fahrt fort, das Lichtgitter in eurer Welt zu bauen"
 menu_title: ""
-description: "Ihr fahrt fort, das Lichtgitter in eurer Welt zu bauen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr seid alle mit vielen Reisen und Aktivitäten, Gebeten, Kommunikationen und Bemühungen beschäftigt gewesen, um …“"
 date: 2020-08-01 06:25:48+00:238
 draft: False
 hidden: True

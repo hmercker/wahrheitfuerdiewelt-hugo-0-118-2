@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit und falsche Überzeugungen - Teil 1"
 menu_title: ""
-description: "Wahrheit und falsche Überzeugungen - Teil 1"
+description: "Judas, empfangen durch H.: „Für beide fühle ich so viel Wertschätzung, aufgrund ihrer Hingabe und Anstrengung in ihrer ständigen Suche nach der Wahrheit …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

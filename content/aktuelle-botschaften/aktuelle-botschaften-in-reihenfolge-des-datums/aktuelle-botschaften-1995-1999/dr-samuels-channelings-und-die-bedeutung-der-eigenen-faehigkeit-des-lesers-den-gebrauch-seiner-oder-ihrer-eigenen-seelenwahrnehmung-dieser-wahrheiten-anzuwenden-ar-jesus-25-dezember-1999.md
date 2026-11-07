@@ -1,7 +1,7 @@
 ---
 title: "Dr. Samuels' Channelings und die Bedeutung der eigenen Fähigkeit des Lesers, den Gebrauch seiner oder ihrer eigenen Seelenwahrnehmung dieser Wahrheiten anzuwenden"
 menu_title: ""
-description: "Dr. Samuels' Channelings und die Bedeutung der eigenen Fähigkeit des Lesers, den Gebrauch seiner oder ihrer eigenen Seelenwahrnehmung dieser Wahrheiten anzuwenden"
+description: "Jesus, empfangen durch Amada Reza: „Samuels Medialität zu erhalten und ob ich es war, der ihn zu meinem auserwählten Instrument ernannt hat, um der …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

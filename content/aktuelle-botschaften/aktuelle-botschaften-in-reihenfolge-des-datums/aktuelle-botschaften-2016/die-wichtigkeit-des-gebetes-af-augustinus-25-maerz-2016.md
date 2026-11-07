@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit des Gebetes"
 menu_title: ""
-description: "Die Wichtigkeit des Gebetes"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch ermutigen, in euren Bemühungen fortzufahren, die Seelen im Gebet zu versammeln.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

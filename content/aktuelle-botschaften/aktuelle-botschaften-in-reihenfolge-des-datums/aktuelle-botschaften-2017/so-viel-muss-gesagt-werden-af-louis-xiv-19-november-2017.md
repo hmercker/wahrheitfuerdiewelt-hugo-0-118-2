@@ -1,7 +1,7 @@
 ---
 title: "So viel muss gesagt werden"
 menu_title: ""
-description: "So viel muss gesagt werden"
+description: "Louis XIV, empfangen durch Al Fike: „Ich möchte meine Geschichte mit eurer Gabe der Direkten Stimme der Welt erzählen, denn ich musste mich aus den Höllen …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

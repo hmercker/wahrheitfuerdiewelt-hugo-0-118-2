@@ -1,7 +1,7 @@
 ---
 title: "Wie man auf dem Weg der Göttlichen Liebe geht"
 menu_title: ""
-description: "Wie man auf dem Weg der Göttlichen Liebe geht"
+description: "Maria, empfangen durch Al Fike: „Dieses wunderbare Geschenk, das jeder Seele gegeben wird, die sich danach sehnt, in sich selbst einzutreten und dort für …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

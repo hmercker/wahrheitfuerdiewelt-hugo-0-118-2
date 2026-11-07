@@ -1,7 +1,7 @@
 ---
 title: "Unseren Weg zu Gottes Liebe finden"
 menu_title: ""
-description: "Unseren Weg zu Gottes Liebe finden"
+description: "Augustinus, empfangen durch Al Fike: „Die Welt ist ein Ort materieller Anstrengung und Leistung, aber was wird ohne Liebe wirklich erreicht?“"
 date: 2025-02-02 06:00:00+00:10
 draft: False
 hidden: True

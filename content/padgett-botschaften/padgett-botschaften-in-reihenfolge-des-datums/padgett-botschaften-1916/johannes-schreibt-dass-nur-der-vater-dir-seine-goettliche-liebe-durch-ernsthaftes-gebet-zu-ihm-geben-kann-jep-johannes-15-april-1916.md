@@ -1,7 +1,7 @@
 ---
 title: "Johannes schreibt, dass nur der Vater dir Seine Göttliche Liebe, durch ernsthaftes Gebet zu Ihm, geben kann"
 menu_title: ""
-description: "Johannes schreibt, dass nur der Vater dir Seine Göttliche Liebe, durch ernsthaftes Gebet zu Ihm, geben kann"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte ein paar Zeilen über ein Thema schreiben, das dich interessieren wird und das dein Verständnis für …“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

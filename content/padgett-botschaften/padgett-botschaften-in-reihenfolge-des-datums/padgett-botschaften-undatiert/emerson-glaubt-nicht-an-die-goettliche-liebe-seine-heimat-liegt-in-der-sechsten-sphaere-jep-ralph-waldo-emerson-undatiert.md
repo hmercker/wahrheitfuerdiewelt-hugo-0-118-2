@@ -1,7 +1,7 @@
 ---
 title: "Emerson glaubt nicht an die Göttliche Liebe; seine Heimat liegt in der sechsten Sphäre"
 menu_title: ""
-description: "Emerson glaubt nicht an die Göttliche Liebe; seine Heimat liegt in der sechsten Sphäre"
+description: "Ralph Waldo Emerson 1, empfangen durch James Padgett: „Seit geraumer Zeit beobachte ich die Kommunikation zwischen dir und den Geistern und habe viele der …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die göttliche Liebe verwandelt eure Seele vom Ebenbild Gottes in die Substanz Gottes"
 menu_title: ""
-description: "Die göttliche Liebe verwandelt eure Seele vom Ebenbild Gottes in die Substanz Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Es ist eine Freude, in dieser Gesellschaft zu sein, in dieser Pforte des Lichts. So viele verschiedene Seelen …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Wunder der Seelentransformation"
 menu_title: ""
-description: "Das Wunder der Seelentransformation"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Das Wunder, das die Verwandlung jeder Seele in die Liebe Gottes ist. Ihr braucht euren Körper nicht zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

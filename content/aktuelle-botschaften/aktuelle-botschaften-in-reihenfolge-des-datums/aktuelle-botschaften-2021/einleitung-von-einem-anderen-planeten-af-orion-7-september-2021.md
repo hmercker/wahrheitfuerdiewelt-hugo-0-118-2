@@ -1,7 +1,7 @@
 ---
 title: "Einleitung von einem anderen Planeten"
 menu_title: ""
-description: "Einleitung von einem anderen Planeten"
+description: "Orion, empfangen durch Al Fike: „Die Reise des Lebens umfasst viele Erfahrungs- und Bewusstseinsschichten, die die Menschheit sich selbst vorenthalten hat …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Antwort auf die Erklärung Jesu, dass er der Messias ist"
 menu_title: ""
-description: "Die Antwort auf die Erklärung Jesu, dass er der Messias ist"
+description: "Judas, empfangen durch H.: „Ich sehe, du bist sehr entspannt. Ich werde dir einen kurzen \"Film\" zeigen.“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

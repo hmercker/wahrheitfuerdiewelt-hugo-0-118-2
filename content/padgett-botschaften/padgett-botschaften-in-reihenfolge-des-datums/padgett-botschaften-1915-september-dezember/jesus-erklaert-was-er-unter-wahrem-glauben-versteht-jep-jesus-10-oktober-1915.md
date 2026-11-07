@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, was er unter wahrem Glauben versteht"
 menu_title: ""
-description: "Jesus erklärt, was er unter wahrem Glauben versteht"
+description: "Jesus, empfangen durch James Padgett: „Ich kam heute Nacht, um dir zu sagen, dass du näher dem Reiche bist, als du lange Zeit vorher warst.“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

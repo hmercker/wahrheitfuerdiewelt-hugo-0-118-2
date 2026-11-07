@@ -1,7 +1,7 @@
 ---
 title: "Bringt Musik !"
 menu_title: ""
-description: "Bringt Musik !"
+description: "Goldie, empfangen durch Al Fike: „Nehmt euch selbst nicht so ernst, Gottes Werk ist ein Werk der Freude. Die Seelen werden darauf reagieren und sie werden …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

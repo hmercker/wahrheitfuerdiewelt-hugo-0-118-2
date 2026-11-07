@@ -1,7 +1,7 @@
 ---
 title: "Allein die Göttliche Liebe kann aus einem Menschen einen Engel machen"
 menu_title: ""
-description: "Allein die Göttliche Liebe kann aus einem Menschen einen Engel machen"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir heute Abend über ein Thema schreiben, das für die ganze Menschheit von Interesse ist, und ich hoffe …“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

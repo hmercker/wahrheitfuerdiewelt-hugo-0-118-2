@@ -1,7 +1,7 @@
 ---
 title: "Die Seele sehnt sich nach der Berührung durch Gott"
 menu_title: ""
-description: "Die Seele sehnt sich nach der Berührung durch Gott"
+description: "Matthäus, empfangen durch Al Fike: „Eure Seelen haben sich hier versammelt, um die Segnungen der Liebe Gottes zu empfangen. Es gibt ein Verständnis tief in …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

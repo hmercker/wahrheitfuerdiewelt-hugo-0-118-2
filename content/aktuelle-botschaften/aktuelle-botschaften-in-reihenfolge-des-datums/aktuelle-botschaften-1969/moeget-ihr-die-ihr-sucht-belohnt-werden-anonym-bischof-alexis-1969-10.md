@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr, die ihr sucht, belohnt werden"
 menu_title: ""
-description: "Möget ihr, die ihr sucht, belohnt werden"
+description: "Alexi 1: „Möge die Liebe Gottes in eure Seelen fließen, meine Kinder, in so großen Mengen, damit ihr Güte ausstrahlt und viele der Kinder Gottes, die Hilfe …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

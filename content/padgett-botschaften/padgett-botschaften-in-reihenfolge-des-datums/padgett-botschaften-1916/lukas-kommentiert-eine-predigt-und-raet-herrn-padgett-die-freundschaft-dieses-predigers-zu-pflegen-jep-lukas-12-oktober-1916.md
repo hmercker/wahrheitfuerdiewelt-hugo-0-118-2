@@ -1,7 +1,7 @@
 ---
 title: "Lukas kommentiert eine Predigt und rät Herrn Padgett, die Freundschaft dieses Predigers zu pflegen"
 menu_title: ""
-description: "Lukas kommentiert eine Predigt und rät Herrn Padgett, die Freundschaft dieses Predigers zu pflegen"
+description: "Lukas, empfangen durch James Padgett: „Ich werde heute Abend nur ein paar Worte sagen. Ich habe die Bemerkungen des Predigers (Rev.“"
 date: 2020-08-01 06:25:48+00:230
 draft: False
 hidden: True

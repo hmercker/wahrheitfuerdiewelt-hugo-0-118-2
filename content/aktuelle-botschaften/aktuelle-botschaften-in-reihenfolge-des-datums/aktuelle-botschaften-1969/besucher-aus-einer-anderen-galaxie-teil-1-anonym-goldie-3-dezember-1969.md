@@ -1,7 +1,7 @@
 ---
 title: "Besucher aus einer anderen Galaxie Teil 1"
 menu_title: ""
-description: "Besucher aus einer anderen Galaxie Teil 1"
+description: "Goldie und Besucher, empfangen durch Elsie Grosart: „Meine lieben Freunde, wie sehr es mich freut, wieder bei euch zu sein. Es gibt so viel Kraft, seht …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

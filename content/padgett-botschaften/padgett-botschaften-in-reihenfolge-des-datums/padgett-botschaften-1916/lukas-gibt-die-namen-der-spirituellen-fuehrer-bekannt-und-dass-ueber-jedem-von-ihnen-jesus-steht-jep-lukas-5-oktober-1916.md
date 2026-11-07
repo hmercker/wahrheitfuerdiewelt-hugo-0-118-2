@@ -1,7 +1,7 @@
 ---
 title: "Lukas gibt die Namen der spirituellen Führer  bekannt und dass über jedem von ihnen Jesus steht"
 menu_title: ""
-description: "Lukas gibt die Namen der spirituellen Führer  bekannt und dass über jedem von ihnen Jesus steht"
+description: "Lukas, empfangen durch James Padgett: „Ich war es und er hat richtig verstanden, was ich ihm gesagt habe, ist die Wahrheit. Ich möchte, dass er mir glaubt …“"
 date: 2020-08-01 06:25:48+00:225
 draft: False
 hidden: True

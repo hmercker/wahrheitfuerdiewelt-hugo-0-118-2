@@ -1,7 +1,7 @@
 ---
 title: "Das Netzwerk der Liebe "
 menu_title: ""
-description: "Das Netzwerk der Liebe "
+description: "Ann Rollins, empfangen durch Helge Mercker: „Ich freue mich in der Tat, denn dein Kreis versteht die notwendigen Voraussetzungen, um mit diesem sehr …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

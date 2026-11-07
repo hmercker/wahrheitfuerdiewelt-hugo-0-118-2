@@ -1,7 +1,7 @@
 ---
 title: "Cornelius, der Zenturio der Bibel und der erste nichtjüdische Christ. Jetzt im Göttlichen Himmel."
 menu_title: ""
-description: "Cornelius, der Zenturio der Bibel und der erste nichtjüdische Christ. Jetzt im Göttlichen Himmel."
+description: "Cornelius, empfangen durch James Padgett: „Ich werde nur wenige Zeilen schreiben, damit ich mich mit dir in Verbindung setzen und dir später, wenn du …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

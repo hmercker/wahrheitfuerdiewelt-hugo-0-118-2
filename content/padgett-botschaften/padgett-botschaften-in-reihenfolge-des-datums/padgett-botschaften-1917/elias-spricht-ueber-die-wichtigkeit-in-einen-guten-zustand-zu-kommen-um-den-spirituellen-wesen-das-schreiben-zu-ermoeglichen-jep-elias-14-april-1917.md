@@ -1,7 +1,7 @@
 ---
 title: "Elias spricht über die Wichtigkeit, in einen guten Zustand zu kommen, um den spirituellen Wesen das Schreiben zu ermöglichen"
 menu_title: ""
-description: "Elias spricht über die Wichtigkeit, in einen guten Zustand zu kommen, um den spirituellen Wesen das Schreiben zu ermöglichen"
+description: "Elias, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich mich freuen werde, dir meine Botschaft zu geben, sobald du fühlst, dass du in der …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Millionen von Seelen, Millionen von Wegen"
 menu_title: ""
-description: "Millionen von Seelen, Millionen von Wegen"
+description: "Petrus, empfangen durch Kathryn Stokes: „Medium betet; Lieber Vater im Himmel, ich liebe Dich. Ich möchte die Wahrheit wissen.“"
 date: 2020-08-01 06:25:48+00:284
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hat jede Seele einen Zweck?"
 menu_title: ""
-description: "Hat jede Seele einen Zweck?"
+description: "Augustinus, empfangen durch Al Fike: „Du hast eine wichtige Frage gestellt, geliebte Tochter, und hast dies mit klaren und schönen Worten getan, wie es …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

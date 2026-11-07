@@ -1,7 +1,7 @@
 ---
 title: "Ihr kreiert eine Pforte des Lichts, wenn ihr im Gebet vereint seid"
 menu_title: ""
-description: "Ihr kreiert eine Pforte des Lichts, wenn ihr im Gebet vereint seid"
+description: "Konfuzius, empfangen durch Al Fike: „Erlaubt den Segnungen der Liebe des Vaters, tief in eure Seelen zu gelangen. Während ihr dieses große Geschenk, diese …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

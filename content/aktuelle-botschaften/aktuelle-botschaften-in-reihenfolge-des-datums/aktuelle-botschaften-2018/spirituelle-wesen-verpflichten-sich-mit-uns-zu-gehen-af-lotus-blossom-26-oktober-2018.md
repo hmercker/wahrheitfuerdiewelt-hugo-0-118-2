@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Wesen verpflichten sich, mit uns zu gehen"
 menu_title: ""
-description: "Spirituelle Wesen verpflichten sich, mit uns zu gehen"
+description: "Lotus Blossom, empfangen durch Al Fike: „Ich fahre fort, euren Körpern zu dienen, eurem spirituellen Körper und eurem physischen Körper, und euch in euren …“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Luther: Kommentare zum Krieg und seinen Folgen"
 menu_title: ""
-description: "Luther: Kommentare zum Krieg und seinen Folgen"
+description: "Martin Luther, empfangen durch James Padgett: „Nun, wenn die Dinge günstig sind, möchte ich morgen Abend kommen um dir eine Nachricht zu diesem Thema zu …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Sehnsucht der Seele ist Gebet"
 menu_title: ""
-description: "Die Sehnsucht der Seele ist Gebet"
+description: "Augustinus, empfangen durch Al Fike: „Möget ihr finden, wonach eure Seelen suchen, denn das ist es, wozu Gott euch aufruft, um die Sehnsüchte eurer Seelen …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

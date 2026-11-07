@@ -1,7 +1,7 @@
 ---
 title: "John C. Calhoun arbeitet immer noch für sein Land"
 menu_title: ""
-description: "John C. Calhoun arbeitet immer noch für sein Land"
+description: "Calhoun 1, empfangen durch James Padgett: „Nun, wie du weißt, war ich, als ich auf Erden Demokrat war, einer, der an die unabhängigen Rechte der …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

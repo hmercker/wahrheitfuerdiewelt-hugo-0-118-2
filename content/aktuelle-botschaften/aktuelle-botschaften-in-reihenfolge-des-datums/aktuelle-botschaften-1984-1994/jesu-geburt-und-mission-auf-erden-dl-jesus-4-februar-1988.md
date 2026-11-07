@@ -1,7 +1,7 @@
 ---
 title: "Jesu Geburt und Mission auf Erden"
 menu_title: ""
-description: "Jesu Geburt und Mission auf Erden"
+description: "Jesus, empfangen durch David Lampron: „Liebster Meister, Jesus, in Deiner Botschaft [\"Seelen bei der Schöpfung ...\" die 1961 und 1962 durch Dr.“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

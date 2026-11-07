@@ -1,7 +1,7 @@
 ---
 title: "Baut weiter die Brücke zwischen eurer Seele und Gottes Seele"
 menu_title: ""
-description: "Baut weiter die Brücke zwischen eurer Seele und Gottes Seele"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ja, ihr könnt sehen, obwohl der Verstand bestimmte Glaubenssätze beherbergen mag, wenn die Seele auf Gott eingestimmt …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

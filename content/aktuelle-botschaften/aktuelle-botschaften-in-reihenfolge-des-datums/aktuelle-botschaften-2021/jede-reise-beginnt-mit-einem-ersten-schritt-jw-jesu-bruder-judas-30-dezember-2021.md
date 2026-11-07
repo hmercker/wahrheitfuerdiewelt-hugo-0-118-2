@@ -1,7 +1,7 @@
 ---
 title: "Jede Reise beginnt mit einem ersten Schritt"
 menu_title: ""
-description: "Jede Reise beginnt mit einem ersten Schritt"
+description: "Jesu Bruder Judas, empfangen durch Jimbeau Walsh: „Möge das Licht Gottes über euch sein, möge es eure Seelen erleuchten, damit ihr euer Licht in die Welt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

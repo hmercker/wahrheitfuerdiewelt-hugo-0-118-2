@@ -1,7 +1,7 @@
 ---
 title: "Al Fike Botschaften 2022"
 menu_title: "Al Fike Botschaften 2022"
-description: "Al Fike Botschaften vom Jahre 2022"
+description: "Al Fike Botschaften in Reihenfolge des Datums empfangen im Jahre 2022: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Seretta Kem | …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

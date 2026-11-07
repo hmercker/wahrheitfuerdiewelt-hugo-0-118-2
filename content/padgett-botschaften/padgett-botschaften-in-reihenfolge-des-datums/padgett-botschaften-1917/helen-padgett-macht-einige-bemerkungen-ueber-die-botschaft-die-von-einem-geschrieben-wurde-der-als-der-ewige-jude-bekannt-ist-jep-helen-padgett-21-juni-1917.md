@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett macht einige Bemerkungen über die Botschaft, die von einem geschrieben wurde, der als der Ewige Jude bekannt ist"
 menu_title: ""
-description: "Helen Padgett macht einige Bemerkungen über die Botschaft, die von einem geschrieben wurde, der als der Ewige Jude bekannt ist"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebling, da sind ja einige überraschende Botschaften heute Nacht gekommen, und es wundert mich nicht …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

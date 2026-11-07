@@ -1,7 +1,7 @@
 ---
 title: "Spirituelles Wesen, das feststellte, dass seine Seele nicht entwickelt war, als er hinüberging"
 menu_title: ""
-description: "Spirituelles Wesen, das feststellte, dass seine Seele nicht entwickelt war, als er hinüberging"
+description: "J, empfangen durch James Padgett: „Ich brauche Hilfe, und du wirst mir helfen, nicht wahr? Sag nicht, dass du das nicht kannst.“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

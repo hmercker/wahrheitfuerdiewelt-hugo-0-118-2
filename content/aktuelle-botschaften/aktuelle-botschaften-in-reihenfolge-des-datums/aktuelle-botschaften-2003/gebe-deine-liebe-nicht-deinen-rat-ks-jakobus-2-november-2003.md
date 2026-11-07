@@ -1,7 +1,7 @@
 ---
 title: "Gebe deine Liebe, nicht deinen Rat"
 menu_title: ""
-description: "Gebe deine Liebe, nicht deinen Rat"
+description: "Jakobus, empfangen durch Kathryn Stokes: „[Lieber Himmlischer Vater, Wenn ich in der Lage bin, die hilfreichen Gedanken Deiner dienenden Engel zu …“"
 date: 2020-08-01 06:25:48+00:281
 draft: False
 hidden: True

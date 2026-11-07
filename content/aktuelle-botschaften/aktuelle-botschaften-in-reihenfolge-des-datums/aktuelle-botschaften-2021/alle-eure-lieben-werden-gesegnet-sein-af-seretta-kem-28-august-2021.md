@@ -1,7 +1,7 @@
 ---
 title: "Alle eure Lieben werden gesegnet sein"
 menu_title: ""
-description: "Alle eure Lieben werden gesegnet sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Die Zeit wird knapp und wir freuen uns, dass ihr eure Pläne schmiedet, euch zu versammeln 1 und dass diejenigen, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Befreiung von negativem Einfluss spiritueller Wesen"
 menu_title: ""
-description: "Befreiung von negativem Einfluss spiritueller Wesen"
+description: "Johannes, empfangen durch Kathryn Stokes: „[Lieber Gott der Liebe, ich bete für ein großes Einströmen Deiner Göttlichen Liebe in dieser Zeit.“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

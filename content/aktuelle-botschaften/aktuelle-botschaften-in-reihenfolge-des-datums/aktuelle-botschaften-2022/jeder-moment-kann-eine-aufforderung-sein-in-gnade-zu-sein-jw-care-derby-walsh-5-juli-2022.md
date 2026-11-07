@@ -1,7 +1,7 @@
 ---
 title: "Jeder Moment kann eine Aufforderung sein, in Gnade zu sein"
 menu_title: ""
-description: "Jeder Moment kann eine Aufforderung sein, in Gnade zu sein"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Würdet ihr glauben, dass ich heute an jeden einzelnen von euch gedacht habe? Ihr erwartet vielleicht …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

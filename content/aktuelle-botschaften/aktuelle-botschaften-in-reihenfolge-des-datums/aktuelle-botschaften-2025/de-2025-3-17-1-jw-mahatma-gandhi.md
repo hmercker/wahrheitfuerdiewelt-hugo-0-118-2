@@ -1,7 +1,7 @@
 ---
 title: "Gott dient denen, die Gott dienen"
 menu_title: ""
-description: "Gott dient denen, die Gott dienen"
+description: "Mahatma Gandhi, empfangen durch Jimbeau Walsh: „Ich möchte Folgendes sagen: In meiner Zeit auf der Erde, in meinen politischen Kämpfen, meinen spirituellen …“"
 date: 2025-03-27 06:00:00+00:10
 draft: False
 hidden: True

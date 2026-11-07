@@ -1,7 +1,7 @@
 ---
 title: "Ihr, die ihr bereit seid, Kanäle des Lichts zu sein, habt viele, viele spirituelle Wesen hierher gebracht, um die Liebe Gottes zu empfangen"
 menu_title: ""
-description: "Ihr, die ihr bereit seid, Kanäle des Lichts zu sein, habt viele, viele spirituelle Wesen hierher gebracht, um die Liebe Gottes zu empfangen"
+description: "George Stokes & Jesus, empfangen durch Elisabeth Mack: „Und ich darf sagen, dass es hier viel mehr Seelen gibt, als ihr euch vorstellen könnt und die ihr …“"
 date: 2025-01-12 06:00:00+00:10
 draft: False
 hidden: True

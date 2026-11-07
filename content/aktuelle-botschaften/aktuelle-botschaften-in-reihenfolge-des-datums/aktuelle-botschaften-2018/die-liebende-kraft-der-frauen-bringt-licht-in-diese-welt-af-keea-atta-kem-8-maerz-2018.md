@@ -1,7 +1,7 @@
 ---
 title: "Die liebende Kraft der Frauen bringt Licht in diese Welt"
 menu_title: ""
-description: "Die liebende Kraft der Frauen bringt Licht in diese Welt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ja, ihr sprecht von der Macht der Frauen und ich sage, wenn es nicht die Gebete und Bemühungen und die Liebe der …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

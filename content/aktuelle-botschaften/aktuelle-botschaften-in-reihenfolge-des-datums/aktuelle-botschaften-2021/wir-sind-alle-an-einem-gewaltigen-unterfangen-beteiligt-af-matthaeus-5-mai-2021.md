@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle an einem gewaltigen Unterfangen beteiligt "
 menu_title: ""
-description: "Wir sind alle an einem gewaltigen Unterfangen beteiligt "
+description: "Matthäus, empfangen durch Al Fike: „Wir sind alle mit einem gewaltigen Unterfangen beschäftigt, einem Projekt, das dazu bestimmt ist, eine Treppe zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

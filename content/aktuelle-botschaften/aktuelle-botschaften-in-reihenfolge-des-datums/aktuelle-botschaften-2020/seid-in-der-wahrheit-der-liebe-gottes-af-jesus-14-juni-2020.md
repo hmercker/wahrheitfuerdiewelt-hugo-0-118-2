@@ -1,7 +1,7 @@
 ---
 title: "Seid in der Wahrheit der Liebe Gottes"
 menu_title: ""
-description: "Seid in der Wahrheit der Liebe Gottes"
+description: "Jesus, empfangen durch Al Fike: „Möge der Segen des Heiligen Geistes, der der aktive Vertreter Gottes und seiner Liebe ist, zu jeder eurer Seelen kommen …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

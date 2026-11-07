@@ -1,7 +1,7 @@
 ---
 title: "Eine Reise des Dienens"
 menu_title: ""
-description: "Eine Reise des Dienens"
+description: "Augustinus, empfangen durch Al Fike: „Eure Bemühungen haben ein Ziel. Ihr werdet getragen und wir werden jene Seelen anziehen, die begierig sind, eure …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

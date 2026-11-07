@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit über alles zu suchen"
 menu_title: ""
-description: "Die Wahrheit über alles zu suchen"
+description: "Andreas, empfangen durch Al Fike: „Eure Erde schläft in Tatenlosigkeit. Sie schlummert in Apathie.“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

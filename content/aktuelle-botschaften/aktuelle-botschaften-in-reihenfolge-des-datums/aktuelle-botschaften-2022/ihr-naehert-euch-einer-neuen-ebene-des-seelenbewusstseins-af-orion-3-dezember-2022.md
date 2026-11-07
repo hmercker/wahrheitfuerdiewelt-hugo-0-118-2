@@ -1,7 +1,7 @@
 ---
 title: "Ihr nähert euch einer neuen Ebene des Seelenbewusstseins"
 menu_title: ""
-description: "Ihr nähert euch einer neuen Ebene des Seelenbewusstseins"
+description: "Orion, empfangen durch Al Fike: „Meine Freunde, Orion ist wieder da, um zu lehren und aufzurichten, um sich um meine Schützlinge zu kümmern, die Gott mir …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frei von irdischen Sorgen sein"
 menu_title: ""
-description: "Frei von irdischen Sorgen sein"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Liebe Brüder und Schwestern, die ihr in diesen Kreis des Lichts gekommen seid, um im Frieden und in der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

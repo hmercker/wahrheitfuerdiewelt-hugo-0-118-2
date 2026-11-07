@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung der Kreise des Lichts"
 menu_title: ""
-description: "Die Bedeutung der Kreise des Lichts"
+description: "Lukas, empfangen durch Al Fike: „Diese Gebetskreise, die sich darauf konzentrieren, die Segnungen der Liebe des Vaters zu empfangen, sollen sich in der …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

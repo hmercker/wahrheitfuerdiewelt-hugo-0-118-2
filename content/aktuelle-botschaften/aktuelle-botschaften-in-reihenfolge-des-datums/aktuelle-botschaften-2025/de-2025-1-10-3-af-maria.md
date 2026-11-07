@@ -1,7 +1,7 @@
 ---
 title: "Arbeitet mit Bartholomäus, um ein sanftes Gleichgewicht in seine kräftige Hand zu bringen"
 menu_title: ""
-description: "Arbeitet mit Bartholomäus, um ein sanftes Gleichgewicht in seine kräftige Hand zu bringen"
+description: "Maria, empfangen durch Al Fike: „Er hat eine Gabe, die ihn befähigt, stark und direkt zu sein. Ich habe die Gabe, Liebe und nährende Zuwendung zu geben.“"
 date: 2025-01-10 06:00:00+00:10
 draft: False
 hidden: True

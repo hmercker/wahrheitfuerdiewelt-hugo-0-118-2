@@ -1,7 +1,7 @@
 ---
 title: "Betet für die Liebe - Blüht in Liebe"
 menu_title: ""
-description: "Betet für die Liebe - Blüht in Liebe"
+description: "Stephanus 1, empfangen durch Al Fike: „Ihr werdet feststellen, dass, wenn ihr in diesen Kreisen der Liebe zusammenkommt, viele neue Engel sprechen werden …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

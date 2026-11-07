@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch leiten"
 menu_title: ""
-description: "Lasst euch leiten"
+description: "Maria, empfangen durch Al Fike: „Die Flamme der Liebe Gottes erwärmt die Welt und strahlt in jeden Winkel eurer Welt aus. Doch nur sehr wenige spüren ihre …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

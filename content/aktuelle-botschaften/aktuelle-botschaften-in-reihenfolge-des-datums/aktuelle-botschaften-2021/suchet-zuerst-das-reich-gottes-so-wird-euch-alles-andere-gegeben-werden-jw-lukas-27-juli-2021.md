@@ -1,7 +1,7 @@
 ---
 title: "Suchet zuerst das Reich Gottes, so wird euch alles andere gegeben werden"
 menu_title: ""
-description: "Suchet zuerst das Reich Gottes, so wird euch alles andere gegeben werden"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Ihr könnt aus euren heutigen Studien erkennen, wie eine Seele, selbst mit einem Tropfen Liebe, einer anderen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

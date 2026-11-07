@@ -1,7 +1,7 @@
 ---
 title: "Macht eure Seelen würdig zu empfangen und dann betet und bittet"
 menu_title: ""
-description: "Macht eure Seelen würdig zu empfangen und dann betet und bittet"
+description: "Keea Atta Kem: „Es ist ein so wunderbarer Anlass, hier zu sein, meine Freunde, und dieses Treffen mit dem größten Lehrer von allen zu eröffnen.“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

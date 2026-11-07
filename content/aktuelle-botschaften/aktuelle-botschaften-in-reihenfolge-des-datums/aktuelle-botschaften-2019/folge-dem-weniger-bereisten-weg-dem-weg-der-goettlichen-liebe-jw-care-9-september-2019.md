@@ -1,7 +1,7 @@
 ---
 title: "Folge dem weniger bereisten Weg, dem Weg der Göttlichen Liebe"
 menu_title: ""
-description: "Folge dem weniger bereisten Weg, dem Weg der Göttlichen Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Mein lieber Jimbeau ist sehr glücklich, in dieser Energie zu sein, in dieser weiblichen Energie in diesem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

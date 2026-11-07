@@ -1,7 +1,7 @@
 ---
 title: "Schwerpunkt auf Einklang"
 menu_title: ""
-description: "Schwerpunkt auf Einklang"
+description: "Orion, empfangen durch Al Fike: „Es gibt das Gefühl, dass die Welt tatsächlich aus ihrer dunklen Phase der menschlichen Existenz herauskommen und ihren Weg …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

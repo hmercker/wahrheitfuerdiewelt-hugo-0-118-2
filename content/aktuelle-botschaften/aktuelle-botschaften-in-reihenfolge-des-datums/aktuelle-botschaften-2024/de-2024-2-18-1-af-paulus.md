@@ -1,7 +1,7 @@
 ---
 title: "Macht uns Mut in unseren Kämpfen dieser Welt"
 menu_title: ""
-description: "Macht uns Mut in unsren Kämpfen dieser Welt"
+description: "Paulus, empfangen durch Al Fike: „Möge die große Gabe Seiner Liebe euren Seelen zuteil werden. Diese Welt war schon immer eine Welt des Kampfes.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

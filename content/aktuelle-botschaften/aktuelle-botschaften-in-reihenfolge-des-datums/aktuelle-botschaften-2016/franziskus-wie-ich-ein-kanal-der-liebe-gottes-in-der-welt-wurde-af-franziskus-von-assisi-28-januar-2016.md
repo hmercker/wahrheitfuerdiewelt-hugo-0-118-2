@@ -1,7 +1,7 @@
 ---
 title: "Franziskus: Wie ich ein Kanal der Liebe Gottes in der Welt wurde"
 menu_title: ""
-description: "Franziskus: Wie ich ein Kanal der Liebe Gottes in der Welt wurde"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Und es gibt viele in den Göttlichen Himmeln, alle in den Himmlischen Himmeln, die Gott lieben, denn …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

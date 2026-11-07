@@ -1,7 +1,7 @@
 ---
 title: "Religion ist die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes"
 menu_title: ""
-description: "Religion ist die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes"
+description: "Lukas, empfangen durch James Padgett: „Lass mich einen Satz schreiben - Lukas. Ich war heute Abend mit dir in der Kirche und hörte zu, was der Prediger …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

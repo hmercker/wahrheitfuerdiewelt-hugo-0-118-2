@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins beantwortet eine Frage über die Taufe"
 menu_title: ""
-description: "Ann Rollins beantwortet eine Frage über die Taufe"
+description: "Ann Rollins, empfangen von James Padgett: „Alles, was ich über den Ursprung des Buches der Offenbarung weiß, ist das, was ich von Johannes gehört habe, und …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

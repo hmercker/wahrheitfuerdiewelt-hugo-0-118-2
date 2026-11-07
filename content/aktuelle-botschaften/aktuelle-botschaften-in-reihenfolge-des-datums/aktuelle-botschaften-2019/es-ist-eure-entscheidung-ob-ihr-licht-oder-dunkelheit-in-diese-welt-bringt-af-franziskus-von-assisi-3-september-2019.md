@@ -1,7 +1,7 @@
 ---
 title: "Es ist eure Entscheidung, ob ihr Licht oder Dunkelheit in diese Welt bringt"
 menu_title: ""
-description: "Es ist eure Entscheidung, ob ihr Licht oder Dunkelheit in diese Welt bringt"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Ich bete für euch alle, für alle Kinder eurer Welt, für alle Geschöpfe eurer Welt, für alles, was Gott in …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

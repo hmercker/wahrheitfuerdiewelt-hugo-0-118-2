@@ -1,7 +1,7 @@
 ---
 title: "Ein Gespräch mit erdgebundenen spirituellen Wesen"
 menu_title: ""
-description: "Ein Gespräch mit erdgebundenen spirituellen Wesen"
+description: "Samuel: „Wir haben heute Abend viele Seelen bei uns, die in der Finsternis gelebt und gewandelt haben und immer noch in der Finsternis wandeln und an …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

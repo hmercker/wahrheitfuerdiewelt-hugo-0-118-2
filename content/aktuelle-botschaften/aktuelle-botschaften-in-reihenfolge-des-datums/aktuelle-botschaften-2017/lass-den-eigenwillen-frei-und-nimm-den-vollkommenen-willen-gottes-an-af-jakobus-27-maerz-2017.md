@@ -1,7 +1,7 @@
 ---
 title: "Lass den Eigenwillen frei und nimm den vollkommenen Willen Gottes an"
 menu_title: ""
-description: "Lass den Eigenwillen frei und nimm den vollkommenen Willen Gottes an"
+description: "Jakobus, empfangen durch Al Fike: „Ah, der Verstand wird entmutigt, nicht wahr, wenn die gut angelegten Pläne, die ihr macht, nicht in Erfüllung gehen.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

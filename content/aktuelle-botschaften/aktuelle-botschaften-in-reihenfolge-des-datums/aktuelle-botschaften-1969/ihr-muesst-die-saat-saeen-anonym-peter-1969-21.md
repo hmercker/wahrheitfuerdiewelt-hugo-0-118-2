@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst die Saat säen"
 menu_title: ""
-description: "Ihr müsst die Saat säen"
+description: "Petrus: „Auch ich möchte heute Abend kommen, Petrus. Ich empfinde großes Glück und Freude, zu euch, meinen Freunden, sprechen zu dürfen, bei Jesus und bei …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

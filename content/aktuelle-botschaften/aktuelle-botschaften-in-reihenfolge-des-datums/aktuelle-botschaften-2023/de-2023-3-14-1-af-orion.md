@@ -1,7 +1,7 @@
 ---
 title: "Gott benutzt euch, um die Menschheit zu erheben"
 menu_title: ""
-description: "Gott benutzt euch, um die Menschheit zu erheben"
+description: "Orion, empfangen durch Al Fike: „Er trägt euch an viele Orte, sowohl in euch und eurem Bewusstsein als auch in der Welt und ihrem Bewusstsein.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

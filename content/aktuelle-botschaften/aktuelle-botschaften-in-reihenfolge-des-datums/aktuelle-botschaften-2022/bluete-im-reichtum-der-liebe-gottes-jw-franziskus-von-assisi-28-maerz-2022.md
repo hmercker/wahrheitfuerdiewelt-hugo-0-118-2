@@ -1,7 +1,7 @@
 ---
 title: "Blüte im Reichtum der Liebe Gottes"
 menu_title: ""
-description: "Blüte im Reichtum der Liebe Gottes"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern in der Liebe Gottes. Ich bitte euch, die Lilien auf dem Feld zu …“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

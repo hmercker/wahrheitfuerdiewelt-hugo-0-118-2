@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt euren Herzen, zärtlich zu sein"
 menu_title: ""
-description: "Erlaubt euren Herzen, zärtlich zu sein"
+description: "Maria, empfangen durch Maureen Cardoso: „Ich möchte sagen, dass ich die ganze Zeit, in der ihr versammelt wart, bei euch gewesen bin.“"
 date: 2020-08-01 06:25:48+00:248
 draft: False
 hidden: True

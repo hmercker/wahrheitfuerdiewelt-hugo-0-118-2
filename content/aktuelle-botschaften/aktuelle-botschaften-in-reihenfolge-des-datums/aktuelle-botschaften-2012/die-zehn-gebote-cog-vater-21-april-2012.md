@@ -1,7 +1,7 @@
 ---
 title: "Die Zehn Gebote"
 menu_title: ""
-description: "Die Zehn Gebote"
+description: "Vater, empfangen durch Child of God: „Heute werden wir über die Zehn Gebote sprechen. Das ist ein Thema, über das du nicht viel weißt und das dich ein …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

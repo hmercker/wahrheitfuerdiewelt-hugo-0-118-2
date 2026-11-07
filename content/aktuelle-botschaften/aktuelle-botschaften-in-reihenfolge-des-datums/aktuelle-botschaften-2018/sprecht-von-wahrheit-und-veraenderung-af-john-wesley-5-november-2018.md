@@ -1,7 +1,7 @@
 ---
 title: "Sprecht von Wahrheit und Veränderung"
 menu_title: ""
-description: "Sprecht von Wahrheit und Veränderung"
+description: "John Wesley, empfangen durch Al Fike: „Dies geschieht mit vielen von uns, die in den spirituellen Bereich übergehen. Wir müssen alles neu überdenken, weil …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

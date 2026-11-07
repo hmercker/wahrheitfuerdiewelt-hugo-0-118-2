@@ -1,7 +1,7 @@
 ---
 title: "Pfad der Gnade"
 menu_title: ""
-description: "Pfad der Gnade"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Möge der Friede der Liebe Gottes über allen hier in diesem schönen Kreis sein. Ich möchte über das Thema Angst …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Weg der Göttlichen Liebe ist der Weg der Seele"
 menu_title: ""
-description: "Der Weg der Göttlichen Liebe ist der Weg der Seele"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Es ist schön, euch im Gebet versammelt zu sehen in diesem wunderschönen Heiligtum, diesem Zentrum des Lichts.“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

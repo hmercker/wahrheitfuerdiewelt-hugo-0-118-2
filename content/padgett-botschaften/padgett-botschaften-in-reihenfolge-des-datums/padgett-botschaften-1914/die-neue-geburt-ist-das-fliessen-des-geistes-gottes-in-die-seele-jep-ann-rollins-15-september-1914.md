@@ -1,7 +1,7 @@
 ---
 title: "Die Neue Geburt ist das Fließen des Geistes Gottes in die Seele"
 menu_title: ""
-description: "Die Neue Geburt ist das Fließen des Geistes Gottes in die Seele"
+description: "Ann Rollins, empfangen durch James Padgett: „Er ist der eine Verstand und Geist, welcher allen anderen Geistern lehrt, dass die Wahrheit das einzige ist …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

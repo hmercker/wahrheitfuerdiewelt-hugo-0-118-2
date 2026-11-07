@@ -1,7 +1,7 @@
 ---
 title: "Die Heilung des Sohnes des Bürgermeisters in Kpar Nahum"
 menu_title: ""
-description: "Die Heilung des Sohnes des Bürgermeisters in Kpar Nahum"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, wie ich dir versprochen habe, werde ich mit dem Bericht über das Leben Jesu fortfahren.“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

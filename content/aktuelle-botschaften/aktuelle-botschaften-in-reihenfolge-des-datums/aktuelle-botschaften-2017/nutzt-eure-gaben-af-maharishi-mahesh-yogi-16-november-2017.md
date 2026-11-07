@@ -1,7 +1,7 @@
 ---
 title: "Nutzt eure Gaben"
 menu_title: ""
-description: "Nutzt eure Gaben"
+description: "Maharishi Mahesh Yogi, empfangen durch Al Fike: „Ihr seid überrascht, aber lasst mich euch sagen, dass es viele gibt, die diese Wahrheit verstehen.“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich bin der Kapitän eures Schiffes"
 menu_title: ""
-description: "Ich bin der Kapitän eures Schiffes"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Möge Gottes Liebe mit euch sein. Ihr seid wie ein Schiff auf stürmischer See, das eine wertvolle Fracht an Bord hat …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

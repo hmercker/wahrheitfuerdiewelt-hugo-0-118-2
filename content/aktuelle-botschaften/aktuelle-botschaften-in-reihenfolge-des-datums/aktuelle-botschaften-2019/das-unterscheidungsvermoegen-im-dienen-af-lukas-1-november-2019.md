@@ -1,7 +1,7 @@
 ---
 title: "Das Unterscheidungsvermögen im Dienen"
 menu_title: ""
-description: "Das Unterscheidungsvermögen im Dienen"
+description: "Lukas, empfangen durch Al Fike: „Viele in dieser Welt suchen verzweifelt nach Liebe, suchen Linderung von ihrem Schmerz und sind sehr verwirrt und haben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

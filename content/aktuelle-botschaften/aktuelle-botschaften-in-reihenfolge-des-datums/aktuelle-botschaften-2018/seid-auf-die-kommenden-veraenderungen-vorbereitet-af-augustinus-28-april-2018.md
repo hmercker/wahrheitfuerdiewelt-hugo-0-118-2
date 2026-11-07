@@ -1,7 +1,7 @@
 ---
 title: "Seid auf die kommenden Veränderungen vorbereitet"
 menu_title: ""
-description: "Seid auf die kommenden Veränderungen vorbereitet"
+description: "Augustinus, empfangen durch Al Fike: „Ihr seht, dass es innerhalb dieses Plans eine große Offenbarung geben wird, eine Art Erwachen, das im Westen beginnen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

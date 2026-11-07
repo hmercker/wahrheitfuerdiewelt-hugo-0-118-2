@@ -1,7 +1,7 @@
 ---
 title: "Seid stark, meine Kleinen"
 menu_title: ""
-description: "Seid stark, meine Kleinen"
+description: "Jesus: „Meine kleinen Kinder, zu lange ist die Welt ohne dieses Wissen und Verständnis gewesen. Aber zuerst, meine Kleinen, wünsche ich, dass ihr stark …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Frau befindet sich in einem Zustand der Finsternis und des Leidens"
 menu_title: ""
-description: "Eine Frau befindet sich in einem Zustand der Finsternis und des Leidens"
+description: "R.F., empfangen durch James Padgett: „Ich brauche so sehr Hilfe und komme deshalb zu dir. Ich war eine Frau, die das Leben einer Abenteurerin lebte und …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

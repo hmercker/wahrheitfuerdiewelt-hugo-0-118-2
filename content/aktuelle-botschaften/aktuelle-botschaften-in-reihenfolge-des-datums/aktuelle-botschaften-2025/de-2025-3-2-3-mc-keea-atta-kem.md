@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Göttlichen Liebe ist die Antwort auf alles"
 menu_title: ""
-description: "Die Macht der Göttlichen Liebe ist die Antwort auf alles"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Es ist die Kraft der Göttlichen Liebe, geliebte Seelen, die die Antwort auf alles ist. Ich freue mich, mit …“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

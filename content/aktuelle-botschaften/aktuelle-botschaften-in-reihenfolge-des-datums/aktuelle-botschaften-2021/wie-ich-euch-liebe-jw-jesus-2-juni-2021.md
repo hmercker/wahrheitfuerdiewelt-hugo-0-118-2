@@ -1,7 +1,7 @@
 ---
 title: "Wie ich Euch liebe"
 menu_title: ""
-description: "Wie ich Euch liebe"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Ich gehe in Liebe, ich spreche in Liebe, ich singe in Liebe, ich heile in der Liebe Gottes.“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

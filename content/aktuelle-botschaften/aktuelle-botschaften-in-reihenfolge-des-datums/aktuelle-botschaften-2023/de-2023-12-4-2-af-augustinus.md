@@ -1,7 +1,7 @@
 ---
 title: "Segnet und schließt Running Springs Treffen"
 menu_title: ""
-description: "Segnet und schließt Running Springs Treffen"
+description: "Augustinus, empfangen durch Al Fike: „Ja, ihr habt viel erreicht. Ihr habt wertvolle Kontakte geknüpft und viele Segnungen empfangen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

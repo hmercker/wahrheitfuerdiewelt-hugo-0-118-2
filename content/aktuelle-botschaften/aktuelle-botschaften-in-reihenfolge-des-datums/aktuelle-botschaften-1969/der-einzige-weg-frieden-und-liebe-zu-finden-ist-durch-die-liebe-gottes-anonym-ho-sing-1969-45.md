@@ -1,7 +1,7 @@
 ---
 title: "Der einzige Weg, Frieden und Liebe zu finden, ist durch die Liebe Gottes"
 menu_title: ""
-description: "Der einzige Weg, Frieden und Liebe zu finden, ist durch die Liebe Gottes"
+description: "Ho Sing: „Es ist so wunderbar, heute Abend zu euch zu kommen. Zu euch in der Gegenwart des größten Lehrers von allen sprechen zu dürfen, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

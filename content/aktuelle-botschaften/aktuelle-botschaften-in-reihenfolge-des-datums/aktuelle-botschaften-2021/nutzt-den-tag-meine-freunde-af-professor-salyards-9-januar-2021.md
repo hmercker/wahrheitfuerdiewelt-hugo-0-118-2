@@ -1,7 +1,7 @@
 ---
 title: "Nutzt den Tag, meine Freunde"
 menu_title: ""
-description: "Nutzt den Tag, meine Freunde"
+description: "Professor Salyards, empfangen durch Al Fike: „Es ist schön, mit euch allen zusammen zu sein, meine Freunde. Ich freue mich zu sehen, dass jeder von euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

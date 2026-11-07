@@ -1,7 +1,7 @@
 ---
 title: "Beten für den Frieden"
 menu_title: ""
-description: "Beten für den Frieden"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich bete für ein großes Einströmen Deiner Göttlichen Liebe in dieser Zeit.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

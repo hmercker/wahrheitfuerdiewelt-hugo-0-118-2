@@ -1,7 +1,7 @@
 ---
 title: "Ihr baut euer Licht auf"
 menu_title: ""
-description: "Ihr baut euer Licht auf"
+description: "Yogananda, empfangen durch Al Fike: „Ich werde in meiner eigenen Sprache zu meinem Volk sprechen. Ich hoffe, meinen Landsleuten mehr Vernunft und Wahrheit …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

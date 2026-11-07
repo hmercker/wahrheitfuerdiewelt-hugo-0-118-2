@@ -1,7 +1,7 @@
 ---
 title: "Helen ist glücklich, dass der Meister geschrieben hat, und er war so liebevoll und brüderlich"
 menu_title: ""
-description: "Helen ist glücklich, dass der Meister geschrieben hat, und er war so liebevoll und brüderlich"
+description: "Helen, empfangen durch James Padgett: „Nun mein Schatz, du hast heute Abend einige wundervolle Nachrichten erhalten und ich fühle, dass sie dir sehr in den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

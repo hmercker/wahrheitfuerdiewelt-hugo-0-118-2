@@ -1,7 +1,7 @@
 ---
 title: "Der Vater von Jesus und Josef von Arimathäa sind ein und dieselbe Person"
 menu_title: ""
-description: "Der Vater von Jesus und Josef von Arimathäa sind ein und dieselbe Person"
+description: "Josef, empfangen durch Amada Reza: „Aufgrund der Mutterliebe konnte Maria, meine Frau, unserem Sohn in ihrem Herzen und der Zärtlichkeit ihrer Liebe zu ihm …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Vererbung und DNA"
 menu_title: ""
-description: "Spirituelle Vererbung und DNA"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Es sind heute Abend viele hier und einige möchten sprechen. Deshalb haben wir beschlossen, dass ich diese …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

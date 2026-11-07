@@ -1,7 +1,7 @@
 ---
 title: "Unsere Beziehung"
 menu_title: ""
-description: "Unsere Beziehung"
+description: "Vater, empfangen durch Child of God: „Das ist eine gute Entscheidung und es wird dir auch gut tun. Nicht alles, worüber wir reden, ist für andere von …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

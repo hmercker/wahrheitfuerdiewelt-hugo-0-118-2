@@ -1,7 +1,7 @@
 ---
 title: "Der Autor der Reise in die Unsterblichkeit bedankt sich vielmals"
 menu_title: ""
-description: "Der Autor der Reise in die Unsterblichkeit bedankt sich vielmals"
+description: "Robert James Lees, empfangen durch Jimbeau Walsh: „Und was Clare 1 letzte Woche gesagt hat, drückt kaum die Dankbarkeit aus, die ich habe. Denn seht ihr …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf die Bitte um Rat"
 menu_title: ""
-description: "Antwort auf die Bitte um Rat"
+description: "Augustinus, empfangen durch Al Fike: „Wenn ihr euch vorgenommen habt, Gott zu dienen und die Aspekte der materiellen Ebene in Bewegung zu setzen, die eurer …“"
 date: 2022-01-19 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes befürwortet, dass Herr Padgett das Buch von Stainton Moses liest, da es viele Dinge darin gibt, die wahr sind"
 menu_title: ""
-description: "Johannes befürwortet, dass Herr Padgett das Buch von Stainton Moses liest, da es viele Dinge darin gibt, die wahr sind"
+description: "Johannes, empfangen durch James Padgett: „Ich habe mit dir in dem Buch (Spirituelle Lehren von Stainton Moses) gelesen und ich finde, dass viele Dinge …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

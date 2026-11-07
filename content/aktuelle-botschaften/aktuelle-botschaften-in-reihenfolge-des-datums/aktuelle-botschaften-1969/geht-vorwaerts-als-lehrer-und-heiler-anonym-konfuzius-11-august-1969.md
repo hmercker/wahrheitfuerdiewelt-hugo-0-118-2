@@ -1,7 +1,7 @@
 ---
 title: "Geht vorwärts als Lehrer und Heiler"
 menu_title: ""
-description: "Geht vorwärts als Lehrer und Heiler"
+description: "Konfuzius: „Ich möchte heute Abend sagen, dass wir nicht nur zu eurem Nutzen hierher gekommen sind, sondern dass wir gekommen sind, damit ihr den Wunsch …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

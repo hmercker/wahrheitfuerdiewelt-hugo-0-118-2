@@ -1,7 +1,7 @@
 ---
 title: "Das fortschreitende Erwachen der Seele"
 menu_title: ""
-description: "Das fortschreitende Erwachen der Seele"
+description: "Martin Luther, empfangen durch Al Fike: „Ich möchte meinen Glückwunsch, meine Wertschätzung und meine Liebe zu euren Bemühungen hinzufügen und zu sehen …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was wäre, wenn ein Engel zu eurem Haus käme"
 menu_title: ""
-description: "Was wäre, wenn ein Engel zu eurem Haus käme"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Was wäre, wenn ein Engel zu eurem Haus käme. Glaubt ihr, ihr braucht all die Möbel, die eure Wohnung vollstopfen, um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottvertrauen"
 menu_title: ""
-description: "Gottvertrauen"
+description: "Judas, empfangen durch H.: „Kennst du den Unterschied zwischen dir und mir? Ich beziehe mich auf etwas Grundlegendes; denk nicht an Oberflächlichkeiten, es …“"
 date: 2020-08-01 06:25:48+00:255
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Verbundenheit unserer Seelen "
 menu_title: ""
-description: "Die Verbundenheit unserer Seelen "
+description: "Andreas, empfangen durch Al Fike: „Jeder von euch ist mit Gott verbunden, wie jede Seele, die Gott geschaffen hat. Alle sind mit der großen Seele Gottes …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

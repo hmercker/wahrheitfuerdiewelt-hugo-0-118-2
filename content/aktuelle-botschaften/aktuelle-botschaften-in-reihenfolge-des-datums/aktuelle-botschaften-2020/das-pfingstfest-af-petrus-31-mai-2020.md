@@ -1,7 +1,7 @@
 ---
 title: "Das Pfingstfest"
 menu_title: ""
-description: "Das Pfingstfest"
+description: "Petrus, empfangen durch Al Fike: „Ich profitierte von der Gabe des Pfingstfestes, diesem großen Liebesregen Gottes in meine Seele und in die Seelen meiner …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

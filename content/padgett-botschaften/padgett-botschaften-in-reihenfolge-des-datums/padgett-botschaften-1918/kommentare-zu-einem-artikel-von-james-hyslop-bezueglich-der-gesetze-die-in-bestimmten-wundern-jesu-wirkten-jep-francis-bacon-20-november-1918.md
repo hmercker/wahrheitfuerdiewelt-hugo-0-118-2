@@ -1,7 +1,7 @@
 ---
 title: "Kommentare zu einem Artikel von James Hyslop bezüglich der Gesetze, die in bestimmten Wundern Jesu wirkten"
 menu_title: ""
-description: "Kommentare zu einem Artikel von James Hyslop bezüglich der Gesetze, die in bestimmten Wundern Jesu wirkten"
+description: "Francis Bacon, empfangen durch James Padgett: „Ich war heute Abend bei dir, als du gelesen hast, und war etwas daran interessiert, was James Hyslop in …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

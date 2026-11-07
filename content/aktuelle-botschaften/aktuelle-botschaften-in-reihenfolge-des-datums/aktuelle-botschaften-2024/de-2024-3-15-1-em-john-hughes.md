@@ -1,7 +1,7 @@
 ---
 title: "Es geht nur um die Liebe"
 menu_title: ""
-description: "Es geht nur um die Liebe"
+description: "John Hughes, empfangen durch Elisabeth Mack: „Es geht um Liebe, nicht wahr? Wie viele Ausdrucksformen der Liebe kann es wohl geben?“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf das Gespräch über einen Mann, der behauptet, Jesus zu sein"
 menu_title: ""
-description: "Antwort auf das Gespräch über einen Mann, der behauptet, Jesus zu sein"
+description: "Yogananda, empfangen durch Al Fike: „Ich habe euren Gesprächen über die liebe Seele zugehört, die sich als Quelle aller Wahrheit auf eurem Planeten …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

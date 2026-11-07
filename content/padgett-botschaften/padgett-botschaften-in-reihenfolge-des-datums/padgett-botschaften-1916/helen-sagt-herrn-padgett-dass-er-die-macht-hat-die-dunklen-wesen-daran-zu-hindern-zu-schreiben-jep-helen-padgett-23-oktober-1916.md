@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt Herrn Padgett, dass er die Macht hat, die dunklen Wesen daran zu hindern, zu schreiben"
 menu_title: ""
-description: "Helen sagt Herrn Padgett, dass er die Macht hat, die dunklen Wesen daran zu hindern, zu schreiben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Schatz, die spirituellen Wesen sind sehr bestrebt, heute Abend zu schreiben, und es ist etwas schwierig …“"
 date: 2020-08-01 06:25:48+00:243
 draft: False
 hidden: True

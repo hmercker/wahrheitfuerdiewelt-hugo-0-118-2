@@ -1,7 +1,7 @@
 ---
 title: "Die Haltung der Familie Jesu im Jahr 26"
 menu_title: ""
-description: "Die Haltung der Familie Jesu im Jahr 26"
+description: "Judas, empfangen durch H.: „Mein lieber H , jetzt werden wir uns auf das Jahr 26 konzentrieren. Als ich von wichtigen Ereignissen sprach, bezog ich mich …“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

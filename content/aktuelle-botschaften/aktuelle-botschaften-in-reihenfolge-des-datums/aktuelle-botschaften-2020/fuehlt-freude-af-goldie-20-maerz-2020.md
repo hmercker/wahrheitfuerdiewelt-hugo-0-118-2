@@ -1,7 +1,7 @@
 ---
 title: "Fühlt Freude"
 menu_title: ""
-description: "Fühlt Freude"
+description: "Goldie, empfangen durch Al Fike: „Ich werde kommen und euch hinter den Ohren und unter dem Kinn kitzeln und euch liebevolle Worte ins Ohr flüstern, damit …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

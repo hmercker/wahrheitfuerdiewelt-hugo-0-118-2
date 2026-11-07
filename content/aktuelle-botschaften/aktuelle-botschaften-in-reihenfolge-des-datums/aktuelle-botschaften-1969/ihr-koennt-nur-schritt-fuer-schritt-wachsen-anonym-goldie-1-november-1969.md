@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt nur Schritt für Schritt wachsen"
 menu_title: ""
-description: "Ihr könnt nur Schritt für Schritt wachsen"
+description: "Goldie: „Ich möchte eine Friedens- und Liebeskraft hier in diese Gruppe bringen, die so stark ist, dass ihr alle zu einer Einheit verschmolzen werdet.“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

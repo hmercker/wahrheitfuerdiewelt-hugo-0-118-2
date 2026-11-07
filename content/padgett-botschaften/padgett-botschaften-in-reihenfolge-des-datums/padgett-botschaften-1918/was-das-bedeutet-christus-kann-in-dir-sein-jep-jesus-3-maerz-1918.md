@@ -1,7 +1,7 @@
 ---
 title: "Was das bedeutet: Christus kann in dir sein"
 menu_title: ""
-description: "Was das bedeutet: Christus kann in dir sein"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir heute Nacht in Bezug darauf schreiben, was der Prediger rät, nämlich wie „Christus in dir sein kann“.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

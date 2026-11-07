@@ -1,7 +1,7 @@
 ---
 title: "Paulus erklärt seinen Dorn im Fleisch und seine Erfahrung auf dem Weg nach Damaskus "
 menu_title: ""
-description: "Paulus erklärt seinen Dorn im Fleisch und seine Erfahrung auf dem Weg nach Damaskus "
+description: "Paulus, empfangen durch James Padgett: „Saul von Tarsus, jetzt Paulus von Damaskus. Ich habe viele Briefe geschrieben, die in der Bibel enthalten sind, und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

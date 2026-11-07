@@ -1,7 +1,7 @@
 ---
 title: "In vielen Dingen seid ihr näher bei Gott"
 menu_title: ""
-description: "In vielen Dingen seid ihr näher bei Gott"
+description: "Goldie, empfangen durch Al Fike: „Wenn du in den Wellen spielst, bist du Gott näher. Wenn ihr die Sonne auf eurem Gesicht spürt, seid ihr näher bei Gott.“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

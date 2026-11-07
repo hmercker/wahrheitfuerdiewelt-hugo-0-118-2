@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe muss zur Währung der Menschheit werden"
 menu_title: ""
-description: "Die Liebe muss zur Währung der Menschheit werden"
+description: "Jesus, empfangen durch Al Fike: „Ihr seid alle meine Brüder und Schwestern, die in dieser Welt wandeln und versuchen, Licht, Liebe und Wahrheit …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dieser Schriftsteller erzählt von seinen religiösen Ansichten die er auf Erden hatte"
 menu_title: ""
-description: "Dieser Schriftsteller erzählt von seinen religiösen Ansichten die er auf Erden hatte"
+description: "Robert Ingersoll, empfangen durch James Padgett: „Ich war vollkommen aufrichtig in dem, was ich lehrte und dachte, und daher habe ich nicht das Gefühl …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

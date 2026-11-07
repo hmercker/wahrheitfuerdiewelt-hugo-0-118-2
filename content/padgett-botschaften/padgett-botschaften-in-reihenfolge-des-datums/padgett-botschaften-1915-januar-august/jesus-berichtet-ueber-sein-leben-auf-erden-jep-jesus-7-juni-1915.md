@@ -1,7 +1,7 @@
 ---
 title: "Jesus berichtet über sein Leben auf Erden"
 menu_title: ""
-description: "Jesus berichtet über sein Leben auf Erden"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir heute Nacht über meine Geburt und mein Leben bis zur Zeit meines öffentlichen Ministeriums schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

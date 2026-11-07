@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, dass Gott nur schauen kann, wer eins mit Ihm ist"
 menu_title: ""
-description: "Jesus erklärt, dass Gott nur schauen kann, wer eins mit Ihm ist"
+description: "Jesus, empfangen durch James Padgett: „Ich habe gehört, was Paulus geschrieben hat, und ich bestätige alles, was er gesagt hat, und füge hinzu, dass diese …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

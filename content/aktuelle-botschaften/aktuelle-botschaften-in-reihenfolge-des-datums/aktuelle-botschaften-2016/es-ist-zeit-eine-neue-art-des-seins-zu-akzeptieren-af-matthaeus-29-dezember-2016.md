@@ -1,7 +1,7 @@
 ---
 title: "Es ist Zeit, eine neue Art des Seins zu akzeptieren"
 menu_title: ""
-description: "Es ist Zeit, eine neue Art des Seins zu akzeptieren"
+description: "Matthäus, empfangen durch Fike: „Gott hat eine Welle von Energie, von Segnungen für diese Welt gebracht, die Veränderung bringen wird, Veränderung auf …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

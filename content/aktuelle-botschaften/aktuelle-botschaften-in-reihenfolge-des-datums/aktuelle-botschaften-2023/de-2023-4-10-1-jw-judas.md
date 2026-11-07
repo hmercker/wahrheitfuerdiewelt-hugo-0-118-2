@@ -1,7 +1,7 @@
 ---
 title: "Liebe aussenden"
 menu_title: ""
-description: "Liebe aussenden"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich bitte euch, euch bewusst zu machen, dass eure Seele sowohl ein Sender als auch ein Empfänger ist.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

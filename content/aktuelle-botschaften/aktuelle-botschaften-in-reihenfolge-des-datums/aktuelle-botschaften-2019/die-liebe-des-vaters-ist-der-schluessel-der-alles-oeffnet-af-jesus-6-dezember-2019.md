@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe des Vaters ist der Schlüssel, der alles öffnet"
 menu_title: ""
-description: "Die Liebe des Vaters ist der Schlüssel, der alles öffnet"
+description: "Jesus, empfangen durch Al Fike: „Meine Liebe zu euch ist groß, aber die Liebe des Vaters zu euch ist unermesslich, größer als ihr es euch vorstellen könnt.“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

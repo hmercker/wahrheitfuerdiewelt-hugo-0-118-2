@@ -1,7 +1,7 @@
 ---
 title: "Eure Reise zu den Göttlichen Himmeln wird durch das Gebet für die Göttliche Liebe verkürzt"
 menu_title: ""
-description: "Eure Reise zu den Göttlichen Himmeln wird durch das Gebet für die Göttliche Liebe verkürzt"
+description: "Jakobus, empfangen durch Al Fike: „Der Weg zum Himmel ist nicht so lang, wie ihr vielleicht denkt. Obwohl der Himmel von dieser irdischen Ebene weit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

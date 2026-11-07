@@ -1,7 +1,7 @@
 ---
 title: "Auch Padgett's Großmutter versichert ihm, dass es wirklich Jesus der Bibel war, der geschrieben hat"
 menu_title: ""
-description: "Auch Padgett's Großmutter versichert ihm, dass es wirklich Jesus der Bibel war, der geschrieben hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Wie ich in meinem Leben hier herausgefunden habe, ist er der wahrhaftigste Sohn Gottes. Er ist kein Erretter …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Medialität und der Verstand des Sterblichen"
 menu_title: ""
-description: "Medialität und der Verstand des Sterblichen"
+description: "Judas, empfangen durch H.: „Ich weiß, dass du gehofft hattest, eine Nachricht zu erhalten, während du in Quito warst, aber verstehe, dass es dafür keine …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

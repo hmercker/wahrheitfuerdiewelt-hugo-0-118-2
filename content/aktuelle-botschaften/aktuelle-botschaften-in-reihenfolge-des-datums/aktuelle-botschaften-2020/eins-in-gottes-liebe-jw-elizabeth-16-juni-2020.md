@@ -1,7 +1,7 @@
 ---
 title: "Eins in Gottes Liebe"
 menu_title: ""
-description: "Eins in Gottes Liebe"
+description: "Elizabeth, empfangen durch Jimbeau Walsh: „Es gibt eine große Sehnsucht und ich würde sagen, eine große Emotion, die von den Frauen in dieser Gemeinschaft …“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

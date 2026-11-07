@@ -1,7 +1,7 @@
 ---
 title: "Persönlicher Rat für A___"
 menu_title: ""
-description: "Persönlicher Rat für A___"
+description: "Maria, empfangen durch Amada Reza: „[Mein liebster himmlischer Vater, bitte hilf mir jetzt, besser zu verstehen, wie ich den Bedürfnissen meiner Brüder und …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

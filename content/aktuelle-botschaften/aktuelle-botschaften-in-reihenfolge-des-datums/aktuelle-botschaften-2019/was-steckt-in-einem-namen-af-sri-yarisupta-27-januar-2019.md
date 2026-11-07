@@ -1,7 +1,7 @@
 ---
 title: "Was steckt in einem Namen?"
 menu_title: ""
-description: "Was steckt in einem Namen?"
+description: "Sri Yarisupta, empfangen durch Al Fike: „Sri Yarisupta ist mein offizieller Name. Ich verstehe eure Verwirrungen und in der Tat war meine Sprache zur Zeit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

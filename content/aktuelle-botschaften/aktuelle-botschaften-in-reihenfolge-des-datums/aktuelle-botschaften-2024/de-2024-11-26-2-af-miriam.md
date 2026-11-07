@@ -1,7 +1,7 @@
 ---
 title: "Seid weiterhin ein Licht in Gottes Welt"
 menu_title: ""
-description: "Seid weiterhin ein Licht in Gottes Welt"
+description: "Miriam, empfangen durch Al Fike: „Möge der Segen Gottes eure Seelen erfüllen, damit sie in Liebe überfließen und überquellen.“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Segen für die Seelen Entwicklungsgruppe Barbados"
 menu_title: ""
-description: "Segen für die Seelen Entwicklungsgruppe Barbados"
+description: "Jesus, empfangen durch Al Fike: „[Jesus steht Al Fike auf und führt ihn in die Mitte des Raumes. Jesus segnet jede Person im Kreis.]“"
 date: 2025-01-17 06:00:00+00:10
 draft: False
 hidden: True

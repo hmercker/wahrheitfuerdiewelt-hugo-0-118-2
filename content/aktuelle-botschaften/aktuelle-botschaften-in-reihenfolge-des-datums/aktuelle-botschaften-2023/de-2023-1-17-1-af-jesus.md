@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt die Instrumentalität von Al "
 menu_title: ""
-description: "Bestätigt die Instrumentalität von Al "
+description: "Jesus, empfangen durch Al Fiek: „Ich wiederhole meine Verpflichtung und Botschaft, dass ich dieses Instrument als mein Sprachrohr auf der irdischen Ebene …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

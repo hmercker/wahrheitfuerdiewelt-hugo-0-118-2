@@ -1,7 +1,7 @@
 ---
 title: "Luther beschreibt die Beziehung zwischen den Laien und den kirchlichen Amtsträgern zu seiner Zeit"
 menu_title: ""
-description: "Luther beschreibt die Beziehung zwischen den Laien und den kirchlichen Amtsträgern zu seiner Zeit"
+description: "Martin Luther, empfangen durch James Padgett: „Gut, wenn du das Gefühl hast, dass du sie empfangen kannst, dann fahren wir fort. In meinen Tagen waren die …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

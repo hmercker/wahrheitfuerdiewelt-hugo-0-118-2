@@ -1,7 +1,7 @@
 ---
 title: "Kenne die Gaben und Segnungen der Engel "
 menu_title: ""
-description: "Kenne die Gaben und Segnungen der Engel "
+description: "Josef, empfangen durch Al Fike: „Wir bemühen uns sehr, euch zu erheben, euch ins Licht zu bringen, euch zu beschützen, euch zu führen und zu ermutigen und …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Andreas über zwei Möglichkeiten, zwei Wege"
 menu_title: ""
-description: "Andreas über zwei Möglichkeiten, zwei Wege"
+description: "Andreas, empfangen durch Al Fike: „Wenn man dann im Geiste (spirituellen Welt) ist, strömen diese Erinnerungen in euer Bewusstsein und diese tief sitzenden …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

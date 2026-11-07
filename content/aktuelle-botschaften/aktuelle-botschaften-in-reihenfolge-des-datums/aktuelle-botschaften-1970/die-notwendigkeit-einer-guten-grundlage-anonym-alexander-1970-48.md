@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit einer guten Grundlage"
 menu_title: ""
-description: "Die Notwendigkeit einer guten Grundlage"
+description: "Alexander: „Ich habe lange darauf gewartet, mit euch zu sprechen, meine Freunde, und ich freue mich sehr, heute Abend mit euch zu sprechen.“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

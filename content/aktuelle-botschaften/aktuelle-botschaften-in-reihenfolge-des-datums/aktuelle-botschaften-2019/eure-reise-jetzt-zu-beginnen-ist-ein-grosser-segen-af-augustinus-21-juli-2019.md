@@ -1,7 +1,7 @@
 ---
 title: "Eure Reise jetzt zu beginnen ist ein großer Segen"
 menu_title: ""
-description: "Eure Reise jetzt zu beginnen ist ein großer Segen"
+description: "Augustinus, empfangen durch Al Fike: „Er hat dies über all die Jahre getan. Geliebte Brüder und Schwestern, schöne Seelen alle, die hier sind, wisst in …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

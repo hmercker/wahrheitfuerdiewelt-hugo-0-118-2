@@ -1,7 +1,7 @@
 ---
 title: "Umarmt sie, wie Gott euch umarmt"
 menu_title: ""
-description: "Umarmt sie, wie Gott euch umarmt"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Wenn ihr in diesem Moment in den Geist übergehen würdet, wo würdet ihr dann sein wollen? Zu welcher …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

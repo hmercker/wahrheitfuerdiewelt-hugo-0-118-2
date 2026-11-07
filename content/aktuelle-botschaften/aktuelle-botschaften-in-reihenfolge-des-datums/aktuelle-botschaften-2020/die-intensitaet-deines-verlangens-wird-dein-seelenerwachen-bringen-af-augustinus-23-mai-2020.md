@@ -1,7 +1,7 @@
 ---
 title: "Die Intensität deines Verlangens wird dein Seelenerwachen bringen"
 menu_title: ""
-description: "Die Intensität deines Verlangens wird dein Seelenerwachen bringen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr seid alle so ernsthafte Seelen, die die Einladung Gottes, eure Seele zu erwecken, so ernst nehmen.“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

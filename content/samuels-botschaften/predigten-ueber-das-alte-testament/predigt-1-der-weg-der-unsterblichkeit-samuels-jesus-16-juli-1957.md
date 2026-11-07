@@ -1,7 +1,7 @@
 ---
 title: "Predigt 1 - Der Weg der Unsterblichkeit"
 menu_title: ""
-description: "Predigt 1 - Der Weg der Unsterblichkeit"
+description: "Jesus, empfangen durch Dr Samuels: „Ja, das war meine Mission, als ich auf der Erde war, und das war die große Botschaft, die mein Vater im Himmel mir …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Demut und Glaube wachsen, wenn die Göttliche Liebe in die Seele einfließt"
 menu_title: ""
-description: "Demut und Glaube wachsen, wenn die Göttliche Liebe in die Seele einfließt"
+description: "Faith, empfangen durch Al Fike: „Ich freue mich sehr, Teil der Schar von Engeln zu sein, die euch auf eurer Reise des Seelenerwachens und der …“"
 date: 2025-01-22 06:00:00+00:10
 draft: False
 hidden: True

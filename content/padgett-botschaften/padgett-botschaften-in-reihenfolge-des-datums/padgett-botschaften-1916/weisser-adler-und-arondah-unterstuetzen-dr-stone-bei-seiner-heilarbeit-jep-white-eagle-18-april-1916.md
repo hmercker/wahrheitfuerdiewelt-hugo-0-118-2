@@ -1,7 +1,7 @@
 ---
 title: "Weißer Adler und Arondah unterstützen Dr. Stone bei seiner Heilarbeit"
 menu_title: ""
-description: "Weißer Adler und Arondah unterstützen Dr. Stone bei seiner Heilarbeit"
+description: "Weißer Adler und Arondah, empfangen durch James Padgett: „Ich möchte ihm sagen, dass ich bei ihm war, als er die kranke Frau behandelte. Ihr Name war (Miss …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

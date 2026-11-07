@@ -1,7 +1,7 @@
 ---
 title: "Gottes Plan und unsere Berufung"
 menu_title: ""
-description: "Gottes Plan und unsere Berufung"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte mit euch über Gottes Plan zur Rettung der Menschheit sprechen und ich sehe, dass jeder von euch sich …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

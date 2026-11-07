@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 23 : Das Elfte Gebot"
 menu_title: ""
-description: "Offenbarung 23 : Das Elfte Gebot"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute werden wir uns wieder mit dem Neuen Testament beschäftigen, um unklare Passagen zu erläutern oder …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

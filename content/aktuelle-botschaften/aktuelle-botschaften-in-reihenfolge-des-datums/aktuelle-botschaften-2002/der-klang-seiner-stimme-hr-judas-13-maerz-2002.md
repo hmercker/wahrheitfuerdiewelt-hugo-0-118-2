@@ -1,7 +1,7 @@
 ---
 title: "Der Klang Seiner Stimme"
 menu_title: ""
-description: "Der Klang Seiner Stimme"
+description: "Judas, empfangen durch H.: „Gestern habe ich angekündigt, dass ich über bestimmte wichtige Ereignisse im Jahr 26 sprechen möchte.“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

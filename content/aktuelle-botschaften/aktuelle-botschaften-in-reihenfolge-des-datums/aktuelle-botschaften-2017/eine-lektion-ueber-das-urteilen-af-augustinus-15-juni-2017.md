@@ -1,7 +1,7 @@
 ---
 title: "Eine Lektion über das Urteilen"
 menu_title: ""
-description: "Eine Lektion über das Urteilen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt um eine Lektion über das Urteilen gebeten. Somit spreche ich nun über den Drang des Urteilens eurer Brüder …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

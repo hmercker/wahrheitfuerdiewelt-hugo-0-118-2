@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Himmlische Wesen geschrieben haben"
 menu_title: ""
-description: "Helen bestätigt, dass Himmlische Wesen geschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein lieber Ned, du hast einige Niederschriften von spirituellen Wesen erhalten, die 1 als Sterbliche als sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

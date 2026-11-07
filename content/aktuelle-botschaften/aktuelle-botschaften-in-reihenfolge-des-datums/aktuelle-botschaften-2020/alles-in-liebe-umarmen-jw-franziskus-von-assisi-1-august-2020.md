@@ -1,7 +1,7 @@
 ---
 title: "Alles in Liebe umarmen"
 menu_title: ""
-description: "Alles in Liebe umarmen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Als ich mein Elternhaus verließ und meinen Spaziergang in der Natur begann, inmitten der Schönheit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

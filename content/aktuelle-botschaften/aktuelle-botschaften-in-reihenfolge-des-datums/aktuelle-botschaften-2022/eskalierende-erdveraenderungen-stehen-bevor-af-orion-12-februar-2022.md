@@ -1,7 +1,7 @@
 ---
 title: "Eskalierende Erdveränderungen stehen bevor"
 menu_title: ""
-description: "Eskalierende Erdveränderungen stehen bevor"
+description: "Orion, empfangen durch Al Fike: „Ich möchte ihm dafür danken, dass er bereit ist, mit mir zusammenzuarbeiten, wenn wir morgen unseren Vortrag auf dem …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

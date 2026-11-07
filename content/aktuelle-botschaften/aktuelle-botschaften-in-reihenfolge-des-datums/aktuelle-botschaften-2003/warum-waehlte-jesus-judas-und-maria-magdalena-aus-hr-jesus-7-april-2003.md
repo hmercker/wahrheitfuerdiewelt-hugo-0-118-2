@@ -1,7 +1,7 @@
 ---
 title: "Warum wählte Jesus Judas und Maria Magdalena aus?"
 menu_title: ""
-description: "Warum wählte Jesus Judas und Maria Magdalena aus?"
+description: "Jesus, empfangen durch H.: „- Erstens: Wie kann ich mich Judas nähern, wenn ich das Gute in ihm sehe? - Zweitens: Wie konnte ich Maria von Magdala ähnlich …“"
 date: 2020-08-01 06:25:48+00:264
 draft: False
 hidden: True

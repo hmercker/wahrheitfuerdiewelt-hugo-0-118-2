@@ -1,7 +1,7 @@
 ---
 title: "Sprecht die Wahrheit"
 menu_title: ""
-description: "Sprecht die Wahrheit"
+description: "White Cloud, empfangen durch Al Fike: „Die Zeit ist für euch alle gekommen, aufzustehen und die Wahrheit zu sagen. Ihr könnt nicht weiter zulassen, dass …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

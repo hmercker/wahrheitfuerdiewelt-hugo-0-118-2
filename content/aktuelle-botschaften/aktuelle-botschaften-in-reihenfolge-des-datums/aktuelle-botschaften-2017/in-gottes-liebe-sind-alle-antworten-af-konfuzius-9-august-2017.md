@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe sind alle Antworten"
 menu_title: ""
-description: "In Gottes Liebe sind alle Antworten"
+description: "Konfuzius, empfangen durch Al Fike: „Ja, in der Tat, zuweilen haltet ihr eure Engel auf Trab, die euch beschützen und euch in eurem Leben beistehen, doch …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

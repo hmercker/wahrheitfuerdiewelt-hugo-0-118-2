@@ -1,7 +1,7 @@
 ---
 title: "Los Trenos wurde während die Inquisition in Spanien ermordet "
 menu_title: ""
-description: "Los Trenos wurde während die Inquisition in Spanien ermordet "
+description: "Los Trenos, empfangen durch James Padgett: „Ich war ein Schüler der Bibel und ich erkannte, dass die Kirche nicht die wahren Lehren Jesu lehrte und …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

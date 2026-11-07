@@ -1,7 +1,7 @@
 ---
 title: "Glaube und wie man die Wahrheit entdeckt"
 menu_title: ""
-description: "Glaube und wie man die Wahrheit entdeckt"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „Dieser Glaube wird die Wahrnehmungen eurer Seelen für die Wahrheit öffnen. Wenn ihr den …“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

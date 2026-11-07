@@ -1,7 +1,7 @@
 ---
 title: "Mitgefühl und die Gabe der Wahl"
 menu_title: ""
-description: "Mitgefühl und die Gabe der Wahl"
+description: "Jesus, empfangen durch Amda Reza: „Ja, du hast meinen Gedanken gehört, dass ich über das Mitgefühl schreiben möchte und wie es dir bei deinen …“"
 date: 2020-08-01 06:25:48+00:297
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bitte um mehr von Gottes Göttlicher Liebe"
 menu_title: ""
-description: "Bitte um mehr von Gottes Göttlicher Liebe"
+description: "Jakobus: „Bittet um mehr von Gottes Göttlicher Liebe, damit eure Lichter von Tag zu Tag und von Stunde zu Stunde stärker und stärker werden.“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

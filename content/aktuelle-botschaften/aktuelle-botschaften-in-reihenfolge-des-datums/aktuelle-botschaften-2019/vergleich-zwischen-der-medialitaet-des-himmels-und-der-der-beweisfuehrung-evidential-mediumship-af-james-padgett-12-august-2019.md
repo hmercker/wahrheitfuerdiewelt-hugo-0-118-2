@@ -1,7 +1,7 @@
 ---
 title: "Vergleich zwischen der Medialität des Himmels und der der Beweisführung (Evidential Mediumship)"
 menu_title: ""
-description: "Vergleich zwischen der Medialität des Himmels und der der Beweisführung (Evidential Mediumship)"
+description: "James Padgett, empfangen durch Al Fike: „So habt ihr die Unterschiede in der Arbeit, die ihr für den Himmlischen Vater tut, kennengelernt, verglichen mit …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Versteht eure wahre Natur"
 menu_title: ""
-description: "Versteht eure wahre Natur"
+description: "Konfuzius, empfangen durch Al Fike: „Denn ihr sucht die Höchste Quelle, den Größten Segen, das schönste Erwachen, das jeder Seele zuteil werden kann.“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bekräftigt, dass dunklen spirituellen Wesen geholfen wurde"
 menu_title: ""
-description: "Helen bekräftigt, dass dunklen spirituellen Wesen geholfen wurde"
+description: "Helen, empfangen durch James Padgett: „Der arme Geist, welchen du zu mir gesandt hast, war wirklich reumütig und hat so viele Tränen der Trauer und des …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

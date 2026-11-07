@@ -1,7 +1,7 @@
 ---
 title: "Das Spirituelle muss in euch der Schwerpunkt sein"
 menu_title: ""
-description: "Das Spirituelle muss in euch der Schwerpunkt sein"
+description: "Orion, empfangen durch Al Fike: „Wir verbringen viel Zeit damit, uns um euch herum zu versammeln, um euch auf das vorzubereiten, was kommt und was ihr tun …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

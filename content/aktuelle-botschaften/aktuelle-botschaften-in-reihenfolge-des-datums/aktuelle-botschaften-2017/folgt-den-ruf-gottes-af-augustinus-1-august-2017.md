@@ -1,7 +1,7 @@
 ---
 title: "Folgt den Ruf Gottes"
 menu_title: ""
-description: "Folgt den Ruf Gottes"
+description: "Augustinus, empfangen durch Al Fike: „Jeder von euch hat eine Veränderung in eurer Seele gespürt, eine Beschleunigung, eine Öffnung und ein weiteres …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wer wird die Wahrheit in diese Welt bringen?"
 menu_title: ""
-description: "Wer wird die Wahrheit in diese Welt bringen?"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich war die ganze Zeit bei euch. Ich sehne mich danach, euch all die vielen Einzelheiten und Aspekte der …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

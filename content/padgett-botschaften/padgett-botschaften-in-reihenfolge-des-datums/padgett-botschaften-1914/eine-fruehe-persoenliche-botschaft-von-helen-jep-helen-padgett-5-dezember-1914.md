@@ -1,7 +1,7 @@
 ---
 title: "Eine frühe persönliche Botschaft von Helen"
 menu_title: ""
-description: "Eine frühe persönliche Botschaft von Helen"
+description: "Helen, empfangen durch James Padgett: „Du machst nicht das Richtige indem du mich nicht so liebst, wie du es getan hast. Versuche mehr an mich zu denken …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

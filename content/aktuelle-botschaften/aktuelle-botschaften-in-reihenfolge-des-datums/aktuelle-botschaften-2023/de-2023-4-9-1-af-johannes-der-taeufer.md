@@ -1,7 +1,7 @@
 ---
 title: "Osterbotschaft"
 menu_title: ""
-description: "Osterbotschaft"
+description: "Johannes der Täufer, empfangen durch Al Fike: „Möge die große erlösende Liebe Gottes euch gehören, meine schönen und geliebten Brüder und Schwestern.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, Projekte zu beenden"
 menu_title: ""
-description: "Ermutigung, Projekte zu beenden"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich möchte zunächst meine Dankbarkeit für diejenigen zum Ausdruck bringen, die über meinen Geliebten …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

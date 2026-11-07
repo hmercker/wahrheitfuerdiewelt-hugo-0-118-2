@@ -1,7 +1,7 @@
 ---
 title: "Willkommen zurück"
 menu_title: ""
-description: "Willkommen zurück"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir heißen euch wieder in der Kammer willkommen und ja, wir fahren mit unseren Bemühungen fort, die direkte Stimme …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

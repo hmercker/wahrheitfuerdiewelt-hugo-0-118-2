@@ -1,7 +1,7 @@
 ---
 title: "Facetten der Seele"
 menu_title: ""
-description: "Facetten der Seele"
+description: "Lukas, empfangen durch Al Fike: „Geliebte Kinder, Gottes Mantel umgibt euch, Sein Licht ergießt sich über euch, Sein lebendiges Wasser wird an eure Lippen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Bernice Fike"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Bernice Fike"
+description: "Aktuelle Botschaften empfangen von Bernice Fike: „Hier empfangene Botschaften seit ihrem irdischen Tod. Author | Titel der Botschaft | Datum der Botschaft …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

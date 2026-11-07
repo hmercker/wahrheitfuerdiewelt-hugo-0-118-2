@@ -1,7 +1,7 @@
 ---
 title: "Er stellt sich Peter und Clare vor und seine Aufgabe auf der Erde"
 menu_title: ""
-description: "Er stellt sich Peter und Clare vor und seine Aufgabe auf der Erde"
+description: "Orion, empfangen durch Al Fike: „Ich freue mich, dass ich heute zu euch sprechen kann. Ich werde mich kurz fassen, denn unser lieber und geschätzter Freund …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

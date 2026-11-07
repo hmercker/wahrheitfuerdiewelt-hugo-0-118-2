@@ -1,7 +1,7 @@
 ---
 title: "Anleitungen zum Direkten Stimme Retreat"
 menu_title: ""
-description: "Anleitungen zum Direkten Stimme Retreat"
+description: "Seretta Kem, empfangen durch Al Fike: „In der Tat ist es wichtig und notwendig, dass ihr eure Vorbereitungen im Voraus bedenkt, selbst zu diesem frühen …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

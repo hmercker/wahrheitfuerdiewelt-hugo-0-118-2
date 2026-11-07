@@ -1,7 +1,7 @@
 ---
 title: "Dr. Campbell verschreibt Behandlungen und Diät für James Padgett"
 menu_title: ""
-description: "Dr. Campbell verschreibt Behandlungen und Diät für James Padgett"
+description: "Dr Campbell, empfangen durch James Padgett: „Campbell, der jetzt und schon seit einiger Zeit an deinem Wohlergehen interessiert ist. Ich sehe, dass du in …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

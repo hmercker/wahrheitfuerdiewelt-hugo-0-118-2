@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt den Stress und den Schmerz, den die Welt erlebt"
 menu_title: ""
-description: "Beschreibt den Stress und den Schmerz, den die Welt erlebt"
+description: "Augustinus, empfangen durch Al Fike: „Die Welt ist in großem Schmerz. Das haben wir schon oft gesagt und doch wird die Intensität dieses Schmerzes mit …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

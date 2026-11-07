@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle zusammen und trinken das Elixier der Liebe"
 menu_title: ""
-description: "Wir sind alle zusammen und trinken das Elixier der Liebe"
+description: "Yogananda, empfangen durch Al Fike: „Eure Gebete zu Gott sind wie ein Traum. Sie schweben hinauf zur Quelle aller Liebe und Schöpferkraft, Güte und Licht.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Überlegt euch, was ihr an euch selbst herantragt"
 menu_title: ""
-description: "Überlegt euch, was ihr an euch selbst herantragt"
+description: "Markus, empfangen durch Al Fike: „In diesem heiligen Haus Gottes möget ihr die nährende Pflege eurer Seelen finden, damit ihr gesegnet und inspiriert …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Verstärkt das Licht und die Liebe in euch"
 menu_title: ""
-description: "Verstärkt das Licht und die Liebe in euch"
+description: "Orion, empfangen durch Al Fike: „Wie sehr wünschen wir uns, dass eure Welt in Harmonie ist. Jede Welt in Gottes Universum ist dazu bestimmt, in Harmonie zu …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

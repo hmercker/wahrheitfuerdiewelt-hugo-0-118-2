@@ -1,7 +1,7 @@
 ---
 title: "Richards erzählt von Frau Kates' Seance und es gibt keine Tiere in der spirituellen Welt"
 menu_title: ""
-description: "Richards erzählt von Frau Kates' Seance und es gibt keine Tiere in der spirituellen Welt"
+description: "John Richards, empfangen durch James Padgett: „Um dich herum gab es sehr viele spirituelle Wesen aller Arten und Zustände. Einige waren aus reiner …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

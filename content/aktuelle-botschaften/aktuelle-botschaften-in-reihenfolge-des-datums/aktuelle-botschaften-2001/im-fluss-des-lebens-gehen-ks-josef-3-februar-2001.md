@@ -1,7 +1,7 @@
 ---
 title: "Im Fluss des Lebens gehen"
 menu_title: ""
-description: "Im Fluss des Lebens gehen"
+description: "Josef, empfangen durch Kathryn Stokes: „Du bist dir der Tatsache bewusst, dass du dich zu oft mit materiellen Sorgen beschäftigst, die dich wiederum …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

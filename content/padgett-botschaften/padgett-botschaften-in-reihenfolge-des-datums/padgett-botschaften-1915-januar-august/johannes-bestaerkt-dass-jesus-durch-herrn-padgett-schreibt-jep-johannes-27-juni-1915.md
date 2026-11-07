@@ -1,7 +1,7 @@
 ---
 title: "Johannes bestärkt, dass Jesus durch Herrn Padgett schreibt"
 menu_title: ""
-description: "Johannes bestärkt, dass Jesus durch Herrn Padgett schreibt"
+description: "Johannes, empfangen durch James Padgett: „Nein, und auch kein anderes Spirituelles Wesen im ganzen Universum Gottes. Er, Jesus, ist derjenige, der den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

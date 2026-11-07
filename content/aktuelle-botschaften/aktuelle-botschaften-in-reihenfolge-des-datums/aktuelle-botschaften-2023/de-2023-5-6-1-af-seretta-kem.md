@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für die Weiterentwicklung der Direkten Stimme"
 menu_title: ""
-description: "Anleitung für die Weiterentwicklung der Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Jetzt, wo ihr eure Entscheidungen und Verpflichtungen getroffen habt, wollen wir damit beginnen, euch dabei zu …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

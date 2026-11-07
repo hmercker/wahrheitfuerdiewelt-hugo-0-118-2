@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy erreicht die erste Himmelssphäre und beschreibt ihr neues Zuhause"
 menu_title: ""
-description: "Mary Kennedy erreicht die erste Himmelssphäre und beschreibt ihr neues Zuhause"
+description: "Mary, empfangen durch James Padgett: „Darum musst du mir glauben, wenn ich dir sage, dass meine Liebe so sehr viel reichlicher ist und dass du mir lieber …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

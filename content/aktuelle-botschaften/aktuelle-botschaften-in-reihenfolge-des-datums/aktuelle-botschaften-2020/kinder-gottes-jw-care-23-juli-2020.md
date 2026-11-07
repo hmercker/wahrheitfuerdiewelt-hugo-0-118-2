@@ -1,7 +1,7 @@
 ---
 title: "Kinder Gottes"
 menu_title: ""
-description: "Kinder Gottes"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich bitte euch, nach der Liebe zu greifen, dieser göttlichen Liebe des Himmlischen Vaters, die eine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

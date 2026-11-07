@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über ihre Erfahrungen mit Spirituellen Wesen, die Herr Padgett zu ihr geschickt hat"
 menu_title: ""
-description: "Helen schreibt über ihre Erfahrungen mit Spirituellen Wesen, die Herr Padgett zu ihr geschickt hat"
+description: "Helen, empfangen durch James Padgett: „Ich werde heute Abend nicht viel schreiben, da du müde bist. Lass mich dir also ein wenig von einem Vorfall …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

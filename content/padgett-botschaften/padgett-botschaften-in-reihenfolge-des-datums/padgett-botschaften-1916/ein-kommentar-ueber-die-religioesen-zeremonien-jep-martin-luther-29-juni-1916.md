@@ -1,7 +1,7 @@
 ---
 title: "Ein Kommentar über die religiösen Zeremonien"
 menu_title: ""
-description: "Ein Kommentar über die religiösen Zeremonien"
+description: "Martin Luther, empfangen durch James Padgett: „Ich wünsche eine kurze Nachricht zu schreiben heute Abend zum Thema: Die Einhaltung der Zeremonien, die …“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

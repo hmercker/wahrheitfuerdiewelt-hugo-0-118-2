@@ -1,7 +1,7 @@
 ---
 title: "Die Essenz Gottes (Göttliche Liebe) in der Seele ist die Grundlage für Gottes Reich auf Erden"
 menu_title: ""
-description: "Die Essenz Gottes (Göttliche Liebe) in der Seele ist die Grundlage für Gottes Reich auf Erden"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Diejenigen unter euch, die die so genannten Padgett-Botschaften studiert haben, die James Padgett und (Dr.“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

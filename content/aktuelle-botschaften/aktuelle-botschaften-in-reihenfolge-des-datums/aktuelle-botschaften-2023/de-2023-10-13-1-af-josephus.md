@@ -1,7 +1,7 @@
 ---
 title: "Die Macht eures Willens"
 menu_title: ""
-description: "Die Macht eures Willens"
+description: "Josephus, empfangen durch Al Fike: „Möge die Gnade von Gottes Liebe die eure sein, für immer, eure, die eine Reise ist, die mit jedem Gebet erwacht …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Einssein mit Gott"
 menu_title: ""
-description: "Einssein mit Gott"
+description: "Bartholomäus, empfangen durch Al Fike: „Willkommen, ihr unerschrockenen Reisenden auf diesem Pfad der Liebe zum Einssein mit Gott.“"
 date: 2025-01-19 06:00:00+00:10
 draft: False
 hidden: True

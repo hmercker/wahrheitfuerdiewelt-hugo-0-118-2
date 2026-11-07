@@ -1,7 +1,7 @@
 ---
 title: "Die größte Stärke kommt aus der Liebe Gottes"
 menu_title: ""
-description: "Die größte Stärke kommt aus der Liebe Gottes"
+description: "Nickolas 1: „Ich muss heute Abend kommen, um zu euch zu sprechen, meine Freunde, denn ich möchte, dass ihr wisst, was wir in der spirituellen Welt tun.“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

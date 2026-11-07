@@ -1,7 +1,7 @@
 ---
 title: "Stellt die Harmonie der Schöpfung wieder her "
 menu_title: ""
-description: "Stellt die Harmonie der Schöpfung wieder her "
+description: "Paulus, empfangen durch Al Fike: „In der Tat weht der Wind des Wandels über eure Welt. Doch weil ihr entschlossen an euren Wahrnehmungen und Routinen und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

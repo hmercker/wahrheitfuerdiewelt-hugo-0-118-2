@@ -1,7 +1,7 @@
 ---
 title: "Nur Liebe kann die Wahrheit offenbaren"
 menu_title: ""
-description: "Nur Liebe kann die Wahrheit offenbaren"
+description: "Jakobus, empfangen durch Kathryn Stokes: „[Lieber Gott der Liebe, ich hoffe, Dir besser dienen zu können, indem ich die Geschenke annehme, mit denen Du …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

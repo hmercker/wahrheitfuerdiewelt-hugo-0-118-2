@@ -1,7 +1,7 @@
 ---
 title: "Alle Kinder Gottes"
 menu_title: ""
-description: "Alle Kinder Gottes"
+description: "Fred Rogers, empfangen durch Jimbeau Walsh: „Alle Menschen auf der Erde haben einen Geburtstag, an dem ihre Seele und ihr spiritueller Körper in die …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

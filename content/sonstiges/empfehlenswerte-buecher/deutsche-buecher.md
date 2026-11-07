@@ -1,7 +1,7 @@
 ---
 title: "Deutsche spirituelle Bücher die wir empfehlen"
 menu_title: ""
-description: "Deutsche spirituelle Bücher die wir empfehlen"
+description: "Titel und Titelblatt | Zusammenfassung | Erhältlich ---|---|--- Der Weg der Göttlichen Liebe | Dieses Buch enthält eine Selektion von Mitteilungen aus dem …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

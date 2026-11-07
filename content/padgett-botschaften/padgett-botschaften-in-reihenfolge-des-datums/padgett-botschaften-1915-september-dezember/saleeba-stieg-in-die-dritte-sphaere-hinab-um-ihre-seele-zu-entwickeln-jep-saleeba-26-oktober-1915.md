@@ -1,7 +1,7 @@
 ---
 title: "Saleeba stieg in die dritte Sphäre hinab, um ihre Seele zu entwickeln"
 menu_title: ""
-description: "Saleeba stieg in die dritte Sphäre hinab, um ihre Seele zu entwickeln"
+description: "Saleeba, empfangen durch James Padgett: „Deine süße Frau war sehr oft bei mir, hat mir von dieser Liebe erzählt und mir den Weg gezeigt, wie ich sie suchen …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

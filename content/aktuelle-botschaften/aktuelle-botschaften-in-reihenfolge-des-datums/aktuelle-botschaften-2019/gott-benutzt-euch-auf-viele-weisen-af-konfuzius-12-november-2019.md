@@ -1,7 +1,7 @@
 ---
 title: "Gott benutzt euch auf viele Weisen"
 menu_title: ""
-description: "Gott benutzt euch auf viele Weisen"
+description: "Konfuzius, empfangen durch Al Fike: „Euer Freund Konfuzius ist hier und hört eure Bitten um Heilung und Erhebung. Sendet Gott nicht seine Engel, um euch zu …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Durch die Schwelle schreiten"
 menu_title: ""
-description: "Durch die Schwelle schreiten"
+description: "Augustinus, empfangen durch Al Fike: „Die Kraft der Liebe Gottes ist eure große Stärke und Verbündete. Sie ist es, die euren Bemühungen, andere zu dieser …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

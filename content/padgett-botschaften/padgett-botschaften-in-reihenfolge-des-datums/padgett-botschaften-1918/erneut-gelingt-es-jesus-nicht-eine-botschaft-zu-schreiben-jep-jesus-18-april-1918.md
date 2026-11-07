@@ -1,7 +1,7 @@
 ---
 title: "Erneut gelingt es Jesus nicht, eine Botschaft zu schreiben"
 menu_title: ""
-description: "Erneut gelingt es Jesus nicht, eine Botschaft zu schreiben"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Abend bei dir und habe gehört, was der Prediger gesagt hat und einige Teile seiner Rede drückten die …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

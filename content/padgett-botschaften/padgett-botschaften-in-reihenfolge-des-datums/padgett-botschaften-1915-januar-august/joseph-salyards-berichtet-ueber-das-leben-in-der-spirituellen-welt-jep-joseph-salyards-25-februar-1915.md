@@ -1,7 +1,7 @@
 ---
 title: "Joseph Salyards berichtet über das Leben in der spirituellen Welt"
 menu_title: ""
-description: "Joseph Salyards berichtet über das Leben in der spirituellen Welt"
+description: "Joseph Salyards, empfangen durch James Padgett: „Nun, ich in sehr glücklich, und ich wünsche, dir über einige Phasen des spirituellen Lebens zu schreiben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

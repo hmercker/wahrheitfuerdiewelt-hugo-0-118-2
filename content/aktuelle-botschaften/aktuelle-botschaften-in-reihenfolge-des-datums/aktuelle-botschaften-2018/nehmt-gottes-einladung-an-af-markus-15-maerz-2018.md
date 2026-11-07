@@ -1,7 +1,7 @@
 ---
 title: "Nehmt Gottes Einladung an"
 menu_title: ""
-description: "Nehmt Gottes Einladung an"
+description: "Markus, empfangen durch Al Fike: „So wie eure Seelen weiterhin von diesem heiligsten aller Segnungen genährt werden, so vertieft sich der Fluss, die Gaben …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

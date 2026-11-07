@@ -1,7 +1,7 @@
 ---
 title: "Die Freiheit der Veränderung"
 menu_title: ""
-description: "Die Freiheit der Veränderung"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Alles in Gottes Universum ist im Fluss, denn das Universum ist kinetisch, und das Gesetz ist Veränderung, nicht …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

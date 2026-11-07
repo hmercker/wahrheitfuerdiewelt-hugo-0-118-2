@@ -1,7 +1,7 @@
 ---
 title: "Kommentar zur Erdveränderung"
 menu_title: ""
-description: "Kommentar zur Erdveränderung"
+description: "Augustinus, empfangen durch Al Fike: „In der Tat seht ihr die äußeren Manifestationen des menschlichen Zustands, ein Ergebnis der mangelnden Liebe der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

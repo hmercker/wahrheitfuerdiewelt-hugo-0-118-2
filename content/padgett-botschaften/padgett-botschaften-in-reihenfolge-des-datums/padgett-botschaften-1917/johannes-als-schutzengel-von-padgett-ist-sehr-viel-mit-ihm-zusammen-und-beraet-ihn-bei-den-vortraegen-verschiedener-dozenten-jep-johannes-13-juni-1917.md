@@ -1,7 +1,7 @@
 ---
 title: "Johannes als Schutzengel von Padgett ist sehr viel mit ihm zusammen und berät ihn bei den Vorträgen verschiedener Dozenten"
 menu_title: ""
-description: "Johannes als Schutzengel von Padgett ist sehr viel mit ihm zusammen und berät ihn bei den Vorträgen verschiedener Dozenten"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend bei dir, als die Dozentin (Neugeist) sprach und zeigte, was in der Wahrheit keine Grundlage hat.“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

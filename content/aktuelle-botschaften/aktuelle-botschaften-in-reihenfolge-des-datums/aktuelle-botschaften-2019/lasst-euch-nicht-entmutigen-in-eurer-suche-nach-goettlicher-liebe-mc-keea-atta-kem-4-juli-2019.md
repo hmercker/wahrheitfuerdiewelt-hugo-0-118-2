@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch nicht entmutigen in eurer Suche nach Göttlicher Liebe"
 menu_title: ""
-description: "Lasst euch nicht entmutigen in eurer Suche nach Göttlicher Liebe"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Dies ist Keea, Keea Atta Kem. Ich wohne im Göttlichen Himmel und bin einen weiten Weg gekommen, um bei …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

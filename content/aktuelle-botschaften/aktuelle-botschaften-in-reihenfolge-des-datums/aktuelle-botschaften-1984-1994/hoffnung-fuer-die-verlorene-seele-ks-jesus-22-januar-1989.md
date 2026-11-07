@@ -1,7 +1,7 @@
 ---
 title: "Hoffnung für die verlorene Seele"
 menu_title: ""
-description: "Hoffnung für die verlorene Seele"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wie du erkennst, gibt es viele verschiedene Arten, ein und dieselbe Sache zu sagen, und um die Dinge zu …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Teufel in Schweine verbannt? Jesus predigt den Heiden"
 menu_title: ""
-description: "Teufel in Schweine verbannt? Jesus predigt den Heiden"
+description: "Judas, empfangen durch H.: „Ich weiß, dass du eine spezielle Frage zum \"Antichristen\" hast, aber ich möchte jetzt nicht über dieses Thema sprechen.“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

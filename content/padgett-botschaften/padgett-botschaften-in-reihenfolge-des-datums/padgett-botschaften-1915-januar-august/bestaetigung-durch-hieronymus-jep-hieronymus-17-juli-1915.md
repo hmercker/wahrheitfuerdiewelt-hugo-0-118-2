@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Hieronymus"
 menu_title: ""
-description: "Bestätigung durch Hieronymus"
+description: "Hieronymus (Jerome), empfangen durch James Padgett: „So glaube und du wirst den größten aller Segnungen empfangen, die göttliche Liebe des Vaters.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Hand ruht auf jedem von euch"
 menu_title: ""
-description: "Gottes Hand ruht auf jedem von euch"
+description: "Josef, empfangen durch Al Fike: „Geliebte Seelen, möge der Friede mit euch sein. Gottes Hand ruht auf jedem von euch und wird euch eine Stärke, eine …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

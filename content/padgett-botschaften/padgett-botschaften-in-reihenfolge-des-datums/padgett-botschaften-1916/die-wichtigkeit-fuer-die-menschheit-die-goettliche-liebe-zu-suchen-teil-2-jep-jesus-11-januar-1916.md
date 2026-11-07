@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 2"
 menu_title: ""
-description: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 2"
+description: "Jesus, empfangen durch James Padgett: „Ich werde meinen Vortrag von gestern Abend fortsetzen. Ich habe gesagt, dass die Juden und die Lehrer der Kirche …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

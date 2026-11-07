@@ -1,7 +1,7 @@
 ---
 title: "Das Verhältnis zur hebräischen Priesterschaft"
 menu_title: ""
-description: "Das Verhältnis zur hebräischen Priesterschaft"
+description: "Jesus, empfangen durch Dr Samuels: „Als ich damals in Palästina predigte, war mir sehr wohl bewusst, dass die hebräische Priesterschaft mehr ihrem Kult …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

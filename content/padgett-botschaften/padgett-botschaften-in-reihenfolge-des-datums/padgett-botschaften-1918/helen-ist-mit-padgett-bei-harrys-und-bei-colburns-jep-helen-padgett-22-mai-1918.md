@@ -1,7 +1,7 @@
 ---
 title: "Helen ist mit Padgett bei Harry's und bei Colburn's"
 menu_title: ""
-description: "Helen ist mit Padgett bei Harry's und bei Colburn's"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, mein Liebster, es waren heute Abend viele spirituelle Wesen anwesend, die alle schreiben wollten, und …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

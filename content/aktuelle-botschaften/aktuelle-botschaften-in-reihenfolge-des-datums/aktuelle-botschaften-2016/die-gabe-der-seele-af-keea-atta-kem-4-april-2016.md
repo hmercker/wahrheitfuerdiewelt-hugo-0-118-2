@@ -1,7 +1,7 @@
 ---
 title: "Die Gabe der Seele"
 menu_title: ""
-description: "Die Gabe der Seele"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Jedes Wesen hat Gaben und Fähigkeiten und Veranlagungen. Und viele dieser Gaben und Fähigkeiten innerhalb des …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe wird eure Seelen erwecken"
 menu_title: ""
-description: "Gottes Liebe wird eure Seelen erwecken"
+description: "Augustinus, empfangen durch Al Fike: „Unser tiefster Wunsch ist, dass ihr ein großes Einströmen der Liebe des Vaters in eure Seelen erhaltet.“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

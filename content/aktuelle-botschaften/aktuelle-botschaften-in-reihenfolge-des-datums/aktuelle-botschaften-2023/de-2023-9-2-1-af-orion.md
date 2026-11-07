@@ -1,7 +1,7 @@
 ---
 title: "Warnt eindringlich davor, in den kommenden Zeiten der Versuchung zu widerstehen"
 menu_title: ""
-description: "Warnt eindringlich davor, in den kommenden Zeiten der Versuchung zu widerstehen"
+description: "Orion, empfangen durch Al Fike: „Möget ihr großen Trost, Frieden und Transformation in diesem großen Geschenk finden, das die universelle Essenz des …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

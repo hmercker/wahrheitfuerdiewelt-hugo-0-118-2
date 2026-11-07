@@ -1,7 +1,7 @@
 ---
 title: "Stärkt das Netzwerk des Lichts mit Euren Gebeten"
 menu_title: ""
-description: "Stärkt das Netzwerk des Lichts mit Euren Gebeten"
+description: "Orion, empfangen durch Al Fike: „Ihr tragt weiterhin zur Erleuchtung der Welt bei, und wir bringen unsere Bemühungen und unser Licht in dieser Hinsicht …“"
 date: 2025-01-07 06:00:00+00:10
 draft: False
 hidden: True

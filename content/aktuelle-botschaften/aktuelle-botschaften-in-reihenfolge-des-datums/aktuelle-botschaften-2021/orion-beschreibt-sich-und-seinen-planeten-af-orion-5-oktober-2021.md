@@ -1,7 +1,7 @@
 ---
 title: "Orion beschreibt sich und seinen Planeten"
 menu_title: ""
-description: "Orion beschreibt sich und seinen Planeten"
+description: "Orion, empfangen durch Al Fike: „Wie ich bereits angedeutet habe, bewohnen wir einen anderen Planeten als ihr, und doch sind wir euch sehr ähnlich, denn …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

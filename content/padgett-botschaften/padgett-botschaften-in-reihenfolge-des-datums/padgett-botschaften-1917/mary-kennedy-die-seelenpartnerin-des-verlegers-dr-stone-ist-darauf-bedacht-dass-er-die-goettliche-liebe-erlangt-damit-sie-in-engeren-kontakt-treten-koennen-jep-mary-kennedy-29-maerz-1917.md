@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy, die Seelenpartnerin des Verlegers (Dr Stone), ist darauf bedacht, dass er die Göttliche Liebe erlangt, damit sie in engeren Kontakt treten können"
 menu_title: ""
-description: "Mary Kennedy, die Seelenpartnerin des Verlegers (Dr Stone), ist darauf bedacht, dass er die Göttliche Liebe erlangt, damit sie in engeren Kontakt treten können"
+description: "Mary Kennedy, empfangen durch James Padgett: „Er mag dir das vielleicht nicht eingestehen, aber es ist wahr, denn ich kann seine Seele lesen und bilde mir …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

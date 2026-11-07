@@ -1,7 +1,7 @@
 ---
 title: "Ein dankbares spirituelles Wesen schreibt, um Herrn Padgett für die Hilfe zu danken, die er von ihm erhalten hatte"
 menu_title: ""
-description: "Ein dankbares spirituelles Wesen schreibt, um Herrn Padgett für die Hilfe zu danken, die er von ihm erhalten hatte"
+description: "Joseph Godfrey, empfangen durch James Padgett: „Lass mich kurz schreiben, denn ich habe den großen Wunsch, dir über einige Dinge zu schreiben, die mir …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Setzt eure Segel auf dem Ozean der Liebe Gottes"
 menu_title: ""
-description: "Setzt eure Segel auf dem Ozean der Liebe Gottes"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich hoffe, dass die Worte, die ich empfangen habe, die mein Leben und wahrhaftig das Leben vieler geführt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

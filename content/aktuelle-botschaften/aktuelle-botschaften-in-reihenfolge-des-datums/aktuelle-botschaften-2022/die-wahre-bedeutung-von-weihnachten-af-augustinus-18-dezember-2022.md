@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Bedeutung von Weihnachten"
 menu_title: ""
-description: "Die wahre Bedeutung von Weihnachten"
+description: "Augustinus, empfangen durch Al Fike: „Ihr nähert euch einer Zeit, in der ihr die Geburt unseres geliebten Meisters Jesus feiert, und ich fordere euch auf …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

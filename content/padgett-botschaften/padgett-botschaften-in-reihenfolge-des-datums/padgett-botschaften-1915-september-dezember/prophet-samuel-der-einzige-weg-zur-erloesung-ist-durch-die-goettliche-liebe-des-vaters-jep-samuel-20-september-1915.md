@@ -1,7 +1,7 @@
 ---
 title: "Prophet Samuel: Der einzige Weg zur Erlösung ist durch die Göttliche Liebe des Vaters"
 menu_title: ""
-description: "Prophet Samuel: Der einzige Weg zur Erlösung ist durch die Göttliche Liebe des Vaters"
+description: "Samuel, empfangen von James Padgett: „Ein Mann ohne die Liebe Gottes in seiner Seele ist wie ein Schiff auf stürmischer See ohne Ruder.“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

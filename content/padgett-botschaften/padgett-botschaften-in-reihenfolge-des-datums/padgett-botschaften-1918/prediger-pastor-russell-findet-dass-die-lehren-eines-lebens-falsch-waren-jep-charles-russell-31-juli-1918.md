@@ -1,7 +1,7 @@
 ---
 title: "Prediger Pastor Russell findet, dass die Lehren eines Lebens falsch waren"
 menu_title: ""
-description: "Prediger Pastor Russell findet, dass die Lehren eines Lebens falsch waren"
+description: "Pastor Russell 1, empfangen durch James Padgett: „Lass mich ein Wort sagen, denn ich war bei dir heute, als du das Buch 2 gelesen hast, von dem ich der …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

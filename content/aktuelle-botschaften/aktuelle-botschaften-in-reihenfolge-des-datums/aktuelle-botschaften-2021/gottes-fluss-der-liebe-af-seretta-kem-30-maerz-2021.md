@@ -1,7 +1,7 @@
 ---
 title: "Gottes Fluss der Liebe"
 menu_title: ""
-description: "Gottes Fluss der Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Der Fluss der Liebe Gottes trägt uns weiter, nicht wahr? In der Tat nährt uns sein süßes Wasser und trägt uns …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

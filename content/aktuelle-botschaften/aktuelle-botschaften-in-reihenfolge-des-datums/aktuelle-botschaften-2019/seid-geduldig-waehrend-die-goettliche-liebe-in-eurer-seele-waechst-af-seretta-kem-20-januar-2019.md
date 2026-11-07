@@ -1,7 +1,7 @@
 ---
 title: "Seid geduldig, während die Göttliche Liebe in eurer Seele wächst"
 menu_title: ""
-description: "Seid geduldig, während die Göttliche Liebe in eurer Seele wächst"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, wir fahren fort, unsere Bemühungen und Gebete auf dieses Projekt von der Direkten Stimme auszuweiten, um dieses …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

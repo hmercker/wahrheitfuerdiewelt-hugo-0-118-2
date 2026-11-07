@@ -1,7 +1,7 @@
 ---
 title: "Der ewige Moment"
 menu_title: ""
-description: "Der ewige Moment"
+description: "Jesus, empfangen durch Amada Reza: „Obwohl der biblische Bericht über mein Leben nicht der historisch genaueste ist, platziert er mich in der Zeit, daher …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

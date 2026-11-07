@@ -1,7 +1,7 @@
 ---
 title: "Über Selbstverteidigung"
 menu_title: ""
-description: "Über Selbstverteidigung"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich bete für ein großes Einströmen Deiner Liebe in dieser Zeit. Unser Freund in E hat …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

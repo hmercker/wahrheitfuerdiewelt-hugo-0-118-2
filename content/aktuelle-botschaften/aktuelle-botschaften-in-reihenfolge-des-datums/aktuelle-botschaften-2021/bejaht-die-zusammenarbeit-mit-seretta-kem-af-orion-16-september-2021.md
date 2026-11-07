@@ -1,7 +1,7 @@
 ---
 title: "Bejaht die Zusammenarbeit mit Seretta Kem "
 menu_title: ""
-description: "Bejaht die Zusammenarbeit mit Seretta Kem "
+description: "Orion, empfangen durch Al Fike: „Ja, ihr habt die Instrumente wahrgenommen, die wir benutzen, um dieses Erwachen zu erleichtern, aber nicht auf eine Art …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

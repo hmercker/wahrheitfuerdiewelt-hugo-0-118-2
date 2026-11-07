@@ -1,7 +1,7 @@
 ---
 title: "Ich spreche zu denen, die hören"
 menu_title: ""
-description: "Ich spreche zu denen, die hören"
+description: "Vater, empfangen durch Child of God: „Ich spreche zu denen, die hören. Ich liebe jeden einzelnen von euch.“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

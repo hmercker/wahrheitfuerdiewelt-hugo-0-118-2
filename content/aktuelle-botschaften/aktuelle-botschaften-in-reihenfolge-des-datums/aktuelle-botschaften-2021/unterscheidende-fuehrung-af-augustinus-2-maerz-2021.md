@@ -1,7 +1,7 @@
 ---
 title: "Unterscheidende Führung"
 menu_title: ""
-description: "Unterscheidende Führung"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, es ist euer Lehrer Augustinus. Wie schön, euch gemeinsam im Gebet zu sehen, meine schönen und …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

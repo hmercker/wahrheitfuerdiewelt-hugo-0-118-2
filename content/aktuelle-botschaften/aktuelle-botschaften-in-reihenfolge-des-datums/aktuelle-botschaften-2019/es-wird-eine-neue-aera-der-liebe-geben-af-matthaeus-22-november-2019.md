@@ -1,7 +1,7 @@
 ---
 title: "Es wird eine neue Ära der Liebe geben"
 menu_title: ""
-description: "Es wird eine neue Ära der Liebe geben"
+description: "Matthäus, empfangen durch Al Fike: „Jede Seele auf eurer Welt hat eine Sehnsucht nach Gott. Jede Seele ist betrübt, weil diese Sehnsucht und dieser Wunsch …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

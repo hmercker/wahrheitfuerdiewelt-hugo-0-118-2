@@ -1,7 +1,7 @@
 ---
 title: "Geführte Meditation versus Gebet"
 menu_title: ""
-description: "Geführte Meditation versus Gebet"
+description: "Josephus, empfangen durch Al Fike: „Ich weiß, dass unser Bruder Konfuzius sich wünscht, dass ihr in eure Seele geht, um die Antworten zu finden, und das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

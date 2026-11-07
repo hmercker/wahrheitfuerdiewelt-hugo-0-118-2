@@ -1,7 +1,7 @@
 ---
 title: "Gott sammelt Lichter aus eurer ganzen Welt "
 menu_title: ""
-description: "Gott sammelt Lichter aus eurer ganzen Welt "
+description: "Hesekiel, empfangen durch Al Fike: „Es kommt nicht oft vor, dass ich auf diese Erdebene komme, um zu den Kindern der Erde zu sprechen, denn ich residiere …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

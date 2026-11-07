@@ -1,7 +1,7 @@
 ---
 title: "Reiche des Lichts"
 menu_title: ""
-description: "Reiche des Lichts"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Ich stehe über diesem einen. Ich wurde in diesen Kreis gezogen, wie viele andere auch, durch das Gebet und eure …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

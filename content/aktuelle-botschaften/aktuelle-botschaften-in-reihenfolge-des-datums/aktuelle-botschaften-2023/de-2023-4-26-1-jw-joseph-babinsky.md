@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe und Dankbarkeit"
 menu_title: ""
-description: "In Gottes Liebe und Dankbarkeit"
+description: "Joseph Babinsky, empfangen durch Jimbeau Walsh: „Ich möchte meine tiefe Dankbarkeit und meine Freude darüber zum Ausdruck bringen, dass die Arbeit, die ich …“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

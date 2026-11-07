@@ -1,7 +1,7 @@
 ---
 title: "Judas und Johannes der Täufer"
 menu_title: ""
-description: "Judas und Johannes der Täufer"
+description: "Judas, empfangen durch H.: „Ich möchte, dass du in deinem Verstand zu deiner Kindheit zurückkehrst. An einem Sommertag hast du deine Eltern gebeten, dir zu …“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

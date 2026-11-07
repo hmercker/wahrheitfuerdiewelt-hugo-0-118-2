@@ -1,7 +1,7 @@
 ---
 title: "Grundlegende Voraussetzungen, um die Gesetze von Verbindung und Kommunikation zu verstehen"
 menu_title: ""
-description: "Grundlegende Voraussetzungen, um die Gesetze von Verbindung und Kommunikation zu verstehen"
+description: "Andreas, empfangen durch Al Fike: „Es gibt zwei Dinge, die dabei entscheidend sind. Das eine ist, die Fülle der Göttlichen Liebe Gottes zu kennen und zu …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Sonne von Fátima"
 menu_title: ""
-description: "Die Sonne von Fátima"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Schöpfer, bitte gieße Deinen Segen der Liebe über mich aus und hilf mir, meine Gedanken beiseite zu …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

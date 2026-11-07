@@ -1,7 +1,7 @@
 ---
 title: "Alles geschieht in Liebe"
 menu_title: ""
-description: "Alles geschieht in Liebe"
+description: "Jesus, empfangen durch Al Fike: „Ihr schmiedet einen Pfad, auf dem Geheimnisse keine Geheimnisse mehr sind und die Wahrheit für diejenigen offensichtlich …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das auserwählte Volk"
 menu_title: ""
-description: "Das auserwählte Volk"
+description: "Moses, empfangen durch Amada Reza: „Ihr versteht, dass zu der Zeit, als ich auf Erden lebte, die kollektive Seelenentwicklung der Menschheit nicht sehr …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

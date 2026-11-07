@@ -1,7 +1,7 @@
 ---
 title: "Medialität, Gaben, ein Kanal der Liebe sein"
 menu_title: ""
-description: "Medialität, Gaben, ein Kanal der Liebe sein"
+description: "Augustinus, empfangen durch Al Fike: „Dieses Instrument braucht sich keine Sorgen um die Genauigkeit der Botschaften zu machen, die durch ihn empfangen werden.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

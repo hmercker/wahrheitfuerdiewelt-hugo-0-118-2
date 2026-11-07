@@ -1,7 +1,7 @@
 ---
 title: "William Stone gibt einen Bericht über die Arbeit seines Sohnes "
 menu_title: ""
-description: "William Stone gibt einen Bericht über die Arbeit seines Sohnes "
+description: "William Stone, empfangen durch James Padgett: „Ich möchte nur eine Zeile schreiben, bevor mein Sohn geht. Seine Mutter ist auch hier, und sie sendet ihm …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

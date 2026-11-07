@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt der Seele"
 menu_title: ""
-description: "Die Geburt der Seele"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe bereits über die drei Geburten gesprochen. Die erste ist der Eintritt in den menschlichen Zustand und die …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

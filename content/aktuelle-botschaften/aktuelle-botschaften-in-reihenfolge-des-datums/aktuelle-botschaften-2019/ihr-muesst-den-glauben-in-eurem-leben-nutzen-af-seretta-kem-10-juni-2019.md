@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst den Glauben in eurem Leben nutzen"
 menu_title: ""
-description: "Ihr müsst den Glauben in eurem Leben nutzen"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist ermutigend für uns zu hören, dass ihr alle die Absicht habt, die Verantwortung für euren eigenen spirituellen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

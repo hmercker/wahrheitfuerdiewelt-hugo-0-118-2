@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt, dass die Macht der Kommunikation durch das Instrument abgeschaltet werden kann, wie es Herr Padgett eine Zeit lang tat"
 menu_title: ""
-description: "Helen erklärt, dass die Macht der Kommunikation durch das Instrument abgeschaltet werden kann, wie es Herr Padgett eine Zeit lang tat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast von Baby gehört, und sie hat sich so gefreut, dass sie dir schreiben konnte, und ist …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

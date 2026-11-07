@@ -1,7 +1,7 @@
 ---
 title: "Jakobus bestätigt, dass es spirituellen Wesen möglich ist, sich auf Erden zu materialisieren"
 menu_title: ""
-description: "Jakobus bestätigt, dass es spirituellen Wesen möglich ist, sich auf Erden zu materialisieren"
+description: "Jakobus, empfangen durch Dr Samuels: „Auch wenn ich oftmals zugegen war, wenn Jesus dir eine Botschaft geschrieben hat, ist dies doch das erste Mal, dass …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

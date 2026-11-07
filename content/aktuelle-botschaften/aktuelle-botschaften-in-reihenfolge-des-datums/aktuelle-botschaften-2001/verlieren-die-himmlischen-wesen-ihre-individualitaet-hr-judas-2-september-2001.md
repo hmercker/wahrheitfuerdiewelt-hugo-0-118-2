@@ -1,7 +1,7 @@
 ---
 title: "Verlieren die Himmlischen Wesen ihre Individualität?"
 menu_title: ""
-description: "Verlieren die Himmlischen Wesen ihre Individualität?"
+description: "Judas, empfangen durch H.: „Es ist eine große Freude, wieder mit dir sprechen zu können. Beim Studieren der Botschaften hast du immer interessante Fragen …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

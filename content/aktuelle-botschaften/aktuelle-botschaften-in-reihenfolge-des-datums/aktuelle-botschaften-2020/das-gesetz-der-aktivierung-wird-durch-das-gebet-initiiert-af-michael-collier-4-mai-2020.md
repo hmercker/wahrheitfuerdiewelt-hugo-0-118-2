@@ -1,7 +1,7 @@
 ---
 title: "Das „Gesetz der Aktivierung“ wird durch das Gebet initiiert"
 menu_title: ""
-description: "Das „Gesetz der Aktivierung“ wird durch das Gebet initiiert"
+description: "Michael Collier, empfangen durch Al Fike: „Ich freue mich, heute zu euch über spirituelle Angelegenheiten zu sprechen. Wie ihr alle wisst, verändert und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

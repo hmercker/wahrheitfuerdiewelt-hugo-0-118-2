@@ -1,7 +1,7 @@
 ---
 title: "Helen besteht darauf, dass Herr Padgett aufhört zu schreiben"
 menu_title: ""
-description: "Helen besteht darauf, dass Herr Padgett aufhört zu schreiben"
+description: "Helen Padgett, empfangen durch James Padgett: „Du darfst heute Abend nicht mehr schreiben, da du etwas erschöpft bist und ich weiß, dass der Doktor nicht …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

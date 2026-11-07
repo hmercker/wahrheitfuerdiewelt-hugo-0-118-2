@@ -1,7 +1,7 @@
 ---
 title: "Ingersoll kommentiert die Lehren von Swedenborg während seines Erdenlebens"
 menu_title: ""
-description: "Ingersoll kommentiert die Lehren von Swedenborg während seines Erdenlebens"
+description: "Ingersoll, empfangen durch James Padgett: „Ich war bei dir, während du das Werk von Swedenborg gelesen hast, und war sehr an dem Eindruck interessiert, den …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

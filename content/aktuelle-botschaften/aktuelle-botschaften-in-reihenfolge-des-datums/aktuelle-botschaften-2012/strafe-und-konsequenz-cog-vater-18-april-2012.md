@@ -1,7 +1,7 @@
 ---
 title: "Strafe und Konsequenz"
 menu_title: ""
-description: "Strafe und Konsequenz"
+description: "Vater, empfangen durch Child of God: „Liebes Kind, es gibt zwei Themen, die dir im Kopf herumgegangen sind. Bei dem einen geht es um den Unterschied …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

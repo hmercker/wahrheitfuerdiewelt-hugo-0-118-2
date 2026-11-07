@@ -1,7 +1,7 @@
 ---
 title: "Predigt 31 - Der erste Jesaja, Prophet Israels"
 menu_title: ""
-description: "Predigt 31 - Der erste Jesaja, Prophet Israels"
+description: "Jesus, empfangen durch Dr Samuels: „Jesaja, der Sohn des Amos, ist bekannt als der Prophet des Glaubens an Gott par excellance, wobei dieser Glaube auf die …“"
 date: 2020-08-01 06:25:48+00:03
 draft: False
 hidden: True

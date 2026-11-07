@@ -1,7 +1,7 @@
 ---
 title: "Lukas, über die Lehren des Neuen Denkens (New Thought) und erklärt die irrigen Überzeugungen desselbe"
 menu_title: ""
-description: "Lukas, über die Lehren des Neuen Denkens (New Thought) und erklärt die irrigen Überzeugungen desselbe"
+description: "Lukas, empfangen durch James Padgett: „Ich war heute mit dir bei einem Treffen der Menschen des „Neugeist“-bewegung und sah den Eindruck, den der Redner …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

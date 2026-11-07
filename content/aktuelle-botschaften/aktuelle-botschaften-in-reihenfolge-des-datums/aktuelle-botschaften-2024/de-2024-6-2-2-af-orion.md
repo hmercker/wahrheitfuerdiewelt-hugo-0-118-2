@@ -1,7 +1,7 @@
 ---
 title: "Bekräftigt und würdigt das Wirken Orions auf der Erde"
 menu_title: ""
-description: "Bekräftigt und würdigt das Wirken Orions auf der Erde"
+description: "Orion, empfangen durch Al Fike: „Ihr habt gelernt, dieses Aktivierungsmittel zu eurem Nutzen und zum Nutzen eures Planeten einzusetzen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

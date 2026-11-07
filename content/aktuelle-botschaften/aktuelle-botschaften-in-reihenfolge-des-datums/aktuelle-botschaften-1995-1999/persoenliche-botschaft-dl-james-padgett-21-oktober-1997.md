@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Botschaft"
 menu_title: ""
-description: "Persönliche Botschaft"
+description: "James Padgett- empfangen durch David Lampron: „Du wirst dich daran erinnern, dass ich eine Botschaft durch K gab, in der ich erklärte und bekräftigte, dass …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet"
 menu_title: ""
-description: "Das Gebet"
+description: "Mary Kennedy, empfangen durch Brian Holmes: „Das ist ein Test, um zu sehen, ob es einen spirituelles Wesen aus meinem Team gibt, das heute eine Nachricht …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

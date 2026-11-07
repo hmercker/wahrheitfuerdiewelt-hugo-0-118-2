@@ -1,7 +1,7 @@
 ---
 title: "Jeder Tag hat das Potenzial, Licht zu bringen"
 menu_title: ""
-description: "Jeder Tag hat das Potenzial, Licht zu bringen"
+description: "Johannes, empfangen durch Al Fike: „Diese Freundschaft zu haben, diese Gemeinschaft, auf diese Weise zusammen zu arbeiten, schafft ein kraftvolles Licht.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

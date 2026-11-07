@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Jakobus"
 menu_title: ""
-description: "Bestätigung durch Jakobus"
+description: "Jakobus, empfangen durch James Padgett: „Laß mich mein Zeugnis zu dem hinzufügen, was die anderen geschrieben haben. Ich war ein wahrer Anhänger des …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

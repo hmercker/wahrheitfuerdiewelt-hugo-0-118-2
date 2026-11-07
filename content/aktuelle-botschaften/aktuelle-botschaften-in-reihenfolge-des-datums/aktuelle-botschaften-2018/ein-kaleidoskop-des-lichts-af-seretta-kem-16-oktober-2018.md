@@ -1,7 +1,7 @@
 ---
 title: "Ein Kaleidoskop des Lichts"
 menu_title: ""
-description: "Ein Kaleidoskop des Lichts"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt mich gebeten, über die Gaben der Seele zu sprechen, und das werde ich heute tun, was wiederum ein Geschenk …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Wille Gottes"
 menu_title: ""
-description: "Der Wille Gottes"
+description: "Matthäus, empfangen durch Al Fike: „Der Wille Gottes, der Wille Gottes, was für ein Segen ist es, den Willen Gottes zu kennen.“"
 date: 2020-08-01 06:25:48+00:255
 draft: False
 hidden: True

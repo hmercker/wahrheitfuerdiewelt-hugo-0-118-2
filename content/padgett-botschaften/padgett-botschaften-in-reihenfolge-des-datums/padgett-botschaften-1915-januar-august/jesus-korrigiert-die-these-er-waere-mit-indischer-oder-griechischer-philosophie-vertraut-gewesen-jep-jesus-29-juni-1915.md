@@ -1,7 +1,7 @@
 ---
 title: "Jesus korrigiert die These, er wäre mit indischer oder griechischer Philosophie vertraut gewesen"
 menu_title: ""
-description: "Jesus korrigiert die These, er wäre mit indischer oder griechischer Philosophie vertraut gewesen"
+description: "Jesus, empfangen durch James Padgett: „Ich was niemals in Indien und Griechenland und jenen anderen Orten, um die Lehren der griechischen und Indischen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

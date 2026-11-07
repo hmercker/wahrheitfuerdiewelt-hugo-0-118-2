@@ -1,7 +1,7 @@
 ---
 title: "Nathan Plummer ist Dr Stone für die Rettung seiner Seele dankbar"
 menu_title: ""
-description: "Nathan Plummer ist Dr Stone für die Rettung seiner Seele dankbar"
+description: "Nathan Plummer, empfangen durch James Padgett: „Ich muss eindringen, wann immer sich mir die Gelegenheit bietet und es den anderen spirituellen Wesen …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

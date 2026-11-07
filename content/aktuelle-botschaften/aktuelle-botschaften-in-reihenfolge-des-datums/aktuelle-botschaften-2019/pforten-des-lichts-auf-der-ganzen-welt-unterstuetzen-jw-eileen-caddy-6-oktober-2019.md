@@ -1,7 +1,7 @@
 ---
 title: "Pforten des Lichts auf der ganzen Welt unterstützen"
 menu_title: ""
-description: "Pforten des Lichts auf der ganzen Welt unterstützen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Wann immer ich zu diesen Lichtkreisen komme, fühle ich die Sehnsüchte einer jeden Seele und kann diese Blase …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

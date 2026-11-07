@@ -1,7 +1,7 @@
 ---
 title: "Eure Aufmerksamkeit und Fokus ist gefragt"
 menu_title: ""
-description: "Eure Aufmerksamkeit und Fokus ist gefragt"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich freue mich, dass ihr zusammenkommt, eure Ideen austauscht, euch gegenseitig bei eurer bisherigen Arbeit …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

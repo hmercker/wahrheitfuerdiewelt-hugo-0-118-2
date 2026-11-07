@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe verdrängt jede Angst"
 menu_title: ""
-description: "Die Göttliche Liebe verdrängt jede Angst"
+description: "Andreas, empfangen von James Padgett: „Wir, die wir in den Himmlischen Sphären leben, wissen, dass dies eine Tatsache ist, und mit all der Kraft und …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

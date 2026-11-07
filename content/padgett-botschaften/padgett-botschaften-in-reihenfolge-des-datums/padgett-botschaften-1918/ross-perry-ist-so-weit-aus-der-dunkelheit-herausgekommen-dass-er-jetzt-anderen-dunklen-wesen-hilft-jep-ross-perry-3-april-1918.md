@@ -1,7 +1,7 @@
 ---
 title: "Ross Perry ist so weit aus der Dunkelheit herausgekommen, dass er jetzt anderen dunklen Wesen hilft"
 menu_title: ""
-description: "Ross Perry ist so weit aus der Dunkelheit herausgekommen, dass er jetzt anderen dunklen Wesen hilft"
+description: "Ross Perry, empfangen durch James Padgett: „Ich war heute Abend bei der Séance und habe mit dir und Middleton gesprochen; und außer mir waren noch …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

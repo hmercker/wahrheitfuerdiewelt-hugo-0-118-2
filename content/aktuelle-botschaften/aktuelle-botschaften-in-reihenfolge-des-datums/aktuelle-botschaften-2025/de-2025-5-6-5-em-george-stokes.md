@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit eurer Gebete für euch selbst und die spirituellen Wesen auf diesem Schiff"
 menu_title: ""
-description: "Die Wichtigkeit eurer Gebete für euch selbst und die spirituellen Wesen auf diesem Schiff"
+description: "George Stokes, empfangen durch Elisabeth Mack: „Ich freue mich so sehr, mit euch, den wahren Kindern Gottes, auf dieser Reise zu sein. Ich sehe Wachstum …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

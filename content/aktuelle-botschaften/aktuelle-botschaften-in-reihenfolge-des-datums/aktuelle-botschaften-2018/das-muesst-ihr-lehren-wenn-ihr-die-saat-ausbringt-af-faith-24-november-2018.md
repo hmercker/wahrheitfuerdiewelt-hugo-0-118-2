@@ -1,7 +1,7 @@
 ---
 title: "Das müsst ihr lehren, wenn ihr die Saat ausbringt"
 menu_title: ""
-description: "Das müsst ihr lehren, wenn ihr die Saat ausbringt"
+description: "Faith, empfangen durch Al Fike: „Was für ein großartiges Licht ihr in diesem Haus mit euren Gebeten und euren Gesprächen erbaut, indem ihr euren Verstand …“"
 date: 2020-08-01 06:25:48+00:235
 draft: False
 hidden: True

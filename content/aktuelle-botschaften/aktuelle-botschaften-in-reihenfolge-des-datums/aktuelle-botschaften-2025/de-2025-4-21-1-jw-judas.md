@@ -1,7 +1,7 @@
 ---
 title: "Frei sein von Zeit"
 menu_title: ""
-description: "Frei sein von Zeit"
+description: "Judas, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes über euch sein. An diesem zeitlosen Ort, an dem meine Seele in der Gnade Gottes wohnt, lasse …“"
 date: 2025-07-10 06:00:00+00:00
 draft: False
 hidden: True

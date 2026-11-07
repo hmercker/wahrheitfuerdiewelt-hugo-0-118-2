@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch John Wesley"
 menu_title: ""
-description: "Bestätigung durch John Wesley"
+description: "John Wesley, empfangen durch James Padgett: „Ich zögere, zur gleichen Zeit mit diesen großen spirituellen Wesen -die dir geschrieben haben- zu schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

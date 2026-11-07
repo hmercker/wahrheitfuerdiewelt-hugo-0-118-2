@@ -1,7 +1,7 @@
 ---
 title: "Eure Bemühungen sind notwendig, um Veränderung zu bringen"
 menu_title: ""
-description: "Eure Bemühungen sind notwendig, um Veränderung zu bringen"
+description: "Albert Einstein, empfangen durch Al Fike: „Ich möchte, dass ihr wisst, dass ich euch viel beobachtet habe, in dieser Zeit meines weiteren Fortschritts und …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

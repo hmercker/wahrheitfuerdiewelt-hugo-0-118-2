@@ -1,7 +1,7 @@
 ---
 title: "Verdammt nicht die Dunkelheit, sondern preist das Licht!"
 menu_title: ""
-description: "Verdammt nicht die Dunkelheit, sondern preist das Licht!"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte, dass ihr dies bedenkt: Es gibt zwei Möglichkeiten, sich dem Leben zu nähern. Ihr könnt es vom …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

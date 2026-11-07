@@ -1,7 +1,7 @@
 ---
 title: "Eure Gebete bringen größeres Licht in die Welt"
 menu_title: ""
-description: "Eure Gebete bringen größeres Licht in die Welt"
+description: "Guru Nanak, empfangen durch Al Fike: „Mein lieber Freund hier glaubt, dass ich kein göttliches Spirituelles Wesen bin. In der Tat muss jeder …“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

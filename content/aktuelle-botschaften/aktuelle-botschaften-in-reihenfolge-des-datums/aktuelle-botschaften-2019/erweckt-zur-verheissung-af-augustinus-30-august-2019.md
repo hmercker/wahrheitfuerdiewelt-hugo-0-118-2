@@ -1,7 +1,7 @@
 ---
 title: "Erweckt zur Verheißung"
 menu_title: ""
-description: "Erweckt zur Verheißung"
+description: "Augustinus, empfangen durch Al Fike: „Eine große Pforte des Lichts ist in diesem Raum errichtet. All diese Dinge dürft ihr nutzen, während ihr hier …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

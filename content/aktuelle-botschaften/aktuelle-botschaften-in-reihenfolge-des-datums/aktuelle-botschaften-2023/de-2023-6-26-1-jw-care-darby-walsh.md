@@ -1,7 +1,7 @@
 ---
 title: "Göttliche Metamorphose"
 menu_title: ""
-description: "Göttliche Metamorphose"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Gottes Liebe ist der große Verwandler der Seele. Das Bild von der Verwandlung der Raupe in den …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

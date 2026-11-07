@@ -1,7 +1,7 @@
 ---
 title: "Das vor uns liegende Jahr"
 menu_title: ""
-description: "Das vor uns liegende Jahr"
+description: "Matthäus, empfangen durch Al Fike: „In der Tat beginnen sich eure Augen zu öffnen, ihr fangt an, in der Wärme von Gottes schöner Liebe zu blühen.“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

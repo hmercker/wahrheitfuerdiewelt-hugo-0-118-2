@@ -1,7 +1,7 @@
 ---
 title: "Die Engel helfen uns, vom Verstandesbewusstsein zum Seelenbewusstsein zu wechseln"
 menu_title: ""
-description: "Die Engel helfen uns, vom Verstandesbewusstsein zum Seelenbewusstsein zu wechseln"
+description: "Lukas & Jesus, empfangen durch Al Fike: „Eure Seelen verändern sich. Denn je mehr ihr nach diesem Mittel der Veränderung, dem Elixier der Seele Gottes …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

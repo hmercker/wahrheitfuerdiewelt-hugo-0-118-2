@@ -1,7 +1,7 @@
 ---
 title: "Diagnose für Al Fike"
 menu_title: ""
-description: "Diagnose für Al Fike"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist Seretta Kem und ich möchte einige Hinweise für dieses Instrument bezüglich des Zustandes geben, der mit …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

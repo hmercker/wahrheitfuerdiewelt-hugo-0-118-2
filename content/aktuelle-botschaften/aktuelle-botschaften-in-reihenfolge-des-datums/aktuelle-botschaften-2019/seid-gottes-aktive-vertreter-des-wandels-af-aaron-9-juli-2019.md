@@ -1,7 +1,7 @@
 ---
 title: "Seid Gottes aktive Vertreter des Wandels!"
 menu_title: ""
-description: "Seid Gottes aktive Vertreter des Wandels!"
+description: "Aaron, empfangen durch Al Fike: „Veränderung ist eine Konstante in der Welt. Veränderung ist eine Konstante in Gottes Universum.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

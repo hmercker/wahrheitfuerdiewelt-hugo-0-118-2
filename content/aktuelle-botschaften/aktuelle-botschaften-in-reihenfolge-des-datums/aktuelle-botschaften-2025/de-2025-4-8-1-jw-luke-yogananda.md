@@ -1,7 +1,7 @@
 ---
 title: "Schenke das Geschenk des Gebets für Gottes Liebe"
 menu_title: ""
-description: "Schenke das Geschenk des Gebets für Gottes Liebe"
+description: "Lukas & Yogananda, empfangen durch Jimbeau Walsh: „Möge der Atem der Liebe Gottes über euch sein. (Ihr mögt fragen:) Wie können wir die Welt heilen?“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

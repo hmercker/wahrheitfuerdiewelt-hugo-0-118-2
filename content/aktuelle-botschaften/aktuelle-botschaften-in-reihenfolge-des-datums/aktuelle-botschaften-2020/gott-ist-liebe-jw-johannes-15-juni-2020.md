@@ -1,7 +1,7 @@
 ---
 title: "Gott ist Liebe"
 menu_title: ""
-description: "Gott ist Liebe"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Dieses Geschenk des himmlischen Vaters, das der Meister uns gab, als er auf der Erde war, lehrt er weiterhin und …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

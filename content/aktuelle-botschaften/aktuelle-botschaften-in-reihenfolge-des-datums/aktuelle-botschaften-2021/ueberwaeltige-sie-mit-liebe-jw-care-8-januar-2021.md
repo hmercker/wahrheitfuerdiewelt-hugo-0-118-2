@@ -1,7 +1,7 @@
 ---
 title: "Überwältige sie mit Liebe"
 menu_title: ""
-description: "Überwältige sie mit Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Vielleicht ist heute der Tag der Großmütter? Während ihr die schöne Botschaft von Ann Rollins lest, was …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

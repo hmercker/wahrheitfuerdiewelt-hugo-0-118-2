@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Notiz von Helen"
 menu_title: ""
-description: "Eine kurze Notiz von Helen"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, mein Liebster, es ist schon sehr spät. Aber morgen Abend musst du darauf vorbereitet sein, seine …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen hilft sowohl Carlisle als auch Davis ans Licht zu kommen"
 menu_title: ""
-description: "Helen hilft sowohl Carlisle als auch Davis ans Licht zu kommen"
+description: "Helen, empfangen durch James Padgett: „Ich habe den letzten Brief sehr genossen, denn er hat mir gezeigt, dass irdische Freundschaftsbande in dieser Welt …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

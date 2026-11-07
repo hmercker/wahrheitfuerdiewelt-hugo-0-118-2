@@ -1,7 +1,7 @@
 ---
 title: "Dies ist ein lebenslanges Engagement"
 menu_title: ""
-description: "Dies ist ein lebenslanges Engagement"
+description: "Professor Salyards, empfangen durch Al Fike: „Ihr werdet überrascht sein, welche Pforten und Türen und Möglichkeiten sich für euch öffnen werden, wenn ihr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dient mit eurem ganzen Herzen"
 menu_title: ""
-description: "Dient mit eurem ganzen Herzen"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Möge die Gnade Gottes über euch sein. Die Liebe Gottes kennt keine Grenzen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

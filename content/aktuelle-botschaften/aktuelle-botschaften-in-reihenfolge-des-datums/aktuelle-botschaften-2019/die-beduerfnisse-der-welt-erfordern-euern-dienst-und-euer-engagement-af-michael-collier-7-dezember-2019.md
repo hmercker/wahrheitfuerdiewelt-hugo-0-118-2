@@ -1,7 +1,7 @@
 ---
 title: "Die Bedürfnisse der Welt erfordern Euren Dienst und Euer Engagement"
 menu_title: ""
-description: "Die Bedürfnisse der Welt erfordern Euren Dienst und Euer Engagement"
+description: "Michael Collier, empfangen durch Al Fike: „Ich freue mich sehr, dass ihr über die Rückkehr in das Land (Australien) sprecht, das ihr besucht habt und das …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sowohl Helen als auch Mary schreiben diese Botschaft und Mary ist in die erste Himmelssphäre vorgedrungen"
 menu_title: ""
-description: "Sowohl Helen als auch Mary schreiben diese Botschaft und Mary ist in die erste Himmelssphäre vorgedrungen"
+description: "Helen, empfangen durch James Padgett: „Und ich möchte nur sagen, dass ich dem Gespräch zwischen dir und Dr. Stone zugehört habe, und ich denke, dass ihr …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

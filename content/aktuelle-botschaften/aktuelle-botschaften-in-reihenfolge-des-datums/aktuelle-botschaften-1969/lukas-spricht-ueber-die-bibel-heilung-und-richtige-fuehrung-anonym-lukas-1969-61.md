@@ -1,7 +1,7 @@
 ---
 title: "Lukas spricht über die Bibel, Heilung und richtige Führung"
 menu_title: ""
-description: "Lukas spricht über die Bibel, Heilung und richtige Führung"
+description: "Lukas: „Viele von euch haben die Lehren in der Bibel, die sich auf mich beziehen, gelesen und studiert, und für eine kurze Zeit möchte ich über sie sprechen.“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

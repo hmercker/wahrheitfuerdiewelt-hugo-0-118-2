@@ -1,7 +1,7 @@
 ---
 title: "Gott hat uns alle hier versammelt"
 menu_title: ""
-description: "Gott hat uns alle hier versammelt"
+description: "Orion, empfangen durch Al Fike: „Möge Gott euch mit der göttlichen Gegenwart segnen, meine Freunde. Und wisst, dass Gott uns alle im Licht seiner Gegenwart …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

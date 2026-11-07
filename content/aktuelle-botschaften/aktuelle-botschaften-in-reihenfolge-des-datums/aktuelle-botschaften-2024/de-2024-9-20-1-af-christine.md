@@ -1,7 +1,7 @@
 ---
 title: "Das Sein ist unsere Religion"
 menu_title: ""
-description: "Das Sein ist unsere Religion"
+description: "Christine, empfangen durch Al Fike: „Gott hat viele gebeten und aufgefordert, zu kommen, um den Menschen auf der Erde zu helfen, während ihr weiterhin in …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

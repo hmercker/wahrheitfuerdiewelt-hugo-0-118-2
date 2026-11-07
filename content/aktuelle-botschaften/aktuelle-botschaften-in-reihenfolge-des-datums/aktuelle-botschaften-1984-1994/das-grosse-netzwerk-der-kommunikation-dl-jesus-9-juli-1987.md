@@ -1,7 +1,7 @@
 ---
 title: "Das große Netzwerk der Kommunikation"
 menu_title: ""
-description: "Das große Netzwerk der Kommunikation"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich einen weiteren Aspekt des Fortschritts in der Entwicklung des Menschen besprechen, der sich auf …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

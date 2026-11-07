@@ -1,7 +1,7 @@
 ---
 title: "Eine Silvesterbotschaft von Helen. Eine Zeit der Dankbarkeit gegenüber dem Vater für seine große Liebe und Barmherzigkeit"
 menu_title: ""
-description: "Eine Silvesterbotschaft von Helen. Eine Zeit der Dankbarkeit gegenüber dem Vater für seine große Liebe und Barmherzigkeit"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, wie ich sehe, geht es dir heute Abend nicht so gut und ich werde nur einen kurzen Brief schreiben.“"
 date: 2020-08-01 06:25:48+00:252
 draft: False
 hidden: True

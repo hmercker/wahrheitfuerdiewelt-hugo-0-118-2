@@ -1,7 +1,7 @@
 ---
 title: "Pilatus übernimmt das Kommando im Jahr 26"
 menu_title: ""
-description: "Pilatus übernimmt das Kommando im Jahr 26"
+description: "Judas, empfangen durch H.: „Mit dieser Botschaft möchte ich meinen Bericht über das Leben Jesu wieder aufgreifen. Wie du weißt, erzählen wir immer noch von …“"
 date: 2020-08-01 06:25:48+00:262
 draft: False
 hidden: True

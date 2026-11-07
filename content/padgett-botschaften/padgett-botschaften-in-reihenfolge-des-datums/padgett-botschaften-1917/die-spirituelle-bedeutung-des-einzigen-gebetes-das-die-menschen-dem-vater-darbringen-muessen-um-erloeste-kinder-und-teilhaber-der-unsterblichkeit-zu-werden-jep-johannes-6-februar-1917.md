@@ -1,7 +1,7 @@
 ---
 title: "Die spirituelle Bedeutung des einzigen Gebetes, das die Menschen dem Vater darbringen müssen, um erlöste Kinder und Teilhaber der Unsterblichkeit zu werden"
 menu_title: ""
-description: "Die spirituelle Bedeutung des einzigen Gebetes, das die Menschen dem Vater darbringen müssen, um erlöste Kinder und Teilhaber der Unsterblichkeit zu werden"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte ein paar Worte in Bezug auf dein Gespräch über das Gebet sagen und wie wichtig es ist, es gründlich zu …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt eine Pforte des Lichts geöffnet"
 menu_title: ""
-description: "Ihr habt eine Pforte des Lichts geöffnet"
+description: "Augustinus, empfangen durch Al Fike: „Liebe und sanfte Seelen, die gekommen sind, um Wahrheit, Trost und Liebe zu suchen. Mit eurem Zusammenkommen habt ihr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

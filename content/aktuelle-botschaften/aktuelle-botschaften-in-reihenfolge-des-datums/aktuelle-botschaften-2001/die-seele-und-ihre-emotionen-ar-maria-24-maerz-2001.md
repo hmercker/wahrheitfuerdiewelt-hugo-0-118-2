@@ -1,7 +1,7 @@
 ---
 title: "Die Seele und ihre Emotionen"
 menu_title: ""
-description: "Die Seele und ihre Emotionen"
+description: "Maria, empfangen durch Amada Reza: „Die Göttliche Liebe erfüllt mich und ich teile diese Liebe mit dir, weil du meine Schwester in Christus bist, die Gott …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

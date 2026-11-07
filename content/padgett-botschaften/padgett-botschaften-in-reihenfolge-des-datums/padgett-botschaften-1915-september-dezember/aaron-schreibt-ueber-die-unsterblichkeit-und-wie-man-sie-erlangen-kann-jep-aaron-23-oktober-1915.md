@@ -1,7 +1,7 @@
 ---
 title: "Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann"
 menu_title: ""
-description: "Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann"
+description: "Aaron, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich mit dir die Botschaft des spirituellen Wesens von Henry Ward Beecher gelesen hatte …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Bedingungen der spirituellen Wesen in der Dämmerungszone (twilight zone) und ihr Fortschritt in der natürlichen Liebe"
 menu_title: ""
-description: "Die Bedingungen der spirituellen Wesen in der Dämmerungszone (twilight zone) und ihr Fortschritt in der natürlichen Liebe"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte nur sagen, dass du heute Abend in besserer Verfassung bist und dass ich ein paar Zeilen zu einem Thema …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

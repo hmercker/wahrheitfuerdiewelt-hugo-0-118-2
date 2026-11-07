@@ -1,7 +1,7 @@
 ---
 title: "Seid immer Kanäle der Liebe Gottes"
 menu_title: ""
-description: "Seid immer Kanäle der Liebe Gottes"
+description: "Professor Salyards, empfangen durch Al Fike: „In der Tat arbeiten wir sehr hart daran, die verschiedenen Seelen, mit denen wir auf eurer Erdebene in …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

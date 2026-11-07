@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins erklärt Enttäuschungen sowohl in der spirituellen als auch in der materiellen Welt"
 menu_title: ""
-description: "Ann Rollins erklärt Enttäuschungen sowohl in der spirituellen als auch in der materiellen Welt"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun, mein lieber Sohn, es ist einige Zeit her, seit ich dir das letzte Mal geschrieben habe, und ich werde ein …“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

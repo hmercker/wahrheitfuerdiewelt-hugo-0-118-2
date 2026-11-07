@@ -1,7 +1,7 @@
 ---
 title: "Die Seele wurde geschaffen, um Gottes Liebe zu empfangen"
 menu_title: ""
-description: "Die Seele wurde geschaffen, um Gottes Liebe zu empfangenn"
+description: "Augustinus, empfangen durch Al Fike: „Das ist euer Lehrer Augustinus. Für diejenigen, die sich im Gebet sehnen, gibt es immer eine Antwort.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

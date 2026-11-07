@@ -1,7 +1,7 @@
 ---
 title: "Salomo spricht von der Weisheit der Seele"
 menu_title: ""
-description: "Salomo spricht von der Weisheit der Seele"
+description: "Salomo, empfangen durch Al Fike: „Auf eurer irdischen Ebene beschäftigt ihr euch mit der Weisheit eures Verstandes und wundert euch über die Weisheit eurer …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

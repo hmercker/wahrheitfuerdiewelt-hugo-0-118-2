@@ -1,7 +1,7 @@
 ---
 title: "Dr. Stones Schwester verweist, wie auch John Padgett, auf den deprimierenden Einfluss, den Richard der Dritte mit sich brachte"
 menu_title: ""
-description: "Dr. Stones Schwester verweist, wie auch John Padgett, auf den deprimierenden Einfluss, den Richard der Dritte mit sich brachte"
+description: "Kate Stone, empfangen durch James Padgett: „Lass mich nur ein Wort sagen, denn ich möchte dir sagen, dass dieses spirituelle Wesen (Richard der Dritte) …“"
 date: 2020-08-01 06:25:48+00:263
 draft: False
 hidden: True

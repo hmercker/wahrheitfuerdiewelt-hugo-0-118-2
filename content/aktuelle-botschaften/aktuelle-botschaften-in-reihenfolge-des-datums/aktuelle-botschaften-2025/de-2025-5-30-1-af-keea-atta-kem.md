@@ -1,7 +1,7 @@
 ---
 title: "Gott flüstert seine Liebe in eure Seelen"
 menu_title: ""
-description: "Gott flüstert seine Liebe in eure Seelen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Gott flüstert in das Ohr eurer Seele, Seine süße Stimme erhebt euch ins Licht. Gott hat uns in der großen Halle …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Keine Reue und Dienst"
 menu_title: ""
-description: "Keine Reue und Dienst"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Diejenigen von uns, die in die himmlischen Gefilde vorgedrungen sind, haben alles Bedauern hinter sich …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

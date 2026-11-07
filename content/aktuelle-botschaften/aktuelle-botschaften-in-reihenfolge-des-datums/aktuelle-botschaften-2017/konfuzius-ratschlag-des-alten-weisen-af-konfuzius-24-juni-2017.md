@@ -1,7 +1,7 @@
 ---
 title: "Konfuzius: Ratschlag des alten Weisen"
 menu_title: ""
-description: "Konfuzius: Ratschlag des alten Weisen"
+description: "Konfuzius, empfangen durch Al Fike: „Ich möchte, dass ihr wisst, dass auch ich in diese Bemühungen involviert bin und ich werde helfen, Heilung zu bringen …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

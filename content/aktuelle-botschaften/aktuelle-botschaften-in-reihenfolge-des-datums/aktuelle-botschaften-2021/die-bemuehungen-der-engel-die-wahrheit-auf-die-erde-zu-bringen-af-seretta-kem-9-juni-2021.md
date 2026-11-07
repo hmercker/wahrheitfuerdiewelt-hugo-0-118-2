@@ -1,7 +1,7 @@
 ---
 title: "Die Bemühungen der Engel, die Wahrheit auf die Erde zu bringen"
 menu_title: ""
-description: "Die Bemühungen der Engel, die Wahrheit auf die Erde zu bringen"
+description: "Seretta Kem, empfangen durch Al Fike: „Denn es ist viel involviert in diese Kommunikation. Doch seid versichert, dass sie von der Liebe angetrieben wird …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

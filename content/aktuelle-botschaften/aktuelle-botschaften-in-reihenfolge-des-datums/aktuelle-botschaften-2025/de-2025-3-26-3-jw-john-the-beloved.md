@@ -1,7 +1,7 @@
 ---
 title: "Engagement der Seele"
 menu_title: ""
-description: "Engagement der Seele"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Ihr müsst verstehen, dass die Liebe, die Jesus hatte, die Liebe Gottes war und für jede einzelne Seele, der er …“"
 date: 2025-07-11 06:00:00+00:10
 draft: False
 hidden: True

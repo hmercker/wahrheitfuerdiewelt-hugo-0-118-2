@@ -1,7 +1,7 @@
 ---
 title: "Elias war weder Johannes der Täufer, noch war Johannes eine Reinkarnation"
 menu_title: ""
-description: "Elias war weder Johannes der Täufer, noch war Johannes eine Reinkarnation"
+description: "Elias, empfangen durch James Padgett: „Ich möchte dich auch im Glauben festigen, dass du das großartige Werk verrichten musst, und du darfst die …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, dass Swedenborg mit Autorität schrieb"
 menu_title: ""
-description: "Helen sagt, dass Swedenborg mit Autorität schrieb"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend einige wichtige Botschaften erhalten, und ich hoffe, dass du sie lesen und …“"
 date: 2020-08-01 06:25:48+00:247
 draft: False
 hidden: True

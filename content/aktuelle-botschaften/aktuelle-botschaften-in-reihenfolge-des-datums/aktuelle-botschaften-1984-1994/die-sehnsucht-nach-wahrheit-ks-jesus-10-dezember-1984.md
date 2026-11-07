@@ -1,7 +1,7 @@
 ---
 title: "Die Sehnsucht nach Wahrheit"
 menu_title: ""
-description: "Die Sehnsucht nach Wahrheit"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wenn es eine Last ist oder als eine \"Anforderung\" von eurer Seite betrachtet wird, dann, seht ihr, würde es einem …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

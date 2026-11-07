@@ -1,7 +1,7 @@
 ---
 title: "Verstärkt diese Bindung zwischen euch"
 menu_title: ""
-description: "Verstärkt diese Bindung zwischen euch"
+description: "Samuel: „Oh, meine lieben Freunde, wenn ihr nur die Seelenentwicklung hättet, um die große Liebe zu sehen, die wir für euch haben und die wir euch bringen …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

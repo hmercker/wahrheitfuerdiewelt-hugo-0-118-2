@@ -1,7 +1,7 @@
 ---
 title: "Der Weg des Herzens"
 menu_title: ""
-description: "Der Weg des Herzens"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Diese Liebe, die das Universum durchdringt und dir zur Verfügung steht, verwandelt jede Seele.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

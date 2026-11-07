@@ -1,7 +1,7 @@
 ---
 title: "Seelenwachstum und Medialität"
 menu_title: ""
-description: "Seelenwachstum und Medialität"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch geliebten Seelen für euer Kompliment über das, was ich durch dieses Instrument sage, danken.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

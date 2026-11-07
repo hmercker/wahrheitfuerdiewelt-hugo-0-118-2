@@ -1,7 +1,7 @@
 ---
 title: "Prophezeiung"
 menu_title: ""
-description: "Prophezeiung"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ihr fragt euch vielleicht nach den Gaben der alten und neuen Propheten, der Vergangenheit und der Gegenwart.“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

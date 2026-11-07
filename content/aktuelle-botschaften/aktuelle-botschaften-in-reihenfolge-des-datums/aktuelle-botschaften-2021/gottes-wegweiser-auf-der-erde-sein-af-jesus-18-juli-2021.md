@@ -1,7 +1,7 @@
 ---
 title: "Gottes Wegweiser auf der Erde sein"
 menu_title: ""
-description: "Gottes Wegweiser auf der Erde sein"
+description: "Jesus, empfangen durch Al Fike: „Zuweilen ist dieser Kanal hell und kraftvoll. Jeder von euch ist ein Wegweiser des Lichts in der Welt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

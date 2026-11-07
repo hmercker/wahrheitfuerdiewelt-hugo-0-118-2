@@ -1,7 +1,7 @@
 ---
 title: "Gedanken  (Fortsetzung)"
 menu_title: ""
-description: "Gedanken  (Fortsetzung)"
+description: "Judas, empfangen durch H.: „[H.: Im Zusammenhang mit \" Gedankenbehältern\" hatte ich schon vor einigen Tagen das Bild einer rosa Rose gesehen, wie eine von …“"
 date: 2020-08-01 06:25:48+00:275
 draft: False
 hidden: True

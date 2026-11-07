@@ -1,7 +1,7 @@
 ---
 title: "Jakobus versichert, James Padgett nach Kräften zu unterstützen"
 menu_title: ""
-description: "Jakobus versichert, James Padgett nach Kräften zu unterstützen"
+description: "Jakobus, empfangen durch James Padgett: „Ich weiß, dass euch das von vielen spirituellen Wesen erzählt worden ist; dennoch möchte ich mein Zeugnis hinzufügen.“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

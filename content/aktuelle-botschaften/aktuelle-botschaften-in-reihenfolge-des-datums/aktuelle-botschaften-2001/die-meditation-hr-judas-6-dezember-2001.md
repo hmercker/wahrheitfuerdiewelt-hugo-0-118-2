@@ -1,7 +1,7 @@
 ---
 title: "Die Meditation"
 menu_title: ""
-description: "Die Meditation"
+description: "Judas, empfangen durch H.: „Du hast nicht aufgeschrieben, was ich dir mittags gesagt habe. Nein, es fehlt nichts, du hast alles erhalten.“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

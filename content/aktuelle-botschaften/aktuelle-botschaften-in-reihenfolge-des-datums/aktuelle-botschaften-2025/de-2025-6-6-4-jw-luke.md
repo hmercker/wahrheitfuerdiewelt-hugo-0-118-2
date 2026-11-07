@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr alle durch den Balsam der Liebe Gottes geheilt werden"
 menu_title: ""
-description: "Möget ihr alle durch den Balsam der Liebe Gottes geheilt werden"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Seid in der Liebe Gottes in Frieden. Lasst eure Sorgen verschwinden und all die Schutzmauern, die ihr errichtet …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung der spirituellen Wesen die geschrieben haben"
 menu_title: ""
-description: "Bestätigung der spirituellen Wesen die geschrieben haben"
+description: "Helen, empfangen von James Padgett: „Nun, meine Liebster, du hattest heute Abend eine Vielzahl von Mitteilungen und ich war sehr beeindruckt von der …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

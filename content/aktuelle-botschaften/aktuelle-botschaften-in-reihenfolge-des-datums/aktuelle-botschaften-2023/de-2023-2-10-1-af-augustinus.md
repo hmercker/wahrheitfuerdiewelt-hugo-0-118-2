@@ -1,7 +1,7 @@
 ---
 title: "Die Hindernisse des Seelenerwachens"
 menu_title: ""
-description: "Die Hindernisse des Seelenerwachens"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott euch segnen, liebe Schülerinnen und Schüler. In eurer westlichen Welt, wie ihr sie nennt, werden eure …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

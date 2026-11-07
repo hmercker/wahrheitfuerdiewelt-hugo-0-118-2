@@ -1,7 +1,7 @@
 ---
 title: "Er lebte vor 1000 Jahren in Tibet und schreibt über seinen Glauben als er auf der Erde war"
 menu_title: ""
-description: "Er lebte vor 1000 Jahren in Tibet und schreibt über seinen Glauben als er auf der Erde war"
+description: "Leetelam, empfangen durch James Padgett: „Ich war ein Tatar, lebte in Tibet und starb vor fast viertausend Jahren. Ich war ein Brahmane und ich war ein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

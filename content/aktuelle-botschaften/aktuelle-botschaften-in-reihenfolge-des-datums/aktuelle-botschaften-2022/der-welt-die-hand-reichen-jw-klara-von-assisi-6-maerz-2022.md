@@ -1,7 +1,7 @@
 ---
 title: "Der Welt die Hand reichen"
 menu_title: ""
-description: "Der Welt die Hand reichen"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „ch bin es, Klara, einst von Assisi, die jetzt als erlöste Seele im Göttlichen Himmel wohnt.“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

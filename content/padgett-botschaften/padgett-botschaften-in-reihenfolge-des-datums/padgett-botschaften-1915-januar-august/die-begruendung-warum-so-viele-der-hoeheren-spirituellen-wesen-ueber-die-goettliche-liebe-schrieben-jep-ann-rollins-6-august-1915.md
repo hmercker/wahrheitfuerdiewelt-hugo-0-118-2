@@ -1,7 +1,7 @@
 ---
 title: "Die Begründung warum so viele der höheren Spirituellen Wesen über die Göttliche Liebe schrieben"
 menu_title: ""
-description: "Die Begründung warum so viele der höheren Spirituellen Wesen über die Göttliche Liebe schrieben"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun, mein lieber Sohn, ich habe schon seit einiger Zeit darauf gewartet, zu dir zu kommen, aber da dir so …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

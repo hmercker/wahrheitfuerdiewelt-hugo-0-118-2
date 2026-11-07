@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt unseren Seelenfortschritt"
 menu_title: ""
-description: "Bestätigt unseren Seelenfortschritt"
+description: "Kea Atta Kem, empfangen durch Al Fike: „Ich möchte mit euch nur den Fortschritt eurer Seele bestätigen. Auch wenn unser lieber stellarer Freund (Orion) …“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

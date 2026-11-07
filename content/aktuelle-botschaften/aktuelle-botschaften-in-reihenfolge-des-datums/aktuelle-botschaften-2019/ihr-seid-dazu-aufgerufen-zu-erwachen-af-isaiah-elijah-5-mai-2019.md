@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid dazu aufgerufen, zu erwachen"
 menu_title: ""
-description: "Ihr seid dazu aufgerufen, zu erwachen"
+description: "Jesaja & Elias 1, empfangen durch Al Fike: „Der Wille des Menschen ist groß. Gott hat jedes Individuum mit einem freien Willen beschenkt.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

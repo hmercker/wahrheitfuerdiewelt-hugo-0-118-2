@@ -1,7 +1,7 @@
 ---
 title: "Jesus kommentiert mediale Erfahrungen"
 menu_title: ""
-description: "Jesus kommentiert mediale Erfahrungen"
+description: "Jesus: „Denn in ihrem Eifer, eine Verbindung mit mir herzustellen und meine Worte zu hören und von meiner Gegenwart geführt zu werden, führt dies oft zu …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

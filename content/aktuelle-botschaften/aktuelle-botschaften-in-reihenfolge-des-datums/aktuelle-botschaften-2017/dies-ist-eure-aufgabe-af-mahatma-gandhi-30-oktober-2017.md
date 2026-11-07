@@ -1,7 +1,7 @@
 ---
 title: "Dies ist eure Aufgabe"
 menu_title: ""
-description: "Dies ist eure Aufgabe"
+description: "Mahatma Gandhi, empfangen durch Al Fike: „Ich habe eure Bemühungen und eure gemeinsame Arbeit zur Schaffung der Direkten Stimme beobachtet.“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich werde niemals für dich wählen"
 menu_title: ""
-description: "Ich werde niemals für dich wählen"
+description: "Vater, empfangen durch Child of God: „Es ist schon eine Weile her und du hast dich gefragt, wo ich hingegangen bin (lächelt). Manchmal ist Schweigen die …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gott war nie ein Gott des Zorns, sondern immer der Liebe"
 menu_title: ""
-description: "Gott war nie ein Gott des Zorns, sondern immer der Liebe"
+description: "Paulus empfangen durch James Padgett: „Ich möchte lediglich über die Wahrheit der Neuen Geburt schreiben, denn ich spreche, oder besser gesagt, es steht …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

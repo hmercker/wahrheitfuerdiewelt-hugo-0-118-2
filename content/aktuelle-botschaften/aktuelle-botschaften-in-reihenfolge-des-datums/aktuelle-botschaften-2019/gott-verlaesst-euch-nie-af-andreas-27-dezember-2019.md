@@ -1,7 +1,7 @@
 ---
 title: "Gott verlässt euch nie"
 menu_title: ""
-description: "Gott verlässt euch nie"
+description: "Andreas, empfangen durch Al Fike: „Es ist durch die Stärke eurer Seele, dass ihr das Licht tragt. Ganz gleich, welche Bedingungen euch in dieser Welt …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

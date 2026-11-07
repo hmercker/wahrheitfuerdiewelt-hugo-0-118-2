@@ -1,7 +1,7 @@
 ---
 title: "Warum der Tod Jesu am Kreuz die Welt nicht erlösen kann"
 menu_title: ""
-description: "Warum der Tod Jesu am Kreuz die Welt nicht erlösen kann"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte heute Abend eine kurze Botschaft zu der Frage schreiben: \"Was nützt es, an das Opfer Jesu am Kreuz als …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

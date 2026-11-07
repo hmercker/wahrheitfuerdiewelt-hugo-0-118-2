@@ -1,7 +1,7 @@
 ---
 title: "Sündige Gedanken und das Gesetz der Wiedergutmachung"
 menu_title: ""
-description: "Sündige Gedanken und das Gesetz der Wiedergutmachung"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Gott, Schöpferseele, Quelle aller Liebe, ich bete, dass ich in der Lage sein werde, Gedanken von Deinen …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Segen von Maria"
 menu_title: ""
-description: "Segen von Maria"
+description: "Maria, empfangen durch Al Fike: „Ich umarme euch alle als Gottes Kinder, Geliebte. Ich werde an einem anderen Tag kommen und zu euch über die Dinge Gottes …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

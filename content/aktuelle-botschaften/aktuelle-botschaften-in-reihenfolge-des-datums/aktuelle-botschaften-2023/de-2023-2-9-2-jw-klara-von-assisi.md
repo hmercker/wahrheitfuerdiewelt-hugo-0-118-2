@@ -1,7 +1,7 @@
 ---
 title: "Das feste Fundament von Gebet und Glaube"
 menu_title: ""
-description: "Das feste Fundament von Gebet und Glaube"
+description: "Klara von Asissi, empfangen durch Jimbeau Walsh: „Beim Aufbau einer Gemeinschaft ist es wichtig, ein festes Fundament zu haben. Wenn ihr euer …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

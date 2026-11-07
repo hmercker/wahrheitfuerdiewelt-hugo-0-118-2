@@ -1,7 +1,7 @@
 ---
 title: "Ratschläge, wie man die Degeneration des spirituellen Zustands eindämmen kann"
 menu_title: ""
-description: "Ratschläge, wie man die Degeneration des spirituellen Zustands eindämmen kann"
+description: "Seretta Kem, empfangen durch Al Fike: „Wieder einmal kommen wir im Gebet zusammen, um gemeinsam im Licht der Liebe Gottes zu sein, um Seinen Segen für …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

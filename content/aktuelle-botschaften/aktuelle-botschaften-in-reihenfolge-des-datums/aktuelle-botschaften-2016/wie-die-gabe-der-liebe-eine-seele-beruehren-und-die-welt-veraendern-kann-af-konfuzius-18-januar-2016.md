@@ -1,7 +1,7 @@
 ---
 title: "Wie die Gabe der Liebe eine Seele berühren und die Welt verändern kann"
 menu_title: ""
-description: "Wie die Gabe der Liebe eine Seele berühren und die Welt verändern kann"
+description: "Konfuzius, empfangen durch Al Fike: „Kostbare Seelen, Gott hat euch versammelt, um für Seine Liebe zu beten, um gemeinsam in Seiner Gnade zu sein, um Seine …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

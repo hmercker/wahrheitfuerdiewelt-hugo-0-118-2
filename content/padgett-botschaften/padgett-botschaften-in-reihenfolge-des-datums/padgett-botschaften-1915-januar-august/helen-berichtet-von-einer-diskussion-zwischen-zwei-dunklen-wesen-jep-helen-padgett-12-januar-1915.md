@@ -1,7 +1,7 @@
 ---
 title: "Helen berichtet von einer Diskussion zwischen zwei dunklen Wesen über das Beten um die Göttliche Liebe"
 menu_title: ""
-description: "Helen berichtet von einer Diskussion zwischen zwei dunklen Wesen über das Beten um die Göttliche Liebe"
+description: "Helen, empfangen durch James Padgett: „Wie wir dir bereits gesagt haben darfst du diesen Geistern nicht schreiben – ja, er sagte dass er dich von der Erde …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

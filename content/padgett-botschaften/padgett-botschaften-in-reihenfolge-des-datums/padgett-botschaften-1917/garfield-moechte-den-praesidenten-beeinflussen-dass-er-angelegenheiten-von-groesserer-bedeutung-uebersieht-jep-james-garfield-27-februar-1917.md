@@ -1,7 +1,7 @@
 ---
 title: "Garfield möchte den Präsidenten beeinflussen, dass er Angelegenheiten von größerer Bedeutung übersieht"
 menu_title: ""
-description: "Garfield möchte den Präsidenten beeinflussen, dass er Angelegenheiten von größerer Bedeutung übersieht"
+description: "Garfield, empfangen durch James Padgett: „Ich weiß, dass das, was ich sage, vielleicht aus mehreren Gründen nichts wert ist: zum einen, weil niemand außer …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

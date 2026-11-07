@@ -1,7 +1,7 @@
 ---
 title: "Der Stoff der Ewigkeit"
 menu_title: ""
-description: "Der Stoff der Ewigkeit"
+description: "Maria, empfangen durch Amada Reza: „Der Glaube, mit dem ihr geboren werdet, bedarf keiner seelischen Entwicklung. Dieser Glaube dient euch dazu, euer …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

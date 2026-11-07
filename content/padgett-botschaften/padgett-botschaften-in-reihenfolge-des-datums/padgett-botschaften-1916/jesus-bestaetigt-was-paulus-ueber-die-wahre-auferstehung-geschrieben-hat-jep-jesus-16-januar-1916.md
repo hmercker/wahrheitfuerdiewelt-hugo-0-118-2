@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt, was Paulus über die wahre Auferstehung geschrieben hat"
 menu_title: ""
-description: "Jesus bestätigt, was Paulus über die wahre Auferstehung geschrieben hat"
+description: "Jesus, empfangen durch James Padgett: „Ich freue mich, dass Paulus dir so erfolgreich schreiben konnte über die beiden Themen, von denen ich weiß, dass sie …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

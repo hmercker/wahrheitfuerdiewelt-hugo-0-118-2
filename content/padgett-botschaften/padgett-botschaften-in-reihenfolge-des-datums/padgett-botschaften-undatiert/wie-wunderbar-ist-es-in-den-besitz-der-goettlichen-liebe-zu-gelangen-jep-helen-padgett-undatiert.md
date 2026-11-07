@@ -1,7 +1,7 @@
 ---
 title: "Wie wunderbar ist es, in den Besitz der Göttlichen Liebe zu gelangen"
 menu_title: ""
-description: "Wie wunderbar ist es, in den Besitz der Göttlichen Liebe zu gelangen"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, mein lieber Ned, ich sehe, dass du heute Abend sehr glücklich bist und ich schließe mich deinem Glück …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

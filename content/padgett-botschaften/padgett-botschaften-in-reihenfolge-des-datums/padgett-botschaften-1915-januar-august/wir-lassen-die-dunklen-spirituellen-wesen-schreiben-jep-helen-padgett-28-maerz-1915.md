@@ -1,7 +1,7 @@
 ---
 title: "Wir lassen die dunklen spirituellen Wesen schreiben"
 menu_title: ""
-description: "Wir lassen die dunklen spirituellen Wesen schreiben"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, du hattest eine ziemliche Belagerung von unglücklichen spirituellen Wesen und ich hoffe, dass du alles …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

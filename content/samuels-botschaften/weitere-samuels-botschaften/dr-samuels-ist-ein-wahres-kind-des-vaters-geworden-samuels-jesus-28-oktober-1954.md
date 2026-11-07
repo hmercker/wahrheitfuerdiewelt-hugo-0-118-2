@@ -1,7 +1,7 @@
 ---
 title: "Dr. Samuels ist ein wahres Kind des Vaters geworden"
 menu_title: ""
-description: "Dr. Samuels ist ein wahres Kind des Vaters geworden"
+description: "Jesus, empfangen durch Dr Samuels: „Und ich sage euch allen Ernstes, dass ihr weiterhin und immer häufiger um diese Göttliche Liebe des Vaters beten sollt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

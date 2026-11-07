@@ -1,7 +1,7 @@
 ---
 title: "Verändert die Art und Weise, wie ihr die Welt wahrnehmt"
 menu_title: ""
-description: "Verändert die Art und Weise, wie ihr die Welt wahrnehmt"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Es war mir eine große Freude, bei euch zu sein, während ihr euch im Schlafzustand befandet, um euren …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

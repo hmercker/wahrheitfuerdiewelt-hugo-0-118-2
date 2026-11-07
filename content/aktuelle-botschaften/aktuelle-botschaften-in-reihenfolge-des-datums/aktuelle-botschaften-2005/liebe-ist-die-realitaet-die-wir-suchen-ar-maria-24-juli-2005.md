@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist die Realität, die wir suchen"
 menu_title: ""
-description: "Liebe ist die Realität, die wir suchen"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte eine Botschaft über den Glauben und die Liebe als Qualitäten schreiben, auf die sich die Wahrheit gründen kann.“"
 date: 2020-08-01 06:25:48+00:303
 draft: False
 hidden: True

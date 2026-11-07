@@ -1,7 +1,7 @@
 ---
 title: "Jenseits von Verstand und spirituellem Bewusstsein zur Seele"
 menu_title: ""
-description: "Jenseits von Verstand und spirituellem Bewusstsein zur Seele"
+description: "Josephus, empfangen durch Al Fike: „In der Tat betet ihr um das große Geschenk der Liebe Gottes. Dieses Gebet wird mit jeder Sehnsucht erhört.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

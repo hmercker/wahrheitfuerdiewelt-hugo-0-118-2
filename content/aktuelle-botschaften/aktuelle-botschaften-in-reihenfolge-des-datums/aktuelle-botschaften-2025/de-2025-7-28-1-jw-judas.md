@@ -1,7 +1,7 @@
 ---
 title: "Was ihr wählt, zieht spirituelle Wesen zu euch, die auf derselben Schwingungsebene sind"
 menu_title: ""
-description: "Was ihr wählt, zieht spirituelle Wesen zu euch, die auf derselben Schwingungsebene sind"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe bereits darüber gesprochen, wie wichtig es ist, sich bewusst zu sein, was ihr aussendet und was ihr empfangt.“"
 date: 2025-08-07 06:00:00+00:00
 draft: False
 hidden: True

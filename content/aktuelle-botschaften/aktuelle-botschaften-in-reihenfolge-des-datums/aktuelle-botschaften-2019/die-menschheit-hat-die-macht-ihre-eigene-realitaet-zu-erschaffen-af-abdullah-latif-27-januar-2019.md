@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit hat die Macht, ihre eigene Realität zu erschaffen"
 menu_title: ""
-description: "Die Menschheit hat die Macht, ihre eigene Realität zu erschaffen"
+description: "Abdullah Latif, empfangen durch Al Fike: „Ich habe viel über die Zustände in eurer Welt nachgedacht, über die Dunkelheit, die fast jeden Winkel eurer Welt …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

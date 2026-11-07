@@ -1,7 +1,7 @@
 ---
 title: "Fordere deine Unschuld zurück"
 menu_title: ""
-description: "Fordere deine Unschuld zurück"
+description: "Vater, empfangen durch Child of God: „Trauer bewegt sich in Wellen. Du wirst ständig mit Gelegenheiten konfrontiert, deine Wunden zu heilen.“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

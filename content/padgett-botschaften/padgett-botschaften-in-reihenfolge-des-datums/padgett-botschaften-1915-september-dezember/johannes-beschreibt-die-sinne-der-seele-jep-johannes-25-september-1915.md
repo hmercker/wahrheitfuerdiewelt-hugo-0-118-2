@@ -1,7 +1,7 @@
 ---
 title: "Johannes beschreibt die Sinne der Seele"
 menu_title: ""
-description: "Johannes beschreibt die Sinne der Seele"
+description: "Johannes, empfangen von James Padgett: „Wie du ja weißt, diese Göttlichen Sphären liegen über den Spirituellen Sphären, und sie werden nur von spirituellen …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

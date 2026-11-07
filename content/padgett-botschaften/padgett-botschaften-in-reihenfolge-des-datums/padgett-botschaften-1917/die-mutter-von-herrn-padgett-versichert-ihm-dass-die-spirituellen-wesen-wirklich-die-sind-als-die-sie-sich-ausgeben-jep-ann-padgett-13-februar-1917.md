@@ -1,7 +1,7 @@
 ---
 title: "Die Mutter von Herrn Padgett versichert ihm, dass die spirituellen Wesen wirklich die sind, als die sie sich ausgeben"
 menu_title: ""
-description: "Die Mutter von Herrn Padgett versichert ihm, dass die spirituellen Wesen wirklich die sind, als die sie sich ausgeben"
+description: "Ann Padgett, empfangen durch James Padgett: „Er ist so sehr liebevoll und gnädig und mächtig und wenn er zu dir kommt, bringt er eine Herrlichkeit, die …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

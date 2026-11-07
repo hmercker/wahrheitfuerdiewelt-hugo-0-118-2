@@ -1,7 +1,7 @@
 ---
 title: "Kommt um mit uns zu beten"
 menu_title: ""
-description: "Kommt um mit uns zu beten"
+description: "Jesus, empfangen durch Al Fike: „Ich werde meine Arbeit fortsetzen, so wie es viele in den spirituellen Sphären und im himmlischen Königreich tun, denn …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

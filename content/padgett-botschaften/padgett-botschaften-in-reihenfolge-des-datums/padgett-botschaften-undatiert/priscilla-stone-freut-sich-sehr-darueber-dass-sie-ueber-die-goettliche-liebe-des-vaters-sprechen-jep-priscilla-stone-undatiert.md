@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone freut sich sehr darüber, dass sie über die göttliche Liebe des Vaters sprechen"
 menu_title: ""
-description: "Priscilla Stone freut sich sehr darüber, dass sie über die göttliche Liebe des Vaters sprechen"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich weiß, dass es dir Freude bereitet, wenn du eine Liebesbotschaft von deinen Lieben erhältst, und ich …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

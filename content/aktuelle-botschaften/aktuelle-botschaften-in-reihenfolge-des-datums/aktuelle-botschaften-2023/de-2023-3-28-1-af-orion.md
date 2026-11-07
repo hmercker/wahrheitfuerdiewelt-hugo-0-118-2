@@ -1,7 +1,7 @@
 ---
 title: "Engel erleichtern uns den Weg ins Seelenbewusstsein"
 menu_title: ""
-description: "Engel erleichtern uns den Weg ins Seelenbewusstsein"
+description: "Orion, empfangen durch Al Fike: „Es gibt einen Raum zwischen dem Wissen eurer Seele und eurem bewussten Selbst. Dieser Raum wird oft von eurem spirituellen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

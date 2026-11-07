@@ -1,7 +1,7 @@
 ---
 title: "Schicksal und freier Wille - Teil 1"
 menu_title: ""
-description: "Schicksal und freier Wille - Teil 1"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte über das Thema des freien Willens im Gegensatz zur Bestimmung in eurem Leben sprechen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

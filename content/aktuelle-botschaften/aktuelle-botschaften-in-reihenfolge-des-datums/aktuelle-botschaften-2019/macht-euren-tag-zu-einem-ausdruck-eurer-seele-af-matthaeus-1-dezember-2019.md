@@ -1,7 +1,7 @@
 ---
 title: "Macht euren Tag zu einem Ausdruck eurer Seele"
 menu_title: ""
-description: "Macht euren Tag zu einem Ausdruck eurer Seele"
+description: "Matthäus, empfangen durch Al Fike: „Räumt alle Zweifel aus eurem Verstand, Geliebte, denn es sind die kommenden Zeiten, wie unser geliebter Freund sagt, in …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

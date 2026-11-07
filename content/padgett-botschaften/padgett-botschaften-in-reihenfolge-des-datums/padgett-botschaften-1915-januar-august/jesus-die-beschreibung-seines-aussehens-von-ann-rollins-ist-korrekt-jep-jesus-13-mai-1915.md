@@ -1,7 +1,7 @@
 ---
 title: "Jesus: die Beschreibung seines Aussehens von Ann Rollins ist korrekt"
 menu_title: ""
-description: "Jesus: die Beschreibung seines Aussehens von Ann Rollins ist korrekt"
+description: "Jesus, empfangen durch James Padgett: „Ich glaube, dass morgen Abend für die Arbeit geeignet sein wird. Fange also um 9 Uhr an und dann kannst du …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

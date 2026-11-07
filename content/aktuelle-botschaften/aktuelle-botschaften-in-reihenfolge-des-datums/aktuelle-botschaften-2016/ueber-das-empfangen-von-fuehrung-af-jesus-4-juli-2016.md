@@ -1,7 +1,7 @@
 ---
 title: "Über das Empfangen von Führung"
 menu_title: ""
-description: "Über das Empfangen von Führung"
+description: "Über das Empfangen von Führung: „Jesus - empfangen durch Al Fike am 4. Juli 2016, Gibsons, BC, Kanada.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

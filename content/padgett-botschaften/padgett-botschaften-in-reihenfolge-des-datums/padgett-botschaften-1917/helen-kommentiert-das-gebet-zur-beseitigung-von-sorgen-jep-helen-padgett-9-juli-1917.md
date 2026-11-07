@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert das Gebet zur Beseitigung von Sorgen"
 menu_title: ""
-description: "Helen kommentiert das Gebet zur Beseitigung von Sorgen"
+description: "Helen, empfangen durch James Padgett: „Ja, es ist Helen, und ich werde nur ein paar Zeilen schreiben, da ich sehe, dass du dich körperlich und spirituell …“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

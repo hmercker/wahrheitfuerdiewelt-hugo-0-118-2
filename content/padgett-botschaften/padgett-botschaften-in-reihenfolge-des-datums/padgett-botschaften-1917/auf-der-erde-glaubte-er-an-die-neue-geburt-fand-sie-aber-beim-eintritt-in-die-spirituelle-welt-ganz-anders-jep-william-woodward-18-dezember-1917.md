@@ -1,7 +1,7 @@
 ---
 title: "Auf der Erde glaubte er an die neue Geburt, fand sie aber beim Eintritt in die spirituelle Welt ganz anders"
 menu_title: ""
-description: "Auf der Erde glaubte er an die neue Geburt, fand sie aber beim Eintritt in die spirituelle Welt ganz anders"
+description: "William R. Woodward, empfangen durch James Padgett: „Lass mich ein Wort sagen, so wie ich deinem Gespräch zugehört habe, und für mich ist das meiste davon …“"
 date: 2020-08-01 06:25:48+00:242
 draft: False
 hidden: True

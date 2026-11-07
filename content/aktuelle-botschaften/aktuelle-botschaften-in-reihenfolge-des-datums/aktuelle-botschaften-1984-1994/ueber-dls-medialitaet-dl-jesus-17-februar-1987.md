@@ -1,7 +1,7 @@
 ---
 title: "Über D.L.'s Medialität"
 menu_title: ""
-description: "Über D.L.'s Medialität"
+description: "Jesus, empfangen durch David Lampron: „Ich kann an deinem Herzen und deinen Wünschen erkennen, dass du ein Werkzeug des Willens des Vaters sein möchtest …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

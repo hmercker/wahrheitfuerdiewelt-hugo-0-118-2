@@ -1,7 +1,7 @@
 ---
 title: "Die Gabe des Unterscheidungsvermögens"
 menu_title: ""
-description: "Die Gabe des Unterscheidungsvermögens"
+description: "Daniel: „Ich freue mich, heute Abend hier zu sein, Kinder der Erdebene, Daniel hier. Es ist eine Freude für mich, zu euch zu kommen und mit euch zu …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

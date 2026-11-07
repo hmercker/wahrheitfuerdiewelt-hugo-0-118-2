@@ -1,7 +1,7 @@
 ---
 title: "Ihr öffnet die Tür eurer Seele, wenn ihr betet"
 menu_title: ""
-description: "Ihr öffnet die Tür eurer Seele, wenn ihr betet"
+description: "Matthäus, empfangen durch Al Fike: „Jedes Mal, wenn ihr betet, kommt ihr an die Tür eurer Seele. Es ist die Intensität eurer Gebete, die die Tür öffnet und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

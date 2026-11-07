@@ -1,7 +1,7 @@
 ---
 title: "Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde"
 menu_title: ""
-description: "Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde"
+description: "John Padgett, empfangen durch James Padgett: „Ich habe dein Gespräch heute Abend mit großem Interesse verfolgt und ich sehe, dass deine beiden Freunde fest …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

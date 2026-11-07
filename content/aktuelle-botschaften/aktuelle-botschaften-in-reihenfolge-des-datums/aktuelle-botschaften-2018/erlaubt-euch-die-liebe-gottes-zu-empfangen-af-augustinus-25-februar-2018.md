@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt euch die Liebe Gottes zu empfangen"
 menu_title: ""
-description: "Erlaubt euch die Liebe Gottes zu empfangen"
+description: "Augustinus, empfangen durch Al Fike: „Meine Seele wurde von der Liebe Gottes, erlöst und ich wohne weit oben in diesen Himmeln, sehr weit weg von dieser …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

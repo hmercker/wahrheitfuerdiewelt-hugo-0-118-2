@@ -1,7 +1,7 @@
 ---
 title: "Leibnitz, ein deutscher Philosoph, jetzt in der zweiten Sphäre"
 menu_title: ""
-description: "Leibnitz, ein deutscher Philosoph, jetzt in der zweiten Sphäre"
+description: "Gottfried Leibnitz, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben. Ich war Professor auf Erden und widmete einen Großteil meiner Zeit …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

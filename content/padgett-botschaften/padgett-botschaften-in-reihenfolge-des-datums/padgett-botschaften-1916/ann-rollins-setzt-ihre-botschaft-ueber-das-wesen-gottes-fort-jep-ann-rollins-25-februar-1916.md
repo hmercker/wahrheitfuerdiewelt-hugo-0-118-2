@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins setzt ihre Botschaft über das Wesen Gottes fort"
 menu_title: ""
-description: "Ann Rollins setzt ihre Botschaft über das Wesen Gottes fort"
+description: "Ann Rollins, empfangen durch James Padgett: „Gut, versuchen wir es also. Wenn ich merke, dass es nicht geht, setzen wir später fort.“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

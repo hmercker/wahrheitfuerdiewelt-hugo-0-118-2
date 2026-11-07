@@ -1,7 +1,7 @@
 ---
 title: "Der Wind des Wandels weht über diese Welt"
 menu_title: ""
-description: "Der Wind des Wandels weht über diese Welt"
+description: "Johannes, empfangen durch Al Fike: „Der Atem Gottes weht über eure Welt, meine Lieben. Seine Berührung berührt alles und Sein Atem weht auf die Berggipfel …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

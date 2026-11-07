@@ -1,7 +1,7 @@
 ---
 title: "Die gespiegelte Beziehung unserer Eltern und unseres Vaters"
 menu_title: ""
-description: "Die gespiegelte Beziehung unserer Eltern und unseres Vaters"
+description: "Jesus, empfangen durch Child of God: „Du hast mich gerufen, Licht auf das Thema der Wechselbeziehung zwischen deiner Beziehung zu deinen menschlichen …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

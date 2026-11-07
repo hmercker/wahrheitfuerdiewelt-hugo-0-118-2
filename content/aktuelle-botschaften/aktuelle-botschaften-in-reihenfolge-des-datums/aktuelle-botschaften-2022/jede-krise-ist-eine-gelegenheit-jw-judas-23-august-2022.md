@@ -1,7 +1,7 @@
 ---
 title: "Jede Krise ist eine Gelegenheit"
 menu_title: ""
-description: "Jede Krise ist eine Gelegenheit"
+description: "Judas, empfangen durch Jimbeau Walsh: „Als ihr über die Schließung der göttlichen Himmel gesprochen habt, hat mein Bruder erklärt, warum er sich wundert …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

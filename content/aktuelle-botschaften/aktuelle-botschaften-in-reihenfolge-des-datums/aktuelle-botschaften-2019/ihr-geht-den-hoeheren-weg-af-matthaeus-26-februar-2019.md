@@ -1,7 +1,7 @@
 ---
 title: "Ihr geht den höheren Weg"
 menu_title: ""
-description: "Ihr geht den höheren Weg"
+description: "Matthäus, empfangen durch Al Fike: „Ihr habt viel gelernt in den letzten Tagen zusammen mit euren Freunden, aber denkt daran, dass ihr den höheren Weg geht …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

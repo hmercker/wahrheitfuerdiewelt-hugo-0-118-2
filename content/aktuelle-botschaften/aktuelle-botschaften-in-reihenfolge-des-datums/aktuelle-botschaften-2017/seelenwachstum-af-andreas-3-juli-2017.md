@@ -1,7 +1,7 @@
 ---
 title: "Seelenwachstum"
 menu_title: ""
-description: "Seelenwachstum"
+description: "Andreas, empfangen durch Al Fike: „Es ist so gut, euch, geliebte Seelen, zusammen zu sehen, im Licht der Liebe Gottes, im Licht eurer Verbundenheit und …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Druck, sich dem Wandel zu widersetzen, wächst"
 menu_title: ""
-description: "Der Druck, sich dem Wandel zu widersetzen, wächst"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Der Druck baut sich auf, geliebte Seelen, der Druck, der durch den Fluss von Gottes …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

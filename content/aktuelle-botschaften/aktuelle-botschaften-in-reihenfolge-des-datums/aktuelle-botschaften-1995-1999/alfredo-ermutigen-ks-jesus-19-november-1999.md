@@ -1,7 +1,7 @@
 ---
 title: "Alfredo ermutigen"
 menu_title: ""
-description: "Alfredo ermutigen"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich liebe Dich. Ich bete darum, meinen Verstand zu klären, meine Vorüberlegungen beiseite …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

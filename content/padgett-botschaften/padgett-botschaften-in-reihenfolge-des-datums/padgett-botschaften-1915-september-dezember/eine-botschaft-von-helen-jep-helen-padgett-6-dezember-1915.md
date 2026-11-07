@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft von Helen"
 menu_title: ""
-description: "Eine Botschaft von Helen"
+description: "Helen, empfangen durch James Padgett: „Ich möchte nur sagen, dass du und Dr. Stone sehr töricht seid, eure Seelengefährten zu vernachlässigen, wie ihr es …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

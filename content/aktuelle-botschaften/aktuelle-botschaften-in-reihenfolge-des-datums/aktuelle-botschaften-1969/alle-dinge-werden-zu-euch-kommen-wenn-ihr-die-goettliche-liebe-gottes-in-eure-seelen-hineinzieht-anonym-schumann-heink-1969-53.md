@@ -1,7 +1,7 @@
 ---
 title: "Alle Dinge werden zu euch kommen, wenn ihr die Göttliche Liebe Gottes in eure Seelen hineinzieht"
 menu_title: ""
-description: "Alle Dinge werden zu euch kommen, wenn ihr die Göttliche Liebe Gottes in eure Seelen hineinzieht"
+description: "Ernestine Schumann-Heink 1: „Bis wir das Leben Schritt für Schritt angenommen haben, wie es diese schöne Hymne symbolisiert: Ein Schritt ist genug für …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seelentransformation in Gottes Liebe ist real"
 menu_title: ""
-description: "Seelentransformation in Gottes Liebe ist real"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Und wie mein geliebter Bruder in meiner Gegenwart und mit ein wenig Hilfe von mir schrieb: „Wer könnte in …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

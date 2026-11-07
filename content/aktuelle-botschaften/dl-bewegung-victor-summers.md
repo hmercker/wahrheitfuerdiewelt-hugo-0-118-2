@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Victor Summers"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Victor Summers"
+description: "Aktuelle Botschaften empfangen von Victor Summers: „Hier mehr über das Leben von Victor Summers. Es folgen empfangene Botschaften seit seinem irdischen Tod.“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

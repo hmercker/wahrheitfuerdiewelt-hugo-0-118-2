@@ -1,7 +1,7 @@
 ---
 title: "Bleibt in Gnade"
 menu_title: ""
-description: "Bleibt in Gnade"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ihr alle habt das große Geschenk der Liebe Gottes empfangen und kennt die große Wahrheit ihrer Verfügbarkeit.“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

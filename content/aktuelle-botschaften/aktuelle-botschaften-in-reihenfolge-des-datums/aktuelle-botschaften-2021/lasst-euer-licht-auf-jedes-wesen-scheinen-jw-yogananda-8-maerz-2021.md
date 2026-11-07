@@ -1,7 +1,7 @@
 ---
 title: "Lasst euer Licht auf jedes Wesen scheinen"
 menu_title: ""
-description: "Lasst euer Licht auf jedes Wesen scheinen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte über die Einheit inmitten all der Vielfalt sprechen, inmitten all der kulturellen, politischen und …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

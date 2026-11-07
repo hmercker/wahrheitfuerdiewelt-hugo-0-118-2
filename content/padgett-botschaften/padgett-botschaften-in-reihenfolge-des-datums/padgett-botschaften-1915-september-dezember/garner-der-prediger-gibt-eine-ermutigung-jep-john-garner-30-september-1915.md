@@ -1,7 +1,7 @@
 ---
 title: "Garner, der Prediger, gibt eine Ermutigung"
 menu_title: ""
-description: "Garner, der Prediger, gibt eine Ermutigung"
+description: "Garner, empfangen von James Padgett: „Laßt die Sorgen gehen und begrabt sie; und wendet eure Gedanken und Seelenbestrebungen Gott zu, denn dies sind die …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

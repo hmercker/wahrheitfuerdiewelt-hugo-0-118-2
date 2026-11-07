@@ -1,7 +1,7 @@
 ---
 title: "Der Meister war bestrebt zu schreiben"
 menu_title: ""
-description: "Der Meister war bestrebt zu schreiben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, wie ich sehe, hast du heute Abend keine Lust, viel zu schreiben, und werde nur ein paar Worte sagen.“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

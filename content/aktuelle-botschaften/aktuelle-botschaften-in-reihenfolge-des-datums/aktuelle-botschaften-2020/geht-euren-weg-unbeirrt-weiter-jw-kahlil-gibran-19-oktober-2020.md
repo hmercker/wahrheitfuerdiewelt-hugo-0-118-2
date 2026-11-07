@@ -1,7 +1,7 @@
 ---
 title: "Geht euren Weg unbeirrt weiter"
 menu_title: ""
-description: "Geht euren Weg unbeirrt weiter"
+description: "Khalil Gibran, empfangen durch Jimbeau Walsh: „Als ich auf der Erde schrieb, wurde ich von meinen Engeln geführt. Ich wusste das sehr wohl und hielt mich …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

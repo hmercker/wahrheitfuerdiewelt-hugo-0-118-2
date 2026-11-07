@@ -1,7 +1,7 @@
 ---
 title: "Steht auf und lasst euch zählen - Teil 2"
 menu_title: ""
-description: "Steht auf und lasst euch zählen - Teil 2"
+description: "Judas, empfangen durch H.: „Darf ich mit meinem Diskurs fortfahren? Die heutige Botschaft ist völlig außerhalb der chronologischen Reihenfolge.“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gleichgewicht zwischen materiellen und spirituellen Bestrebungen"
 menu_title: ""
-description: "Das Gleichgewicht zwischen materiellen und spirituellen Bestrebungen"
+description: "Lukas, empfangen durch Al Fike: „Ich möchte über die Doppelnatur der Menschheit sprechen, die des materiellen und die des geistigen Lebens.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

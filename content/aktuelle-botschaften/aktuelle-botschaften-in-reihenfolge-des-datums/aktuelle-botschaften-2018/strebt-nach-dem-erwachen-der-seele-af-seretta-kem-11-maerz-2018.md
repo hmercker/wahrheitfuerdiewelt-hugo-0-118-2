@@ -1,7 +1,7 @@
 ---
 title: "Strebt nach dem Erwachen der Seele"
 menu_title: ""
-description: "Strebt nach dem Erwachen der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte euch auf eurem Weg und in euren Bemühungen ermutigen, das Geschenk der Direkten Stimme zu empfangen.“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

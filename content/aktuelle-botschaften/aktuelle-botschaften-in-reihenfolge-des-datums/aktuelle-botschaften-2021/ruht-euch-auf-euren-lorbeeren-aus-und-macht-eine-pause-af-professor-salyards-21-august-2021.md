@@ -1,7 +1,7 @@
 ---
 title: "Ruht euch auf euren Lorbeeren aus und macht eine Pause"
 menu_title: ""
-description: "Ruht euch auf euren Lorbeeren aus und macht eine Pause"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich würde euch empfehlen, eine Pause zu machen, denn ich weiß, dass ihr mit anderen Projekten [Direkte …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

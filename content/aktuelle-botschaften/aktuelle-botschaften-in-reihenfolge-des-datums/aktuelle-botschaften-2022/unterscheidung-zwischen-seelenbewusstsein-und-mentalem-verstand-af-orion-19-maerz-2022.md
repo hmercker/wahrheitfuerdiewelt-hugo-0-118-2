@@ -1,7 +1,7 @@
 ---
 title: "Unterscheidung zwischen Seelenbewusstsein und mentalem Verstand"
 menu_title: ""
-description: "Unterscheidung zwischen Seelenbewusstsein und mentalem Verstand"
+description: "Orion, empfangen durch Al Fike: „Ich danke dir, liebe Tochter, für deine Gebete und für all deine Gebete in dieser Zeit für deine Welt, denn deine Welt …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

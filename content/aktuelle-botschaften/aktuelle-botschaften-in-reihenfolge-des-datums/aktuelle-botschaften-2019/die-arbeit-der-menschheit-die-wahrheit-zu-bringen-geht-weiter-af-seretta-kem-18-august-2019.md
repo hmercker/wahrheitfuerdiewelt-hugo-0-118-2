@@ -1,7 +1,7 @@
 ---
 title: "Die Arbeit, der Menschheit die Wahrheit zu bringen, geht weiter"
 menu_title: ""
-description: "Die Arbeit, der Menschheit die Wahrheit zu bringen, geht weiter"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge die Gnade der Liebe des Vaters weiterhin eure Seelen segnen und all die schönen Gaben, die in euch sind …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommt, um die Sehnsüchte unserer Seelen zu stärken"
 menu_title: ""
-description: "Kommt, um die Sehnsüchte unserer Seelen zu stärken"
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte euch helfen, eure Sehnsucht nach Gott zu verstärken. Denn wie oft habt ihr die Gelegenheit, wirklich …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

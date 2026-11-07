@@ -1,7 +1,7 @@
 ---
 title: "Alle in Gottes Liebe umarmen"
 menu_title: ""
-description: "Alle in Gottes Liebe umarmen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich stelle keine Forderungen, da wir nur vorschlagen und ermutigen. Wir warten geduldig darauf, dass …“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

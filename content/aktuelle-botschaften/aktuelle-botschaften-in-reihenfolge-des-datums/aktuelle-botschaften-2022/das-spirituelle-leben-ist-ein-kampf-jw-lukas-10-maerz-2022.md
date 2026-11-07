@@ -1,7 +1,7 @@
 ---
 title: "Das spirituelle Leben ist ein Kampf"
 menu_title: ""
-description: "Das spirituelle Leben ist ein Kampf"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Wenn man sich auf dem spirituellen Weg für eine Veränderung entscheidet und über das Schicksal seiner Seele …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lukas erklärt, was mit dem Leichnam Jesu passiert ist"
 menu_title: ""
-description: "Lukas erklärt, was mit dem Leichnam Jesu passiert ist"
+description: "Lukas, empfangen durch James Padgett: „Ich war mit dir heute Nacht auf dem Spiritualistentreffen und hörte die Feststellungen des Sprechers über die …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

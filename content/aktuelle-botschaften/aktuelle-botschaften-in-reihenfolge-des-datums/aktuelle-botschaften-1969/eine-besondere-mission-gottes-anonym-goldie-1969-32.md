@@ -1,7 +1,7 @@
 ---
 title: "Eine besondere Mission Gottes"
 menu_title: ""
-description: "Eine besondere Mission Gottes"
+description: "Goldie: „Ihr seht die wunderbaren Lehrer, die heute Abend gekommen sind und zu euch gesprochen haben, und sogar die Geistige Welt stand staunend vor der …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

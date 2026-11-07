@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigt Helen's Erfahrung und erzählt vom Glück der Bewohner der göttlichen Sphären"
 menu_title: ""
-description: "Ann Rollins bestätigt Helen's Erfahrung und erzählt vom Glück der Bewohner der göttlichen Sphären"
+description: "Ann Rollins, empfangen durch James Padgett: „Du hast einen ziemlich langen Brief von Helen erhalten und ich hoffe, dass er zufriedenstellend ausgefallen ist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

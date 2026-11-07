@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 41 : Was im Garten von Gethsemane geschah; Pilatus und Herodes"
 menu_title: ""
-description: "Offenbarung 41 : Was im Garten von Gethsemane geschah; Pilatus und Herodes"
+description: "Jesus, empfangen durch Dr Samuels: „Auch wenn ich weiß, dass du lieber das Thema Reinkarnation besprechen würdest, denn ich war heute bei dir, als du die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

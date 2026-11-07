@@ -1,7 +1,7 @@
 ---
 title: "Anleitung und Hinweise zur Direkten Stimme"
 menu_title: ""
-description: "Anleitung und Hinweise zur Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist gut, euch wieder in diesem Kreis des Lichts zu sehen. Ich sehe, dass ihr alle gekommen seid, um eine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

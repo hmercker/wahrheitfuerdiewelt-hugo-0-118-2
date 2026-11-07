@@ -1,7 +1,7 @@
 ---
 title: "Es gibt viel vorzubereiten"
 menu_title: ""
-description: "Es gibt viel vorzubereiten"
+description: "Orion, empfangen durch Al Fike: „Es gibt viel, worauf ihr euch vorbereiten müsst, eine Welt, die sich um euch herum verändert.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

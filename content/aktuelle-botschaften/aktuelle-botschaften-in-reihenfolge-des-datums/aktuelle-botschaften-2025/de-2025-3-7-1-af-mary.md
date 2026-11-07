@@ -1,7 +1,7 @@
 ---
 title: "Das Leben ist nicht dazu da, sich abzumühen, sich zu sorgen oder niedergeschlagen zu sein"
 menu_title: ""
-description: "Das Leben ist nicht dazu da, sich abzumühen, sich zu sorgen oder niedergeschlagen zu sein"
+description: "Maria, empfangen durch Al Fike: „Ich bitte euch dringend, eure Seelen zu öffnen und zu beten. Bittet Gott darum, dass seine Liebe in eure Seelen einfließt …“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

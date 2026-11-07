@@ -1,7 +1,7 @@
 ---
 title: "Wähle den Weg der Liebe"
 menu_title: ""
-description: "Wähle den Weg der Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Wenn ihr unsicher seid, welchen Weg ihr einschlagen sollt, dann wählt den Weg der Liebe, denn das ist es …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

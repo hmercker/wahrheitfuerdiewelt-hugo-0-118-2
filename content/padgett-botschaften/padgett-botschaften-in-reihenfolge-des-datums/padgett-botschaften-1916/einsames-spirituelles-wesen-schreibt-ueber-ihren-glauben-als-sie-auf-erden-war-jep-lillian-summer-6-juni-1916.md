@@ -1,7 +1,7 @@
 ---
 title: "Einsames spirituelles Wesen schreibt über ihren Glauben, als sie auf Erden war"
 menu_title: ""
-description: "Einsames spirituelles Wesen schreibt über ihren Glauben, als sie auf Erden war"
+description: "Lilian Summer, empfangen durch James Padgett: „Ich war eine Frau, die nie an spirituelle Dinge oder an das zukünftige Leben dachte, sondern nur für die …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

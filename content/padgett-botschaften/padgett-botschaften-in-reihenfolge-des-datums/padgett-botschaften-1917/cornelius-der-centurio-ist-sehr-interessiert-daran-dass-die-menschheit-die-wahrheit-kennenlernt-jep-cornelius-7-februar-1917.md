@@ -1,7 +1,7 @@
 ---
 title: "Cornelius (der Centurio) ist sehr interessiert daran, dass die Menschheit die Wahrheit kennenlernt"
 menu_title: ""
-description: "Cornelius (der Centurio) ist sehr interessiert daran, dass die Menschheit die Wahrheit kennenlernt"
+description: "Cornelius, empfangen durch James Padgett: „Ich möchte heute Nacht nur ein paar Zeilen schreiben. Wie ich dir erzählt habe, lebe ich in den Göttlichen …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

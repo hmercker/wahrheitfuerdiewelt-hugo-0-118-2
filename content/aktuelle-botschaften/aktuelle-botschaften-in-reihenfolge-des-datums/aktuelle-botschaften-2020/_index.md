@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2020"
 menu_title: "Aktuelle Botschaften 2020"
-description: "Aktuelle Botschaften vom Jahre 2020"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Eileen Caddy | Einsatz für Findhorn | 1 Januar 2020 Josephus | Warum lässt Gott das Leiden …“"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

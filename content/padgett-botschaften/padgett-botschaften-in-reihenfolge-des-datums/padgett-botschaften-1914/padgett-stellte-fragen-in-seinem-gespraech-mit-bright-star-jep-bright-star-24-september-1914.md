@@ -1,7 +1,7 @@
 ---
 title: "Padgett stellte Fragen in seinem Gespräch mit Bright Star"
 menu_title: ""
-description: "Padgett stellte Fragen in seinem Gespräch mit Bright Star"
+description: "Bright Star, empfangen durch James Padgett: „Lass mich dir sagen, dass ich heute Nacht bei dir bin, um dir zu helfen, aus deiner Verzweiflung herauszukommen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

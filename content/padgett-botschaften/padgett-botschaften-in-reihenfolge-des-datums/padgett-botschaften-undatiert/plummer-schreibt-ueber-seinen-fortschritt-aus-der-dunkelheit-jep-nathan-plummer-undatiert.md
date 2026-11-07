@@ -1,7 +1,7 @@
 ---
 title: "Plummer schreibt über seinen Fortschritt aus der Dunkelheit"
 menu_title: ""
-description: "Plummer schreibt über seinen Fortschritt aus der Dunkelheit"
+description: "Nathan Plummer, empfangen durch James Padgett: „Ich bete jetzt mit all meiner Kraft und bin mit meinen Fortschritten nicht zufrieden, obwohl es, wenn ich …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

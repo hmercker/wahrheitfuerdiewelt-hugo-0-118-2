@@ -1,7 +1,7 @@
 ---
 title: "Verbunden bleiben"
 menu_title: ""
-description: "Verbunden bleiben"
+description: "Riannon, empfangen durch James Reid: „Er weiß wirklich nicht, wie umfangreich wir sind. Aber ich werde es euch zuflüstern: \"Wir sind viele.\" Ihr könntet …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

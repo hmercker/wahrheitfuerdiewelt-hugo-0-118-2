@@ -1,7 +1,7 @@
 ---
 title: "Weißer Adler half die Verdauungsorgane von Padgett zu korrigieren"
 menu_title: ""
-description: "Weißer Adler half die Verdauungsorgane von Padgett zu korrigieren"
+description: "Weißer Adler, empfangen durch James Padgett: „Dir geht es schon viel besser. Der Herr half dir sehr letzte Nacht.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

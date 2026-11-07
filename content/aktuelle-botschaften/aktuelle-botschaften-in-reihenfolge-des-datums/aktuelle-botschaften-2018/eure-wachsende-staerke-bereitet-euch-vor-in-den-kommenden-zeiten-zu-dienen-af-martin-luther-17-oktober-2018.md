@@ -1,7 +1,7 @@
 ---
 title: "Eure wachsende Stärke bereitet euch vor, in den kommenden Zeiten zu dienen"
 menu_title: ""
-description: "Eure wachsende Stärke bereitet euch vor, in den kommenden Zeiten zu dienen"
+description: "Martin Luther, empfangen durch Al Fike: „Die Lage der Menschheit beruht auf denen, die bereit sind in dieser Welt Veränderungen herbeizuführen.“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

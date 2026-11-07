@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euren Verstand und eure Seelen für Gottes Führung"
 menu_title: ""
-description: "Öffnet euren Verstand und eure Seelen für Gottes Führung"
+description: "Seretta Kem, empfangen durch Al Fike: „In erster Linie möchten wir an diesem Ort einen Knotenpunkt des Lichts erschaffen, der in diesem Teil der Welt …“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

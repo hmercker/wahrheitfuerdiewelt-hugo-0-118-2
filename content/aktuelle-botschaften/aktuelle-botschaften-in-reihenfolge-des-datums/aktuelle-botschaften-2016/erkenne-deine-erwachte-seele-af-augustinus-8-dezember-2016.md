@@ -1,7 +1,7 @@
 ---
 title: "Erkenne deine erwachte Seele"
 menu_title: ""
-description: "Erkenne deine erwachte Seele"
+description: "Augustinus, empfangen durch Al Fike: „Ich freue mich, zu euch zu kommen und mit euch zu sprechen, während ihr euch wieder zusammensetzt und eure …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

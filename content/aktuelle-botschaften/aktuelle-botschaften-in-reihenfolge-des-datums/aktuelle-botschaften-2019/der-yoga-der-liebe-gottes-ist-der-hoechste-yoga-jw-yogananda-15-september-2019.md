@@ -1,7 +1,7 @@
 ---
 title: "Der Yoga der Liebe Gottes ist der höchste Yoga"
 menu_title: ""
-description: "Der Yoga der Liebe Gottes ist der höchste Yoga"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich war vorhin mit euch allen in der schönen kleinen Kirche. Mein Freund hier, ich muss sagen, er ist heute …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

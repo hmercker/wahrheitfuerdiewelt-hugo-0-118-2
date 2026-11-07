@@ -1,7 +1,7 @@
 ---
 title: "Die Welt der Illusion"
 menu_title: ""
-description: "Die Welt der Illusion"
+description: "Vater, empfangen durch Child of God: „Mein tiefstes Verlangen gilt dir. Ich sehne mich danach, dass alle meine Kinder nach Hause kommen.“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

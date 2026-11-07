@@ -1,7 +1,7 @@
 ---
 title: "Daniel schreibt über seine Erfahrungen in der spirituellen Welt und über sein Leben auf Erden"
 menu_title: ""
-description: "Daniel schreibt über seine Erfahrungen in der spirituellen Welt und über sein Leben auf Erden"
+description: "Daniel, empfangen durch James Padgett: „Ich folge dem Meister, wenn ich auch auf Erden viele Jahre gelebt habe, bevor er kam, um die neuerliche Schenkung …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

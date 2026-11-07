@@ -1,7 +1,7 @@
 ---
 title: "Die innere Stimme hören"
 menu_title: ""
-description: "Die innere Stimme hören"
+description: "Jesus, empfangen von H: „Ich habe dich beobachtet, wie du den ganzen Tag über die Trancebotschaft nachdachtest, die ich im vergangenen Juni übermittelt …“"
 date: 2020-06-04 06:25:48+00:00
 draft: False
 hidden: True

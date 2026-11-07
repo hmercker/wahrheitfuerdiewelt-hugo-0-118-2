@@ -1,7 +1,7 @@
 ---
 title: "Erkennt die tiefe Sehnsucht aller Menschen nach Gottes Liebe an"
 menu_title: ""
-description: "Erkennt die tiefe Sehnsucht aller Menschen nach Gottes Liebe an"
+description: "Jesus, empfangen durch Al Fike: „Denn in eurem Herzen und eurer Seele gibt es eine tiefe Sehnsucht nach Gott und danach, das Geschenk zu empfangen, das er …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

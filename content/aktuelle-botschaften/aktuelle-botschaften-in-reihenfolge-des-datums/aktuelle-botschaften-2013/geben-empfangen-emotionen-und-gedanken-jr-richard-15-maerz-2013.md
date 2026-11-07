@@ -1,7 +1,7 @@
 ---
 title: "Geben, Empfangen, Emotionen und Gedanken"
 menu_title: ""
-description: "Geben, Empfangen, Emotionen und Gedanken"
+description: "Richard, empfangen durch James Reid: „Ich danke euch allen für eure ständige Liebe und Aufmerksamkeit, die ich sehr schätze. Ihr helft mir in meiner …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

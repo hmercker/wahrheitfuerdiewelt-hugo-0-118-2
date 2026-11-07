@@ -1,7 +1,7 @@
 ---
 title: "Himmlische Energie"
 menu_title: ""
-description: "Himmlische Energie"
+description: "Judas, empfangen durch Jimbeau Walsh m: „Ich freue mich, heute Abend bei meinem Freund zu sein, und ich möchte ein paar Worte sagen.“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

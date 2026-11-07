@@ -1,7 +1,7 @@
 ---
 title: "Die Engel unterstützen unsere Wahl für die 'Direkte Stimme'"
 menu_title: ""
-description: "Die Engel unterstützen unsere Wahl für die 'Direkte Stimme'"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir haben darauf gewartet, dass ihr an diesen Ort des Verständnisses und des Wissens um die Tiefe der Verpflichtung …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

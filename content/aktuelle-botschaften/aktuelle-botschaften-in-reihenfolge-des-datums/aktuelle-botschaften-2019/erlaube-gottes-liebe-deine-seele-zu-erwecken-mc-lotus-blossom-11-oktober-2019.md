@@ -1,7 +1,7 @@
 ---
 title: "Erlaube Gottes Liebe, deine Seele zu erwecken"
 menu_title: ""
-description: "Erlaube Gottes Liebe, deine Seele zu erwecken"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Ich begleite euch in eurem Kreis, wo ihr euch danach sehnt, die Liebe Gottes in eure Seele hineinzuziehen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

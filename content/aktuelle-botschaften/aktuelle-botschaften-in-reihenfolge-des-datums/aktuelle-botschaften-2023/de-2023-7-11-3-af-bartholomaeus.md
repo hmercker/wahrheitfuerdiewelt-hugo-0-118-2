@@ -1,7 +1,7 @@
 ---
 title: "Bitte setzt eure Bemühungen fort, die Barrieren zwischen Gott und der Menschheit abzubauen"
 menu_title: ""
-description: "Bitte setzt eure Bemühungen fort, die Barrieren zwischen Gott und der Menschheit abzubauen"
+description: "Bartholomäus, empfangen durch Al Fike: „Möge unser himmlischer Vater euch weiterhin segnen. Ich bete mit jedem von euch, der sich weiterhin anstrengt und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

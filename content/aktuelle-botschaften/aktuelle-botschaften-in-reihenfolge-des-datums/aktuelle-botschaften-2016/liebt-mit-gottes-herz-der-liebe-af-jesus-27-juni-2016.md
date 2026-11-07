@@ -1,7 +1,7 @@
 ---
 title: "Liebt mit Gottes Herz der Liebe"
 menu_title: ""
-description: "Liebt mit Gottes Herz der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Und obwohl ihr mit eurem so schweren Verstand mit so vielen Erinnerungen und Gedanken ringt und eure Seelen auf so viele …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

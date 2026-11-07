@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit, die in deiner Seele geschrieben steht, muss in jeder Sprache ausgesprochen werden"
 menu_title: ""
-description: "Die Wahrheit, die in deiner Seele geschrieben steht, muss in jeder Sprache ausgesprochen werden"
+description: "Jesus, empfangen durch Amada Reza: „[Lieber Gott, erfülle mich mit Deiner Liebe, um meine Gedanken zu Dir und Deinen Engeln zu erheben.“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

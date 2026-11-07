@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, wie sich Seelen in der Hölle weiterentwickeln"
 menu_title: ""
-description: "Johannes erklärt, wie sich Seelen in der Hölle weiterentwickeln"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte dir heute Nacht darüber erzählen, was spirituelle Wesen, die nicht die Göttliche Liebe des Vaters …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

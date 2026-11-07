@@ -1,7 +1,7 @@
 ---
 title: "Füttere die hungrige Seele mit Liebe"
 menu_title: ""
-description: "Füttere die hungrige Seele mit Liebe"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich danke meinem älteren Bruder Johannes für seine schöne Botschaft und für das Privileg, zu euch …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

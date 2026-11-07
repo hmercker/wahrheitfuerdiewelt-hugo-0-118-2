@@ -1,7 +1,7 @@
 ---
 title: "Entscheidet euch Gottes Willen zu umarmen"
 menu_title: ""
-description: "Entscheidet euch Gottes Willen zu umarmen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr seid alle dabei, einige große Schritte in eurem Leben zu machen, Schritte, die zum Dienst und zum Fluss der Liebe …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Percys Hinübergehen"
 menu_title: ""
-description: "Percys Hinübergehen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Auch ich grüßte den lieben Percy. Wir haben uns umarmt und gelacht, wissend, dass wir beide ein gutes Leben hatten …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

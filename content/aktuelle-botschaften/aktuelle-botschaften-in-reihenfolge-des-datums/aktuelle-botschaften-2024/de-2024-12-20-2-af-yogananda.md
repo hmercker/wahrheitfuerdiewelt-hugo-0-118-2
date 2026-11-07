@@ -1,7 +1,7 @@
 ---
 title: "Erfahrungen des Seelenerwachens"
 menu_title: ""
-description: "Erfahrungen des Seelenerwachens"
+description: "Yogananda, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Dieses liebe Instrument hat einige meiner Botschaften gelesen, die ich in den letzten …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

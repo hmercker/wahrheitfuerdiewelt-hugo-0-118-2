@@ -1,7 +1,7 @@
 ---
 title: "Beten für die Welt, besonders für das Weltheilzentrum"
 menu_title: ""
-description: "Beten für die Welt, besonders für das Weltheilzentrum"
+description: "Faith, empfangen durch Al Fike: „Diese Dinge werden in eurer Welt sehr gebraucht, und wenn ihr bei Gott seid, möget ihr die Freude in eurem Herzen spüren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

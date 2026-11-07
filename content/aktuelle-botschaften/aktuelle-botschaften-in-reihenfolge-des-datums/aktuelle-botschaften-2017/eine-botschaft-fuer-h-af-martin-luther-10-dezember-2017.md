@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft für H."
 menu_title: ""
-description: "Eine Botschaft für H."
+description: "Martin Luther, empfangen durch Al Fike: „Du hast ein tiefes Verlangen, deinen Brüdern und Schwestern in der Heimat (Deutschland) zu helfen, so wie ich es …“"
 date: 2020-08-01 06:25:48+00:246
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Predigt 34 - Jesajas Kampf gegen soziale Übel und Opfer"
 menu_title: ""
-description: "Predigt 34 - Jesajas Kampf gegen soziale Übel und Opfer"
+description: "Jesus, empfangen durch Dr Samuels: „Jesajas Hauptbemühungen, sein Volk zu erheben, richteten sich auf eine akzeptablere Lebenseinstellung, nicht nur im …“"
 date: 2020-08-01 06:25:48+00:06
 draft: False
 hidden: True

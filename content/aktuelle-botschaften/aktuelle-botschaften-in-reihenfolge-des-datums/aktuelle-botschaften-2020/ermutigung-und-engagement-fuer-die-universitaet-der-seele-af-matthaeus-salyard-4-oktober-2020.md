@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung und Engagement für die Universität der Seele"
 menu_title: ""
-description: "Ermutigung und Engagement für die Universität der Seele"
+description: "Matthäus & Professor Salyards, empfangen durch Al Fike: „Wir im Himmlischen Königreich freuen uns, dass ihr zusammengekommen seid, um die Wahrheit von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

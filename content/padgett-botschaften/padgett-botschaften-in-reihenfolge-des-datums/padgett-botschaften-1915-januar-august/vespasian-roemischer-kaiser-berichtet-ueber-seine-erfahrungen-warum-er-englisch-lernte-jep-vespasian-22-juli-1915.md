@@ -1,7 +1,7 @@
 ---
 title: "Vespasian, römischer Kaiser, berichtet über seine Erfahrungen. Warum er Englisch lernte"
 menu_title: ""
-description: "Vespasian, römischer Kaiser, berichtet über seine Erfahrungen. Warum er Englisch lernte"
+description: "Vespasian, empfangen durch James Padgett: „Ich wusste nichts von den wahren Lehren des Christentums oder von der Liebe, zu der sich die frühen Christen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

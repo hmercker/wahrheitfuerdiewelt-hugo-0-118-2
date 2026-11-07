@@ -1,7 +1,7 @@
 ---
 title: "Helen berichtet von ihrem neuen schönen Gewand als Ergebnis ihres spirituellen Fortschritts"
 menu_title: ""
-description: "Helen berichtet von ihrem neuen schönen Gewand als Ergebnis ihres spirituellen Fortschritts"
+description: "Helen, empfangen durch James Padgett: „Oh mein Liebster, wie sehr wünschte ich mir, dass du mich so sehen könntest, wie ich jetzt bin und die große Liebe …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

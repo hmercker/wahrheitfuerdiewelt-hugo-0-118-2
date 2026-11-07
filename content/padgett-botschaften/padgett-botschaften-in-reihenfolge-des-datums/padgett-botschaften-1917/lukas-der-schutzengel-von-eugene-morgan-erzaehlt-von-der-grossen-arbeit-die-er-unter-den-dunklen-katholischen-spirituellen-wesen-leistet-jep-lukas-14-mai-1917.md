@@ -1,7 +1,7 @@
 ---
 title: "Lukas, der Schutzengel von Eugene Morgan, erzählt von der großen Arbeit, die er unter den dunklen katholischen spirituellen Wesen leistet"
 menu_title: ""
-description: "Lukas, der Schutzengel von Eugene Morgan, erzählt von der großen Arbeit, die er unter den dunklen katholischen spirituellen Wesen leistet"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte die Gelegenheit nutzen, zu schreiben, solange mein lieber und persönlicher Schützling (Eugene Morgan) …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

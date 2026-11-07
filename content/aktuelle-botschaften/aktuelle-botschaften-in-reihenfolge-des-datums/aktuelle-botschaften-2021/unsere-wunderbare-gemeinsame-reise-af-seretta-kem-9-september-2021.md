@@ -1,7 +1,7 @@
 ---
 title: "Unsere wunderbare gemeinsame Reise"
 menu_title: ""
-description: "Unsere wunderbare gemeinsame Reise"
+description: "Seretta Kem, empfangen durch Al Fike: „Einige von euch sind mit dem vertraut, was wir in der Entwicklung mit dieser Gruppe tun. Und in der Tat verfeinern …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Liebe, die euch durch den Wandel trägt"
 menu_title: ""
-description: "Sucht die Liebe, die euch durch den Wandel trägt"
+description: "Johannes, empfangen durch Al Fike: „Denn es kommen große Veränderungen auf diese Welt zu und es gibt Zeiten, in denen ihr einander brauchen werdet, und ihr …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

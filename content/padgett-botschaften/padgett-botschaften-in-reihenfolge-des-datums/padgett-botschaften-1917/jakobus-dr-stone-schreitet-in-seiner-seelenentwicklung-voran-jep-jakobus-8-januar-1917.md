@@ -1,7 +1,7 @@
 ---
 title: "Jakobus: Dr. Stone schreitet in seiner Seelenentwicklung voran"
 menu_title: ""
-description: "Jakobus: Dr. Stone schreitet in seiner Seelenentwicklung voran"
+description: "Jakobus, empfangen durch James Padgett: „Ich möchte ein paar Worte zu dir und dem Dr. sagen, denn wie du weißt, interessiere ich mich besonders für ihn als …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

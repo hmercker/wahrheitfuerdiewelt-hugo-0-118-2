@@ -1,7 +1,7 @@
 ---
 title: "Aufbruch in eine neue Phase "
 menu_title: ""
-description: "Aufbruch in eine neue Phase "
+description: "Seretta Kem, empfangen durch Al Fike: „Morgen werdet ihr in der Dunkelkammer etwas anderes erleben als in den letzten Wochen. Es wird ein Vorgeschmack auf …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

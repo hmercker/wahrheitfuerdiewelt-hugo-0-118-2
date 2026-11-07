@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen schreibt einen sehr schönen Liebesbrief an ihren Seelenpartner"
 menu_title: ""
-description: "Ein spirituelles Wesen schreibt einen sehr schönen Liebesbrief an ihren Seelenpartner"
+description: "Frau Horner, empfangen durch James Padgett: „Viele Male war ich mit dir (Dr. Stone) und meinem Mann zusammen, während du über Dinge gesprochen hast, die …“"
 date: 2020-08-01 06:25:48+00:241
 draft: False
 hidden: True

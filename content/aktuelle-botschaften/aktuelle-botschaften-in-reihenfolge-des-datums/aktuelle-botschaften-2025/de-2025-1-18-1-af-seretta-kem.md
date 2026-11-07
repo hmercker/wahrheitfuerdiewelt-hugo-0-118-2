@@ -1,7 +1,7 @@
 ---
 title: "Das Bearbeiten des Nervensystems für eine klare Kommunikation"
 menu_title: ""
-description: "Das Bearbeiten des Nervensystems für eine klare Kommunikation"
+description: "Seretta Kem, empfangen durch Al Fike: „Alles, was wir tun, beruht darauf, dass wir das Geschenk der Göttlichen Liebe empfangen, und alles, was hier …“"
 date: 2025-01-18 06:00:00+00:10
 draft: False
 hidden: True

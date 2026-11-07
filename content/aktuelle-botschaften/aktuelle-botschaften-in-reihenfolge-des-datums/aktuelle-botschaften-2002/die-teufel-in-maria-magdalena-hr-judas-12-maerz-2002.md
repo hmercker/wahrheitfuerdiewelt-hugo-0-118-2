@@ -1,7 +1,7 @@
 ---
 title: "Die Teufel in Maria Magdalena"
 menu_title: ""
-description: "Die Teufel in Maria Magdalena"
+description: "Judas, empfangen durch H.: „[H.: Lieber Judas, ich möchte dir eine Frage zu dem stellen, was du mir gestern gesagt hast.“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

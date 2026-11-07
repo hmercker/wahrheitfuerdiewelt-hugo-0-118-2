@@ -1,7 +1,7 @@
 ---
 title: "Über die Göttliche Liebe und den Hintergrund von Judas"
 menu_title: ""
-description: "Über die Göttliche Liebe und den Hintergrund von Judas"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , es stimmt, dass ich dir gestern etwas mehr vermitteln wollte, als du schließlich erhalten hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gedanken bilden einen mächtigen Einfluss in eurer Welt"
 menu_title: ""
-description: "Gedanken bilden einen mächtigen Einfluss in eurer Welt"
+description: "Lukas, empfangen durch Al Fike: „Die Währungen der Welt sind von den niederen menschlichen Bedingungen und Wünschen. In diesem Austausch von Gedanken und …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid ruhig"
 menu_title: ""
-description: "Seid ruhig"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Seid still, damit ihr die Gegenwart Gottes spüren könnt. Das ist eine große Weisheit und doch seht ihr, dass …“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Auch Lukas bestätigt die Botschaft Professor Salyards"
 menu_title: ""
-description: "Auch Lukas bestätigt die Botschaft Professor Salyards"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte mein Zeugnis zu dem Professor Salyards' hinzufügen in Bezug auf \"Wer und Was ist Gott\".“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 31 : Auf diesem Felsen will ich meine Kirche bauen"
 menu_title: ""
-description: "Offenbarung 31 : Auf diesem Felsen will ich meine Kirche bauen"
+description: "Jesus, empfangen durch Dr Samuels: „Die Botschaft, die ich dir heute schreibe, beschäftigt sich sowohl mit der Rolle des Petrus als auch mit der Aussage …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

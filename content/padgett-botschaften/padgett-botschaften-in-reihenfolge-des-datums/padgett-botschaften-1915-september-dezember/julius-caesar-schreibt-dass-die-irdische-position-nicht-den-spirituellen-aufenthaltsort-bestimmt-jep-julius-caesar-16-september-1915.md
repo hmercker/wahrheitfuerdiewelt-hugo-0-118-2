@@ -1,7 +1,7 @@
 ---
 title: "Julius Cäsar schreibt, dass die irdische Position nicht den spirituellen Aufenthaltsort bestimmt"
 menu_title: ""
-description: "Julius Cäsar schreibt, dass die irdische Position nicht den spirituellen Aufenthaltsort bestimmt"
+description: "Julius Cäsar, empfangen von James Padgett: „Ich war Julius Cäsar und war der Kaiser von Rom und der Eroberer der Gallier und der Ägypter.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

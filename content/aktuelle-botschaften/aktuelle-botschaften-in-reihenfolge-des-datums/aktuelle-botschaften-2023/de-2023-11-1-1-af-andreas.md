@@ -1,7 +1,7 @@
 ---
 title: "Jeder von euch wählt die Reise seiner Seele"
 menu_title: ""
-description: "Jeder von euch wählt die Reise seiner Seele"
+description: "Andreas, empfangen durch Al Fike: „Die Liebe des Vaters sei mit euch, mit jeder anwesenden wunderbaren Seele, mit allen, die mit dieser Gruppe verbunden …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Fortschritt jenseits der Ebbe und Flut des irdischen Lebens"
 menu_title: ""
-description: "Fortschritt jenseits der Ebbe und Flut des irdischen Lebens"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Einen Großteil meiner Tage auf der Erde habe ich im Gebet verbracht, und je mehr ich gebetet habe, desto …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

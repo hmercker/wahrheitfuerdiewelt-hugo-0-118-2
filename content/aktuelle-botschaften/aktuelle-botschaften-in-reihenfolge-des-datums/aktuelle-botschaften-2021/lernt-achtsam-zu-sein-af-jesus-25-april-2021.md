@@ -1,7 +1,7 @@
 ---
 title: "Lernt, achtsam zu sein"
 menu_title: ""
-description: "Lernt, achtsam zu sein"
+description: "Jesus, empfangen durch Al Fike: „Wie viele Türen hat Gott geöffnet, damit wir heute in dieser Gebetsgemeinschaft zusammen sein können, in dieser …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

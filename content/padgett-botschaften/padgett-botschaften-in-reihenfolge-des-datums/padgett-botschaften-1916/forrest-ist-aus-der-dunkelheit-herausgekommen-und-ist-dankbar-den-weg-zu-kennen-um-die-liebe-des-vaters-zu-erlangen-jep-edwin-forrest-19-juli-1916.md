@@ -1,7 +1,7 @@
 ---
 title: "Forrest ist aus der Dunkelheit herausgekommen und ist dankbar, den Weg zu kennen, um die Liebe des Vaters zu erlangen"
 menu_title: ""
-description: "Forrest ist aus der Dunkelheit herausgekommen und ist dankbar, den Weg zu kennen, um die Liebe des Vaters zu erlangen"
+description: "Edwin Forrest, empfangen durch James Padgett: „Deine Frau ist mein Engel der Hoffnung in all meiner Finsternis gewesen, und ihre Zärtlichkeit und Liebe …“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

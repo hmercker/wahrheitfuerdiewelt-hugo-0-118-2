@@ -1,7 +1,7 @@
 ---
 title: "Eure Bemühungen sind zehnfach gesegnet"
 menu_title: ""
-description: "Eure Bemühungen sind zehnfach gesegnet"
+description: "Augustinus, empfangen durch Al Fike: „Alle, die sich zu dieser Arbeit verpflichten, sollen den Segen und die Unterstützung der Engel erhalten.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dienst - Anderen helfen"
 menu_title: ""
-description: "Dienst - Anderen helfen"
+description: "Andreas, empfangen durch Al Fike: „Jeder Einzelne von euch hier, jeder Einzelne von euch hier, jede kostbare und schöne Seele in diesem Kreis ist im Dienst …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

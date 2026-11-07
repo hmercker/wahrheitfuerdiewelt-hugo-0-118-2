@@ -1,7 +1,7 @@
 ---
 title: "Selim, ein Muslim, ist in seinem Paradies glücklich und hasst Christen nicht mehr"
 menu_title: ""
-description: "Selim, ein Muslim, ist in seinem Paradies glücklich und hasst Christen nicht mehr"
+description: "Selim, empfangen durch James Padgett: „Ich meine damit nicht, dass ich glaube, dass alle Menschen in ihrem Leben den Wahrheiten Gottes folgen oder dass sie …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

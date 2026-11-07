@@ -1,7 +1,7 @@
 ---
 title: "Nehmt die Vielfalt und einander in Akzeptanz und Liebe an"
 menu_title: ""
-description: "Nehmt die Vielfalt und einander in Akzeptanz und Liebe an"
+description: "Leytergus, empfangen durch Al Fike: „Die Winde der Veränderung sind alle um euch herum, und der Atem Gottes, Seine Liebe, ist über euch, über jeden von euch.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

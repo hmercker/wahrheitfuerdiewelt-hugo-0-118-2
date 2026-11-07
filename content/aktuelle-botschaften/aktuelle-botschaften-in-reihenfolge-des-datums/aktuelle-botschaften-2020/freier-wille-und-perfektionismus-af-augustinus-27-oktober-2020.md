@@ -1,7 +1,7 @@
 ---
 title: "Freier Wille und Perfektionismus"
 menu_title: ""
-description: "Freier Wille und Perfektionismus"
+description: "Augustinus, empfangen durch Al Fike: „Ja, die Gabe des freien Willens war von Anfang an ein Dilemma für die Menschheit. Die Macht der Wahl zu haben, ist …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

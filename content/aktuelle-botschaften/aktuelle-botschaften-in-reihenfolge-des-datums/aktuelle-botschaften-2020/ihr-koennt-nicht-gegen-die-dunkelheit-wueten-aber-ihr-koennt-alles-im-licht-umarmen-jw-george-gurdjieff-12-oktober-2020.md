@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt nicht gegen die Dunkelheit wüten, aber ihr könnt alles im Licht umarmen"
 menu_title: ""
-description: "Ihr könnt nicht gegen die Dunkelheit wüten, aber ihr könnt alles im Licht umarmen"
+description: "George Gurdjieff 1, empfangen durch Jimbeau Walsh: „Wenn eure Seele erwacht und anfängt, die Durchdringung des Schlafes und der Dunkelheit auf eurem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

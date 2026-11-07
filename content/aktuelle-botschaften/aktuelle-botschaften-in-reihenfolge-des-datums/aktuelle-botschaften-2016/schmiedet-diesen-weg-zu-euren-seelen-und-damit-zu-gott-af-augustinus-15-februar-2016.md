@@ -1,7 +1,7 @@
 ---
 title: "Schmiedet diesen Weg zu euren Seelen und damit zu Gott"
 menu_title: ""
-description: "Schmiedet diesen Weg zu euren Seelen und damit zu Gott"
+description: "Augustinus, empfangen durch Al Fike: „Mögen eure Seelen die tiefe Berührung des himmlischen Vaters erfahren, der eure Seelen erlöst, der eure Seelen in …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist getauft"
 menu_title: ""
-description: "Jesus ist getauft"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, das letzte Mal habe ich dir erzählt, wie Jesus ein angenehmes Gespräch bis in die Nacht mit seinem Freund …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

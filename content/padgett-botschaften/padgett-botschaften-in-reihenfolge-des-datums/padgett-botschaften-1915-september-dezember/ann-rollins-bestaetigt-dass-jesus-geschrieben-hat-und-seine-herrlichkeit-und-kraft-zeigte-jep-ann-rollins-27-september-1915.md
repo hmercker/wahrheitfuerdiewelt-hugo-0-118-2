@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
 menu_title: ""
-description: "Ann Rollins bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
+description: "Ann Rollins, empfangen von James Padgett: „Bisher haben wir dir vor allem von seiner Liebe, Schönheit und Demut geschrieben, aber wir haben sehr wenig von …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "In Liebe zusammenkommen"
 menu_title: ""
-description: "In Liebe zusammenkommen"
+description: "Andreas, empfangen durch Al Fike: „Wir werden uns in der Tat morgen eurer Feier anschließen, um die schönen Seelen in Liebe zusammenzubringen.“"
 date: 2020-08-01 06:25:48+00:240
 draft: False
 hidden: True

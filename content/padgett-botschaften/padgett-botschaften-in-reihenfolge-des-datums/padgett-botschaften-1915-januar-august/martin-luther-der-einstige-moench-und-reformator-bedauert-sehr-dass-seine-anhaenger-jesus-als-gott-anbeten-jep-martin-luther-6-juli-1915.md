@@ -1,7 +1,7 @@
 ---
 title: "Martin Luther, der einstige Mönch und Reformator, bedauert sehr, dass seine Anhänger Jesus als Gott anbeten"
 menu_title: ""
-description: "Martin Luther, der einstige Mönch und Reformator, bedauert sehr, dass seine Anhänger Jesus als Gott anbeten"
+description: "Martin Luther, empfangen durch James Padgett: „Ich schreibe mit Erlaubnis deiner Gruppe, und deswegen fühle ich mich nicht als Eindringling.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

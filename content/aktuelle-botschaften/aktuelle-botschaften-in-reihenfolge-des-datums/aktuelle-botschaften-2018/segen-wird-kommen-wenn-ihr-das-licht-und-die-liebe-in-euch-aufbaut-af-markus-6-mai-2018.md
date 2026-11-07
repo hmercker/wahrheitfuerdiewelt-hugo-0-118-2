@@ -1,7 +1,7 @@
 ---
 title: "Segen wird kommen, wenn ihr das Licht und die Liebe in euch aufbaut"
 menu_title: ""
-description: "Segen wird kommen, wenn ihr das Licht und die Liebe in euch aufbaut"
+description: "Markus, empfangen durch Al Fike: „Gott hat mir diesen Segen gegeben und ich übernehme diese Verantwortung gerne und mit Liebe, denn dies ist ein Ort des …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich bin mit euch"
 menu_title: ""
-description: "Ich bin mit euch"
+description: "Jesus, empfangen durch Al Fike: „Folgt mir zum Einssein mit Gott und ich werde euch den Weg weisen. Ich werde die Laterne der Wahrheit entzünden und sie …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

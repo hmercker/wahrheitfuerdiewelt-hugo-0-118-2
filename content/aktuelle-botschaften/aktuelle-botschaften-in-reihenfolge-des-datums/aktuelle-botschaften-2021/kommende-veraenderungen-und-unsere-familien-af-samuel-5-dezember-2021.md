@@ -1,7 +1,7 @@
 ---
 title: "Kommende Veränderungen und unsere Familien"
 menu_title: ""
-description: "Kommende Veränderungen und unsere Familien"
+description: "Samuel, empfangen durch Al Fike: „Möge Gottes großer Segen der Liebe über euch, geliebte, geliebte Seelen fließen. Die Bedingungen der Welt und der …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

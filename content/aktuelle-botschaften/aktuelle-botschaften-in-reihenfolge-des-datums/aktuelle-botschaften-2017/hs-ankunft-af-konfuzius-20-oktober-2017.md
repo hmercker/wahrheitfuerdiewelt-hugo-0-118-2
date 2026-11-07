@@ -1,7 +1,7 @@
 ---
 title: "H.'s Ankunft"
 menu_title: ""
-description: "H.'s Ankunft"
+description: "Konfuzius, empfangen durch Al Fike: „Habe ich euch nicht gesagt, dass meine kleinen Vögel zusammenschwärmen werden, dass sie meinen Ruf hören und kommen …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

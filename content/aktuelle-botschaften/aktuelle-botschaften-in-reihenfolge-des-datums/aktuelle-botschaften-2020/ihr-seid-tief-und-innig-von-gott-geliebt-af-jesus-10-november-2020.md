@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid tief und innig von Gott geliebt "
 menu_title: ""
-description: "Ihr seid tief und innig von Gott geliebt "
+description: "Jesus, empfangen durch Al Fike: „Möge der Friede der Gegenwart Gottes mit euch sein, geliebte Kinder. Und dass ihr, wenn ihr weiterhin gemeinsam auf diese …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

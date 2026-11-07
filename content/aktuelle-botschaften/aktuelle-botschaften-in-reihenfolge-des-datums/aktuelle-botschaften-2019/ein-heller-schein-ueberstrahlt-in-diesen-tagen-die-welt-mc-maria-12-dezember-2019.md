@@ -1,7 +1,7 @@
 ---
 title: "Ein heller Schein überstrahlt in diesen Tagen die Welt"
 menu_title: ""
-description: "Ein heller Schein überstrahlt in diesen Tagen die Welt"
+description: "Maria, empfangen durch Maureen Cardoso: „Es wird gefeiert, es gibt eine Ausdehnung der Liebe aus dem Herzen füreinander, Fremde, die anderen Freundlichkeit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

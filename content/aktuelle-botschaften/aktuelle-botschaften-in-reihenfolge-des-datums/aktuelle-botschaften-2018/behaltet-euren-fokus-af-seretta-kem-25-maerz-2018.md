@@ -1,7 +1,7 @@
 ---
 title: "Behaltet euren Fokus"
 menu_title: ""
-description: "Behaltet euren Fokus"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir haben heute an euren Körpern und eurem spirituellen Sein gearbeitet, um euch auf das Geschenk der Direkten …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

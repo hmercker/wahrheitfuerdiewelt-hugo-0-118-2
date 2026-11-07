@@ -1,7 +1,7 @@
 ---
 title: "Gottes Plan ist wunderschön"
 menu_title: ""
-description: "Gottes Plan ist wunderschön"
+description: "Maria, empfangen durch Al Fike: „Wisst ihr, wie sehr Gott euch liebt? Könnt ihr Seine Liebe zu euch nicht spüren?“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

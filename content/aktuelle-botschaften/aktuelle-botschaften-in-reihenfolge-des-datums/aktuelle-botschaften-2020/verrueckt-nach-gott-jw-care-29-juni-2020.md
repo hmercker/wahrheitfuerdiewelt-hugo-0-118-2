@@ -1,7 +1,7 @@
 ---
 title: "Verrückt nach Gott"
 menu_title: ""
-description: "Verrückt nach Gott"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Als der heilige Franziskus, wie ihr ihn kennt, als unser Bruder Franziskus von der Welt wegging...sagten …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

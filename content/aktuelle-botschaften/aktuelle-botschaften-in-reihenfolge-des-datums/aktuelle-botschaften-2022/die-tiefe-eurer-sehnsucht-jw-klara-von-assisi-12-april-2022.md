@@ -1,7 +1,7 @@
 ---
 title: "Die Tiefe eurer Sehnsucht"
 menu_title: ""
-description: "Die Tiefe eurer Sehnsucht"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ihr fragt euch vielleicht: \"Wenn ich die Macht hätte, Dinge in der Liebe zu ändern, was würde ich …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "William Stone ist froh, dass Jesus seinen Sohn Leslie ausgewählt hat"
 menu_title: ""
-description: "William Stone ist froh, dass Jesus seinen Sohn Leslie ausgewählt hat"
+description: "William Stone, empfangen von James Padgett: „Und ich möchte, dass er weiß, dass ich nicht vergessen habe, jede Gelegenheit zum Schreiben zu nutzen, wann …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

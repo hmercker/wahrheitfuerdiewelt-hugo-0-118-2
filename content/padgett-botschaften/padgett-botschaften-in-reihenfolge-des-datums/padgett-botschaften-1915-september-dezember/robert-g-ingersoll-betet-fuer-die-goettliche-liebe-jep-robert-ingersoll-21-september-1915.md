@@ -1,7 +1,7 @@
 ---
 title: "Robert G. Ingersoll betet für die Göttliche Liebe"
 menu_title: ""
-description: "Robert G. Ingersoll betet für die Göttliche Liebe"
+description: "Robert G. Ingersoll, empfangen von James Padgett: „Natürlich kannte ich Riddle, aber ich muss gestehen, dass er so schön und klug war, dass ich ihn kaum …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Antworten auf 100 Fragen"
 menu_title: ""
-description: "Antworten auf 100 Fragen"
+description: "Orion, empfangen durch Al Fike: „Ich danke euch, dass ihr euch zu dem Zweck versammelt habt, Informationen und Verbindungen zwischen unserem und eurem Volk …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

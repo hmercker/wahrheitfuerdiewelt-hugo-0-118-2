@@ -1,7 +1,7 @@
 ---
 title: "Den Glauben bewahren"
 menu_title: ""
-description: "Den Glauben bewahren"
+description: "Jesus, empfangen durch Kathryn Stokes: „Und wir sind hier, um euch bei eurer Arbeit auf jede Weise zu helfen, die wir können - auf jede Weise, die ihr für …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

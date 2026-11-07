@@ -1,7 +1,7 @@
 ---
 title: "Was kann den Menschen ins Göttliche erheben?"
 menu_title: ""
-description: "Was kann den Menschen ins Göttliche erheben?"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte heute Abend über das Thema schreiben: \"Was macht einen Menschen göttlich?\". Als der Mensch erschaffen …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mary ist so froh, dass Leslie eine so glorreiche Arbeit leistet, indem er den dunklen spirituellen Wesen hilft"
 menu_title: ""
-description: "Mary ist so froh, dass Leslie eine so glorreiche Arbeit leistet, indem er den dunklen spirituellen Wesen hilft"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich war den ganzen Abend anwesend, in der Hoffnung, du würdest mir die Gelegenheit zum Schreiben geben, und …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommunikation der Wahrheit und die Verwendung von Gleichnissen"
 menu_title: ""
-description: "Kommunikation der Wahrheit und die Verwendung von Gleichnissen"
+description: "Judas, empfangen durch H.: „Und warum machst du dir so viele Sorgen um deine Kleidung? Sieh dir nur die Lilien auf dem Felde an, wie sie wachsen; und sie …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

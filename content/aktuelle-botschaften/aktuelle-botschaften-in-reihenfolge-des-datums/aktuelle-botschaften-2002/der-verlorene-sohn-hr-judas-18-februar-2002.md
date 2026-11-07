@@ -1,7 +1,7 @@
 ---
 title: "Der verlorene Sohn"
 menu_title: ""
-description: "Der verlorene Sohn"
+description: "Judas, empfangen durch H.: „Am folgenden Tag verabschiedete Jesus sich von Zebedäus und dankte ihm für seine Gastfreundschaft.“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

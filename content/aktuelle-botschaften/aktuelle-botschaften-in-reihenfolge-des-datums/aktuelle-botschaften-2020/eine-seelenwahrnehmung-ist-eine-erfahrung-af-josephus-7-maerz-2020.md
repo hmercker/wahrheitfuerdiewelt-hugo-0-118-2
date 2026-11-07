@@ -1,7 +1,7 @@
 ---
 title: "Eine Seelenwahrnehmung ist eine Erfahrung"
 menu_title: ""
-description: "Eine Seelenwahrnehmung ist eine Erfahrung"
+description: "Josephus, empfangen durch Al Fike: „Ich glaube, dass ihr alle versteht, dass ihr, um Gott und euer wahres Selbst, eure Seele, wahrhaftig zu erkennen, die …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Komm, sitz bei mir"
 menu_title: ""
-description: "Komm, sitz bei mir"
+description: "Vater, empfangen durch Child of God: „Du bist müde und erschöpft und doch kommst du zu mir, um bei mir zu sitzen. Du hattest in den letzten Tagen viel im Kopf.“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

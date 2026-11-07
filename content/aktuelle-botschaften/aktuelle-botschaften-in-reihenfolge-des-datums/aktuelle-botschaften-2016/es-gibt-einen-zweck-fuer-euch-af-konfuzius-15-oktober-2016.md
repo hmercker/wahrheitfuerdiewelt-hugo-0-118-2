@@ -1,7 +1,7 @@
 ---
 title: "Es gibt einen Zweck für euch"
 menu_title: ""
-description: "Es gibt einen Zweck für euch"
+description: "Konfuzius, empfangen durch Al Fike: „Wie ich sehe, sind meine kleinen Vögelchen zurückgekehrt, um sich niederzulassen. (Rückkehr aus England, Deutschland …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

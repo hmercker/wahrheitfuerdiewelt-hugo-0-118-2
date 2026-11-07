@@ -1,7 +1,7 @@
 ---
 title: "Eure Seelen singen im Licht von Gottes Liebe"
 menu_title: ""
-description: "Eure Seelen singen im Licht von Gottes Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Und es ist wichtig, dass wir diese Dinge besprechen. Ich möchte euch erklären, was in diesem Kreis geschieht …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

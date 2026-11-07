@@ -1,7 +1,7 @@
 ---
 title: "Der Einfluss der spirituellen Wesen und der moralische Kompass"
 menu_title: ""
-description: "Der Einfluss der spirituellen Wesen und der moralische Kompass"
+description: "Judas, empfangen durch Jimbeau Walsh: „Der Magnetismus der Göttlichen Liebe zieht so viele Menschen in der geistigen Welt an. Ich danke euch allen dafür …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

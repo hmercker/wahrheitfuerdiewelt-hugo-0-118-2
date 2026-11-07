@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe ist das Maß für den Dienst an Gott"
 menu_title: ""
-description: "Die Liebe ist das Maß für den Dienst an Gott"
+description: "Johannes, empfangen durch Elisabeth Mack: „Diese Wünsche werden jeden Tag und in jedem Moment erfüllt, wenn Gott euch Gelegenheiten bietet, durch euren …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

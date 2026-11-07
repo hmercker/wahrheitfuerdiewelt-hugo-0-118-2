@@ -1,7 +1,7 @@
 ---
 title: "Segnungen der Heilung und Liebe"
 menu_title: ""
-description: "Segnungen der Heilung und Liebe"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr seid alle zusammen gekommen, um zu heilen, und ihr werdet Heilung empfangen, wenn ihr in dieser Gruppe zusammen seid.“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube der kleinen Kinder"
 menu_title: ""
-description: "Der Glaube der kleinen Kinder"
+description: "Judas, empfangen durch H.: „Mein, oh mein, mein lieber Bruder. Letzte Nacht hast du mich allein gelassen.“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

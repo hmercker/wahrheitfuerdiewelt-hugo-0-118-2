@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Göttlichen Liebe"
 menu_title: ""
-description: "Das Gesetz der Göttlichen Liebe"
+description: "Judas, empfangen durch H.: „Wie ich dir versprochen habe, bin ich wieder hier, Judas, dein Führer auf deiner Suche nach Gott und Seiner Liebe.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

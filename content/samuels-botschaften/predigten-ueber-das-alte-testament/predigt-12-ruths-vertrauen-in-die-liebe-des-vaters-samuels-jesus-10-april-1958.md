@@ -1,7 +1,7 @@
 ---
 title: "Predigt 12 - Ruth's Vertrauen in die Liebe des Vaters"
 menu_title: ""
-description: "Predigt 12 - Ruth's Vertrauen in die Liebe des Vaters"
+description: "Jesus, empfangen durch Dr Samuels: „In dieser Predigt zeige ich euch, wie das Alte Testament der Hebräer Geschichten entwickelt hat, in denen einige der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

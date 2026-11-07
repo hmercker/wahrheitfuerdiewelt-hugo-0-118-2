@@ -1,7 +1,7 @@
 ---
 title: "Der Zweck unserer seelenvollen Gaben"
 menu_title: ""
-description: "Der Zweck unserer seelenvollen Gaben"
+description: "Lukas, empfangen durch Al Fike: „In euren Teilen der Welt entspringt neues Leben aus dem Boden und erneuert Gottes Versprechen an jeden von euch …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

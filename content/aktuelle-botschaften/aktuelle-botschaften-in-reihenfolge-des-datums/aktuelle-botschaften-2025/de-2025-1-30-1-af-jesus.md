@@ -1,7 +1,7 @@
 ---
 title: "Betont die Wichtigkeit unserer Arbeit für seinen Dienst"
 menu_title: ""
-description: "Betont die Wichtigkeit unserer Arbeit für seinen Dienst"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte, dass ihr wisst, dass ich euch nahe bin, dass ich da bin, um euch zu unterstützen, zu leiten und zu segnen.“"
 date: 2025-01-30 06:00:00+00:10
 draft: False
 hidden: True

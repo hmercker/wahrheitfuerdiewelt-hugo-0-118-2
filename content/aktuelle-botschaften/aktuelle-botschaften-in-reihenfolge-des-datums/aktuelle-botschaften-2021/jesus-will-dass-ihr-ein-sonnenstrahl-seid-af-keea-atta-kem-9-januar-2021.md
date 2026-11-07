@@ -1,7 +1,7 @@
 ---
 title: "Jesus will, dass ihr ein Sonnenstrahl seid"
 menu_title: ""
-description: "Jesus will, dass ihr ein Sonnenstrahl seid"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Jesus möchte, dass ihr ein Sonnenstrahl seid, der die Welt erhellt. Und er geht mit euch allen und hilft euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

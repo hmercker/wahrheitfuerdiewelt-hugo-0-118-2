@@ -1,7 +1,7 @@
 ---
 title: "Es ist besser, ein Narr Gottes zu sein als ein König der Menschen"
 menu_title: ""
-description: "Es ist besser, ein Narr Gottes zu sein als ein König der Menschen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Vorhin habe ich mit dir Verbindung aufgenommen, während du gebetet hast. Zu eurer Überraschung und zur völligen …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

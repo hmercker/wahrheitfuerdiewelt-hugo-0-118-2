@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick bestätigt die Aussage der Reisen in die spirituelle Welt"
 menu_title: ""
-description: "Richter Syrick bestätigt die Aussage der Reisen in die spirituelle Welt"
+description: "Richter Syrick, empfangen durch James Padgett: „Nun, mein Freund, wie geht es dir in dieser Weihnachtszeit und wie geht es dem Doctor? Es ist schon einige …“"
 date: 2020-08-01 06:25:48+00:302
 draft: False
 hidden: True

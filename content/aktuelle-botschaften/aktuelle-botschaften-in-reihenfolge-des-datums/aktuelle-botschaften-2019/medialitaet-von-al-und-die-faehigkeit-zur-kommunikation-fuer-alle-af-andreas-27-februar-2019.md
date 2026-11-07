@@ -1,7 +1,7 @@
 ---
 title: "Medialität von Al und die Fähigkeit zur Kommunikation für alle"
 menu_title: ""
-description: "Medialität von Al und die Fähigkeit zur Kommunikation für alle"
+description: "Andreas, empfangen durch Al Fike: „Ich möchte ein wenig mehr über Medialität und dieses Instrument in Bezug auf die Arbeit, die wir gemeinsam tun, sprechen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein Grieche, der in der Zeit Christi lebte und ist jetzt ein himmlischer Engel"
 menu_title: ""
-description: "Ein Grieche, der in der Zeit Christi lebte und ist jetzt ein himmlischer Engel"
+description: "Gomeses, empfangen durch James Padgett: „Ich war kein Christ, sondern ein Anhänger des Pythagoras und glaubte an die Unsterblichkeit der Seele, aber nicht …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

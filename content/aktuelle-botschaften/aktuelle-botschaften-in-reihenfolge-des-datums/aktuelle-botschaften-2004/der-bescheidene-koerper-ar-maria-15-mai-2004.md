@@ -1,7 +1,7 @@
 ---
 title: "Der bescheidene Körper"
 menu_title: ""
-description: "Der bescheidene Körper"
+description: "Maria, empfangen durch Amada Reza: „Ich freue mich über diese Gelegenheit, hierher zu kommen und ein paar Gedanken aufzuschreiben, die dir helfen können.“"
 date: 2020-08-01 06:25:48+00:289
 draft: False
 hidden: True

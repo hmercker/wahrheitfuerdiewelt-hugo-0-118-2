@@ -1,7 +1,7 @@
 ---
 title: "Der Stil des Empfangens von Botschaften ist einzigartig für jeden Einzelnen"
 menu_title: ""
-description: "Der Stil des Empfangens von Botschaften ist einzigartig für jeden Einzelnen"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Meine Liebe ist mit jedem von euch geliebten Seelen. Ich danke euch für eure Hingabe, eure Seele zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

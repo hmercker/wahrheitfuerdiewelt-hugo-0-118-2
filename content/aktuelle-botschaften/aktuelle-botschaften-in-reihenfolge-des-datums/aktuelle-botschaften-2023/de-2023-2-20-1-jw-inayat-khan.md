@@ -1,7 +1,7 @@
 ---
 title: "Der Göttliche Gesang und Tanz"
 menu_title: ""
-description: "Der Göttliche Gesang und Tanz"
+description: "Inayat Khan, empfangen durch Jimbeau Walsh: „Auf der Erdebene gibt es eine große Vielfalt an Musik, aber keine große Vielfalt an himmlischer, durch Medien …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

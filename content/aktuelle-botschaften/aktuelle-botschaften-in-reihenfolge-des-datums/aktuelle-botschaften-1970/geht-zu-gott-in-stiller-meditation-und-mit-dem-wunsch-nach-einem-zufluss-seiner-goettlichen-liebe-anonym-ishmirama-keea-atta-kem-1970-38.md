@@ -1,7 +1,7 @@
 ---
 title: "Geht zu Gott in stiller Meditation und mit dem Wunsch nach einem Zufluss Seiner Göttlichen Liebe"
 menu_title: ""
-description: "Geht zu Gott in stiller Meditation und mit dem Wunsch nach einem Zufluss Seiner Göttlichen Liebe"
+description: "Ishmirama 1: „Weisheit ist etwas, das der Mensch begehren muss, Weisheit kommt nicht einfach zu uns. Es hilft zu lesen, es hilft zu studieren, aber der …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

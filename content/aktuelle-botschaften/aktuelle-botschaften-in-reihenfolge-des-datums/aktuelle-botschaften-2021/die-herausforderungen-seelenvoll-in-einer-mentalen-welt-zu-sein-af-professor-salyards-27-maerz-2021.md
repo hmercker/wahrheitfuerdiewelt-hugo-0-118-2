@@ -1,7 +1,7 @@
 ---
 title: "Die Herausforderungen, seelenvoll in einer mentalen Welt zu sein"
 menu_title: ""
-description: "Die Herausforderungen, seelenvoll in einer mentalen Welt zu sein"
+description: "Professor Salyards, empfangen durch Al Fike: „In der Tat, wenn ich mir diese Symbole anschaue, die ihr gezeigt habt, ist es interessant, dass diese …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommt zu Gott in Demut"
 menu_title: ""
-description: "Kommt zu Gott in Demut"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, kostbar für Gott, ihr müsst euch Gott mit Demut und Vertrauen und Glauben nähern.“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

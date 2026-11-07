@@ -1,7 +1,7 @@
 ---
 title: "Es ist jetzt an der Zeit, eure Seelen vorzubereiten"
 menu_title: ""
-description: "Es ist jetzt an der Zeit, eure Seelen vorzubereiten"
+description: "Johannes, empfangen durch Al Fike: „Denn dies verbessert nicht nur euren täglichen Zustand im Licht, sondern wird zu dem Licht beitragen, das ihr in die …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

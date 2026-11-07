@@ -1,7 +1,7 @@
 ---
 title: "Es ist nur eine Frage der Gnade"
 menu_title: ""
-description: "Es ist nur eine Frage der Gnade"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Jeder von euch ist in gewisser Weise eine geistliche Zuflucht. Auch wenn ihr vielleicht nicht die …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

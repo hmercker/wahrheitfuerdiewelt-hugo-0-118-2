@@ -1,7 +1,7 @@
 ---
 title: "Mills lernt die spirituellen Gesetze nach denen er lebt"
 menu_title: ""
-description: "Mills lernt die spirituellen Gesetze nach denen er lebt"
+description: "Samuel Mills, empfangen durch James Padgett: „Ich warte schon seit geraumer Zeit auf eine Gelegenheit, dir zu schreiben, da ich schon so oft gewartet und …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

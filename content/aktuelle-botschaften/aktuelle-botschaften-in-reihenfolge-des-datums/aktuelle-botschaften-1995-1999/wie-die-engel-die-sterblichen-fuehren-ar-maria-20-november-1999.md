@@ -1,7 +1,7 @@
 ---
 title: "Wie die Engel die Sterblichen führen"
 menu_title: ""
-description: "Wie die Engel die Sterblichen führen"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte eine kurze Botschaft an übermitteln, wie die Engel die Sterblichen führen. Wir werden in eine Welt …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

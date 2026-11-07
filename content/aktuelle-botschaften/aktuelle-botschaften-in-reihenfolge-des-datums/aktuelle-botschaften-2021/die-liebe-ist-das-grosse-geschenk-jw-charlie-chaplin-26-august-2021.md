@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe ist das große Geschenk"
 menu_title: ""
-description: "Die Liebe ist das große Geschenk"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Mit Ausnahme meiner Mutter und meines Bruders waren alle darauf konzentriert, zu überleben.“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

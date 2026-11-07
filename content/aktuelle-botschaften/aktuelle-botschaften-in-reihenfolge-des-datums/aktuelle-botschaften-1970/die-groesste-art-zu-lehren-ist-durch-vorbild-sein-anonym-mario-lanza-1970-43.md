@@ -1,7 +1,7 @@
 ---
 title: "Die größte Art zu lehren, ist durch Vorbild sein"
 menu_title: ""
-description: "Die größte Art zu lehren, ist durch Vorbild sein"
+description: "Mario Lanza: „Ich fühle mich sehr geehrt und privilegiert, heute Abend in eure Mitte zu kommen, um mit einer Gruppe zu sein, die den großen Wunsch hat …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

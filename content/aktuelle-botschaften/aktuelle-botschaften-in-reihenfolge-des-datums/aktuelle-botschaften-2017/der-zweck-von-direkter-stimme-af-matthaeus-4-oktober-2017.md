@@ -1,7 +1,7 @@
 ---
 title: "Der Zweck von Direkter Stimme"
 menu_title: ""
-description: "Der Zweck von Direkter Stimme"
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte euch helfen zu verstehen, warum diese Gabe wichtig ist, wie sie andere beeinflussen wird, damit sie einer …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

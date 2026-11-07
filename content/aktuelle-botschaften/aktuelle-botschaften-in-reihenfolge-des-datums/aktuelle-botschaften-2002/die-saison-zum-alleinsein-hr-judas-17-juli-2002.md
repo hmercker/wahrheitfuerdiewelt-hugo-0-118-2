@@ -1,7 +1,7 @@
 ---
 title: "Die Saison zum Alleinsein"
 menu_title: ""
-description: "Die Saison zum Alleinsein"
+description: "Judas, empfangen durch H.: „Ja, nimm ein Blatt Papier und schreibe! Zu jedem Ding gibt es eine Jahreszeit, und zu jedem Zweck unter dem Himmel eine Zeit …“"
 date: 2020-08-01 06:25:48+00:236
 draft: False
 hidden: True

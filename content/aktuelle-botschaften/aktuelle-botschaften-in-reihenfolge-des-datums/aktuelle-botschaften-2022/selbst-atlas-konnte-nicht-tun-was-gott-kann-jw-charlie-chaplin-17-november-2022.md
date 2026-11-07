@@ -1,7 +1,7 @@
 ---
 title: "Selbst Atlas konnte nicht tun, was Gott kann!"
 menu_title: ""
-description: "Selbst Atlas konnte nicht tun, was Gott kann!"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Und wie ich schon gesagt habe und wie ihr vielleicht in meinen Filmen gesehen habt, konnte ich um …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

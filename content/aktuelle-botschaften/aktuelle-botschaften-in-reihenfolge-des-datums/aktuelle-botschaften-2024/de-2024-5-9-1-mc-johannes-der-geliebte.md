@@ -1,7 +1,7 @@
 ---
 title: "Der Zyklus des Lebens, der Zyklus der Veränderung"
 menu_title: ""
-description: "Der Zyklus des Lebens, der Zyklus der Veränderung"
+description: "Johannes der Geliebte, empfangen durch Maureen Cardoso: „Es ist ein Segen, dass ich heute Abend hierher kommen kann, um euch eine Rede zu halten. Ich kann …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

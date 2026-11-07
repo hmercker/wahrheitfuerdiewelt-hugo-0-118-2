@@ -1,7 +1,7 @@
 ---
 title: "Lektion 2 - Die Wahl: Entscheide dich, deine Wege und dein Verständnis der Welt zu ändern"
 menu_title: ""
-description: "Lektion 2 - Die Wahl: Entscheide dich, deine Wege und dein Verständnis der Welt zu ändern"
+description: "Jesus, empfangen durch Al Fike: „Mögen eure Seelen durch die Liebe des Vaters gesegnet werden, geliebte Kinder. Denn eure Erde befindet sich in einem …“"
 date: 2020-10-01 06:25:48+00:73
 draft: False
 hidden: True

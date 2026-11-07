@@ -1,7 +1,7 @@
 ---
 title: "Erfreut über unsere Fortschritte"
 menu_title: ""
-description: "Erfreut über unsere Fortschritte"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist schön zu sehen, dass unter den Kindern Frieden herrscht. Was für ein Geschenk ist es für uns im Himmelreich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

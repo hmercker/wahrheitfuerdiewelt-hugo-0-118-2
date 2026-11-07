@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitungen für das Laurelville-Retreat"
 menu_title: ""
-description: "Vorbereitungen für das Laurelville-Retreat"
+description: "Michael Collier, empfangen durch Al Fike: „Aber heute bin ich hier, um euch zu ermutigen und zu leiten. Ihr steht an der Schwelle großer Ereignisse und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

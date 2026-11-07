@@ -1,7 +1,7 @@
 ---
 title: "Die Göttlichen Wahrheiten muss der ganzen Menschheit bekannt gemacht werden"
 menu_title: ""
-description: "Die Göttlichen Wahrheiten muss der ganzen Menschheit bekannt gemacht werden"
+description: "Jesus, empfangen durch James Padgett: „Deine Gedanken von heute und vor allem von heute Abend haben dich in einen besseren spirituellen Zustand versetzt …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

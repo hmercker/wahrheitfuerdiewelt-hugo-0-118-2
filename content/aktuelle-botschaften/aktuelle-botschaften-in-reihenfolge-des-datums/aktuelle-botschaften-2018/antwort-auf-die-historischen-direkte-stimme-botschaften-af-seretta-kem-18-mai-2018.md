@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf die historischen Direkte Stimme Botschaften"
 menu_title: ""
-description: "Antwort auf die historischen Direkte Stimme Botschaften"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie ich sehe, habt ihr einige Fragen bezüglich der Botschaften aus der Vergangenheit, von der früheren Gruppe, die …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

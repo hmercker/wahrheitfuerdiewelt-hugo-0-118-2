@@ -1,7 +1,7 @@
 ---
 title: "Antworten zur Evolution"
 menu_title: ""
-description: "Antworten zur Evolution"
+description: "Augustinus, empfangen durch Al Fike: „Der Verstand der Menschen ist in der Tat sehr aktiv. Die Fragen über die Evolution der Menschheit die gestellt …“"
 date: 2025-01-27 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Genug ist langweilig"
 menu_title: ""
-description: "Genug ist langweilig"
+description: "Maria, empfangen durch Amada Reza: „Es ist wichtig, sich daran zu erinnern, dass ich nur eine Frau war, so wie mein Sohn nur ein Mann war.“"
 date: 2020-08-01 06:25:48+00:287
 draft: False
 hidden: True

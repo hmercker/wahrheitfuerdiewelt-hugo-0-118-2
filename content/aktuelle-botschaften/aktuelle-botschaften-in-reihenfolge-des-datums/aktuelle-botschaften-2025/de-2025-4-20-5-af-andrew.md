@@ -1,7 +1,7 @@
 ---
 title: "Es kommt eine große Veränderung auf die Welt zu, die Licht, Freude und Frieden bringen wird"
 menu_title: ""
-description: "Es kommt eine große Veränderung auf die Welt zu, die Licht, Freude und Frieden bringen wird"
+description: "Andreas, empfangen durch Al Fike: „Ich spüre, wie sich in der Welt eine Dynamik aufbaut, eine Dynamik, die große Veränderungen und große Heilung bringen wird.“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir begegnen Sarah"
 menu_title: ""
-description: "Wir begegnen Sarah"
+description: "Sarah, empfangen durch Kathryn Stokes: „Lieber Kathryn, du hast dich heute verärgert und frustriert gefühlt und vielleicht beeinträchtigen diese Gefühle …“"
 date: 2020-08-01 06:25:48+00:290
 draft: False
 hidden: True

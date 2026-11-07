@@ -1,7 +1,7 @@
 ---
 title: "Die Öffnung eurer Seele für das Geschenk der göttlichen Liebe bringt Sühne"
 menu_title: ""
-description: "Die Öffnung eurer Seele für das Geschenk der göttlichen Liebe bringt Sühne"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Geliebte Seelen, indem ihr aus eurem Wesen heraus die Essenz eurer Seele öffnet und das Geschenk, das so …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

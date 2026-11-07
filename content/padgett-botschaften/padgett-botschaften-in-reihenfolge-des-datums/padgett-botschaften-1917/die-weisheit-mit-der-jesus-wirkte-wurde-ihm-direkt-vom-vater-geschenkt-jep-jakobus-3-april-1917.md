@@ -1,7 +1,7 @@
 ---
 title: "Die Weisheit, mit der Jesus wirkte, wurde ihm direkt vom Vater geschenkt"
 menu_title: ""
-description: "Die Weisheit, mit der Jesus wirkte, wurde ihm direkt vom Vater geschenkt"
+description: "Jakobus, empfangen durch James Padgett: „Ich werde heute Abend nicht lange schreiben, sondern bete zum Vater, dass er euch segnet und euren Glauben wachsen …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

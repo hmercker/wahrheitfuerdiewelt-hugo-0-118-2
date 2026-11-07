@@ -1,7 +1,7 @@
 ---
 title: "Es ist die Seelenentwicklung, die für die Menschheit wichtig ist"
 menu_title: ""
-description: "Es ist die Seelenentwicklung, die für die Menschheit wichtig ist"
+description: "Keea Atta Kem: „Es ist schon einige Zeit her, dass ich zu euch gekommen bin und mit euch gesprochen habe, meine Freunde, aber ich wollte sehen, wie ihr …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

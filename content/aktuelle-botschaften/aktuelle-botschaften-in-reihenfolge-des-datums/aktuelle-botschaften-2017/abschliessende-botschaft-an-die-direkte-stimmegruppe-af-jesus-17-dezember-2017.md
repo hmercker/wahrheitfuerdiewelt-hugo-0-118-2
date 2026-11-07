@@ -1,7 +1,7 @@
 ---
 title: "Abschließende Botschaft an die Direkte Stimme-Gruppe"
 menu_title: ""
-description: "Abschließende Botschaft an die Direkte Stimme-Gruppe"
+description: "Jesus, empfangen durch Al Fike: „Denn ihr habt eine Ebene des spirituellen Wachstums und des Seelenwachstums erreicht, die viele Ausdrücke eurer Seele und …“"
 date: 2020-08-01 06:25:48+00:264
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gebet und Zufluchtort"
 menu_title: ""
-description: "Gebet und Zufluchtort"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine vielen lieben Mäuse. Ich entschuldige mich für meine Abwesenheit, aber ich möchte euch sagen, dass …“"
 date: 2025-01-23 06:00:00+00:10
 draft: False
 hidden: True

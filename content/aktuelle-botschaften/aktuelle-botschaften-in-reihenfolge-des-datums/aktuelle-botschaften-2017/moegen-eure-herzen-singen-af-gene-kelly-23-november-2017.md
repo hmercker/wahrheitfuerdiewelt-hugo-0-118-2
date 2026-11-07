@@ -1,7 +1,7 @@
 ---
 title: "Mögen eure Herzen singen"
 menu_title: ""
-description: "Mögen eure Herzen singen"
+description: "Gene Kelly, empfangen durch Al Fike: „Sie sind gespannt und beobachten euren Fortschritt, denn wir alle wollen der Menschheit Freude und Liebe bringen.“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

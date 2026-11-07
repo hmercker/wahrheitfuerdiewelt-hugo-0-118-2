@@ -1,7 +1,7 @@
 ---
 title: "Predigt 17 - König David, ein Mann Gottes"
 menu_title: ""
-description: "Predigt 17 - König David, ein Mann Gottes"
+description: "Jesus, empfangen durch Dr Samuels: „Ein weiteres Beispiel für Davids Nachsicht ist, dass er Abischai, Joabs Bruder, daran hinderte, Simei, einen Mann aus …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

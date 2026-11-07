@@ -1,7 +1,7 @@
 ---
 title: "Übergang: Das neu angekommene spirituelle Wesen"
 menu_title: ""
-description: "Übergang: Das neu angekommene spirituelle Wesen"
+description: "Amy, empfangen durch Kathryn Stokes: „Liebe Kathryn, wie dir schon oft gesagt wurde, gibt es immer jemanden, der die Zeit, die Neigung und den Wunsch hat …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

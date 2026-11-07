@@ -1,7 +1,7 @@
 ---
 title: "Es sind große Pläne im Gange"
 menu_title: ""
-description: "Es sind große Pläne im Gange"
+description: "John F Kennedy, empfangen durch Al Fike: „Ich habe auf meine Weise versucht, einen gewissen Anflug von Ordnung in eure Welt zu bringen, und ich war als …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

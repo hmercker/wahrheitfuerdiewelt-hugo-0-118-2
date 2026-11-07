@@ -1,7 +1,7 @@
 ---
 title: "Öffnet eure Seele für das Licht Gottes"
 menu_title: ""
-description: "Öffnet eure Seele für das Licht Gottes"
+description: "Bartholomäu, empfangen durch Al Fike: „Möge sich die Tür für euch weit öffnen, meine Freunde, die Tür der Liebe Gottes. Ihr kontrolliert den Riegel, der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

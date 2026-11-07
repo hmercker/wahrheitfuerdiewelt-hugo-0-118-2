@@ -1,7 +1,7 @@
 ---
 title: "Hört auf eure Seele, nicht auf die Illusionen eures Verstandes"
 menu_title: ""
-description: "Hört auf eure Seele, nicht auf die Illusionen eures Verstandes"
+description: "Augustinus, empfangen durch Al Fike: „So wie die Liebe des Vaters weiterhin in eure Seele eingeflößt wird, so gibt es entsprechende Verschiebungen …“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

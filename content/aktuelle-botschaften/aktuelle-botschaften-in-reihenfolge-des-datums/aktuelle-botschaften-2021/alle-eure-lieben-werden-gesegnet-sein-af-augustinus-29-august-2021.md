@@ -1,7 +1,7 @@
 ---
 title: "Wir werden gebraucht, um Licht in der Welt zu verbreiten"
 menu_title: ""
-description: "Wir werden gebraucht, um Licht in der Welt zu verbreiten"
+description: "Augustinus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen fließen, geliebte und kostbare Seelen des Lichts in der Welt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

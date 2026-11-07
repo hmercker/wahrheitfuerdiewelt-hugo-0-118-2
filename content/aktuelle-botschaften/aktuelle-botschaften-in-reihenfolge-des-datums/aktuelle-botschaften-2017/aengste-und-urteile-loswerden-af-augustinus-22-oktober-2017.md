@@ -1,7 +1,7 @@
 ---
 title: "Ängste und Urteile loswerden"
 menu_title: ""
-description: "Ängste und Urteile loswerden"
+description: "Augustinus, empfangen durch Al Fike: „Ja, für jemanden, der oft sehr ernst ist, würde ich zustimmen, dass Lachen die beste Medizin ist.“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

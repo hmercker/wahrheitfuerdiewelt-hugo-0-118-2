@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit kommt durch die Seele, die durch Gottes Liebe erweckt wurde"
 menu_title: ""
-description: "Die Wahrheit kommt durch die Seele, die durch Gottes Liebe erweckt wurde"
+description: "Lukas, empfangen durch Al Fike: „Meine lieben Söhne, ihr habt viele Fragen. Ihr sucht viele Antworten.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

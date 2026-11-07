@@ -1,7 +1,7 @@
 ---
 title: "Einladung, täglich mit Lorraine zu beten, um Belehrungen zu erhalten"
 menu_title: ""
-description: "Einladung, täglich mit Lorraine zu beten, um Belehrungen zu erhalten"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch einladen, jeden Tag im Gebet zusammenzukommen. Dabei werden wir einige Lehren hervorbringen, die ihr …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

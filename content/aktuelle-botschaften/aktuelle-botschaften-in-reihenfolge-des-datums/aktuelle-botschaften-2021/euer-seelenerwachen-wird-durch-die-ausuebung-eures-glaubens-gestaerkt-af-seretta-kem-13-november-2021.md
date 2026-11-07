@@ -1,7 +1,7 @@
 ---
 title: "Euer Seelenerwachen wird durch die Ausübung eures Glaubens gestärkt "
 menu_title: ""
-description: "Euer Seelenerwachen wird durch die Ausübung eures Glaubens gestärkt "
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr erhaltet weiterhin den Segen Gottes und den Segen und die Hilfe eurer Engelsfreunde und dessen, was ihr eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

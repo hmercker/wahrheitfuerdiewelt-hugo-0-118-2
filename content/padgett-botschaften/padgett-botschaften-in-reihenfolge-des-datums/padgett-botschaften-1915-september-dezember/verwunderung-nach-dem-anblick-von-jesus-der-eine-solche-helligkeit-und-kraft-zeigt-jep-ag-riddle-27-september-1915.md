@@ -1,7 +1,7 @@
 ---
 title: "Verwunderung nach dem Anblick von Jesus, der eine solche Helligkeit und Kraft zeigt"
 menu_title: ""
-description: "Verwunderung nach dem Anblick von Jesus, der eine solche Helligkeit und Kraft zeigt"
+description: "A.G. Riddle, empfangen von James Padgett: „Ich werde heute Abend nur ein paar Zeilen schreiben, da ich mich so sehr darüber wundere, was geschah, als Jesus …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

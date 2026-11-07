@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Stephanus, dass Herr Padgett für die Arbeit auserwählt wurde"
 menu_title: ""
-description: "Bestätigung durch Stephanus, dass Herr Padgett für die Arbeit auserwählt wurde"
+description: "Stephanus, empfangen durch James Padgett: „Ich starb den in der Bibel dargestellten Tod und Saulus, der mein schlimmster Verfolger war, ist dieselbe …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Betet für eure Liebsten"
 menu_title: ""
-description: "Betet für eure Liebsten"
+description: "Mylora, empfangen durch Al Fike: „Segen für euch Freunde der Erde, Kinder Gottes. Geliebte und wunderbare Freunde, möget ihr weiterhin auf dem Pfad des …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

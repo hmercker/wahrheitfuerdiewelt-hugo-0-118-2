@@ -1,7 +1,7 @@
 ---
 title: "Das Thema des Dienstes"
 menu_title: ""
-description: "Das Thema des Dienstes"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Wir haben alle dem Thema des Dienens zugehört und auch ich habe darüber in meinem Leben nachgedacht.“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

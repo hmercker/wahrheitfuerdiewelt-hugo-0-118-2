@@ -1,7 +1,7 @@
 ---
 title: "Seid in heiliger Verbundenheit mit Gott"
 menu_title: ""
-description: "Seid in heiliger Verbundenheit mit Gott"
+description: "Jesaja, empfangen durch Al Fike: „Denn ihr seid auf seinen Segen angewiesen. Ihr braucht all das, was Gott euch zu geben hat.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

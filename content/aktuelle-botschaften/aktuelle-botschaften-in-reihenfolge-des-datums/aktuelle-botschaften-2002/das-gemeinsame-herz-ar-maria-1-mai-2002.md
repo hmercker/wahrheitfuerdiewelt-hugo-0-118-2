@@ -1,7 +1,7 @@
 ---
 title: "Das gemeinsame Herz"
 menu_title: ""
-description: "Das gemeinsame Herz"
+description: "Maria, empfangen durch Amada Reza: „Diese Liebe hat meinen Seelenzustand soweit erhöht, dass ich in ein neues Wesen - einen Göttlichen Engel - verwandelt …“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

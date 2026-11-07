@@ -1,7 +1,7 @@
 ---
 title: "Ich fühlte die Gnade Gottes"
 menu_title: ""
-description: "Ich fühlte die Gnade Gottes"
+description: "Arthur Conan Doyle, empfangen durch Jimbeau Walsh: „Ihr kennt mich als Schriftsteller. Die Bücher, die ich geschrieben habe, die Geschichten, die ich …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

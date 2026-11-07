@@ -1,7 +1,7 @@
 ---
 title: "Die politische Lage in Galiläa"
 menu_title: ""
-description: "Die politische Lage in Galiläa"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, bist du mit unseren Botschaften nicht zufrieden? Du brennst vor dem Wunsch, mehr über das Leben Jesu zu …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

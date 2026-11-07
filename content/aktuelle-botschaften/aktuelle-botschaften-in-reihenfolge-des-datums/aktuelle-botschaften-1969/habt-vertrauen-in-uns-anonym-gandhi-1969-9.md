@@ -1,7 +1,7 @@
 ---
 title: "Habt Vertrauen in uns"
 menu_title: ""
-description: "Habt Vertrauen in uns"
+description: "Gandhi: „Geliebte Freunde der Erde. Mein größter Wunsch für euch und eure Gruppe ist es, die Menschen auf dieser Erde davon überzeugen zu können, dass ich …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

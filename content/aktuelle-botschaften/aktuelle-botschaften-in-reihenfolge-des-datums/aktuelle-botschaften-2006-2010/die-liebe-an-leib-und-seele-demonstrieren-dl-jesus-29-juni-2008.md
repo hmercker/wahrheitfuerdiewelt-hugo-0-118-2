@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe an Leib und Seele demonstrieren"
 menu_title: ""
-description: "Die Liebe an Leib und Seele demonstrieren"
+description: "Jesus, empfangen durch David Lampron: „Und ich möchte euch versichern, was ich nicht brauche, sondern sagen werde, dass Er jeden von euch heute mit einem …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

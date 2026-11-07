@@ -1,7 +1,7 @@
 ---
 title: "Akzeptieren der Unterschiede"
 menu_title: ""
-description: "Akzeptieren der Unterschiede"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ich finde es amüsant, dass ihr diese geliebten Seelen (Sikh-Anhänger) eingeladen habt. Mein Amüsement kommt von …“"
 date: 2020-08-01 06:25:48+00:239
 draft: False
 hidden: True

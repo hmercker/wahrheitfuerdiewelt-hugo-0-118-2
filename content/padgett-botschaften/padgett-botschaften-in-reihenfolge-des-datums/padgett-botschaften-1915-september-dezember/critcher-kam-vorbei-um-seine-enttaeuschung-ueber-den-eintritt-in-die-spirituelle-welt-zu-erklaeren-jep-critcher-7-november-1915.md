@@ -1,7 +1,7 @@
 ---
 title: "Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären"
 menu_title: ""
-description: "Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären"
+description: "John Critcher, empfangen durch James Padgett: „Du musst dich an mich erinnern, denn ich hatte mein Büro im gleichen Gebäude wie du, als ich als Anwalt …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

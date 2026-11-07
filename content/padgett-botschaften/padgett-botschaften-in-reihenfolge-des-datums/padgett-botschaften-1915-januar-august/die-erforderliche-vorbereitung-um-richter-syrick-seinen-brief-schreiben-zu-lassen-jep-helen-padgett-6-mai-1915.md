@@ -1,7 +1,7 @@
 ---
 title: "Die erforderliche Vorbereitung um Richter Syrick seinen Brief schreiben zu lassen"
 menu_title: ""
-description: "Die erforderliche Vorbereitung um Richter Syrick seinen Brief schreiben zu lassen"
+description: "Helen, empfangen durch James Padgett: „Nun mein Liebling, du hast einen relativ langen Brief vom Richter erhalten und einen äußerst redegewandten und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

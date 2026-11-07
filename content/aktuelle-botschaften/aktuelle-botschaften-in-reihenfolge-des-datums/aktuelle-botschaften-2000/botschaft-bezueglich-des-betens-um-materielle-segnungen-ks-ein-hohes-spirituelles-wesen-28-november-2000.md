@@ -1,7 +1,7 @@
 ---
 title: "Botschaft bezüglich des Betens um materielle Segnungen"
 menu_title: ""
-description: "Botschaft bezüglich des Betens um materielle Segnungen"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Frage: Wie werden Gebete erhört, wenn sie hauptsächlich auf materielle Erfolge, Gewinne und …“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebetes wird allen zugute kommen"
 menu_title: ""
-description: "Die Kraft des Gebetes wird allen zugute kommen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Es gibt viele im spirituellen Bereich, die heute Abend mit euch sind. Ihr seid verbunden mit den vielen Seelen …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Urteil"
 menu_title: ""
-description: "Das Urteil"
+description: "Judas, empfangen durch H: „Fühlst du dich jetzt besser? Wenn ja, werde ich, wie ich dir gestern versprochen habe, eine kurze Nachricht überbringen.“"
 date: 2020-08-01 06:25:48+00:237
 draft: False
 hidden: True

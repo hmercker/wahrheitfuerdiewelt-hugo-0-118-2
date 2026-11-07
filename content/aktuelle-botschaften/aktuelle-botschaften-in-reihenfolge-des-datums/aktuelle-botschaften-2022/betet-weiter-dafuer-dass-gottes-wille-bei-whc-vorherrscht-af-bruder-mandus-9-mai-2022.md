@@ -1,7 +1,7 @@
 ---
 title: "Betet weiter dafür, dass Gottes Wille bei WHC vorherrscht"
 menu_title: ""
-description: "Betet weiter dafür, dass Gottes Wille bei WHC vorherrscht"
+description: "Bruder Mandus, empfangen durch Al Fike: „Möge Gott mit euch sein, meine Freunde. Die heilende Berührung Gottes ist so wichtig und wird in eurer Welt so …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

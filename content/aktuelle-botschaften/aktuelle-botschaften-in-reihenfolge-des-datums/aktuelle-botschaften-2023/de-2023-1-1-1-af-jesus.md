@@ -1,7 +1,7 @@
 ---
 title: "Segen für das neue Jahr"
 menu_title: ""
-description: "Segen für das neue Jahr"
+description: "Jesus, empfangen durch Al Fiek: „Danke für euer schönes Gebet. In ihrem Verstand glauben viele, dass sie den Gipfel der menschlichen Entwicklung und des …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

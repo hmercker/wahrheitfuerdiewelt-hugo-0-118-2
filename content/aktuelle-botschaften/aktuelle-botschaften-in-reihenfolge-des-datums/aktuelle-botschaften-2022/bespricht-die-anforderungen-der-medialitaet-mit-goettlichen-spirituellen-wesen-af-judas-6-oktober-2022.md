@@ -1,7 +1,7 @@
 ---
 title: "Bespricht die Anforderungen der Medialität mit göttlichen Spirituellen Wesen"
 menu_title: ""
-description: "Bespricht die Anforderungen der Medialität mit göttlichen Spirituellen Wesen"
+description: "Judas, empfangen durch Al Fike: „Ich war bei eurem Gespräch über Medialität, Instrumentalität und all die Aspekte des Geistes anwesend, die die …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

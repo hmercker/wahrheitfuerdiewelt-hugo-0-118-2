@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet alle in das himmlische Königreich eintreten"
 menu_title: ""
-description: "Ihr werdet alle in das himmlische Königreich eintreten"
+description: "Augustinus, empfangen durch Al Fike: „Möget ihr weiterhin nach dem Licht greifen und den großen Segen der Berührung Gottes auf eurer Seele suchen.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

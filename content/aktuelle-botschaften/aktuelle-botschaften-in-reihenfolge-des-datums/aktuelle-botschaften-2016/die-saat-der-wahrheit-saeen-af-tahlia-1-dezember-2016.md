@@ -1,7 +1,7 @@
 ---
 title: "Die Saat der Wahrheit säen"
 menu_title: ""
-description: "Die Saat der Wahrheit säen"
+description: "Tahlia, empfangen durch Al Fike: „Meine Freunde, möge die Liebe des Vaters ein tiefes und kontinuierliches Einströmen in eure Seele finden.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Haltet ein Lied in eurem Herzen"
 menu_title: ""
-description: "Haltet ein Lied in eurem Herzen"
+description: "Inayat Khan, empfangen durch Jimbeau Walsh: „Es steht geschrieben, dass am Anfang das Wort war und dass damit die ganze Schöpfung begann.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

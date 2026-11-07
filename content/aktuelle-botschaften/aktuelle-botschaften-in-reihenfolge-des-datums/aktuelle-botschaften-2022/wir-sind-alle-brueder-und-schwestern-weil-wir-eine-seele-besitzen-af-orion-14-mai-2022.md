@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle Brüder und Schwestern, weil wir eine Seele besitzen"
 menu_title: ""
-description: "Wir sind alle Brüder und Schwestern, weil wir eine Seele besitzen"
+description: "Orion, empfangen durch Al Fike: „Wir haben die Verwandtschaft, eine Seele zu besitzen, und so sind wir alle Brüder und Schwestern, weil wir alle eine Seele …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes ist die größte Kraft"
 menu_title: ""
-description: "Die Liebe Gottes ist die größte Kraft"
+description: "Albert Einstein: „Ich werde nicht allzu lange bei euch bleiben können, meine Freunde, aber ich habe so lange darauf gewartet, mich mit euch zu verbinden …“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

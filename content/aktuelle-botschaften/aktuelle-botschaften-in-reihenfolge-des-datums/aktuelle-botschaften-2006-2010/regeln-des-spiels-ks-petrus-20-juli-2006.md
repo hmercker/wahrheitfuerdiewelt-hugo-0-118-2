@@ -1,7 +1,7 @@
 ---
 title: "Regeln des Spiels"
 menu_title: ""
-description: "Regeln des Spiels"
+description: "Petrus, empfangen durch Kathryn Stokes: „Liebe Kathryn, wie du weißt, sind wir immer hier und verfügbar, um unsere Gedanken durch verfügbare himmlische …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

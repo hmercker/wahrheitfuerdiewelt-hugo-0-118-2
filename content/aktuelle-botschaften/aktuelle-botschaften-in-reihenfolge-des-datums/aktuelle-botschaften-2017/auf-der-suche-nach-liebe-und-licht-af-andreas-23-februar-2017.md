@@ -1,7 +1,7 @@
 ---
 title: "Auf der Suche nach Liebe und Licht"
 menu_title: ""
-description: "Auf der Suche nach Liebe und Licht"
+description: "Andreas, empfangen durch Al Fike: „Seid gesegnet, die ihr gekommen seid, um zusammen zu sein und Liebe und Licht zu suchen. Durch eure Gebete habt ihr eine …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

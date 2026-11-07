@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitung auf die Erdveränderungen"
 menu_title: ""
-description: "Vorbereitung auf die Erdveränderungen"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte die liebe Tochter an diesem Tag der Danksagungen würdigen. Ihr werdet vielleicht überrascht sein, dass es …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

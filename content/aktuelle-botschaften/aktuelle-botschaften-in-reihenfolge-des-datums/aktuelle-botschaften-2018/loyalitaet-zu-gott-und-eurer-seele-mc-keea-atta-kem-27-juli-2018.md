@@ -1,7 +1,7 @@
 ---
 title: "Loyalität zu Gott und eurer Seele"
 menu_title: ""
-description: "Loyalität zu Gott und eurer Seele"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Ihr macht weiter mit eurer wöchentlichen Gebetszeit, eurem wöchentlichen Termin. Das ist ausgezeichnet …“"
 date: 2020-08-01 06:25:48+00:245
 draft: False
 hidden: True

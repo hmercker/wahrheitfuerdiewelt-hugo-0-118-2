@@ -1,7 +1,7 @@
 ---
 title: "Die letzten dunklen Spuren in der Seele freisetzen"
 menu_title: ""
-description: "Die letzten dunklen Spuren in der Seele freisetzen"
+description: "Matthäus, empfangen durch Al Fike: „Und weil ihr nicht sehr leidet, seid ihr nicht hoch motiviert, jene Zustände loszulassen, die nicht in Harmonie mit der …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

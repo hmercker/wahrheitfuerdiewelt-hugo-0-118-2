@@ -1,7 +1,7 @@
 ---
 title: "Predigt 20 - Davids zweiter Psalm spielt nicht auf Jesus an"
 menu_title: ""
-description: "Predigt 20 - Davids zweiter Psalm spielt nicht auf Jesus an"
+description: "Jesus, empfangen durch Dr Samuels: „In der letzten Predigt habe ich die Psalmen Davids unter dem Gesichtspunkt einer intimen Annäherung des Menschen an den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

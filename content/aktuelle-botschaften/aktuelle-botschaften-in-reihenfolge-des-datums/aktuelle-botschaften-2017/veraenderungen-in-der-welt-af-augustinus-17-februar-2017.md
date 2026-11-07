@@ -1,7 +1,7 @@
 ---
 title: "Veränderungen in der Welt "
 menu_title: ""
-description: "Veränderungen in der Welt "
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, der Wandel ist ein Teil dieser Welt. Er war schon immer ein Teil dieser Welt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist der wunderbarste aller Spirituellen Wesen"
 menu_title: ""
-description: "Jesus ist der wunderbarste aller Spirituellen Wesen"
+description: "A.G. Riddle, empfangen durch James Padgett: „Ich habe deiner Frau erzählt, dass ich dir gerne von meinem Fortschritt in den spirituellen Angelegenheiten …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

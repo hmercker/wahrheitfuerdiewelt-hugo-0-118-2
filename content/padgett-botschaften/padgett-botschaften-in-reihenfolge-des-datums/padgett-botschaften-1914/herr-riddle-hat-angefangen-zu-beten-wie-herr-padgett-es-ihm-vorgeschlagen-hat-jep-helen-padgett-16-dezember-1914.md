@@ -1,7 +1,7 @@
 ---
 title: "Herr Riddle hat angefangen zu beten, wie Herr Padgett es ihm vorgeschlagen hat"
 menu_title: ""
-description: "Herr Riddle hat angefangen zu beten, wie Herr Padgett es ihm vorgeschlagen hat"
+description: "Helen, empfangen durch James Padgett: „Du hast sicherlich einen Eindruck bei Herrn Riddle hinterlassen, da er nun versucht so zu beten, wie du es ihm …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

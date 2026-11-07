@@ -1,7 +1,7 @@
 ---
 title: "Möglichkeiten im Überfluss für euch"
 menu_title: ""
-description: "Möglichkeiten im Überfluss für euch"
+description: "Augustinus, empfangen durch Al Fike: „Jeder von euch hat eine tiefe Bestimmung in seinem Leben. Wenn ihr euch heute versammelt, bekräftigt ihr diese …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

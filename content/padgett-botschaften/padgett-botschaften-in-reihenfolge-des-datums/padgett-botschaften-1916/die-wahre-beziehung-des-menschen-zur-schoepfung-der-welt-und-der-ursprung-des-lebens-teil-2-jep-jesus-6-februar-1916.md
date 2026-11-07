@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Beziehung des Menschen zur Schöpfung der Welt und der Ursprung des Lebens - Teil 2"
 menu_title: ""
-description: "Die wahre Beziehung des Menschen zur Schöpfung der Welt und der Ursprung des Lebens - Teil 2"
+description: "Jesus, empfangen durch James Padgett: „Wie ich sagte, der Mensch ist das Geschöpf Gottes, vollkommen erschaffen und schlagartig, sozusagen, und er wuchs …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

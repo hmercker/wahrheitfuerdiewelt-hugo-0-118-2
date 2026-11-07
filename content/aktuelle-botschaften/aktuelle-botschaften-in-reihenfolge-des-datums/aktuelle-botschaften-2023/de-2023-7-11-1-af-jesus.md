@@ -1,7 +1,7 @@
 ---
 title: "Der Zweck und die Kraft des Laurelville-Treffens"
 menu_title: ""
-description: "Der Zweck und die Kraft des Laurelville-Treffens"
+description: "Jesus, empfangen durch Al Fike: „In der Tat wird Gott euch alle mächtig segnen, wenn ihr auf diese Weise zusammenkommt. Gottes Absicht ist es, dass ihr …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

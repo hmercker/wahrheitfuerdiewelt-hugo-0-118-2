@@ -1,7 +1,7 @@
 ---
 title: "Macht die Liebe zu eurer leitenden Wahrheit"
 menu_title: ""
-description: "Macht die Liebe zu eurer leitenden Wahrheit"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Gegenwärtig werden diese Veränderungen in der Welt nicht besonders wahrgenommen, außer wenn sie den Menschen, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

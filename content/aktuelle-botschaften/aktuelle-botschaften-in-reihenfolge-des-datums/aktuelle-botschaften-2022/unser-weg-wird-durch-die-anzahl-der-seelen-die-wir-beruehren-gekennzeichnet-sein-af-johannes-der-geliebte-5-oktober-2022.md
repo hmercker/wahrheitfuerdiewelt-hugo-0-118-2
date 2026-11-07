@@ -1,7 +1,7 @@
 ---
 title: "Unser Weg wird durch die Anzahl der Seelen, die wir berühren, gekennzeichnet sein"
 menu_title: ""
-description: "Unser Weg wird durch die Anzahl der Seelen, die wir berühren, gekennzeichnet sein"
+description: "Johannes der Geliebte, empfangen durch Al Fike: „Ihr kennt mich als Johannes den Geliebten. Dass ihr immer mehr in seine Gegenwart kommt, denn Gottes Gnade …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

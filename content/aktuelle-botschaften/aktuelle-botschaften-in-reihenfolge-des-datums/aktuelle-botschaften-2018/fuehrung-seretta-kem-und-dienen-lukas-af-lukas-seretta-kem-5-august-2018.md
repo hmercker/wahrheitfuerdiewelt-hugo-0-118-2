@@ -1,7 +1,7 @@
 ---
 title: "Führung (Seretta Kem) und Dienen (Lukas)"
 menu_title: ""
-description: "Führung (Seretta Kem) und Dienen (Lukas)"
+description: "Lukas & Seretta Kem, empfangen durch Al Fike: „Als ihr heute in der Kirche gesprochen habt, haben wir experimentiert, um zu sehen, ob wir eine …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

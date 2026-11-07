@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr das Licht der Liebe Gottes leuchtet"
 menu_title: ""
-description: "Wenn ihr das Licht der Liebe Gottes leuchtet"
+description: "Amon, empfangen durch Jimbeau Walsh: „Ihr wisst vielleicht, dass die physische Welt, die natürliche Welt, lebendig ist. Es gibt nichts, was nicht lebendig …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erfahrung eines orthodoxen Geistlichen nach seinem Übergang in die spirituelle Welt"
 menu_title: ""
-description: "Erfahrung eines orthodoxen Geistlichen nach seinem Übergang in die spirituelle Welt"
+description: "Pastor Fontaine, empfangen durch James Padgett: „Ich möchte nur ein paar Worte sagen, da ich unbedingt schreiben und dir sagen möchte, dass ich heute Abend …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

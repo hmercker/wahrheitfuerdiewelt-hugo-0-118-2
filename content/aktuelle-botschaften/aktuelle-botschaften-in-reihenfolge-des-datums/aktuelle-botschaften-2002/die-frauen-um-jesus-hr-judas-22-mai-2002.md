@@ -1,7 +1,7 @@
 ---
 title: "Die Frauen um Jesus"
 menu_title: ""
-description: "Die Frauen um Jesus"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, du wirst dich daran erinnern, dass ich dir schon vor vielen Tagen erzählt habe, wie Jesus den Heiden der …“"
 date: 2020-08-01 06:25:48+00:231
 draft: False
 hidden: True

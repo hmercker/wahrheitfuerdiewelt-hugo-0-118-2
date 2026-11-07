@@ -1,7 +1,7 @@
 ---
 title: "Es ist eure Bestimmung, eure Gaben zum Wohl der Menschheit einzusetzen"
 menu_title: ""
-description: "Es ist eure Bestimmung, eure Gaben zum Wohl der Menschheit einzusetzen"
+description: "Elias, empfangen durch Al Fike: „In der Tat sehe ich einen seltenen Anblick vor mir, zwei Propheten zusammen, zwei begabte Seelen zusammen in Diskussion …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

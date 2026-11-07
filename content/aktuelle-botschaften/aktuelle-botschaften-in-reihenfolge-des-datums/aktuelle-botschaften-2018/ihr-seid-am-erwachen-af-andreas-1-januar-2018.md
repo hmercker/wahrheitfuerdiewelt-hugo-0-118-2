@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid am Erwachen"
 menu_title: ""
-description: "Ihr seid am Erwachen"
+description: "Andreas, empfangen durch Al Fike: „Jeder von euch hat auf irgendeine Weise geschlafen. Teile eurer Seelen, die sich danach sehnen zu erwachen, werden nun …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

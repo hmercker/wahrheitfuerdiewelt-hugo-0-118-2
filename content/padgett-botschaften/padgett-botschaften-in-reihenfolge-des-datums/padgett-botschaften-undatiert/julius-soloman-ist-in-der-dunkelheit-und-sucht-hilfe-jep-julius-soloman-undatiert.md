@@ -1,7 +1,7 @@
 ---
 title: "Julius Soloman ist in der Dunkelheit und sucht Hilfe"
 menu_title: ""
-description: "Julius Soloman ist in der Dunkelheit und sucht Hilfe"
+description: "Julius Soloman, empfangen durch James Padgett: „Lass mich ein wenig schreiben, denn auch ich brauche Hilfe, und je schneller ich sie bekomme, desto besser.“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

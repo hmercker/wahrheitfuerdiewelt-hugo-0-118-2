@@ -1,7 +1,7 @@
 ---
 title: "Der einzige Weg zu Licht und Schutz ist, sich mit Gott in Einklang zu bringen"
 menu_title: ""
-description: "Der einzige Weg zu Licht und Schutz ist, sich mit Gott in Einklang zu bringen"
+description: "Jakobus, empfangen durch Al Fike: „Ja, jeder von euch hat seine Kämpfe und eure Lieben kämpfen und die ganze Erde kämpft. Es ist ein Ort, der tief aus der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

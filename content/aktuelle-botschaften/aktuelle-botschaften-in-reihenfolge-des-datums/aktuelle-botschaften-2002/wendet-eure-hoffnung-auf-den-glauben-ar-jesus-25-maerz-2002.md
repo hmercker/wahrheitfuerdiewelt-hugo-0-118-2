@@ -1,7 +1,7 @@
 ---
 title: "Wendet eure Hoffnung auf den Glauben"
 menu_title: ""
-description: "Wendet eure Hoffnung auf den Glauben"
+description: "Jesus, empfangen durch Amada Reza: „Wir sind sehr daran interessiert, die Missverständnisse zu korrigieren, die noch immer in den Religionen der Erde …“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

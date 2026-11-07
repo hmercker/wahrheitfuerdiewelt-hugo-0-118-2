@@ -1,7 +1,7 @@
 ---
 title: "Öffne dich ohne Angst"
 menu_title: ""
-description: "Öffne dich ohne Angst"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich habe beobachtet, wie du wächst, wie du dich mit deinen Geschenken wohlfühlst, wie du teilst.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

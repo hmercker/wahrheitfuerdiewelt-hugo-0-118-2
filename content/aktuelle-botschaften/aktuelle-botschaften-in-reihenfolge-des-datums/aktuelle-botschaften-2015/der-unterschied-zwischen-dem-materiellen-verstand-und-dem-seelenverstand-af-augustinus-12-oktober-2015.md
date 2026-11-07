@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen dem materiellen Verstand und dem Seelenverstand"
 menu_title: ""
-description: "Der Unterschied zwischen dem materiellen Verstand und dem Seelenverstand"
+description: "Augustinus- empfangen durch Al Fike: „Und in der Tat sind dies zwei verschiedene Einheiten innerhalb eines Wesens, innerhalb von euch allen.“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

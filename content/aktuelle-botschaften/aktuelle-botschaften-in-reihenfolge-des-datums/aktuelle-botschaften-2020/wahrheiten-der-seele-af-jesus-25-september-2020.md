@@ -1,7 +1,7 @@
 ---
 title: "Wahrheiten der Seele"
 menu_title: ""
-description: "Wahrheiten der Seele"
+description: "Jesus, empfangen durch Al Fike: „Möge Gott eure Seelen tief mit Seiner Liebe segnen. Nun werde ich dieses Instrument benutzen, um weitere Lehren in diese …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer - Jesus war der wahre Messias und der wahre Christus, wie er auf Erden lehrte"
 menu_title: ""
-description: "Johannes der Täufer - Jesus war der wahre Messias und der wahre Christus, wie er auf Erden lehrte"
+description: "Johannes, empfangen durch James Padgett: „Nein, ich war damals nicht anwesend.“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

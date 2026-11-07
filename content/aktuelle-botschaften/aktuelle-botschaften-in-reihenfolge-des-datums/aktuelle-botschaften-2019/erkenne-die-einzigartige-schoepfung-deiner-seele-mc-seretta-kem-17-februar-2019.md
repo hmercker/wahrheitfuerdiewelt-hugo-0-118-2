@@ -1,7 +1,7 @@
 ---
 title: "Erkenne die einzigartige Schöpfung deiner Seele"
 menu_title: ""
-description: "Erkenne die einzigartige Schöpfung deiner Seele"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Während ihr von euren Seelen nach dem Geschenk von Gottes Liebe und Gegenwart in eurem Leben greift, fühlt …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

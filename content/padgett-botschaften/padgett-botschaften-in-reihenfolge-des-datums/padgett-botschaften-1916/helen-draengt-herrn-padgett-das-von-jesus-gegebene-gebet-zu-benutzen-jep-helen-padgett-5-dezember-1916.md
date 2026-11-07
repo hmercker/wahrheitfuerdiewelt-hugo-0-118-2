@@ -1,7 +1,7 @@
 ---
 title: "Helen drängt Herrn Padgett, das von Jesus gegebene Gebet zu benutzen"
 menu_title: ""
-description: "Helen drängt Herrn Padgett, das von Jesus gegebene Gebet zu benutzen"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebster, die spirituellen Wesen, die dir von den höheren Wahrheiten schreiben wollen, hielten es nicht für das …“"
 date: 2020-08-01 06:25:48+00:281
 draft: False
 hidden: True

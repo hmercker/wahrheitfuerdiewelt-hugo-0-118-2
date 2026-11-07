@@ -1,7 +1,7 @@
 ---
 title: "Verunglimpft eure Seelen nicht, es gibt eine Hierarchie im Himmel"
 menu_title: ""
-description: "Verunglimpft eure Seelen nicht, es gibt eine Hierarchie im Himmel"
+description: "Augustinus, empfangen durch Al Fike: „Dieses Instrument verdeutlicht, dass er auf der Erde als Pfarrer einer Kirche tätig ist. Er ist bescheiden und sieht …“"
 date: 2025-02-03 06:00:00+00:10
 draft: False
 hidden: True

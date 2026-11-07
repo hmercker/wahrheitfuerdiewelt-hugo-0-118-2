@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung des Lichtgitters, um die Dunkelheit zu durchbrechen"
 menu_title: ""
-description: "Die Bedeutung des Lichtgitters, um die Dunkelheit zu durchbrechen"
+description: "Abdullah Latif, empfangen durch Al Fike: „Möge Gottes große Liebe weiterhin in eure Seelen eindringen, meine Freunde. Ich habe schon früher durch dieses …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

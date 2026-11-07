@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Predigt von Billy Sunday "
 menu_title: ""
-description: "Helen kommentiert die Predigt von Billy Sunday "
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich war heute Abend bei dir und sah, dass du von der Predigt von Billy Sunday nicht viel …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

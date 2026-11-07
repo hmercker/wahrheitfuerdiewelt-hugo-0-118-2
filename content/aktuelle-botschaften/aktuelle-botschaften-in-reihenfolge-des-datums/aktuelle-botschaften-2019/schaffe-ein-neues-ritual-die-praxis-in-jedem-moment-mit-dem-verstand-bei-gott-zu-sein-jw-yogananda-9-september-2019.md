@@ -1,7 +1,7 @@
 ---
 title: "Schaffe ein neues Ritual: die Praxis, in jedem Moment mit dem Verstand bei Gott zu sein"
 menu_title: ""
-description: "Schaffe ein neues Ritual: die Praxis, in jedem Moment mit dem Verstand bei Gott zu sein"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Stellt euch vor, wenn ihr wollt, dass ihr mit Lichtgeschwindigkeit reist, oder dass ihr (einfach) durch eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

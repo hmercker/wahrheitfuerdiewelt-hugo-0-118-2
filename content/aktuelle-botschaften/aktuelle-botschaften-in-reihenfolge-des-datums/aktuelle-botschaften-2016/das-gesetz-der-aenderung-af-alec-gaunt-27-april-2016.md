@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Änderung"
 menu_title: ""
-description: "Das Gesetz der Änderung"
+description: "Alec, empfangen durch Al Fike: „Möge die Göttliche Liebe ein tiefes Einströmen in eure Seelen finden, meine Freunde, und mögt ihr weiterhin in diesen …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

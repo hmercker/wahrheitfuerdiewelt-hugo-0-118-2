@@ -1,7 +1,7 @@
 ---
 title: "Über die Direkte Stimme"
 menu_title: ""
-description: "Über die Direkte Stimme"
+description: "Konfuzius, empfangen durch Helge Mercker: „Indem wir die Instrumentalität eines Sprechorgans und die anderen Manifestationen nutzen, um zu demonstrieren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

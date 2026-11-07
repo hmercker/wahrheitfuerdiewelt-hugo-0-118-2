@@ -1,7 +1,7 @@
 ---
 title: "Ingersoll beschreibt seine Fortschritte und seine Schwierigkeiten, die Ansichten seiner Anhänger zu ändern"
 menu_title: ""
-description: "Ingersoll beschreibt seine Fortschritte und seine Schwierigkeiten, die Ansichten seiner Anhänger zu ändern"
+description: "Robert G. Ingersoll, empfangen durch James Padgett: „Du wirst dich daran erinnern, dass ich dir meine Bekehrung zum Christentum erklärt habe, ich meine das …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mit Gebet und Absicht öffnen sich Pforten des Lichts"
 menu_title: ""
-description: "Mit Gebet und Absicht öffnen sich Pforten des Lichts"
+description: "Andreas, empfangen durch Al fike: „Wenn ihr euch versammelt, werden diese Pforten des Lichts intensiviert und mit Energie versorgt.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

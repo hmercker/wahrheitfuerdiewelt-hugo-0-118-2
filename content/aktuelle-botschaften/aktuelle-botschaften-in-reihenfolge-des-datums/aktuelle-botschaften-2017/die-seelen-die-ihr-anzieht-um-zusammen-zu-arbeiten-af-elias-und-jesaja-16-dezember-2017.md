@@ -1,7 +1,7 @@
 ---
 title: "Die Seelen, die ihr anzieht, um zusammen zu arbeiten"
 menu_title: ""
-description: "Die Seelen, die ihr anzieht, um zusammen zu arbeiten"
+description: "Elias & Jesaja, empfangen durch Al Fike: „Denn Gott hat euch mit einer Gabe befruchtet, einer Gabe, um der Menschheit in den kommenden Zeiten zu helfen …“"
 date: 2020-08-01 06:25:48+00:263
 draft: False
 hidden: True

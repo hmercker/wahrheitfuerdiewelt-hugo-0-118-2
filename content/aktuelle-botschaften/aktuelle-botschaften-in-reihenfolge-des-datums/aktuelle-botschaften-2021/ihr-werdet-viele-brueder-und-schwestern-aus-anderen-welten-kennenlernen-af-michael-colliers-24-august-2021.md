@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet viele Brüder und Schwestern aus anderen Welten kennenlernen"
 menu_title: ""
-description: "Ihr werdet viele Brüder und Schwestern aus anderen Welten kennenlernen"
+description: "Michael Collier, empfangen durch Al Fike: „Möge Gottes kostbare göttliche Liebe in eure Seelen eindringen, meine Freunde. Ich habe schon seit einiger Zeit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

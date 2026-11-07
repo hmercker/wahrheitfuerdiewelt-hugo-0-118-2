@@ -1,7 +1,7 @@
 ---
 title: "Jesus betete und half Herrn Padgett, die Göttliche Liebe des Vaters zu empfangen"
 menu_title: ""
-description: "Jesus betete und half Herrn Padgett, die Göttliche Liebe des Vaters zu empfangen"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute die ganze Zeit bei dir und habe versucht dich durch meine Liebe und meinen Einfluss ein bisschen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Apostel Johannes bekräftigt, dass Jesus über die beiden Königreiche schrieb"
 menu_title: ""
-description: "Der Apostel Johannes bekräftigt, dass Jesus über die beiden Königreiche schrieb"
+description: "Johannes, empfangen durch James Padgett: „Ich werde nicht viel schreiben, aber ich möchte dir sagen, dass du heute Abend eine wunderbare Botschaft vom …“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

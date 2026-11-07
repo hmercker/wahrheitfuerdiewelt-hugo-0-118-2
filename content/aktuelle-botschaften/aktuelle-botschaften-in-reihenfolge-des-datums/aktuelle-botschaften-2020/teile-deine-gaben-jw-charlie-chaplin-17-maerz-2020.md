@@ -1,7 +1,7 @@
 ---
 title: "Teile deine Gaben"
 menu_title: ""
-description: "Teile deine Gaben"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Einige von euch kennen mich als Charlie. Ich fühle mich geehrt, dass ich heute zu euch sprechen darf, und …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

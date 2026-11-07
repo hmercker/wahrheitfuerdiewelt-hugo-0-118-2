@@ -1,7 +1,7 @@
 ---
 title: "Maria Magdalena"
 menu_title: ""
-description: "Maria Magdalena"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, ich denke, du bist dir bewusst, dass unsere Geschichte bereits das Jahr 26 erreicht hat.“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

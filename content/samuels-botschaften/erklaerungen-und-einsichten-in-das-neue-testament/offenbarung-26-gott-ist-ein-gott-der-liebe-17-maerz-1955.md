@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 26 : Gott ist ein Gott der Liebe"
 menu_title: ""
-description: "Offenbarung 26 : Gott ist ein Gott der Liebe"
+description: "Jesus, empfangen durch Dr Samuels: „Ich freue mich, dir wieder eine Botschaft schreiben zu können. Dem Vorschlag des Doktors folgend werde ich versuchen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

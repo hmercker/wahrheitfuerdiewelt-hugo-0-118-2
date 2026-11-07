@@ -1,7 +1,7 @@
 ---
 title: "Diese Reise wird in der Tat bemerkenswert sein"
 menu_title: ""
-description: "Diese Reise wird in der Tat bemerkenswert sein"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich denke, ihr werdet im Laufe der Zeit feststellen, dass es eine Verengung und dann eine Erweiterung eurer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

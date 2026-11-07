@@ -1,7 +1,7 @@
 ---
 title: "Das Land der Liebe"
 menu_title: ""
-description: "Das Land der Liebe"
+description: "Johannes, empfangen durch Amada Reza: „Danke, dass ihr mir erlaubt zu schreiben, denn ich habe einige Gedanken, die ich mit meinen Brüdern und Schwestern …“"
 date: 2020-08-01 06:25:48+00:299
 draft: False
 hidden: True

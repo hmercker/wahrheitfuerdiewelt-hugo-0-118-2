@@ -1,7 +1,7 @@
 ---
 title: "Geht nach innen und erlaubt Gott, eure Seele zu öffnen"
 menu_title: ""
-description: "Geht nach innen und erlaubt Gott, eure Seele zu öffnen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Alle Gebete, die aus der Seele kommen, aus dem Herzen gesprochen, erreichen die Seele Gottes.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

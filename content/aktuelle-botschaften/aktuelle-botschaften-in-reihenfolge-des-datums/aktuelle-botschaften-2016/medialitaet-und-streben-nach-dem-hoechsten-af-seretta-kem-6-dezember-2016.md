@@ -1,7 +1,7 @@
 ---
 title: "Medialität und Streben nach dem Höchsten"
 menu_title: ""
-description: "Medialität und Streben nach dem Höchsten"
+description: "Seretta Kem, empfangen durch Al Fike: „Zunächst möchte ich betonen, dass, wenn ihr Teil eines Gebetskreises seid, euer Hauptziel darin besteht, die …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

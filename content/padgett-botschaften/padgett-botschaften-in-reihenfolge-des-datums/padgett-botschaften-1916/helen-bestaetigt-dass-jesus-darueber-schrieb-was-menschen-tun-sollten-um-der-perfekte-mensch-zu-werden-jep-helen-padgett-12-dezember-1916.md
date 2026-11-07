@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Jesus darüber schrieb, was Menschen tun sollten um der perfekte Mensch zu werden"
 menu_title: ""
-description: "Helen bestätigt, dass Jesus darüber schrieb, was Menschen tun sollten um der perfekte Mensch zu werden"
+description: "Helen, empfangen durch James Padgett: „Deine eigene wahre und dich liebende Helen.“"
 date: 2020-08-01 06:25:48+00:285
 draft: False
 hidden: True

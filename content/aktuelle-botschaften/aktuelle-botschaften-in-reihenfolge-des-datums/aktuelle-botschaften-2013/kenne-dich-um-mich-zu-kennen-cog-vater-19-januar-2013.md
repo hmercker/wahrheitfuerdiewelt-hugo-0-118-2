@@ -1,7 +1,7 @@
 ---
 title: "Kenne dich, um Mich zu kennen"
 menu_title: ""
-description: "Kenne dich, um Mich zu kennen"
+description: "Vater, empfangen durch Child of God: „Kenne dich, um Mich zu kennen. Du bist ein Stück meiner Seele.“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

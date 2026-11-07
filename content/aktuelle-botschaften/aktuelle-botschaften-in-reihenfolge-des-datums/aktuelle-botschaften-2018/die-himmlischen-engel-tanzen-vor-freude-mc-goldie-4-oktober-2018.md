@@ -1,7 +1,7 @@
 ---
 title: "Die himmlischen Engel tanzen vor Freude"
 menu_title: ""
-description: "Die himmlischen Engel tanzen vor Freude"
+description: "Goldie, empfangen durch Maureen Cardoso: „Ich kann mich nicht zurückhalten vor Freude, mit der wir in den Göttlichen Himmeln tanzen über eure große …“"
 date: 2020-08-01 06:25:48+00:250
 draft: False
 hidden: True

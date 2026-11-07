@@ -1,7 +1,7 @@
 ---
 title: "Einssein mit einander bringt eine kraftvolle Harmonie"
 menu_title: ""
-description: "Einssein mit einander bringt eine kraftvolle Harmonie"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Ja, in der Tat habt ihr zwei Drittel des Weges in eurer Vorbereitung für die Direkte Stimme zurückgelegt, aber …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

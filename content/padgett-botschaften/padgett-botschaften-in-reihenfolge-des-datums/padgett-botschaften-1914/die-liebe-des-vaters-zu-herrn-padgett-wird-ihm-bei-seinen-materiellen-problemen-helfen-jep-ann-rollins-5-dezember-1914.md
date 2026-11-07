@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe des Vaters zu Herrn Padgett wird ihm bei seinen materiellen Problemen helfen"
 menu_title: ""
-description: "Die Liebe des Vaters zu Herrn Padgett wird ihm bei seinen materiellen Problemen helfen"
+description: "Ann Rollins, empfangen durch James Padgett: „Du darfst nicht so niedergeschlagen sein. Bete zu Gott und er wird dich segnen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eure Bestimmung und euer Schicksal"
 menu_title: ""
-description: "Eure Bestimmung und euer Schicksal"
+description: "Jesus, empfangen durch Al Fike: „Meine lieben Kinder, eure Seelen sind einzigartig, kostbar und schön. Mögen sie auf dieser Erdebene die Wahrheit erkennen …“"
 date: 2025-01-14 06:00:00+00:10
 draft: False
 hidden: True

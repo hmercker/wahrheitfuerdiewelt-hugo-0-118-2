@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe strömt durch euch zum Wohl der anderen"
 menu_title: ""
-description: "Gottes Liebe strömt durch euch zum Wohl der anderen"
+description: "Augustinus, empfangen durch Al Fike: „Diese Bande der Liebe, die ihr miteinander teilt, schafft einen so kraftvollen Kanal des Lichts, einen Kreis des …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

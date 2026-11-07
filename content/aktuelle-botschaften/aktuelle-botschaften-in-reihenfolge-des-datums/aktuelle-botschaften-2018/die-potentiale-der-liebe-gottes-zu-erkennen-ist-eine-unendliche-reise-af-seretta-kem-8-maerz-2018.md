@@ -1,7 +1,7 @@
 ---
 title: "Die Potentiale der Liebe Gottes zu erkennen ist eine unendliche Reise"
 menu_title: ""
-description: "Die Potentiale der Liebe Gottes zu erkennen ist eine unendliche Reise"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich sehe, dass euer Kreis weiter wächst, und ich heiße diese beiden wunderschönen Seelen in unserem Kreis der Liebe …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

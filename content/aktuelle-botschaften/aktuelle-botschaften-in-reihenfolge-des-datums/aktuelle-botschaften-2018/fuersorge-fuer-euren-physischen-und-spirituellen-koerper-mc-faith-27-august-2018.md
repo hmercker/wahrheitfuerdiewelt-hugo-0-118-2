@@ -1,7 +1,7 @@
 ---
 title: "Fürsorge für euren physischen und spirituellen Körper"
 menu_title: ""
-description: "Fürsorge für euren physischen und spirituellen Körper"
+description: "Faith, empfangen durch Maureen Cardoso: „Unser geliebter Augustinus berührt die Wurzel der Seelenverbindung mit eurem geliebten Schöpfer.“"
 date: 2020-08-01 06:25:48+00:246
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Gesetze sind universell"
 menu_title: ""
-description: "Gottes Gesetze sind universell"
+description: "Keea Atta Kem: „Ich wollte euch sagen, jetzt, da die Menschheit den ersten Schritt vorwärts ins Universum gemacht hat, wird ein größeres Verständnis …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

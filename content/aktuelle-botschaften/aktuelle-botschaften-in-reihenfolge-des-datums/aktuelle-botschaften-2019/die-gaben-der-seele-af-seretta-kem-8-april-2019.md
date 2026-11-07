@@ -1,7 +1,7 @@
 ---
 title: "Die Gaben der Seele"
 menu_title: ""
-description: "Die Gaben der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr seid alle begabt, Geliebte. Ihr alle habt viele Gaben.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

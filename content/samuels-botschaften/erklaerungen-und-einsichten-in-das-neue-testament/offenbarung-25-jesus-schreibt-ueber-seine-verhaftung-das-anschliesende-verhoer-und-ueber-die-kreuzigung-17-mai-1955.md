@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 25 : Jesus schreibt über seine Verhaftung, das anschließende Verhör und über die Kreuzigung"
 menu_title: ""
-description: "Offenbarung 25 : Jesus schreibt über seine Verhaftung, das anschließende Verhör und über die Kreuzigung"
+description: "Jesus, empfangen durch Dr Samuels: „Die heutige Botschaft ist dazu gedacht, die vielen Anfragen zu beantworten, die du dir in letzter Zeit gestellt hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

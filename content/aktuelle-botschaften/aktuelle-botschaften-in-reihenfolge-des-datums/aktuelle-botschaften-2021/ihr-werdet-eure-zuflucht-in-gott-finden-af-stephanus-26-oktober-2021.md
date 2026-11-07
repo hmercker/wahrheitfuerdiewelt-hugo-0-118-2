@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet eure Zuflucht in Gott finden"
 menu_title: ""
-description: "Ihr werdet eure Zuflucht in Gott finden"
+description: "Stephanus, empfangen durch Al Fike: „Geliebte Seelen, ihr werdet eure Zuflucht in Gott finden. Wie auch immer die Umstände sein mögen, die euch umgeben …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

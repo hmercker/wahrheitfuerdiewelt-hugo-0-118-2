@@ -1,7 +1,7 @@
 ---
 title: "Helen ist überglücklich über das Gespräch zwischen Dr. Stone und Herrn Padgett"
 menu_title: ""
-description: "Helen ist überglücklich über das Gespräch zwischen Dr. Stone und Herrn Padgett"
+description: "Helen Padgett, empfangen durch James Padgett: „Ich werde dich heute Abend nicht lange aufhalten, denn du bist müde und musst ins Bett gehen.“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

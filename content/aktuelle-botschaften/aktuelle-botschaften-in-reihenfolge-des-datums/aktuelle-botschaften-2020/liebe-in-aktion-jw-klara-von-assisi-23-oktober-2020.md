@@ -1,7 +1,7 @@
 ---
 title: "Liebe in Aktion"
 menu_title: ""
-description: "Liebe in Aktion"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Es gibt viele Glaubensrichtungen: Spirituelle Überzeugungen, religiöse Überzeugungen, philosophische …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

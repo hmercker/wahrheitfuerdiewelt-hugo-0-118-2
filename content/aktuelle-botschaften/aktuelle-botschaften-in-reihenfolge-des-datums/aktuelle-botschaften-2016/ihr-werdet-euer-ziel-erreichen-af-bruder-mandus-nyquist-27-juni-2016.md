@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet euer Ziel erreichen"
 menu_title: ""
-description: "Ihr werdet euer Ziel erreichen"
+description: "Bruder Mandus Nyquist, empfangen durch Al Fike: „Ja, die Tür bleibt offen und obwohl ihr mit eurem Verstand viele Hindernisse und Urteile seht, die auf …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

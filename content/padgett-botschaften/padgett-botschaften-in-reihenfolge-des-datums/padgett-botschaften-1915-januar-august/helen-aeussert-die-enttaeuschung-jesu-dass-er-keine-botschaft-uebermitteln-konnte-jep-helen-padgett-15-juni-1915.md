@@ -1,7 +1,7 @@
 ---
 title: "Helen äußert die Enttäuschung Jesu, dass er keine Botschaft übermitteln konnte"
 menu_title: ""
-description: "Helen äußert die Enttäuschung Jesu, dass er keine Botschaft übermitteln konnte"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, der Meister war enttäuscht, dass er seine Botschaft nicht beenden konnte und er schien sehr darauf …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

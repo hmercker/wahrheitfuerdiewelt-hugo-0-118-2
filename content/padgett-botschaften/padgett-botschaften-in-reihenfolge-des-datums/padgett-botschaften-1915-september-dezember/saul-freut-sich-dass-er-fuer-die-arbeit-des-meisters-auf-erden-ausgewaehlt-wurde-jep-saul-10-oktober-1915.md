@@ -1,7 +1,7 @@
 ---
 title: "Saul freut sich, dass er für die Arbeit des Meisters auf Erden ausgewählt wurde"
 menu_title: ""
-description: "Saul freut sich, dass er für die Arbeit des Meisters auf Erden ausgewählt wurde"
+description: "Saul, empfangen durch James Padgett: „So lass deinen Glauben wachsen, bis es keinen Zweifel mehr daran gibt, dass du ein Kind des Vaters bist und …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

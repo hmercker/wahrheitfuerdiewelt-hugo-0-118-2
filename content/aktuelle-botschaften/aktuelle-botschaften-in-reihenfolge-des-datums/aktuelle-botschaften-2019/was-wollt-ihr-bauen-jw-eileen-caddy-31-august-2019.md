@@ -1,7 +1,7 @@
 ---
 title: "Was wollt ihr bauen?"
 menu_title: ""
-description: "Was wollt ihr bauen?"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich stand an einem Scheideweg in meinem Leben und musste Entscheidungen treffen, aber ich wusste nicht wie.“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

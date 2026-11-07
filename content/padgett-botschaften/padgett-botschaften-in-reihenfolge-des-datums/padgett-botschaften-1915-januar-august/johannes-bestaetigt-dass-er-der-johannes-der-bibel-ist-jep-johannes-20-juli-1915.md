@@ -1,7 +1,7 @@
 ---
 title: "Johannes bestätigt, dass er der Johannes der Bibel ist"
 menu_title: ""
-description: "Johannes bestätigt, dass er der Johannes der Bibel ist"
+description: "Johannes, empfangen durch James Padgett: „Du wirst erleichtert sein und bald alles bekommen, was du brauchst, um deine Sorgen zu lindern.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

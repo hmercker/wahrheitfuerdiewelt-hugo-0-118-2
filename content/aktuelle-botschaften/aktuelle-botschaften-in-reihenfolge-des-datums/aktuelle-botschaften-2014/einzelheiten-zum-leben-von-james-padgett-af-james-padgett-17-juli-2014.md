@@ -1,7 +1,7 @@
 ---
 title: "Einzelheiten zum Leben von James Padgett"
 menu_title: ""
-description: "Einzelheiten zum Leben von James Padgett"
+description: "James Padgett, empfangen durch Al Fike: „Ihr setzt die Arbeit fort, die von mir und meinen Kollegen vor all den Jahren begonnen wurde.“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

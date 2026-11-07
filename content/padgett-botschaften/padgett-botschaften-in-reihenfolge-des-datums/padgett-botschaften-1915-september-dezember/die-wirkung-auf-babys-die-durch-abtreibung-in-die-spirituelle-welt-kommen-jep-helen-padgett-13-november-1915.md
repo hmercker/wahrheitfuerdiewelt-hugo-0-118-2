@@ -1,7 +1,7 @@
 ---
 title: "Die Wirkung auf Babys, die durch Abtreibung in die spirituelle Welt kommen"
 menu_title: ""
-description: "Die Wirkung auf Babys, die durch Abtreibung in die spirituelle Welt kommen"
+description: "Helen, empfangen durch James Padgett: „Ja, ich war da und habe die Show genossen. Die Bilder enthalten eine sehr wichtige Wahrheit, die alle Frauen …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

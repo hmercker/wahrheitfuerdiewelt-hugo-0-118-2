@@ -1,7 +1,7 @@
 ---
 title: "Johannes versichert, dass Aman und Amon, die ersten Eltern, tatsächlich kommuniziert haben"
 menu_title: ""
-description: "Johannes versichert, dass Aman und Amon, die ersten Eltern, tatsächlich kommuniziert haben"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend nur sagen, dass du dich bald darauf vorbereiten musst, Botschaften aufzunehmen, die der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

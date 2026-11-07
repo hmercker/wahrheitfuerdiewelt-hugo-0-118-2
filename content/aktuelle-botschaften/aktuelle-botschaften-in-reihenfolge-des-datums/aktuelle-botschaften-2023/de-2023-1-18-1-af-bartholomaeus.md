@@ -1,7 +1,7 @@
 ---
 title: "Trinidad - eine weitere Perle in der Kette der karibischen Inseln"
 menu_title: ""
-description: "Trinidad - eine weitere Perle in der Kette der karibischen Inseln"
+description: "Bartholomäus, empfangen durch Al Fike: „Erlaube Seiner Liebe, in eure Seele zu strömen. Meine schönen Freunde, in euch ist viel Platz, damit diese Liebe …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

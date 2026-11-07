@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 33 : Der Stern von Bethlehem und die Weisen aus dem Morgenland"
 menu_title: ""
-description: "Offenbarung 33 : Der Stern von Bethlehem und die Weisen aus dem Morgenland"
+description: "Jesus, empfangen durch Dr Samuels: „Hier bin ich wieder, um dir erneut eine Botschaft zu schreiben, die das Ziel verfolgt, einige der Fehler zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

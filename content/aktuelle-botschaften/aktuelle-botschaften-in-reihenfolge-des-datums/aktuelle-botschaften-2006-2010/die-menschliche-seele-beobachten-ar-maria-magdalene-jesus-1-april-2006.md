@@ -1,7 +1,7 @@
 ---
 title: "Die menschliche Seele beobachten"
 menu_title: ""
-description: "Die menschliche Seele beobachten"
+description: "Maria Magdalene & Jesus, empfangen durch Amada Reza: „Ich [Maria] möchte meine Gedanken über die Beziehung von Verstand und Seele mitteilen, besonders für …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

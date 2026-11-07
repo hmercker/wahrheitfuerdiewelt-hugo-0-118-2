@@ -1,7 +1,7 @@
 ---
 title: "Predigt 15 - König Davids Geduld"
 menu_title: ""
-description: "Predigt 15 - König Davids Geduld"
+description: "Jesus, empfangen durch Dr Samuels: „Die Predigten, die ich euch über David, den König, halte, sind wichtig, um den Leserinnen und Lesern zu zeigen, dass …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über die Unwissenheit der Prediger um die Wahrheit des Evangeliums zu erklären"
 menu_title: ""
-description: "Helen schreibt über die Unwissenheit der Prediger um die Wahrheit des Evangeliums zu erklären"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich war heute sehr viel mit dir zusammen und weiß, wie du dich gefühlt hast und ein Glück in …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

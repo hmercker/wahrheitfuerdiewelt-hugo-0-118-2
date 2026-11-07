@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme Instruktion"
 menu_title: ""
-description: "Direkte Stimme Instruktion"
+description: "Seretta Kem & Jesus, empfangen durch Al Fike: „Wir beginnen eine neue Phase eurer Vorbereitung auf die Direkte Stimme. In diesen letzten Wochen werden wir …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

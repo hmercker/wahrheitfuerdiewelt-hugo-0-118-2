@@ -1,7 +1,7 @@
 ---
 title: "Hört auf eure Seelen und alles wird gegeben werden"
 menu_title: ""
-description: "Hört auf eure Seelen und alles wird gegeben werden"
+description: "James Padgett, empfangen durch Al Fike: „Sie hat Recht, als ich auf der Erde wandelte und meine Mission erfüllte, die Gott mir gegeben hatte, und Jesus …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

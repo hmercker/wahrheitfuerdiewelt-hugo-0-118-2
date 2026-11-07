@@ -1,7 +1,7 @@
 ---
 title: "Cousine Laura Burroughs erzählt von der Begegnung mit ihrem Seelenpartner"
 menu_title: ""
-description: "Cousine Laura Burroughs erzählt von der Begegnung mit ihrem Seelenpartner"
+description: "Laura Burroughs, empfangen durch James Padgett: „Ich freue mich, dir wieder schreiben zu können und dir zu sagen, dass ich seit meinem letzten Brief viel …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

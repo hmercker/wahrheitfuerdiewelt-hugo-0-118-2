@@ -1,7 +1,7 @@
 ---
 title: "Chrysostomos möchte in das Buch einbezogen werden, da er Padgett bei der Arbeit unterstützt"
 menu_title: ""
-description: "Chrysostomos möchte in das Buch einbezogen werden, da er Padgett bei der Arbeit unterstützt"
+description: "Chrysostomos, empfangen durch James Padgett: „Ja, ich möchte nur sagen, dass ich einer deiner Helfer bei der Arbeit bin, die vor dir liegt, und dass ich …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

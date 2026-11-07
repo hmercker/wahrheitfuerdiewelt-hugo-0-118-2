@@ -1,7 +1,7 @@
 ---
 title: "Das Licht um euch herum wird immer heller"
 menu_title: ""
-description: "Das Licht um euch herum wird immer heller"
+description: "Petrus, empfangen durch Al Fike: „In der Tat herrschen dort, wo ich wohne, Harmonie und Frieden, wie ihr es euch nicht vorstellen könnt.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

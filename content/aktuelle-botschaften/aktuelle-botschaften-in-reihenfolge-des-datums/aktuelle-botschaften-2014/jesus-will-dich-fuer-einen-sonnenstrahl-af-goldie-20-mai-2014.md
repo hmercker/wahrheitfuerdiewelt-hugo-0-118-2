@@ -1,7 +1,7 @@
 ---
 title: "Jesus will dich für einen Sonnenstrahl"
 menu_title: ""
-description: "Jesus will dich für einen Sonnenstrahl"
+description: "Goldie, empfangen durch Al Fike: „Jesus will euch für einen Sonnenstrahl! Und das tue ich auch. (Goldie) Und Jesus sagt, er will dich für einen …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

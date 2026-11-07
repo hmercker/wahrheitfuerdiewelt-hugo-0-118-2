@@ -1,7 +1,7 @@
 ---
 title: "Mit Liebe in der Welt auftreten"
 menu_title: ""
-description: "Mit Liebe in der Welt auftreten"
+description: "Professor Salyards, empfangen durch Al Fike: „Es kann euch nicht überraschen, dass es auf der Welt Unterschiede gibt, denn diese Welt ist ein sehr …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

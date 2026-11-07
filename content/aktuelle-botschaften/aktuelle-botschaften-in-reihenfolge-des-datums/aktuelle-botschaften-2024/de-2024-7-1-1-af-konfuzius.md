@@ -1,7 +1,7 @@
 ---
 title: "Weiter auf der Reise"
 menu_title: ""
-description: "Weiter auf der Reise"
+description: "Konfuzius, empfangen durch Al Fike: „In der Tat, wir ehren dich, geliebter Schöpfer von allem. Eure Seelen sind wie Embryonen, die noch nicht voll …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

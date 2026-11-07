@@ -1,7 +1,7 @@
 ---
 title: "Nur Gott kann den Menschen frei machen"
 menu_title: ""
-description: "Nur Gott kann den Menschen frei machen"
+description: "Abraham Lincoln: „Ich habe viele Wochen gewartet, um zu sprechen, und heute Abend bin ich bei euch und fühle diese große Liebe und diesen Frieden.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

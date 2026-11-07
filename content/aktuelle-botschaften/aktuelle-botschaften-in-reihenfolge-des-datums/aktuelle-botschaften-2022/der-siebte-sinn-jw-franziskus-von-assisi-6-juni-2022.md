@@ -1,7 +1,7 @@
 ---
 title: "Der siebte Sinn"
 menu_title: ""
-description: "Der siebte Sinn"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Wie kann man eine Welt verstehen, die scheinbar im Chaos versinkt, mit Krieg und Armut, so viel Wut …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

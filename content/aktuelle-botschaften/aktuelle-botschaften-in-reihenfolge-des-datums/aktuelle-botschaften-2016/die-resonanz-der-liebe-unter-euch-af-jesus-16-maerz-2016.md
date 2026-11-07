@@ -1,7 +1,7 @@
 ---
 title: "Die Resonanz der Liebe unter euch"
 menu_title: ""
-description: "Die Resonanz der Liebe unter euch"
+description: "Jesus, empfangen durch Al Fike: „Eure Bereitschaft, einander zu akzeptieren und zu umarmen, ist tiefgreifend in ihrer Wirkung, denn jeder von euch hat …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

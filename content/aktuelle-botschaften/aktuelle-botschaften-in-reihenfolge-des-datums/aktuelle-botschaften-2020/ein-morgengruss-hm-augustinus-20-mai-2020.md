@@ -1,7 +1,7 @@
 ---
 title: "Ein Morgengruss"
 menu_title: ""
-description: "Ein Morgengruss"
+description: "Augustinus, empfangen durch Helge Mercker: „Meine Tochter, es ist ein guter Zeitpunkt zu schreiben, da du in einem aufnahmefähigen Zustand bist und offen …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

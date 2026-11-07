@@ -1,7 +1,7 @@
 ---
 title: "Matthäus und Jesus kommentieren Verschwörungstheorien"
 menu_title: ""
-description: "Matthäus und Jesus kommentieren Verschwörungstheorien"
+description: "Matthaus & Jesus, empfangen durch Al Fike: „Ich möchte über die Kräfte des Bösen in der Welt sprechen, denn ihr habt von einer eurer Schwestern gehört, die …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

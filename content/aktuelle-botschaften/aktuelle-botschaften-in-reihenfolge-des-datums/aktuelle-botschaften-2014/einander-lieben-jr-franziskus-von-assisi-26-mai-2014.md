@@ -1,7 +1,7 @@
 ---
 title: "Einander lieben"
 menu_title: ""
-description: "Einander lieben"
+description: "Franziskus, empfangen durch James Reid: „Ich versuche immer noch, mich nach der Versammlung und all dem, was passiert ist, zu beruhigen.“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

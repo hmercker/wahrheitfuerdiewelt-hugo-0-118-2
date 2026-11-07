@@ -1,7 +1,7 @@
 ---
 title: "Jeder von euch wählt die Reise seiner Seele"
 menu_title: ""
-description: "Jeder von euch wählt die Reise seiner Seele"
+description: "Josephus, empfangen durch Al Fike: „Gott macht für jeden von euch ein anderes Gewand. Eines, das nicht aus materiellen Fäden und Mitteln gewebt ist …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

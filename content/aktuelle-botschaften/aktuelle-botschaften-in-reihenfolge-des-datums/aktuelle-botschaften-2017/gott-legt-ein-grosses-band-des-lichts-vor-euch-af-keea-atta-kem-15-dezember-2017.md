@@ -1,7 +1,7 @@
 ---
 title: "Gott legt ein großes Band des Lichts vor euch"
 menu_title: ""
-description: "Gott legt ein großes Band des Lichts vor euch"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich habe euch immer geliebt und werde es immer tun. Und bei einigen von euch bin ich schon seit vielen Jahren bei …“"
 date: 2020-08-01 06:25:48+00:260
 draft: False
 hidden: True

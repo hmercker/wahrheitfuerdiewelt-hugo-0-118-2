@@ -1,7 +1,7 @@
 ---
 title: "Kenne wahre Freiheit"
 menu_title: ""
-description: "Kenne wahre Freiheit"
+description: "Vater, empfangen durch Child of God: „Freiheit ist dein Teilen deiner tiefsten Liebe. Freiheit ist meine Liebe, die ohne Hindernisse in dein Herz und deine …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

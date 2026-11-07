@@ -1,7 +1,7 @@
 ---
 title: "Lernt eure eigene Seele kennen"
 menu_title: ""
-description: "Lernt eure eigene Seele kennen"
+description: "Icarius, empfangen durch Al Fike: „Darüber hinaus möchte Er, dass ihr die Beziehung zwischen eurer Seele und der Seele Gottes kennenlernt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

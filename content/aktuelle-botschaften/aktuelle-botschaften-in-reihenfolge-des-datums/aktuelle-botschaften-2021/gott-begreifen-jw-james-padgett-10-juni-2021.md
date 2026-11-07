@@ -1,7 +1,7 @@
 ---
 title: "Gott begreifen"
 menu_title: ""
-description: "Gott begreifen"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Ich habe heute den Lesungen und der intensiven Diskussion zum Thema \"Wer und was ist Gott?\" zugehört, mit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

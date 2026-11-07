@@ -1,7 +1,7 @@
 ---
 title: "Gemeinsam im Fluss der Liebe des Vaters sein"
 menu_title: ""
-description: "Gemeinsam im Fluss der Liebe des Vaters sein"
+description: "Andreas, empfangen durch Al Fike: „Ihr habt ein gewisses Maß an Heilung in diesem Kreis empfangen. Fahrt fort, eure Lichter hell aufleuchten zu lassen …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

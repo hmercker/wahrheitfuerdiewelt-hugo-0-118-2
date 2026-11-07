@@ -1,7 +1,7 @@
 ---
 title: "Danke für eure Erkundungen"
 menu_title: ""
-description: "Danke für eure Erkundungen"
+description: "Robert Hugh Benson, empfangen durch Jimbeau Walsh: „Wir möchten euch dafür danken, dass ihr erforscht habt, was ich Anthony von meinem Eintritt in den …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

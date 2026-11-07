@@ -1,7 +1,7 @@
 ---
 title: "Sühne und das Gesetz der Göttlichen Liebe"
 menu_title: ""
-description: "Sühne und das Gesetz der Göttlichen Liebe"
+description: "Ann Rollins, empfangen durch Jimbeau Walsh: „Meine Lieben, wo immer ihr auch sein mögt, möge der Segen der Liebe Gottes in jede eurer Seelen in großer …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

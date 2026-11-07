@@ -1,7 +1,7 @@
 ---
 title: "Die Seele will vom Verstand befreit werden"
 menu_title: ""
-description: "Die Seele will vom Verstand befreit werden"
+description: "Fiona, empfangen durch Al Fike: „Sie hat viele Führer, viele, die sich um sie scharen. Denn sie lädt ein und umarmt mit der Bereitschaft und Offenheit der …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

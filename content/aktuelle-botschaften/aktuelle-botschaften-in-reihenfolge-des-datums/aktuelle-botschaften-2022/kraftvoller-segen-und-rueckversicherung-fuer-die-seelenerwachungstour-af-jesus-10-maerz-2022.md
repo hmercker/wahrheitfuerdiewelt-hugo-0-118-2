@@ -1,7 +1,7 @@
 ---
 title: "Kraftvoller Segen und Rückversicherung für die Seelenerwachungs-Tour"
 menu_title: ""
-description: "Kraftvoller Segen und Rückversicherung für die Seelenerwachungs-Tour"
+description: "Jesus, empfangen durch Al Fike: „So wie ihr vielen Menschen Licht und Trost bringt, nutzt Gott euch, um die vielen Pforten des Lichts in der Welt zu …“"
 date: 2022-03-13 06:00:00+00:10
 draft: False
 hidden: True

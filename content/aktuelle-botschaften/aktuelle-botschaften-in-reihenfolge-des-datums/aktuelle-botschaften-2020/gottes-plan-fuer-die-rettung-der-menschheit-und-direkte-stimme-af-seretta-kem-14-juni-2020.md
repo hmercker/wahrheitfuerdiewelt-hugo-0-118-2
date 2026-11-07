@@ -1,7 +1,7 @@
 ---
 title: "Gottes Plan für die Rettung der Menschheit und Direkte Stimme"
 menu_title: ""
-description: "Gottes Plan für die Rettung der Menschheit und Direkte Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr wart ziemlich überrascht über das Interesse eurer Brüder und Schwestern bezüglich der Gabe dessen, was ihr …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

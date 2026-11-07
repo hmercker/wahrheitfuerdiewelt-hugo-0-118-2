@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist während der Feiertage nicht sehr glücklich und entfernt sich von der Erdebene in die höchsten Himmel"
 menu_title: ""
-description: "Jesus ist während der Feiertage nicht sehr glücklich und entfernt sich von der Erdebene in die höchsten Himmel"
+description: "Helen, empfangen durch James Padgett: „An diesem Weihnachtsabend frohlocken wir, dass die Menschen alle glauben, dass Jesus von den Toten wieder …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit von Pforten des Lichts in der Welt"
 menu_title: ""
-description: "Die Wichtigkeit von Pforten des Lichts in der Welt"
+description: "Andreas, empfangen durch Al Fike: „Jedes Mal, wenn ihr in diesem Kreis des Lichts zusammenkommt, bringt ihr eurer Seele großen Nutzen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

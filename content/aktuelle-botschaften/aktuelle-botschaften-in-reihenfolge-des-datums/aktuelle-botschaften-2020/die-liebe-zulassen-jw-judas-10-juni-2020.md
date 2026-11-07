@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe zulassen"
 menu_title: ""
-description: "Die Liebe zulassen"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich war heute bei euch, drei Seelen, die ihre Herzen geteilt haben, die ihre Wünsche nach Verwandlung geteilt haben …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

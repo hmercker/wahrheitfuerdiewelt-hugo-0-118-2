@@ -1,7 +1,7 @@
 ---
 title: "Eine Mutter berichtet von ihren Erfahrungen nach dem Hinübergehen"
 menu_title: ""
-description: "Eine Mutter berichtet von ihren Erfahrungen nach dem Hinübergehen"
+description: "Grace Stanhope, empfangen durch James Padgett: „Komm in das Brautgemach, Tod. Komm zu der jungen Mutter, wenn sie zum ersten Mal den Atem ihres …“"
 date: 2020-08-01 06:25:48+00:244
 draft: False
 hidden: True

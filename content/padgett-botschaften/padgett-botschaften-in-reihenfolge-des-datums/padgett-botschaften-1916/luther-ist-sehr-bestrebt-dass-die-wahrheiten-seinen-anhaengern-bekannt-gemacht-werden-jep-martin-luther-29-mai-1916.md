@@ -1,7 +1,7 @@
 ---
 title: "Luther ist sehr bestrebt, dass die Wahrheiten seinen Anhängern bekannt gemacht werden"
 menu_title: ""
-description: "Luther ist sehr bestrebt, dass die Wahrheiten seinen Anhängern bekannt gemacht werden"
+description: "Martin Luther, empfangen durch James Padgett: „Ich möchte gerne meine Botschaft fortsetzen, wenn dir das recht ist. Gut, dann wollen wir es versuchen.“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

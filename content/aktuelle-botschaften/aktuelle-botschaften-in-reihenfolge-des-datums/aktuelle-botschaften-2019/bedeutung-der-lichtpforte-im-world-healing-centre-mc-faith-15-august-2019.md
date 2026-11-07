@@ -1,7 +1,7 @@
 ---
 title: "Bedeutung der Lichtpforte im World Healing Centre "
 menu_title: ""
-description: "Bedeutung der Lichtpforte im World Healing Centre "
+description: "Faith, empfangen durch Maureen Cardoso: „Segne jeden von euch mit euren fortgesetzten Bemühungen, dem himmlischen Vater nahe zu sein, indem ihr dieser …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Richtet euch mit Gottes Seele aus "
 menu_title: ""
-description: "Richtet euch mit Gottes Seele aus "
+description: "Augustinus, empfangen durch Al Fike: „Segnungen für euch geliebte Seelen und möge der Friede mit euch allen sein. Es fehlt so viel in eurem modernen Leben …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

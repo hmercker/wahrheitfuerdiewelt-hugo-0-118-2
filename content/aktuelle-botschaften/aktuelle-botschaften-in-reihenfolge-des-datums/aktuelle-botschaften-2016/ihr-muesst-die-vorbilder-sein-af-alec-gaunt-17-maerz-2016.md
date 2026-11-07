@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst die Vorbilder sein"
 menu_title: ""
-description: "Ihr müsst die Vorbilder sein"
+description: "Alec Gaunt, empfangen durch Al Fike: „Möge Gottes vollkommene Liebe ein großes Einströmen in eure Seelen finden, meine Freunde, und möge diese Liebe euch …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

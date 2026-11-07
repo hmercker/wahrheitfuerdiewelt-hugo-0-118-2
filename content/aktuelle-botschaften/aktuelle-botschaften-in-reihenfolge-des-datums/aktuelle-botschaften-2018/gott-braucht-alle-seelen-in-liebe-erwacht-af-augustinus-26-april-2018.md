@@ -1,7 +1,7 @@
 ---
 title: "Gott braucht alle Seelen in Liebe erwacht"
 menu_title: ""
-description: "Gott braucht alle Seelen in Liebe erwacht"
+description: "Augustinus, empfangen durch Al Fike: „Die Welt braucht euch, euch alle, und noch viel mehr von euch, denn wie soll diese Wahrheit in die Welt kommen, wenn …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

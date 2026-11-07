@@ -1,7 +1,7 @@
 ---
 title: "Was bringt Harmonie in diese Welt? (Fortsetzung)"
 menu_title: ""
-description: "Was bringt Harmonie in diese Welt? (Fortsetzung)"
+description: "Martin Luther, empfangen durch Al Fike: „September 2017), was die Welt in Harmonie bringt. Ich habe erwähnt, dass alles Leben in Gottes Schöpfung im …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

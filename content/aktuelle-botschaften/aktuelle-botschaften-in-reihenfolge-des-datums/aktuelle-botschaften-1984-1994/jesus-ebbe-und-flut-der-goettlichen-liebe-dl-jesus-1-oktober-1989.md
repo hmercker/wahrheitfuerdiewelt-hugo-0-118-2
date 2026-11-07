@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Ebbe und Flut der Göttlichen Liebe"
 menu_title: ""
-description: "Jesus: Ebbe und Flut der Göttlichen Liebe"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, wie du sicher weißt, suchen K und J in Anbetracht deines kürzlichen Besuchs und der …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

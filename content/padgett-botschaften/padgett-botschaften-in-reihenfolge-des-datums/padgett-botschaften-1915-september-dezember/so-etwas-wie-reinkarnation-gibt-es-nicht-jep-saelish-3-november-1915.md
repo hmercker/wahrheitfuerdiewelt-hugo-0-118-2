@@ -1,7 +1,7 @@
 ---
 title: "So etwas wie Reinkarnation gibt es nicht"
 menu_title: ""
-description: "So etwas wie Reinkarnation gibt es nicht"
+description: "Saelish, empfangen durch James Padgett: „Ich war, als ich auf Erden lebte, ein Bewohner des großen Reiches Assyrien, dessen Hauptstadt Niniveh war.“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Salomo‘s Position in den Göttlichen Himmelsphären"
 menu_title: ""
-description: "Salomo‘s Position in den Göttlichen Himmelsphären"
+description: "Salomon, empfangen durch James Padgett: „Nun, ich besuchte die Erdsphäre und sah zufällig die beiden letzten Geisteswesen, die dich besuchten.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

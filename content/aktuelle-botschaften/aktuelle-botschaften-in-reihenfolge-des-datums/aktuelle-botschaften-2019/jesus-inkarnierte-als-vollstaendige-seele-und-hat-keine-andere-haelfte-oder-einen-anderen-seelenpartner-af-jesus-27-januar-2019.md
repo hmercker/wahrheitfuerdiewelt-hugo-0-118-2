@@ -1,7 +1,7 @@
 ---
 title: "Jesus inkarnierte als eine vollständige Seele und hat keine andere Hälfte oder einen Seelenpartner"
 menu_title: ""
-description: "Jesus inkarnierte als eine vollständige Seele und hat keine andere Hälfte oder einen Seelenpartner"
+description: "Jesus, empfangen durch Al Fike: „Es wurde von unserem lieben Bruder aus der Ferne die Frage gestellt, ob es in meinem Leben eine Seelenverwandte gibt.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

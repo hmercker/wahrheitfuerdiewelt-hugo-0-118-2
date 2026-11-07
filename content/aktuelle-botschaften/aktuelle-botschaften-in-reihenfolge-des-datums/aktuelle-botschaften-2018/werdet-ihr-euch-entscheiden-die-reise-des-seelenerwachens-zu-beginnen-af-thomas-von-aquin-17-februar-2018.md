@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr euch entscheiden, die Reise des Seelenerwachens zu beginnen?"
 menu_title: ""
-description: "Werdet ihr euch entscheiden, die Reise des Seelenerwachens zu beginnen?"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Meine Seele wurde durch die Liebe des Vaters verwandelt. Ich wohne jetzt an diesem wunderschönen Ort, der mit …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

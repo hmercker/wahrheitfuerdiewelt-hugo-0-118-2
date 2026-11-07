@@ -1,7 +1,7 @@
 ---
 title: "Den Durst eurer Seele löschen"
 menu_title: ""
-description: "Den Durst eurer Seele löschen"
+description: "Augustinus, empfangen durch Al Fike: „Möge Seine Liebe eine Bleibe in euren Seelen finden, in jedem einzelnen hier, denn Seine Liebe strömt in diesen Raum …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

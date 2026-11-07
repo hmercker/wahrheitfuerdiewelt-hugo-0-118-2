@@ -1,7 +1,7 @@
 ---
 title: "Predigt 6 - Missverständnisse über das Blutopfer"
 menu_title: ""
-description: "Predigt 6 - Missverständnisse über das Blutopfert"
+description: "Jesus, empfangen durch Dr Samuels: „Heute Abend möchte ich darüber schreiben, warum kein Blut, weder das von Menschen noch das von Tieren, die Kraft hat …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Lehre vom Sühneopfer Jesu hat der Menschheit enormen Schaden zugefügt"
 menu_title: ""
-description: "Die Lehre vom Sühneopfer Jesu hat der Menschheit enormen Schaden zugefügt"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Nacht über ein Thema schreiben, das wichtig für die Mitglieder der orthodoxen Kirchen ist, über …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

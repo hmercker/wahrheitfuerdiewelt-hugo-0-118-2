@@ -1,7 +1,7 @@
 ---
 title: "Der Segen Gottes durch Jesus"
 menu_title: ""
-description: "Der Segen Gottes durch Jesus"
+description: "Jesus, empfangen durch Al Fike: „Seine Liebe ergießt sich über euch. Seine Heilung besänftigt euch.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

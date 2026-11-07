@@ -1,7 +1,7 @@
 ---
 title: "Leise diese Wahrheiten leben"
 menu_title: ""
-description: "Leise diese Wahrheiten leben"
+description: "Keea Atta Kem: „Wir freuen uns über die Fortschritte, die heute Abend gemacht wurden. Wir haben jeden einzelnen von euch getestet und geprüft und die …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

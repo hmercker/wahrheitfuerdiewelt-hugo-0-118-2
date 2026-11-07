@@ -1,7 +1,7 @@
 ---
 title: "Alle Wahrheit kommt aus der Seele"
 menu_title: ""
-description: "Alle Wahrheit kommt aus der Seele"
+description: "Augustinus, empfangen durch Al Fike: „Ich sehe, dass ihr heute Morgen eine lebhafte Diskussion geführt habt. Eine ziemlich umstrittene, eine, die einigen …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

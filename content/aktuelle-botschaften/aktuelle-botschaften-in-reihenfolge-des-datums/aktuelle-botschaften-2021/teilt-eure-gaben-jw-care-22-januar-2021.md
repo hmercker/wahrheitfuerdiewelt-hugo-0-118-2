@@ -1,7 +1,7 @@
 ---
 title: "Teilt eure Gaben"
 menu_title: ""
-description: "Teilt eure Gaben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Lukas ist hier, Johannes ist hier, viele, viele sind hier. Denn wir lieben das, was ihr für eine kleine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

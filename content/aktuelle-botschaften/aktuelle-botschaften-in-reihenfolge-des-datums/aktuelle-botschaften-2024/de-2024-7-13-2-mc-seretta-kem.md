@@ -1,7 +1,7 @@
 ---
 title: "Enthüllt euer neues Ich"
 menu_title: ""
-description: "Enthüllt euer neues Ich"
+description: "Seretta Kem, empfangen durch Al Fike: „Jeder von euch hat den Prozess und die Integration auf wunderbare Art und Weise durchlaufen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

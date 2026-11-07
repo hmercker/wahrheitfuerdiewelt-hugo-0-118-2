@@ -1,7 +1,7 @@
 ---
 title: "Jakobus sagt, dass Padgett bald Erleichterung von seinen Sorgen bekommen wird"
 menu_title: ""
-description: "Jakobus sagt, dass Padgett bald Erleichterung von seinen Sorgen bekommen wird"
+description: "Jakobus, empfangen durch James Padgett: „Wenn du am schwächsten bist, dann bist du am stärksten, denn dann verlässt du dich mehr auf die Kraft und Hilfe …“"
 date: 2020-08-01 06:25:48+00:248
 draft: False
 hidden: True

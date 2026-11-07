@@ -1,7 +1,7 @@
 ---
 title: "Ein umherwanderndes spirituelles Wesen sucht Hilfe, da es mehr oder weniger verloren ist"
 menu_title: ""
-description: "Ein umherwanderndes spirituelles Wesen sucht Hilfe, da es mehr oder weniger verloren ist"
+description: "Solomon Brown, empfangen durch James Padgett: „Nun, ich war kein sehr schlechter Mensch, sondern habe lediglich nicht das getan, was ich hätte tun sollen …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

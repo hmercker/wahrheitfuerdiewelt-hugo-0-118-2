@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit über Gottes Liebe verbreiten"
 menu_title: ""
-description: "Die Wahrheit über Gottes Liebe verbreiten"
+description: "Petrus, empfangen durch Al Fike: „Denn ich habe sein Werk nach seinem unglücklichen Tod fortgesetzt, wie viele von uns auch.“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

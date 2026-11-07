@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über die große Liebe Jesu zu ihm"
 menu_title: ""
-description: "Helen schreibt über die große Liebe Jesu zu ihm"
+description: "Helen, empfangen durch James Padgett: „Aber mein Liebling, ich muss dir sagen, dass du dem Meister sehr lieb bist und ein Kind der Liebe des Vaters in sehr …“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Unsere Lehren sind einfach"
 menu_title: ""
-description: "Unsere Lehren sind einfach"
+description: "Moses: „Wir sind heute Abend wirklich gesegnet, und ich wurde gebeten, zu kommen und für eine kurze Zeit zu euch zu sprechen.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

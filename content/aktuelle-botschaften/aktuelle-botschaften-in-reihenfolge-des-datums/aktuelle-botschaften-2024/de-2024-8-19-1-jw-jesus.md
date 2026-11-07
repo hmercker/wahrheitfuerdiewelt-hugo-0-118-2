@@ -1,7 +1,7 @@
 ---
 title: "Ursache und Wirkung, weltlich und geistlich"
 menu_title: ""
-description: "Ursache und Wirkung, weltlich und geistlich"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Möge der Geist der Liebe Gottes mit euch sein. Möge seine heilige Gegenwart eure Seelen erfüllen und das Licht der …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

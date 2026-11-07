@@ -1,7 +1,7 @@
 ---
 title: "Betet zu Gott, um eure Seele zu erlösen"
 menu_title: ""
-description: "Betet zu Gott, um eure Seele zu erlösen"
+description: "Elias, empfangen durch Al Fike: „Wenn es einen Grund zum Beten gibt, geliebte und furchtlose Seelen, dann ist es, eure Seele zu erlösen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

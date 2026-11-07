@@ -1,7 +1,7 @@
 ---
 title: "Über Selbstverteidigung"
 menu_title: ""
-description: "Über Selbstverteidigung"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Gott, ich bete um ein Einströmen Deiner göttlichen Liebe, damit sie meine Seele und meinen Verstand nur mit …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

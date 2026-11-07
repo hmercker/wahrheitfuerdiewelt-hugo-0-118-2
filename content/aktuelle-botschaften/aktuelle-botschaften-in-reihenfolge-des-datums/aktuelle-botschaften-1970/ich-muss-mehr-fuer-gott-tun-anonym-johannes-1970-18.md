@@ -1,7 +1,7 @@
 ---
 title: "Ich muss mehr für Gott tun"
 menu_title: ""
-description: "Ich muss mehr für Gott tun"
+description: "Johannes: „Wenn wir diese große Liebe in unserer Mitte spüren, können wir nicht anders als zu sagen: \"Ich muss mehr für Gott tun\", und das Größte, was wir …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "John Padgett bestätigt die Botschaft über das Wesen Gottes von Padgetts Großmutter"
 menu_title: ""
-description: "John Padgett bestätigt die Botschaft über das Wesen Gottes von Padgetts Großmutter"
+description: "John H. Padgett, empfangen durch James Padgett: „Ich habe die Botschaft Deiner Großmutter gehört und war daran interessiert, zu beobachten, wie Du sie …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

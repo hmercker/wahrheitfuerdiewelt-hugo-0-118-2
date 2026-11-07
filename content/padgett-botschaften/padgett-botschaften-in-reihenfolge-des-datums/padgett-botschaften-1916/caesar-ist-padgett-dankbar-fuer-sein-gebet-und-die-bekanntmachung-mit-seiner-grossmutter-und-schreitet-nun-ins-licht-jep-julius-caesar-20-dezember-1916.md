@@ -1,7 +1,7 @@
 ---
 title: "Cäsar ist Padgett dankbar für sein Gebet und die Bekanntmachung mit seiner Großmutter und schreitet nun ins Licht"
 menu_title: ""
-description: "Cäsar ist Padgett dankbar für sein Gebet und die Bekanntmachung mit seiner Großmutter und schreitet nun ins Licht"
+description: "Cäsar, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich deinen Rat befolgte und mit deiner Großmutter ging und mir eine ganze Welt der Liebe …“"
 date: 2020-08-01 06:25:48+00:295
 draft: False
 hidden: True

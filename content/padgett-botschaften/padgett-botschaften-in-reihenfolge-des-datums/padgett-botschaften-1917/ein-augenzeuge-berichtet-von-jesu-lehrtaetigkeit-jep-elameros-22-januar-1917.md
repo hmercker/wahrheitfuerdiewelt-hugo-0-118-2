@@ -1,7 +1,7 @@
 ---
 title: "Ein Augenzeuge berichtet von Jesu Lehrtätigkeit"
 menu_title: ""
-description: "Ein Augenzeuge berichtet von Jesu Lehrtätigkeit"
+description: "Elameros, empfangen durch James Padgett: „Ich war kein Anhänger von ihm oder ein Gläubiger an seine Lehren, denn ich war ein Schüler von Plato und Sokrates …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

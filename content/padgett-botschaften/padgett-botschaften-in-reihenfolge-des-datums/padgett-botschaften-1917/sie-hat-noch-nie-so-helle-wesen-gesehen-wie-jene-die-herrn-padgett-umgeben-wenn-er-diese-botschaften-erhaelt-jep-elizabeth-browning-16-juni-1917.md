@@ -1,7 +1,7 @@
 ---
 title: "Sie hat noch nie so helle Wesen gesehen wie jene, die Herrn Padgett umgeben, wenn er diese Botschaften erhält"
 menu_title: ""
-description: "Sie hat noch nie so helle Wesen gesehen wie jene, die Herrn Padgett umgeben, wenn er diese Botschaften erhält"
+description: "Elizabeth Barret Browning, empfangen durch James Padgett: „Lass mich ein Wort sagen, und zwar, dass ich die letzte Botschaft, die dir (Johannes) …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

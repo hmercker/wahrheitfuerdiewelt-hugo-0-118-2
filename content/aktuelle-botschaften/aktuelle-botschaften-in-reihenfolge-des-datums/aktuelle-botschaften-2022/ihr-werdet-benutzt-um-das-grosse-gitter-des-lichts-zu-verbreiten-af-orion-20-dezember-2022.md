@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet benutzt, um das Große Gitter des Lichts zu verbreiten"
 menu_title: ""
-description: "Ihr werdet benutzt, um das Große Gitter des Lichts zu verbreiten"
+description: "Orion, empfangen durch Al Fike: „Das große Netz des Lebens, das ihr in der Welt in Gang setzt, breitet sich tatsächlich aus und wächst.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

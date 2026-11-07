@@ -1,7 +1,7 @@
 ---
 title: "Allein die Göttliche Liebe befreit den Menschen aus seiner Begrenzung "
 menu_title: ""
-description: "Allein die Göttliche Liebe befreit den Menschen aus seiner Begrenzung "
+description: "Jesus, empfangen durch James Padgett: „Nein, die Sphären, in denen sie (Saleeba) lebte, sind die, die deine Großmutter als die Wohnorte der rein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

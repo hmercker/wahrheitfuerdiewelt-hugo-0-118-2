@@ -1,7 +1,7 @@
 ---
 title: "Meine Bücher sind wahrlich abgesegnet"
 menu_title: ""
-description: "Meine Bücher sind wahrlich abgesegnet"
+description: "Robert James Lees, empfangen durch Jimbeau Walsh: „Das Auge hat nicht gesehen, das Ohr hat nicht gehört, noch haben die Sinne wahrgenommen, was Gott für …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

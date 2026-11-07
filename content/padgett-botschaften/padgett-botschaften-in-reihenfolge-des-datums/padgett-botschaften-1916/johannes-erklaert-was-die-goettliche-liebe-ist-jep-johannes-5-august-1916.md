@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, was die Göttliche Liebe ist"
 menu_title: ""
-description: "Johannes erklärt, was die Göttliche Liebe ist"
+description: "Johannes, empfangen durch James Padgett: „Diese Liebe ist das Größte auf der ganzen Welt und das einzige, was den Menschen zu einer Einheit mit dem Vater …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

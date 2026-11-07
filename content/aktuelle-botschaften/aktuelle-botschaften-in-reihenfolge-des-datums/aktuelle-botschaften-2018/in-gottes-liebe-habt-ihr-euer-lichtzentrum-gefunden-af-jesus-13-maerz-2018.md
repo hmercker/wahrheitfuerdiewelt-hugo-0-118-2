@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe habt ihr euer Lichtzentrum gefunden"
 menu_title: ""
-description: "In Gottes Liebe habt ihr euer Lichtzentrum gefunden"
+description: "Jesus, empfangen durch Al Fike: „Geliebter Vater, segne diese, Deine Kinder, die Dein Licht suchen, deren Seelen sich nach Deiner Liebe sehnen.“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

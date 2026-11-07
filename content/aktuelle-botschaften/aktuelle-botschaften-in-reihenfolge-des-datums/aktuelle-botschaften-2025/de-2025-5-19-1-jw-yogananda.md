@@ -1,7 +1,7 @@
 ---
 title: "Frieden"
 menu_title: ""
-description: "Frieden"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, kostbare Seelen. Lasst uns in der Liebe Gottes in Frieden leben.“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Illusion, dass wir getrennt sind"
 menu_title: ""
-description: "Die Illusion, dass wir getrennt sind"
+description: "Vater, empfangen durch Child of God: „Ja, wir werden über Ablehnung sprechen. Wie du jetzt erkannt hast, ist die Ablehnung eine große Wunde in allen …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

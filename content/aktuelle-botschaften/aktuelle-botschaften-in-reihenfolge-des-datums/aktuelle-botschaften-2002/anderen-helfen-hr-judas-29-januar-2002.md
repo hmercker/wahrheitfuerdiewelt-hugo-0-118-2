@@ -1,7 +1,7 @@
 ---
 title: "Anderen helfen"
 menu_title: ""
-description: "Anderen helfen"
+description: "Judas, empfangen durch H: „Mein lieber H , gestern haben wir eine Reise in deine Vergangenheit unternommen, und heute werden wir dasselbe tun, um eine …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

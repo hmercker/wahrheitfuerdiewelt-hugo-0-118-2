@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, ihm voll und ganz zu vertrauen"
 menu_title: ""
-description: "Jesus bittet Padgett, ihm voll und ganz zu vertrauen"
+description: "Jesus, empfangen durch James Padgett: „Mein lieber Bruder, ich weiß, was dir deine Frau geschrieben hat und muss zugeben, dass auch ich eingangs Bedenken …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

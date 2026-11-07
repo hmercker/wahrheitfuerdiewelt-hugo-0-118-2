@@ -1,7 +1,7 @@
 ---
 title: "Eugene Morgans Schwester freut sich, dass Eugene die große Liebe des Vaters erhalten hat"
 menu_title: ""
-description: "Eugene Morgans Schwester freut sich, dass Eugene die große Liebe des Vaters erhalten hat"
+description: "Morgan’s Schwester, empfangen durch James Padgett: „Ich habe noch nie zuvor geschrieben. Oh, ich kann meine Gefühle nicht ausdrücken, da ich nun zum ersten …“"
 date: 2020-08-01 06:25:48+00:256
 draft: False
 hidden: True

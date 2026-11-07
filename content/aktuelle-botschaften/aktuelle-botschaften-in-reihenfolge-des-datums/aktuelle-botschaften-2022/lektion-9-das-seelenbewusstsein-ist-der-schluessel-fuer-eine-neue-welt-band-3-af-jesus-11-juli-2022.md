@@ -1,7 +1,7 @@
 ---
 title: "Lektion 9 - Das Seelenbewusstsein ist der Schlüssel zur Geburt einer Neuen Welt - Band 3"
 menu_title: ""
-description: "Lektion 9 - Das Seelenbewusstsein ist der Schlüssel zur Geburt einer Neuen Welt - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Mein Wunsch ist, dass es unter allen Völkern dieser Welt eine große Erhebung und ein großes Erwachen gibt, damit sie ihr …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

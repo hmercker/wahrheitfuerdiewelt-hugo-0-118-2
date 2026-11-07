@@ -1,7 +1,7 @@
 ---
 title: "Salomo betont die Wichtigkeit, diese Wahrheiten zu erhalten, da sich die Menschheit immer mehr spirituellen Dingen zuwendet"
 menu_title: ""
-description: "Salomo betont die Wichtigkeit, diese Wahrheiten zu erhalten, da sich die Menschheit immer mehr spirituellen Dingen zuwendet"
+description: "Salomo, empfangen durch James Padgett: „Es ist lange her, dass ich dir geschrieben habe, obwohl ich viele Male anwesend war, als die anderen spirituellen …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

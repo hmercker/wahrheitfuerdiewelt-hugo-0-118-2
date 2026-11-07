@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet große Veränderungen in dieser Welt erleben"
 menu_title: ""
-description: "Ihr werdet große Veränderungen in dieser Welt erleben"
+description: "Josephus- empfangen durch Al Fike: „Jetzt lebe ich im himmlischen Königreich. Ihr werdet alle große Veränderungen in dieser Welt erleben, weil ihr diese …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

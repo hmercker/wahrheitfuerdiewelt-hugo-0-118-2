@@ -1,7 +1,7 @@
 ---
 title: "Die Gefahr der Medialität"
 menu_title: ""
-description: "Die Gefahr der Medialität"
+description: "Judas, empfangen durch H.: „Dies ist eine Nachricht für meinen lieben Bruder B. Ich weiß, worunter du leidest.“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

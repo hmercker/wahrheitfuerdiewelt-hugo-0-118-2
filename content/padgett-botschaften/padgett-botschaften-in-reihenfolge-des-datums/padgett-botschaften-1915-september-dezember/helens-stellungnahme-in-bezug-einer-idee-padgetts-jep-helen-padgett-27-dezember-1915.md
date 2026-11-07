@@ -1,7 +1,7 @@
 ---
 title: "Helen's Stellungnahme in Bezug einer Idee Padgetts"
 menu_title: ""
-description: "Helen's Stellungnahme in Bezug einer Idee Padgetts"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, ich warte schon seit einiger Zeit darauf, dir zu schreiben und dir zu sagen, dass du nicht das …“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

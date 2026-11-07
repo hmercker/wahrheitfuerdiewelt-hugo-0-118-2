@@ -1,7 +1,7 @@
 ---
 title: "Das frühe Leben von Herrn Padgett"
 menu_title: ""
-description: "Das frühe Leben von Herrn Padgett"
+description: "James E. Padgett, empfangen durch F.A.B.: „Oh, es ist eine solche Freude für mich, mit dir am anderen Ende der Medialität zu sein! Wir alle jubeln über …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

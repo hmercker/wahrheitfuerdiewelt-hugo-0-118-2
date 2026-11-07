@@ -1,7 +1,7 @@
 ---
 title: "Entscheide dich, deine Seele wachsen zu lassen"
 menu_title: ""
-description: "Entscheide dich, deine Seele wachsen zu lassen"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Es ist euer Lehrer Augustinus, einst Bischof von Hippo, als er auf der Erde war, und jetzt ein Bewohner des …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

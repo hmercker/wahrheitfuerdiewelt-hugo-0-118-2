@@ -1,7 +1,7 @@
 ---
 title: "Verbringe Zeit im Gebet, anstatt euch Sorgen zu machen, Gott kümmert sich um euch"
 menu_title: ""
-description: "Verbringe Zeit im Gebet, anstatt euch Sorgen zu machen, Gott kümmert sich um euch"
+description: "Andreas, empfangen durch Al Fike: „Wie gut gesichert ihr in eurem Leben seid. Auch wenn ihr das Gefühl habt, dass ihr euch mehr wünscht, in Wahrheit …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett kommentiert die Botschaft George Whitefields"
 menu_title: ""
-description: "Helen Padgett kommentiert die Botschaft George Whitefields"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebling, ich sehe, dass du einen sehr glücklichen Abend gehabt hast, und das ist nicht zum Verwundern …“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

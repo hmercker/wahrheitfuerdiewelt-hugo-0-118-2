@@ -1,7 +1,7 @@
 ---
 title: "Vertraut auf die Weisheit der Seele"
 menu_title: ""
-description: "Vertraut auf die Weisheit der Seele"
+description: "Salomo, empfangen durch Al Fike: „Dein Verstand spekuliert über viele Dinge. Du hast ein tiefes Verlangen, von den intellektuellen Fähigkeiten deines …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

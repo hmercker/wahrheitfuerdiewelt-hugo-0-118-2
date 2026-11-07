@@ -1,7 +1,7 @@
 ---
 title: "Zu dieser Zeit seid ihr im Schoß Gottes"
 menu_title: ""
-description: "Zu dieser Zeit seid ihr im Schoß Gottes"
+description: "Augustinus, empfangen durch Al Fike: „Ich heiße euch willkommen in diesem Kreis des Lichts und in dieser Zeit, die ihr gemeinsam verbringt, im Gebet und im …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

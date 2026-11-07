@@ -1,7 +1,7 @@
 ---
 title: "Ihr wisst von dieser Liebe"
 menu_title: ""
-description: "Ihr wisst von dieser Liebe"
+description: "Diana Windsor (Prinzessin), empfangen durch Al Fike: „Ihr habt mich gerufen, um zu euch zu sprechen und hier sitze ich mit euch lieben Menschen.“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

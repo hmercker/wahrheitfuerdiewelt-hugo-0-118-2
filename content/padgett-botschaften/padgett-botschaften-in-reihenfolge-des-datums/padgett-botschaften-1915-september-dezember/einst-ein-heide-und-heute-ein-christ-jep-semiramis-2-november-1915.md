@@ -1,7 +1,7 @@
 ---
 title: "Einst ein Heide und heute ein Christ"
 menu_title: ""
-description: "Einst ein Heide und heute ein Christ"
+description: "Semiramis, empfangen durch James Padgett: „Ich war eine griechische Magd und ich möchte nur sagen, dass ich Christin bin und im Göttlichen Himmel lebe, wo …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

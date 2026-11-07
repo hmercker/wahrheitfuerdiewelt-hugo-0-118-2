@@ -1,7 +1,7 @@
 ---
 title: "Ihr kennt euer Selbst"
 menu_title: ""
-description: "Ihr kennt euer Selbst"
+description: "Augustinus: „Es tut meinem Herzen gut, euch Kleine vor dem Thron des Allerhöchsten hereinkommen zu sehen.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

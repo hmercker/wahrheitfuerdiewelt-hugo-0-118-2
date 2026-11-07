@@ -1,7 +1,7 @@
 ---
 title: "Mit Gott ist alles möglich"
 menu_title: ""
-description: "Mit Gott ist alles möglich"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Denn der Schöpfer hält jeden einzelnen von euch in seinen Armen, um euch in diesen turbulenten Zeiten vor …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

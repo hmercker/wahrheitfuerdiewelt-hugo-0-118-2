@@ -1,7 +1,7 @@
 ---
 title: "Padgett Botschaften 1919"
 menu_title: "Padgett Botschaften 1919"
-description: "Padgett Botschaften vom Jahre 1919"
+description: "Author | Titel | Datum der Botschaft ---|---|--- Baruch Spinoza | Spinoza schreibt über die Fähigkeit des Mediums, die Zukunft eines Menschen vorherzusagen …“"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: True

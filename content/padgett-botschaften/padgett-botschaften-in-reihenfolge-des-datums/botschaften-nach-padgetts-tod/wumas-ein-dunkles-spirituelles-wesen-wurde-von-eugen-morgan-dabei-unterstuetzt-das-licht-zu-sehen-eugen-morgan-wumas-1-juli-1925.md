@@ -1,7 +1,7 @@
 ---
 title: "Wumas, ein dunkles spirituelles Wesen, wurde von Eugen Morgan dabei unterstützt, das Licht zu sehen"
 menu_title: ""
-description: "Wumas, ein dunkles spirituelles Wesen, wurde von Eugen Morgan dabei unterstützt, das Licht zu sehen"
+description: "Wumas, empfangen durch Eugene Morgan: „Seit ich diese (spirituelle) Welt betreten habe, habe ich viele Erfahrungen gemacht. Als du deine Erklärung über …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

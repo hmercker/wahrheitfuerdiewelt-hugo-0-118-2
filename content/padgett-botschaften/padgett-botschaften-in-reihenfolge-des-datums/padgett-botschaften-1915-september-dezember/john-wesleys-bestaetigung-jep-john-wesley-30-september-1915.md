@@ -1,7 +1,7 @@
 ---
 title: "John Wesleys Bestätigung"
 menu_title: ""
-description: "John Wesleys Bestätigung"
+description: "John Wesley, empfangen von James Padgett: „Als der Meister sagte: \"Weide meine Schafe\", meinte er nicht nur, dass Petrus und diejenigen, mit denen er …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

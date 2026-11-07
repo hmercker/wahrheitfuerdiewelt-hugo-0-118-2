@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, dass Miss Barton jetzt bei der Mutter von Herrn Padgett ist, die ihr die große Liebe des Vaters erklärt"
 menu_title: ""
-description: "Helen sagt, dass Miss Barton jetzt bei der Mutter von Herrn Padgett ist, die ihr die große Liebe des Vaters erklärt"
+description: "Helen, empfangen durch James Padgett: „Ich habe gehört, was du Weißer Adler erzählt hast, und er war bereit und in der Lage, die spirituellen Wesen …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

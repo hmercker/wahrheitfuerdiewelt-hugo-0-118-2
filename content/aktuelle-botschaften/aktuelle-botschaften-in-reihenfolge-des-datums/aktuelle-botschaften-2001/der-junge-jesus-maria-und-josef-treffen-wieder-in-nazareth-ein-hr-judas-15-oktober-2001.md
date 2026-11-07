@@ -1,7 +1,7 @@
 ---
 title: "Der junge Jesus, Maria und Josef treffen wieder in Nazareth ein"
 menu_title: ""
-description: "Der junge Jesus, Maria und Josef treffen wieder in Nazareth ein"
+description: "Judas, empfangen durch H.: „Du hast bereits gelernt, dass es ihn nicht gibt. Alles, was geschieht, hat Ursachen, und was noch wichtiger ist, es hat einen …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

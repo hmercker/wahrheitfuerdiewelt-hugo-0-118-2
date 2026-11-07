@@ -1,7 +1,7 @@
 ---
 title: "Euer Weg verengt sich in Einfachheit und Freude"
 menu_title: ""
-description: "Euer Weg verengt sich in Einfachheit und Freude"
+description: "Orion, empfangen durch Al Fike: „Der Weg verengt sich für euch alle, meine Freunde. Die Intensität eurer Entwicklung und euer Fokus werden immer enger …“"
 date: 2025-02-23 06:00:00+00:10
 draft: False
 hidden: True

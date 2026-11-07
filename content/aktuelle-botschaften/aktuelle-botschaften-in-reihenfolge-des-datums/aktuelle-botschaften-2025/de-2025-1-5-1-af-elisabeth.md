@@ -1,7 +1,7 @@
 ---
 title: "Erkennt eure Seele als euer primäres Bewusstsein, um wahres Glück zu finden"
 menu_title: ""
-description: "Erkennt eure Seele als euer primäres Bewusstsein, um wahres Glück zu finden"
+description: "Elisabeth, empfangen durch Al Fike: „Ich mache diese Reise, um zu euch über die einfache Wahrheit zu sprechen, was mich an diesen Ort gebracht hat und was …“"
 date: 2025-01-05 06:00:00+00:10
 draft: False
 hidden: True

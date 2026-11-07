@@ -1,7 +1,7 @@
 ---
 title: "Liebe balanciert den materiellen und Seelen Verstand"
 menu_title: ""
-description: "Liebe balanciert den materiellen und Seelen Verstand"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr habt uns wahrlich erhört in unseren Wünschen und Wegen, euch zu höheren Gedanken und Bestrebungen anzuregen.“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

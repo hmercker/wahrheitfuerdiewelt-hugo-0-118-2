@@ -1,7 +1,7 @@
 ---
 title: "George Washington bestätigte, dass die spirituellen Wesen des Altertums schrieben"
 menu_title: ""
-description: "George Washington bestätigte, dass die spirituellen Wesen des Altertums schrieben"
+description: "George Washington, empfangen durch James Padgett: „Nun, du bist mein Bruder, und ich freue mich, dass du mich deinen Bruder nennst, denn in dieser …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

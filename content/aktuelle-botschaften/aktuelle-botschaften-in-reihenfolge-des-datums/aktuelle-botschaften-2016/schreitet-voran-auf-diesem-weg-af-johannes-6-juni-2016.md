@@ -1,7 +1,7 @@
 ---
 title: "Schreitet voran auf diesem Weg!"
 menu_title: ""
-description: "Schreitet voran auf diesem Weg!"
+description: "Johannes, empfangen durch Al Fike: „Eure Sehnsüchte steigen von euren Seelen zum Schöpfer auf und obwohl ihr von vielen verschiedenen Orten und vielen …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

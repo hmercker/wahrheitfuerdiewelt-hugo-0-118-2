@@ -1,7 +1,7 @@
 ---
 title: "Lektion 15 - Die Kraft der Liebe"
 menu_title: ""
-description: "Lektion 15 - Die Kraft der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Mein Gebet ist, dass eure Seelen zu diesen Wahrheiten erweckt werden, dass ihr von diesem Ort tief in euch die Kraft …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

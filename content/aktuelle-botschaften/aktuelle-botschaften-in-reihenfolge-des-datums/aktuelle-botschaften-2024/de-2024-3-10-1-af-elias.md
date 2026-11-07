@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe eures Schöpfers kennenlernen"
 menu_title: ""
-description: "Die Liebe eures Schöpfers kennenlernen"
+description: "Elias, empfangen durch Al Fike: „Denn das ist das Wichtigste, was ihr für euch selbst tun könnt, während ihr auf dieser irdischen Ebene lebt.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

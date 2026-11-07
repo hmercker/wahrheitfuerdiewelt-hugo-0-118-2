@@ -1,7 +1,7 @@
 ---
 title: "Ein dunkles und leidendes spirituelles Wesen kommt und bittet um Hilfe"
 menu_title: ""
-description: "Ein dunkles und leidendes spirituelles Wesen kommt und bittet um Hilfe"
+description: "J.W., empfangen durch James Padgett: „Lass mich schreiben, denn auch ich brauche Hilfe. Du hast diesen anderen spirituellen Wesen viel Zeit gegeben und ich …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

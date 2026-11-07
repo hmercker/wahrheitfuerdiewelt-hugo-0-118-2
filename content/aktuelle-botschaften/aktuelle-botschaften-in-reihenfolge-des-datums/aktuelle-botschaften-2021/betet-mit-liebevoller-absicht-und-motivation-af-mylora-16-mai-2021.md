@@ -1,7 +1,7 @@
 ---
 title: "Betet mit liebevoller Absicht und Motivation"
 menu_title: ""
-description: "Betet mit liebevoller Absicht und Motivation"
+description: "Mylora, empfangen durch Al Fike: „Meine kostbaren und geliebten Freunde, ich danke euch für eure Gebete und eure Anliegen heute.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

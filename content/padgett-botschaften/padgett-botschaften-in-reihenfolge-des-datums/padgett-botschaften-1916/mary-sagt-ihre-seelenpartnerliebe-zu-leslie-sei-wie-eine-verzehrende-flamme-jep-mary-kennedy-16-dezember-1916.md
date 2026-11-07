@@ -1,7 +1,7 @@
 ---
 title: "Mary sagt, ihre Seelenpartner-Liebe zu Leslie sei wie eine verzehrende Flamme"
 menu_title: ""
-description: "Mary sagt, ihre Seelenpartner-Liebe zu Leslie sei wie eine verzehrende Flamme"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, ich werde heute Abend nicht mehr weg gehen, so wie vor ein paar Nächten, als Kate ihrem Bruder ihre …“"
 date: 2020-08-01 06:25:48+00:291
 draft: False
 hidden: True

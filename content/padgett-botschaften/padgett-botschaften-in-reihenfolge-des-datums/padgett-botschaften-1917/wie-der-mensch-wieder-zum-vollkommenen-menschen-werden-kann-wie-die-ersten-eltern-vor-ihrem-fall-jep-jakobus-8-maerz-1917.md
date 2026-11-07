@@ -1,7 +1,7 @@
 ---
 title: "Wie der Mensch wieder zum vollkommenen Menschen werden kann, wie die ersten Eltern vor ihrem Fall"
 menu_title: ""
-description: "Wie der Mensch wieder zum vollkommenen Menschen werden kann, wie die ersten Eltern vor ihrem Fall"
+description: "Jakobus, empfangen durch James Padgett: „Nun, ich möchte über das Thema schreiben: „Was ist die große Wahrheit, die den Weg der Vernichtung der Kräfte der …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

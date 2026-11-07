@@ -1,7 +1,7 @@
 ---
 title: "Über den Glauben"
 menu_title: ""
-description: "Über den Glauben"
+description: "Seretta Kem, empfangen durch Helge Mercker: „Da ich dir die Worte gebracht habe, \"die Großartigkeit des Glaubens zu erkennen\", möchte ich auf dieses Thema …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

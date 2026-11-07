@@ -1,7 +1,7 @@
 ---
 title: "Nehmt euch selbst nicht zu ernst"
 menu_title: ""
-description: "Nehmt euch selbst nicht zu ernst"
+description: "Goldie, empfangen durch Al Fike: „Ich werde euch in die Ohren flüstern und euch kitzeln. (Bauchumarmungen...von Jeanne) Ich werde euren Bauch kitzeln.“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

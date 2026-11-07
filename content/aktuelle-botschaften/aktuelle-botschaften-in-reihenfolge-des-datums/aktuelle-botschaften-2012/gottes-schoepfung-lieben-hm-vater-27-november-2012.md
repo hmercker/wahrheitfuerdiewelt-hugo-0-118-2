@@ -1,7 +1,7 @@
 ---
 title: "Gottes Schöpfung lieben"
 menu_title: ""
-description: "Gottes Schöpfung lieben"
+description: "Vater, empfangen durch Helge Mercker: „Ich möchte sprechen, es ist dein Vater. Liebes Kind, warum zögerst du, denen die Hand zu reichen, die du liebst …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

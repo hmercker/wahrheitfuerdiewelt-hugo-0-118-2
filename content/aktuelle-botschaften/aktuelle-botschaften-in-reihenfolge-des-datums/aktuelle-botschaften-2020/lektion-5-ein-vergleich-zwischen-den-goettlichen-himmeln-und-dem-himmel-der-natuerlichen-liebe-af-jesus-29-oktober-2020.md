@@ -1,7 +1,7 @@
 ---
 title: "Lektion 5 - Ein Vergleich zwischen den Göttlichen Himmeln und dem Himmel der natürlichen Liebe"
 menu_title: ""
-description: "Lektion 5 - Ein Vergleich zwischen den Göttlichen Himmeln und dem Himmel der natürlichen Liebe"
+description: "Jesus, empfangen durch Al Fike: „Danke, liebe Tochter, für deine Gebete. Ich möchte heute über den Vergleich zwischen der Reinheit der Sechsten Sphäre, dem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

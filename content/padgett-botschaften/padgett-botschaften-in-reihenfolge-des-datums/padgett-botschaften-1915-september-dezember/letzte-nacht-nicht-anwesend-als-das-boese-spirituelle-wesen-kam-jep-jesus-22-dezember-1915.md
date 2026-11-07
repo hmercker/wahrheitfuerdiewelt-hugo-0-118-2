@@ -1,7 +1,7 @@
 ---
 title: "Letzte Nacht nicht anwesend, als das böse spirituelle Wesen kam"
 menu_title: ""
-description: "Letzte Nacht nicht anwesend, als das böse spirituelle Wesen kam"
+description: "Jesus, empfangen durch James Padgett: „Deine Gruppe schien aus irgendeinem Grund nicht in der Lage zu sein, diese spirituellen Wesen fernzuhalten, aber du …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der barmherzige Samariter"
 menu_title: ""
-description: "Der barmherzige Samariter"
+description: "Judas, empfangen durch H.: „Nach meinem Bombardement mit historischen Botschaften, die sicher nicht vielen interessant erscheinen werden, die aber auch für …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

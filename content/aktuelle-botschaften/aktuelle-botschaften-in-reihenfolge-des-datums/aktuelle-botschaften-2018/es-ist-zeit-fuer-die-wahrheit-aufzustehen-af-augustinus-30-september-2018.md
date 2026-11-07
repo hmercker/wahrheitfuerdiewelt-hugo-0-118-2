@@ -1,7 +1,7 @@
 ---
 title: "Es ist Zeit, für die Wahrheit aufzustehen"
 menu_title: ""
-description: "Es ist Zeit, für die Wahrheit aufzustehen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt darüber diskutiert, wie ihr mit euren Brüdern und Schwestern kommunizieren könnt—all jene, die den Segen der …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Heilen - Teil 1"
 menu_title: ""
-description: "Das Heilen - Teil 1"
+description: "Jesus, empfangen durch Amada Reza: „Du hast erkannt, dass ich über dieses Thema der Kraft der Heilung schreiben möchte, denn es war ein ernsthaftes Gebet …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir sind bereit, euch dabei zu helfen, eure Gaben zum Ausdruck zu bringen"
 menu_title: ""
-description: "Wir sind bereit, euch dabei zu helfen, eure Gaben zum Ausdruck zu bringen"
+description: "Jeanne d'Arc, empfangen durch Elisabeth Mack: „Wir alle schließen uns euch im Gebet an, schenken unserem himmlischen Vater unsere Liebe und verpflichten …“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

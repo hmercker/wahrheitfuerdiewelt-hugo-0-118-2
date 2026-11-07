@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die wichtige Botschaft Jesu"
 menu_title: ""
-description: "Helen kommentiert die wichtige Botschaft Jesu"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hattest eine wunderbare und wichtige Botschaft von Jesus erhalten. Du musst sie studieren, denn …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

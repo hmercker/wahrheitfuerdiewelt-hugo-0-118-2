@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt zur Einheit in der Familie der Göttlichen Liebe"
 menu_title: ""
-description: "Ermutigt zur Einheit in der Familie der Göttlichen Liebe"
+description: "Jesus, empfangen durch Al Fike: „Das Bewusstsein muss zur Menschheit kommen, denn wie soll sich die Welt verändern und geheilt werden, wenn die Menschheit …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

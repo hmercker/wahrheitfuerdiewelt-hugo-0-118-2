@@ -1,7 +1,7 @@
 ---
 title: "Lebe die Wahrheit von Gottes Liebe"
 menu_title: ""
-description: "Lebe die Wahrheit von Gottes Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Ja, ihr seht mit euren materiellen Augen und kennt mit eurem materiellen Verstand viele der Ungerechtigkeiten und der …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frage und Antwort Sitzung 3 - Das Gebet "
 menu_title: ""
-description: "Frage und Antwort Sitzung 3 - Das Gebet "
+description: "Jesus, empfangen durch Al Fike: „Mögen die Winde des Wandels mehr Licht in eure Welt bringen. Möge die Menschheit dazu kommen, ihre spirituelle Natur und …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

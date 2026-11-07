@@ -1,7 +1,7 @@
 ---
 title: "Ruht und betet, um euch zu regenerieren"
 menu_title: ""
-description: "Ruht und betet, um euch zu regenerieren"
+description: "Matthäus, empfangen durch Al Fike: „Darf ich eine Agenda für morgen vorschlagen? Da ihr beide tatsächlich eine kraftvolle Heilung und Behandlung erfahren …“"
 date: 2020-08-01 06:25:48+00:233
 draft: False
 hidden: True

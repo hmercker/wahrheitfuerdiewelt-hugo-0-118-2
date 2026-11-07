@@ -1,7 +1,7 @@
 ---
 title: "Jesus kennt jeden von uns beim Namen"
 menu_title: ""
-description: "Jesus kennt jeden von uns beim Namen"
+description: "Jesus, empfangen durch Al Fike: „Wir bitten, dass Gott uns mit seiner Liebe segnen möge. Jeder von euch repräsentiert eine Glut der Wahrheit, die ihr mit …“"
 date: 2025-03-19 06:00:00+00:10
 draft: False
 hidden: True

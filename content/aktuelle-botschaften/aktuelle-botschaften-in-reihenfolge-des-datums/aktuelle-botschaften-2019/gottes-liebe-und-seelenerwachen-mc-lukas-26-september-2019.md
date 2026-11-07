@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe und Seelenerwachen"
 menu_title: ""
-description: "Gottes Liebe und Seelenerwachen"
+description: "Lukas, empfangen durch Maureen Cardoso: „Wir stehen bei euch und laden diese große Essenz des geliebten Schöpfers in unsere Seelen ein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

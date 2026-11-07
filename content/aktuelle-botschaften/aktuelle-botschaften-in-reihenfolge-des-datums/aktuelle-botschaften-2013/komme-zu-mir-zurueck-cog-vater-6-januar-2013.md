@@ -1,7 +1,7 @@
 ---
 title: "Komme zu mir zurück"
 menu_title: ""
-description: "Komme zu mir zurück"
+description: "Vater, empfangen durch Child of God: „Komm zu mir zurück, liebes Kind. Lass deine Ablenkungen los und tauche mit mir in die ewige Liebe ein.“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

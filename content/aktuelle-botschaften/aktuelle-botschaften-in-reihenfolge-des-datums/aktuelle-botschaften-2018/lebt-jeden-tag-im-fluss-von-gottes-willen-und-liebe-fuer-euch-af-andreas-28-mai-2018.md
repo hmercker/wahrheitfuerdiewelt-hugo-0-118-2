@@ -1,7 +1,7 @@
 ---
 title: "Lebt jeden Tag im Fluss von Gottes Willen und Liebe für euch"
 menu_title: ""
-description: "Lebt jeden Tag im Fluss von Gottes Willen und Liebe für euch"
+description: "Andreas, empfangen durch Al Fike: „Die Welt öffnet sich jetzt in eurem Leben für euch. Gott hat dies möglich gemacht.“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr folgt dem Weg, dem ich gefolgt bin"
 menu_title: ""
-description: "Ihr folgt dem Weg, dem ich gefolgt bin"
+description: "Jesus, empfangen durch Al Fike: „Ihr habt meine Gegenwart oft erfahren, wenn ihr betet. Weil ihr meine Jünger seid, bringt ihr diese Wahrheit, die ich …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

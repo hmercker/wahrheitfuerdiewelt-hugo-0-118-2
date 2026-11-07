@@ -1,7 +1,7 @@
 ---
 title: "Glaube und die Seele 3: Bemüht euch, eure Seele kennenzulernen und ihr zu vertrauen"
 menu_title: ""
-description: "Glaube und die Seele 3: Bemüht euch, eure Seele kennenzulernen und ihr zu vertrauen"
+description: "Augustinus, empfangen durch Al Fike: „Euer Lehrer Augustinus ist hier bei euch, um unsere Abhandlungen und Anleitungen fortzusetzen, was das Kommende …“"
 date: 2026-04-12 06:00:00+00:10
 draft: False
 hidden: True

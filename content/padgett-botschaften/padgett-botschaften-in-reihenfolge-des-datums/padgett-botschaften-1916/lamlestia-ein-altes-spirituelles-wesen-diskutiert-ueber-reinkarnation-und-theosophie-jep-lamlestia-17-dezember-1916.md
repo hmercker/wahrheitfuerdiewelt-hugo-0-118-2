@@ -1,7 +1,7 @@
 ---
 title: "Lamlestia (ein altes spirituelles Wesen) diskutiert über Reinkarnation und Theosophie"
 menu_title: ""
-description: "Lamlestia (ein altes spirituelles Wesen) diskutiert über Reinkarnation und Theosophie"
+description: "Lamlestia, empfangen durch James Padgett: „Ich war ein Bewohner Indiens, als dieses Land den modernen Nationen noch unbekannt war, und ich lebte in der …“"
 date: 2020-08-01 06:25:48+00:292
 draft: False
 hidden: True

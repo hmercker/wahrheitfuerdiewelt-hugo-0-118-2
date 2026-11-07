@@ -1,7 +1,7 @@
 ---
 title: "Laura Burroughs schreibt, sie sei so dankbar, die Wahrheit zu kennen"
 menu_title: ""
-description: "Laura Burroughs schreibt, sie sei so dankbar, die Wahrheit zu kennen"
+description: "Laura Burroughs, empfangen durch James Padgett: „Ja, ich möchte nur ein Wort schreiben. Seit ich dir das letzte Mal geschrieben habe, habe ich sehr große …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

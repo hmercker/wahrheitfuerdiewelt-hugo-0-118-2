@@ -1,7 +1,7 @@
 ---
 title: "Das Gute, das im Verborgenen liegt"
 menu_title: ""
-description: "Das Gute, das im Verborgenen liegt"
+description: "Judas, empfangen durch H.: „Dann schaute Jesus auf und sah, wie die reichen Leute ihre Gaben in die Schatzkammer [des Tempels] fallen ließen, und er …“"
 date: 2020-08-01 06:25:48+00:263
 draft: False
 hidden: True

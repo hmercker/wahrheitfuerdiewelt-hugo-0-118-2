@@ -1,7 +1,7 @@
 ---
 title: "Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3"
 menu_title: ""
-description: "Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Mögen alle, die auf der Suche nach der Wahrheit sind, die Wahrheit in dem, was ich mit euch teile, entdecken und diese …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

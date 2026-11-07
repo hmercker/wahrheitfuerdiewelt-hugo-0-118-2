@@ -1,7 +1,7 @@
 ---
 title: "Automatisches Schreiben und Gedankeneingebung"
 menu_title: ""
-description: "Automatisches Schreiben und Gedankeneingebung"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, ich habe soeben die letzten drei Botschaften von dir durch K gelesen und wieder gelesen und fand …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

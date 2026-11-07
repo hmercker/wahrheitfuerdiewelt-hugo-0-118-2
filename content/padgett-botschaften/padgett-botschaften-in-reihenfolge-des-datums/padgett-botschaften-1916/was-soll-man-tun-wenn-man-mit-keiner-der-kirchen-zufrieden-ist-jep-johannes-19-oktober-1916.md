@@ -1,7 +1,7 @@
 ---
 title: "Was soll man tun, wenn man mit keiner der Kirchen zufrieden ist?"
 menu_title: ""
-description: "Was soll man tun, wenn man mit keiner der Kirchen zufrieden ist?"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend bei dir und hörte den Prediger die Fragen beantworten, und einige seiner Antworten waren sehr …“"
 date: 2020-08-01 06:25:48+00:237
 draft: False
 hidden: True

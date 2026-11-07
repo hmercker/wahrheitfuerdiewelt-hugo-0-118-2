@@ -1,7 +1,7 @@
 ---
 title: "Jesus tröstet Eugene Morgan "
 menu_title: ""
-description: "Jesus tröstet Eugene Morgan "
+description: "Jesus, empfangen durch James Padgett: „Bewahre deinen Mut und deinen Glauben, und alles, was ich versprochen habe, wird zu dir kommen, und du wirst nicht …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

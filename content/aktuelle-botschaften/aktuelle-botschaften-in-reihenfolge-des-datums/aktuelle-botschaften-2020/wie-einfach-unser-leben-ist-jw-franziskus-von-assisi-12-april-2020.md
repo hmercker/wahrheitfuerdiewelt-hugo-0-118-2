@@ -1,7 +1,7 @@
 ---
 title: "Wie einfach unser Leben ist"
 menu_title: ""
-description: "Wie einfach unser Leben ist"
+description: "Franziskus, empfangen durch Jimbeau Walsh: „An diesem Tag feiern wir die Auferstehung in den Geist. Wenn ihr betet und Gottes Liebe empfangt, stellen wir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

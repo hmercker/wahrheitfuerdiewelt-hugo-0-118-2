@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung für den Kreis der Sieben "
 menu_title: ""
-description: "Ermutigung für den Kreis der Sieben "
+description: "Martin Luther, empfangen durch Helge Mercker: „Im Fluss der Liebe des Vaters wird viel offenbart und es kann so viel erreicht werden, wenn man ständig nach …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

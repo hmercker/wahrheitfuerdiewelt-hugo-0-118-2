@@ -1,7 +1,7 @@
 ---
 title: "Wir alle erleben Gott auf einzigartige Weise"
 menu_title: ""
-description: "Wir alle erleben Gott auf einzigartige Weise"
+description: "Orion, empfangen durch Al Fike: „Eure Wünsche, Gedanken und Handlungen sind für uns alle ziemlich transparent, denn wir haben die Wahrnehmungen und …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

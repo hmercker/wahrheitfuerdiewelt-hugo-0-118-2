@@ -1,7 +1,7 @@
 ---
 title: "Ein großer Durst in meinem Land"
 menu_title: ""
-description: "Ein großer Durst in meinem Land"
+description: "Abraham Lincoln, empfangen durch Al Fike: „Ich fühle mich qualifiziert, zu meinem Volk in Amerika zu sprechen, für das ich eine tiefe Sorge habe, und ich …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

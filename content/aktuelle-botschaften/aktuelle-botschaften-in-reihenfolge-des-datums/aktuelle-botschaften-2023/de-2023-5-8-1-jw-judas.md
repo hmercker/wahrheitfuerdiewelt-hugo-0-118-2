@@ -1,7 +1,7 @@
 ---
 title: "Die Seele ist Zeitlos"
 menu_title: ""
-description: "Die Seele ist Zeitlos"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe meinem lieben Bruder heute eingeschärft, dass ich über Zeit und ihre Relevanz sprechen möchte, oder …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

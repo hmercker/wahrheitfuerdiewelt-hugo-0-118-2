@@ -1,7 +1,7 @@
 ---
 title: "Verschiedene Gesichter zeigen"
 menu_title: ""
-description: "Verschiedene Gesichter zeigen"
+description: "Judas, empfangen durch Jimbeau Walsh: „Wir haben darüber nachgedacht, wer sprechen könnte und Kahlil hat mich in Schutz genommen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

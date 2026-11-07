@@ -1,7 +1,7 @@
 ---
 title: "Gebt euch Gott hin, Geliebte "
 menu_title: ""
-description: "Gebt euch Gott hin, Geliebte "
+description: "Maria, empfangen durch Al Fike: „Ich möchte euch versichern, dass die Welt zur rechten Zeit ins Licht kommen wird. Dass, obwohl in der Zukunft dunkle …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

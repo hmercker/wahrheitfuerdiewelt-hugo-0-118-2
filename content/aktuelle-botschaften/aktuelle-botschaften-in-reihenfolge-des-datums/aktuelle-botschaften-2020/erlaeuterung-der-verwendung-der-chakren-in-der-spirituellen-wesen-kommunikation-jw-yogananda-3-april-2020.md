@@ -1,7 +1,7 @@
 ---
 title: "Erläuterung der Verwendung der Chakren in der spirituellen Wesen Kommunikation"
 menu_title: ""
-description: "Erläuterung der Verwendung der Chakren in der spirituellen Wesen Kommunikation"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Weißer Adler wird an einem bestimmten Punkt zu euch über die Große Versammlung der Stämme und ihre wahre …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

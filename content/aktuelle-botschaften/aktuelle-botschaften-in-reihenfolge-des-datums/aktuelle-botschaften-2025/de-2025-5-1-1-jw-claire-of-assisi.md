@@ -1,7 +1,7 @@
 ---
 title: "Deine Wunden überwinden - Teil 1"
 menu_title: ""
-description: "Deine Wunden überwinden - Teil 1"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ihr erinnert euch vielleicht an die Worte von Paulus: „Wenn ich auch mit Menschen- und Engelszungen rede …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

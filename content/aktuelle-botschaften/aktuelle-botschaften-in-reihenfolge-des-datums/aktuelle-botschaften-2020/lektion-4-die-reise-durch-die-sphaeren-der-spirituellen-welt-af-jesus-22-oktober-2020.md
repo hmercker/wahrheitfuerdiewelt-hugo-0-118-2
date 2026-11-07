@@ -1,7 +1,7 @@
 ---
 title: "Lektion 4 - Die Reise durch die Sphären der Spirituellen Welt"
 menu_title: ""
-description: "Lektion 4 - Die Reise durch die Sphären der Spirituellen Welt"
+description: "Jesus, empfangen durch Al Fike: „Möge Gott Seine Liebe in eure Herzen und Seelen übertragen, ihr Geliebten. Ich freue mich, dass es auf der ganzen Welt …“"
 date: 2020-10-01 06:25:48+00:73
 draft: False
 hidden: True

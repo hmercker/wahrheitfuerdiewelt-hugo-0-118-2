@@ -1,7 +1,7 @@
 ---
 title: "Präsident McKinley und andere in der spirituellen Welt bemühen sich um ein Ende des Krieges"
 menu_title: ""
-description: "Präsident McKinley und andere in der spirituellen Welt bemühen sich um ein Ende des Krieges"
+description: "McKinley, empfangen durch James Padgett: „Lass mich ein Wort sagen, da ich mich für diesen großen Konflikt der Nationen interessiere, und besonders für die …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich gehe mit euch, seid in Frieden"
 menu_title: ""
-description: "Ich gehe mit euch, seid in Frieden"
+description: "Maria, empfangen durch Al Fike: „Auch ich gehe mit euch auf euren Reisen zu Gott und eurem Wunsch, der Menschheit zu dienen.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

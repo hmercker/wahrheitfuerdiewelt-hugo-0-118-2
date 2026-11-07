@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt dass Jesus durch Herrn Padgett geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt dass Jesus durch Herrn Padgett geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, Schätzchen, du bist zu müde, um zu schreiben, denn du solltest besser ins Bett gehen und gut schlafen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "In die Gnade fallen"
 menu_title: ""
-description: "In die Gnade fallen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Lasst euch in Gnade fallen und in Gottes Liebe aufgehoben sein. Das ist eine Sache des Herzens.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 8 - Jesus fleht die Menschheit an, ihre Lebensweisen zu ändern"
 menu_title: ""
-description: "Lektion 8 - Jesus fleht die Menschheit an, ihre Lebensweisen zu ändern"
+description: "Jesus, empfangen durch Al Fike: „Dieses liebe Instrument spürt die Last der Verantwortung in Bezug auf diese gegebenen Botschaften.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

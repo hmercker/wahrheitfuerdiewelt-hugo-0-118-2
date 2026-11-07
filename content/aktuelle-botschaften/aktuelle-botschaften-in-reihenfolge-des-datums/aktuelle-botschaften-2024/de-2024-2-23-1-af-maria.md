@@ -1,7 +1,7 @@
 ---
 title: "Der große Tröster der Liebe Gottes ist über uns allen"
 menu_title: ""
-description: "Der große Tröster der Liebe Gottes ist über uns allen"
+description: "Maria, empfangen durch Al Fike: „Ich liebe euch, geliebte Kinder. In der Tat ist der große Tröster der Liebe Gottes über uns alle gekommen, um zu heilen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

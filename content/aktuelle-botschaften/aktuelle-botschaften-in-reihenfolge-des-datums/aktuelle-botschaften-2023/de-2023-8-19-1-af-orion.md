@@ -1,7 +1,7 @@
 ---
 title: "Glaube über Furcht während der Klärung der Welt"
 menu_title: ""
-description: "Glaube über Furcht während der Klärung der Welt"
+description: "Orion, empfangen durch Al Fike: „Ihr alle steht in eurem Leben vor Herausforderungen, die die menschliche Verfassung und die irdischen Bedingungen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

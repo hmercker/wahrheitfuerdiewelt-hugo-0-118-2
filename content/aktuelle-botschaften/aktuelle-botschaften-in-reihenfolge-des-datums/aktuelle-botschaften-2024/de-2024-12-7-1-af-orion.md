@@ -1,7 +1,7 @@
 ---
 title: "Die bevorstehende Reise der Menschheit"
 menu_title: ""
-description: "Die bevorstehende Reise der Menschheit"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Die Welt schreitet weiter voran in Richtung Transformation und Heilung.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

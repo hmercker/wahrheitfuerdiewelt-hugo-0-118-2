@@ -1,7 +1,7 @@
 ---
 title: "Ich berühre deine Seele mit einem stillen Kuss"
 menu_title: ""
-description: "Ich berühre deine Seele mit einem stillen Kuss"
+description: "Vater, empfangen durch Child of God: „Fühle, wie meine Liebe dein schönes Herz umarmt. Ich berühre deine Seele mit einem stillen Kuss.“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

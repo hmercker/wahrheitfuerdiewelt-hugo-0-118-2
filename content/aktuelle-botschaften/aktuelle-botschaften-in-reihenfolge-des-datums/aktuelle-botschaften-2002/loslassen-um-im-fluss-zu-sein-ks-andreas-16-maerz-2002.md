@@ -1,7 +1,7 @@
 ---
 title: "Loslassen, um im Fluss zu sein"
 menu_title: ""
-description: "Loslassen, um im Fluss zu sein"
+description: "Andreas, empfangen durch Kathryn Stokes: „Wir sind hier bei dir, meine liebe Schwester in Christus, und wir lassen dich nie lange allein, sondern stehen …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

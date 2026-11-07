@@ -1,7 +1,7 @@
 ---
 title: "Die Geschwindigkeit der Liebe"
 menu_title: ""
-description: "Die Geschwindigkeit der Liebe"
+description: "Jesus, empfangen durch Kathryn Stokes: „Früher \"fühlte\" ich die Gegenwart meines Schutzengels, wenn ich schrieb, und die \"M's\" \"zögerten\" am Ende jeder …“"
 date: 2020-08-01 06:25:48+00:277
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Josef spricht über die Stärke des Einsatzes"
 menu_title: ""
-description: "Josef spricht über die Stärke des Einsatzes"
+description: "Josef, empfangen durch Al Fike: „Wie schwierig es für die Sterblichen ist, sich auf einen einzigen Weg zu beschränken, auf eine einfache Wahrheit, denn ihr …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

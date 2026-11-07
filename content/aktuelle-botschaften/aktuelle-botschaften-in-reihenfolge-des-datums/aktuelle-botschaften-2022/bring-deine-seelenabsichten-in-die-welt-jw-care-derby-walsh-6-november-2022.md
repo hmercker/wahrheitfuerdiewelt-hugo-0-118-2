@@ -1,7 +1,7 @@
 ---
 title: "Bring deine Seelenabsichten in die Welt"
 menu_title: ""
-description: "Bring deine Seelenabsichten in die Welt"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Als ich auf der Erde war, habe ich mich manchmal als Gebetskriegerin bezeichnet, denn das waren die …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

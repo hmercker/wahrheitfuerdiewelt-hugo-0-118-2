@@ -1,7 +1,7 @@
 ---
 title: "Spencer (ein Freund) kommentiert das Buch, das Herr Padgett über Spiritismus gelesen hat"
 menu_title: ""
-description: "Spencer (ein Freund) kommentiert das Buch, das Herr Padgett über Spiritismus gelesen hat"
+description: "Spencer, empfangen durch James Padgett: „Und ich möchte nur ein Wort an deinen Freund richten, der so sehr an der Entdeckung der Wahrheiten der …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

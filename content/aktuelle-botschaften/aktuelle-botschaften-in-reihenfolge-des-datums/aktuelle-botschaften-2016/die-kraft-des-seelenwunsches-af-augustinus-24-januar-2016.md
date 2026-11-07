@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Seelenwunsches"
 menu_title: ""
-description: "Die Kraft des Seelenwunsches"
+description: "Augustinus [^1], empfangen durch Al Fike: „Es ist wichtig, den Wunsch eurer Seele zu wissen, denn der Wunsch der Seele kann von den Wünschen des Verstandes …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

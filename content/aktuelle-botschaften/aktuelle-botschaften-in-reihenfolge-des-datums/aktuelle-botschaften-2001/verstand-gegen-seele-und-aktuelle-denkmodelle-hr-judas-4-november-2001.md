@@ -1,7 +1,7 @@
 ---
 title: "Verstand gegen Seele und aktuelle Denkmodelle"
 menu_title: ""
-description: "Verstand gegen Seele und aktuelle Denkmodelle"
+description: "Judas, empfangen durch H.: „Es ist einige Zeit her, seit wir uns das letzte Mal getroffen haben. Wieder einmal hast du dir angewöhnt, mir nicht genug Zeit …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Predigt 26 - Hosea's Erkenntnis der Liebe des Vaters"
 menu_title: ""
-description: "Predigt 26 - Hosea's Erkenntnis der Liebe des Vaters"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte nun die Gespräche, die wir über die Psalmen geführt haben, abschließen und die Bücher der Propheten öffnen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

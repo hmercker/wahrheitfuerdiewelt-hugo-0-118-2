@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 1: Jesus und sein Cousin Johannes der Täufer"
 menu_title: ""
-description: "Offenbarung 1: Jesus und sein Cousin Johannes der Täufer"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute möchte ich dir wieder schreiben, was im Neuen Testament falsch beziehungsweise richtig ist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

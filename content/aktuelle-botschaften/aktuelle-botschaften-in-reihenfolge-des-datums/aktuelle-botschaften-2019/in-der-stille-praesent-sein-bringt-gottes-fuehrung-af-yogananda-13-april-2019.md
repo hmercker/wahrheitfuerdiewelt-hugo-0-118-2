@@ -1,7 +1,7 @@
 ---
 title: "In der Stille präsent sein, bringt Gottes Führung"
 menu_title: ""
-description: "In der Stille präsent sein, bringt Gottes Führung"
+description: "Yogananda, empfangen durch Al Fike: „Es ist in der Tat ein großer Segen, in der Gegenwart zu sein. Denn in der Gegenwart könnt ihr viele Dinge vollständig …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

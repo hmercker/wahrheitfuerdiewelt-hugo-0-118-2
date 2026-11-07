@@ -1,7 +1,7 @@
 ---
 title: "Wir sind Seelen wie ihr"
 menu_title: ""
-description: "Wir sind Seelen wie ihr"
+description: "Orion, empfangen durch Al Fike: „Eine von unzähligen Seelen. Eine mit der Bezeichnung, eine Seele zu haben, ein Teil der großen Familie der Seelen zu sein …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

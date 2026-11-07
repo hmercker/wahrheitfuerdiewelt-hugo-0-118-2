@@ -1,7 +1,7 @@
 ---
 title: "Trance-Medialität"
 menu_title: ""
-description: "Trance-Medialität"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, lass uns über Trance sprechen. Ich halte es für angebracht, dieses Thema anzusprechen, da es diesbezüglich …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

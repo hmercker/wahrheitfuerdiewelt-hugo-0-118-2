@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist der Weg, die Wahrheit und das Leben für die ganze Menschheit "
 menu_title: ""
-description: "Jesus ist der Weg, die Wahrheit und das Leben für die ganze Menschheit "
+description: "Jesus, empfangen durch James Padgett: „Du solltest nicht daran zweifeln, da ich dir bereits gesagt habe, dass ich es bin. Sie sind in einem Zustand welcher …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

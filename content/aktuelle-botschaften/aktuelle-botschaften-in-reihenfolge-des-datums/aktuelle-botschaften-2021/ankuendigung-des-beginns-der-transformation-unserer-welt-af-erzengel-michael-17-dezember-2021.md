@@ -1,7 +1,7 @@
 ---
 title: "Ankündigung des Beginns der Transformation unserer Welt"
 menu_title: ""
-description: "Ankündigung des Beginns der Transformation unserer Welt"
+description: "Erzengel Michael, empfangen durch Al Fike: „Ich sage euch, dass auch wir, die wir mit den Abläufen des Universums zu tun haben, kommen werden, um euch in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

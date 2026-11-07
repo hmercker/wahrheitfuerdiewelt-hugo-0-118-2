@@ -1,7 +1,7 @@
 ---
 title: "Celestia die Märtyrerin"
 menu_title: ""
-description: "Celestia die Märtyrerin"
+description: "Celestia, empfangen durch James Padgett: „Ich war eine Christin, die von der fanatischen Kirche von Rom gemartert wurde. Ich lebte in Italien und war eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

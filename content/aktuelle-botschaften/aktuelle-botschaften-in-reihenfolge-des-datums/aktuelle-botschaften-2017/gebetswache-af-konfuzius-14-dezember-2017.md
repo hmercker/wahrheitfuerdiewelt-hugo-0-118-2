@@ -1,7 +1,7 @@
 ---
 title: "Gebetswache"
 menu_title: ""
-description: "Gebetswache"
+description: "Konfuzius, empfangen durch Al Fike: „Die Engel sind heute Abend bei euch, ganz in der Nähe. Haltet eure Gebete zu Gott, intensiv und beständig.“"
 date: 2020-08-01 06:25:48+00:252
 draft: False
 hidden: True

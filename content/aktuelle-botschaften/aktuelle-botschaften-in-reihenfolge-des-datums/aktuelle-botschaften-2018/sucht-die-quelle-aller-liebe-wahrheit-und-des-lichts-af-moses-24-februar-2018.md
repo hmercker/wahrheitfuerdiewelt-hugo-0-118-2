@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Quelle aller Liebe, Wahrheit und des Lichts"
 menu_title: ""
-description: "Sucht die Quelle aller Liebe, Wahrheit und des Lichts"
+description: "Moses, empfangen durch Al Fike: „So viele in eurer Welt treiben auf einem Meer der Verzweiflung. Verloren und verwirrt, kennen sie sich selbst nicht.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erdveränderungen und eure Rolle"
 menu_title: ""
-description: "Erdveränderungen und eure Rolle"
+description: "Jakobus, empfangen durch Al Fike: „Ja, die Erde verändert sich. Die Verhaltensmuster der Tiere, des Wetters und sogar der Jahreszeiten ändern sich.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wie nah seid ihr dem Willen Gottes?"
 menu_title: ""
-description: "Wie nah seid ihr dem Willen Gottes?"
+description: "Orion, empfangen durch Al Fike: „Stellt euch vor, dass ihr an der Spitze des spirituellen Erwachens eurer Welt steht. Dieser Plan wird nicht nur von uns …“"
 date: 2025-06-22 06:00:00+00:00
 draft: False
 hidden: True

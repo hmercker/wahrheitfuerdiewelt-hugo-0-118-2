@@ -1,7 +1,7 @@
 ---
 title: "Es soll bekannt sein, dass Gott die Menschheit erheben will"
 menu_title: ""
-description: "Es soll bekannt sein, dass Gott die Menschheit erheben will"
+description: "Orion, empfangen durch Al Fike: „Es gibt viele Mythen und viele Ideen, viele Dinge voller Angst und Projektionen und Missverständnisse in Bezug auf unsere …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Maria bringt den Seelen auf der Erde die Liebe einer Mutter"
 menu_title: ""
-description: "Maria bringt den Seelen auf der Erde die Liebe einer Mutter"
+description: "Maria, empfangen durch Maureen Cardoso: „Ich begleite euch in eurer Zeit des Gebets, in der ihr eure Seele öffnet, die sich danach sehnt, von der Gnade …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Widmet eure Zeit dem spirituellen Weg"
 menu_title: ""
-description: "Widmet eure Zeit dem spirituellen Weg"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt den Wunsch und die Neigung, dies in der Welt zu tun, die Gelegenheiten zu nutzen, die vor euch liegen, um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

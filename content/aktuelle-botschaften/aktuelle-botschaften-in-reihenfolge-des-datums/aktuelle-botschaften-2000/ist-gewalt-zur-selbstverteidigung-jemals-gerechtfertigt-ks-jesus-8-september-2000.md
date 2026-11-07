@@ -1,7 +1,7 @@
 ---
 title: "Ist Gewalt zur Selbstverteidigung jemals gerechtfertigt?"
 menu_title: ""
-description: "Ist Gewalt zur Selbstverteidigung jemals gerechtfertigt?"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, Quelle aller Liebe, Schöpfer unserer Seelen, ich bete um ein großes Einströmen Deiner …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

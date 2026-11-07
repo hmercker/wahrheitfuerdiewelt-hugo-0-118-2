@@ -1,7 +1,7 @@
 ---
 title: "Das Netz der Liebe"
 menu_title: ""
-description: "Das Netz der Liebe"
+description: "Vater, empfangen durch Helge Mercker: „Mein Kind, ich möchte mit dir sprechen. Du bist ermutigt, deine Hand auszustrecken und dein Netz zu bauen, ja das …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

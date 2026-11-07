@@ -1,7 +1,7 @@
 ---
 title: "Der Mangel an Hoffnung in den Höllen"
 menu_title: ""
-description: "Der Mangel an Hoffnung in den Höllen"
+description: "Judas, empfangen durch H.: „Die Padgett-Botschaften enthalten die eine oder andere eher suggestive Beschreibung der Situation in den Höllen, von Orten und …“"
 date: 2020-08-01 06:25:48+00:256
 draft: False
 hidden: True

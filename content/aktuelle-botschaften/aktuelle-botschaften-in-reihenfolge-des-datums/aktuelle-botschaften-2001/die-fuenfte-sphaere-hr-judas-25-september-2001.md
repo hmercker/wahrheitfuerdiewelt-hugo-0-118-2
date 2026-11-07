@@ -1,7 +1,7 @@
 ---
 title: "Die fünfte Sphäre"
 menu_title: ""
-description: "Die fünfte Sphäre"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, heute bin ich gekommen, um dir ein wenig mehr über die Bedingungen zu erzählen, die in der fünften Sphäre …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

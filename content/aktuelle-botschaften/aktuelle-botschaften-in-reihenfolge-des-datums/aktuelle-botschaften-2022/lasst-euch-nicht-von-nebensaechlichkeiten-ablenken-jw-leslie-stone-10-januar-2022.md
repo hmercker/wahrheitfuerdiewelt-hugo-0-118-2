@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch nicht von Nebensächlichkeiten ablenken"
 menu_title: ""
-description: "Lasst euch nicht von Nebensächlichkeiten ablenken"
+description: "Leslie Stone, empfangen durch Jimbeau Walsh: „Ich war oft mit James Padgett zusammen, als er die sogenannten himmlischen Botschaften von Jesus und vielen …“"
 date: 2022-01-01 06:25:48+00:73
 draft: False
 hidden: True

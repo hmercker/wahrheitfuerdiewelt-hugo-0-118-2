@@ -1,7 +1,7 @@
 ---
 title: "Vieles erwartet euch"
 menu_title: ""
-description: "Vieles erwartet euch"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, wir haben alle Seelen versammelt, die an diesem Vorhaben beteiligt sind. Denn Entfernung bedeutet in dieser …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

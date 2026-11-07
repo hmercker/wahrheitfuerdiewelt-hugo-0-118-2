@@ -1,7 +1,7 @@
 ---
 title: "Wandelt auf dieser Welt, geführt vom himmlischen Vater und Seinen Engeln"
 menu_title: ""
-description: "Wandelt auf dieser Welt, geführt vom himmlischen Vater und Seinen Engeln"
+description: "Franziskus, empfangen durch Al Fike: „Und es gibt viele in den Göttlichen Himmeln, alle in den Göttlichen Himmeln, die Gott lieben, denn diejenigen, die …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

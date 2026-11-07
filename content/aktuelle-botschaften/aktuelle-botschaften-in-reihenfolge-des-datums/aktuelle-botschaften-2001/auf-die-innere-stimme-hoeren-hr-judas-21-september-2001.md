@@ -1,7 +1,7 @@
 ---
 title: "Auf die innere Stimme hören"
 menu_title: ""
-description: "Auf die innere Stimme hören"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H., es war mir eine große Freude, den Gedankenaustausch, den du mit M. hattest, zu verfolgen.“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

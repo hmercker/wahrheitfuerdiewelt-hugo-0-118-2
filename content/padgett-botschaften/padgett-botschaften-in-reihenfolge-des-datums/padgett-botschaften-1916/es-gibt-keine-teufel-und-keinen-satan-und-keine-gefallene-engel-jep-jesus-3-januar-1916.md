@@ -1,7 +1,7 @@
 ---
 title: "Es gibt keine Teufel und keinen Satan und keine gefallene Engel"
 menu_title: ""
-description: "Es gibt keine Teufel und keinen Satan und keine gefallene Engel"
+description: "Jesus, empfangen durch James Padgett: „Das Buch, das du gelesen hast, ist irreleitend und eine Lüge, denn es gibt keine Engel, die Teufel geworden sind …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

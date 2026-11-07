@@ -1,7 +1,7 @@
 ---
 title: "Lichtwesen von anderen Planeten helfen uns auf der Erde"
 menu_title: ""
-description: "Lichtwesen von anderen Planeten helfen uns auf der Erde"
+description: "Orion, empfangen durch Al Fike: „In der Tat, einige von uns von anderen Planeten sind bei euch. Dennoch kann ich hier sein, weil ihr Licht ausstrahlt und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

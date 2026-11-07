@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit sprechen"
 menu_title: ""
-description: "Die Wahrheit sprechen"
+description: "Josef, empfangen durch Elisabeth Mack: „Ich werde immer hier sein, um euch in euren Bemühungen zu unterstützen, in der Liebe des Vaters voranzukommen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gleichnis vom Senfkorn"
 menu_title: ""
-description: "Das Gleichnis vom Senfkorn"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , heute komme ich, um die Frage unseres Bruders Markus über das Gleichnis vom Senfkorn zu beantworten.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

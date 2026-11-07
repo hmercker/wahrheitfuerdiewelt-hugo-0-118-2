@@ -1,7 +1,7 @@
 ---
 title: "Helen rät Padgett, all seine Gedanken Gott und Seiner Liebe zu schenken"
 menu_title: ""
-description: "Helen rät Padgett, all seine Gedanken Gott und Seiner Liebe zu schenken"
+description: "Helen, empfangen durch James Padgett: „Lass mich dir mitteilen, dass du, wie deine Großmutter es sagt, dem Königreich sehr nahe bist, da du einen Glauben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seele zu Verstand 60:40 - Anweisungen Teil 2"
 menu_title: ""
-description: "Seele zu Verstand 60:40 - Anweisungen Teil 2"
+description: "Augustinus, empfangen durch Al Fike: „In erster Linie möchte ich sagen, dass ich nicht andeute, dass 60% eures Tages in eurer Seele und 40% in eurem …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

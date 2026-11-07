@@ -1,7 +1,7 @@
 ---
 title: "Segen in Göttlicher Liebe"
 menu_title: ""
-description: "Segen in Göttlicher Liebe"
+description: "Jesus, empfangen durch Al Fike: „Das Licht möge durch jeden von euch strahlen, seine Schönheit in der Liebe erheben. Geliebte Seelen, ihr tragt die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

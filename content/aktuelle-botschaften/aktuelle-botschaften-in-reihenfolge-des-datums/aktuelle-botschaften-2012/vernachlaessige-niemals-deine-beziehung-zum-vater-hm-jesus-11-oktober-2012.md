@@ -1,7 +1,7 @@
 ---
 title: "Vernachlässige niemals deine Beziehung zum Vater"
 menu_title: ""
-description: "Vernachlässige niemals deine Beziehung zum Vater"
+description: "Jesus, empfangen durch Helge Mercker: „Ich möchte dir schreiben, da ich dein Bedürfnis sehe, von uns zu hören und dich unserer Gegenwart zu versichern, da …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

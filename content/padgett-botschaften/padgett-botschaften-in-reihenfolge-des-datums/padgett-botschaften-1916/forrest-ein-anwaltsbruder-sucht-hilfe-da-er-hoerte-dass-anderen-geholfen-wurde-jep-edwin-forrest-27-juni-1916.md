@@ -1,7 +1,7 @@
 ---
 title: "Forrest, ein Anwaltsbruder sucht Hilfe, da er hörte, dass anderen geholfen wurde"
 menu_title: ""
-description: "Forrest, ein Anwaltsbruder sucht Hilfe, da er hörte, dass anderen geholfen wurde"
+description: "Edwin Forrest, empfangen durch James Padgett: „Nun, ich verstehe, was du sagst und werde glauben, dass du mir helfen willst, und ich werde sicherlich …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

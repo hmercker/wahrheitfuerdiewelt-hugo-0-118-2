@@ -1,7 +1,7 @@
 ---
 title: "Seele, Glaube und Liebe"
 menu_title: ""
-description: "Seele, Glaube und Liebe"
+description: "Maria, empfangen durch Amada Reza: „Ich freue mich, weiterhin über das Thema Glaube und Seele schreiben zu können und möchte hinzufügen, dass die …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

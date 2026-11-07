@@ -1,7 +1,7 @@
 ---
 title: "Homosexualität und Seelenpartner"
 menu_title: ""
-description: "Homosexualität und Seelenpartner"
+description: "Judas, empfangen durch H.: „Lieber H , gestern habe ich dir das Thema, das wir jetzt behandeln werden, eingegeben, und es hat dir nicht sehr gefallen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

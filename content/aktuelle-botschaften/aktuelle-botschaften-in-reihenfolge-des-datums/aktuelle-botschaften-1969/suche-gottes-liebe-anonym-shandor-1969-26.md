@@ -1,7 +1,7 @@
 ---
 title: "Suche Gottes Liebe"
 menu_title: ""
-description: "Suche Gottes Liebe"
+description: "Shandor: „Aber ich wollte zu euch kommen und zu euch sprechen, um euch zu sagen, wie wir uns euch in dieser wunderbaren Stunde der Kommunikation nähern …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

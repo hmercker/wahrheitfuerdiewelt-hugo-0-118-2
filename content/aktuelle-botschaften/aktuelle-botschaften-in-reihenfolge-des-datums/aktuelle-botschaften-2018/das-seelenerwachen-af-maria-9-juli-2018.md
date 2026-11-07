@@ -1,7 +1,7 @@
 ---
 title: "Das Seelenerwachen"
 menu_title: ""
-description: "Das Seelenerwachen"
+description: "Maria, empfangen durch Al Fike: „Möge die Liebe des Vaters sich weiterhin in eure wunderschönen Seelen ergießen und euch immer näher zur Quelle aller Liebe …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

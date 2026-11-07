@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Aktivierung Teil 3"
 menu_title: ""
-description: "Das Gesetz der Aktivierung Teil 3"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich ein Thema besprechen, das sich auf den Wunsch der Menschheit bezieht, mehr über die Wahrheiten des …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

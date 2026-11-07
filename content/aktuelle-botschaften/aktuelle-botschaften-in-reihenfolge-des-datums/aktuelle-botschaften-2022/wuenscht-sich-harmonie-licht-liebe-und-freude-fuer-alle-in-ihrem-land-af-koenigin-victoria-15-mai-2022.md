@@ -1,7 +1,7 @@
 ---
 title: "Wünscht sich Harmonie, Licht, Liebe und Freude für alle in ihrem Land"
 menu_title: ""
-description: "Wünscht sich Harmonie, Licht, Liebe und Freude für alle in ihrem Land"
+description: "Königin Victoria, empfangen durch Al Fike: „Ich war einst die Königin von England. Auch ich habe großes Interesse an diesem Land und der Welt, damit alle …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

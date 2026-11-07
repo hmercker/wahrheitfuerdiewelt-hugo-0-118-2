@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt anhand der Christian-Science Kirche, wie Gott den Menschen hilft"
 menu_title: ""
-description: "Jesus erklärt anhand der Christian-Science Kirche, wie Gott den Menschen hilft"
+description: "Jesus, empfangen durch James Padgett: „Diese Menschen (die Christian Scientists) erlangen durch ihr Studium der Grundsätze, dass Gott alles ist und dass …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

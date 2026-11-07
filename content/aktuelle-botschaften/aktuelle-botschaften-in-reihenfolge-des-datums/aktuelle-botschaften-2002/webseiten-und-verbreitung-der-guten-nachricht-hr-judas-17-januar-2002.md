@@ -1,7 +1,7 @@
 ---
 title: "Webseiten und Verbreitung der Guten Nachricht"
 menu_title: ""
-description: "Webseiten und Verbreitung der Guten Nachricht"
+description: "Judas, empfangen durch H.: „Ich war heute Morgen bei dir, als du angefangen hast, alle Nachrichten, die du erhalten hast, in einer Datei zu sammeln.“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

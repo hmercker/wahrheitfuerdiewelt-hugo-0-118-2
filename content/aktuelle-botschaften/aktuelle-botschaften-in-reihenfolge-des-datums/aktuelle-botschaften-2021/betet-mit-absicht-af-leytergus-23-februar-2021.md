@@ -1,7 +1,7 @@
 ---
 title: "Betet mit Absicht"
 menu_title: ""
-description: "Betet mit Absicht"
+description: "Leytergus, empfangen durch Al Fike: „Möge die Glorie der Liebe Gottes eure Seelen berühren. Hinter der Absicht steht immer euer Wunsch.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

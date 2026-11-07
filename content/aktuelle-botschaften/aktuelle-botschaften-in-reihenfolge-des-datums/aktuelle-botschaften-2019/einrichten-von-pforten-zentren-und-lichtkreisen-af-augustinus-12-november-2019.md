@@ -1,7 +1,7 @@
 ---
 title: "Einrichten von Pforten, Zentren und Lichtkreisen"
 menu_title: ""
-description: "Einrichten von Pforten, Zentren und Lichtkreisen"
+description: "Augustinus, empfangen durch Al Fike: „Vor einigen Jahren wiesen wir euch an, in die Welt hinauszugehen und Kreise und Zentren des Lichts zu errichten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

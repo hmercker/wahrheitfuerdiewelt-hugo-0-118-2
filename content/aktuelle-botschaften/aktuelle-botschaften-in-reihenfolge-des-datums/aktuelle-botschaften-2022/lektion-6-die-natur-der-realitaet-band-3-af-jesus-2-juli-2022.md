@@ -1,7 +1,7 @@
 ---
 title: "Lektion 6 - Die Natur der Realität - Band 3"
 menu_title: ""
-description: "Lektion 6 - Die Natur der Realität - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ihr habt wahrlich darum gebetet, ein Instrument zu sein, ein Kanal der Liebe, um der Menschheit zu dienen.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

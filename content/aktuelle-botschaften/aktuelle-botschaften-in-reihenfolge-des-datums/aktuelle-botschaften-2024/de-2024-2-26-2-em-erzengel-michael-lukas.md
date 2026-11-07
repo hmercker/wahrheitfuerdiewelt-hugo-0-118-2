@@ -1,7 +1,7 @@
 ---
 title: "Heilung"
 menu_title: ""
-description: "Heilung"
+description: "Erzengel Michael & Lukas, empfangen durch Elisabeth Mack: „Ihr alle auf der Erde, die ihr in euren Seelen Kinder des Allmächtigen seid, werdet in dieser …“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

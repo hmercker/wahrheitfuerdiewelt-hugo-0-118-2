@@ -1,7 +1,7 @@
 ---
 title: "Die Veränderungen, die ihr erleben werdet"
 menu_title: ""
-description: "Die Veränderungen, die ihr erleben werdet"
+description: "Alec Gaunt, empfangen durch Al Fike: „Jeder von euch steht am Beginn einer großen Veränderung. Vieles geschieht in euch, was sich durch euch und um euch …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

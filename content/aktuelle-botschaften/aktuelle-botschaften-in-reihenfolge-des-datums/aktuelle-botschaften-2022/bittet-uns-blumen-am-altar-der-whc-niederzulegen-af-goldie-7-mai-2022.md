@@ -1,7 +1,7 @@
 ---
 title: "Bittet uns, Blumen am Altar der WHC niederzulegen"
 menu_title: ""
-description: "Bittet uns, Blumen am Altar der WHC niederzulegen"
+description: "Goldie, empfangen durch Al Fike: „Wenn ihr dorthin geht, bitte ich euch, ein paar Blumen mitzubringen und sie auf den Altar zu legen.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

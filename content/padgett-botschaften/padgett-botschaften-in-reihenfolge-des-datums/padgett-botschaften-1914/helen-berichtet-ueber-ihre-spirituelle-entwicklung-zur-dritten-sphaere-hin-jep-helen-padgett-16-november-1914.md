@@ -1,7 +1,7 @@
 ---
 title: "Helen berichtet über ihre spirituelle Entwicklung zur Dritten Sphäre hin"
 menu_title: ""
-description: "Helen berichtet über ihre spirituelle Entwicklung zur Dritten Sphäre hin"
+description: "Helen, empfangen durch James Padgett: „Ja, bin ich und ich fühle das Gott meine Seele mit Seiner Liebe füllt. Ich glaube, dass Er mein Vater ist und ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 5 - Viele spirituelle Gaben öffnen sich und werden während des Wandels der Welt manifest - Band 3"
 menu_title: ""
-description: "Lektion 5 - Viele spirituelle Gaben öffnen sich und werden während des Wandels der Welt manifest - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte darüber sprechen, wie Gottes Plan und die wunderbaren Segnungen und Energien, die Er über die Erde ausgießt …“"
 date: 2022-07-04 06:00:00+00:10
 draft: False
 hidden: True

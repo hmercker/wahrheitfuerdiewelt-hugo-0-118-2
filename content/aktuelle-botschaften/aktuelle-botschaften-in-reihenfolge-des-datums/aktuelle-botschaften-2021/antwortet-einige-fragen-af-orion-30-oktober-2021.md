@@ -1,7 +1,7 @@
 ---
 title: "Antwortet einige Fragen"
 menu_title: ""
-description: "Antwortet einige Fragen"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Wir verlassen uns auf die Gesetze der Verbindung und der Kommunikation, so wie auch eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

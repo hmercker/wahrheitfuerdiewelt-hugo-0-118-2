@@ -1,7 +1,7 @@
 ---
 title: "Sam Ford: Wie die spirituellen Wesen in der Erkenntnis der Wahrheiten vorankommen"
 menu_title: ""
-description: "Sam Ford: Wie die spirituellen Wesen in der Erkenntnis der Wahrheiten vorankommen"
+description: "Sam Ford, empfangen durch James Padgett: „Ich mache Fortschritte, und es scheint mir, dass ich ein ganz anderes Wesen bin als der, der ich war, als ich das …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

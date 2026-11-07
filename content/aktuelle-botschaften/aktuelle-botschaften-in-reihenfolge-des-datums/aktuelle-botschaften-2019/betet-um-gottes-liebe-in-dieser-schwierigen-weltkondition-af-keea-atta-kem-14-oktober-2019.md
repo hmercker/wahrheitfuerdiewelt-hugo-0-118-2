@@ -1,7 +1,7 @@
 ---
 title: "Betet um Gottes Liebe in dieser schwierigen Weltkondition"
 menu_title: ""
-description: "Betet um Gottes Liebe in dieser schwierigen Weltkondition"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wenn ihr eure Gebete mit all euren Absichten und Gefühlen zu Gott hinaufschickt, mit eurem Wunsch, Heilung und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins: Die Philosophie des Wirkens der Liebe in ihrer effektiven Beseitigung von Sorgen"
 menu_title: ""
-description: "Ann Rollins: Die Philosophie des Wirkens der Liebe in ihrer effektiven Beseitigung von Sorgen"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun, mein lieber Sohn, es ist schon einige Zeit her, seit ich dir geschrieben habe und ich glaube, ich muss …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

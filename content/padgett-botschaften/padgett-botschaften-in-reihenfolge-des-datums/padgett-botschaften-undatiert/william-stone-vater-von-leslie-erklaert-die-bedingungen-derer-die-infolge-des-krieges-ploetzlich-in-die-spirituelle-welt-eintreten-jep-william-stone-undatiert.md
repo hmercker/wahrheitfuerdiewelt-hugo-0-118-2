@@ -1,7 +1,7 @@
 ---
 title: "William Stone, Vater von Leslie, erklärt die Bedingungen derer, die infolge des Krieges plötzlich in die spirituelle Welt eintreten"
 menu_title: ""
-description: "William Stone, Vater von Leslie, erklärt die Bedingungen derer, die infolge des Krieges plötzlich in die spirituelle Welt eintreten"
+description: "William Stone, empfangen durch James Padgett: „Ich mache ständig Fortschritte und fühle, dass die Liebe uns nicht nur Glück bringt, sondern einen ständigen …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

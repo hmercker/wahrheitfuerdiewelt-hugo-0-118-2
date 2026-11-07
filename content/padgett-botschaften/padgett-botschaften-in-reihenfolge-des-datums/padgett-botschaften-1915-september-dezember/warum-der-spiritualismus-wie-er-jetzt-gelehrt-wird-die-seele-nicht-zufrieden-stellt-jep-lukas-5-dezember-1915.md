@@ -1,7 +1,7 @@
 ---
 title: "Warum der Spiritualismus, wie er jetzt gelehrt wird, die Seele nicht zufrieden stellt"
 menu_title: ""
-description: "Warum der Spiritualismus, wie er jetzt gelehrt wird, die Seele nicht zufrieden stellt"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte ein paar Zeilen über das Thema schreiben, dass du und dein Freund, Dr. Stone, diskutiert habt - das …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

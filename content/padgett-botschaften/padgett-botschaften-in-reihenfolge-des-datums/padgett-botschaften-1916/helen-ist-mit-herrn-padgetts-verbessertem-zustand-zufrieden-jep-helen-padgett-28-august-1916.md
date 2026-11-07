@@ -1,7 +1,7 @@
 ---
 title: "Helen ist mit Herrn Padgetts verbessertem Zustand zufrieden"
 menu_title: ""
-description: "Helen ist mit Herrn Padgetts verbessertem Zustand zufrieden"
+description: "Helen, empfangen durch James Padgett: „Ich werde nicht viel schreiben, da du noch nicht in der Verfassung bist. aber ich werde sagen, dass Johannes und …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

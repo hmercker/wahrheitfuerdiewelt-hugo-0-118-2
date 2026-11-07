@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 20 : Warum es keine Reinkarnation geben kann"
 menu_title: ""
-description: "Offenbarung 20 : Warum es keine Reinkarnation geben kann"
+description: "Jesus, empfangen durch Dr Samuels: „Die heutige Botschaft behandelt ein Thema, das nicht nur dich und Doktor Stone, sondern auch viele andere Menschen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

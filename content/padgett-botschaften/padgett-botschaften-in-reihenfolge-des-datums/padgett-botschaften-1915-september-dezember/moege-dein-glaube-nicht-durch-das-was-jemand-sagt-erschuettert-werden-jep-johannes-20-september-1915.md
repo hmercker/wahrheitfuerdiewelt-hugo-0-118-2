@@ -1,7 +1,7 @@
 ---
 title: "Möge dein Glaube nicht durch das, was jemand sagt, erschüttert werden"
 menu_title: ""
-description: "Möge dein Glaube nicht durch das, was jemand sagt, erschüttert werden"
+description: "Johannes, empfangen von James Padgett: „Der andere Mann sagte, dass es keine andere Erlösung gibt als durch das Blut Jesu. Wie im Irrtum er ist und wie er …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

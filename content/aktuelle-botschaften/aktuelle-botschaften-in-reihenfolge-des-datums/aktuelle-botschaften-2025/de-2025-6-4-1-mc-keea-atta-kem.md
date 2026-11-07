@@ -1,7 +1,7 @@
 ---
 title: "Die Probleme und Leiden der Menschen haben keine Ursache in Gott"
 menu_title: ""
-description: "Die Probleme und Leiden der Menschen haben keine Ursache in Gott"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Was ich vor allem bringen möchte, ist das Bewusstsein, dass die Menschen verstehen, dass die Prüfungen und …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

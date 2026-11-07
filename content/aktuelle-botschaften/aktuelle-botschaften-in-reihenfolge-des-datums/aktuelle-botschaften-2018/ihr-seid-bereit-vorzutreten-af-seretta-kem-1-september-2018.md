@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid bereit vorzutreten"
 menu_title: ""
-description: "Ihr seid bereit vorzutreten"
+description: "Seretta Kem, empfangen durch Al Fike: „Es kommt eine Veränderung auf eure Kreise zu, eine tiefe Veränderung, denn es werden Gaben entwickelt, die mehr …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst ernsthaft und konkret bitten, um einen Zustrom von Gottes Göttlicher Liebe zu erhalten"
 menu_title: ""
-description: "Ihr müsst ernsthaft und konkret bitten, um einen Zustrom von Gottes Göttlicher Liebe zu erhalten"
+description: "Augustinus, empfangen durch Al Fike: „Mögen die Segnungen der Liebe des Vaters weiterhin in eure Seelen strömen, geliebte Kinder Gottes, Suchende nach der …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

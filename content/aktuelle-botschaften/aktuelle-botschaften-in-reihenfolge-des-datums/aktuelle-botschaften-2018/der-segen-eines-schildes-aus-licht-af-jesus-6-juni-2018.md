@@ -1,7 +1,7 @@
 ---
 title: "Der Segen eines Schildes aus Licht"
 menu_title: ""
-description: "Der Segen eines Schildes aus Licht"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte euch sagen, dass ihr alle einen einzigartigen Segen erhalten habt, den Segen eines Schildes aus Licht.“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir arbeiten, um zu dienen"
 menu_title: ""
-description: "Wir arbeiten, um zu dienen"
+description: "Johannes der Täufer: „Wie privilegiert ich mich heute Abend fühle, noch einmal zu euch sprechen zu können. Den wunderbaren Zustand zu spüren, der in …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

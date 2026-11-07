@@ -1,7 +1,7 @@
 ---
 title: "Es braucht eine Armee von Engeln, um uns vorwärts zu bringen"
 menu_title: ""
-description: "Es braucht eine Armee von Engeln, um uns vorwärts zu bringen"
+description: "Orion, empfangen durch Al Fike: „Es ist ein großer Segen, dass es Menschen gibt, die in diesem Kreis des Lichts so beständig und mit großer Hingabe …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

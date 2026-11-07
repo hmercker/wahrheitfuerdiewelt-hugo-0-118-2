@@ -1,7 +1,7 @@
 ---
 title: "Euer Licht zieht die Engel an, um euren Fortschritt und eure Entwicklung zu fördern"
 menu_title: ""
-description: "Euer Licht zieht die Engel an, um euren Fortschritt und eure Entwicklung zu fördern"
+description: "Jesus, empfangen durch Al Fike: „All diese Dinge kommen, weil ihr euch aufrichtig bemüht habt, mit Gott zusammen zu sein und die Wahrheit seiner Liebe in …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

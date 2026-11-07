@@ -1,7 +1,7 @@
 ---
 title: "Weiterhin in Liebe miteinander verbunden"
 menu_title: ""
-description: "Weiterhin in Liebe miteinander verbunden"
+description: "Lukas, empfangen durch Al Fike: „Egal, welchen Weg ihr in eurem spirituellen Streben einschlagt, möget ihr immer zur Quelle gehen, der Quelle allen Lichts …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

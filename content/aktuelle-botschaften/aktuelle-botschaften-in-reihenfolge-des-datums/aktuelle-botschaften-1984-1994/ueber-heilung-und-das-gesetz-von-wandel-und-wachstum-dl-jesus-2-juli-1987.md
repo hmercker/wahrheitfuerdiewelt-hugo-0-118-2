@@ -1,7 +1,7 @@
 ---
 title: "Über Heilung und das Gesetz von Wandel und Wachstum"
 menu_title: ""
-description: "Über Heilung und das Gesetz von Wandel und Wachstum"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich über den Fortschritt der kirchlichen Arbeit sprechen, aber vorerst möchte ich deine Frage in Bezug …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es gibt keinen Grund, warum Padgett nicht die Göttliche Liebe bekommen kann"
 menu_title: ""
-description: "Es gibt keinen Grund, warum Padgett nicht die Göttliche Liebe bekommen kann"
+description: "Samuel, empfangen von James Padgett: „Heute Abend möchte ich nur ein paar Worte über die Liebe sagen, die du, wie ich sehe, in hohem Maße besitzt.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seelenbewusstsein und Seelenkommunikation"
 menu_title: ""
-description: "Seelenbewusstsein und Seelenkommunikation"
+description: "Michael Collier, empfangen durch Al Fike: „Ich glaube nicht, dass sich viele von euch der Möglichkeiten bewusst sind, die ihr eröffnet, indem ihr für die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

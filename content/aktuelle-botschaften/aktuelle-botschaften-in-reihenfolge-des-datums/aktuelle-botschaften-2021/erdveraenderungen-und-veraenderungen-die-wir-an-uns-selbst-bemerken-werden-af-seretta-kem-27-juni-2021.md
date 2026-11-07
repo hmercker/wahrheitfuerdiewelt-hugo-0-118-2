@@ -1,7 +1,7 @@
 ---
 title: "Erdveränderungen und Veränderungen, die wir an uns selbst bemerken werden"
 menu_title: ""
-description: "Erdveränderungen und Veränderungen, die wir an uns selbst bemerken werden"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich beziehe mich nicht auf die klimatischen Veränderungen, die für viele von Euch in Euren speziellen Jahreszeiten …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

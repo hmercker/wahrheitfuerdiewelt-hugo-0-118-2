@@ -1,7 +1,7 @@
 ---
 title: "Die kommenden Veränderungen der Erdbedingungen"
 menu_title: ""
-description: "Die kommenden Veränderungen der Erdbedingungen"
+description: "Michael Colliers, empfangen durch Al Fike: „Unsere lieben Freunde von jenseits des Ozeans (Australien) sind in guten Händen. Bitte betet weiterhin für sie.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

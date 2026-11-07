@@ -1,7 +1,7 @@
 ---
 title: "Jesus spricht vom Pfingsten"
 menu_title: ""
-description: "Jesus spricht vom Pfingsten"
+description: "Jesus, empfangen durch Al Fike: „Mein gnädiger Gott, möge all Dein guter Segen zu diesen ernsten Seelen in dieser Welt kommen, dass alles Licht und Trost …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

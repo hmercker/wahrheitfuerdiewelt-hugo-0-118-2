@@ -1,7 +1,7 @@
 ---
 title: "Viele Wege, Liebe zu geben"
 menu_title: ""
-description: "Viele Wege, Liebe zu geben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich wurde in dieses Gebet hineingezogen, weil ich den Herzschmerz, den Kummer und die Sorge vieler …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

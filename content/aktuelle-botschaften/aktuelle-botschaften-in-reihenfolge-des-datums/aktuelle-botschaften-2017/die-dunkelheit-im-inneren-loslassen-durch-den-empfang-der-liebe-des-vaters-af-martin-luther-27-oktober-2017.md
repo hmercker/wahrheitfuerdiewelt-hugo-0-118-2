@@ -1,7 +1,7 @@
 ---
 title: "Die Dunkelheit im Inneren loslassen, durch den Empfang der Liebe des Vaters"
 menu_title: ""
-description: "Die Dunkelheit im Inneren loslassen, durch den Empfang der Liebe des Vaters"
+description: "Martin Luther, empfangen durch Al Fike: „Ich sehe, dass einige von euch dramatische Reaktionen auf die Bedingungen haben, die in euren Körper, eure Seelen …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

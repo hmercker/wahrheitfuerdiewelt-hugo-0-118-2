@@ -1,7 +1,7 @@
 ---
 title: "Warnung und Beruhigung für intensiver werdende Erdveränderungen"
 menu_title: ""
-description: "Warnung und Beruhigung für intensiver werdende Erdveränderungen"
+description: "Josephus, empfangen durch Al Fike: „Ihr seht die Extreme in eurem Wetter und das wird sich noch verstärken. Das kommende Jahr wird in eurem Teil des Globus …“"
 date: 2022-03-31 06:00:00+00:10
 draft: False
 hidden: True

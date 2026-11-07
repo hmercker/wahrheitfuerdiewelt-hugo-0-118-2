@@ -1,7 +1,7 @@
 ---
 title: "Entfernt eure Mäntel und steht geistlich nackt vor Gott"
 menu_title: ""
-description: "Entfernt eure Mäntel und steht geistlich nackt vor Gott"
+description: "Jesus, empfangen durch Al Fike: „Wie gesegnet ihr seid, geliebte Kinder. In aller Welt seid ihr zur Wahrheit in ihrer Reinheit und ihrem Licht gekommen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

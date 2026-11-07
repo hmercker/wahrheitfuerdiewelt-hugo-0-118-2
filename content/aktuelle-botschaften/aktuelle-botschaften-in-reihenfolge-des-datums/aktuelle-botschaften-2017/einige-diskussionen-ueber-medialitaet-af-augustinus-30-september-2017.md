@@ -1,7 +1,7 @@
 ---
 title: "Einige Diskussionen über Medialität"
 menu_title: ""
-description: "Einige Diskussionen über Medialität"
+description: "Augustinus, empfangen durch Al Fike: „Ja, dieses Instrument wird weiterhin mit vielen anderen Engeln aus dem Göttlichen Reich vertraut werden.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

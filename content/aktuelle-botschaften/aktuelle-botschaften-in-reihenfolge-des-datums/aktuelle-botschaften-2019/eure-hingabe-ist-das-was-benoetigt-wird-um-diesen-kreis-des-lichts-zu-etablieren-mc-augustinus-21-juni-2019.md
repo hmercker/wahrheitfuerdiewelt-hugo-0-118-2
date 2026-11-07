@@ -1,7 +1,7 @@
 ---
 title: "Eure Hingabe ist das, was benötigt wird, um diesen Kreis des Lichts zu etablieren"
 menu_title: ""
-description: "Eure Hingabe ist das, was benötigt wird, um diesen Kreis des Lichts zu etablieren"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Es ist Augustinus mit euch. Wir haben bereits einen Teil der großen Schönheit gesehen, die es gibt.“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

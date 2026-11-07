@@ -1,7 +1,7 @@
 ---
 title: "Geht jeden Tag in Seinem Licht"
 menu_title: ""
-description: "Geht jeden Tag in Seinem Licht"
+description: "Laila, empfangen durch Al Fike: „Macht euch keine Sorgen darüber, wer in euren kleinen Kreis kommen wird. Gott wird jene Seelen führen, die es ernst meinen …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr bahnt den Weg für andere"
 menu_title: ""
-description: "Ihr bahnt den Weg für andere"
+description: "Samuel, empfangen durch Al Fike: „Ihr bahnt den Weg für andere. Auf dieser Straße gibt es keinen Schatten vor der Sonne.“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

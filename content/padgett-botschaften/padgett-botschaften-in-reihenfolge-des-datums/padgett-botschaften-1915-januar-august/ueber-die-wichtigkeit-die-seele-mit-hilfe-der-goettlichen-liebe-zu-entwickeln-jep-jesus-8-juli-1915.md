@@ -1,7 +1,7 @@
 ---
 title: "Über die Wichtigkeit, die Seele mit Hilfe der Göttlichen Liebe zu entwickeln"
 menu_title: ""
-description: "Über die Wichtigkeit, die Seele mit Hilfe der Göttlichen Liebe zu entwickeln"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte etwas zu dem hinzufügen, was deine Großmutter über die Bemühungen der spirituellen Welt gesagt hat, den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

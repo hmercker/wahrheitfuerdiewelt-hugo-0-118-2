@@ -1,7 +1,7 @@
 ---
 title: "Jakobus erklärt, was die Lehre Jesu von allen anderen Religionen unterscheidet"
 menu_title: ""
-description: "Jakobus erklärt, was die Lehre Jesu von allen anderen Religionen unterscheidet"
+description: "Jakobus, empfangen von James Padgett: „Lass mich dir ein paar Dinge über die spirituelle Welt erzählen, also die Welt, die unterhalb den Göttlichen Himmeln …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

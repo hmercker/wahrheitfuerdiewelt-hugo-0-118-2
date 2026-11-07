@@ -1,7 +1,7 @@
 ---
 title: "Das Geschenk der Musik soll ein Teil dieses Plans sein"
 menu_title: ""
-description: "Das Geschenk der Musik soll ein Teil dieses Plans sein"
+description: "Ludwig von Beethoven, empfangen durch Al Fike: „Auch ich möchte die Musik meines Herzens und meiner Seele zum Ausdruck bringen. Und ihr werdet überrascht …“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

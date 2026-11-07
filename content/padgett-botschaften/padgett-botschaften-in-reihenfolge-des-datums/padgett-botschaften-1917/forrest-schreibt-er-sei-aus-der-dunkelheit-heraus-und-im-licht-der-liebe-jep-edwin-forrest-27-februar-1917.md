@@ -1,7 +1,7 @@
 ---
 title: "Forrest schreibt, er sei aus der Dunkelheit heraus und im Licht der Liebe"
 menu_title: ""
-description: "Forrest schreibt, er sei aus der Dunkelheit heraus und im Licht der Liebe"
+description: "Forrest, empfangen durch James Padgett: „Lass mich nur ein Wort sagen. Ich möchte nur sagen, dass ich Fortschritte mache und aus meiner Dunkelheit heraus …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

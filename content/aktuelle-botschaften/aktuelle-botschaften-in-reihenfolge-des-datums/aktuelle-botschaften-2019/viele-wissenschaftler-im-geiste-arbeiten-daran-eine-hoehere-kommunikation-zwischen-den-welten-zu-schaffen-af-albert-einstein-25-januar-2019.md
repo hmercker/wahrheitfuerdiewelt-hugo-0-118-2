@@ -1,7 +1,7 @@
 ---
 title: "Viele Wissenschaftler im Geiste arbeiten daran, eine höhere Kommunikation zwischen den Welten zu schaffen"
 menu_title: ""
-description: "Viele Wissenschaftler im Geiste arbeiten daran, eine höhere Kommunikation zwischen den Welten zu schaffen"
+description: "Albert Einstein, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Es gibt eine große Anstrengung, das, was wir durchbringen können, auf eure Seite …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

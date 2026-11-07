@@ -1,7 +1,7 @@
 ---
 title: "Veränderungen stehen dir bevor"
 menu_title: ""
-description: "Veränderungen stehen dir bevor"
+description: "Ann Rollins, empfangen durch Joseph: „Es ist wahr, dass Veränderungen auf euch und eure Welt zukommen; ihr und andere auf der Welt haben bereits viele …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist der Schlüssel zur interstellaren Kommunikation"
 menu_title: ""
-description: "Die Göttliche Liebe ist der Schlüssel zur interstellaren Kommunikation"
+description: "Orion, empfangen durch Al Fike: „Das Wichtigste, was ihr tun könnt, ist, weiterhin das Fundament der Liebe in eurer Seele zu legen.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

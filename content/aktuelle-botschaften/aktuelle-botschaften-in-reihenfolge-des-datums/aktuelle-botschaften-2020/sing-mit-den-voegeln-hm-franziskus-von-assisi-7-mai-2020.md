@@ -1,7 +1,7 @@
 ---
 title: "Sing mit den Vögeln"
 menu_title: ""
-description: "Sing mit den Vögeln"
+description: "Franziskus, empfangen durch Helge Mercker: „Meine Tochter, lausche dem sanften Wind zu, spüre die Wärme der Meeresbrise. Lausche dem Klang der Palmblätter …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

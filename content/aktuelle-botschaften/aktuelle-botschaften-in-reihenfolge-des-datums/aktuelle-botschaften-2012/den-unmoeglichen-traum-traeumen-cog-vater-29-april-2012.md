@@ -1,7 +1,7 @@
 ---
 title: "Den unmöglichen Traum träumen"
 menu_title: ""
-description: "Den unmöglichen Traum träumen"
+description: "Vater, empfangen durch Child of God: „Ich freue mich, dass wir wieder zusammen hier sind. Heute werden wir über das Träumen des unmöglichen Traums sprechen.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

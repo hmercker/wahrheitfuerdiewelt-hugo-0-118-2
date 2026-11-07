@@ -1,7 +1,7 @@
 ---
 title: ""
 menu_title: ""
-description: ""
+description: "George Stokes, empfangen durch Elizabeth Mack: „Ihr kennt mich als George Stokes, als ich noch auf der Erde lebte. Ich werde bei euch sein, wenn ihr so …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

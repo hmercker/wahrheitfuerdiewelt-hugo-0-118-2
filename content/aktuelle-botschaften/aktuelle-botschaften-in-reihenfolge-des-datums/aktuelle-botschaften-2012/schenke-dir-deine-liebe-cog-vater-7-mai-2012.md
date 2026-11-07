@@ -1,7 +1,7 @@
 ---
 title: "Schenke dir deine Liebe"
 menu_title: ""
-description: "Schenke dir deine Liebe"
+description: "Vater, empfangen durch Child of God: „Du warst ein wenig verwirrt darüber, wie die Gefühle mit deiner und meiner Seele verbunden sind.“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

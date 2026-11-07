@@ -1,7 +1,7 @@
 ---
 title: "Lektion 14 - Die verstandesmäßigen Bemühungen der Menschheit in Wissenschaft und Religion werden die Seele nicht erwecken"
 menu_title: ""
-description: "Lektion 14 - Die verstandesmäßigen Bemühungen der Menschheit in Wissenschaft und Religion werden die Seele nicht erwecken"
+description: "Jesus, empfangen durch Al Fike: „Mögen die Segnungen von Gottes Berührung auf eurer Seele weiterhin ihre Belohnungen bringen und euch zu größerer Wahrheit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

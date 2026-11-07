@@ -1,7 +1,7 @@
 ---
 title: "Sein Licht bringen"
 menu_title: ""
-description: "Sein Licht bringen"
+description: "Andreas: „Er ist immer noch bei euch und ich hoffe, dass einige von euch hier sein Licht sehen, denn sein Licht sehen zu können und es zu spüren, ist …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

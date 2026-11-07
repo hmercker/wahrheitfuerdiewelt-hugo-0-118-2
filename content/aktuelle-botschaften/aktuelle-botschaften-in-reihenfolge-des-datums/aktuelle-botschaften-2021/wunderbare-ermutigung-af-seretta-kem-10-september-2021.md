@@ -1,7 +1,7 @@
 ---
 title: "Wunderbare Ermutigung"
 menu_title: ""
-description: "Wunderbare Ermutigung"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr macht Fortschritte, wie wir es erwarten. Wir sehen keine großen Hindernisse, die uns von weiteren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

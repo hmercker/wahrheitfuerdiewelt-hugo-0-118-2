@@ -1,7 +1,7 @@
 ---
 title: "Wie man sich auf den Empfang vorbereitet"
 menu_title: ""
-description: "Wie man sich auf den Empfang vorbereitet"
+description: "Abdulla: „Wie wunderbar ist es, dass wir aus der spirituellen Welt uns mit euch im physischen verbinden können und eins sind.“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hier ist eure Chance für den Aufstieg - Hier ist der Schlüssel"
 menu_title: ""
-description: "Hier ist eure Chance für den Aufstieg - Hier ist der Schlüssel"
+description: "Augustinus: „Ich denke, es ist an der Zeit, dass ich wiederkomme, um euch ein wenig mehr Ermutigung in unseren Wünschen zu geben, damit ihr ein wenig mehr …“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

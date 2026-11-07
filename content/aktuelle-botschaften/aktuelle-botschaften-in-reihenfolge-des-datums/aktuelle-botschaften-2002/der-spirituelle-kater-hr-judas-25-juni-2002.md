@@ -1,7 +1,7 @@
 ---
 title: "Der spirituelle Kater"
 menu_title: ""
-description: "Der spirituelle Kater"
+description: "Judas, empfangen durch H.: „[Lieber Judas: Gestern habe ich deine Botschaft \"empfangen\", aber sie kam nicht klar durch, wie du gut weißt.“"
 date: 2020-08-01 06:25:48+00:235
 draft: False
 hidden: True

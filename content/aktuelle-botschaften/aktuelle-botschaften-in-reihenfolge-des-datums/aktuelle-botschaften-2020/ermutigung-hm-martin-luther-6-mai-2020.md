@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung "
 menu_title: ""
-description: "Ermutigung "
+description: "Martin Luther, empfangen durch Helge Mercker: „Meine Tochter, es gibt so viel zu wissen und zu verstehen, während du weiter auf deinem Weg reist.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

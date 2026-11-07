@@ -1,7 +1,7 @@
 ---
 title: "Lernt die Demut und Freude kennen, die mit dem Dienen einhergeht"
 menu_title: ""
-description: "Lernt die Demut und Freude kennen, die mit dem Dienen einhergeht"
+description: "Ramses II, empfangen durch Al Fike: „Als ich auf der Erde wandelte, war ich ein Mann mit großen Privilegien. In der Tat wurde ich in meinem Status auf …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

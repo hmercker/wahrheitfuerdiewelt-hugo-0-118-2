@@ -1,7 +1,7 @@
 ---
 title: "Der Freie Wille gegenüber dem Willen Gottes"
 menu_title: ""
-description: "Der Freie Wille gegenüber dem Willen Gottes"
+description: "Augustinus, empfangen durch Al Fike: „Heute Morgen wurde eine Lektion erteilt, die ich gerne wiederholen möchte, denn es ist eine wichtige Lektion …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

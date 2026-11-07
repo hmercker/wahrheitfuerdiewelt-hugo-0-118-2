@@ -1,7 +1,7 @@
 ---
 title: "Helen: Eine liebevolle persönliche Botschaft an ihren Ehemann und Seelenpartner"
 menu_title: ""
-description: "Helen: Eine liebevolle persönliche Botschaft an ihren Ehemann und Seelenpartner"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hattest eine sehr glückliche Nacht, und ich habe auch das Lesen der Botschaften und den …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

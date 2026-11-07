@@ -1,7 +1,7 @@
 ---
 title: "Wir sind Teil des Lichtgitters für die Welt"
 menu_title: ""
-description: "Wir sind Teil des Lichtgitters für die Welt"
+description: "Matthäus, empfangen durch Al Fike: „Ihr seid Teil einer Gesellschaft, die den Segen der Liebe des Vaters kennt, sich dessen bewusst ist und sich darin übt …“"
 date: 2025-01-20 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Vergleich des Seelenfortschritts in der Natürlichen Liebe im Gegensatz zur Göttlichen Liebe"
 menu_title: ""
-description: "Der Vergleich des Seelenfortschritts in der Natürlichen Liebe im Gegensatz zur Göttlichen Liebe"
+description: "Joseph Salyards, empfangen durch Al Fike: „[Frage : Kann ein spirituelles Wesen in der sechsten Sphäre - ohne die göttliche Liebe zu besitzen - eine Seele …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

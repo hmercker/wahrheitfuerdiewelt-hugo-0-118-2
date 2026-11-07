@@ -1,7 +1,7 @@
 ---
 title: "Seelenbande der Liebe"
 menu_title: ""
-description: "Seelenbande der Liebe"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ihr kennt die Bande der Liebe, die Bande, die Gottes Liebe schafft. Viele von euch sind im gleichzeitigen …“"
 date: 2020-08-01 06:25:48+00:261
 draft: False
 hidden: True

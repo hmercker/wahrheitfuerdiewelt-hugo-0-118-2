@@ -1,7 +1,7 @@
 ---
 title: "Ein Tag mit Gott zu sein"
 menu_title: ""
-description: "Ein Tag mit Gott zu sein"
+description: "Jesus, empfangen durch Al Fike: „Ein Tag, um eure Seelen zu strecken und mit Gott zu sein. Ein Tag, um loszulassen, was auch immer euch belasten mag.“"
 date: 2020-08-01 06:25:48+00:196
 draft: False
 hidden: True

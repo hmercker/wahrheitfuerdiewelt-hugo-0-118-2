@@ -1,7 +1,7 @@
 ---
 title: "Hört auf Gottes Willen und unterstützt diesen Kreis des Lichts"
 menu_title: ""
-description: "Hört auf Gottes Willen und unterstützt diesen Kreis des Lichts"
+description: "Jesus, empfangen durch Al Fike: „Wie kostbar ist dieser Kreis. Ich fordere euch auf, ihn zu bewahren und zu schützen, ihn weiterhin mit Gebet zu befeuern …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Von Moltke kommentiert Napoleon's Botschaft"
 menu_title: ""
-description: "Von Moltke kommentiert Napoleon's Botschaft"
+description: "Graf von Moltke 1, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich ein Deutscher bin und gehört habe, was der kleine Korporal (Napoleon!) …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

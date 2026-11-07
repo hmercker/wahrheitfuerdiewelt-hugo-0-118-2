@@ -1,7 +1,7 @@
 ---
 title: "Viele glauben, dass ihr Verstand das Seelenbewusstsein bringt"
 menu_title: ""
-description: "Viele glauben, dass ihr Verstand das Seelenbewusstsein bringt"
+description: "Maria, empfangen durch Al Fike: „Möge der Friede der Liebe des Vaters mit euch sein und euch durch alle Bedingungen dieser Welt tragen.“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

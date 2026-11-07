@@ -1,7 +1,7 @@
 ---
 title: "Kennt eure eigenen Seelen"
 menu_title: ""
-description: "Kennt eure eigenen Seelen"
+description: "Augustinus, empfangen durch Al Fike: „In der Welt, die sich so sehr auf den Verstand konzentriert, ist es eine große Herausforderung, eure eigene Seele zu …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

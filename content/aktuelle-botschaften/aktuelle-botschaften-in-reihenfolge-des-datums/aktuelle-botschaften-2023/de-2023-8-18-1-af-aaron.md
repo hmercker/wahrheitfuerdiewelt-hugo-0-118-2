@@ -1,7 +1,7 @@
 ---
 title: "Kommentare zu unserer Diskussion und den Herausforderungen mit den irdischen Bedingungen"
 menu_title: ""
-description: "Kommentare zu unserer Diskussion und den Herausforderungen mit den irdischen Bedingungen"
+description: "Aaron, empfangen durch Al Fike: „Ich begleite euch in euren Gesprächen und bei euren Überlegungen zu den Komplikationen und Schwierigkeiten eures irdischen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

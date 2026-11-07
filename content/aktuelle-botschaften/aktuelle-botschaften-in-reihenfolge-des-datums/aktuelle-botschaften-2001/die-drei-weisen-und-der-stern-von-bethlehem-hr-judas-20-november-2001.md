@@ -1,7 +1,7 @@
 ---
 title: "Die drei Weisen und der Stern von Bethlehem"
 menu_title: ""
-description: "Die drei Weisen und der Stern von Bethlehem"
+description: "Judas, empfangen durch H.: „Vor ein paar Tagen habe ich einige Fragen über Jesus beantwortet, so dass in Zukunft noch einige Fragen offen bleiben, Fragen …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

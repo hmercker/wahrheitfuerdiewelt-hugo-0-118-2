@@ -1,7 +1,7 @@
 ---
 title: "Al Fike Botschaften 2024"
 menu_title: "Al Fike Botschaften 2024"
-description: "Al Fike Botschaften vom Jahre 2024"
+description: "Al Fike Botschaften in Reihenfolge des Datums empfangen im Jahre 2024: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Kevin O'Neill | …“"
 date: 2023-02-01 02:18:11+11:00
 draft: False
 hidden: True

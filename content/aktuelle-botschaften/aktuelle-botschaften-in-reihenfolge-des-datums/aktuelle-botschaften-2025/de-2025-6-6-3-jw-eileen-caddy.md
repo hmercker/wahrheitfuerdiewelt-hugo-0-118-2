@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr in Gottes Liebe zum Wohle anderer schafft"
 menu_title: ""
-description: "Wenn ihr in Gottes Liebe zum Wohle anderer schafft"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes eure Seelen erfüllen. Wenn ihr in diesem heiligen Kreis zusammenkommt, zieht ihr viele …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

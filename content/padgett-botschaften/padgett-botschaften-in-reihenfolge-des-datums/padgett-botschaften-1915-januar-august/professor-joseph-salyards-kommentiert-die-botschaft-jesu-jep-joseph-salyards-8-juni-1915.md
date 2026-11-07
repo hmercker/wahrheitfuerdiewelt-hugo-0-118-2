@@ -1,7 +1,7 @@
 ---
 title: "Professor Josef Salyards kommentiert die Botschaft Jesu "
 menu_title: ""
-description: "Professor Josef Salyards kommentiert die Botschaft Jesu "
+description: "Professor Salyards, empfangen durch James Padgett: „Ich habe mich sehr für die letzte Botschaft des Meisters interessiert, weil sie Fakten vorlegt, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

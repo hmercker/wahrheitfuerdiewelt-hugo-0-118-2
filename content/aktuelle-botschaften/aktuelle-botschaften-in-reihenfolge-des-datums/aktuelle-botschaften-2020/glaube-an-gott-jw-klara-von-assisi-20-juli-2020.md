@@ -1,7 +1,7 @@
 ---
 title: "Glaube an Gott"
 menu_title: ""
-description: "Glaube an Gott"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich möchte euch sagen, dass die Verbindung mit dem himmlischen Vater eine einfache Handlung ist, eine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dienet den Kindern der Welt"
 menu_title: ""
-description: "Dienet den Kindern der Welt"
+description: "Fred Rogers, empfangen durch Jimbeau Walsh: „Ist es nicht ein schöner Tag in der Nachbarschaft? Sind wir nicht alle Kinder Gottes?“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Judas drängt Padgett nicht zuzulassen, dass sein materieller Verstand sein spirituelles Bewusstsein kontrolliert, was die Fähigkeiten der Seele verdunkelt"
 menu_title: ""
-description: "Judas drängt Padgett nicht zuzulassen, dass sein materieller Verstand sein spirituelles Bewusstsein kontrolliert, was die Fähigkeiten der Seele verdunkelt"
+description: "Judas Iskariot, empfangen durch James Padgett: „Ich werde heute Abend nur ein paar Worte sagen, da ich sehe, dass du nicht in der Lage bist, eine lange …“"
 date: 2020-08-01 06:25:48+00:275
 draft: False
 hidden: True

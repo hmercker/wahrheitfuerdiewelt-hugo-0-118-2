@@ -1,7 +1,7 @@
 ---
 title: "Erkennt die Freude, die der Vater euch schenkt"
 menu_title: ""
-description: "Erkennt die Freude, die der Vater euch schenkt"
+description: "Jesus, empfangen durch Elisabeth Mack: „Die Liebe, die der Vater jedem von euch geschenkt hat und vielen, vielen, vielen mehr. Denn das ist es, was der …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

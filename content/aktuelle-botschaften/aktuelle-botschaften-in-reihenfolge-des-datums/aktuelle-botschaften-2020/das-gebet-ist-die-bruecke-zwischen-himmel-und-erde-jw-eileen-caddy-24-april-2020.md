@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet ist die Brücke zwischen Himmel und Erde"
 menu_title: ""
-description: "Das Gebet ist die Brücke zwischen Himmel und Erde"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Für diejenigen unter euch, die mich nicht kennen, ich war als Eileen Caddy bekannt und ich war die …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

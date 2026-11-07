@@ -1,7 +1,7 @@
 ---
 title: "Überlegt, was es heißt, in Göttliche Liebe verwandelt zu werden"
 menu_title: ""
-description: "Überlegt, was es heißt, in Göttliche Liebe verwandelt zu werden"
+description: "Petrus, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern in der Liebe Gottes, ich bitte jeden einzelnen, von Herzen, von seiner Seele …“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Vergebung und göttliche Barmherzigkeit"
 menu_title: ""
-description: "Vergebung und göttliche Barmherzigkeit"
+description: "Ann Rollins, empfangen durch James Padgett: „Die Vergebung ist jenes Wirken der Göttlichen Vernunft, das den Menschen von der Strafe für die Sünden …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

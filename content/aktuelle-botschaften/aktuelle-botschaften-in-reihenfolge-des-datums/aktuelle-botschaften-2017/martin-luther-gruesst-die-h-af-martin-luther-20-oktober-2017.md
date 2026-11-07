@@ -1,7 +1,7 @@
 ---
 title: "Martin Luther grüßt die H."
 menu_title: ""
-description: "Martin Luther grüßt die H."
+description: "Martin Luther, empfangen durch Al Fike: „Wir werden uns weiterhin bemühen, Botschaften zu bringen, die andere lehren werden, wenn ihr außerhalb eurer …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

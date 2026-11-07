@@ -1,7 +1,7 @@
 ---
 title: "Wir sind verbunden durch deine Seele"
 menu_title: ""
-description: "Wir sind verbunden durch deine Seele"
+description: "Vater, empfangen durch Child of God: „Heute fragst du dich wieder, ob diese Botschaften wirklich von Mir, deinem Vater, kommen. Du versuchst zu verstehen …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

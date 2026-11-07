@@ -1,7 +1,7 @@
 ---
 title: "Bete, um den Willen Gottes in deiner Arbeit zu erkennen"
 menu_title: ""
-description: "Bete, um den Willen Gottes in deiner Arbeit zu erkennen"
+description: "Jesus, empfangen durch Al Fike: „Dies hat eine ernste und tiefe Absicht, und ihr alle müsst weiterhin über diese Dinge beten, um den Willen Gottes in eurer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

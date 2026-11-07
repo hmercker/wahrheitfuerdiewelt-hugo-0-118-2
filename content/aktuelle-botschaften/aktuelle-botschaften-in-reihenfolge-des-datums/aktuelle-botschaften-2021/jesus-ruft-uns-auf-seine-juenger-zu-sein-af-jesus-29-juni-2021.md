@@ -1,7 +1,7 @@
 ---
 title: "Jesus ruft uns auf, seine Jünger zu sein"
 menu_title: ""
-description: "Jesus ruft uns auf, seine Jünger zu sein"
+description: "Jesus, empfangen durch Al Fike: „Meine Gebete sind, dass die Liebe des Vaters weiterhin eure Seele erfüllt und euch mit jedem Atemzug, jedem Moment eures …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

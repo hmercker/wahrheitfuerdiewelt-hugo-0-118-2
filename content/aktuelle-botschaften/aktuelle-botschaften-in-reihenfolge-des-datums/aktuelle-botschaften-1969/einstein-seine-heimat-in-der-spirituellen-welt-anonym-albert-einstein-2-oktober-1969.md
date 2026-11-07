@@ -1,7 +1,7 @@
 ---
 title: "Einstein: Seine Heimat in der spirituellen Welt"
 menu_title: ""
-description: "Einstein: Seine Heimat in der spirituellen Welt"
+description: "Albert Einstein: „Es ist höchst interessant, wieder auf die Erde zurückzukommen. Ich habe so viele Dinge gelernt, seit ich an diesem Ort lebe.“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

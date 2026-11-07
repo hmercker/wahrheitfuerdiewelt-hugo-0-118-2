@@ -1,7 +1,7 @@
 ---
 title: "Helen und Mary schreiben von ihrer Liebe zu ihren Seelenpartnern auf Erden"
 menu_title: ""
-description: "Helen und Mary schreiben von ihrer Liebe zu ihren Seelenpartnern auf Erden"
+description: "Helen und Mary, empfangen durch James Padgett: „Nun, mein Lieber, der Meister wird seine Botschaften heute Abend nicht fortsetzen, da es dir nicht so gut …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

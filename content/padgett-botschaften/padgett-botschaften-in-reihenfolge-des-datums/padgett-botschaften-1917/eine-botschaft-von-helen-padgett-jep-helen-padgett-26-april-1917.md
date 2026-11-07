@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft von Helen Padgett"
 menu_title: ""
-description: "Eine Botschaft von Helen Padgett"
+description: "Helen, empfangen durch James Padgett: „Ich werde heute Abend nicht viel schreiben, aber ab Sonntagabend wünsche ich mir, dass du beginnst, die Botschaften …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit der Schönheit in eurem Leben"
 menu_title: ""
-description: "Die Wichtigkeit der Schönheit in eurem Leben"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Ihr bewundert den schönen Garten dieses Instruments, den Ausdruck seiner Seele und seines Verstandes als …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

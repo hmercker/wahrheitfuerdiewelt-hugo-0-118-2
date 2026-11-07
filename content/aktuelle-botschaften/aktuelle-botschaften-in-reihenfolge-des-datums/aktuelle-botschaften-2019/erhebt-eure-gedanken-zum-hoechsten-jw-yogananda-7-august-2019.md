@@ -1,7 +1,7 @@
 ---
 title: "Erhebt eure Gedanken zum Höchsten"
 menu_title: ""
-description: "Erhebt eure Gedanken zum Höchsten"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, in der Welt ist viel über die Macht der Gedanken gesagt worden, Dinge zu werden, fähig zu …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

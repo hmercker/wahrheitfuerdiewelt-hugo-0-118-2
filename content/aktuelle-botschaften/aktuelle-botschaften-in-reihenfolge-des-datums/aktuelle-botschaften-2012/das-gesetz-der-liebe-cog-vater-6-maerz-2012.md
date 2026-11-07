@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Liebe"
 menu_title: ""
-description: "Das Gesetz der Liebe"
+description: "Vater, empfangen durch Child of God: „Es wäre klug, jeden Tag eine Stunde zu sitzen, um Zeit für Gott zu haben. Zeit, um die brennende Flamme in deiner …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

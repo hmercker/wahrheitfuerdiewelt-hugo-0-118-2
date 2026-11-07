@@ -1,7 +1,7 @@
 ---
 title: "Kennt die Gaben, die Gott zu geben hat"
 menu_title: ""
-description: "Kennt die Gaben, die Gott zu geben hat"
+description: "Seretta Kem, empfangen durch Al Fike: „Meine Gabe ist die Gabe der Heilung, neben anderen Dingen, die ich mit den Sterblichen zu ihrem Nutzen mache.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

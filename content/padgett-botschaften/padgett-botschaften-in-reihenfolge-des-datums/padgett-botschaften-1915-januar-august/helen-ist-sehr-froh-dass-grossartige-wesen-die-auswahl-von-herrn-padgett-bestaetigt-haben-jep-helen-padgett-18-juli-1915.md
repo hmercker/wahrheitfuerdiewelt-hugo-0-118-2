@@ -1,7 +1,7 @@
 ---
 title: "Helen ist sehr froh, dass großartige spirituelle Wesen die Auswahl von Herrn Padgett bestätigt haben"
 menu_title: ""
-description: "Helen ist sehr froh, dass großartige spirituelle Wesen die Auswahl von Herrn Padgett bestätigt haben"
+description: "Helen, empfangen durch James Padgett: „Ich weiß, dass du die Kraft und Liebe vieler spiritueller Wesen haben wirst, um dich in deinem Werk zu unterstützen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

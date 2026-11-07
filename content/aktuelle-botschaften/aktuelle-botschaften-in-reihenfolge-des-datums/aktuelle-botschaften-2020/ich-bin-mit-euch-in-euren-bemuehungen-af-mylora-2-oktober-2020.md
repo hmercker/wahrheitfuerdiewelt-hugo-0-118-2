@@ -1,7 +1,7 @@
 ---
 title: "Ich bin mit euch in euren Bemühungen"
 menu_title: ""
-description: "Ich bin mit euch in euren Bemühungen"
+description: "Mylora, empfangen durch Al Fike: „Wisst, dass in eurer Welt viel geschieht, um diese Heilung voranzubringen, um vielen Segen zu bringen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

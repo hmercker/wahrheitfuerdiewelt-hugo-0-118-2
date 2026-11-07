@@ -1,7 +1,7 @@
 ---
 title: "Elias korrigiert, was die Bibel über ihn schreibt"
 menu_title: ""
-description: "Elias korrigiert, was die Bibel über ihn schreibt"
+description: "Elias, empfangen durch James Padgett: „Und damit meine ich nicht, dass ich diesen Teil der Bibel in allen Ansichten und Erklärungen, die darin enthalten …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

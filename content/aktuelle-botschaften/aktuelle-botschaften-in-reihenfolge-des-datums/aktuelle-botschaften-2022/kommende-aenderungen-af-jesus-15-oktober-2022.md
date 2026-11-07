@@ -1,7 +1,7 @@
 ---
 title: "Kommende Änderungen"
 menu_title: ""
-description: "Kommende Änderungen"
+description: "Jesus, empfangen durch Al Fike: „Geliebte, jeder von euch fühlt und spürt die Notwendigkeit, sich zu verändern und sich auf die kommenden Tage …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

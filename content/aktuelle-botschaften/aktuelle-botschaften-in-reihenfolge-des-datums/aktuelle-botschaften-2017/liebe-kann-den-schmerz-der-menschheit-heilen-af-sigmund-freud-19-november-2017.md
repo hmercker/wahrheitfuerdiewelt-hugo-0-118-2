@@ -1,7 +1,7 @@
 ---
 title: "Liebe kann den Schmerz der Menschheit heilen"
 menu_title: ""
-description: "Liebe kann den Schmerz der Menschheit heilen"
+description: "Sigmund Freud, empfangen durch Al Fike: „Oh, wie sehr ich mich in meinen Einschätzungen der Menschheit geirrt habe. Wie ich versucht habe, die menschlichen …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

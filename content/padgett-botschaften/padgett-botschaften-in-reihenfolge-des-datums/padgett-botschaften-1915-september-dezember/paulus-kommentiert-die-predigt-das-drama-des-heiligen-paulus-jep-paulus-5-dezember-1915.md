@@ -1,7 +1,7 @@
 ---
 title: "Paulus kommentiert die Predigt. Das Drama des heiligen Paulus"
 menu_title: ""
-description: "Paulus kommentiert die Predigt. Das Drama des heiligen Paulus"
+description: "Paulus, empfangen durch James Padgett: „Nun, mein Bruder, ich war mit dir beim Vortrag über das „Drama des heiligen Paulus“ und interessierte mich sehr für …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

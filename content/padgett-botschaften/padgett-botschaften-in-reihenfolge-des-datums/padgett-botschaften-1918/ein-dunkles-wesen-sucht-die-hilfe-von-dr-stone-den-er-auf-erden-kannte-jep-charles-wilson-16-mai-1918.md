@@ -1,7 +1,7 @@
 ---
 title: "Ein dunkles Wesen sucht die Hilfe von Dr Stone den er auf Erden kannte"
 menu_title: ""
-description: "Ein dunkles Wesen sucht die Hilfe von Dr Stone den er auf Erden kannte"
+description: "Charles Wilson, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben. Ich war in einem Krankenhaus, wo er sich um verrückte Sterbliche …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

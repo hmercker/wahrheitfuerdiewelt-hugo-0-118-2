@@ -1,7 +1,7 @@
 ---
 title: "Das Zeitmass auf der Erde ist ganz anders als in den Göttlichen Himmeln"
 menu_title: ""
-description: "Das Zeitmass auf der Erde ist ganz anders als in den Göttlichen Himmeln"
+description: "Kopernikus, empfangen durch Al Fike: „Ich glaube, dass ihr alle von meiner Geschichte in eurer Welt wisst. Denn das Maß der Zeit in eurer Welt …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

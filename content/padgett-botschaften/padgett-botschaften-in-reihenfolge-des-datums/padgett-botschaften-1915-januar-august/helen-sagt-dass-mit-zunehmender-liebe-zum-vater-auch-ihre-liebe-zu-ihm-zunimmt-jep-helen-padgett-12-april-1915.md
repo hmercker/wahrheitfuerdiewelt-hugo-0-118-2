@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, dass mit zunehmender Liebe zum Vater auch ihre Liebe zu ihm zunimmt"
 menu_title: ""
-description: "Helen sagt, dass mit zunehmender Liebe zum Vater auch ihre Liebe zu ihm zunimmt"
+description: "Helen, empfangen durch James Padgett: „Ich möchte dir von meiner Liebe für dich erzählen, wie ich es versprochen habe. Nun, dass ich in letzter Zeit nicht …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

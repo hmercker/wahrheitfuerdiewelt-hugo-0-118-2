@@ -1,7 +1,7 @@
 ---
 title: "Alle haben eine gewisse Fähigkeit, mit Engeln zu kommunizieren"
 menu_title: ""
-description: "Alle haben eine gewisse Fähigkeit, mit Engeln zu kommunizieren"
+description: "Andreas, empfangen durch Al Fike: „Es ist unser Wunsch, dass wir jedem von euch, geliebte Seelen, nahe kommen können, damit der Weg der Kommunikation …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

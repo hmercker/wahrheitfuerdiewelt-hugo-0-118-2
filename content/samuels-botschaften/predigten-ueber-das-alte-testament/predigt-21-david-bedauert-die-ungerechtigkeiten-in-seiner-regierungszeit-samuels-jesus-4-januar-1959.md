@@ -1,7 +1,7 @@
 ---
 title: "Predigt 21 - David bedauert die Ungerechtigkeiten in seiner Regierungszeit"
 menu_title: ""
-description: "Predigt 21 - David bedauert die Ungerechtigkeiten in seiner Regierungszeit"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte meine Predigten über die Psalmen Davids und diejenigen, die unter seinem Einfluss entstanden sind …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

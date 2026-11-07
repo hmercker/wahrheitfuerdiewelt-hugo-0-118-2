@@ -1,7 +1,7 @@
 ---
 title: "Erste Nachricht von Helen für Dr. Stone"
 menu_title: ""
-description: "Erste Nachricht von Helen für Dr. Stone"
+description: "Helen, empfangen durch James Padgett: „Stone ist ein anderer Mensch. Er hat eine ansehnliche spirituelle Entwicklung hinter sich und ist ein ernsthafter …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

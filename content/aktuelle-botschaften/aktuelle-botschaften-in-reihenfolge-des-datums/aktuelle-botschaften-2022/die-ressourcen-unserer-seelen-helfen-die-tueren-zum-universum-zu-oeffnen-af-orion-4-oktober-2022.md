@@ -1,7 +1,7 @@
 ---
 title: "Die Ressourcen unserer Seelen helfen, die Türen zum Universum zu öffnen"
 menu_title: ""
-description: "Die Ressourcen unserer Seelen helfen, die Türen zum Universum zu öffnen"
+description: "Orion, empfangen durch Al Fike: „Denn wenn eure Seele von Licht durchdrungen ist, wo auch immer ihr im Universum hingeht, und in der Tat seid auch ihr …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

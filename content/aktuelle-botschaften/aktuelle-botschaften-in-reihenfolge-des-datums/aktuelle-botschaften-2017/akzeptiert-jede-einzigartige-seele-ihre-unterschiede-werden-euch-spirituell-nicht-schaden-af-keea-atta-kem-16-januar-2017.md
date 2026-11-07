@@ -1,7 +1,7 @@
 ---
 title: "Akzeptiert jede einzigartige Seele, ihre Unterschiede werden euch spirituell nicht schaden"
 menu_title: ""
-description: "Akzeptiert jede einzigartige Seele, ihre Unterschiede werden euch spirituell nicht schaden"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Danke, dass ihr gekommen seid, denn ihr wurdet gerufen. Eure Diskussion vom Vormittag war in der Tat sehr gut.“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

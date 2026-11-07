@@ -1,7 +1,7 @@
 ---
 title: "Wie kann man sich mit anderen Kulturen und Religionen verbinden?"
 menu_title: ""
-description: "Wie kann man sich mit anderen Kulturen und Religionen verbinden?"
+description: "Josephus, empfangen durch Al Fike: „[Frage: Wie wird sich die spirituellen Welt mit vielen verschiedenen Kulturen in der Welt verbinden, wenn die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

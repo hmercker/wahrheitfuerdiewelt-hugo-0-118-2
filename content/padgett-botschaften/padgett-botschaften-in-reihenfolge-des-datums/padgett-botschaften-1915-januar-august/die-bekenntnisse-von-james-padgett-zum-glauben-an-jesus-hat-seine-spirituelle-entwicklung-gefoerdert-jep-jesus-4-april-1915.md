@@ -1,7 +1,7 @@
 ---
 title: "Die Bekenntnis von Padgett zum Glauben an Jesus hat seine spirituelle Entwicklung gefördert"
 menu_title: ""
-description: "Die Bekenntnis von Padgett zum Glauben an Jesus hat seine spirituelle Entwicklung gefördert"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute bei dir und ich hörte wie du deinen Glauben an mich verkündet hast und das ich der Jesus aus der Bibel …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

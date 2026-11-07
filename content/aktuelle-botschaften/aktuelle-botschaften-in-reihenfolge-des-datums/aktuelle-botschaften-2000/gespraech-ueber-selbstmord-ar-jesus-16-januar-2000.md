@@ -1,7 +1,7 @@
 ---
 title: "Gespräch über Selbstmord"
 menu_title: ""
-description: "Gespräch über Selbstmord"
+description: "Jesus, empfangen durch Amada Reza: „Worüber ich heute Morgen sprechen möchte, ist über das Thema Selbstmord und erklären, warum es eine Sünde gegen das …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

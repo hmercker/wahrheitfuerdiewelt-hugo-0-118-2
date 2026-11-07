@@ -1,7 +1,7 @@
 ---
 title: "Die Taten der Liebe werdet ihr ins nächste Leben mitbringen"
 menu_title: ""
-description: "Die Taten der Liebe werdet ihr ins nächste Leben mitbringen"
+description: "Johannes, empfangen durch Al Fike: „Ihr seid zutiefst gesegnet, geliebte Seelen, mit Seiner Liebe. Jede eurer Seelen hat eine Entscheidung getroffen, hat …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

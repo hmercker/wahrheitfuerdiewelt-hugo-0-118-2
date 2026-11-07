@@ -1,7 +1,7 @@
 ---
 title: "Zwei britische Spiritualisten sind auf dem Weg der Göttlichen Liebe"
 menu_title: ""
-description: "Zwei britische Spiritualisten sind auf dem Weg der Göttlichen Liebe"
+description: "Arthur Conan Doyle, empfangen durch Jimbeau Walsh: „Auf unserem Weg durch die Welt des Geistes zur Quelle der Liebe Gottes durchqueren wir die Sphären und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

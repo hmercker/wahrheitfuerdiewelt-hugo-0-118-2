@@ -1,7 +1,7 @@
 ---
 title: "Unsere Gaben und Bestimmungen"
 menu_title: ""
-description: "Unsere Gaben und Bestimmungen"
+description: "Josephus, empfangen durch Al Fike: „Mögen die Segnungen der Liebe des Vaters in eure Seelen eindringen. Das ist die Bestimmung dieser Liebe.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

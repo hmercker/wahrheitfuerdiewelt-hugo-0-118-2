@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung durch John H. Padgett"
 menu_title: ""
-description: "Eine Bestätigung durch John H. Padgett"
+description: "John H Padgett, empfangen durch James Padgett: „[James fragt: Wer hat als letztes geschrieben?] Jesus – derjenige aus der Bibel.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

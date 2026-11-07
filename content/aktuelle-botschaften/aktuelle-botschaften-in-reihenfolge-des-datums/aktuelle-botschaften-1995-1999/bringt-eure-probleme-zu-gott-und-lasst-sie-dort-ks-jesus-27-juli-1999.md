@@ -1,7 +1,7 @@
 ---
 title: "Bringt eure Probleme zu Gott und lasst sie dort"
 menu_title: ""
-description: "Bringt eure Probleme zu Gott und lasst sie dort"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, wenn ich in der Lage bin, klare Gedanken von den himmlischen Engeln zu empfangen, würde …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

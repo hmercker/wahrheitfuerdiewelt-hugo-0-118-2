@@ -1,7 +1,7 @@
 ---
 title: "Padgett und Dr. Stone gehen zum Silvestergottesdienst in eine presbyterianische Kirche"
 menu_title: ""
-description: "Padgett und Dr. Stone gehen zum Silvestergottesdienst in eine presbyterianische Kirche"
+description: "Helen, empfangen durch James Padgett: „Nun, wir sind in großer Zahl hier, und alle wünschen dir und dem Doktor ein sehr glückliches neues Jahr, und eines …“"
 date: 2020-08-01 06:25:48+00:305
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Medialität"
 menu_title: ""
-description: "Medialität"
+description: "Judas, empfangen durch H.: „Ich habe mich übrigens nicht mit dir in Verbindung gesetzt, weil du mit deinem wunden Zeh nicht sehr viele Nachrichten …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

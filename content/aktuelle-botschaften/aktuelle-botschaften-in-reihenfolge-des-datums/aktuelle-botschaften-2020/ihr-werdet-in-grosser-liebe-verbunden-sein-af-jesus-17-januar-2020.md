@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet in großer Liebe verbunden sein"
 menu_title: ""
-description: "Ihr werdet in großer Liebe verbunden sein"
+description: "Jesus, empfangen durch Al Fike: „Ich bringe einen Segen, um euch zu vereinen, denn gemeinsam werdet ihr in großer Liebe, Vertrauen und Gemeinschaft …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

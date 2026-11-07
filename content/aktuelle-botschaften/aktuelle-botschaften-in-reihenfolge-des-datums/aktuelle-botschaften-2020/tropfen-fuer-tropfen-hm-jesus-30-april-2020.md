@@ -1,7 +1,7 @@
 ---
 title: "Tropfen für Tropfen"
 menu_title: ""
-description: "Tropfen für Tropfen"
+description: "Jesus, empfangen durch Helge Mercker: „In diesen Segnungen der Liebe des Vaters öffnet sich die Seele und man kann das Flüstern 'spüren' das in die Seele …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

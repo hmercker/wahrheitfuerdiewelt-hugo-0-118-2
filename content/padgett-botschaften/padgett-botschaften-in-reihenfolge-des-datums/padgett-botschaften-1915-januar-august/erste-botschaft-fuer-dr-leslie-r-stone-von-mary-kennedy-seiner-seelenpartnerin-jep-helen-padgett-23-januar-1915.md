@@ -1,7 +1,7 @@
 ---
 title: "Erste Botschaft für Dr. Leslie R. Stone von Mary Kennedy, seiner Seelenpartnerin"
 menu_title: ""
-description: "Erste Botschaft für Dr. Leslie R. Stone von Mary Kennedy, seiner Seelenpartnerin"
+description: "Helen, empfangen durch James Padgett: „Sie möchte Leslie wissen lassen, dass er ihr so sehr ans Herz gewachsen ist und dass er seine liebevollen Gedanken …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

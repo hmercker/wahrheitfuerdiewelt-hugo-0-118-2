@@ -1,7 +1,7 @@
 ---
 title: "Gold und Silber umgibt dich"
 menu_title: ""
-description: "Gold und Silber umgibt dich"
+description: "Andreas, empfangen durch Kathryn Stokes: „Auch wenn ihr nicht geplant hattet, für ein Schreiben Platz zu nehmen, freue ich mich, dass ihr euch meiner …“"
 date: 2020-08-01 06:25:48+00:296
 draft: False
 hidden: True

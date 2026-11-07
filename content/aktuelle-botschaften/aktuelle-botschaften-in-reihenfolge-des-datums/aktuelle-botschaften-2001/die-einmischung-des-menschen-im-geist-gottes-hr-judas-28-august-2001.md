@@ -1,7 +1,7 @@
 ---
 title: "Die Einmischen des Menschen im Geist Gottes"
 menu_title: ""
-description: "Die Einmischen des Menschen im Geist Gottes"
+description: "Judas, empfangen durch H.: „Heute bin ich zu dir gekommen, um ein weiteres Kapitel über den Geist Gottes zu schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

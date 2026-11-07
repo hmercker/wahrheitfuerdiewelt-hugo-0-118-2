@@ -1,7 +1,7 @@
 ---
 title: "Wir vereinen Körper und Seele, damit niemand zurückbleibt"
 menu_title: ""
-description: "Wir vereinen Körper und Seele, damit niemand zurückbleibt"
+description: "Orion, empfangen durch Al Fike: „Ich möchte euch sagen, dass wir Energien von der Erde und der natürlichen Ordnung der Erde mitbringen und sie mit höher …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

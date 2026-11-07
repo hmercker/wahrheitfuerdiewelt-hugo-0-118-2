@@ -1,7 +1,7 @@
 ---
 title: "Jeden Tag für die Liebe beten"
 menu_title: ""
-description: "Jeden Tag für die Liebe beten"
+description: "Jesus, empfangen durch Al Fike: „Und ich segne euch, ich segne euch in eurer Sehnsucht und eurem Wunsch nach Wahrheit und eurer Bereitschaft, euch auf …“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

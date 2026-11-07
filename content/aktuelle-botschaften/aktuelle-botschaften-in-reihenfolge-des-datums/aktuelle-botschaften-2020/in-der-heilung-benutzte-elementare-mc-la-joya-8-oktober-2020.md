@@ -1,7 +1,7 @@
 ---
 title: "In der Heilung benutzte Elementare"
 menu_title: ""
-description: "In der Heilung benutzte Elementare"
+description: "La Joya, empfangen durch Maureen Cardoso: „Möge der Segen von Gottes großer Essenz in eure Seelen fließen und euch tief erfüllen und euch in der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

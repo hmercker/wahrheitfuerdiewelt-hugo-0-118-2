@@ -1,7 +1,7 @@
 ---
 title: "Der Schlafzustand "
 menu_title: ""
-description: "Der Schlafzustand "
+description: "Johannes, empfangen von Al Fike: „Ja, ihr wundert euch über den Flug eurer Seelen, wenn ihr nachts schlaft. Habt ihr ein Ziel und eine Mission während …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

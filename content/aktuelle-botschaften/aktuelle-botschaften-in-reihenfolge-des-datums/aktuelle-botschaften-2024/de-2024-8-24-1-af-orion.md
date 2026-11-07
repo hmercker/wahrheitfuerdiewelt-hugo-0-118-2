@@ -1,7 +1,7 @@
 ---
 title: "Fahrt mit eurem Fortschritt fort, damit ihr bereit seid, wenn ihr gebraucht werdet"
 menu_title: ""
-description: "Fahrt mit eurem Fortschritt fort, damit ihr bereit seid, wenn ihr gebraucht werdet"
+description: "Orion, empfangen durch Al Fike: „Ja, eure Welt ist eine Welt der großen Herausforderungen. Aber durch diese Herausforderungen und durch das, was …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

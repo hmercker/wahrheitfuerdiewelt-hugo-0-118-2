@@ -1,7 +1,7 @@
 ---
 title: "Es liegt an euch, den Willen Gottes zu erkennen"
 menu_title: ""
-description: "Es liegt an euch, den Willen Gottes zu erkennen"
+description: "Matthäus, empfangen durch Al Fike: „Es ist für euch, den Willen Gottes zu erkennen und ihr versteht die Wege und Mittel, mit denen ihr den Willen Gottes …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

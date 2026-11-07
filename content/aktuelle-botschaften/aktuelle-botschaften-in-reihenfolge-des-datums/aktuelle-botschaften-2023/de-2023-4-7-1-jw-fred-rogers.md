@@ -1,7 +1,7 @@
 ---
 title: "Gewohnheiten, Süchte und Heilung - Teil 2"
 menu_title: ""
-description: "Gewohnheiten, Süchte und Heilung - Teil 2"
+description: "Fred Rogers, empfangen durch Jimbeau Walsh: „Viele hier haben mit diesen Themen in der Familie und im Freundeskreis zu tun und sehen aus erster Hand die …“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

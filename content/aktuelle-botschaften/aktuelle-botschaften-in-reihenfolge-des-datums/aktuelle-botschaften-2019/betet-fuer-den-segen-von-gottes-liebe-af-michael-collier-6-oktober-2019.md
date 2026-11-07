@@ -1,7 +1,7 @@
 ---
 title: "Betet für den Segen von Gottes Liebe"
 menu_title: ""
-description: "Betet für den Segen von Gottes Liebe"
+description: "Michael Colliers, empfangen durch Al Fike: „Ich war bei diesem lieben Instrument, als er erwachte, und beeindruckte ihn, wie wichtig es ist, weiterhin das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

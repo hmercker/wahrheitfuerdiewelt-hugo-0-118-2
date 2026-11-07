@@ -1,7 +1,7 @@
 ---
 title: "Ohne die Göttliche Liebe ist es nicht möglich, höhere Wahrheiten zu empfangen"
 menu_title: ""
-description: "Ohne die Göttliche Liebe ist es nicht möglich, höhere Wahrheiten zu empfangen"
+description: "Johannes, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, denn ich sehe, dass du heute Abend einige der höheren spirituellen Wesen …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

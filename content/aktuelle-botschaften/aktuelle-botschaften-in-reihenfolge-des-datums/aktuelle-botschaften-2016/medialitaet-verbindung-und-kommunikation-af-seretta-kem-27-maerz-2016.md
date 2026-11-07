@@ -1,7 +1,7 @@
 ---
 title: "Medialität - Verbindung und Kommunikation"
 menu_title: ""
-description: "Medialität - Verbindung und Kommunikation"
+description: "Seretta Kem, empfangen durch Al Fike: „Wenn diese Gabe von einem Sterblichen benutzt wird, kommen viele Gesetze ins Spiel: das Gesetz der Anziehung, das …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

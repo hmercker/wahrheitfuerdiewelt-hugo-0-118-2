@@ -1,7 +1,7 @@
 ---
 title: "Lektion 12 - Der mäandernde Weg des menschlichen Zustands - Band 3"
 menu_title: ""
-description: "Lektion 12 - Der mäandernde Weg des menschlichen Zustands - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte über die Lebenserfahrung sprechen, die die meisten Menschen in dieser Welt machen.“"
 date: 2025-03-13 06:00:00+00:10
 draft: False
 hidden: True

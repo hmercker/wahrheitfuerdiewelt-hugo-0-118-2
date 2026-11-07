@@ -1,7 +1,7 @@
 ---
 title: "Tucker behauptet auf Erden schlecht gewesen zu sein, und versucht, aus der Dunkelheit herauszukommen"
 menu_title: ""
-description: "Tucker behauptet auf Erden schlecht gewesen zu sein, und versucht, aus der Dunkelheit herauszukommen"
+description: "Bill Tucker, empfangen durch James Padgett: „Lass mich nur ein wenig schreiben, denn ich brauche Hilfe. Ich leide, weil ich ein schlechter Mensch war, als …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

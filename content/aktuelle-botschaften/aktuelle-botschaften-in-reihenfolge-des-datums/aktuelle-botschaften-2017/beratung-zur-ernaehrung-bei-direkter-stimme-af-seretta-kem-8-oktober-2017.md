@@ -1,7 +1,7 @@
 ---
 title: "Beratung zur Ernährung bei Direkter Stimme"
 menu_title: ""
-description: "Beratung zur Ernährung bei Direkter Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Was für ein schöner Segen, den Jesus meinen Geliebten bringt, um euch in euren Bemühungen und auf eurem Weg zu …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es ist notwendig, immer die Wahrheit und Liebe auszudrücken"
 menu_title: ""
-description: "Es ist notwendig, immer die Wahrheit und Liebe auszudrücken"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich lebte auf der Erde, lange bevor Meister Jesus kam, um der Welt seine Wahrheit zu bringen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

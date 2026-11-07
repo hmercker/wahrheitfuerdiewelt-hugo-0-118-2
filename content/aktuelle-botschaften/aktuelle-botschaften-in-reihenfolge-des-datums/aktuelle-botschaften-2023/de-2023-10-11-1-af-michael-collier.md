@@ -1,7 +1,7 @@
 ---
 title: "Eure Wünsche und Erwartungen für einen besonderen Segen"
 menu_title: ""
-description: "Eure Wünsche und Erwartungen für einen besonderen Segen"
+description: "Michael Collier, empfangen durch Al Fike: „Unser liebes Instrument hat fälschlicherweise angenommen, dass ich der Führer dieses lieben Sohnes bin.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die kontinuierliche Transformation in Gottes Liebe"
 menu_title: ""
-description: "Die kontinuierliche Transformation in Gottes Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge Gottes Liebe euch umgeben, euch durchdringen und euch aufrichten. Bitten wir nicht um Führung, wenn wir weiter …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

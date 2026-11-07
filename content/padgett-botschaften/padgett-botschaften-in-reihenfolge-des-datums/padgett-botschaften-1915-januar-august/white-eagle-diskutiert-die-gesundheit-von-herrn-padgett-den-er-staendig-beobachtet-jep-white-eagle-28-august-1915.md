@@ -1,7 +1,7 @@
 ---
 title: "White Eagle diskutiert die Gesundheit von Herrn Padgett, den er ständig beobachtet"
 menu_title: ""
-description: "White Eagle diskutiert die Gesundheit von Herrn Padgett, den er ständig beobachtet"
+description: "White Eagle, empfangen durch James Padgett: „Ich werde dir heute Abend keine Behandlung zukommen lassen, da du nicht in der Verfassung bist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

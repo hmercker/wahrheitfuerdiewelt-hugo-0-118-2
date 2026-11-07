@@ -1,7 +1,7 @@
 ---
 title: "Eine weise Entscheidung"
 menu_title: ""
-description: "Eine weise Entscheidung"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Mein lieber Bruder, mein geliebter Franziskus, hat an einem Punkt auf seiner Reise auf der Erde eine Wahl …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt Gott, durch diese Kirche zu wirken"
 menu_title: ""
-description: "Erlaubt Gott, durch diese Kirche zu wirken"
+description: "Martha, empfangen durch Al Fike: „Ich war einmal ein Teil eurer Gemeinde, in eurer Kirche. Vor vielen Jahren, bevor irgendjemand von euch Teil dieses Ortes …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

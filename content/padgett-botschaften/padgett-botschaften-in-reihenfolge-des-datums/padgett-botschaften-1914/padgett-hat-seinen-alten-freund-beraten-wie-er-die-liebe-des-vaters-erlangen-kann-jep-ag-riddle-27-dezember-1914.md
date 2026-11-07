@@ -1,7 +1,7 @@
 ---
 title: "Padgett hat seinen alten Freund beraten, wie er die Liebe des Vaters erlangen kann"
 menu_title: ""
-description: "Padgett hat seinen alten Freund beraten, wie er die Liebe des Vaters erlangen kann"
+description: "A.G. Riddle, empfangen durch James Padgett: „Du bist sehr gütig mich wieder zu dir schreiben zu lassen und ich werde dir von meiner gegenwärtigen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

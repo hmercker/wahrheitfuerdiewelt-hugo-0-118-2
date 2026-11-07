@@ -1,7 +1,7 @@
 ---
 title: "Die Welt der Reue"
 menu_title: ""
-description: "Die Welt der Reue"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich möchte über etwas sprechen, an dem so viele festhalten und das so viel Leid verursacht, nicht nur in …“"
 date: 2025-08-07 06:00:00+00:00
 draft: False
 hidden: True

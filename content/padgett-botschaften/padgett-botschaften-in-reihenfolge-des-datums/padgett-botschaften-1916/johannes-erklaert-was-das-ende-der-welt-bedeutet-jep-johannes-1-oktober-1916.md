@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, was das Ende der Welt bedeutet"
 menu_title: ""
-description: "Johannes erklärt, was das Ende der Welt bedeutet"
+description: "Johannes, empfangen durch James Padgett: „Ich weiß, unter den Menschen gibt es, und hat es seit der Zeit des Meisters immer gegeben …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Viele Gaben für den Kreis der Sieben"
 menu_title: ""
-description: "Viele Gaben für den Kreis der Sieben"
+description: "Lotus Blossom, empfangen durch Al Fike: „Wie gut ist es, euch in Liebe zusammen zu sehen. Gemeinsam in Liebe zu beten, eure Erkenntnisse und euer Leben …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

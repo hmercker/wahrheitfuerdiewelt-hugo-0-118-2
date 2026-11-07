@@ -1,7 +1,7 @@
 ---
 title: "Mit dem Leben zurechtkommen"
 menu_title: ""
-description: "Mit dem Leben zurechtkommen"
+description: "Maria & David, empfangen durch Amada Reza: „[Lieber Himmlischer Vater, ich bete darum, ein Werkzeug der Wahrheit zu sein, um meine Seele und die Seelen …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

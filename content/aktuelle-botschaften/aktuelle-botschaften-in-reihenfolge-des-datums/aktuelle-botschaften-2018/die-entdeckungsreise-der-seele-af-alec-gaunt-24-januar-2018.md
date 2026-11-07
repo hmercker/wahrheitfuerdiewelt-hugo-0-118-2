@@ -1,7 +1,7 @@
 ---
 title: "Die Entdeckungsreise der Seele"
 menu_title: ""
-description: "Die Entdeckungsreise der Seele"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ich war den ganzen Tag bei euch und habe eure Gespräche und eure Gebete und eure Wünsche, im höchsten Zustand und im …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

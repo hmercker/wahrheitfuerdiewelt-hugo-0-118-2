@@ -1,7 +1,7 @@
 ---
 title: "Pastor Russell schreibt über seinen Übergang in die spirituelle Welt"
 menu_title: ""
-description: "Pastor Russell schreibt über seinen Übergang in die spirituelle Welt"
+description: "Charles T. Russel 1, empfangen durch James Padgett: „Aber im Handumdrehen sah ich die ganze Falschheit meines Glaubens und meiner Lehren, denn ich erwachte …“"
 date: 2020-08-01 06:25:48+00:262
 draft: False
 hidden: True

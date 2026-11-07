@@ -1,7 +1,7 @@
 ---
 title: "Jesus erläutert, warum niemand auf ewig verdammt werden kann"
 menu_title: ""
-description: "Jesus erläutert, warum niemand auf ewig verdammt werden kann"
+description: "Jesus, empfangen durch James Padgett: „Du hast Recht gehabt in deiner Annahme, dass ich heute Nacht bei dir war, und, wie du dir vorstelltest, stand ich …“"
 date: 2020-08-01 06:25:48+00:247
 draft: False
 hidden: True

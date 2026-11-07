@@ -1,7 +1,7 @@
 ---
 title: "Jesus erwählt Eugene Morgan als seinen Jünger"
 menu_title: ""
-description: "Jesus erwählt Eugene Morgan als seinen Jünger"
+description: "Jesus, empfangen durch James Padgett: „Seit langem schon beobachte auch ich deinen Freund und hoffe, dass er bald schon bereit ist, die Aufgabe, zu der ich …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

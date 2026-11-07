@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Absicht"
 menu_title: ""
-description: "Die Macht der Absicht"
+description: "Augustinus, empfangen durch Al Fike: „Die Absicht ist ein wichtiger Aspekt eurer spirituellen Reise. Diese Absicht entspringt oft dem Verstand, aber vor …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

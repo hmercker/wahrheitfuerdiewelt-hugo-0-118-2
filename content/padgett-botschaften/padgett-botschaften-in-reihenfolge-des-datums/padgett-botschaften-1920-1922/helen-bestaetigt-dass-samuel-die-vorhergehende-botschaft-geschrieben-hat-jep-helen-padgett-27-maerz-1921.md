@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Samuel die vorhergehende Botschaft geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Samuel die vorhergehende Botschaft geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich sehe, dass du müde bist und ich werde nicht viel schreiben. Die Botschaft, die du erhalten hast …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

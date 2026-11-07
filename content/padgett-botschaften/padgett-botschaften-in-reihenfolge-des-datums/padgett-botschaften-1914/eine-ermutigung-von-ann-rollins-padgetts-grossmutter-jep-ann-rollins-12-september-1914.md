@@ -1,7 +1,7 @@
 ---
 title: "Eine Ermutigung von Ann Rollins, Padgett's Großmutter"
 menu_title: ""
-description: "Eine Ermutigung von Ann Rollins, Padgett's Großmutter"
+description: "Ann Rollins, empfangen durch James Padgett: „Schenke dem Herrn dein Herz und Er wird dich segnen, wie du schon bald erkennen wirst. Das hat er und er wird …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

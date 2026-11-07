@@ -1,7 +1,7 @@
 ---
 title: "Die Illusionen eures Verstandes werden sich mit dem Seelenerwachen auflösen"
 menu_title: ""
-description: "Die Illusionen eures Verstandes werden sich mit dem Seelenerwachen auflösen"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte ein etwas achtsames, aber wichtiges Thema ansprechen, nämlich die Verzerrungen des Verstandes und wie sie …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

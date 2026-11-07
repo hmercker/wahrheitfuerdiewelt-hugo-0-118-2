@@ -1,7 +1,7 @@
 ---
 title: "Innere Seelenveränderungen werden sich in euren Leben manifestieren"
 menu_title: ""
-description: "Innere Seelenveränderungen werden sich in euren Leben manifestieren"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist gut zu sehen, wie ihr in die Welt hinauszieht, um dem Drängen eurer Seelen zu folgen, um als Kanäle der Liebe …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

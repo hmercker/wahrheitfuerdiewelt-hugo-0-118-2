@@ -1,7 +1,7 @@
 ---
 title: "Vertraut auf die Weisheit eurer Seelen"
 menu_title: ""
-description: "Vertraut auf die Weisheit eurer Seelen"
+description: "Faith, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen einfließen, in eure kostbaren Seelen, die das Licht bringen, wohin ihr …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

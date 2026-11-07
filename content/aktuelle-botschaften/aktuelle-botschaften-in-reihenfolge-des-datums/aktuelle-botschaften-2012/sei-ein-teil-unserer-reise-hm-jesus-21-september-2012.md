@@ -1,7 +1,7 @@
 ---
 title: "Sei ein Teil unserer Reise"
 menu_title: ""
-description: "Sei ein Teil unserer Reise"
+description: "Jesus, empfangen durch Helge Mercker: „Du hast mich gespürt und ich freue mich, dass du meine Gegenwart durch deine Empfindungen erkennst/spürst und ein …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

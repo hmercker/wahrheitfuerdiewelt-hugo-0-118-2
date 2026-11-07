@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen, dass für einen Moment seinen Namen vergaß"
 menu_title: ""
-description: "Ein spirituelles Wesen, dass für einen Moment seinen Namen vergaß"
+description: "Johannes der Täufer, empfangen durch James Padgett: „Er war kein sehr gutes spirituelles Wesen, auch nicht in viel Dunkelheit. Er ist zurückgekehrt und …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

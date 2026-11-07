@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitung für die Direkte Stimme"
 menu_title: ""
-description: "Vorbereitung für die Direkte Stimme"
+description: "Augustinus, empfangen durch Al Fike: „Ihr wurdet viele, viele Male aufgefordert, nach dem Höchsten zu streben, nach der Liebe zu suchen.“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

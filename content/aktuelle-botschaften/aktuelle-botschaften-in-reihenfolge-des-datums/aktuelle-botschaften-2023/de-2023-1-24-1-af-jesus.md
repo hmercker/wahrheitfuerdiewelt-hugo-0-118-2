@@ -1,7 +1,7 @@
 ---
 title: "Propheten werden in den kommenden Zeiten gebraucht"
 menu_title: ""
-description: "Propheten werden in den kommenden Zeiten gebraucht"
+description: "Jesus, empfangen durch Al Fike: „Geliebte Brüder und Schwestern. Ihr seid meine Jüngerinnen und Jünger auf der Erde.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

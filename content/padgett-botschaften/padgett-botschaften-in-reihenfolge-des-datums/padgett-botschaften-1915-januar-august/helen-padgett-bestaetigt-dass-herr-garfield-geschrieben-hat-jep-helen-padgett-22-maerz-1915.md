@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett bestätigt, dass Herr Garfield geschrieben hat"
 menu_title: ""
-description: "Helen Padgett bestätigt, dass Herr Garfield geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, du hast ja einen ziemlich langen Brief von Garfield bekommen. Er ist intellektuell gesehen gewiss ein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

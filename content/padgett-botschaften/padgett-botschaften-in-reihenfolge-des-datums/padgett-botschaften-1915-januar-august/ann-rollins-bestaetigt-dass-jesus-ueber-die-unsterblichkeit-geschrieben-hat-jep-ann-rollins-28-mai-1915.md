@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigt, dass Jesus über die Unsterblichkeit geschrieben hat"
 menu_title: ""
-description: "Ann Rollins bestätigt, dass Jesus über die Unsterblichkeit geschrieben hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun, mein Sohn, der Diskurs des Meisters ist wunderbar. Nie zuvor hat er den Sterblichen die wahren inneren …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

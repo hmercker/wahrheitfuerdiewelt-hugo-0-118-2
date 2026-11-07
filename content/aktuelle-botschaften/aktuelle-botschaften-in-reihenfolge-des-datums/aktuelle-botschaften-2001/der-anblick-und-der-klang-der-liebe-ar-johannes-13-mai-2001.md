@@ -1,7 +1,7 @@
 ---
 title: "Der Anblick und der Klang der Liebe"
 menu_title: ""
-description: "Der Anblick und der Klang der Liebe"
+description: "Johannes, empfangen durch Amada Reza: „Ich folge meinem Meister, weil er das Beispiel der Liebe Christi ist, die sich durch seine Seele manifestiert, und …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

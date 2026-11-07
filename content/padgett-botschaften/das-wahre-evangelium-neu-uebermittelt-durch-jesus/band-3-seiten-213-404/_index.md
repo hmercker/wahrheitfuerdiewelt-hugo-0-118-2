@@ -1,7 +1,7 @@
 ---
 title: "Band III - Seiten 213 bis 404"
 menu_title: "Band III - Seiten 213 bis 404"
-description: "Padgett Botschaften Band III - Seiten 213 bis 404"
+description: "Das wahre Evangelium neu übermittelt durch Jesus Band III - Seiten 213 bis 404: „Dies ist ein Index der Publikation, die von der Foundation Church of the …“"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

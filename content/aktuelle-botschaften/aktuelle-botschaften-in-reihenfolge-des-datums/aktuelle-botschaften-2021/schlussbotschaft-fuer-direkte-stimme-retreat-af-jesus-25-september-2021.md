@@ -1,7 +1,7 @@
 ---
 title: "Schlussbotschaft für Direkte Stimme Retreat"
 menu_title: ""
-description: "Schlussbotschaft für Direkte Stimme Retreat"
+description: "Jesus, empfangen durch Al Fike: „Wir danken euch für eure Bemühungen, denn ihr habt große Fortschritte gemacht. Fortschritte, die wir uns seit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

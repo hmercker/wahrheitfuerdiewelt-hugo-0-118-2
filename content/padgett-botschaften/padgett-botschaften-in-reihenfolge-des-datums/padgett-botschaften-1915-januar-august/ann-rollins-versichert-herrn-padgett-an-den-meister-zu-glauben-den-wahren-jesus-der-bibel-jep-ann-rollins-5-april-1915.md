@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins versichert Herrn Padgett, an den Meister zu glauben, den wahren Jesus der Bibel"
 menu_title: ""
-description: "Ann Rollins versichert Herrn Padgett, an den Meister zu glauben, den wahren Jesus der Bibel"
+description: "Ann Rollins, empfangen durch James Padgett: „Deinem Verstand sind mehr oder weniger Zweifel gekommen, ob wir wirklich die Personen sind, für welche wir uns …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

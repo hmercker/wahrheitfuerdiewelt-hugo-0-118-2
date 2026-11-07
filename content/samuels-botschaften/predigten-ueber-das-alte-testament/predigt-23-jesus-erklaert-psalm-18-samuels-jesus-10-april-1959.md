@@ -1,7 +1,7 @@
 ---
 title: "Predigt 23 - Jesus erklärt Psalm 18"
 menu_title: ""
-description: "Predigt 23 - Jesus erklärt Psalm 18t"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte jetzt über Psalm 18 sprechen, der auch in Zweite Samuel, Kapitel 22, unter dem Titel „Davids Lied der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

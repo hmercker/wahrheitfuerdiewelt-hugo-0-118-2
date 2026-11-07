@@ -1,7 +1,7 @@
 ---
 title: "Frau Eddy wusste nicht die Wahrheit, die in den Botschaften aufgedeckt wurde, die Padgett erhalten hat"
 menu_title: ""
-description: "Frau Eddy wusste nicht die Wahrheit, die in den Botschaften aufgedeckt wurde, die Padgett erhalten hat"
+description: "Frau Eddy, empfangen durch James Padgett: „In all dem beziehe ich mich auf die große Frage der göttlichen Liebe und die Art und Weise, wie die Sterblichen …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

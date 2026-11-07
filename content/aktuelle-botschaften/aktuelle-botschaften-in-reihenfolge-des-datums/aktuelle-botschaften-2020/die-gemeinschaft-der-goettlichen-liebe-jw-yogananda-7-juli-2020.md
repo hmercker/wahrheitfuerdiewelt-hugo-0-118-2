@@ -1,7 +1,7 @@
 ---
 title: "Die Gemeinschaft der Göttlichen Liebe"
 menu_title: ""
-description: "Die Gemeinschaft der Göttlichen Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte euch sagen, dass ich als kleiner Junge mit meiner Mutter in den Tempel ging und Puja machte, wir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

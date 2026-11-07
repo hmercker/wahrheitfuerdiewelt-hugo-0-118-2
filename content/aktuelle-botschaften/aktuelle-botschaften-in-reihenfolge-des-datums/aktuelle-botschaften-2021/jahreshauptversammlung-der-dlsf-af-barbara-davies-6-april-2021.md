@@ -1,7 +1,7 @@
 ---
 title: "Jahreshauptversammlung der DLSF"
 menu_title: ""
-description: "Jahreshauptversammlung der DLSF"
+description: "Barbara Davies, empfangen durch Al Fike: „Ich möchte euch versichern, dass ich weiterhin mit euch allen zusammenarbeite, auch mit denen, die ich nicht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

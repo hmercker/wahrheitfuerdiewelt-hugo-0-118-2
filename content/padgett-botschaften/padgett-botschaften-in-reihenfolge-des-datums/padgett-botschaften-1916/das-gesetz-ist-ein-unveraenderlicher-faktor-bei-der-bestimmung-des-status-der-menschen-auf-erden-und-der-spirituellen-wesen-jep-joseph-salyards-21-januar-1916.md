@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz ist ein unveränderlicher Faktor bei der Bestimmung des Status der Menschen auf Erden und der spirituellen Wesen"
 menu_title: ""
-description: "Das Gesetz ist ein unveränderlicher Faktor bei der Bestimmung des Status der Menschen auf Erden und der spirituellen Wesen"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich war nicht bei dir und natürlich weiß ich nicht, warum du nicht früher gekommen bist, aber ich nehme …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

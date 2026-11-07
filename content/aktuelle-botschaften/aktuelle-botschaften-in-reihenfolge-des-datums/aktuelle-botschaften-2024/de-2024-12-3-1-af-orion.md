@@ -1,7 +1,7 @@
 ---
 title: "Wichtige Arten zu beten"
 menu_title: ""
-description: "Wichtige Arten zu beten"
+description: "Orion, empfangen durch Al Fike: „Möge der Atem Gottes über euch sein, geliebte Seelen, die Sehnsucht eurer Seele, die sich öffnet und das Geschenk Seiner …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Fordert nicht diejenigen heraus, die von euren Worten herausgefordert werden"
 menu_title: ""
-description: "Fordert nicht diejenigen heraus, die von euren Worten herausgefordert werden"
+description: "Augustinus, empfangen durch Al Fike: „Hier spricht euer Lehrer Augustinus. Ich war heute Morgen mit euch in euren Gesprächen.“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

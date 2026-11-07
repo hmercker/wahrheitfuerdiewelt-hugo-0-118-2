@@ -1,7 +1,7 @@
 ---
 title: "Was ihr euch im Leben wünscht, ändert sich, wenn ihr von der Göttlichen Liebe verwandelt werdet "
 menu_title: ""
-description: "Was ihr euch im Leben wünscht, ändert sich, wenn ihr von der Göttlichen Liebe verwandelt werdet "
+description: "Josef, empfangen durch Al Fike: „Möge die Liebe Gottes euch weiterhin erwecken, meine Freunde. Möge Gottes Liebe euch die Einsicht und die Wahrnehmung …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

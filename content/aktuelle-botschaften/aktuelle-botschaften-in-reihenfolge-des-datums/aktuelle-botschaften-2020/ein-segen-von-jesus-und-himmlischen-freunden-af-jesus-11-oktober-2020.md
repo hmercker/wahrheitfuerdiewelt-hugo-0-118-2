@@ -1,7 +1,7 @@
 ---
 title: "Ein Segen von Jesus und himmlischen Freunden"
 menu_title: ""
-description: "Ein Segen von Jesus und himmlischen Freunden"
+description: "Jesus, empfangen durch Al Fike: „Wir kommen auf die Erde, um euch Hoffnung und Segnungen der Liebe und des Lichts zu bringen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

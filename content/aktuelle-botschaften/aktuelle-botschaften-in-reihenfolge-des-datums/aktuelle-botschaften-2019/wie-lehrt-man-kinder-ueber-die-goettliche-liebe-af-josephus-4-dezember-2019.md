@@ -1,7 +1,7 @@
 ---
 title: "Wie lehrt man Kinder über die Göttliche Liebe?"
 menu_title: ""
-description: "Wie lehrt man Kinder über die Göttliche Liebe?"
+description: "Josephus, empfangen durch Al Fike: „[Frage: Wie geht ihr vor, um Kindern Göttliche Liebe zu lehren.] Der optimale Weg, Kindern die Göttliche Liebe zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

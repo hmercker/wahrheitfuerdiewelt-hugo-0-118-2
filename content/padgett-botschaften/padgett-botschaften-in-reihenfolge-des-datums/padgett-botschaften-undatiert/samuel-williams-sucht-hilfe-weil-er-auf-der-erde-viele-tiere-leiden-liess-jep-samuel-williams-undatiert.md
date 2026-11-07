@@ -1,7 +1,7 @@
 ---
 title: "Samuel Williams sucht Hilfe, weil er auf der Erde viele Tiere leiden ließ"
 menu_title: ""
-description: "Samuel Williams sucht Hilfe, weil er auf der Erde viele Tiere leiden ließ"
+description: "Samuel Williams, empfangen durch James Padgett: „Lass mich für eine Weile schreiben. Ich war ein Mann, der ein sehr böses Leben führte, indem er viele …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

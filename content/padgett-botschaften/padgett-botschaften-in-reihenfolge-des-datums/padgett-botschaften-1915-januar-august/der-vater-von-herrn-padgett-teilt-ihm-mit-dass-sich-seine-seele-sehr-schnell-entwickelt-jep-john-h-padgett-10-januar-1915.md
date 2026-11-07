@@ -1,7 +1,7 @@
 ---
 title: "Der Vater von Herrn Padgett teilt ihm mit, dass sich seine Seele sehr schnell entwickelt"
 menu_title: ""
-description: "Der Vater von Herrn Padgett teilt ihm mit, dass sich seine Seele sehr schnell entwickelt"
+description: "John H. Padgett, empfangen durch James Padgett: „Ich fühle, dass ich dir das sagen muss, da ich sehe das sich deine Seele sehr schnell entwickelt und je …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

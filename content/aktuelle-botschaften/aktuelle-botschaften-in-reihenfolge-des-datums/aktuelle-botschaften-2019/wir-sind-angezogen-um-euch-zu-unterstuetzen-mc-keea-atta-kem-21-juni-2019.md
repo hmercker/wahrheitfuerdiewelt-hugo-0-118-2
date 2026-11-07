@@ -1,7 +1,7 @@
 ---
 title: "Wir sind angezogen um euch zu unterstützen"
 menu_title: ""
-description: "Wir sind angezogen um euch zu unterstützen"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Gerade jetzt ist dein Ort der Heilung voll, voll von Engeln. Wir kommen, weil ihr durch euren Wunsch …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

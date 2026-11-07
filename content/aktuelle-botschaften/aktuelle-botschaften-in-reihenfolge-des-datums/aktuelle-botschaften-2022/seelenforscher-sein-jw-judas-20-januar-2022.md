@@ -1,7 +1,7 @@
 ---
 title: "Seelenforscher sein!"
 menu_title: ""
-description: "Seelenforscher sein!"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es geht um den Glauben an eure Gebete für die Liebe Gottes. Diese Gebete werden zu Dingen, zu echter Substanz, zur …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

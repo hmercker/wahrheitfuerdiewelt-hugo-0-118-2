@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert, dass Professor Salyards geschrieben hat"
 menu_title: ""
-description: "Helen versichert, dass Professor Salyards geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Du hast definitiv einen langen Brief geschrieben. Professor Salyards ist sehr an dir interessiert und du musst …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

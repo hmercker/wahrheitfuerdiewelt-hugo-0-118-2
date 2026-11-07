@@ -1,7 +1,7 @@
 ---
 title: "Ein wohltuender Segen zur Befreiung von Schmerzen"
 menu_title: ""
-description: "Ein wohltuender Segen zur Befreiung von Schmerzen"
+description: "Andreas, empfangen durch Al Fike: „Die Welt öffnet sich für euch alle, denn die Welt schreit nach Licht, Trost, Liebe, Heilung und dem wohltuenden Segen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

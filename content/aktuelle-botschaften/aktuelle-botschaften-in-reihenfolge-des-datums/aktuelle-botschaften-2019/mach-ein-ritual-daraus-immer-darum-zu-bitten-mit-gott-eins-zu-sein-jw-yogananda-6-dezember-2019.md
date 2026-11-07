@@ -1,7 +1,7 @@
 ---
 title: "Mach ein Ritual daraus, immer darum zu bitten, mit Gott eins zu sein"
 menu_title: ""
-description: "Mach ein Ritual daraus, immer darum zu bitten, mit Gott eins zu sein"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich wollte heute früher sprechen, aber der Meister kam und sprach und wir unterbrechen nicht, wenn er spricht.“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

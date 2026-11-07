@@ -1,7 +1,7 @@
 ---
 title: "Bittet uns, Kanäle des Lichts im Dienst Gottes zu sein"
 menu_title: ""
-description: "Bittet uns, Kanäle des Lichts im Dienst Gottes zu sein"
+description: "Jesus, empfangen durch Al Fike: „Ein Licht in eurer Welt zu sein ist so wichtig, denn es gibt so viel Dunkelheit, und Licht vertreibt die Dunkelheit.“"
 date: 2025-03-25 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was ihr erhaltet, wird mehr als ausreichend sein"
 menu_title: ""
-description: "Was ihr erhaltet, wird mehr als ausreichend sein"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich wurde in dein Gespräch und noch mehr in dein Gebet hineingezogen. Ich möchte dir erklären, warum es in deinem …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

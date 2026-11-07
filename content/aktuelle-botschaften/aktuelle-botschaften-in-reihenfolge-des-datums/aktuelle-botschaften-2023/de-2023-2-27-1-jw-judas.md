@@ -1,7 +1,7 @@
 ---
 title: "Wie man betet"
 menu_title: ""
-description: "Wie man betet"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ihr seid immer wieder ermutigt worden, zu beten, und einige haben das Wort „unaufhörlich” benutzt, was für …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

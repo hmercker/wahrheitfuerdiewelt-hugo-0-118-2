@@ -1,7 +1,7 @@
 ---
 title: "Von Seele zu Seele kommunizieren"
 menu_title: ""
-description: "Von Seele zu Seele kommunizieren"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Es gibt ein instrumentelles Wachstum in jedem von euch, die Ausdehnung eurer Seelen, die mit eurem …“"
 date: 2020-08-01 06:25:48+00:251
 draft: False
 hidden: True

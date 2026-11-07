@@ -1,7 +1,7 @@
 ---
 title: "Viele in dieser Welt sind am Schlafen"
 menu_title: ""
-description: "Viele in dieser Welt sind am Schlafen"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Ihr habt von mehreren spirituellen Wesen gehört, die durch die Direkte Stimme sprechen wollen, und ich sage …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

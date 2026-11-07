@@ -1,7 +1,7 @@
 ---
 title: "Luther sieht die Notwendigkeit der Korrektur vieler Glaubensgrundsätze seiner Anhänger"
 menu_title: ""
-description: "Luther sieht die Notwendigkeit der Korrektur vieler Glaubensgrundsätze seiner Anhänger"
+description: "Martin Luther, empfangen durch James Padgett: „Ich sehe die Notwendigkeit der Korrektur vieler Grundsätze des Glaubens, die jetzt meine Anhänger gefesselt …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lot versucht auch, Herrn Padgett zu helfen"
 menu_title: ""
-description: "Lot versucht auch, Herrn Padgett zu helfen"
+description: "Lot, empfangen von James Padgett: „Ich möchte nur sagen, dass ich bei dir bin und versuche, dir bei deinem Fortschritt in spirituellen Dingen zu helfen.“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

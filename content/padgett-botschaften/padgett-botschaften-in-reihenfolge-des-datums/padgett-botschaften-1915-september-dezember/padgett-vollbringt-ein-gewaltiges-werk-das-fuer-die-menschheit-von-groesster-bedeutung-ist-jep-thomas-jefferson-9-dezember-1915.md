@@ -1,7 +1,7 @@
 ---
 title: "Padgett vollbringt ein gewaltiges Werk, das für die Menschheit von größter Bedeutung ist"
 menu_title: ""
-description: "Padgett vollbringt ein gewaltiges Werk, das für die Menschheit von größter Bedeutung ist"
+description: "Thomas Jefferson, empfangen durch James Padgett: „Du bist zweifellos ein bevorzugter Mann, weil du für diese Arbeit ausgewählt wurdest. Es ist ein …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

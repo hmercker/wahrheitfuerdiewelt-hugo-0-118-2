@@ -1,7 +1,7 @@
 ---
 title: "Ein Lichtzentrum"
 menu_title: ""
-description: "Ein Lichtzentrum"
+description: "Petrus, empfangen durch Al Fike: „Und ihr schafft hier ein Zufluchtsort, einen Ort des Lichts, einen Ort, an dem ihr euch auftanken könnt, einen Ort, an …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Teilt seine Tränen der Freude"
 menu_title: ""
-description: "Teilt seine Tränen der Freude"
+description: "Rick Minckler, empfangen durch Al Fike: „Auch ich habe diesen Gottesdienst genossen. Oh, wie das mein Herz erfüllt.“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

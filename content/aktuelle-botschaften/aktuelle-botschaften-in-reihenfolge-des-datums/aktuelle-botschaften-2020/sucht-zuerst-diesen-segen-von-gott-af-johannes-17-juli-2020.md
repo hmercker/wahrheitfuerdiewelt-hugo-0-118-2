@@ -1,7 +1,7 @@
 ---
 title: "Sucht zuerst diesen Segen von Gott"
 menu_title: ""
-description: "Sucht zuerst diesen Segen von Gott"
+description: "Johannes, empfangen durch Al Fike: „Möge die Liebe Gottes weiterhin in euch strömen. Möget ihr dieses Geschenk tief und beständig anerkennen, damit es …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

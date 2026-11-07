@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid Engel auf der Erde, die Gottes Werk für alle Ewigkeit tun"
 menu_title: ""
-description: "Ihr seid Engel auf der Erde, die Gottes Werk für alle Ewigkeit tun"
+description: "Augustinus, empfangen durch Al Fike: „Denn wer wird ohne eure Bemühungen auf der Erdebene die Fackel weiterführen? Wer wird die Fahne tragen?“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

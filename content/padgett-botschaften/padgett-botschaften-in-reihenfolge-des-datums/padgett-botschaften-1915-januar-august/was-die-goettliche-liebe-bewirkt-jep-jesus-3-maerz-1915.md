@@ -1,7 +1,7 @@
 ---
 title: "Was die Göttliche Liebe bewirkt"
 menu_title: ""
-description: "Was die Göttliche Liebe bewirkt"
+description: "Jesus, empfangen durch James Padgett: „Du bist heute Abend in einer besseren Verfassung und ich werde meine Nachrichten fortsetzen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

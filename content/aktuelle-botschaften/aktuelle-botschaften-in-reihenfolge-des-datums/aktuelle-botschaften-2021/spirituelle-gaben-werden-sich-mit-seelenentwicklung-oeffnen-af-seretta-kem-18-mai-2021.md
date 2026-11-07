@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Gaben werden sich mit Seelenentwicklung öffnen"
 menu_title: ""
-description: "Spirituelle Gaben werden sich mit Seelenentwicklung öffnen"
+description: "Seretta Kem, empfangen durch Al Fike: „Gott möchte Seine Segnungen auf dieser Erde zum Wohle vieler Seiner Kinder manifestieren, und Er erwartet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

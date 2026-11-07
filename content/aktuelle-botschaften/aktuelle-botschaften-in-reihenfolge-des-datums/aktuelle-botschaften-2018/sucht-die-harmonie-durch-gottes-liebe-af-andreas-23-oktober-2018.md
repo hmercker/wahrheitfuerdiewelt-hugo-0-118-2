@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Harmonie durch Gottes Liebe"
 menu_title: ""
-description: "Sucht die Harmonie durch Gottes Liebe"
+description: "Andreas, empfangen durch Al Fike: „In Gottes Schöpfung suchen alle Dinge nach Harmonie. Jede Bewegung, Entwicklung und jeder Ausdruck von Gottes Schöpfung …“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

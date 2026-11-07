@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung des Gebets  - Nahrung für die Seele"
 menu_title: ""
-description: "Die Bedeutung des Gebets  - Nahrung für die Seele"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich über ein Thema von einiger Bedeutung sprechen, das sich mit den Wahrheiten des Vaters befasst, da …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

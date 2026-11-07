@@ -1,7 +1,7 @@
 ---
 title: "Wir sind eins mit Gott, Brüder und Schwestern"
 menu_title: ""
-description: "Wir sind eins mit Gott, Brüder und Schwestern"
+description: "Jesus: „Meine sehr geliebten Brüder und Schwestern. Ich sehe die Ungerechtigkeit, die an den Kindern der Erde durch jene, die in Unwissenheit und …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

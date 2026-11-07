@@ -1,7 +1,7 @@
 ---
 title: "Elias erläutert die Bedeutung der Verklärung auf dem Berg Tabor"
 menu_title: ""
-description: "Elias erläutert die Bedeutung der Verklärung auf dem Berg Tabor"
+description: "Elias, empfangen durch James Padgett: „Ich werde heute Nacht wie versprochen eine kurze Botschaft schreiben. Als ich auf Erden lebte, war ich ein Prophet …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

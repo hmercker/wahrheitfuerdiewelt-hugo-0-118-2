@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt, dass er beabsichtigt zu materialisieren"
 menu_title: ""
-description: "Jesus bestätigt, dass er beabsichtigt zu materialisieren"
+description: "Jesus, empfangen durch Al Fike: „Ich habe durch unsere geliebte Tochter in jenen fernen Ländern gesprochen und nun bin ich gekommen, um zu euch über eure …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

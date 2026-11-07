@@ -1,7 +1,7 @@
 ---
 title: "Diese Liebe wird euch helfen, die Hindernisse auf eurem Weg zu überwinden"
 menu_title: ""
-description: "Diese Liebe wird euch helfen, die Hindernisse auf eurem Weg zu überwinden"
+description: "Leytergus 1: „Freunde, es ist sehr interessant für mich, noch einmal auf die Erdebene zurückzukehren, um euch, die ihr in Fleisch und Blut lebt, zu begegnen.“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

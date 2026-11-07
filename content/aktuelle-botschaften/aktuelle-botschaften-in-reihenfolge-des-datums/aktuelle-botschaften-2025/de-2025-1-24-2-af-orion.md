@@ -1,7 +1,7 @@
 ---
 title: "Die zunehmende Dunkelheit der energetischen Gedankenzustände der Menschheit"
 menu_title: ""
-description: "Die zunehmende Dunkelheit der energetischen Gedankenzustände der Menschheit"
+description: "Orion, empfangen durch Al Fike: „Der energetische Zustand eurer Welt ist oft wie das Wetter, das auf eurem Planeten herrscht.“"
 date: 2025-01-24 06:00:00+00:10
 draft: False
 hidden: True

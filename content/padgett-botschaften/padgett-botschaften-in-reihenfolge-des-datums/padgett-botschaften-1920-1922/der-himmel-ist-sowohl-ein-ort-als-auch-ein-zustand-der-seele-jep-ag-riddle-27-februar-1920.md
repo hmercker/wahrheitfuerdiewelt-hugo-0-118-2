@@ -1,7 +1,7 @@
 ---
 title: "Der Himmel ist sowohl ein Ort, als auch ein Zustand der Seele"
 menu_title: ""
-description: "Der Himmel ist sowohl ein Ort, als auch ein Zustand der Seele"
+description: "AG Riddle, empfangen durch James Padgett: „Ich möchte heute Abend kurz schreiben, denn ich sehe, dass du darauf bedacht bist, von einigen deiner Freunde in …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

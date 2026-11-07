@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick berichtet über seine spirituelle Entwicklung und lebt mit seiner Seelenpartnerin in der fünften Sphäre"
 menu_title: ""
-description: "Richter Syrick berichtet über seine spirituelle Entwicklung und lebt mit seiner Seelenpartnerin in der fünften Sphäre"
+description: "Syrick, empfangen durch James Padgett: „Aber du darfst dem Richter-Teil keine Aufmerksamkeit schenken. Ich habe den Begriff nur benutzt, um dich wissen zu …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

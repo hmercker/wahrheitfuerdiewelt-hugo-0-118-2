@@ -1,7 +1,7 @@
 ---
 title: "Warum Gott Schlechtes zulässt"
 menu_title: ""
-description: "Warum Gott Schlechtes zulässt"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater, ich werde versuchen, zu sehen, wie das mit den Engeln funktioniert.“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

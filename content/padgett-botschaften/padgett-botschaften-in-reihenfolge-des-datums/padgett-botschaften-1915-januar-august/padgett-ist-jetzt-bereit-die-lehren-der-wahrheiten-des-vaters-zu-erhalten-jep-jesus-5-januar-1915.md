@@ -1,7 +1,7 @@
 ---
 title: "Padgett ist jetzt bereit die Lehren der Wahrheiten des Vaters zu erhalten"
 menu_title: ""
-description: "Padgett ist jetzt bereit die Lehren der Wahrheiten des Vaters zu erhalten"
+description: "Jesus, empfangen durch James Padgett: „Du bist mein eigener wahrhaftiger Bruder und Jünger. Deine Gebete wurden erhört und unser Vater hat dir Seine Liebe …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

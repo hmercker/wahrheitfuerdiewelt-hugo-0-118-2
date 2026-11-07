@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euch für das Höchste"
 menu_title: ""
-description: "Öffnet euch für das Höchste"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich heiße dich, liebe Tochter (H), wieder in der Gemeinschaft deiner liebenden Brüder und Schwestern willkommen.“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

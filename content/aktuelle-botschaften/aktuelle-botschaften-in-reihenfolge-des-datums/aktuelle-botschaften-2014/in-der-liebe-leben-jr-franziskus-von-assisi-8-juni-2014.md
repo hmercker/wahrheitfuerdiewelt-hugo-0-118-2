@@ -1,7 +1,7 @@
 ---
 title: "In der Liebe leben"
 menu_title: ""
-description: "In der Liebe leben"
+description: "Franziskus, empfangen durch James Reid: „Ich fühle mich nicht sehr wohl, aber ich habe das Bedürfnis, euch zu schreiben, denn es scheint so viel los zu sein.“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

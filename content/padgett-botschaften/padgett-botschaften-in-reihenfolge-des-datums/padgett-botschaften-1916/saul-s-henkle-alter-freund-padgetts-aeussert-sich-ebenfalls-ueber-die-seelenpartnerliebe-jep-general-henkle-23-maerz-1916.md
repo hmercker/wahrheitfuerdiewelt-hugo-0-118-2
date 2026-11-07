@@ -1,7 +1,7 @@
 ---
 title: "Saul S. Henkle: alter Freund Padgett's äußert sich ebenfalls über die Seelenpartner-Liebe"
 menu_title: ""
-description: "Saul S. Henkle: alter Freund Padgett's äußert sich ebenfalls über die Seelenpartner-Liebe"
+description: "Saul S. Henkle, empfangen durch James Padgett: „Lass mich nur ein Wort sagen, denn während ihr alle eure Liebesgedanken vorbeiziehen lasst, möchte auch ich …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

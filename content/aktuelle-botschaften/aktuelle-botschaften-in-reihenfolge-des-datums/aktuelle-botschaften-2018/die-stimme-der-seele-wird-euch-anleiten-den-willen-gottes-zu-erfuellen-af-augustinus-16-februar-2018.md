@@ -1,7 +1,7 @@
 ---
 title: "Die Stimme der Seele wird euch anleiten, den Willen Gottes zu erfüllen"
 menu_title: ""
-description: "Die Stimme der Seele wird euch anleiten, den Willen Gottes zu erfüllen"
+description: "Augustinus, empfangen durch Al Fike: „Ja, es gibt diejenigen, die mit diesem Ort verbunden sind, die in den Fallen des Irrtums gefangen sind, der alten …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

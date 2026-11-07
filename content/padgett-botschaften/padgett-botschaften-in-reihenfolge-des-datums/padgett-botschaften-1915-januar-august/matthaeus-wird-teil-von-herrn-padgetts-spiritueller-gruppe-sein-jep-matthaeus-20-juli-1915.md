@@ -1,7 +1,7 @@
 ---
 title: "Matthäus wird Teil von Herrn Padgett's spiritueller Gruppe sein"
 menu_title: ""
-description: "Matthäus wird Teil von Herrn Padgett's spiritueller Gruppe sein"
+description: "Matthäus, empfangen durch James Padgett: „Auch ich werde zu deiner Gruppe gehören und du wirst eine Gruppe haben, die so mächtig ist, dass keine Opposition …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

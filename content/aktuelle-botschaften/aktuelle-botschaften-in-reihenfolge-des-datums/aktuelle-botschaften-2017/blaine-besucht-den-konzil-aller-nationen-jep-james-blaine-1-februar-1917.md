@@ -1,7 +1,7 @@
 ---
 title: "Blaine besucht den Konzil aller Nationen"
 menu_title: ""
-description: "Blaine besucht den Konzil aller Nationen"
+description: "Blaine, empfangen durch James Padgett: „Ich möchte einige Zeilen schreiben, da ich mich für die Angelegenheiten unseres Landes interessiere und ich sehe …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

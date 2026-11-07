@@ -1,7 +1,7 @@
 ---
 title: "Paulus setzt seine Botschaft über die Hölle fort"
 menu_title: ""
-description: "Paulus setzt seine Botschaft über die Hölle fort"
+description: "Paulus, empfangen durch James Padgett: „Wenn du dich in der Lage fühlst, die Botschaft zu empfangen, werde ich sie beginnen und beenden.“"
 date: 2020-08-01 06:25:48+00:268
 draft: False
 hidden: True

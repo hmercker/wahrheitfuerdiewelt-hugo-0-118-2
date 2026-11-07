@@ -1,7 +1,7 @@
 ---
 title: "Akzeptiere jede einzigartige Seele"
 menu_title: ""
-description: "Akzeptiere jede einzigartige Seele"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Danke, dass ihr gekommen seid, denn ihr wurdet gerufen. Und eure Diskussion vom Vormittag war in der Tat sehr gut.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

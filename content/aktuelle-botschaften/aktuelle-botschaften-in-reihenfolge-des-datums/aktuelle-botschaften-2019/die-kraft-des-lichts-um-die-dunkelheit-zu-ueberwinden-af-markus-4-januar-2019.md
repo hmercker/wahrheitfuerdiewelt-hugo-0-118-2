@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Lichts, um die Dunkelheit zu überwinden"
 menu_title: ""
-description: "Die Kraft des Lichts, um die Dunkelheit zu überwinden"
+description: "Markus, empfangen durch Al Fike: „Seht ihr, wie die Dinge sich einfügen, dass eure Ziele und Bemühungen nicht kompliziert sind und nicht viel Planung und …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

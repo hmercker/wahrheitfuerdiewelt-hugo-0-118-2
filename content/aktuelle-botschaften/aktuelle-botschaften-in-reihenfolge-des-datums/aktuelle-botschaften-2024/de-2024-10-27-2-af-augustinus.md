@@ -1,7 +1,7 @@
 ---
 title: "Die Hindernisse für das Zusammensein mit Gott liegen in euch"
 menu_title: ""
-description: "Die Hindernisse für das Zusammensein mit Gott liegen in euch"
+description: "Augustinus, empfangen durch Al Fike: „Von allen Kämpfen der Menschheit lebt ihr in einer Zeit, in der ihr sicher sein könnt, dass eure materiellen …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

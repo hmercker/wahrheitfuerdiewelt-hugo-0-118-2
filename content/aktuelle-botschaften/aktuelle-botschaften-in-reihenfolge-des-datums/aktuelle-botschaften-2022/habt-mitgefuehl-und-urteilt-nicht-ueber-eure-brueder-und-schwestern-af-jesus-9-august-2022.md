@@ -1,7 +1,7 @@
 ---
 title: "Habt Mitgefühl und urteilt nicht über eure Brüder und Schwestern"
 menu_title: ""
-description: "Habt Mitgefühl und urteilt nicht über eure Brüder und Schwestern"
+description: "Jesus, empfangen durch Al Fike: „Ich bitte euch, Mitgefühl mit euren Brüdern und Schwestern zu haben, vor allem mit denen, die ihr auf diesem göttlichen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

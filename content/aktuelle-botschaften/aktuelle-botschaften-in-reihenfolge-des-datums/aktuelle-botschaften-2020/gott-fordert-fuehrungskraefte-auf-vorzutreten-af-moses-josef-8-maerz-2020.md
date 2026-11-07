@@ -1,7 +1,7 @@
 ---
 title: "Gott fordert Führungskräfte auf, vorzutreten"
 menu_title: ""
-description: "Gott fordert Führungskräfte auf, vorzutreten"
+description: "Moses & Josef, empfangen durch Al Fike: „Ich habe mein Volk während meiner Zeit auf dieser Erde aus den Gefahren und Wirren der verfinsterten Zustände der …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

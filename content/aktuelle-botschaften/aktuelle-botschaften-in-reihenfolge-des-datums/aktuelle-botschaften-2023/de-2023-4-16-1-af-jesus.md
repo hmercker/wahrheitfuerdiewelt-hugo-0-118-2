@@ -1,7 +1,7 @@
 ---
 title: "Die Segnungen des Göttlichen Liebespfades"
 menu_title: ""
-description: "Die Segnungen des Göttlichen Liebespfades"
+description: "Jesus, empfangen durch Al Fike: „Danke für euer Gebet, lieber Sohn. Du bist wirklich ein Licht.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

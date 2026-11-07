@@ -1,7 +1,7 @@
 ---
 title: "Führung, Vision und Verwirklichung"
 menu_title: ""
-description: "Führung, Vision und Verwirklichung"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Wie ihr wisst, begann die Gemeinschaft in Findhorn mit einer einfachen Führung und einer Vision, die uns …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

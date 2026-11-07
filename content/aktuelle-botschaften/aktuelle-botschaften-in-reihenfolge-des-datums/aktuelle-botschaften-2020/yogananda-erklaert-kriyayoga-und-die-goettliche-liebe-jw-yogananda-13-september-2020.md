@@ -1,7 +1,7 @@
 ---
 title: "Yogananda erklärt Kriya-Yoga und die Göttliche Liebe"
 menu_title: ""
-description: "Yogananda erklärt Kriya-Yoga und die Göttliche Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Brüder, mein junger Freund fragte nach Kundalini Yoga und den Energien, die mit dieser Praxis …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

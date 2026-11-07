@@ -1,7 +1,7 @@
 ---
 title: "Was der Mensch tun muss um seine natürliche Liebe zu läutern"
 menu_title: ""
-description: "Was der Mensch tun muss um seine natürliche Liebe zu läutern"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte über das Thema schreiben: \"Was ist die richtige Art und Weise, wie ein Mensch sein Leben auf der Erde …“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

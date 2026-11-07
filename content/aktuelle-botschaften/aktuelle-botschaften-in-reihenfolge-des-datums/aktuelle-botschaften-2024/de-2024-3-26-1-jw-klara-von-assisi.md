@@ -1,7 +1,7 @@
 ---
 title: "Das ist Glücklichsein"
 menu_title: ""
-description: "Das ist Glücklichsein"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Glück kann so schwer fassbar und im menschlichen Zustand verwirrend sein. Man fragt sich vielleicht: „Was …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

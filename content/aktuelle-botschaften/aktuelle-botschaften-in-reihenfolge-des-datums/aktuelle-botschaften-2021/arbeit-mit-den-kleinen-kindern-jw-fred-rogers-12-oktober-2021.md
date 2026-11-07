@@ -1,7 +1,7 @@
 ---
 title: "Arbeit mit den kleinen Kindern"
 menu_title: ""
-description: "Arbeit mit den kleinen Kindern"
+description: "Fred Rodgers, empfangen durch Jimbeau Walsh: „Und ja, ich arbeite mit den Kindern dieser Welt; das war schon immer meine Leidenschaft. Ich sage euch, es …“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

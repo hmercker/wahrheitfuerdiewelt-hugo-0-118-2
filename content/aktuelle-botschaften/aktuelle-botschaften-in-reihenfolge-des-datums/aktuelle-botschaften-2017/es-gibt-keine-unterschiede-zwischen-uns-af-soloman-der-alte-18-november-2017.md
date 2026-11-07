@@ -1,7 +1,7 @@
 ---
 title: "Es gibt keine Unterschiede zwischen uns"
 menu_title: ""
-description: "Es gibt keine Unterschiede zwischen uns"
+description: "Salomo, empfangen durch Al Fike: „Auch ich unterstütze euch in eurer Arbeit und möchte zu den Menschen in Israel sprechen. Vieles muss gesagt werden.“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

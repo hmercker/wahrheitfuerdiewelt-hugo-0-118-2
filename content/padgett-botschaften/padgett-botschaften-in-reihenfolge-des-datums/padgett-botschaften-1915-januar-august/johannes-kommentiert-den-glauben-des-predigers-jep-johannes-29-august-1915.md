@@ -1,7 +1,7 @@
 ---
 title: "Johannes kommentiert den Glauben des Predigers"
 menu_title: ""
-description: "Johannes kommentiert den Glauben des Predigers"
+description: "Johannes, empfangen durch James Padgett: „Und er sagte, dass es keine andere Errettung gibt als durch das Blut Jesu. Wie im Irrtum er ist und wie er bei …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

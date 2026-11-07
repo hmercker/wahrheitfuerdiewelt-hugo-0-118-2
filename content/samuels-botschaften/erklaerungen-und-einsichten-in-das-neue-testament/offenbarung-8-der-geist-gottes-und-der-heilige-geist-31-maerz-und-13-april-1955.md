@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 8 :  Der Geist Gottes und der Heilige Geist"
 menu_title: ""
-description: "Offenbarung 8 :  Der Geist Gottes und der Heilige Geist"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte dir heute über den Geist Gottes schreiben — ein Thema, das eine Leserin der Padgett Botschaften aufgeworfen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

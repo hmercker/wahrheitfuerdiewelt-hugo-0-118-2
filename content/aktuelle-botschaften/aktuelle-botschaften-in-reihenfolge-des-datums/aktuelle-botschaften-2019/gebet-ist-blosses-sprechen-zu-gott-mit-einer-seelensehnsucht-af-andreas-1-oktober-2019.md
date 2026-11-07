@@ -1,7 +1,7 @@
 ---
 title: "Gebet ist bloßes sprechen zu Gott mit einer Seelen-Sehnsucht"
 menu_title: ""
-description: "Gebet ist bloßes sprechen zu Gott mit einer Seelen-Sehnsucht"
+description: "Andreas, empfangen durch Al Fike: „In jenen längst vergangenen Tagen, als wir mit unserem Bruder Jesus unterwegs waren, lehrte er uns, wie man betet.“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

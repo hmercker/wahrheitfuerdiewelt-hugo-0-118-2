@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet es überwinden"
 menu_title: ""
-description: "Ihr werdet es überwinden"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ihr wusstet, dass ich hier bin, nicht wahr? Oh, danke, dass ihr dieses schöne Gebet gelesen habt, das ich …“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

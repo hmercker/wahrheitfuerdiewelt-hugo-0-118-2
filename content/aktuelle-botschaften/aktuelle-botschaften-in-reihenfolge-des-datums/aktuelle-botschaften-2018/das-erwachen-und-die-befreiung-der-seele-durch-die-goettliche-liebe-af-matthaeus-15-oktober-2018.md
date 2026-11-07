@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen und die Befreiung der Seele durch die göttliche Liebe"
 menu_title: ""
-description: "Das Erwachen und die Befreiung der Seele durch die göttliche Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Wir sehen die Taubheit und das Unwohlsein, das die Seele unter so vielen Schichten des Nicht-Fühlens, des …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

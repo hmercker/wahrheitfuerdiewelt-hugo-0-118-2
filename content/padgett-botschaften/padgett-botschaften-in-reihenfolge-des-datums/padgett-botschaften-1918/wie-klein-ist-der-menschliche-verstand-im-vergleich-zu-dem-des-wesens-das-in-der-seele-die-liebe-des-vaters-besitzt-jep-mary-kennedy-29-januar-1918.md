@@ -1,7 +1,7 @@
 ---
 title: "Wie klein ist der menschliche Verstand, im Vergleich zu dem des Wesens, das in der Seele die Liebe des Vaters besitzt"
 menu_title: ""
-description: "Wie klein ist der menschliche Verstand, im Vergleich zu dem des Wesens, das in der Seele die Liebe des Vaters besitzt"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, mein Lieber, ich meine Leslie. Du denkst vielleicht, dass ich ein einfaches kleines englisches Mädchen …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

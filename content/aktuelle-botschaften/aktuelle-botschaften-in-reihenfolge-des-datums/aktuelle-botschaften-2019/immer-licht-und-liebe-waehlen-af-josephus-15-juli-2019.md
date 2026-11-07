@@ -1,7 +1,7 @@
 ---
 title: "Immer Licht und Liebe wählen"
 menu_title: ""
-description: "Immer Licht und Liebe wählen"
+description: "Josephus, empfangen durch Al Fike: „Aber das erfreut mich, denn eine meiner Gaben ist es, die Wahrheit so zu artikulieren, dass andere sie verstehen …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erwacht aus eurem Schlummer"
 menu_title: ""
-description: "Erwacht aus eurem Schlummer"
+description: "Jesus, empfangen durch Al Fike: „Es ist gut, die Fülle eurer Herzen und eure Dankbarkeit füreinander zu hören, für Gottes Gaben der Liebe und des Segens in …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

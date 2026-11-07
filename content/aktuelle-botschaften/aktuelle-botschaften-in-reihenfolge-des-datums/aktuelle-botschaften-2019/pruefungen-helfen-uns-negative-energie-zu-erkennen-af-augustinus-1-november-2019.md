@@ -1,7 +1,7 @@
 ---
 title: "Prüfungen helfen uns, negative Energie zu erkennen"
 menu_title: ""
-description: "Prüfungen helfen uns, negative Energie zu erkennen"
+description: "Augustinus, empfangen durch Al Fike: „Ich sehe, dass ihr eine Prüfung vor euch habt, Geliebte, eine Situation, in der es keinen klaren Ansatz gibt, denn …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

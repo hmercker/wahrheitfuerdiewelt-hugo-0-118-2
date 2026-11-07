@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele durch Gottes Liebe ist der Schlüssel zu allen Gaben"
 menu_title: ""
-description: "Das Erwachen der Seele durch Gottes Liebe ist der Schlüssel zu allen Gaben"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Jede Rose widerspiegelt die Farbtöne eurer Gewänder, von Grün über Blau, Gelb, Magenta und Violett.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins' Erfahrung in der Zweiten Sphäre des Göttlichen Himmels"
 menu_title: ""
-description: "Ann Rollins' Erfahrung in der Zweiten Sphäre des Göttlichen Himmels"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich möchte dir heute Abend von meiner Erfahrung in meinem neuen Zuhause unter den erlösten spirituellen Wesen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

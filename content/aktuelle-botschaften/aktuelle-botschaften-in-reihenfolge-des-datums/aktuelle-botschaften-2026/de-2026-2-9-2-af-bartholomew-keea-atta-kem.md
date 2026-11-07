@@ -1,7 +1,7 @@
 ---
 title: "Glaube und die Seele 2: Ihr müsst auf euch selbst, eure Seele und Gott vertrauen"
 menu_title: ""
-description: "Glaube und die Seele 2: Ihr müsst auf euch selbst, eure Seele und Gott vertrauen"
+description: "Bartholomäus & Keea Atta Kem, empfangen durch Al Fike: „Auf jeden von euch wartet viel Arbeit. Es gibt viel zu tun, meine Freunde, für eine Welt, die nach …“"
 date: 2026-04-12 06:00:00+00:10
 draft: False
 hidden: True

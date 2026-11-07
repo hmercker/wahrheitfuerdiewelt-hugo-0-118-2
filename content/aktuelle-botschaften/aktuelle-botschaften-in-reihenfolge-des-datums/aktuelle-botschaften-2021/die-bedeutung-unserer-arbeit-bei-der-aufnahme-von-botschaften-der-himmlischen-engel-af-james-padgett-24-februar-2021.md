@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung unserer Arbeit bei der Aufnahme von Botschaften der Himmlischen Engel "
 menu_title: ""
-description: "Die Bedeutung unserer Arbeit bei der Aufnahme von Botschaften der Himmlischen Engel "
+description: "James Padgett, empfangen durch Al Fike: „Ich werde mich kurz fassen, aber ich möchte euch allen für eure Bemühungen danken, die Bemühungen der Engel …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

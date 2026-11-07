@@ -1,7 +1,7 @@
 ---
 title: "Kreise des Lichts bringen großen Wert"
 menu_title: ""
-description: "Kreise des Lichts bringen großen Wert"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wir sind sehr glücklich, wenn ihr auf diese Weise zusammenkommt, um diese Kreise des Lichts zu bilden.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

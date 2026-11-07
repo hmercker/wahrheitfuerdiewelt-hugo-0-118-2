@@ -1,7 +1,7 @@
 ---
 title: "Brüder in Gottes Liebe"
 menu_title: ""
-description: "Brüder in Gottes Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Liebe Brüder, gibt es etwas Wertvolleres als einen wahren Freund in Gottes Liebe auf dieser Erde?“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jetzt ist die Zeit, frei zu sein!"
 menu_title: ""
-description: "Jetzt ist die Zeit, frei zu sein!"
+description: "Orion, empfangen durch Al Fike: „Unsere Arbeit schreitet weiter voran, und auch das Licht in euch wird heller, wenn ihr den Weg der Wahrheit und der Liebe …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

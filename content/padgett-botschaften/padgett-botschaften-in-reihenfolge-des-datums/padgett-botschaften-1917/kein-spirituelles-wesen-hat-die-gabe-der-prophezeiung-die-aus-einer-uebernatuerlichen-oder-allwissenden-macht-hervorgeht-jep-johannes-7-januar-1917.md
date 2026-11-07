@@ -1,7 +1,7 @@
 ---
 title: "Kein spirituelles Wesen hat die Gabe der Prophezeiung die aus einer übernatürlichen oder allwissenden Macht hervorgeht"
 menu_title: ""
-description: "Kein spirituelles Wesen hat die Gabe der Prophezeiung die aus einer übernatürlichen oder allwissenden Macht hervorgeht"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend bei dir und habe die angeblichen Prophezeiungen gehört, und war an der großen Zahl der …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

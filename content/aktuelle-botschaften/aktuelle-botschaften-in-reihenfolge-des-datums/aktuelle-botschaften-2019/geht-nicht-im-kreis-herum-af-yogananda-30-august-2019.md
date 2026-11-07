@@ -1,7 +1,7 @@
 ---
 title: "Geht nicht im Kreis herum"
 menu_title: ""
-description: "Geht nicht im Kreis herum"
+description: "Yogananda, empfangen durch Al Fike: „Möge Gottes Liebe weiterhin eure Seelen erwecken, meine Freunde, und euch in Einklang mit allem bringen, was göttlich …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mögen wir durch das Geschenk der Liebe Gottes verwandelt werden"
 menu_title: ""
-description: "Mögen wir durch das Geschenk der Liebe Gottes verwandelt werden"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Möge die Liebe des Vaters mit euch sein, geliebte Seelen, Kinder Gottes. Ihr kennt mich als den Heiligen …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

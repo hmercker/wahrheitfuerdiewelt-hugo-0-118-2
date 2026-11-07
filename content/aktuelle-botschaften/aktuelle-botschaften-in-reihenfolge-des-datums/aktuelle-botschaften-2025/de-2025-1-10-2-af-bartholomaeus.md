@@ -1,7 +1,7 @@
 ---
 title: "Hilft uns weiterhin, unsere Bestimmung zu finden"
 menu_title: ""
-description: "Hilft uns weiterhin, unsere Bestimmung zu finden"
+description: "Barholomäus, empfangen durch Al Fike: „Ich arbeite weiterhin fleißig daran, euch dabei zu helfen, an einen Ort zu kommen, an dem ihr stark und klar seid …“"
 date: 2025-01-10 06:00:00+00:10
 draft: False
 hidden: True

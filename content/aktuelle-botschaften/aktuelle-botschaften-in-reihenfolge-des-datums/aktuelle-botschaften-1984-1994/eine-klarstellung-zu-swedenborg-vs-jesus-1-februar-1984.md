@@ -1,7 +1,7 @@
 ---
 title: "Eine Klarstellung zu Swedenborg"
 menu_title: ""
-description: "Eine Klarstellung zu Swedenborg"
+description: "Jesus, empfangen durch Victor Summers im Februar: „[Die Aussagen von Herrn Swedenborg in diesem Abschnitt waren in der Vergangenheit für eine Reihe von …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

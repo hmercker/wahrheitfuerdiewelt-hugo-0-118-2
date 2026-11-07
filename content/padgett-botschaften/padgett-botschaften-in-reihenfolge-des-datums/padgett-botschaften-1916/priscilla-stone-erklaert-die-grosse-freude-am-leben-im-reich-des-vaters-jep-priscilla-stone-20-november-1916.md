@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone erklärt die große Freude am Leben im Reich des Vaters"
 menu_title: ""
-description: "Priscilla Stone erklärt die große Freude am Leben im Reich des Vaters"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich möchte ein Wort an meinen Sohn richten, wenn du erlaubst, denn es macht mir so viel Freude, ihm von …“"
 date: 2020-08-01 06:25:48+00:269
 draft: False
 hidden: True

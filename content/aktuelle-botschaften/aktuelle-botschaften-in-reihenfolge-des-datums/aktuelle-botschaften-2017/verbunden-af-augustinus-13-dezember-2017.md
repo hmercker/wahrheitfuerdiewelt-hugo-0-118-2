@@ -1,7 +1,7 @@
 ---
 title: "Verbunden"
 menu_title: ""
-description: "Verbunden"
+description: "Augustinus, empfangen durch Al Fike: „Ja, in der Tat sind die Ketten zerbrochen, die Ketten der menschlichen Bedingung um euch alle.“"
 date: 2020-08-01 06:25:48+00:250
 draft: False
 hidden: True

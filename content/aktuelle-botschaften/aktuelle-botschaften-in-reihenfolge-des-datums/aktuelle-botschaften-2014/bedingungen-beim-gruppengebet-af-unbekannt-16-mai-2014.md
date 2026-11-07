@@ -1,7 +1,7 @@
 ---
 title: "Bedingungen beim Gruppengebet"
 menu_title: ""
-description: "Bedingungen beim Gruppengebet"
+description: "Unbekannt, empfangen durch Al Fike: „Ja, unser Bruder (GC) hat Recht mit seiner Aussage, dass man die Göttliche Liebe in jeder Position, zu jeder Zeit, an …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

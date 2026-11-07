@@ -1,7 +1,7 @@
 ---
 title: "Ihr bestimmt die Schnelligkeit eures eigenen Seelenfortschritts"
 menu_title: ""
-description: "Ihr bestimmt die Schnelligkeit eures eigenen Seelenfortschritts"
+description: "Jakobus, empfangen durch Al Fike: „Habt ihr eine tiefe und beständige Sehnsucht in eurer Seele, das große Geschenk der Liebe Gottes zu empfangen?“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

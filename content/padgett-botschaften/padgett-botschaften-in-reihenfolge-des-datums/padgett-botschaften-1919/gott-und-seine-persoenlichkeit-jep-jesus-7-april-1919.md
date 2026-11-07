@@ -1,7 +1,7 @@
 ---
 title: "Gott und Seine Persönlichkeit"
 menu_title: ""
-description: "Gott und Seine Persönlichkeit"
+description: "Jesus, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben. Ich sehe, dass du dich sehr für das interessiert hast, was der Prediger (Dr.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

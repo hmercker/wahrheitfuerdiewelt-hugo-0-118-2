@@ -1,7 +1,7 @@
 ---
 title: "Der weniger bereiste Weg und Anleitung für die Reise"
 menu_title: ""
-description: "Der weniger bereiste Weg und Anleitung für die Reise"
+description: "Augustinus, empfangen durch Al Fike: „Es ist dein Lehrer Augustinus. Euch ist in diesen vergangenen Tagen viel gegeben worden, viel Führung und viel Segen.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

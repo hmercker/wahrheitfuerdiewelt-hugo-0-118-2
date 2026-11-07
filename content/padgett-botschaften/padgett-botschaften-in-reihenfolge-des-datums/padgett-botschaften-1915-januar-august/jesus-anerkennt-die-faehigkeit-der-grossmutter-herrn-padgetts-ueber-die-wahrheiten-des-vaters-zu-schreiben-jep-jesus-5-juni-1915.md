@@ -1,7 +1,7 @@
 ---
 title: "Jesus anerkennt die Fähigkeit der Großmutter Herrn Padgetts, über die Wahrheiten des Vaters zu schreiben"
 menu_title: ""
-description: "Jesus anerkennt die Fähigkeit der Großmutter Herrn Padgetts, über die Wahrheiten des Vaters zu schreiben"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir nur sagen, dass du dich heute Nacht wirklich in einem viel besseren Zustand befindest, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

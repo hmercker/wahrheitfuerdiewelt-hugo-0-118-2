@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Hilfe war gegeben worden an Dr Stone in seinem Heilungsgebet "
 menu_title: ""
-description: "Spirituelle Hilfe war gegeben worden an Dr Stone in seinem Heilungsgebet "
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich möchte Leslie sagen, dass Dr. Campbell ein wunderbares spirituelles Wesen ist und man sagt, dass er ein …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

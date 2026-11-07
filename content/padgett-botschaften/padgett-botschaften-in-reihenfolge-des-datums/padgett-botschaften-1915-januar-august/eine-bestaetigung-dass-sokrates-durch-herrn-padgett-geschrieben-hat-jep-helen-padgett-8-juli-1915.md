@@ -1,7 +1,7 @@
 ---
 title: "Helen: Bestätigung, dass Sokrates durch Herrn Padgett geschrieben hat"
 menu_title: ""
-description: "Helen: Bestätigung, dass Sokrates durch Herrn Padgett geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hast heute Abend einige wunderbare Botschaften erhalten und solltest spüren, dass du sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

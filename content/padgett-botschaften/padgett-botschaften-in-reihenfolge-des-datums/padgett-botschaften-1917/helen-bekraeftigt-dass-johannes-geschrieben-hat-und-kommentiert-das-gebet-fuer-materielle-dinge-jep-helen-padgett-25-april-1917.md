@@ -1,7 +1,7 @@
 ---
 title: "Helen bekräftigt, dass Johannes geschrieben hat und kommentiert das Gebet für materielle Dinge"
 menu_title: ""
-description: "Helen bekräftigt, dass Johannes geschrieben hat und kommentiert das Gebet für materielle Dinge"
+description: "Helen, empfangen durch James Padgett: „Es mag sich als etwas enttäuschend erweisen, wenn man erfährt, dass spirituelle Wesen nicht die Macht haben, alles …“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

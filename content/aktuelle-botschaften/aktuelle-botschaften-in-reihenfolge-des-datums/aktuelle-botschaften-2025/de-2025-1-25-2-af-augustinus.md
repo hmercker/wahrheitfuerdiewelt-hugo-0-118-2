@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit Gottes zurück in die Herzen zu bringen"
 menu_title: ""
-description: "Die Wahrheit Gottes zurück in die Herzen zu bringen"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott eure Seele tief und innig berühren. Ich habe die Begrenzungen der Zeit auf der Erde, die so viele Jahre …“"
 date: 2025-01-25 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube - Teil 1"
 menu_title: ""
-description: "Der Glaube - Teil 1"
+description: "Judas, empfangen durch H.: „Wie ich sehe, bist du heute sehr glücklich mit deiner Musik. [H.: Ja, ich liebe die Musik von \"Los Nocheros\", ihre Arrangements …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

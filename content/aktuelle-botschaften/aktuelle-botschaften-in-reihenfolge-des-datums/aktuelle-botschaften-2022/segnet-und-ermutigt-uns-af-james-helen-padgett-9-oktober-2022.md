@@ -1,7 +1,7 @@
 ---
 title: "Segnet und ermutigt uns "
 menu_title: ""
-description: "Segnet und ermutigt uns "
+description: "Helen & James Padgett, empfangen durch Al Fike: „Wir müssen also alle bescheiden sein, wenn es um die Meinung anderer geht und darum, wie sie ihr eigenes …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Napoleons Liebe zum Land steht bei ihm immer noch im Vordergrund"
 menu_title: ""
-description: "Napoleons Liebe zum Land steht bei ihm immer noch im Vordergrund"
+description: "Napoleon, empfangen durch James Padgett: „Ich möchte nur sagen, dass meine Tochter mir von ihrem Erlebnis vor einigen Nächten erzählt hat und ich habe mich …“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

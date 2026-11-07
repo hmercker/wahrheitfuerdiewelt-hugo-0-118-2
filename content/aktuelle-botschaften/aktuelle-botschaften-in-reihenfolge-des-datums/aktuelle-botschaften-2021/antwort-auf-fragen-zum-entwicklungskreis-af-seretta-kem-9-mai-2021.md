@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf Fragen zum Entwicklungskreis"
 menu_title: ""
-description: "Antwort auf Fragen zum Entwicklungskreis"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, wir freuen uns, dass es weitere Ableger eurer Bemühungen geben wird, die Direkte Stimme zu entwickeln.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

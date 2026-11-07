@@ -1,7 +1,7 @@
 ---
 title: "Die Engel arbeiten mit uns, um Dunkelheit in Licht zu verwandeln; Irrtum in Wahrheit und Chaos in Frieden"
 menu_title: ""
-description: "Die Engel arbeiten mit uns, um Dunkelheit in Licht zu verwandeln; Irrtum in Wahrheit und Chaos in Frieden"
+description: "Maria, empfangen durch Al Fike: „Sucht die Wahrheit mit Demut. Liebt Gott von ganzem Herzen.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

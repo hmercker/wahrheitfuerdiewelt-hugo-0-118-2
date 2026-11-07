@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur Entwicklung der Medialität"
 menu_title: ""
-description: "Anleitung zur Entwicklung der Medialität"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir freuen uns sehr, dass ihr viele Aspekte der Gabe der Medialität, der Kommunikation mit uns, in Betracht zieht.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

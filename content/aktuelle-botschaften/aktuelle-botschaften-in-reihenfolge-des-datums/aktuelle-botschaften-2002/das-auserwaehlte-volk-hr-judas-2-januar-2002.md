@@ -1,7 +1,7 @@
 ---
 title: "Das auserwählte Volk"
 menu_title: ""
-description: "Das auserwählte Volk"
+description: "Judas, empfangen durch H.: „Ich möchte meine erste Botschaft im neuen Jahr nutzen, um das Thema des auserwählten Volkes anzusprechen.“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

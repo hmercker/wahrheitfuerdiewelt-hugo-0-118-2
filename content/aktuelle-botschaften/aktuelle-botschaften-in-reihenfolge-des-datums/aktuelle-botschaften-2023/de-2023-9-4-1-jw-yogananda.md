@@ -1,7 +1,7 @@
 ---
 title: "Die Seele in Gottes Liebe"
 menu_title: ""
-description: "Die Seele in Gottes Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wisst ihr, dass die Seele ein Magnet und auch ein Vergrößerungsglas ist? Sie absorbiert und strahlt aus.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

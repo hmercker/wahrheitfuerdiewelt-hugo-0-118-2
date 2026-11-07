@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe"
 menu_title: ""
-description: "Gottes Liebe"
+description: "Mario Lanza: „Dass ich zu euch singen kann - dass ihr alle ohne jeden Zweifel wisst, dass ich dieser Mario Lanza bin, der auf der Bühne und auf der …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

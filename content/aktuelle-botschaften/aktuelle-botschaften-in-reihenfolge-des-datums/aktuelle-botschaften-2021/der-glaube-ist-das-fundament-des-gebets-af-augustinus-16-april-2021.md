@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube ist das Fundament des Gebets"
 menu_title: ""
-description: "Der Glaube ist das Fundament des Gebets"
+description: "Augustinus, empfangen durch Al Fike: „Es ist die Intensität und Kraft eures Glaubens, die euch im Licht halten wird. Ohne dieses sichere und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

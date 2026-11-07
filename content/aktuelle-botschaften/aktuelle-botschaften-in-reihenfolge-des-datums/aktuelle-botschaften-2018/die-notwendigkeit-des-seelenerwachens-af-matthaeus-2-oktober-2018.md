@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit des Seelenerwachens"
 menu_title: ""
-description: "Die Notwendigkeit des Seelenerwachens"
+description: "Matthäus, empfangen durch Al Fike: „Wir gehen wieder einmal vorwärts indem wir unseren Glauben an Gott bekennen, unser höchstes Selbst und unsere höchsten …“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Plan der Pharisäer, Jesus loszuwerden"
 menu_title: ""
-description: "Der Plan der Pharisäer, Jesus loszuwerden"
+description: "Judas, empfangen durch H.: „Du ermordest die Propheten und steinigst die Boten, die zu dir gesandt werden. Wie oft habe ich mich danach gesehnt, deine …“"
 date: 2020-08-01 06:25:48+00:252
 draft: False
 hidden: True

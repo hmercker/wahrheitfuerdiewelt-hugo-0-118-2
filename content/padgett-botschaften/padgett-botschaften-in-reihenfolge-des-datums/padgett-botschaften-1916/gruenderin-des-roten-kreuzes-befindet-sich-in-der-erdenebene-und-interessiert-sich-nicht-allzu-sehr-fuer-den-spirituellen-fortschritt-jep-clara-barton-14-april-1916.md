@@ -1,7 +1,7 @@
 ---
 title: "Gründerin des Roten Kreuzes, befindet sich in der Erdenebene und interessiert sich nicht allzu sehr für den spirituellen Fortschritt"
 menu_title: ""
-description: "Gründerin des Roten Kreuzes, befindet sich in der Erdenebene und interessiert sich nicht allzu sehr für den spirituellen Fortschritt"
+description: "Clara Barton, empfangen durch James Padgett: „Ich sah, dass andere durch dich schrieben, und ich dachte, dass ich es versuchen möchte, und so nahm ich mit …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

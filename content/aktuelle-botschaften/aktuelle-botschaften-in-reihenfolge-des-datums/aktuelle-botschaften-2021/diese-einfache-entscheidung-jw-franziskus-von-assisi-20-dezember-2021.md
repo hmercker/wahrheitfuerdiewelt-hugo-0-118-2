@@ -1,7 +1,7 @@
 ---
 title: "Diese einfache Entscheidung"
 menu_title: ""
-description: "Diese einfache Entscheidung"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „In meinen ersten Tagen auf der Erde erlebte ich die Welt, ich hatte meinen Plan, ich hatte große …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

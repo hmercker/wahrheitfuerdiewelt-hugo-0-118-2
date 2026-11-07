@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid Seiner Liebe würdig"
 menu_title: ""
-description: "Ihr seid Seiner Liebe würdig"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Es gibt viel Licht an diesem Ort und wir sind viele von uns hier. Wir bringen die Liebe des Vaters mit uns.“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

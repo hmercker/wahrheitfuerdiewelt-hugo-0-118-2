@@ -1,7 +1,7 @@
 ---
 title: "Meine Liebe lebt und du fühlst sie"
 menu_title: ""
-description: "Meine Liebe lebt und du fühlst sie"
+description: "Vater, empfangen durch Child of God: „Meine Liebe lebt und du fühlst sie. Für jene, die fragen, ob Meine Liebe wirklich ist, sage Ich: Folgt der Sehnsucht …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

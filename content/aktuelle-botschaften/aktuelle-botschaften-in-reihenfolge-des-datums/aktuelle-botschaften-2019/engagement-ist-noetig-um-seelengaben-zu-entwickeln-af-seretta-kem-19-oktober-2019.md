@@ -1,7 +1,7 @@
 ---
 title: "Engagement ist nötig, um Seelengaben zu entwickeln"
 menu_title: ""
-description: "Engagement ist nötig, um Seelengaben zu entwickeln"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir möchten unseren Dank und unsere Dankbarkeit auf jeden einzelnen von euch ausdrücken, der sich in diesen Wochen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

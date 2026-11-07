@@ -1,7 +1,7 @@
 ---
 title: "Padgett, Dr. Stone und Eugene Morgan sollen niemals daran zweifeln, dass sie ausgewählt wurden für das Königreich zu arbeiten"
 menu_title: ""
-description: "Padgett, Dr. Stone und Eugene Morgan sollen niemals daran zweifeln, dass sie ausgewählt wurden für das Königreich zu arbeiten"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich werde nicht viel schreiben, aber ich muss meinem Jungen sagen, dass ich gehört habe, was Johannes zu …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

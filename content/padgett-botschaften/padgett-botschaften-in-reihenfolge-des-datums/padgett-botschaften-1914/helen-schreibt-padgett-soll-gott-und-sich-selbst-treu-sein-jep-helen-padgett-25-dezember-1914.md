@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt Padgett soll Gott und sich selbst treu sein"
 menu_title: ""
-description: "Helen schreibt Padgett soll Gott und sich selbst treu sein"
+description: "Helen, empfangen durch James Padgett: „Er wird sich in jeder Hinsicht um dich kümmern und dir wird es an nichts fehlen worauf du das Recht hast es zu besitzen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

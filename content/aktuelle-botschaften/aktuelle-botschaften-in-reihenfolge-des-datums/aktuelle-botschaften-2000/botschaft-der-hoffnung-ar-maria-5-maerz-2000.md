@@ -1,7 +1,7 @@
 ---
 title: "Botschaft der Hoffnung"
 menu_title: ""
-description: "Botschaft der Hoffnung"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte mit euch, meinen Kindern, eine Botschaft der Hoffnung teilen, denn es ist manchmal sehr schwierig, die Liebe …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

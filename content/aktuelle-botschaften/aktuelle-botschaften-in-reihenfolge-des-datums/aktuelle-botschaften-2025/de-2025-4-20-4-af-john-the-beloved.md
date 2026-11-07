@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird sich der Welt wieder offenbaren"
 menu_title: ""
-description: "Jesus wird sich der Welt wieder offenbaren"
+description: "Johannes, empfangen durch Al Fike: „Ich habe Freudentränen, denn die Arbeit geht weiter und es gibt viele, die nach dieser Wahrheit hungern.“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

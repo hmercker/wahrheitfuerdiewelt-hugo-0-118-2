@@ -1,7 +1,7 @@
 ---
 title: "Werde demütig und ruhig"
 menu_title: ""
-description: "Werde demütig und ruhig"
+description: "Matthäus: „Zu euch, meinen Freunden, möchte ich ein paar Worte sagen. Viele von euch haben sich in der Vergangenheit von Sprüchen und Phrasen leiten …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

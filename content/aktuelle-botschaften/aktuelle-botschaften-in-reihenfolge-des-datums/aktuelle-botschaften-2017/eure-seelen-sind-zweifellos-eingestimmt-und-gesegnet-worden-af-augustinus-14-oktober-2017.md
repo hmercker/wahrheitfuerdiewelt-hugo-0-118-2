@@ -1,7 +1,7 @@
 ---
 title: "Eure Seelen sind zweifellos eingestimmt und gesegnet worden"
 menu_title: ""
-description: "Eure Seelen sind zweifellos eingestimmt und gesegnet worden"
+description: "Augustinus, empfangen durch Al Fike: „Oft habt ihr euch gewundert, wie das möglich sein soll. Und wir sind amüsiert, denn wir arbeiten fleißig daran, die …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

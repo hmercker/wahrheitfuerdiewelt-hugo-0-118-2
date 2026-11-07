@@ -1,7 +1,7 @@
 ---
 title: "Über die Aspekte der Seelen"
 menu_title: ""
-description: "Über die Aspekte der Seelen"
+description: "Matthäus, empfangen durch Al Fike: „Wegen ihrer Komplexität müssen wir den Vorteil eines klaren Verstandes nutzen. Ich habe in der Vergangenheit erklärt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frage: Wie kann ein Mensch die Göttliche Liebe empfangen, ohne davon zu wissen?"
 menu_title: ""
-description: "Frage: Wie kann ein Mensch die Göttliche Liebe empfangen, ohne davon zu wissen?"
+description: "Augustinus, empfangen durch Al Fike: „Nun, da dieses Instrument es sich bequem gemacht hat, können wir mit einer anderen Antwort fortfahren.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

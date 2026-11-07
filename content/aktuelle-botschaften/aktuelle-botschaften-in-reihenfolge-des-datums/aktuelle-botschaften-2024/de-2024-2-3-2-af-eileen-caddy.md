@@ -1,7 +1,7 @@
 ---
 title: "Sucht nach euren Talenten, um Gott zu dienen"
 menu_title: ""
-description: "Sucht nach euren Talenten, um Gott zu dienen"
+description: "Eileen Caddy, empfangen durch Al Fike: „Ich schließe mich der Ermutigung unseres geliebten Meisters an, um auch euch in euren Bemühungen zu bestärken.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

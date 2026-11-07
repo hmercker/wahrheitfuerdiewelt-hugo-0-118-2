@@ -1,7 +1,7 @@
 ---
 title: "Jesus verspricht James Padgett spirituelle und materielle Unterstützung"
 menu_title: ""
-description: "Jesus verspricht James Padgett spirituelle und materielle Unterstützung"
+description: "Jesus, empfangen durch James Padgett: „Ich freue mich über dieses neue Streben und weiß, dass die Liebe zu dir kommen wird und dein Glaube gestärkt und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

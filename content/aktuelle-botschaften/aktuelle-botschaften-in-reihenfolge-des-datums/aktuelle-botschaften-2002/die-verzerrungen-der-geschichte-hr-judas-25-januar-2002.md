@@ -1,7 +1,7 @@
 ---
 title: "Die Verzerrungen der Geschichte"
 menu_title: ""
-description: "Die Verzerrungen der Geschichte"
+description: "Judas, empfangen durch H.: „Ich sehe, dass du etwas besorgt bist. [H.: Nicht wirklich besorgt, aber ein wenig verwirrt.“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

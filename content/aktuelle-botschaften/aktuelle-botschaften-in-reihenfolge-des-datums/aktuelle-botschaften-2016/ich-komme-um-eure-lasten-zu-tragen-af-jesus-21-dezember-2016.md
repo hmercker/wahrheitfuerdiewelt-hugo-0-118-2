@@ -1,7 +1,7 @@
 ---
 title: "Ich komme, um eure Lasten zu tragen"
 menu_title: ""
-description: "Ich komme, um eure Lasten zu tragen"
+description: "Jesus, empfangen durch Al Fike: „Es gibt keine Distanz zwischen euch. Der Segen des himmlischen Vaters fließt weiterhin zu euch und so wie diejenigen, die …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

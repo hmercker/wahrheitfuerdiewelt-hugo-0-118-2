@@ -1,7 +1,7 @@
 ---
 title: "Es ist das Universum der Lieder"
 menu_title: ""
-description: "Es ist das Universum der Lieder"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Die Liebe des Vaters antwortet auf die Hoffnung dieser Welt, in Frieden zu leben, auf den Wunsch des Herzens …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

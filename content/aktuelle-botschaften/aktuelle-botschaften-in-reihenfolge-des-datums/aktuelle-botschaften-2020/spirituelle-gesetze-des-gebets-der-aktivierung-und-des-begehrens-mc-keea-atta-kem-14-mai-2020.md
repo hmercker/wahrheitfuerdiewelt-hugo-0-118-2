@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Gesetze des Gebets, der Aktivierung und des Begehrens"
 menu_title: ""
-description: "Spirituelle Gesetze des Gebets, der Aktivierung und des Begehrens"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Ich möchte eine Botschaft teilen, die sich auf einige der Spirituellen Gesetze bezieht, die ihr in dem …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

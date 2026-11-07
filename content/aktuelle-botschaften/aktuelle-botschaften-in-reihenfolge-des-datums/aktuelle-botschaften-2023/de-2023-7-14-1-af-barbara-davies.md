@@ -1,7 +1,7 @@
 ---
 title: "Gottes Werk durchdringt alles, was ihr tut"
 menu_title: ""
-description: "Gottes Werk durchdringt alles, was ihr tut"
+description: "Barbara Davies, empfangen durch Al Fike: „Gottes Werk ist nicht etwas Bestimmtes, Gottes Werk ist das, was in alles einfließt, was ihr tut, damit die …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

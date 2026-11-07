@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe löst alle Barrieren"
 menu_title: ""
-description: "Die Liebe löst alle Barrieren"
+description: "Konfuzius, empfangen durch Al Fike: „Dieser Raum ist durchflutet mit Licht und Liebe. Gottes lebendiges Wasser strömt hier hinein.“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

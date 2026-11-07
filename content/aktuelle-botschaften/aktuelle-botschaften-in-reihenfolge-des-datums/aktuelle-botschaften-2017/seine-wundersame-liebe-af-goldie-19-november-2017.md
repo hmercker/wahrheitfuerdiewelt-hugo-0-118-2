@@ -1,7 +1,7 @@
 ---
 title: "Seine wundersame Liebe"
 menu_title: ""
-description: "Seine wundersame Liebe"
+description: "Goldie, empfangen durch Al Fike: „Ich hoffe, ihr könnt meine Freude und die Freude all der schönen Engel spüren, die mit euch arbeiten und eure Lichter …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

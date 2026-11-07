@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube ist das Wesendliche, damit Heilung geschehen kann"
 menu_title: ""
-description: "Der Glaube ist das Wesendliche, damit Heilung geschehen kann"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Viele von euch in diesem Kreis haben die Gabe der Heilung. Ich assistiere und arbeite mit jedem von euch …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

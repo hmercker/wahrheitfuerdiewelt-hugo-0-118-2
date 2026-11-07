@@ -1,7 +1,7 @@
 ---
 title: "Harvey will wissen, warum sich Mackey und Taggart so verändert haben"
 menu_title: ""
-description: "Harvey will wissen, warum sich Mackey und Taggart so verändert haben"
+description: "Georg W. Harvey, empfangen durch James Padgett: „Warte einen Moment, bis ich etwas sage. Ich möchte dir sagen, dass Mackey und Taggart sich so sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft von Gottes Liebe wirkt Wunder in unserem Leben"
 menu_title: ""
-description: "Die Kraft von Gottes Liebe wirkt Wunder in unserem Leben"
+description: "Jesus, empfangen durch Al Fike: „Möge die Gnade Gottes mit euch sein, meine Lieben. So viele verstehen nicht, welche Möglichkeiten die Kraft der Liebe …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

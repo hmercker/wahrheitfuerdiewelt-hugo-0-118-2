@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone schreibt über seine Reise in die spirituelle Welt"
 menu_title: ""
-description: "Priscilla Stone schreibt über seine Reise in die spirituelle Welt"
+description: "Priscilla Stone, empfangen durch James Padgett: „Und ich möchte nur ein paar Zeilen schreiben, denn es tut so viel Gutes, ihm von meiner Liebe und meiner …“"
 date: 2020-08-01 06:25:48+00:290
 draft: False
 hidden: True

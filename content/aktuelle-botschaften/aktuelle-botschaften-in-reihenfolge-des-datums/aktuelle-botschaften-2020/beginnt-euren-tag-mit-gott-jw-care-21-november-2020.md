@@ -1,7 +1,7 @@
 ---
 title: "Beginnt euren Tag mit Gott!"
 menu_title: ""
-description: "Beginnt euren Tag mit Gott!"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Wenn ihr morgens in einem Zustand der Dankbarkeit aufwacht und sagt: \"Danke Gott für einen weiteren Tag …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

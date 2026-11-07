@@ -1,7 +1,7 @@
 ---
 title: "Ein Bruderanwalt in der Dunkelheit bittet James Padgett ihm zu helfen"
 menu_title: ""
-description: "Ein Bruderanwalt in der Dunkelheit bittet James Padgett ihm zu helfen"
+description: "Samuel R. Phillips, empfangen durch James Padgett: „Ich war ein Bekannter von dir und ein Rechtsanwalt, wie du dich erinnern wirst und ich möchte dich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über die Wichtigkeit, die Wahrheiten des Meisters zu empfangen"
 menu_title: ""
-description: "Helen schreibt über die Wichtigkeit, die Wahrheiten des Meisters zu empfangen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein lieber Ned, du hast heute Abend weitere Schriften von den höheren spirituelle Wesen erhalten und schon …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

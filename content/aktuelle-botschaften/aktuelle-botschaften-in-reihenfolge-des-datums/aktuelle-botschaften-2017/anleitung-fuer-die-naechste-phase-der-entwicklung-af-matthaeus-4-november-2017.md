@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für die nächste Phase der Entwicklung"
 menu_title: ""
-description: "Anleitung für die nächste Phase der Entwicklung"
+description: "Matthäus, empfangen durch Al Fike: „Meine Kinder möchten also lieber laufen als gehen? Sie sind eifrig dabei, anzufangen und diese Gabe der direkten Stimme …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

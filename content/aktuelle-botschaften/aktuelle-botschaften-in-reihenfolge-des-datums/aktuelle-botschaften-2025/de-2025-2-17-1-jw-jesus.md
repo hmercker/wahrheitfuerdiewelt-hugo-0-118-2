@@ -1,7 +1,7 @@
 ---
 title: "Liebe darbringen"
 menu_title: ""
-description: "Liebe darbringen"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Liebe Brüder und Schwestern, es steht geschrieben, dass es „keine größere Liebe gibt, als wenn jemand sein Leben für …“"
 date: 2025-02-22 06:00:00+00:10
 draft: False
 hidden: True

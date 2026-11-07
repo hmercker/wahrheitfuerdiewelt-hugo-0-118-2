@@ -1,7 +1,7 @@
 ---
 title: "Rosebud, die sich zu Padgett hingezogen fühlte, kam mit ihm nach Hause"
 menu_title: ""
-description: "Rosebud, die sich zu Padgett hingezogen fühlte, kam mit ihm nach Hause"
+description: "Johannes, empfangen durch James Padgett: „Aber jetzt sind sie fort und ich werde eine Weile schreiben. Ich kannte sie nicht, aber ich stellte fest, wer sie …“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

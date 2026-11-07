@@ -1,7 +1,7 @@
 ---
 title: "Smith, ein Engländer aus London, wollte Dr. Stone kontaktieren"
 menu_title: ""
-description: "Smith, ein Engländer aus London, wollte Dr. Stone kontaktieren"
+description: "Samuel Smith, empfangen durch James Padgett: „Ich war ein Mann, der in der Stadt London lebte und ein großer Kaufmann für Dinge war, die nach Indien …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

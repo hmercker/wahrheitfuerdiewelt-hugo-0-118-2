@@ -1,7 +1,7 @@
 ---
 title: "Die Gaben, die Wahrheit von Gottes Liebe zu kennen"
 menu_title: ""
-description: "Die Gaben, die Wahrheit von Gottes Liebe zu kennen"
+description: "Augustinus, empfangen durch Al Fike: „Das Geschenk der Liebe des Vaters ist in großer Fülle in eurer Mitte, durch eure Gebete und eure Sehnsüchte, die …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

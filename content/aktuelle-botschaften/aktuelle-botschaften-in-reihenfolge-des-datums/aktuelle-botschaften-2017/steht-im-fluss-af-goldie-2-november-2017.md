@@ -1,7 +1,7 @@
 ---
 title: "Steht im Fluss"
 menu_title: ""
-description: "Steht im Fluss"
+description: "Goldie, empfangen durch Al Fike: „Dieses kleine Mädchen wird ihren Finger nicht in den Deich stecken. Stattdessen werde ich euch helfen, mehr Risse und …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wandel ist die Konstante des Universums"
 menu_title: ""
-description: "Wandel ist die Konstante des Universums"
+description: "Samuel, empfangen durch Al Fike: „Es gibt eine Konstante in Gottes Universum und das ist die Veränderung. Eure Wahrnehmungen und Perspektiven ändern sich …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

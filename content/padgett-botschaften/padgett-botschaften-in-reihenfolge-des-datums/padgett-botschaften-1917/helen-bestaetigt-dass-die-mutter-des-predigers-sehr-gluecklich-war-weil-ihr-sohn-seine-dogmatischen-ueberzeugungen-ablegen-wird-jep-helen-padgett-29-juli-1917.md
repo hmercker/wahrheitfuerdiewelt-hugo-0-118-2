@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass die Mutter des Predigers sehr glücklich war, weil ihr Sohn seine dogmatischen Überzeugungen ablegen wird"
 menu_title: ""
-description: "Helen bestätigt, dass die Mutter des Predigers sehr glücklich war, weil ihr Sohn seine dogmatischen Überzeugungen ablegen wird"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast eine Botschaft von der Mutter des Predigers (Mrs. Mitchell) erhalten, die so begierig …“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

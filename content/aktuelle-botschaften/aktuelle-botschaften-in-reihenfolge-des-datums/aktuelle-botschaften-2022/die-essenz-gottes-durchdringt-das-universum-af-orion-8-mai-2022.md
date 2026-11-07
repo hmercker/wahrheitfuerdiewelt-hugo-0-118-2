@@ -1,7 +1,7 @@
 ---
 title: "Die Essenz Gottes durchdringt das Universum"
 menu_title: ""
-description: "Die Essenz Gottes durchdringt das Universum"
+description: "Orion, empfangen durch Al Fike: „Dieser Segen, dieses Geschenk, steht allen Seelen im ganzen Universum zur Verfügung. Er ist nicht für bestimmte Personen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

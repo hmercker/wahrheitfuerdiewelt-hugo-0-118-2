@@ -1,7 +1,7 @@
 ---
 title: "Du musst dir Zeit geben"
 menu_title: ""
-description: "Du musst dir Zeit geben"
+description: "Vater, empfangen durch Child of God: „Du lernst mich immer besser kennen. Meine Wahrheiten sinken immer tiefer in deine Seele ein, verschmelzen mit ihr …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

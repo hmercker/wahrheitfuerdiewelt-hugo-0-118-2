@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick berichtet von seinen vielen Segnungen seit seinem Eintritt in die spirituelle Welt"
 menu_title: ""
-description: "Richter Syrick berichtet von seinen vielen Segnungen seit seinem Eintritt in die spirituelle Welt"
+description: "Richter Syrick, empfangen durch James Padgett: „Nun, du kannst mich nicht verlieren, wie die Jungs sagen, denn ich habe deine Frau an meiner Seite, und ich …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

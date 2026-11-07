@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Andreas, dass Jesus durch Herrn Padgett schreibt"
 menu_title: ""
-description: "Bestätigung durch Andreas, dass Jesus durch Herrn Padgett schreibt"
+description: "Andreas, empfangen durch James Padgett: „Du musst glauben, dass ich es bin. Ich weiß, dass du zweifelst, ob so viele der Jünger des Meisters zu dir kommen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

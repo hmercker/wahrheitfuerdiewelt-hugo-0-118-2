@@ -1,7 +1,7 @@
 ---
 title: "Goldie's Enthusiasmus und Ermutigung"
 menu_title: ""
-description: "Goldie's Enthusiasmus und Ermutigung"
+description: "Goldie, empfangen durch Al Fike: „[Goldie kommt lachend herein und bringt große Freude!] Oh, meine Freunde, ich freue mich darauf, mit euch in direkter …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

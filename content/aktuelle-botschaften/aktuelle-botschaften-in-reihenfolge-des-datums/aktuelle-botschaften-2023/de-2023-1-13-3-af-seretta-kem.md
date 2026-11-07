@@ -1,7 +1,7 @@
 ---
 title: "Einladung zur Entwicklung weiterer Medien"
 menu_title: ""
-description: "Einladung zur Entwicklung weiterer Medien"
+description: "Seretta Kem, empfangen durch Al Fike: „Heute möchte ich über das Thema Medialität sprechen, denn in diesem Raum gibt es einige, die das Potenzial haben …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hilfe von Außerirdischen für die Menschheit"
 menu_title: ""
-description: "Hilfe von Außerirdischen für die Menschheit"
+description: "Orion, empfangen durch Al Fike: „Frieden und Liebe für euch, meine Freunde. Wir sehen die Dinge etwas anders als ihr, denn wir leben in einer Umgebung, die …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

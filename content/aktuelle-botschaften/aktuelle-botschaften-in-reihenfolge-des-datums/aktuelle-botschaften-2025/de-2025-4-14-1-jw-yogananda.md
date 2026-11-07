@@ -1,7 +1,7 @@
 ---
 title: "Yoga der Göttlichen Liebe"
 menu_title: ""
-description: "Yoga der Göttlichen Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte ein wenig über den Yoga der Göttlichen Liebe sprechen, ein Thema, das ich durch meinen Bruder hier …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

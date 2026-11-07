@@ -1,7 +1,7 @@
 ---
 title: "Anderen geben und lieben"
 menu_title: ""
-description: "Anderen geben und lieben"
+description: "Lorna Kincaid [^1], empfangen durch Al Fike: „Und in eurem täglichen Leben sehe ich jetzt, wie wichtig es ist, im Gebet und in der Liebe allen meinen …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

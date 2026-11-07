@@ -1,7 +1,7 @@
 ---
 title: "Wir brauchen euch und eure Gaben, um die Wahrheit zu verbreiten"
 menu_title: ""
-description: "Wir brauchen euch und eure Gaben, um die Wahrheit zu verbreiten"
+description: "Yogananda, empfangen durch Maureen Cardoso: „Geliebte Seelen, während ihr jetzt zusammen betet, zwei Ozeane voneinander entfernt, und eure Welt ist, kann …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

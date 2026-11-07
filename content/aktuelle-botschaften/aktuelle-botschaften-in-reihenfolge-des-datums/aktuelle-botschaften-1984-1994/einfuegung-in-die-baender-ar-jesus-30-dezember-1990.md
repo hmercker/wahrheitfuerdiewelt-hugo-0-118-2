@@ -1,7 +1,7 @@
 ---
 title: "Einfügung in die Bänder"
 menu_title: ""
-description: "Einfügung in die Bänder"
+description: "Jesus, empfangen durch Amada Reza: „[Liebste Maria, ich bitte dich, mein Schutzengel, um Kathryns Dilemma zu beantworten, wie Daves und ihre Medialität …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

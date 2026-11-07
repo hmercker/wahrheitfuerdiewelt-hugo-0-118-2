@@ -1,7 +1,7 @@
 ---
 title: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2023"
 menu_title: ""
-description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2023"
+description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2023: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Judas | Glaube jenseits von Furcht …“"
 date: 2023-02-03 02:18:11+11:00
 draft: False
 hidden: True

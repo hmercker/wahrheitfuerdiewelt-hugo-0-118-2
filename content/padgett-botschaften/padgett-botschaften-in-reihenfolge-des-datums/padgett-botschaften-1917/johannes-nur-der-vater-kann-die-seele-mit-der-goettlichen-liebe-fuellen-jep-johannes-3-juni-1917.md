@@ -1,7 +1,7 @@
 ---
 title: "Johannes - Nur der Vater kann die Seele mit der Göttlichen Liebe füllen"
 menu_title: ""
-description: "Johannes - Nur der Vater kann die Seele mit der Göttlichen Liebe füllen"
+description: "Johannes, empfangen durch James Padgett: „Nun, die Exponate waren recht interessant und zeigten die verschiedenen und unterschiedlichen Vorstellungen der …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

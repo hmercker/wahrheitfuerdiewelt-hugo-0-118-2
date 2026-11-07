@@ -1,7 +1,7 @@
 ---
 title: "Matthäus, Apostel Jesu"
 menu_title: ""
-description: "Matthäus, Apostel Jesu"
+description: "Matthäus, empfangen durch H.: „Letzte Nacht war ich auch bei dir, aber du warst schon sehr müde, und ich habe nicht versucht, eine Botschaft zu überbringen.“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

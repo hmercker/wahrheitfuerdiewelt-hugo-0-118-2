@@ -1,7 +1,7 @@
 ---
 title: "Frage & Antwort mit Wendy Zammit"
 menu_title: ""
-description: "Frage & Antwort mit Wendy Zammit"
+description: "Orion, empfangen durch Al Fike: „Ist es nicht das, was ihr von mir als Außerirdischen erwartet? Das, was ihr in euren Vorstellungen und Filmen als …“"
 date: 2025-03-25 06:00:00+00:10
 draft: False
 hidden: True

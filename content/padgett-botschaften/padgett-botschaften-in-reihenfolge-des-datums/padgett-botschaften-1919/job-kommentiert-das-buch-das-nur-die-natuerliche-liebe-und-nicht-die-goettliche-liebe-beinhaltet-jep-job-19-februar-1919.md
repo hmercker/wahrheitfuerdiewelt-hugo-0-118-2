@@ -1,7 +1,7 @@
 ---
 title: "Job kommentiert das Buch, das nur die natürliche Liebe und nicht die Göttliche Liebe beinhaltet"
 menu_title: ""
-description: "Job kommentiert das Buch, das nur die natürliche Liebe und nicht die Göttliche Liebe beinhaltet"
+description: "Job, empfangen durch James Padgett: „Ich möchte heute Abend ein paar Worte zu einem Thema sagen, das für die Menschheit und ihre Zukunft von Bedeutung ist.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

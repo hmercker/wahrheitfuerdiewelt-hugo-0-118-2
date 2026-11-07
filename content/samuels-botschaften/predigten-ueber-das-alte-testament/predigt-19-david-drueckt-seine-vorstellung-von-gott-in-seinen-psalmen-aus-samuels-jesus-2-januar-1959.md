@@ -1,7 +1,7 @@
 ---
 title: "Predigt 19 - David drückt seine Vorstellung von Gott in seinen Psalmen aus"
 menu_title: ""
-description: "Predigt 19 - David drückt seine Vorstellung von Gott in seinen Psalmen aus"
+description: "Jesus, empfangen durch Dr Samuels: „Die Psalmen Davids und die Psalmen, die unter seiner Inspiration geschrieben wurden, sind Lieder mit vielen Stimmungen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die verschiedenen Autoren an diesem Abend"
 menu_title: ""
-description: "Helen bestätigt die verschiedenen Autoren an diesem Abend"
+description: "Helen, empfangen von James Padgett: „Nun, Liebling, du hast genug für heute Abend geschrieben und musst aufhören. Ich möchte dir sagen, dass die …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

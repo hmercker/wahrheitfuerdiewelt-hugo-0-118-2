@@ -1,7 +1,7 @@
 ---
 title: "Unsere Gebete sind wichtig für Gottes Dienst"
 menu_title: ""
-description: "Unsere Gebete sind wichtig für Gottes Dienst"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich möchte euch ermutigen, zu sehen und zu schätzen, dass die Zeiten, die ihr gemeinsam im Gebet verbringt, für …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

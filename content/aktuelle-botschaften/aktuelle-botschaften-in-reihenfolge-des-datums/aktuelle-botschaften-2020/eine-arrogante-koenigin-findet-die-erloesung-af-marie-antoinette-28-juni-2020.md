@@ -1,7 +1,7 @@
 ---
 title: "Eine arrogante Königin findet die Erlösung"
 menu_title: ""
-description: "Eine arrogante Königin findet die Erlösung"
+description: "Marie Antoinette, empfangen durch Al Fike: „Möge Gottes Liebe zu euch kommen, schöne Kinder des Lichts. Wie ihr euch gut vorstellen könnt, als meine Zeit …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

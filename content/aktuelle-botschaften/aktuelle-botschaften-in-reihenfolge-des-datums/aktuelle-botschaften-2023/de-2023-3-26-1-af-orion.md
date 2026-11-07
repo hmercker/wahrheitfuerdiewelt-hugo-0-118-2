@@ -1,7 +1,7 @@
 ---
 title: "Technologie und Interstellare Unterstützung"
 menu_title: ""
-description: "Technologie und Interstellare Unterstützung"
+description: "Orion, empfangen durch Al Fike: „Willkommen, geliebte Freunde. Wie viele von euch wissen, komme ich von einem Planeten, der weit jenseits eures eigenen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

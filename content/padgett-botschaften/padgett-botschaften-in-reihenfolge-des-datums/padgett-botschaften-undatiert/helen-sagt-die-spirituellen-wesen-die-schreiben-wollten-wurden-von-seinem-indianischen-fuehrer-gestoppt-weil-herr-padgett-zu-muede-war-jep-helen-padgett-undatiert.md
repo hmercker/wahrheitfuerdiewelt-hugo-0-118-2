@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, die spirituellen Wesen, die schreiben wollten, wurden von seinem indianischen Führer gestoppt, weil Herr Padgett zu müde war"
 menu_title: ""
-description: "Helen sagt, die spirituellen Wesen, die schreiben wollten, wurden von seinem indianischen Führer gestoppt, weil Herr Padgett zu müde war"
+description: "Helen Padgett, empfangen durch James Padgett: „Also denke mit all deiner Liebe an mich und ich werde glücklich sein. Alles wird gut werden und du musst dir …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

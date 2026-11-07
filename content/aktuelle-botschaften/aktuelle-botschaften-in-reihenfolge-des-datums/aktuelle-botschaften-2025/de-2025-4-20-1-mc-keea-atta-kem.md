@@ -1,7 +1,7 @@
 ---
 title: "Wahre Erlösung der Seele"
 menu_title: ""
-description: "Wahre Erlösung der Seele"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Ihr sprecht über die große Auferstehung, das Missverständnis über die Wahrheit der Auferstehung und wie …“"
 date: 2025-07-10 06:00:00+00:00
 draft: False
 hidden: True

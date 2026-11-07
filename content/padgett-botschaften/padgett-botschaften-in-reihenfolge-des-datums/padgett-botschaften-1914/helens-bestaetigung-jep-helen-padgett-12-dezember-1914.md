@@ -1,7 +1,7 @@
 ---
 title: "Helene's Bestätigung"
 menu_title: ""
-description: "Helene's Bestätigung"
+description: "Helen Padgett, empfangen durch James Padgett: „Ich liebe dich, gute Nacht. Ja, hat sie und sie hat dir nicht alles erzählt, da sie nicht alles wissen kann …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

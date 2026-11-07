@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit wird auf einzigartige Weise jeder Seele zuteil"
 menu_title: ""
-description: "Die Wahrheit wird auf einzigartige Weise jeder Seele zuteil"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wenn ihr das tut, zieht ihr die Engel des Göttlichen Himmels an, um euch zu stärken und euch zu segnen, denn jeder …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

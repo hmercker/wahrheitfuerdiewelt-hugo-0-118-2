@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Amon über die Schöpfung der ersten Eltern geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Amon über die Schöpfung der ersten Eltern geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein lieber alter Ned, du musst für heute Abend mit dem Schreiben aufhören, denn du schreibst schon sehr lange.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

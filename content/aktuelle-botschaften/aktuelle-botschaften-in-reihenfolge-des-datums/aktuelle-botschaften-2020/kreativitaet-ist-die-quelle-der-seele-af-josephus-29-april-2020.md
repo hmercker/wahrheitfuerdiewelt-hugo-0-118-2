@@ -1,7 +1,7 @@
 ---
 title: "Kreativität ist die Quelle der Seele"
 menu_title: ""
-description: "Kreativität ist die Quelle der Seele"
+description: "Josephus, empfangen durch Al Fike: „Ich möchte über die Fähigkeiten der Seele in Bezug auf ihre Kreativität und ihre Ausdrucksmöglichkeiten sprechen.“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

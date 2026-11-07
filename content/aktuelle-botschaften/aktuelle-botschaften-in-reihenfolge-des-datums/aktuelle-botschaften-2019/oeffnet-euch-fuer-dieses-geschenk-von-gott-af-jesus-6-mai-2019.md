@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euch für dieses Geschenk von Gott"
 menu_title: ""
-description: "Öffnet euch für dieses Geschenk von Gott"
+description: "Jesus, empfangen durch Al Fike: „So bitte ich euch, euch dieser großen Gabe zu öffnen, diesem Segen von oben, der eure Seelen, eine mit der anderen, vereinigt.“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Demut und Glaube wachsen, wenn die Göttliche Liebe in die Seele einfließt"
 menu_title: ""
-description: "Demut und Glaube wachsen, wenn die Göttliche Liebe in die Seele einfließt"
+description: "Matthäus, empfangen durch Al Fike: „Es ist jetzt sehr wichtig, dass ihr euren Weg zu eurer Bestimmung findet. Gott hat in eure Seele eine Bestimmung …“"
 date: 2025-01-28 06:00:00+00:10
 draft: False
 hidden: True

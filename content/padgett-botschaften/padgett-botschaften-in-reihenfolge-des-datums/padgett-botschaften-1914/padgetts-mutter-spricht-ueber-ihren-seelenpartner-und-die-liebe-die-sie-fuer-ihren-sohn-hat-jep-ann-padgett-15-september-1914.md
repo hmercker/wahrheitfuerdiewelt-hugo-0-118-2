@@ -1,7 +1,7 @@
 ---
 title: "Padgett's Mutter spricht über ihren Seelenpartner und die Liebe, die sie für ihren Sohn hat"
 menu_title: ""
-description: "Padgett's Mutter spricht über ihren Seelenpartner und die Liebe, die sie für ihren Sohn hat"
+description: "Padgett’s Mutter, empfangen durch James Padgett: „Du bist der beste Sohn der Welt. Ja, und du musst mich mehr lieben, als du es tust.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

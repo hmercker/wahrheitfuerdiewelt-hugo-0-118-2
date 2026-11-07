@@ -1,7 +1,7 @@
 ---
 title: "Riddle versucht einem niederen Spirituellen Wesen zu helfen, den spirituellen Fortschritt zu verstehen"
 menu_title: ""
-description: "Riddle versucht einem niederen Spirituellen Wesen zu helfen, den spirituellen Fortschritt zu verstehen"
+description: "A. G. Riddle, empfangen durch James Padgett: „Nun, ich möchte dir über den Mann mit dem wundervollen Verstand berichten, der jeden anderen Geist in seinem …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

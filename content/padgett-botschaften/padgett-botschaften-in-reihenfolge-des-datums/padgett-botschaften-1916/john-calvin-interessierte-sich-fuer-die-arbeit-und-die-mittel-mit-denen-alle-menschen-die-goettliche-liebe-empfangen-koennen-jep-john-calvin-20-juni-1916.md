@@ -1,7 +1,7 @@
 ---
 title: "John Calvin interessierte sich für die Arbeit und die Mittel, mit denen alle Menschen die Göttliche Liebe empfangen können"
 menu_title: ""
-description: "John Calvin interessierte sich für die Arbeit und die Mittel, mit denen alle Menschen die Göttliche Liebe empfangen können"
+description: "John Calvin, empfangen durch James Padgett: „Ich werde dir heute Abend keinen Vortrag schreiben und ich schreibe dir nur, damit ich mit dir in Verbindung …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

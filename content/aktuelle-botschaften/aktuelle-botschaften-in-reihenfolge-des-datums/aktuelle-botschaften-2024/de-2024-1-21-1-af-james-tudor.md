@@ -1,7 +1,7 @@
 ---
 title: "Lass die Toten die Toten begraben"
 menu_title: ""
-description: "Lass die Toten die Toten begraben"
+description: "James Tudor, empfangen durch Al Fike: „Ihr müsst unbedingt auf das Murmeln eurer eigenen Seele hören. Denn dort liegen die Antworten.“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

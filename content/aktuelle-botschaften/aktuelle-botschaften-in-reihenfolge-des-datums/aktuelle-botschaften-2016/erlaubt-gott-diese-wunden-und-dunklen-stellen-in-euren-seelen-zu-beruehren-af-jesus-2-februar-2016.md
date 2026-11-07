@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt Gott, diese Wunden und dunklen Stellen in euren Seelen zu berühren"
 menu_title: ""
-description: "Erlaubt Gott, diese Wunden und dunklen Stellen in euren Seelen zu berühren"
+description: "Jesus, empfangen durch Al Fike: „Seine Liebe reicht tief in eure Seelen, sie reicht tief nach innen und füllt jene Räume, in denen ihr euren Schmerz …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

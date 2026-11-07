@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für Direkte Stimme"
 menu_title: ""
-description: "Anleitung für Direkte Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir haben euch alle heute Abend versammelt, da ihr weiterhin gemeinsam diesen Termin wahrnehmt, um Führung bezüglich …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

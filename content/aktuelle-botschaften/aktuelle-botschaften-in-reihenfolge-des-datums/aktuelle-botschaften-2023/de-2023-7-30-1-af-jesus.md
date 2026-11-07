@@ -1,7 +1,7 @@
 ---
 title: "Einladung, in Einheit zusammenzukommen"
 menu_title: ""
-description: "Einladung, in Einheit zusammenzukommen"
+description: "Jesus, empfangen durch Al Fike: „Diese Gabe wird es euch zu gegebener Zeit ermöglichen, diese Versöhnung zu erfahren, Gott zu erkennen, wie ihr ihn noch …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

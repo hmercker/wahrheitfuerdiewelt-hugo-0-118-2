@@ -1,7 +1,7 @@
 ---
 title: "Wie wichtig es ist, dass die Menschheit die Wahrheit der Neuen Geburt kennt"
 menu_title: ""
-description: "Wie wichtig es ist, dass die Menschheit die Wahrheit der Neuen Geburt kennt"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Nacht bei dir, als du die Versammlung der Anhänger der Neugeist-Bewegung besucht hast.“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

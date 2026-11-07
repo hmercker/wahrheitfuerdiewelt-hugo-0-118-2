@@ -1,7 +1,7 @@
 ---
 title: "Werde den Göttlichen Himmel bald betreten"
 menu_title: ""
-description: "Werde den Göttlichen Himmel bald betreten"
+description: "James Reid, empfangen durch Al Fike: „Ich befinde mich gegenwärtig in der siebten Sphäre und habe mich bis an die Spitze dieser vielschichtigen Sphäre des …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

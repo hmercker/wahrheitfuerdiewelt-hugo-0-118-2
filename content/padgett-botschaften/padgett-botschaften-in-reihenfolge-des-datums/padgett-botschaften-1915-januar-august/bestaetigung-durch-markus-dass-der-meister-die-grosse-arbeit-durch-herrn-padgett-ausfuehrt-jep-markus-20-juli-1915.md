@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Markus, dass der Meister die große Arbeit durch Herrn Padgett ausführt"
 menu_title: ""
-description: "Bestätigung durch Markus, dass der Meister die große Arbeit durch Herrn Padgett ausführt"
+description: "Markus, empfangen durch James Padgett: „Ich muss mein Zeugnis zu den anderen, die mir vorausgegangen sind, hinzufügen: zu der Tatsache, dass der Meister …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

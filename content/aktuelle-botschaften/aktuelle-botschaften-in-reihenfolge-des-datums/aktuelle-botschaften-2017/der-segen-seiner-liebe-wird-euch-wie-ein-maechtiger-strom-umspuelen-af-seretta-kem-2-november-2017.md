@@ -1,7 +1,7 @@
 ---
 title: "Der Segen Seiner Liebe wird euch wie ein mächtiger Strom umspülen"
 menu_title: ""
-description: "Der Segen Seiner Liebe wird euch wie ein mächtiger Strom umspülen"
+description: "Seretta Kem, empfangen durch Al Fike: „Der Meister Jesus liebt euch innigst. Und er kennt euch gut, und ihr wisst mehr von ihm, als ihr vielleicht denkt.“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

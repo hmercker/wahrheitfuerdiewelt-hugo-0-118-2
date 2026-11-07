@@ -1,7 +1,7 @@
 ---
 title: "Fokus auf Liebe"
 menu_title: ""
-description: "Fokus auf Liebe"
+description: "Judas, empfangen durch H.: „Lauwarm... ja, du hast mich gut gehört. Die Welt ist lauwarm, die Menschen sind lauwarm, du bist lauwarm.“"
 date: 2020-08-01 06:25:48+00:234
 draft: False
 hidden: True

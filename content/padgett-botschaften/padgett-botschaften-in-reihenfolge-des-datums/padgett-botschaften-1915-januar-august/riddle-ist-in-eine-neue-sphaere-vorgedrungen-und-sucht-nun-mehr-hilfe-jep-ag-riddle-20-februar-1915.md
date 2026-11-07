@@ -1,7 +1,7 @@
 ---
 title: "Riddle ist in eine neue Sphäre vorgestoßen"
 menu_title: ""
-description: "Riddle ist in eine neue Sphäre vorgestoßen"
+description: "A. G. Riddle, empfangen durch James Padgett: „Du hattest deswegen eine ziemlich harte Zeit und hast mich auf eine gewisse Weise an das Leiden erinnert …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

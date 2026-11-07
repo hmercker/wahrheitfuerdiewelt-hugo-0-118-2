@@ -1,7 +1,7 @@
 ---
 title: "Simon der Zelot"
 menu_title: ""
-description: "Simon der Zelot"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder: Ich weiß, dass du auf eine Botschaft über die Heilung eines Leprakranken gehofft hast, aber ich habe ein …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die spirituellen Wesen früherer Herrscher, Präsidenten, Könige und Königinnen, sind in der spirituellen Welt nur bloße Wesen wo sich ihr wahrer Zustand zeigt und einige sind in der Finsternis"
 menu_title: ""
-description: "Die spirituellen Wesen früherer Herrscher, Präsidenten, Könige und Königinnen, sind in der spirituellen Welt nur bloße Wesen wo sich ihr wahrer Zustand zeigt und einige sind in der Finsternis"
+description: "Helen, empfangen durch James Padgett: „Du darfst nicht überrascht sein, dass so viele spirituelle Wesen von Präsidenten und Herrschern Europas heute Abend …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

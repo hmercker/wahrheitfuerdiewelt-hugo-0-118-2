@@ -1,7 +1,7 @@
 ---
 title: "Brücken der Liebe bauen"
 menu_title: ""
-description: "Brücken der Liebe bauen"
+description: "Johannes, empfangen durch Al Fike: „Möge Sein Licht immer auf euch scheinen. Wo immer ihr in dieser Welt seid, möget ihr wissen, dass die Berührung Gottes …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

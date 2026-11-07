@@ -1,7 +1,7 @@
 ---
 title: "Entscheidet euch für den Verstand oder die Seele für eure spirituelle Reise"
 menu_title: ""
-description: "Entscheidet euch für den Verstand oder die Seele für eure spirituelle Reise"
+description: "Augustinus, empfangen durch Al Fike: „Euer Lehrer Augustinus ist bei Euch. Eine sehnsüchtige Seele ist der Schlüssel, der die Tür zu Gott öffnet, und ein …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

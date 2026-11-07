@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst aufstehen und die Wahrheit sagen"
 menu_title: ""
-description: "Ihr müsst aufstehen und die Wahrheit sagen"
+description: "White Cloud, empfangen durch Al Fike: „Ihr habt mich in euren Kreis gezogen mit euren Liedern und euren Geschichten von denen, die die Wahrheiten der …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

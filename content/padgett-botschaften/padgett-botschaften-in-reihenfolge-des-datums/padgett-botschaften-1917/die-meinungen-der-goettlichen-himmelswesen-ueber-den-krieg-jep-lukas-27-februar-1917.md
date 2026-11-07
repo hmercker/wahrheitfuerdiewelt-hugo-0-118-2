@@ -1,7 +1,7 @@
 ---
 title: "Die Meinungen der göttlichen Himmelswesen über den Krieg"
 menu_title: ""
-description: "Die Meinungen der göttlichen Himmelswesen über den Krieg"
+description: "Lukas, empfangen durch James Padgett: „Ich hörte den Doktor fragen, was die göttlichen Spirituellen Wesen von diesem Krieg halten, und ich werde es ihm in …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wahre Erlösung heißt, eins mit Gott zu werden"
 menu_title: ""
-description: "Wahre Erlösung heißt, eins mit Gott zu werden"
+description: "Jesus, empfangen durch James Padgett: „Ich werde dir ein paar Zeilen schreiben, weil ich das Verlangen habe zu bestätigen, was Lukas so klar erklärt hat …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

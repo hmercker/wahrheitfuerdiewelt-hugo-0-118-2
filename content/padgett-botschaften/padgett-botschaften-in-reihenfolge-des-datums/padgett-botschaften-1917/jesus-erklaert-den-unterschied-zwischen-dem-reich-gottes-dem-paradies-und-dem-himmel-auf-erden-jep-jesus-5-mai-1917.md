@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt den Unterschied zwischen dem Reich Gottes, dem Paradies und dem Himmel auf Erden"
 menu_title: ""
-description: "Jesus erklärt den Unterschied zwischen dem Reich Gottes, dem Paradies und dem Himmel auf Erden"
+description: "Jesus, empfangen durch James Padgett: „Dies ist ein Thema, das viele Lehrer versucht haben, der Menschheit zu erklären, und die beschriebenen Wege waren so …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

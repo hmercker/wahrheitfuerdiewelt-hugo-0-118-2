@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt Jesu in Bethlehem"
 menu_title: ""
-description: "Die Geburt Jesu in Bethlehem"
+description: "Judas, empfangen durch H.: „Sehr gut, mein lieber Bruder! Wie ich sehe, hast du bereits ein Porträt von Josef gezeichnet.“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

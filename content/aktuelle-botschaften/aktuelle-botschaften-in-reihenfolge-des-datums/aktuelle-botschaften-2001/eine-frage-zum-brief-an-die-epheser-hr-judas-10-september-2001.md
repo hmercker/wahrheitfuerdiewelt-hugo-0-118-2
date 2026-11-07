@@ -1,7 +1,7 @@
 ---
 title: "Eine Frage zum Brief an die Epheser"
 menu_title: ""
-description: "Eine Frage zum Brief an die Epheser"
+description: "Judas, empfangen durch H.: „Mein lieber H , bevor ich mit der Geschichte meiner Reise durch die Sphären der spirituellen Welt fortfahre, möchte ich M s …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

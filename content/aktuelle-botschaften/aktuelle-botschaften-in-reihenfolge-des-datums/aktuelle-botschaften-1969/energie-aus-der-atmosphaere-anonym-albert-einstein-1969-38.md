@@ -1,7 +1,7 @@
 ---
 title: "Energie aus der Atmosphäre"
 menu_title: ""
-description: "Energie aus der Atmosphäre"
+description: "Albert Einstein: „Ich habe lange darauf gewartet, zu euch zu sprechen, meine Freunde, und ich werde mich bemühen, ohne Akzent zu euch zu sprechen und …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

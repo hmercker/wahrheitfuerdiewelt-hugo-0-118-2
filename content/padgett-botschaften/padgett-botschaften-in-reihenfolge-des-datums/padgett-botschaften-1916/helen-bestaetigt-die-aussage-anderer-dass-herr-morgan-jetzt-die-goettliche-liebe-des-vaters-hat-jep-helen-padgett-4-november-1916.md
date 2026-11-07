@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die Aussage anderer, dass Herr Morgan jetzt die Göttliche Liebe des Vaters hat"
 menu_title: ""
-description: "Helen bestätigt die Aussage anderer, dass Herr Morgan jetzt die Göttliche Liebe des Vaters hat"
+description: "Helen, empfangen durch James Padgett: „Ich kann auch mein kleines Zeugnis hinzufügen, und wenn es auch nicht das Gewicht einiger hat, die geschrieben …“"
 date: 2020-08-01 06:25:48+00:258
 draft: False
 hidden: True

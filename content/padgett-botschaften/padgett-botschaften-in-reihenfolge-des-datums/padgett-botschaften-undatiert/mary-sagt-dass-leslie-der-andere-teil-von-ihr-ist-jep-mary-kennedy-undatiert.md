@@ -1,7 +1,7 @@
 ---
 title: "Mary sagt, dass Leslie der andere Teil von ihr ist"
 menu_title: ""
-description: "Mary sagt, dass Leslie der andere Teil von ihr ist"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, ich dachte, du würdest nicht aufhören zu schreiben, ohne mir die Gelegenheit zu geben, ein Wort an …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

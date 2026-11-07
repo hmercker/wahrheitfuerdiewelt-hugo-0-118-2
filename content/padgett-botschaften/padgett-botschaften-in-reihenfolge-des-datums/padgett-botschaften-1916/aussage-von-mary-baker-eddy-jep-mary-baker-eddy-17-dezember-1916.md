@@ -1,7 +1,7 @@
 ---
 title: "Aussage von Mary Baker Eddy"
 menu_title: ""
-description: "Aussage von Mary Baker Eddy"
+description: "Mary Baker Eddy, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, da ich so bestrebt bin, einige Tatsachen zu erklären, die, als ich …“"
 date: 2020-08-01 06:25:48+00:293
 draft: False
 hidden: True

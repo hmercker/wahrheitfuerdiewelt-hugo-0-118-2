@@ -1,7 +1,7 @@
 ---
 title: "Wähle, was deine Seele berührt"
 menu_title: ""
-description: "Wähle, was deine Seele berührt"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Ich möchte mit dem jungen Michael sprechen. Während ihr die vielen Facetten des göttlichen Liebespfades erkundet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

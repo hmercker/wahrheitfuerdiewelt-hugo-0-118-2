@@ -1,7 +1,7 @@
 ---
 title: "Johannes schreibt, dass es zu diesem Zeitpunkt auf der ganzen Welt niemanden gibt, der geeignet ist, die Arbeit zu tun"
 menu_title: ""
-description: "Johannes schreibt, dass es zu diesem Zeitpunkt auf der ganzen Welt niemanden gibt, der geeignet ist, die Arbeit zu tun"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute sehr oft bei dir, als du die Botschaften abgeschrieben und gesehen hast, dass dir die darin …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

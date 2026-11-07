@@ -1,7 +1,7 @@
 ---
 title: "Wie die Göttliche Liebe in die menschliche Seele gelangt - Teil 2"
 menu_title: ""
-description: "Wie die Göttliche Liebe in die menschliche Seele gelangt - Teil 2"
+description: "Jesus, empfangen durch James Padgett: „Wie du dich vielleicht erinnerst, ist mein Thema: \"Wie die göttliche Liebe in die Seele eines Menschen gelangt\".“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

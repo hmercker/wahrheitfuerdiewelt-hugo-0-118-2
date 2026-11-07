@@ -1,7 +1,7 @@
 ---
 title: "Unsere Seelen stehen nackt vor Gott"
 menu_title: ""
-description: "Unsere Seelen stehen nackt vor Gott"
+description: "Judas, empfangen durch Jimbeau Walsh: „Was ihr mit euren Seelen wahrnehmen könnt, wenn ihr für Gottes Liebe offen seid, wird euch eine Art Einblick in das …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

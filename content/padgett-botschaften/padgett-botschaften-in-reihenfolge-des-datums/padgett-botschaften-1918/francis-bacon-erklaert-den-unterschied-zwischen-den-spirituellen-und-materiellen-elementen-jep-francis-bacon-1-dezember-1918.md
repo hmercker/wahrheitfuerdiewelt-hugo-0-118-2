@@ -1,7 +1,7 @@
 ---
 title: "Francis Bacon erklärt den Unterschied zwischen den spirituellen und materiellen Elementen"
 menu_title: ""
-description: "Francis Bacon erklärt den Unterschied zwischen den spirituellen und materiellen Elementen"
+description: "Francis Bacon, empfangen durch James Padgett: „Lass mich eine kurze Botschaft schreiben, die sich auf unsere spirituelle Welt und eines der Gesetze …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

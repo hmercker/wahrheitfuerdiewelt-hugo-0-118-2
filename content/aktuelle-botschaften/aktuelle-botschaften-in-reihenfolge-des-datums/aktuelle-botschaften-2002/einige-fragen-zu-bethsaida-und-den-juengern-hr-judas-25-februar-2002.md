@@ -1,7 +1,7 @@
 ---
 title: "Einige Fragen zu Bethsaida und den Jüngern"
 menu_title: ""
-description: "Einige Fragen zu Bethsaida und den Jüngern"
+description: "Judas, empfangen durch H.: „Ich möchte diese Gelegenheit nutzen, um einige Zweifel zu klären, die dich beunruhigen. Es sind keine größeren Probleme, aber …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

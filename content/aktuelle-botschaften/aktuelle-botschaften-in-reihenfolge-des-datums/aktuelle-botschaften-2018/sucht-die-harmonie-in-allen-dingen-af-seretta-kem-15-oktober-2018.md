@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Harmonie in allen Dingen"
 menu_title: ""
-description: "Sucht die Harmonie in allen Dingen"
+description: "Seretta Kem, empfangen durch Al Fike: „Mein lieber Bruder hatte einige Fragen bezüglich seiner Heimkehr. Er soll nicht das Gefühl haben, dass er unter …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

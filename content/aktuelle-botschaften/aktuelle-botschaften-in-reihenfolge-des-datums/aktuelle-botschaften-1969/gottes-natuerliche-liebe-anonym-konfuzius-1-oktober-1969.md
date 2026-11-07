@@ -1,7 +1,7 @@
 ---
 title: "Gottes natürliche Liebe"
 menu_title: ""
-description: "Gottes natürliche Liebe"
+description: "Konfuzius: „Augustinus wird ungeduldig; ich spüre, dass er so lange auf die Direkte Stimme gewartet hat, aber seine Liebe zu euch ist stark und ich liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

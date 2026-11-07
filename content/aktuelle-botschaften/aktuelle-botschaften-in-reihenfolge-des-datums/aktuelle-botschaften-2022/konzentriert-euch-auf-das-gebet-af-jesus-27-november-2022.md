@@ -1,7 +1,7 @@
 ---
 title: "Konzentriert euch auf das Gebet"
 menu_title: ""
-description: "Konzentriert euch auf das Gebet"
+description: "Jesus, empfangen durch Al Fike: „Er antwortet in diesem Moment auf diese Versammlung, und Gott ist jetzt bei jedem einzelnen von euch.“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

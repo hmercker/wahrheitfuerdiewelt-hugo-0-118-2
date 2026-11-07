@@ -1,7 +1,7 @@
 ---
 title: "Pforten des Lichts einrichten"
 menu_title: ""
-description: "Pforten des Lichts einrichten"
+description: "Seretta Kem, empfangen durch Al Fike: „Zuerst möchte ich über die Wichtigkeit sprechen, die Macht des Gesetzes der Kommunikation und der Verbindung …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

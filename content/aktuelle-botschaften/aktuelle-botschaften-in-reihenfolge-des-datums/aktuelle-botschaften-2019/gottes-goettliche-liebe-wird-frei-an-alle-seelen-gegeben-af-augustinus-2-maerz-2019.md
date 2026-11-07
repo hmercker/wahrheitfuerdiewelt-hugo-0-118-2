@@ -1,7 +1,7 @@
 ---
 title: "Gottes göttliche Liebe wird frei an alle Seelen gegeben"
 menu_title: ""
-description: "Gottes göttliche Liebe wird frei an alle Seelen gegeben"
+description: "Augustinus, empfangen durch Al Fike: „Viele Jahre lang habe ich die Wahrheiten der Göttlichen Liebe des Vaters gelehrt und diese Individuen auf ihrem Weg …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

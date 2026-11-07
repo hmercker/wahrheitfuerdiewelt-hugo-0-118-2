@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist der direkteste Weg zu Gott"
 menu_title: ""
-description: "Die Göttliche Liebe ist der direkteste Weg zu Gott"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Diese Lichtpforte reicht bis in den Göttlichen Himmel und lässt heilende Energien direkt in euren Kreis fließen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

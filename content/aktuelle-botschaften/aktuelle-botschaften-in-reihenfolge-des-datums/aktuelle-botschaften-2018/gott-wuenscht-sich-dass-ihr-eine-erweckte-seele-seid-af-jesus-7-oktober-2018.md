@@ -1,7 +1,7 @@
 ---
 title: "Gott wünscht sich, dass ihr eine erweckte Seele seid"
 menu_title: ""
-description: "Gott wünscht sich, dass ihr eine erweckte Seele seid"
+description: "Jesus, empfangen durch Al Fike: „In Anbetracht eurer Bemühungen, Wünsche, Gebete, Handlungen, Gedanken, Motivationen, um im Einklang mit Gott zu sein, in …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

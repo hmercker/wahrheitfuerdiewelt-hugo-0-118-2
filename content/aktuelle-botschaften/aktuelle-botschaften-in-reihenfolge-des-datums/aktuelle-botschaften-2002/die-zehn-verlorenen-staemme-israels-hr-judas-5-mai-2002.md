@@ -1,7 +1,7 @@
 ---
 title: "Die zehn verlorenen Stämme Israels"
 menu_title: ""
-description: "Die zehn verlorenen Stämme Israels"
+description: "Judas, empfangen durch H.: „Wie ich versprochen habe, übermittle ich in diesem Stadium eine letzte Botschaft über \"die Samariter\", oder besser gesagt, über …“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

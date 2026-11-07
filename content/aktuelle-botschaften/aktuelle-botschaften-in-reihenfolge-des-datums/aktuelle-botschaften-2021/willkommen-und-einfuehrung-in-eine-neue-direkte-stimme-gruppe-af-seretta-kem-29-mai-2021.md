@@ -1,7 +1,7 @@
 ---
 title: "Willkommen und Einführung in eine neue Direkte Stimme Gruppe"
 menu_title: ""
-description: "Willkommen und Einführung in eine neue Direkte Stimme Gruppe"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir freuen uns so sehr, geliebte und schöne Seelen. Ja, ich werde unsere Bemühungen anführen, so wie ich es in der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

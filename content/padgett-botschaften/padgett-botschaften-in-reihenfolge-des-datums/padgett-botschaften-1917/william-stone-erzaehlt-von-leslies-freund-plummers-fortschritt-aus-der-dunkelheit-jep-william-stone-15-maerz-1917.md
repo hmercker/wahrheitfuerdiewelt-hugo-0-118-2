@@ -1,7 +1,7 @@
 ---
 title: "William Stone erzählt von Leslies Freund Plummer's Fortschritt aus der Dunkelheit"
 menu_title: ""
-description: "William Stone erzählt von Leslies Freund Plummer's Fortschritt aus der Dunkelheit"
+description: "William Stone, empfangen durch James Padgett: „Nun, was hältst du von Plummer? Er ist genau so, wie er dir geschrieben hat, und wir sind etwas überrascht …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

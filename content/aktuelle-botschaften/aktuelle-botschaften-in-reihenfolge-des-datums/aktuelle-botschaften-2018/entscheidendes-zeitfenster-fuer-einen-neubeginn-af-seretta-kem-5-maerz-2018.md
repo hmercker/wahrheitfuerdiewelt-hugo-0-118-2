@@ -1,7 +1,7 @@
 ---
 title: "Entscheidendes Zeitfenster für einen Neubeginn"
 menu_title: ""
-description: "Entscheidendes Zeitfenster für einen Neubeginn"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist an der Zeit, zu euch zu sprechen und euch für eure Bemühungen zu danken, in diesem Licht zusammenzukommen …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

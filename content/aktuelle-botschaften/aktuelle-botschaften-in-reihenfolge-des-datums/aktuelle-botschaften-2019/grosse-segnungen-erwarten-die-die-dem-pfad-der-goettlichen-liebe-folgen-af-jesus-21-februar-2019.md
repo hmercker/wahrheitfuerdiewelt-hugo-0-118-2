@@ -1,7 +1,7 @@
 ---
 title: "Große Segnungen erwarten die, die dem Pfad der Göttlichen Liebe folgen"
 menu_title: ""
-description: "Große Segnungen erwarten die, die dem Pfad der Göttlichen Liebe folgen"
+description: "Jesus, empfangen durch Al Fike: „Wer meine Hand nimmt, wird in das Reich Gottes geführt, wo die Liebe regiert und das Licht hell und schön ist.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

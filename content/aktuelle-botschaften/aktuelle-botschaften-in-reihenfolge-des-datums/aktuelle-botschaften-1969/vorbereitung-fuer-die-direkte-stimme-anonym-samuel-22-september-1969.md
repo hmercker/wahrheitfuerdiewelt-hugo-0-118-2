@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitung für die Direkte Stimme"
 menu_title: ""
-description: "Vorbereitung für die Direkte Stimme"
+description: "Samuel: „Wir sitzen hier heute Abend in Hingabe. Ihr habt sehr gute Fortschritte gemacht.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

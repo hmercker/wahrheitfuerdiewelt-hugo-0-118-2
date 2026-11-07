@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr euch für die Seelentransformation durch göttliche Liebe entscheiden?"
 menu_title: ""
-description: "Werdet ihr euch für die Seelentransformation durch göttliche Liebe entscheiden?"
+description: "Augustinus, empfangen durch Al Fike: „Das Licht, das ihr hier unter euch in diesem Kreis spürt, ist keine gemeinsame Erfahrung der Menschheit.“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

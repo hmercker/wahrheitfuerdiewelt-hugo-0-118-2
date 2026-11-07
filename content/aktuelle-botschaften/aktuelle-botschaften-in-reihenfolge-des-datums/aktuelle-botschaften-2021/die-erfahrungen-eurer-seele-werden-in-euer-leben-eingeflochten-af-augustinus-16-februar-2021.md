@@ -1,7 +1,7 @@
 ---
 title: "Die Erfahrungen eurer Seele werden in euer Leben eingeflochten"
 menu_title: ""
-description: "Die Erfahrungen eurer Seele werden in euer Leben eingeflochten"
+description: "Augustinus, empfangen durch Al Fike: „Jeder von euch hat sein Leben gut erfahren, hat viele Dinge getan und viele Situationen erlebt.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

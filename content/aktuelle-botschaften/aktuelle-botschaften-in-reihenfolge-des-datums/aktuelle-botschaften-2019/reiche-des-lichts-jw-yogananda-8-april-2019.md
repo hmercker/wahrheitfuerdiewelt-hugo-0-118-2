@@ -1,7 +1,7 @@
 ---
 title: "Reiche des Lichts"
 menu_title: ""
-description: "Reiche des Lichts"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte euch daran erinnern, dass der Meister sagte: \"Es gibt viele Wohnungen im Haus meines Vaters.\" …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

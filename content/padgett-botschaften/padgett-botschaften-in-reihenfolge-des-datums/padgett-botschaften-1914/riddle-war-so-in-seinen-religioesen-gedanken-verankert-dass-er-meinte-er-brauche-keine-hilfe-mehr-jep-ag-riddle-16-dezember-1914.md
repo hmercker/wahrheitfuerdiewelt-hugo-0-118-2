@@ -1,7 +1,7 @@
 ---
 title: "Riddle war so in seinen religiösen Gedanken verankert, dass er meinte, er brauche keine Hilfe mehr "
 menu_title: ""
-description: "Riddle war so in seinen religiösen Gedanken verankert, dass er meinte, er brauche keine Hilfe mehr "
+description: "A. G. Riddle, empfangen durch James Padgett: „Ich möchte ein wenig mit dir reden. Du hast mir noch keine Gelegenheit dazu gegeben und ich fing schon an zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was es wirklich bedeutet, mit Gott zusammen zu kreieren"
 menu_title: ""
-description: "Was es wirklich bedeutet, mit Gott zusammen zu kreieren"
+description: "Leytergus, empfangen durch Al Fike: „Ich habe noch nie durch dieses Instrument gesprochen, obwohl ihr mich durch andere Mittel und Wege und Bücher …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

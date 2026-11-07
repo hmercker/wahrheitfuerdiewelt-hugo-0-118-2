@@ -1,7 +1,7 @@
 ---
 title: "Die Scharen freuen sich mit uns"
 menu_title: ""
-description: "Die Scharen freuen sich mit uns"
+description: "Matthäus, empfangen durch Al Fike: „Möge die Liebe des Vaters in eure Seelen kommen. Denn jeder von euch hat Hürden und Herausforderungen überwunden, damit …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

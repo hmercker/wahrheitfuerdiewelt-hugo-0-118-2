@@ -1,7 +1,7 @@
 ---
 title: "Jesus nimmt uns mit in die Halle des Friedens"
 menu_title: ""
-description: "Jesus nimmt uns mit in die Halle des Friedens"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich möchte euch zu euren Fortschritten beglückwünschen und dazu, wie jeder von euch einen Weg gefunden hat …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

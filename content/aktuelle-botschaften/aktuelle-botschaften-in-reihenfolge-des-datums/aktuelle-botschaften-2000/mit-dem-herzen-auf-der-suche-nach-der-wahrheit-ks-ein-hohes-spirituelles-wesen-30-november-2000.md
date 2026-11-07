@@ -1,7 +1,7 @@
 ---
 title: "Mit dem Herzen auf der Suche nach der Wahrheit"
 menu_title: ""
-description: "Mit dem Herzen auf der Suche nach der Wahrheit"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Frage: Was sollen wir mit den Beiträgen tun, die Anhänger der Padgett-Botschaften an das …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

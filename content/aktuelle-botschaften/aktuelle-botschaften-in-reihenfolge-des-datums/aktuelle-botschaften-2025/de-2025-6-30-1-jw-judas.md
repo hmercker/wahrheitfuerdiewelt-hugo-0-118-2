@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit verstehen und selbst zur Wahrheit werden"
 menu_title: ""
-description: "Die Wahrheit verstehen und selbst zur Wahrheit werden"
+description: "Judas, empfangen durch Jimbeau Walsh: „Liebe Brüder und Schwestern in Christus, ihr habt einen weiten Weg auf der Reise des Herzens, auf dem Weg der Seele …“"
 date: 2025-07-06 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über den plötzlichen Tod einer Freundin"
 menu_title: ""
-description: "Helen schreibt über den plötzlichen Tod einer Freundin"
+description: "Helen, empfangen durch James Padgett: „Ja, das werden wir versuchen – du bist nun in einer besseren Verfassung als du es heute Abend, im Büro, warst und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer versichert, dass Jesus geschrieben hat"
 menu_title: ""
-description: "Johannes der Täufer versichert, dass Jesus geschrieben hat"
+description: "Johannes, empfangen von James Padgett: „Lass dein Herz nicht beunruhigt sein, glaube an Gott und an den Meister. Das ist heute Abend genauso wahr wie vor …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

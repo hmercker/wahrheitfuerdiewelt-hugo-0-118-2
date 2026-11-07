@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit, den Weg zum Himmelreich zu kennen"
 menu_title: ""
-description: "Die Wichtigkeit, den Weg zum Himmelreich zu kennen"
+description: "Ann Rollins, empfangen durch James Padgett: „Du bist nun in der Lage, unsere Botschaften zu erhalten, und ich möchte gerne ein Weilchen über die Bedeutung …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

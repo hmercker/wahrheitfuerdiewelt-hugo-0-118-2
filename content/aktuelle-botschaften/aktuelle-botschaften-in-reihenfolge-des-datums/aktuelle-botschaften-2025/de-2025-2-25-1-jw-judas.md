@@ -1,7 +1,7 @@
 ---
 title: "Dies ist der Weg"
 menu_title: ""
-description: "Dies ist der Weg"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine Brüder und Schwestern, wir befinden uns in einer Zeit großer Veränderungen, und ich sage euch etwas, das ihr …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

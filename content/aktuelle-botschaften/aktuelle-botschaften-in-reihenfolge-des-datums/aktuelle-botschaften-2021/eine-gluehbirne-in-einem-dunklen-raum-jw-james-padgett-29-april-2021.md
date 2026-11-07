@@ -1,7 +1,7 @@
 ---
 title: "Eine Glühbirne in einem dunklen Raum"
 menu_title: ""
-description: "Eine Glühbirne in einem dunklen Raum"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Ich war ein materieller Mensch in einer materiellen Welt und ich hatte all das Verlangen nach …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

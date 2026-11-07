@@ -1,7 +1,7 @@
 ---
 title: "Erinnert uns an unsere Verpflichtungen und daran, was nötig ist, um unsere Kämpfe zu durchbrechen"
 menu_title: ""
-description: "Erinnert uns an unsere Verpflichtungen und daran, was nötig ist, um unsere Kämpfe zu durchbrechen"
+description: "Aaron, empfangen durch Al Fike: „Dein Gebet war ergreifend, liebe Tochter, und es ging mir sehr zu Herzen. Ihr seid nicht gleich, geliebte Seelen, denn …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

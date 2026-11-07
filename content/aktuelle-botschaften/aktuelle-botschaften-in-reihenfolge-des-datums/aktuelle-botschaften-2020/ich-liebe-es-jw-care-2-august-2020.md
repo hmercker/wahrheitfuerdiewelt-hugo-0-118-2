@@ -1,7 +1,7 @@
 ---
 title: "Ich liebe es!"
 menu_title: ""
-description: "Ich liebe es!"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich werde mich kurz fassen, weil mein lieber Jimbeau ziemlich müde ist, aber ich möchte sagen, als ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

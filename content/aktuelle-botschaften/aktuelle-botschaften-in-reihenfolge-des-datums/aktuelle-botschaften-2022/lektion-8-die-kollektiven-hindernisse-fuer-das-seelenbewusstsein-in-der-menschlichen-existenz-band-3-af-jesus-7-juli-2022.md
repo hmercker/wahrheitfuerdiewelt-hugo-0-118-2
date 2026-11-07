@@ -1,7 +1,7 @@
 ---
 title: "Lektion 8 - Unsere kollektiven Barrieren für das Seelenbewusstsein im menschlichen Zustand - Band 3"
 menu_title: ""
-description: "Lektion 8 - Unsere kollektiven Barrieren für das Seelenbewusstsein im menschlichen Zustand - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Die Menschheit ist Gottes herrlichste Schöpfung auf diesem Planeten. Sie ist Gottes herrlichste Schöpfung, weil das …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

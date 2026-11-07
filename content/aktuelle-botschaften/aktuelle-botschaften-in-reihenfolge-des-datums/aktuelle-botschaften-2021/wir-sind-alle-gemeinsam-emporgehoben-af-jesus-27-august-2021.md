@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle gemeinsam emporgehoben"
 menu_title: ""
-description: "Wir sind alle gemeinsam emporgehoben"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch sucht nach Lösungen für die Dilemmas in eurem Leben. Jeder von euch hat Fragen, die beantwortet werden müssen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

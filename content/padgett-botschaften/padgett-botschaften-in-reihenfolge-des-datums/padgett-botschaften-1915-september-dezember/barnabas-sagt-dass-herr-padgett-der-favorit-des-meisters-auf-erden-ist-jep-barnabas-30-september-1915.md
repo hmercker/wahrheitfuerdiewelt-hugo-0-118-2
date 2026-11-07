@@ -1,7 +1,7 @@
 ---
 title: "Barnabas sagt, dass Herr Padgett der Favorit des Meisters auf Erden ist"
 menu_title: ""
-description: "Barnabas sagt, dass Herr Padgett der Favorit des Meisters auf Erden ist"
+description: "Barnabas, empfangen von James Padgett: „So sind die Gedanken der Menschen, wenn Schwierigkeiten auftauchen: Ich kann nichts von mir selbst tun, sondern …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

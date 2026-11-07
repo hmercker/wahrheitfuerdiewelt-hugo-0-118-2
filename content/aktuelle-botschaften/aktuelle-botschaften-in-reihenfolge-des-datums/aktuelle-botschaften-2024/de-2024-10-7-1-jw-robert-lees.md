@@ -1,7 +1,7 @@
 ---
 title: "Gebet und Sühne"
 menu_title: ""
-description: "Gebet und Sühne"
+description: "Robert J Lees, empfangen durch Jimbeau Walsh: „Als ich begann, Botschaften von spirituellen Wesen zu empfangen, wurde ich oft auf die vielen Zitate über …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

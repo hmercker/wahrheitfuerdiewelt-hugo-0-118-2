@@ -1,7 +1,7 @@
 ---
 title: "Führung erhalten"
 menu_title: ""
-description: "Führung erhalten"
+description: "Josef, empfangen durch Al Fike: „Gott wünscht, dass ihr alle die Führung erkennt, die zu jedem von euch fließen kann, um euch zu unterstützen und euch in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

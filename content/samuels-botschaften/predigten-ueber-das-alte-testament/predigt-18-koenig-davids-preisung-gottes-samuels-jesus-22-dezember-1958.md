@@ -1,7 +1,7 @@
 ---
 title: "Predigt 18 - König Davids Preisung Gottes"
 menu_title: ""
-description: "Predigt 18 - König Davids Preisung Gottes"
+description: "Jesus, empfangen durch Dr Samuels: „In diesen Predigten über den Charakter König Davids wurden die Episoden hervorgehoben, die seine Herzensgüte in der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

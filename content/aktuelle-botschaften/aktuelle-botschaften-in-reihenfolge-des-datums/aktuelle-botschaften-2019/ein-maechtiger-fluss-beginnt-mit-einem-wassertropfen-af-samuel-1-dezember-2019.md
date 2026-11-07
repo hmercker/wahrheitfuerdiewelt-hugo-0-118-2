@@ -1,7 +1,7 @@
 ---
 title: "Ein mächtiger Fluss beginnt mit einem Wassertropfen"
 menu_title: ""
-description: "Ein mächtiger Fluss beginnt mit einem Wassertropfen"
+description: "Samuel, empfangen durch Al Fike: „So wie jeder Tropfen sich sammelt und das Rinnsal des Wassers erschafft, das in den Strom des Wassers fließt, der in den …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

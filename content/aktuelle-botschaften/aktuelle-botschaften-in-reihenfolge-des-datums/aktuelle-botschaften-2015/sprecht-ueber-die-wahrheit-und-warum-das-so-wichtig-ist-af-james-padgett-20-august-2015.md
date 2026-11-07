@@ -1,7 +1,7 @@
 ---
 title: "Sprecht über die Wahrheit und warum das so wichtig ist"
 menu_title: ""
-description: "Sprecht über die Wahrheit und warum das so wichtig ist"
+description: "James Padgett, empfangen durch Al Fike: „Ich wurde gebeten, zu euch zu sprechen, und es ist mir eine Ehre und ein Privileg, dies in dieser Versammlung von …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

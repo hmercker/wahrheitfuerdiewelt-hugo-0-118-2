@@ -1,7 +1,7 @@
 ---
 title: "Falscher Glaube und Göttliche Liebe"
 menu_title: ""
-description: "Falscher Glaube und Göttliche Liebe"
+description: "Ann Rollins, empfangen durch Jimbeau Walsh (im Gebet mit Johannes M): „Ich sehe keinen Bedarf für eine weitere Vorstellung, da ihr mich kennt. Ich möchte …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

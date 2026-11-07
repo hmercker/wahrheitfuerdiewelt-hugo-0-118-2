@@ -1,7 +1,7 @@
 ---
 title: "Die politische Lage im Jahr 26 n. Chr. - Lucius Aelius Sejanus"
 menu_title: ""
-description: "Die politische Lage im Jahr 26 n. Chr. - Lucius Aelius Sejanus"
+description: "Judas, empfangen durch H.: „Während Tiberius' Herrschaft geschah etwas Einzigartiges: Zwei Personen besetzten gemeinsam während eines Jahres den Posten des …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

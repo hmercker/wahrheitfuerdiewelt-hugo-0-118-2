@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung von Padgett's Mutter"
 menu_title: ""
-description: "Ermutigung von Padgett's Mutter"
+description: "Padgett’s Mutter- empfangen durch James Padgett: „Oh mein lieber Sohn: Der Herr hat dir den Weg zur Erlösung aufgezeigt. Deutscher Orginaltext von …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 16 - Die wichtigste Entscheidung eures Lebens"
 menu_title: ""
-description: "Lektion 16 - Die wichtigste Entscheidung eures Lebens"
+description: "Jesus, empfangen durch Al Fike: „Möge die Göttliche Liebe unseres himmlischen Vaters weiterhin eure Seelen durchdringen und alles erwecken, was in euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

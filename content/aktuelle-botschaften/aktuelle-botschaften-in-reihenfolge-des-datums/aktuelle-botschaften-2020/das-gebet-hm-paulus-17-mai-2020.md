@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet"
 menu_title: ""
-description: "Das Gebet"
+description: "Paulus, empfangen durch Helge Mercker: „Ja, es ist Paulus und ich möchte schreiben. In den Segnungen der Liebe des Vaters, der Göttlichen Liebe, wird viel …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

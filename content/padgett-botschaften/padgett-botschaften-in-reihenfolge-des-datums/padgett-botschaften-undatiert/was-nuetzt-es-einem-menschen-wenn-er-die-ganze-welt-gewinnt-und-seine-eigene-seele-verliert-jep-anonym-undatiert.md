@@ -1,7 +1,7 @@
 ---
 title: "Was nützt es einem Menschen, wenn er die ganze Welt gewinnt und seine eigene Seele verliert?"
 menu_title: ""
-description: "Was nützt es einem Menschen, wenn er die ganze Welt gewinnt und seine eigene Seele verliert?"
+description: "Anonym, empfangen durch James Padgett: „Lass mich dir heute Abend schreiben, denn ich finde, dass du in der Lage bist, meine Botschaft zu empfangen und …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

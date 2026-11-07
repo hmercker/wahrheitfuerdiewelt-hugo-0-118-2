@@ -1,7 +1,7 @@
 ---
 title: "Nur die Seele kann Gottes Liebe erkennen"
 menu_title: ""
-description: "Nur die Seele kann Gottes Liebe erkennen"
+description: "Matthäus, empfangen durch Al Fike: „Möge die Gnade Gottes, die Seine Liebe ist, euch in euren Seelen einhüllen und segnen, Geliebte.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

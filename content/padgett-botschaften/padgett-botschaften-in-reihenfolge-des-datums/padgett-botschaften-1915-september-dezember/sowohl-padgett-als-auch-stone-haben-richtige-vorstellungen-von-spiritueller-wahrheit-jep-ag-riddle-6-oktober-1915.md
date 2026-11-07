@@ -1,7 +1,7 @@
 ---
 title: "Sowohl Padgett als auch Stone haben richtige Vorstellungen von spiritueller Wahrheit"
 menu_title: ""
-description: "Sowohl Padgett als auch Stone haben richtige Vorstellungen von spiritueller Wahrheit"
+description: "A.G. Riddle, empfangen durch James Padgett: „Ich habe heute Abend dem Gespräch zwischen dir und deinem Freund (Dr. Stone) zugehört und ich muss sagen, dass …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

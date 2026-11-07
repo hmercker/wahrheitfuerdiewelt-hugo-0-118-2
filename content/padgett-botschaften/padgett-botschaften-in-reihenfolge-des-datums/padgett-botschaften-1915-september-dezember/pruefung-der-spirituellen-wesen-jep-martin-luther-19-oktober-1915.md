@@ -1,7 +1,7 @@
 ---
 title: "Prüfung der spirituellen Wesen"
 menu_title: ""
-description: "Prüfung der spirituellen Wesen"
+description: "Martin Luther, empfangen durch James Padgett: „Die Sühne des Blutes ist falsch und irreführend, und hat viel Schaden den Wahrheiten Gottes und der …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

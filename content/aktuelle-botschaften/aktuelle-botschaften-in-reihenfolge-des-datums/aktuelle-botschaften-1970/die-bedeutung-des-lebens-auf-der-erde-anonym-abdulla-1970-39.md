@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung des Lebens auf der Erde"
 menu_title: ""
-description: "Die Bedeutung des Lebens auf der Erde"
+description: "Abdulla: „Es ist wunderbar, heute Abend bei euch zu sein und ich weiß, dass einige von euch müde werden, aber ich möchte kurz zu euch sprechen.“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

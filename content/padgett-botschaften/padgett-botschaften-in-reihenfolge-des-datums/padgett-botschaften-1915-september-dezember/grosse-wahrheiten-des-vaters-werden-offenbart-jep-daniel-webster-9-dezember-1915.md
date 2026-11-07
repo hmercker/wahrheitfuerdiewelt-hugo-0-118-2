@@ -1,7 +1,7 @@
 ---
 title: "Große Wahrheiten des Vaters werden offenbart"
 menu_title: ""
-description: "Große Wahrheiten des Vaters werden offenbart"
+description: "Daniel Webster, empfangen durch James Padgett: „Gestatte mir, ein Wort zu sagen, während du schreibst, denn mich interessiert auch dein großes Werk und die …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

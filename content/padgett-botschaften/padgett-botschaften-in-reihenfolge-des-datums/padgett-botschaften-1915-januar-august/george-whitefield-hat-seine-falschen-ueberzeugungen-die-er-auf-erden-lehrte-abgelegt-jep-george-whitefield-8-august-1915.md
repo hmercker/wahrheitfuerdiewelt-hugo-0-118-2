@@ -1,7 +1,7 @@
 ---
 title: "Georg Whitefield hat seine falschen Überzeugungen, die er auf Erden lehrte, abgelegt"
 menu_title: ""
-description: "Georg Whitefield hat seine falschen Überzeugungen, die er auf Erden lehrte, abgelegt"
+description: "Geord Whitefield, empfangen durch James Padgett: „Ich war ein Prediger Englands und ein Zeitgenosse von John Wesley. Ich will bloß sagen, dass ich immer …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

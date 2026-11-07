@@ -1,7 +1,7 @@
 ---
 title: "Dr. Stone's Seelenpartner, Mary Kennedy, beschreibt ihre Liebe und ihr Glück"
 menu_title: ""
-description: "Dr. Stone's Seelenpartner, Mary Kennedy, beschreibt ihre Liebe und ihr Glück"
+description: "Mary Kennedy, empfangen durch James Padgett: „Mary Kennedy, die Seelenpartnerin von Dr. Stone schreibt durch Helen:“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

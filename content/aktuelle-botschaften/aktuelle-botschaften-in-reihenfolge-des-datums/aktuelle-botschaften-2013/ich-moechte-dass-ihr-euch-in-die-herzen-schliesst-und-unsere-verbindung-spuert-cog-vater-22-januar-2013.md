@@ -1,7 +1,7 @@
 ---
 title: "Ich möchte, dass ihr euch in die Herzen schließt und unsere Verbindung spürt"
 menu_title: ""
-description: "Ich möchte, dass ihr euch in die Herzen schließt und unsere Verbindung spürt"
+description: "Vater, empfangen durch Child of God: „Du kannst nicht mit der Menschenmenge gehen. Meine Führung ist für alle verfügbar.“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

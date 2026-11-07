@@ -1,7 +1,7 @@
 ---
 title: "Seid ganz bei Gott in euren Gebeten"
 menu_title: ""
-description: "Seid ganz bei Gott in euren Gebeten"
+description: "Augustinus, empfangen durch Al Fike: „Unser Meister hat euch einen kraftvollen Segen gegeben. Er bringt seine Liebe, um euch auf eurer Reise und in euren …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was ist Glaube?"
 menu_title: ""
-description: "Was ist Glaube?"
+description: "Maria, empfangen durch Amada Reza: „Du musst wissen, dass du immer willkommen bist, eine spirituelle Frage zu stellen, und die Frage, die unser lieber …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

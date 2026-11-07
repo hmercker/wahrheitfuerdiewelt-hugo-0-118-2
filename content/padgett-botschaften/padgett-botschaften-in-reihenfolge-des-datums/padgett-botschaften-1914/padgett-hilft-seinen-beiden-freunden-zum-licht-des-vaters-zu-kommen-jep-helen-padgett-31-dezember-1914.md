@@ -1,7 +1,7 @@
 ---
 title: "Padgett hilft seinen beiden Freunden zum Licht des Vaters zu kommen"
 menu_title: ""
-description: "Padgett hilft seinen beiden Freunden zum Licht des Vaters zu kommen"
+description: "Helen, empfangen durch James Padgett: „Ja und du weißt, dass ich dich liebe. Sie sind ganz gewiss davon beeindruckt, was du gesagt hast und ich glaube …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

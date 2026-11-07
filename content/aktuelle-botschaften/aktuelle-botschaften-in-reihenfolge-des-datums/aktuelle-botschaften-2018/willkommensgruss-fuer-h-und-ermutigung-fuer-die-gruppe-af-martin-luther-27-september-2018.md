@@ -1,7 +1,7 @@
 ---
 title: "Willkommensgruß für H. und Ermutigung für die Gruppe"
 menu_title: ""
-description: "Willkommensgruß für H. und Ermutigung für die Gruppe"
+description: "Martin Luther, empfangen durch Al Fike: „Ich war sehr, sehr oft bei deinen Reisen, deinen Prüfungen und Mühen, den Anstrengungen, die du für deine Brüder …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Herzlichen Glückwunsch zu euren Bemühungen"
 menu_title: ""
-description: "Herzlichen Glückwunsch zu euren Bemühungen"
+description: "Professor Salyards, empfangen durch Al Fike: „Die Welt ist ein komplexer Ort, nicht wahr, meine Freunde? Ihr alle habt erkannt, dass jetzt wichtige und …“"
 date: 2022-05-28 06:00:00+00:10
 draft: False
 hidden: True

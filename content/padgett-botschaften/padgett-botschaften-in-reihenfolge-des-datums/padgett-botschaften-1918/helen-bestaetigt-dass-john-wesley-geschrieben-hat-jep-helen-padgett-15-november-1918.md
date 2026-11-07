@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass John Wesley geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass John Wesley geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend hart gearbeitet und hattest eine lange Botschaft von Wesley, und so will ich …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

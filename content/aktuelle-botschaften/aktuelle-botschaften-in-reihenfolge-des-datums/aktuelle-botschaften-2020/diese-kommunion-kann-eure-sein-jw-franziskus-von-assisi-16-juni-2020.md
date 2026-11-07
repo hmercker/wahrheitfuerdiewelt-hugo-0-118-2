@@ -1,7 +1,7 @@
 ---
 title: "Diese Kommunion kann eure sein"
 menu_title: ""
-description: "Diese Kommunion kann eure sein"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich habe schon oft erklärt, dass ich von einem weltlichen Leben zu einem sehr einfachen Leben …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

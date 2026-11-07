@@ -1,7 +1,7 @@
 ---
 title: "Was wird für Harmonie benötigt?"
 menu_title: ""
-description: "Was wird für Harmonie benötigt?"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Meine lieben Freunde auf diesem Pfad der Göttlichen Liebe. Ihr, die ihr euch zu den kreativen Künsten im …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

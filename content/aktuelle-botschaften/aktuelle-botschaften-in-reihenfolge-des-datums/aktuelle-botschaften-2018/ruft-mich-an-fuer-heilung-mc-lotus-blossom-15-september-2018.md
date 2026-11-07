@@ -1,7 +1,7 @@
 ---
 title: "Ruft mich an für Heilung"
 menu_title: ""
-description: "Ruft mich an für Heilung"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Ich biete euch an, mich einzuladen, in eurer Nähe zu sein, um zu heilen, denn es ist nicht einfach, in …“"
 date: 2020-08-01 06:25:48+00:249
 draft: False
 hidden: True

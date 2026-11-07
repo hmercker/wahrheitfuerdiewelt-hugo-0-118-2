@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit wird von eurer Seele zu eurem Verstand fließen"
 menu_title: ""
-description: "Die Wahrheit wird von eurer Seele zu eurem Verstand fließen"
+description: "Seretta Kem, empfangen durch Al Fike: „Wenn wir zu euch sprechen, wenn wir euch lehren, dann sprechen wir nicht in erster Linie zu eurem Verstand, sondern …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

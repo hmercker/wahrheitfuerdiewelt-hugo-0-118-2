@@ -1,7 +1,7 @@
 ---
 title: "Anweisungen für die Direkte Stimme"
 menu_title: ""
-description: "Anweisungen für die Direkte Stimme"
+description: "Gandhi: „Das jeder von euch die Zeit aufwendet, die nötig ist, um sich die Mühe zu machen, dass dies erreicht werden kann.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

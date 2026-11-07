@@ -1,7 +1,7 @@
 ---
 title: "Es liegen große Veränderungen vor euch"
 menu_title: ""
-description: "Es liegen große Veränderungen vor euch"
+description: "Vater, empfangen durch Child of God: „Liebe Kinder, es kommen große Veränderungen auf euch zu. Die Veränderungen, die ihr erlebt und in naher Zukunft noch …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

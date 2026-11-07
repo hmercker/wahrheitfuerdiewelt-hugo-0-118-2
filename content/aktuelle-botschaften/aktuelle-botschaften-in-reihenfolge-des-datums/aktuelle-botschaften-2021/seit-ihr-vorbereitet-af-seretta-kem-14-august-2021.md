@@ -1,7 +1,7 @@
 ---
 title: "Seit ihr vorbereitet?"
 menu_title: ""
-description: "Seit ihr vorbereitet?"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge sich der Weg für jeden von euch öffnen, um die Gnade Gottes in jedem Moment eures Lebens zu finden.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

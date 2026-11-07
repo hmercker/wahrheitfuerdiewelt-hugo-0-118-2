@@ -1,7 +1,7 @@
 ---
 title: "Gott wird viele Werkzeuge benutzen, um Seelen zu erwecken"
 menu_title: ""
-description: "Gott wird viele Werkzeuge benutzen, um Seelen zu erwecken"
+description: "Augustinus, empfangen durch Al Fike: „Euer Lehrer Augustinus hier. Danke, liebe geliebte Tochter, für eure Bemühungen im Gesang und Gebet und darin, Licht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

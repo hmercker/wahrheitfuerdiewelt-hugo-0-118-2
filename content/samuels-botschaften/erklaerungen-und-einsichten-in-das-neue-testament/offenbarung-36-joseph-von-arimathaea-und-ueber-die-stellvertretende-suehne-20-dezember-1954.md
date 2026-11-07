@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 36 : Josef von Arimathäa und über die stellvertretende Sühne"
 menu_title: ""
-description: "Offenbarung 36 : Josef von Arimathäa und über die stellvertretende Sühne"
+description: "Jesus, empfangen durch Dr Samuels: „Ich freue mich, dass es dir möglich war, mich spirituell wahrzunehmen, als ich dein Zimmer betreten habe.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

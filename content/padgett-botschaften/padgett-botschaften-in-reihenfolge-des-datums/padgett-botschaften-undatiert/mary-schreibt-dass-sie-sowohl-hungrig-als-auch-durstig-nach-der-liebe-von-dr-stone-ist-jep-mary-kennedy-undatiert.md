@@ -1,7 +1,7 @@
 ---
 title: "Mary schreibt, dass sie sowohl hungrig als auch durstig nach der Liebe von Dr Stone ist"
 menu_title: ""
-description: "Mary schreibt, dass sie sowohl hungrig als auch durstig nach der Liebe von Dr Stone ist"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen, und ich werde zufrieden sein, denn ich sehne mich so sehr danach, Leslie zu …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

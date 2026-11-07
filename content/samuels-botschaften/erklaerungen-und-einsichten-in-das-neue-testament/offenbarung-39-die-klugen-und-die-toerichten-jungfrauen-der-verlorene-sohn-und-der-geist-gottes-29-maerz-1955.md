@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 39 : Die klugen und die törichten Jungfrauen, der verlorene Sohn und der Geist Gottes"
 menu_title: ""
-description: "Offenbarung 39 : Die klugen und die törichten Jungfrauen, der verlorene Sohn und der Geist Gottes"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute werde ich dir wieder über das Neue Testament schreiben und einige Fehler berichtigen, die sich in diesen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

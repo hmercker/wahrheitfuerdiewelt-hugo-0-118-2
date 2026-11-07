@@ -1,7 +1,7 @@
 ---
 title: "Wählt den geraden Weg"
 menu_title: ""
-description: "Wählt den geraden Weg"
+description: "Matthäus, empfangen durch Al Fike: „Ich glaube, dass ihr die Bedingungen dieser Dunkelheit in der Welt spürt. Ihr seid euch dessen bewusst und ihr lebt in ihr.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Forrest schreibt, dass er Fortschritte macht und in der Lage ist, das Licht und etwas Glück zu sehen"
 menu_title: ""
-description: "Forrest schreibt, dass er Fortschritte macht und in der Lage ist, das Licht und etwas Glück zu sehen"
+description: "Forrest, empfangen durch James Padgett: „Deine Frau sagt mir, dass meine Hoffnung der Verwirklichung gewiss ist, wenn ich nur weiter bete und meine Seele …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

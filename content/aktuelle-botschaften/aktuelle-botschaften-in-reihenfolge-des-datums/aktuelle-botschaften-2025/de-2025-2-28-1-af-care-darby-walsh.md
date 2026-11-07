@@ -1,7 +1,7 @@
 ---
 title: "Führung dafür, sich als Werkzeuge im Dienst Gottes einzusetzen"
 menu_title: ""
-description: "Führung dafür, sich als Werkzeuge im Dienst Gottes einzusetzen"
+description: "Care Darby Walsh, empfangen durch Al Fike: „Möge die Liebe des Vaters euch weiterhin segnen, schöne Seelen Gottes. Obwohl ich normalerweise durch meinen …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

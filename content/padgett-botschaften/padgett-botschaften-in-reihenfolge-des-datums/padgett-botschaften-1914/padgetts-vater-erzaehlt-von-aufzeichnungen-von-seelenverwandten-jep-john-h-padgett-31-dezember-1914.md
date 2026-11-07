@@ -1,7 +1,7 @@
 ---
 title: "Padgett's Vater erzählt von Aufzeichnungen von Seelenverwandten"
 menu_title: ""
-description: "Padgett's Vater erzählt von Aufzeichnungen von Seelenverwandten"
+description: "Padgett’s Vater, empfangen durch James Padgett: „Ja, aufgrund von der Erfahrung welche du neulich nachts gemacht hast, weil du Helen geliebt hast und sie …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

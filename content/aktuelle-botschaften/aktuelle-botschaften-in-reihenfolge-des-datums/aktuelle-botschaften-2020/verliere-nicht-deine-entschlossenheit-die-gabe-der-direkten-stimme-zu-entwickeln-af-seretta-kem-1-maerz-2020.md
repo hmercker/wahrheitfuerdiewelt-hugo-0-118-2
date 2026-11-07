@@ -1,7 +1,7 @@
 ---
 title: "Verliere nicht deine Entschlossenheit, die Gabe der Direkten Stimme zu entwickeln"
 menu_title: ""
-description: "Verliere nicht deine Entschlossenheit, die Gabe der Direkten Stimme zu entwickeln"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich freue mich, dass ihr euch weiterhin versammelt, um die Möglichkeit zu unterstützen und zu fördern, dass dieses …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

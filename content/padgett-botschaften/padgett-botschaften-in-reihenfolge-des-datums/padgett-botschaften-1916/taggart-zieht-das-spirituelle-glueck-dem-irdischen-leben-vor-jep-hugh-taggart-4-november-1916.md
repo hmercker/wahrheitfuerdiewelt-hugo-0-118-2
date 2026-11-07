@@ -1,7 +1,7 @@
 ---
 title: "Taggart zieht das spirituelle Glück dem irdischen Leben vor"
 menu_title: ""
-description: "Taggart zieht das spirituelle Glück dem irdischen Leben vor"
+description: "Hugh Taggart, empfangen durch James Padgett: „Nun, alter Freund, wie geht es dir? Aber ich weiß, dass das, was dir heute Abend geschrieben wurde, wahr ist …“"
 date: 2020-08-01 06:25:48+00:257
 draft: False
 hidden: True

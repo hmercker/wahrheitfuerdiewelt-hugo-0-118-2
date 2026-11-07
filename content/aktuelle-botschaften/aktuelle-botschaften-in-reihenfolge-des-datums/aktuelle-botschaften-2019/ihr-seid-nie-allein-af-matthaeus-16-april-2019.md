@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid nie allein"
 menu_title: ""
-description: "Ihr seid nie allein"
+description: "Matthäus, empfangen durch Al Fike: „Möge die Liebe über euch sein, geliebte und schöne Seelen, Brüder und Schwestern, alle in der Liebe des Vaters.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

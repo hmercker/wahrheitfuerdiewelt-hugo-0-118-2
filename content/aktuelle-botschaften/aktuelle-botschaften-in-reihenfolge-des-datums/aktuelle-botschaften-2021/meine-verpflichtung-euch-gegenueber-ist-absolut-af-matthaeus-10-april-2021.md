@@ -1,7 +1,7 @@
 ---
 title: "Meine Verpflichtung euch gegenüber ist absolut"
 menu_title: ""
-description: "Meine Verpflichtung euch gegenüber ist absolut"
+description: "Matthäus, empfangen durch Al Fike: „Möge Gott Seine Kinder weiterhin unterstützen, wie Er es seit Jahrtausenden getan hat. Er hat Seine Kinder des Lichts …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

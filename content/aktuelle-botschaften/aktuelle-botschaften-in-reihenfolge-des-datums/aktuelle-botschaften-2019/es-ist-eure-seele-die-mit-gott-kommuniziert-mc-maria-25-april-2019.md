@@ -1,7 +1,7 @@
 ---
 title: "Es ist eure Seele, die mit Gott kommuniziert"
 menu_title: ""
-description: "Es ist eure Seele, die mit Gott kommuniziert"
+description: "Maria, empfangen durch Maureen Cardoso: „Ich heiße jedes von euch schönen und kostbaren Kindern in diesem Kreis willkommen, diesem Kreis des Lichts, wo der …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

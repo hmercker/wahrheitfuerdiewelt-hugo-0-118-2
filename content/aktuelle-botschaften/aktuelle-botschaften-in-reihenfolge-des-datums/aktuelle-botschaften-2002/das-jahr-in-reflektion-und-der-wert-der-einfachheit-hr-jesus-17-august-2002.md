@@ -1,7 +1,7 @@
 ---
 title: "Das Jahr in Reflektion und der Wert der Einfachheit"
 menu_title: ""
-description: "Das Jahr in Reflektion und der Wert der Einfachheit"
+description: "Judas, empfangen durch H: „Ein Jahr ist vergangen, seit ich dir zum ersten Mal geschrieben habe. Ein Jahr - ein guter Teil im physischen Leben des …“"
 date: 2020-08-01 06:25:48+00:243
 draft: False
 hidden: True

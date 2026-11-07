@@ -1,7 +1,7 @@
 ---
 title: "Erziehung von Kindern"
 menu_title: ""
-description: "Erziehung von Kindern"
+description: "Johannes, empfangen durch Amada Reza: „Ich freue mich über diese Gelegenheit, zu euch zu kommen und über das Thema zu schreiben, wie die neu inkarnierte …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

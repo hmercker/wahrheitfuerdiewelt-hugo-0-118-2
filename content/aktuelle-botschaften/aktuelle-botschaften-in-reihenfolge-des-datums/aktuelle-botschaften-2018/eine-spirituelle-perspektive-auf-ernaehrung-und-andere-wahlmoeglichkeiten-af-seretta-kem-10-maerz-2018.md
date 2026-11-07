@@ -1,7 +1,7 @@
 ---
 title: "Eine spirituelle Perspektive auf Ernährung und andere Wahlmöglichkeiten"
 menu_title: ""
-description: "Eine spirituelle Perspektive auf Ernährung und andere Wahlmöglichkeiten"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt einige Diskussionen über die Ernährung geführt, und ich möchte mich dieser Diskussion anschließen, um …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

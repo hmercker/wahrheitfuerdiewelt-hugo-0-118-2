@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung von Verlangen und Absicht beim Empfangen von Gottes Liebe und Wahrheit"
 menu_title: ""
-description: "Die Bedeutung von Verlangen und Absicht beim Empfangen von Gottes Liebe und Wahrheit"
+description: "Die Bedeutung von Verlangen und Absicht beim Empfangen von Gottes Liebe und Wahrheit: „Matthäus - empfangen durch Al Fike am 24. Oktober 2019, Gibsons, BC …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

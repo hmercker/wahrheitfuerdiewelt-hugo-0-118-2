@@ -1,7 +1,7 @@
 ---
 title: "Sarah ist jetzt eine Christin"
 menu_title: ""
-description: "Sarah ist jetzt eine Christin"
+description: "Sarah, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich jetzt ein Christ bin und in den himmlischen Sphären lebe. Ja, aber es gibt viele …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

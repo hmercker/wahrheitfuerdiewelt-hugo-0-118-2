@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit, Wissen und Liebe. Wie man das Problem löst, was wahr ist und was nicht"
 menu_title: ""
-description: "Wahrheit, Wissen und Liebe. Wie man das Problem löst, was wahr ist und was nicht"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend ein wenig über ein Thema schreiben, das dich und andere, die vielleicht meine Botschaft …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

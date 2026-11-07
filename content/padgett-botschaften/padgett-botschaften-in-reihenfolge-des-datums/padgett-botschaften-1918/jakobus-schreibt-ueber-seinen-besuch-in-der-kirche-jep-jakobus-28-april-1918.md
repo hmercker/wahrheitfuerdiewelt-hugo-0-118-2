@@ -1,7 +1,7 @@
 ---
 title: "Jakobus schreibt über seinen Besuch in der Kirche"
 menu_title: ""
-description: "Jakobus schreibt über seinen Besuch in der Kirche"
+description: "Jakobus, empfangen durch James Padgett: „Ich habe das Gefühl, dass der Prediger seine Gelegenheit, seinen Zuhörern spirituelle Nahrung zu geben, die sie …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

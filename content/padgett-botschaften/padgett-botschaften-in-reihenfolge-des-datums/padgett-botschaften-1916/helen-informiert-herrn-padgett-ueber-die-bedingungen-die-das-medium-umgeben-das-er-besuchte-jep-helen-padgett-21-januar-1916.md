@@ -1,7 +1,7 @@
 ---
 title: "Helen informiert Herrn Padgett über die Bedingungen die das Medium umgeben, das er besuchte"
 menu_title: ""
-description: "Helen informiert Herrn Padgett über die Bedingungen die das Medium umgeben, das er besuchte"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, wir waren heute Abend etwas enttäuscht, dass wir nicht die Gelegenheit hatten, wie vereinbart, zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

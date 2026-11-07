@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid unbezahlbare Juwelen"
 menu_title: ""
-description: "Ihr seid unbezahlbare Juwelen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr fahrt fort, euren Stoffwechsel durch eure Diäten anzupassen. Das ist gut, geliebte Seelen, das ist gut.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

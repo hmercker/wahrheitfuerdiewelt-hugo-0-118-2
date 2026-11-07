@@ -1,7 +1,7 @@
 ---
 title: "Hut ab vor euch allen"
 menu_title: ""
-description: "Hut ab vor euch allen"
+description: "Professor Salyards, empfangen durch Al Fike: „Wenn ihr auf den Beginn eurer Reise zurückblickt, seht ihr dann nicht, wie weit ihr gekommen seid?“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

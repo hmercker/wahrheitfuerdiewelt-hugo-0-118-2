@@ -1,7 +1,7 @@
 ---
 title: "Lektion 3 - Lasst nicht zu, dass die Angst euren Glauben überwältigt - Band 3"
 menu_title: ""
-description: "Lektion 3 - Lasst nicht zu, dass die Angst euren Glauben überwältigt - Band 3"
+description: "Jesus, empfangen durch Al Fike: „In eurer Welt gibt es einen großen Hunger nach Liebe. Die Menschheit schreit danach.“"
 date: 2022-07-03 06:00:00+00:10
 draft: False
 hidden: True

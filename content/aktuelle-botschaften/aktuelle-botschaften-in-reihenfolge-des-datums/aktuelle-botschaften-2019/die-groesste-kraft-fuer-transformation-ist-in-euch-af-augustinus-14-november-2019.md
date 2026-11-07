@@ -1,7 +1,7 @@
 ---
 title: "Die größte Kraft für Transformation ist in euch"
 menu_title: ""
-description: "Die größte Kraft für Transformation ist in euch"
+description: "Augustinus, empfangen durch Al Fike: „Während wir auf eure Ebene, diese Erdebene, kommen, ist das, was vor uns liegt, großes Leid, große Dilemmas und alle …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

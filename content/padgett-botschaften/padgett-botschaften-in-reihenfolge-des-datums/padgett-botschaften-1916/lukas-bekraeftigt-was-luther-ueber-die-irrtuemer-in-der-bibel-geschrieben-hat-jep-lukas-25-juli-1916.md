@@ -1,7 +1,7 @@
 ---
 title: "Lukas bekräftigt, was Luther über die Irrtümer in der Bibel geschrieben hat"
 menu_title: ""
-description: "Lukas bekräftigt, was Luther über die Irrtümer in der Bibel geschrieben hat"
+description: "Lukas, empfangen durch James Padgett: „Du darfst glauben, was gesagt wird, und deine Verwirklichung wird nicht lange aufgeschoben werden.“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

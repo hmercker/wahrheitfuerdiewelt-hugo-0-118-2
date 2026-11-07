@@ -1,7 +1,7 @@
 ---
 title: "Klarstellung über die himmlische Existenz Jesu"
 menu_title: ""
-description: "Klarstellung über die himmlische Existenz Jesu"
+description: "Jesus, empfangen durch Al Fike: „Ich sage euch, meine Freunde, ich wohne im Göttlichen Reich und an keinem anderen Ort als in meiner eigenen gesegneten …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

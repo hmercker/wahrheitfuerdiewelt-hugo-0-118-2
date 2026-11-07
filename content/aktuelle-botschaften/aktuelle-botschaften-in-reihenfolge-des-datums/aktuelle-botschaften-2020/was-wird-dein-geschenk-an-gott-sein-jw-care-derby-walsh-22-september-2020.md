@@ -1,7 +1,7 @@
 ---
 title: "Was wird dein Geschenk an Gott sein?"
 menu_title: ""
-description: "Was wird dein Geschenk an Gott sein?"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „In der materiellen Welt ist es oft herausfordernd, euren Willen zu aktivieren und ihn eins mit Gott sein …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

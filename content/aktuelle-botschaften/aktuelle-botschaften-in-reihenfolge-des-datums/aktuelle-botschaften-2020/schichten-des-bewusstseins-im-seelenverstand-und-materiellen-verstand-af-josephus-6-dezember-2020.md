@@ -1,7 +1,7 @@
 ---
 title: "Schichten des Bewusstseins im seelischen Verstand und materiellen Verstand"
 menu_title: ""
-description: "Schichten des Bewusstseins im seelischen Verstand und materiellen Verstand"
+description: "Josephus, empfangen durch Al Fike: „Ja, es ist Josephus und in der Tat war ich in alten Zeiten ein Philosoph der jüdischen Tradition.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

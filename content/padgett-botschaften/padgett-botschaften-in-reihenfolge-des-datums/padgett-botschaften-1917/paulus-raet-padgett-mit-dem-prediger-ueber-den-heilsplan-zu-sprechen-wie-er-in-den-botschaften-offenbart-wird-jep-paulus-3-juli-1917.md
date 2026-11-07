@@ -1,7 +1,7 @@
 ---
 title: "Paulus rät Padgett, mit dem Prediger über den Heilsplan zu sprechen, wie er in den Botschaften offenbart wird"
 menu_title: ""
-description: "Paulus rät Padgett, mit dem Prediger über den Heilsplan zu sprechen, wie er in den Botschaften offenbart wird"
+description: "Paulus, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, denn ich möchte ein Wort über den Zustand des Mannes sagen, mit dem du vor …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, dass Baby, ihre Tochter, bei ihr ist und ihm ihre Liebe schickt"
 menu_title: ""
-description: "Helen sagt, dass Baby, ihre Tochter, bei ihr ist und ihm ihre Liebe schickt"
+description: "Helen, empfangen durch James Padgett: „Ich war heute viel bei dir und habe gesehen, wie du dich gefühlt hast und wie weit wir alle von dir entfernt zu sein …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid Brüder und Schwestern in Liebe"
 menu_title: ""
-description: "Seid Brüder und Schwestern in Liebe"
+description: "Maria, empfangen durch Al Fike: „Denn wer von euch kann alleine gehen? Es gibt ein tiefes Bedürfnis füreinander, ein tiefes Bedürfnis, in die Augen der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

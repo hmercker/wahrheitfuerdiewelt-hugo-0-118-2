@@ -1,7 +1,7 @@
 ---
 title: "Stimmt euch auf eure seelischen Wünsche ein"
 menu_title: ""
-description: "Stimmt euch auf eure seelischen Wünsche ein"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr seid wirklich sehr komplexe Wesen. Wir alle sind komplex in unserer Beschaffenheit, emotional, physisch, mit …“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

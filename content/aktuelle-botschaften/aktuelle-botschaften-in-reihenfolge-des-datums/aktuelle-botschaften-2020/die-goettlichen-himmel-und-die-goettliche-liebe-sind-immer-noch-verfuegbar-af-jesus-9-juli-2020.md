@@ -1,7 +1,7 @@
 ---
 title: "Die Göttlichen Himmel und die Göttliche Liebe sind immer noch verfügbar"
 menu_title: ""
-description: "Die Göttlichen Himmel und die Göttliche Liebe sind immer noch verfügbar"
+description: "Jesus, empfangen durch Al Fike: „In der Tat bleibt das Himmlische Königreich für alle Seelen offen, die fleißig beten, um das Geschenk der Liebe des Vaters …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

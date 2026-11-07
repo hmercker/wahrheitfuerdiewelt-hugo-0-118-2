@@ -1,7 +1,7 @@
 ---
 title: "Der vor uns liegende Weg"
 menu_title: ""
-description: "Der vor uns liegende Weg"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, lasst euch nicht beunruhigen. Mir ist aufgefallen, dass es in eurer Gemeinschaft eine Fülle …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

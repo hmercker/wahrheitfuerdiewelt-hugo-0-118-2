@@ -1,7 +1,7 @@
 ---
 title: "Über die Bedeutung der Neuen Geburt"
 menu_title: ""
-description: "Über die Bedeutung der Neuen Geburt"
+description: "Nikodemus, empfangen durch James Padgett: „Ein Meister in Israel, und doch habe ich diese Neue Geburt nicht verstanden! Wie wenige haben sie damals …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Botschaft an die Padgett-Studiengruppe "
 menu_title: ""
-description: "Botschaft an die Padgett-Studiengruppe "
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Unser lieber Bruder James Padgett hat mir erlaubt, heute vorzutreten. Ich möchte zu Beginn sagen, dass ich mir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

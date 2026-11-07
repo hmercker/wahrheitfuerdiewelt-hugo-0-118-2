@@ -1,7 +1,7 @@
 ---
 title: "Orion ist unserer individuellen und kollektiven Arbeit gewidmet"
 menu_title: ""
-description: "Orion ist unserer individuellen und kollektiven Arbeit gewidmet"
+description: "Orion, empfangen durch Al Fike: „Manchmal frage ich mich, wo mein Zuhause ist. Ist es auf dem Planeten, den ich bewohne, oder ist es hier auf der Erdebene …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

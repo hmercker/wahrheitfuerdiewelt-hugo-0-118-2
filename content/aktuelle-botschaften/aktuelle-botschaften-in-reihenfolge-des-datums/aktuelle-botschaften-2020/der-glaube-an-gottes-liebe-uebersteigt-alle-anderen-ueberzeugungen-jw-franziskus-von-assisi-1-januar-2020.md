@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube an Gottes Liebe übersteigt alle anderen Überzeugungen"
 menu_title: ""
-description: "Der Glaube an Gottes Liebe übersteigt alle anderen Überzeugungen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Es ist ein neues Jahr für euch alle, und während ihr es im Gebet begrüßt, schließen wir uns euch an.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

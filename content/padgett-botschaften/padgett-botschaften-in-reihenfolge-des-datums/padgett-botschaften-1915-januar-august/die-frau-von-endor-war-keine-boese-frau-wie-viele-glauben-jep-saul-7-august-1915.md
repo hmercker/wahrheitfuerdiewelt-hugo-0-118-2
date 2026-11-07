@@ -1,7 +1,7 @@
 ---
 title: "Die Frau von Endor war keine böse Frau, wie viele glauben"
 menu_title: ""
-description: "Die Frau von Endor war keine böse Frau, wie viele glauben"
+description: "Saul, empfangen durch James Padgett: „Saul des Alten Testaments. Ich war damals ein böser Mann und kannte nicht die Liebe Gottes und sehr wenig von meinen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

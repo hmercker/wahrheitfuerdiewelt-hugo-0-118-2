@@ -1,7 +1,7 @@
 ---
 title: "Das Leben endet nicht mit dem Tod"
 menu_title: ""
-description: "Das Leben endet nicht mit dem Tod"
+description: "Johannes, empfangen durch James Padgett: „Aber als schließlich alles gesagt worden war, so stellte es sich als bloße Hoffnung und Glaube heraus - das …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

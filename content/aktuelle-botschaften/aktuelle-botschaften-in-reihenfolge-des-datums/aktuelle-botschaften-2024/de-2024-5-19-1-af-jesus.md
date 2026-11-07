@@ -1,7 +1,7 @@
 ---
 title: "Pfingstgebet und Segen"
 menu_title: ""
-description: "Pfingstgebet und Segen"
+description: "Jesus, empfangen durch Al Fike: „Schöpfer von allem, ich bitte dich, berühre jede einzelne Seele, die hier ist, tief. All die sehnsüchtigen Seelen der Welt …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Stellt sich als Sonjas Schutzengel an ihrem Geburtstag vor"
 menu_title: ""
-description: "Stellt sich als Sonjas Schutzengel an ihrem Geburtstag vor"
+description: "Isabel [^1], empfangen durch Al Fike: „Ich führe dich und ich liebe dich. Ich war dein ganzes Leben lang bei dir.“"
 date: 2025-01-17 06:00:00+00:10
 draft: False
 hidden: True

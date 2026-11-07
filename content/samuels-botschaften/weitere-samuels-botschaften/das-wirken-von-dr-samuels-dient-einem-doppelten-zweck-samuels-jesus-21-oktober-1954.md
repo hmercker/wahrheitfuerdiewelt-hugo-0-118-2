@@ -1,7 +1,7 @@
 ---
 title: "Das Wirken von Dr. Samuels dient einem doppelten Zweck"
 menu_title: ""
-description: "Das Wirken von Dr. Samuels dient einem doppelten Zweck"
+description: "Jesus, empfangen von Dr Samuels: „Ich weiß, dass mein Wiederkommen für dich eine Überraschung ist, denn du hattest keine Ahnung, dass ich wiederkommen würde.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

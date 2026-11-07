@@ -1,7 +1,7 @@
 ---
 title: "Heute ist der Tag, an dem ihr Gott dient"
 menu_title: ""
-description: "Heute ist der Tag, an dem ihr Gott dient"
+description: "Samuel- empfangen durch Al Fike: „Wenn ihr bei Gott seid, lasst nicht zu, dass irgendetwas von der materiellen Natur und von eurem Verstand diese …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

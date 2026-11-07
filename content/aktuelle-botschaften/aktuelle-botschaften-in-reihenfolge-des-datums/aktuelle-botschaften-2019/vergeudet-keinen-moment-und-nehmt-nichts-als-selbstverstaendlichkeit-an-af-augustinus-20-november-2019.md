@@ -1,7 +1,7 @@
 ---
 title: "Vergeudet keinen Moment und nehmt nichts als Selbstverständlichkeit an"
 menu_title: ""
-description: "Vergeudet keinen Moment und nehmt nichts als Selbstverständlichkeit an"
+description: "Augustinus, empfangen durch Al Fike: „Es ist wichtig, in dieser Zeit im Licht zu wandeln, auf Gott eingestimmt zu sein, weiterhin für das Einströmen von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

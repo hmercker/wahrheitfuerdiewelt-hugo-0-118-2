@@ -1,7 +1,7 @@
 ---
 title: "Die vierte Sphäre"
 menu_title: ""
-description: "Die vierte Sphäre"
+description: "Judas, empfangen durch H.: „Tränen, ja, es wird viel Weinen geben wegen der Geschehnisse, die sich bald ereignen werden.“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

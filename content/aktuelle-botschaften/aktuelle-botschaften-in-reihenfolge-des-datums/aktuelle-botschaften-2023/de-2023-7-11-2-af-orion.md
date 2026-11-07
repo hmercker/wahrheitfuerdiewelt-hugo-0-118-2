@@ -1,7 +1,7 @@
 ---
 title: "Mit Gottes Liebe werden eure Seelen an Weisheit, Stärke und höherem Bewusstsein wachsen"
 menu_title: ""
-description: "Mit Gottes Liebe werden eure Seelen an Weisheit, Stärke und höherem Bewusstsein wachsen"
+description: "Orion, empfangen durch Al Fike: „Spürt den Frieden der Gegenwart Gottes, meine Freunde. Möge dieser Friede immer mit euch sein.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

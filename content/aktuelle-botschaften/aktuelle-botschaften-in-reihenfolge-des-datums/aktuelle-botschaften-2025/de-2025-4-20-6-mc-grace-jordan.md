@@ -1,7 +1,7 @@
 ---
 title: "Seid mutig in Bezug auf eure Herausforderungen"
 menu_title: ""
-description: "Seid mutig in Bezug auf eure Herausforderungen"
+description: "Grace Jordan, empfangen durch Maureen Cardoso: „Es ist mir eine große Freude, von der anderen Seite des Schleiers zu euch zu kommen, mit euch zu beten und …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

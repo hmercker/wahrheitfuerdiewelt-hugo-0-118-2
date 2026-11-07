@@ -1,7 +1,7 @@
 ---
 title: "Eine Segnung"
 menu_title: ""
-description: "Eine Segnung"
+description: "Konfuzius, empfangen durch Al Fike: „Ja, das Licht wird hell unter euch geliebten Seelen, sehr hell sogar. So wie ihr Gott eure Gebete und Bemühungen …“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

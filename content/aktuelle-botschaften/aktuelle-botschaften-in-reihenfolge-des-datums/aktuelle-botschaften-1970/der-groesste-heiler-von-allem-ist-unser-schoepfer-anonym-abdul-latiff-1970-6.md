@@ -1,7 +1,7 @@
 ---
 title: "Der größte Heiler von allem ist unser Schöpfer"
 menu_title: ""
-description: "Der größte Heiler von allem ist unser Schöpfer"
+description: "Abdul Latiff: „Es ist einige Zeit her, dass ich zu euch gesprochen habe, und heute Abend, als euer Gebet um Heilung erklang, spürte ich, dass viele von …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

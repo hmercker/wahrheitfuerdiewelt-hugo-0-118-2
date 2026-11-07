@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2021"
 menu_title: "Aktuelle Botschaften 2021"
-description: "Aktuelle Botschaften vom Jahre 2021"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Franziskus von Assisi | Wählt das, was wirklich wichtig ist | 1 Januar 2021 Matthäus | Wie …“"
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: True

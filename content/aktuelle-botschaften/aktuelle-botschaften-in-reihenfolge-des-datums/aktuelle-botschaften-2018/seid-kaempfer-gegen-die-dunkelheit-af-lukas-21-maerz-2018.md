@@ -1,7 +1,7 @@
 ---
 title: "Seid Kämpfer gegen die Dunkelheit"
 menu_title: ""
-description: "Seid Kämpfer gegen die Dunkelheit"
+description: "Lukas, empfangen durch Al Fike: „Ihr bleibt wachsam gegenüber den dunklen Kräften in dieser Welt, und ihr müsst wachsam bleiben, denn es gibt viele Kräfte …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

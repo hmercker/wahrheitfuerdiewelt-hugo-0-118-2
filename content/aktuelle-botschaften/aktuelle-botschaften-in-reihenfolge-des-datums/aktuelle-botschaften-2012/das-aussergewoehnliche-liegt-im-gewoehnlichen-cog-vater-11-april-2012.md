@@ -1,7 +1,7 @@
 ---
 title: "Das Außergewöhnliche liegt im Gewöhnlichen"
 menu_title: ""
-description: "Das Außergewöhnliche liegt im Gewöhnlichen"
+description: "Vater, empfangen durch Child of God: „Kind Gottes, du kannst nicht glauben, was du hörst, obwohl du fühlst, dass es wahr ist. Du musst aufhören, mit deinem …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

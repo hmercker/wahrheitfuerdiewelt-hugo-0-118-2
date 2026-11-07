@@ -1,7 +1,7 @@
 ---
 title: "Lebensherausforderungen stärken die Seele und schaffen kraftvollere Kanäle der Liebe"
 menu_title: ""
-description: "Lebensherausforderungen stärken die Seele und schaffen kraftvollere Kanäle der Liebe"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Mögen eure Reisen auch weiterhin ein tiefes Erwachen der Seele mit sich bringen, damit ihr Gott auf eine Art und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

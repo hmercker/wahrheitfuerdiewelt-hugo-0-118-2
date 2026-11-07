@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Gebete multipliziert"
 menu_title: ""
-description: "Die Macht der Gebete multipliziert"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, viele Heiler, engelhafte Heiler, sind mit euch und viele Gebetskreise, die sich durch die Sphären des …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

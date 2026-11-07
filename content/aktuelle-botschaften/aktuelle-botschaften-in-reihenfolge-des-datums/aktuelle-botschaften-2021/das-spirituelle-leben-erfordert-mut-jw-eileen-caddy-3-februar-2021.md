@@ -1,7 +1,7 @@
 ---
 title: "Das spirituelle Leben erfordert Mut"
 menu_title: ""
-description: "Das spirituelle Leben erfordert Mut"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ihr habt viel über mein Leben auf der Erde und die Kämpfe, mit denen ich konfrontiert war, herausgefunden und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

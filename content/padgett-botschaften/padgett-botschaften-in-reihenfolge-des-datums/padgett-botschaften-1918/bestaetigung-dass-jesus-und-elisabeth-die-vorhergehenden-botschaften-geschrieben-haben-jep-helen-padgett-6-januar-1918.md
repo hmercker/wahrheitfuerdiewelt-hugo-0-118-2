@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung, dass Jesus und Elisabeth die vorhergehenden Botschaften geschrieben haben"
 menu_title: ""
-description: "Bestätigung, dass Jesus und Elisabeth die vorhergehenden Botschaften geschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Du bist dem Vater näher als je zuvor, und Seine Liebe ist jetzt mehr als je zuvor in dein Herz ausgegossen; und der …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Befreiung von Seelenwunden ist eine Wahl des freien Willens"
 menu_title: ""
-description: "Die Befreiung von Seelenwunden ist eine Wahl des freien Willens"
+description: "Augustinus, empfangen durch Al Fike: „Denn wir kennen eure Gedanken und den Zustand eurer Seele, bevor ihr es überhaupt wisst, ihr Geliebten.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

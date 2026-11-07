@@ -1,7 +1,7 @@
 ---
 title: "Judas trifft den Meister"
 menu_title: ""
-description: "Judas trifft den Meister"
+description: "Judas, empfangen durch H.: „Der Monat Oktober des Jahres 25 hatte begonnen. Die Sommerhitze war einer angenehmen Kühle gewichen.“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

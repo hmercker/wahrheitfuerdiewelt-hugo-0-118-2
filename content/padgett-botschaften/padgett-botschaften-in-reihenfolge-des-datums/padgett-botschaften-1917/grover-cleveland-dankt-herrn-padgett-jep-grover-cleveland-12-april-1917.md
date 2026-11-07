@@ -1,7 +1,7 @@
 ---
 title: "Grover Cleveland dankt Herrn Padgett"
 menu_title: ""
-description: "Grover Cleveland dankt Herrn Padgett"
+description: "Grover Cleveland 1, empfangen durch James Padgett: „Lass mich auch ein Wort sagen. Natürlich gehöre ich nicht zu den höheren Wesen, aber ich befinde mich …“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

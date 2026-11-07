@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen, das die Göttliche Liebe empfangen hat, schreibt über seine Bemühungen, andere Wesen zur wahren Religion zu erwecken"
 menu_title: ""
-description: "Ein spirituelles Wesen, das die Göttliche Liebe empfangen hat, schreibt über seine Bemühungen, andere Wesen zur wahren Religion zu erwecken"
+description: "Leander Albright, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben. Ich will nur sagen, dass ich die Wirklichkeit der Wahrheit der …“"
 date: 2020-08-01 06:25:48+00:249
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wunsch nach Engeln und Führern bei euch zu haben"
 menu_title: ""
-description: "Wunsch nach Engeln und Führern bei euch zu haben"
+description: "Alex Gaunt, empfangen durch Maureen Cardoso: „Ich fühle mich zu eurer Versammlung hingezogen, und als ich mit diesem Instrument Verbindung aufnahm …“"
 date: 2025-03-01 06:00:00+00:10
 draft: False
 hidden: True

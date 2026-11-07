@@ -1,7 +1,7 @@
 ---
 title: "Alle Dogmen und Glaubensbekenntnisse der Welt können den Seelen der Menschen nicht die Liebe des Vaters schenken"
 menu_title: ""
-description: "Alle Dogmen und Glaubensbekenntnisse der Welt können den Seelen der Menschen nicht die Liebe des Vaters schenken"
+description: "W, empfangen durch James Padgett: „Lass mich ein wenig schreiben. Ich brauche deine Hilfe und glaube, dass du mir helfen kannst, so wie man mir gesagt hat …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

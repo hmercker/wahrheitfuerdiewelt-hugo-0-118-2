@@ -1,7 +1,7 @@
 ---
 title: "Die Gesellschaft der Engel"
 menu_title: ""
-description: "Die Gesellschaft der Engel"
+description: "Johannes der Geliebte, empfangen durch Jimbeau Walsh: „Möge das Licht der Liebe Gottes jede Seele hier erfüllen. Wisset, dass ihr ein kostbares Kind des …“"
 date: 2023-03-31 06:00:00+00:10
 draft: False
 hidden: True

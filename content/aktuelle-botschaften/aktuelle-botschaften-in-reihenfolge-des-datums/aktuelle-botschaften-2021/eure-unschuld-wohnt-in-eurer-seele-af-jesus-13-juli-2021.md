@@ -1,7 +1,7 @@
 ---
 title: "Eure Unschuld wohnt in eurer Seele"
 menu_title: ""
-description: "Eure Unschuld wohnt in eurer Seele"
+description: "Jesus, empfangen durch Al Fike: „Segen für alle, die die Liebe des Vaters suchen. In der Tat wohnt eure Unschuld in euren Seelen, dieser Ort ist rein und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

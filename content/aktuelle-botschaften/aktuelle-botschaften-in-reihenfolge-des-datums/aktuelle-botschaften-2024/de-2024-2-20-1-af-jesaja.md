@@ -1,7 +1,7 @@
 ---
 title: "Gottes mächtige Essenz wird jedem von euch mächtig gegeben werden"
 menu_title: ""
-description: "Gottes mächtige Essenz wird jedem von euch mächtig gegeben werden"
+description: "Jesaja, empfangen durch Al Fike: „Möget ihr mächtig gesegnet werden mit der großen Gabe der Liebe des Vaters. Der große Atem Gottes wird über jeden …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

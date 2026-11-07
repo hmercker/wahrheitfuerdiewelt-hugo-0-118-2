@@ -1,7 +1,7 @@
 ---
 title: "Viele Sternfreunde im Universum sind hier, um zu helfen"
 menu_title: ""
-description: "Viele Sternfreunde im Universum sind hier, um zu helfen"
+description: "Christine, empfangen durch Al Fike: „Ich habe einen blauen, schönen Teint und eine klare Haut. Es gibt so viel, das in euch verborgen ist, so viel, das im …“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

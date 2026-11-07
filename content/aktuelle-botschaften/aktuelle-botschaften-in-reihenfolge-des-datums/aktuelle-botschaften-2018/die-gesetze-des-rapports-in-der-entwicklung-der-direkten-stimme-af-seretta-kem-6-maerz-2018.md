@@ -1,7 +1,7 @@
 ---
 title: "Die Gesetze des Rapports in der Entwicklung der Direkten Stimme"
 menu_title: ""
-description: "Die Gesetze des Rapports in der Entwicklung der Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte über das Gesetz der Verbindung und Kommunikation in Bezug auf die Entwicklung der Direkten Stimme sprechen.“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

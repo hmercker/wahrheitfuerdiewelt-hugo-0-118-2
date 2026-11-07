@@ -1,7 +1,7 @@
 ---
 title: "Helen ist enttäuscht, dass der Meister nicht schreiben konnte"
 menu_title: ""
-description: "Helen ist enttäuscht, dass der Meister nicht schreiben konnte"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebling, ich sehe, dass du müde bist und ins Bett gehen musst und ich werde nicht viel schreiben.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

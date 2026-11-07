@@ -1,7 +1,7 @@
 ---
 title: "Geht im Licht durch die kommenden Umwälzungen"
 menu_title: ""
-description: "Geht im Licht durch die kommenden Umwälzungen"
+description: "Tahlia, empfangen durch Al Fike: „Ich möchte, dass ihr wisst, dass ich euch bei euren Bemühungen in Direkter Stimme (Direct Voice) helfen werde, denn ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

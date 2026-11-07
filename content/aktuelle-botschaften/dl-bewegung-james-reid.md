@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von James Reid"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von James Reid"
+description: "Aktuelle Botschaften empfangen von James Reid: „James Reid, der Empfänger und Herausgeber der „The Richards Messages”. Hier empfangene Botschaften seit …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

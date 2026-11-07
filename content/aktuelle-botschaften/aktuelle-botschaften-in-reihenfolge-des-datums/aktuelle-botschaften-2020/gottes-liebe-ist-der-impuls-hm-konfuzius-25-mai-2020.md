@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist der Impuls"
 menu_title: ""
-description: "Gottes Liebe ist der Impuls"
+description: "Konfuzius, empfangen durch Helge Mercker: „Ich teile meine Liebe mit dir und bringe dir Heilung und Trost, während du tief über viele Dinge nachdenkst …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

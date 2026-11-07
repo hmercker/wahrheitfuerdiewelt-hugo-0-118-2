@@ -1,7 +1,7 @@
 ---
 title: "Die Fallstricke der spirituellen Kommunikation"
 menu_title: ""
-description: "Die Fallstricke der spirituellen Kommunikation"
+description: "Augustinus, empfangen durch Al Fike: „Segnungen der Liebe regnen weiterhin auf jeden von euch herab, meine schönen und geliebten Freunde.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Unsere Seelen erwachen lassen"
 menu_title: ""
-description: "Unsere Seelen erwachen lassen"
+description: "Augustinus, empfangen von Al Fike: „Es ist euer Lehrer Augustinus. Wieder kommt ihr in diesen Kreis des Lichts und wieder berührt Gott eure Seelen.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

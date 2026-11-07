@@ -1,7 +1,7 @@
 ---
 title: "Das Schicksal unserer Seelen"
 menu_title: ""
-description: "Das Schicksal unserer Seelen"
+description: "Jesus, empfangen durch Al Fike: „Denn dies ist der Weg und das Licht. Das ist der Schlüssel, um die Tür zum himmlischen Königreich zu öffnen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

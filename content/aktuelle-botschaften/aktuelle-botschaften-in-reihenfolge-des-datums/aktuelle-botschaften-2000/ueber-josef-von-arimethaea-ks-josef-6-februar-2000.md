@@ -1,7 +1,7 @@
 ---
 title: "Über Josef von Arimethäa"
 menu_title: ""
-description: "Über Josef von Arimethäa"
+description: "Josef, empfangen durch Kathryn Stokes: „[Liebe Schöpferseele, ich bete für ein großes Einströmen Deiner Liebe in dieser Zeit. Ich bete, dass, wenn ich in …“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

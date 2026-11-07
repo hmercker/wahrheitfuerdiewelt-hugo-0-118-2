@@ -1,7 +1,7 @@
 ---
 title: "Wir beten mit euch vom Himmel aus"
 menu_title: ""
-description: "Wir beten mit euch vom Himmel aus"
+description: "Matthäus, empfangen durch Al Fike: „Wir, die wir im Göttlichen Himmel leben, haben nie aufgehört, für dieses Geschenk zu beten, und so schließen wir uns …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

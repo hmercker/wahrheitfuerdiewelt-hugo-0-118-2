@@ -1,7 +1,7 @@
 ---
 title: "In den Tiefen eurer Seele liegt die Fähigkeit, in Einheit miteinander zu sein"
 menu_title: ""
-description: "In den Tiefen eurer Seele liegt die Fähigkeit, in Einheit miteinander zu sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge die Liebe euch weiterhin erwecken. Mögen eure Herzen weiterhin mit Seiner Liebe glühen und diese Liebe durch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

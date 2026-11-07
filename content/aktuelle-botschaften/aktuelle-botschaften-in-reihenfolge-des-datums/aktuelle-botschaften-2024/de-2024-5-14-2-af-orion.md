@@ -1,7 +1,7 @@
 ---
 title: "Eure Gaben entwickeln und teilen"
 menu_title: ""
-description: "Eure Gaben entwickeln und teilen"
+description: "Orion, empfangen durch Al Fike: „Möge es viele Gaben geben, meine Freunde. Diese Gaben werden entwickelt und entstehen auf viele verschiedene Arten.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

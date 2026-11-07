@@ -1,7 +1,7 @@
 ---
 title: "Erdveränderungen werden kommen"
 menu_title: ""
-description: "Erdveränderungen werden kommen"
+description: "Petrus, empfangen durch Al Fike: „Der Wandel kommt in eure Welt, tiefe Veränderungen, die jeden Einzelnen von euch berühren werden.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

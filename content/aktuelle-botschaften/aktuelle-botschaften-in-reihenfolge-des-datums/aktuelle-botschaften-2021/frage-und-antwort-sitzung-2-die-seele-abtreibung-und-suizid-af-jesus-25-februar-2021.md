@@ -1,7 +1,7 @@
 ---
 title: "Frage und Antwort Sitzung 2 - Die Seele, Abtreibung und Suizid"
 menu_title: ""
-description: "Frage und Antwort Sitzung 2 - Die Seele, Abtreibung und Suizid"
+description: "Jesus, empfangen durch Al Fike: „So kommen wir noch einmal, geliebte Brüder und Schwestern, zu unserer Zeit des Gesprächs und der Kommunikation.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

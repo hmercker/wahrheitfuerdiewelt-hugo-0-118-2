@@ -1,7 +1,7 @@
 ---
 title: "Gerechtigkeit und Strafe"
 menu_title: ""
-description: "Gerechtigkeit und Strafe"
+description: "Judas, empfangen durch H.: „Wie ich sehe, hast du über das Problem der menschlichen Gerechtigkeit nachgedacht. Ich dachte, wenn Gott, oder besser gesagt …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

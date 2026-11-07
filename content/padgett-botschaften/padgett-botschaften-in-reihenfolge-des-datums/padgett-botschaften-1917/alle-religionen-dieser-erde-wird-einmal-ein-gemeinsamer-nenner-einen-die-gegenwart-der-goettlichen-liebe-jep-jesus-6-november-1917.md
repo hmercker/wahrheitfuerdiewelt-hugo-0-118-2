@@ -1,7 +1,7 @@
 ---
 title: "Alle Religionen dieser Erde wird einmal ein gemeinsamer Nenner einen: Die Gegenwart der Göttlichen Liebe!"
 menu_title: ""
-description: "Alle Religionen dieser Erde wird einmal ein gemeinsamer Nenner einen: Die Gegenwart der Göttlichen Liebe!"
+description: "Jesus, empfangen durch James Padgett: „Ich war einen Teil der Zeit bei dir, als du die verschiedenen Erklärungen der verschiedenen Religionen gelesen hast …“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

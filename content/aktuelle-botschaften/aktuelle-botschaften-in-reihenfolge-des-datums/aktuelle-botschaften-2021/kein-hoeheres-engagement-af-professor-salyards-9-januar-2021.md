@@ -1,7 +1,7 @@
 ---
 title: "Kein höheres Engagement "
 menu_title: ""
-description: "Kein höheres Engagement "
+description: "Professor Salyards, empfangen durch Al Fike: „Nun, ich glaube, eine höhere Bestätigung könnt ihr nicht bekommen, meine Freunde. Und auch wir sind …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

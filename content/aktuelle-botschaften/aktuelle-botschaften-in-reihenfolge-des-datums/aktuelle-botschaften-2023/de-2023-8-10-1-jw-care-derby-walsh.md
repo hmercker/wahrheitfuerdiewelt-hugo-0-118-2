@@ -1,7 +1,7 @@
 ---
 title: "Himmlische Pflege"
 menu_title: ""
-description: "Himmlische Pflege"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Nicht nur, weil ich hier wohne, sondern auch, weil ich sehe, wie ihr euch erhebt und beginnt, die Reise …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

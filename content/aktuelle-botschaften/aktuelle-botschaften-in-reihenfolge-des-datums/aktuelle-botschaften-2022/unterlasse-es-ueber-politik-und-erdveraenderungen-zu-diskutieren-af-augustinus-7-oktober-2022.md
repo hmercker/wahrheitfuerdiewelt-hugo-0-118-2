@@ -1,7 +1,7 @@
 ---
 title: "Unterlasse es, über Politik und Erdveränderungen zu diskutieren"
 menu_title: ""
-description: "Unterlasse es, über Politik und Erdveränderungen zu diskutieren"
+description: "Augustinus, empfangen durch Al Fike: „Ich fordere euch auf, euch nicht auf das Menschsein einzulassen. Denn in der neuen Welt, die kommen wird, werden …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

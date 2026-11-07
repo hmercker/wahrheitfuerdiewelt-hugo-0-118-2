@@ -1,7 +1,7 @@
 ---
 title: "In den Armen des Himmels sollt ihr bleiben"
 menu_title: ""
-description: "In den Armen des Himmels sollt ihr bleiben"
+description: "Elizabeth Barrett Browning, empfangen durch Jimbeau Walsh: „Lasst euren Garten sich ständig verändern Die Blüten neu arrangieren“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

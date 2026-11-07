@@ -1,7 +1,7 @@
 ---
 title: "Die Last der Liebe"
 menu_title: ""
-description: "Die Last der Liebe"
+description: "Judas, empfangen durch H.: „Lieber H , in meiner letzten Botschaft sprach ich von der Trennung Jesu von seiner Familie.“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

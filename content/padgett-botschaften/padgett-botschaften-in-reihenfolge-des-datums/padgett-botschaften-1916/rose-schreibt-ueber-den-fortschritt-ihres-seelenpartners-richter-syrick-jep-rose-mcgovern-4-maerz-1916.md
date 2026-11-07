@@ -1,7 +1,7 @@
 ---
 title: "Rose schreibt über den Fortschritt ihres Seelenpartners, Richter Syrick"
 menu_title: ""
-description: "Rose schreibt über den Fortschritt ihres Seelenpartners, Richter Syrick"
+description: "Rose, empfangen durch James Padgett: „Er macht jetzt sehr schnelle Fortschritte und wird bald bei mir sein, denn ich weiß, dass er sehr glücklich sein wird.“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

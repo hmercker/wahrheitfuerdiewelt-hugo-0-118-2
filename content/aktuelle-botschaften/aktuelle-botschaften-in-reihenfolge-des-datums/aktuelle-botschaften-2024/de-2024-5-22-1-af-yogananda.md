@@ -1,7 +1,7 @@
 ---
 title: "Eine Lektion über Wahrheit"
 menu_title: ""
-description: "Eine Lektion über Wahrheit"
+description: "Yogananda, empfangen durch Al Fike: „Da mein lieber Bruder eine Botschaft gelesen hat, die ich vor ein paar Jahren überbracht habe, bin ich heute zu euch …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Meine Wahrheiten sind einfach"
 menu_title: ""
-description: "Jesus: Meine Wahrheiten sind einfach"
+description: "Jesus, empfangen durch James Padgett: „Meine Wahrheiten sind einfach und meine Lehren können vom einfachen Menschen verstanden werden.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

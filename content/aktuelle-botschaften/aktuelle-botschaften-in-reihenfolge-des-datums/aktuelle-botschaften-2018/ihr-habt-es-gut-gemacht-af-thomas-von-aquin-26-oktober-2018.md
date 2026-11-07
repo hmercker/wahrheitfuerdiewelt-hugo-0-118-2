@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt es gut gemacht"
 menu_title: ""
-description: "Ihr habt es gut gemacht"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Ihr habt unsere Anweisungen befolgt und ihr habt euer Streben ernst genommen, eure Seelen durch das Empfangen …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

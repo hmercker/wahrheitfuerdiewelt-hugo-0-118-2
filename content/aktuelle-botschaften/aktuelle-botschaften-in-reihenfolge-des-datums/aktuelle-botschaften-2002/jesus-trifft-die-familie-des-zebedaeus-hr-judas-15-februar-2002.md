@@ -1,7 +1,7 @@
 ---
 title: "Jesus trifft die Familie des Zebedäus"
 menu_title: ""
-description: "Jesus trifft die Familie des Zebedäus"
+description: "Judas, empfangen durch H.: „Wie ich dir gestern versprochen habe, bin ich hier und möchte meine Erzählung darüber fortsetzen, wie Jesus seine Jünger …“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

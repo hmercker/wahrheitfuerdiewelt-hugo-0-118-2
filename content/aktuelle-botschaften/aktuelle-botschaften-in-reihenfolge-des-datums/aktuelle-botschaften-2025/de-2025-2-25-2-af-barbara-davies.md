@@ -1,7 +1,7 @@
 ---
 title: "Wie man im Dienst für Gott sein kann"
 menu_title: ""
-description: "Wie man im Dienst für Gott sein kann"
+description: "Barbara Davies, empfangen durch Al Fike: „Möge Gottes Liebe eure Seele bis zum Überlaufen erfüllen. Ich habe schon oft mit euch gebetet.“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

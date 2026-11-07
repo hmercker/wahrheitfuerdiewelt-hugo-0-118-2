@@ -1,7 +1,7 @@
 ---
 title: "Hundertfacher Segen für die Bemühungen, die ihr gemacht habt"
 menu_title: ""
-description: "Hundertfacher Segen für die Bemühungen, die ihr gemacht habt"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Wir sind gemeinsam auf eine ganz schöne Reise gegangen, nicht wahr, meine Freunde? Es war eine arbeitsreiche …“"
 date: 2020-08-01 06:25:48+00:261
 draft: False
 hidden: True

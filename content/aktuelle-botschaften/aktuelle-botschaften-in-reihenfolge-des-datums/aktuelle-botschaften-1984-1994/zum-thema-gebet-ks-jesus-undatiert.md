@@ -1,7 +1,7 @@
 ---
 title: "Zum Thema Gebet"
 menu_title: ""
-description: "Zum Thema Gebet"
+description: "Jesus: „Denke daran, um Gottes große Liebe zu beten, und wisse, dass Er deine Gebete hört, wenn sie aufrichtig von deiner Seele dargebracht werden, und …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

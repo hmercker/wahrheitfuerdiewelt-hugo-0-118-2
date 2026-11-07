@@ -1,7 +1,7 @@
 ---
 title: "Erwache zu Gottes Segnungen der Liebe"
 menu_title: ""
-description: "Erwache zu Gottes Segnungen der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Erwacht, meine Lieben, zu dem großen Licht, das auf euch herabsteigt und eure Seele für das Einströmen der großen Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

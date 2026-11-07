@@ -1,7 +1,7 @@
 ---
 title: "Sich auf die Erdveränderungen einstellen und Führung durch kommende Veränderungen erhalten"
 menu_title: ""
-description: "Sich auf die Erdveränderungen einstellen und Führung durch kommende Veränderungen erhalten"
+description: "Orion, empfangen durch Al Fike: „Eure Wissenschaftler warnen eindringlich. Jeden Tag kommt etwas Neues ans Licht, Sorgen über die Ozeane und ihre …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

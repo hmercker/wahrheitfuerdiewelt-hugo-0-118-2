@@ -1,7 +1,7 @@
 ---
 title: "Was ist spirituelles Licht?"
 menu_title: ""
-description: "Was ist spirituelles Licht?"
+description: "Josephus, empfangen durch Al Fike: „Wir bitten euch, das Licht in die Welt zu bringen, das Licht zu suchen, das Licht auszudrücken.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

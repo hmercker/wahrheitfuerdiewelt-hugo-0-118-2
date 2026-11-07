@@ -1,7 +1,7 @@
 ---
 title: "Heilung und das Gesetz der Harmonie  - Teil 2"
 menu_title: ""
-description: "Heilung und das Gesetz der Harmonie  - Teil 2"
+description: "Seretta Kem, empfangen durch Al Fike: „Heilung und das Gesetz der Harmonie - Teil 1 Ich möchte meine Diskussion über Heilung fortsetzen, denn es gibt viele …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

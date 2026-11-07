@@ -1,7 +1,7 @@
 ---
 title: "Geht nackt zu Gott in Freude"
 menu_title: ""
-description: "Geht nackt zu Gott in Freude"
+description: "Matthäus, empfangen durch Al Fike: „So wie ihr euren Körper trainiert habt [die Gruppe hatte gerade vorher eine halbe Stunde Yoga betrieben], so müsst ihr …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 1 - Lektionen über Erdveränderungen und ihre Auswirkungen auf die Menschheit - Band 3"
 menu_title: ""
-description: "Lektion 1 - Lektionen über Erdveränderungen und ihre Auswirkungen auf die Menschheit - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Es gibt eine große Neugier darüber, wie das, was ihr „Erdveränderungen“ nennt, stattfinden kann und was das für jeden von …“"
 date: 2022-05-28 06:00:00+00:10
 draft: False
 hidden: True

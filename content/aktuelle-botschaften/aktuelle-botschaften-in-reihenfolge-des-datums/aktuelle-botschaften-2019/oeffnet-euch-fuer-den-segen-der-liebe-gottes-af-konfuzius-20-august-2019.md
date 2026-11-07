@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euch für den Segen der Liebe Gottes"
 menu_title: ""
-description: "Öffnet euch für den Segen der Liebe Gottes"
+description: "Konfuzius, empfangen durch Al Fike: „Ich gehe zu Gott in meinem Herzen und meiner Seele mit Sehnsucht und dem Wunsch nach Versöhnung.“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

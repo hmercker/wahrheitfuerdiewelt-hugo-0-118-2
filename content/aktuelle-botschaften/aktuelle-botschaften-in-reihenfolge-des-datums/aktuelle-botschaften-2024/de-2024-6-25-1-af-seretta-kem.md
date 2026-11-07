@@ -1,7 +1,7 @@
 ---
 title: "Auf dem Weg des Erwachens und der Transformation"
 menu_title: ""
-description: "Auf dem Weg des Erwachens und der Transformation"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt also über die Medialität diskutiert. Einige der technischen Aspekte und einige der Gefahren, die sie mit …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

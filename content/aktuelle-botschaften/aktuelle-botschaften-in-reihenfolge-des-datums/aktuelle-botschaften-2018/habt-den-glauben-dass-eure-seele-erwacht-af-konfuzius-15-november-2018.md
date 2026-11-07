@@ -1,7 +1,7 @@
 ---
 title: "Habt den Glauben, dass eure Seele erwacht"
 menu_title: ""
-description: "Habt den Glauben, dass eure Seele erwacht"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr tragt in euch, Geliebte, geliebte Brüder, eine große Kraft, die Kraft der Göttlichen Liebe, die ihre Feuer in …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

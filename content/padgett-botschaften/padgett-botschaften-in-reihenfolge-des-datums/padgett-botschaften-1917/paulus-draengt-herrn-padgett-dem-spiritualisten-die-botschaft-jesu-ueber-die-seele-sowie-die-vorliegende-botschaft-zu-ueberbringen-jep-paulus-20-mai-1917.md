@@ -1,7 +1,7 @@
 ---
 title: "Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über 'Die Seele' sowie die vorliegende Botschaft zu überbringen"
 menu_title: ""
-description: "Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über 'Die Seele' sowie die vorliegende Botschaft zu überbringen"
+description: "Paulus, empfangen durch James Padgett: „Nun, mein lieber Bruder, ich habe schon lange nicht mehr geschrieben, und ich nehme jetzt die Gelegenheit wahr, ein …“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

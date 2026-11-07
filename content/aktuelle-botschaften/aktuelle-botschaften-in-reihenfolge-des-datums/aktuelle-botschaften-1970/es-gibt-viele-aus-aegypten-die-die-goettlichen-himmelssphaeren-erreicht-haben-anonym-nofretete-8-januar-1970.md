@@ -1,7 +1,7 @@
 ---
 title: "Es gibt viele aus Ägypten, die die göttlichen Himmelssphären erreicht haben"
 menu_title: ""
-description: "Es gibt viele aus Ägypten, die die göttlichen Himmelssphären erreicht haben"
+description: "Ägyptische Königin Nofretete 1: „Wie interessant es für mich ist, unter Euch zu sein. Ich genieße es, in dieser Gruppe zu sein, und es ist eine angenehme …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

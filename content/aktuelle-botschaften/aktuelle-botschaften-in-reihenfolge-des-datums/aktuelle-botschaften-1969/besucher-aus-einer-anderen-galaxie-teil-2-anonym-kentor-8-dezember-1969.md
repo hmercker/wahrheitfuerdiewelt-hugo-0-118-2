@@ -1,7 +1,7 @@
 ---
 title: "Besucher aus einer anderen Galaxie Teil 2"
 menu_title: ""
-description: "Besucher aus einer anderen Galaxie Teil 2"
+description: "Kentor, empfangen durch Elsie Grosart: „Sie wird in Büchern und Bibliotheken beiseite gelegt. Ihr habt immer noch diese Probleme der Umweltverschmutzung.“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

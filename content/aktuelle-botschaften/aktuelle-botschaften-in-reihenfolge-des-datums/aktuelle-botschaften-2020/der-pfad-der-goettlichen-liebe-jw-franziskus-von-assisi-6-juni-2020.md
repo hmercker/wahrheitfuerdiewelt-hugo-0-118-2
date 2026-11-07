@@ -1,7 +1,7 @@
 ---
 title: "Der Pfad der Göttlichen Liebe"
 menu_title: ""
-description: "Der Pfad der Göttlichen Liebe"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Als mein Leben einfach wurde, wurde alles in Gnade für meine Seele und für meine Brüder und …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

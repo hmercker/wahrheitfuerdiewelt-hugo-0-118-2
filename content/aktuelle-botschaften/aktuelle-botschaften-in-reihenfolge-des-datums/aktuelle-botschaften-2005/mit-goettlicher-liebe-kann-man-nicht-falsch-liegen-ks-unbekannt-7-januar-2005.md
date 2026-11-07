@@ -1,7 +1,7 @@
 ---
 title: "Mit Göttlicher Liebe kann man nicht falsch liegen"
 menu_title: ""
-description: "Mit Göttlicher Liebe kann man nicht falsch liegen"
+description: "Unbekannt, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich liebe Dich und schätze all die Segnungen, die Du Deinen geliebten Kindern zukommen …“"
 date: 2020-08-01 06:25:48+00:295
 draft: False
 hidden: True

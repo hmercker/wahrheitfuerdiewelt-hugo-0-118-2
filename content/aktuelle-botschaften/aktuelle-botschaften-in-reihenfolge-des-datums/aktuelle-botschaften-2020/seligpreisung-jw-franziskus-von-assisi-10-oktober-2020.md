@@ -1,7 +1,7 @@
 ---
 title: "Seligpreisung"
 menu_title: ""
-description: "Seligpreisung"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Gesegnet seid ihr, die ihr um die Liebe Gottes betet. Gesegnet seid ihr, die ihr denen vergebt, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

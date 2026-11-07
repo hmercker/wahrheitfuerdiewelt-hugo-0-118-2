@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid alle bereit für diesen nächsten Schritt"
 menu_title: ""
-description: "Ihr seid alle bereit für diesen nächsten Schritt"
+description: "Professor Salyards, empfangen durch Al Fike: „Wieder einmal bin ich gekommen, um euch zu helfen, euch zu versichern und euch in diesen Angelegenheiten zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

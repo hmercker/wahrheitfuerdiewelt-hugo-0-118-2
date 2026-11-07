@@ -1,7 +1,7 @@
 ---
 title: "Glaubt und seid mit Gott"
 menu_title: ""
-description: "Glaubt und seid mit Gott"
+description: "Orion, empfangen durch Al Fike: „Es ist eine hohe Kunst, eure materiellen Sorgen und Aufgaben mit euren geistlichen Anliegen und Bemühungen zu vereinbaren.“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

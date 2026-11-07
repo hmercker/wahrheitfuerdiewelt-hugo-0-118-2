@@ -1,7 +1,7 @@
 ---
 title: "Predigt 7 - Der christliche Ritus namens Messe"
 menu_title: ""
-description: "Predigt 7 - Der christliche Ritus namens Messe"
+description: "Jesus, empfangen durch Dr Samuels: „In meiner letzten Predigt habe ich dir gesagt, dass das Grundprinzip, auf dem dieser Ritus beruht, nämlich die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

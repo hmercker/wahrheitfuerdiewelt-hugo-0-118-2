@@ -1,7 +1,7 @@
 ---
 title: "Fortschritte auf dem Weg zu den Himmelssphären"
 menu_title: ""
-description: "Fortschritte auf dem Weg zu den Himmelssphären"
+description: "Saleeba, empfangen durch James Padgett: „Oh, mein Freund, es fällt schwer, nicht zu schreien, dass ich ein erlöstes Kind des Vaters bin, das weiß, dass …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

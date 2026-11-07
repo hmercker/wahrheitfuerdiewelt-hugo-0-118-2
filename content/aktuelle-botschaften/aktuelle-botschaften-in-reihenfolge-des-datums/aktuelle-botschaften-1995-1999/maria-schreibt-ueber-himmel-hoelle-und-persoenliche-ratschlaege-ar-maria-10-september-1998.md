@@ -1,7 +1,7 @@
 ---
 title: "Maria schreibt über Himmel, Hölle und persönliche Ratschläge"
 menu_title: ""
-description: "Maria schreibt über Himmel, Hölle und persönliche Ratschläge"
+description: "Maria, empfangen durch Amada Reza: „[Lieber himmlischer Vater, ich bete darum, dass deine göttliche Liebe meine Seele in dieser Zeit erfüllt, damit ich mit …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

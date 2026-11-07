@@ -1,7 +1,7 @@
 ---
 title: "Die zugewiesenen spirituellen Führer sprechen"
 menu_title: ""
-description: "Die zugewiesenen spirituellen Führer sprechen"
+description: "Keea Atta Kem, Matthäus, Lotus Blossom, Thomas von Aquin und Martha, empfangen durch Al Fike: „Mein Herz schwillt an vor Freude und Liebe für euch, ihr …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

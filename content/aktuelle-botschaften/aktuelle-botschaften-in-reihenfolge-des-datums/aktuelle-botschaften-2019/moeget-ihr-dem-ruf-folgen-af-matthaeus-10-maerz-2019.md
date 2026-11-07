@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr dem Ruf folgen"
 menu_title: ""
-description: "Möget ihr dem Ruf folgen"
+description: "Matthäus, empfangen durch Al Fike: „Der Frühling beginnt sich zu zeigen. Nach dem langen Winterschnee kehren Wärme und Güte auf die Erde zurück.“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

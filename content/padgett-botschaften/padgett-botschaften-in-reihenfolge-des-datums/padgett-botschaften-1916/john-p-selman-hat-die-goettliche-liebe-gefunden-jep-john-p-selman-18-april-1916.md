@@ -1,7 +1,7 @@
 ---
 title: "John P. Selman hat die Göttliche Liebe gefunden"
 menu_title: ""
-description: "John P. Selman hat die Göttliche Liebe gefunden"
+description: "John P. Selman, empfangen durch James Padgett: „Ich war ein Freund von dir, als ich auf der Erde war, und ich möchte dir heute Abend nur sagen, dass es mir …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

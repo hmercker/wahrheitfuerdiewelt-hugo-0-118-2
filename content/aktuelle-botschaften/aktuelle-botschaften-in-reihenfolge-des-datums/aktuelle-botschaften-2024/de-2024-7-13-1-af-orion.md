@@ -1,7 +1,7 @@
 ---
 title: "Er ruft uns auf, im Seelenbewusstsein zu sein"
 menu_title: ""
-description: "Er ruft uns auf, im Seelenbewusstsein zu sein"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Ich melde mich wieder einmal zu Wort.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

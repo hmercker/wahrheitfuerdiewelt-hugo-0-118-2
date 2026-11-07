@@ -1,7 +1,7 @@
 ---
 title: "Die Wirkung von Gottes Gnade und Demut"
 menu_title: ""
-description: "Die Wirkung von Gottes Gnade und Demut"
+description: "Orion, empfangen durch Al Fike: „Dies ist meine Rolle, die ich dankbar angenommen habe, um bei euch allen zu sein, während ihr gemeinsam in diesem Kreis …“"
 date: 2025-02-08 06:00:00+00:10
 draft: False
 hidden: True

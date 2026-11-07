@@ -1,7 +1,7 @@
 ---
 title: "Tanzt und singt euch den Weg in den Himmel frei"
 menu_title: ""
-description: "Tanzt und singt euch den Weg in den Himmel frei"
+description: "Goldie, empfangen durch Al Fike: „...Erwachen und Segnungen, Veränderungen und viele Dinge, die Freude bringen werden. Überraschungen werden kommen, einige …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

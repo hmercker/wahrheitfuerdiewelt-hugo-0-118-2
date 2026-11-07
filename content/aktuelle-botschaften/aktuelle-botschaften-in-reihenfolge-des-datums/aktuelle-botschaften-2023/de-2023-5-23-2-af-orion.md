@@ -1,7 +1,7 @@
 ---
 title: "Orion hat Mitgefühl für die Bedingungen, unter denen wir auf der Erde leben"
 menu_title: ""
-description: "Orion hat Mitgefühl für die Bedingungen, unter denen wir auf der Erde leben"
+description: "Orion, empfangen durch Al Fike: „Eure Welt ist voll von Komplikationen, Einzelheiten und menschlichen Äußerungen, die einen sehr mentalen Zustand herbeiführen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

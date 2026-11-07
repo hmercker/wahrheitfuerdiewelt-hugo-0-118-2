@@ -1,7 +1,7 @@
 ---
 title: "Wie in der Welt zu sein, aber nicht von ihr"
 menu_title: ""
-description: "Wie in der Welt zu sein, aber nicht von ihr"
+description: "Johannes, empfangen durch Amada Reza: „Ich möchte über die Frage sprechen, wie man in der Welt sein kann, aber nicht von ihr. Der sterbliche Verstand kann …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

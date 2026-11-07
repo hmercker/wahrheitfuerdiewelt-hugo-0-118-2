@@ -1,7 +1,7 @@
 ---
 title: "Frau Nathan Plummer beschreibt die Zustände in der Dunkelheit"
 menu_title: ""
-description: "Frau Nathan Plummer beschreibt die Zustände in der Dunkelheit"
+description: "Frau Plummer, empfangen durch James Padgett: „Ich habe weder ihn noch einen seiner Kobolde oder Schwefel und Fegefeuer gesehen. Aber die Geister die ich …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für das Globale Treffen zur Feier der Göttlichen Liebe"
 menu_title: ""
-description: "Anleitung für das Globale Treffen zur Feier der Göttlichen Liebe"
+description: "Professor Salyards, empfangen durch Al Fike: „Ja, euer Professor Salyards ist hier. Es ist gut, auf eure Führung und die Eingebungen zu hören, die euch …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

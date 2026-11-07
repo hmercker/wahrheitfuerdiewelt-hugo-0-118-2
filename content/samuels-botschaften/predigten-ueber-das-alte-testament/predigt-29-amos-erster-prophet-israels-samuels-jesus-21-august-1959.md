@@ -1,7 +1,7 @@
 ---
 title: "Predigt 29 - Amos, erster Prophet Israels"
 menu_title: ""
-description: "Predigt 29 - Amos, erster Prophet Israels"
+description: "Jesus, empfangen durch Dr Samuels: „Amos ist der erste der wahren Propheten Israels, der während der Herrschaft von Jerobeam II. wirkte.“"
 date: 2020-08-01 06:25:48+00:01
 draft: False
 hidden: True

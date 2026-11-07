@@ -1,7 +1,7 @@
 ---
 title: "Frauen in dieses Projekt mit einbeziehen"
 menu_title: ""
-description: "Frauen in dieses Projekt mit einbeziehen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Geliebte Seelen, ich möchte lediglich anmerken, dass viele Frauen an diesem großen Bemühen und Projekt beteiligt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

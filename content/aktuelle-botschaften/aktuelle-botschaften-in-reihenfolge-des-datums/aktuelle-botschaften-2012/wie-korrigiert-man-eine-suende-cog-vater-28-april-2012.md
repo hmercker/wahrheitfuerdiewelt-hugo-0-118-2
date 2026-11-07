@@ -1,7 +1,7 @@
 ---
 title: "Wie korrigiert man eine Sünde?"
 menu_title: ""
-description: "Wie korrigiert man eine Sünde?"
+description: "Vater, empfangen durch Child of God: „Wie korrigierst du eine Sünde? Wie ich dir gestern sagte, musst du zuerst erkennen, dass du gesündigt hast und in …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Reicht anderen die Hand"
 menu_title: ""
-description: "Reicht anderen die Hand"
+description: "Andreas, empfangen durch Al Fike: „Wir danken euch, dass ihr zusammengekommen seid, dass ihr diesen Kreis des Lichts geschaffen habt, der euren Brüdern und …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein kraftvolles Band verbindet euch, wenn ihr gemeinsam betet"
 menu_title: ""
-description: "Ein kraftvolles Band verbindet euch, wenn ihr gemeinsam betet"
+description: "Augustinus, empfangen durch Al Fike: „Wie wundervoll ist es, so viele Seelen zu sehen, die kommen, um von der Liebe des Vaters zu trinken, an diesem …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

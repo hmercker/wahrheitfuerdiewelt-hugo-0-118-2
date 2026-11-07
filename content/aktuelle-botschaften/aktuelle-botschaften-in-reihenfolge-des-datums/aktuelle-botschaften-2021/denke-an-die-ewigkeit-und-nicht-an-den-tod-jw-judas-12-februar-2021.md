@@ -1,7 +1,7 @@
 ---
 title: "Denke an die Ewigkeit und nicht an den Tod"
 menu_title: ""
-description: "Denke an die Ewigkeit und nicht an den Tod"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe mich sehr gefreut, die Botschaften zu hören und mitzuhören, die ihr heute alle gelesen habt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

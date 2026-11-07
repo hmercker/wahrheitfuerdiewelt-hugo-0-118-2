@@ -1,7 +1,7 @@
 ---
 title: "Es ist wichtig, sich auf kommende Veränderungen in der Welt vorzubereiten"
 menu_title: ""
-description: "Es ist wichtig, sich auf kommende Veränderungen in der Welt vorzubereiten"
+description: "Jesus, empfangen durch Al Fike: „Es kommen Veränderungen auf eure Welt zu, meine Lieben. Es ist wichtig, dass ihr darauf vorbereitet seid, dass ihr mit der …“"
 date: 2025-01-25 06:00:00+00:10
 draft: False
 hidden: True

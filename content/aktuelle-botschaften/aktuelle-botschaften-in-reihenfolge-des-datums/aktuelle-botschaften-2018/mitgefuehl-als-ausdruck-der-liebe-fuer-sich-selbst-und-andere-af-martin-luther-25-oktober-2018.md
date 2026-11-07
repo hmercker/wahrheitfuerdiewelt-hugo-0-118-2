@@ -1,7 +1,7 @@
 ---
 title: "Mitgefühl als Ausdruck der Liebe für sich selbst und andere"
 menu_title: ""
-description: "Mitgefühl als Ausdruck der Liebe für sich selbst und andere"
+description: "Martin Luther, empfangen durch Al Fike: „Die Wege der Menschen in dieser Welt beinhalten kein Mitgefühl für andere in einem großen Ausmaß.“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

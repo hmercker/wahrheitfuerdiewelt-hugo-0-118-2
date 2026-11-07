@@ -1,7 +1,7 @@
 ---
 title: "Für die physische Manifestation ist mehr Entwicklung erforderlich"
 menu_title: ""
-description: "Für die physische Manifestation ist mehr Entwicklung erforderlich"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gibt vieles, mit dem wir uns noch beschäftigen, und wir brauchen eure Verbindung und eure Bemühungen, um diese …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

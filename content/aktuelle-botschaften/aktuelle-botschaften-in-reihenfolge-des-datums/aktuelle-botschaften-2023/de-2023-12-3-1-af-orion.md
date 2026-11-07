@@ -1,7 +1,7 @@
 ---
 title: "Begrüßt die Vielfalt in universeller Göttlicher Liebe"
 menu_title: ""
-description: "Begrüßt die Vielfalt in universeller Göttlicher Liebe"
+description: "Orion, empfangen durch Al Fike: „Die Gaben, die jeder von euch besitzt, zeigen sich auf unterschiedliche Weise. Jeder von euch ist einzigartig.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

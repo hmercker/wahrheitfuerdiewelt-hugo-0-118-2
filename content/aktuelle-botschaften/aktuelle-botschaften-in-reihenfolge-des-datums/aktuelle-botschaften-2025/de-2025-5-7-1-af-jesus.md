@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet euren Weg zu Gott finden"
 menu_title: ""
-description: "Ihr werdet euren Weg zu Gott finden"
+description: "Jesus, empfangen durch Al Fike: „Euer Bruder und Freund Jesus ist hier bei euch, so wie ich es jeden Tag getan habe. Eure Seelen sehnen sich nach diesem …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

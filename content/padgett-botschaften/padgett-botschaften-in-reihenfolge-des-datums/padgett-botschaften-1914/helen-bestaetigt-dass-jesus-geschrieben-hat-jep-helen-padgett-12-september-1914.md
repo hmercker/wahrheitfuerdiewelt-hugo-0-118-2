@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Jesus geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Jesus geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „[James fragt: Wer hat mir als letztes geschrieben?] Der Erretter der Menschheit; er war bei dir und ich war so froh …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

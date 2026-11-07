@@ -1,7 +1,7 @@
 ---
 title: "Gesetze der Kommunikation"
 menu_title: ""
-description: "Gesetze der Kommunikation"
+description: "Keea Atta Kem: „Melba war die Liebe, die bei der Eröffnung dieser Gruppe durchkam, und sie war so aufgeregt und so glücklich, kommen zu können, dass sie …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

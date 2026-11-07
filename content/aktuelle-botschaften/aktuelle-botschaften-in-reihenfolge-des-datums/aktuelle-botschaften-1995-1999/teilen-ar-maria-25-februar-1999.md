@@ -1,7 +1,7 @@
 ---
 title: "Teilen"
 menu_title: ""
-description: "Teilen"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater/Mutter, ich bete um das Einströmen Deiner Göttlichen Liebe in meine Seele, damit mein Herz …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Pfad der Gnade"
 menu_title: ""
-description: "Pfad der Gnade"
+description: "Robert Lees, empfangen durch Jimbeau Walsh: „Wie immer bin ich hocherfreut, wenn jemand oder eine Gruppe das liest 1 , was ich empfangen habe, und von …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

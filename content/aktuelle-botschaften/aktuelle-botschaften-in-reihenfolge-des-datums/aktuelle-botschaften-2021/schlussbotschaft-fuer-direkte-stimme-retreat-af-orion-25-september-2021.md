@@ -1,7 +1,7 @@
 ---
 title: "Schlussbotschaft für Direkte Stimme Retreat"
 menu_title: ""
-description: "Schlussbotschaft für Direkte Stimme Retreat"
+description: "Orion, empfangen durch Al Fike: „Es ist ein Privileg, solch aufrichtigen Seelen zu dienen, die nach einer besseren Welt suchen und versuchen, sich in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

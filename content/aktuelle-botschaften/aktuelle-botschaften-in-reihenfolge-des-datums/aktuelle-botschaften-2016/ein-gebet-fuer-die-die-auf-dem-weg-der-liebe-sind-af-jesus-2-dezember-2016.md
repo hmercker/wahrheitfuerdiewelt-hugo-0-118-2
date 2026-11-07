@@ -1,7 +1,7 @@
 ---
 title: "Ein Gebet für die, die auf dem Weg der Liebe sind"
 menu_title: ""
-description: "Ein Gebet für die, die auf dem Weg der Liebe sind"
+description: "Jesus, empfangen durch Al Fike: „Vater, segne diese, meine Kinder, die die Flamme deiner Liebe tragen, die den Mantel der Wahrheit in sich tragen, die …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Einander ein liebender Freund sein"
 menu_title: ""
-description: "Einander ein liebender Freund sein"
+description: "Maria, empfangen durch Al Fike: „Segen des Friedens, Segen der Liebe und alles, was vom Licht und von Gott ist, möge dies heute euer Segen sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

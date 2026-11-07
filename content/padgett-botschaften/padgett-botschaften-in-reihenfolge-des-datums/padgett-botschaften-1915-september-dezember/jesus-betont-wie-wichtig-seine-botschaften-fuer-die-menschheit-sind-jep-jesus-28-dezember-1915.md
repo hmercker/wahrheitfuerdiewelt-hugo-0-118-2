@@ -1,7 +1,7 @@
 ---
 title: "Jesus betont, wie wichtig seine Botschaften für die Menschheit sind"
 menu_title: ""
-description: "Jesus betont, wie wichtig seine Botschaften für die Menschheit sind"
+description: "Jesus, empfangen durch James Padgett: „Heute Nacht möchte ich dir für den Mut danken, dass du das Wagnis eingegangen bist, eine meiner Botschaften an den …“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

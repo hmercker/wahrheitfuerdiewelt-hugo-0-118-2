@@ -1,7 +1,7 @@
 ---
 title: "Ein Transformator für die Erde sein"
 menu_title: ""
-description: "Ein Transformator für die Erde sein"
+description: "White Feather, empfangen durch Al Fike: „Möge der Große Weiße Geist seine Segnungen über eure Seele bringen. Denn was nützt es euch, wenn ihr reines Wasser …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

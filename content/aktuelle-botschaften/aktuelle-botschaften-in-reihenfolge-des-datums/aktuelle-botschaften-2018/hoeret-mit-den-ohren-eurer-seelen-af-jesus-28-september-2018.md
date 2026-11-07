@@ -1,7 +1,7 @@
 ---
 title: "Höret mit den Ohren eurer Seelen"
 menu_title: ""
-description: "Höret mit den Ohren eurer Seelen"
+description: "Jesus, empfangen durch Al Fike: „Ein paar der Gruppe haben sich unterhalten, wie sich Manifestationen von Jesus und anderen Engeln in unserer Welt, der …“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

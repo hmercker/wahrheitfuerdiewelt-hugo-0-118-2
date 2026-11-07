@@ -1,7 +1,7 @@
 ---
 title: "Habe Deinen eigenen Weg, Herr"
 menu_title: ""
-description: "Habe Deinen eigenen Weg, Herr"
+description: "Augustinus: „Wieder einmal haben wir uns in diesem kleinen Klassenzimmer versammelt, und es ist so wunderbar, euch alle so glücklich und so gut zu sehen.“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

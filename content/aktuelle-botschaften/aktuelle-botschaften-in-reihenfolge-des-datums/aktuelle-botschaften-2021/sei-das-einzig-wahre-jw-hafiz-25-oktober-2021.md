@@ -1,7 +1,7 @@
 ---
 title: "Sei das einzig Wahre"
 menu_title: ""
-description: "Sei das einzig Wahre"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Ihr mögt erkennen, dass das Glück an dem Punkt, an dem sich die Seele mit ihrem Schöpfer verbindet, nicht das ist …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

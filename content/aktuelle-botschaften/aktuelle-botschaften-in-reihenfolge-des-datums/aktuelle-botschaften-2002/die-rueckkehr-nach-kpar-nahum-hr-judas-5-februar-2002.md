@@ -1,7 +1,7 @@
 ---
 title: "Die Rückkehr nach Kpar Nahum"
 menu_title: ""
-description: "Die Rückkehr nach Kpar Nahum"
+description: "Judas, empfangen durch H.: „Gestern beendeten wir unsere Geschichte mit der Rückkehr Jesu zum See nach seiner Taufe. Ich habe gesagt, dass dieses Ereignis …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

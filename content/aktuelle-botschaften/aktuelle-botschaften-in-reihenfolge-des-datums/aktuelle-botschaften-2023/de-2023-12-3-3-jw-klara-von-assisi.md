@@ -1,7 +1,7 @@
 ---
 title: "Der Reichtum der Liebe Gottes"
 menu_title: ""
-description: "Der Reichtum der Liebe Gottes"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine Schwestern und ich sind in diese Fußstapfen getreten und noch heute sind wir als „Die armen Klaras” …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

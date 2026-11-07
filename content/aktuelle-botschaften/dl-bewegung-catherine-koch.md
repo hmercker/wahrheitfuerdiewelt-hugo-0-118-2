@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Catherine Koch"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Catherine Koch"
+description: "Aktuelle Botschaften empfangen von Catherine Koch: „Catherine Koch, die Gründerin und Geschäftsführerin von „Love is the Answer”, einer …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

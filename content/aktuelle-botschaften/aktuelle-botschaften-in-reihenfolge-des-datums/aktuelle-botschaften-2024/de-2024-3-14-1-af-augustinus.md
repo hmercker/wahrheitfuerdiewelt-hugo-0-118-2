@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf unser Gespräch über die Frage, warum die Menschen nicht auf die Möglichkeiten der Göttlichen Liebeangebote reagieren"
 menu_title: ""
-description: "Antwort auf unser Gespräch über die Frage, warum die Menschen nicht auf die Möglichkeiten der Göttlichen Liebesangebote reagieren"
+description: "Augustinus, empfangen durch Al Fike: „Mein Sohn (P), du sprichst von deinen Frustrationen und deinen Beobachtungen über den menschlichen Zustand und die …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

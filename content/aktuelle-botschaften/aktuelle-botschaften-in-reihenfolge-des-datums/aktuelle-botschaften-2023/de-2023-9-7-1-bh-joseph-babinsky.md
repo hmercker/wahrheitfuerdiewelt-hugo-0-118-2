@@ -1,7 +1,7 @@
 ---
 title: "Fortschritt durch die Sphären und das Laurelville Retreat"
 menu_title: ""
-description: "Fortschritt durch die Sphären und das Laurelville Retreat"
+description: "Joseph Babinsky, empfangen durch Brian Holmes: „Ich hoffe, es geht dir gut. Es ist schon eine Weile her, seitdem wir miteinander gesprochen haben, und ich …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

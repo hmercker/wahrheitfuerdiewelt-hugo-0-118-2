@@ -1,7 +1,7 @@
 ---
 title: "Die Person hinter dem Schleier"
 menu_title: ""
-description: "Die Person hinter dem Schleier"
+description: "Jesus, empfangen durch Amada Reza: „Ich möchte mit euch eine Botschaft der Hoffnung teilen, die euch Trost bringen kann in diesen Zeiten, in denen …“"
 date: 2020-08-01 06:25:48+00:245
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir bitten euch, als Gottes Werkzeuge zu leuchten"
 menu_title: ""
-description: "Wir bitten euch, als Gottes Werkzeuge zu leuchten"
+description: "Jesus, empfangen durch Al Fike: „Das Gewebe der Dunkelheit, das eure Welt umhüllt, wird durch eure Absichten und Gebete zerrissen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Trinkt tief von Gottes Liebe"
 menu_title: ""
-description: "Trinkt tief von Gottes Liebe"
+description: "Konfuzius, empfangen durch Al Fike: „Geliebte Seelen, dies ist Konfuzius. Der Atem Gottes ist über euch und hält euch aufrecht und trägt euch ins Licht.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

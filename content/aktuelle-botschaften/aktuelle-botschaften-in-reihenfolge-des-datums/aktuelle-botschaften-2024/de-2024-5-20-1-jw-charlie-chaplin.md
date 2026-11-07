@@ -1,7 +1,7 @@
 ---
 title: "In der Liebe wiedergefundener Humor"
 menu_title: ""
-description: "In der Liebe wiedergefundener Humor"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Als ich heute Abend in euren Kreis kam, war ich so erfreut, dass ihr alle eure Geschichten erzählt habt …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

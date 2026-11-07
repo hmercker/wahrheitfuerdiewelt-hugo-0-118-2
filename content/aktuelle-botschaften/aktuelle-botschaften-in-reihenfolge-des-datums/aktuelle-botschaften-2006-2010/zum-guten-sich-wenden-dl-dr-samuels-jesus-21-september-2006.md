@@ -1,7 +1,7 @@
 ---
 title: "Zum Guten sich wenden"
 menu_title: ""
-description: "Zum Guten sich wenden"
+description: "Dr Samuels 1 & Jesus, empfangen durch David Lampron: „Meine lieber , ich bezweifle, dass ich die Worte habe, um euch zu vermitteln, wie sehr ich es …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

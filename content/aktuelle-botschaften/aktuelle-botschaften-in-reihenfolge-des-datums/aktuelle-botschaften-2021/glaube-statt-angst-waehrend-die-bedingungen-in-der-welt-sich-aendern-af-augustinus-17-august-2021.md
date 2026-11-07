@@ -1,7 +1,7 @@
 ---
 title: "Glaube statt Angst, während die Bedingungen in der Welt sich ändern"
 menu_title: ""
-description: "Glaube statt Angst, während die Bedingungen in der Welt sich ändern"
+description: "Augustinus, empfangen durch Al Fike: „Möget ihr mit offenen Herzen und offenen Seelen zum Vater kommen und von Seinem Nektar der Liebe trinken.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

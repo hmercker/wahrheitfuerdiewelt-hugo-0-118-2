@@ -1,7 +1,7 @@
 ---
 title: "Die drei Geburten"
 menu_title: ""
-description: "Die drei Geburten"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ich danke euch, dass ihr zusammengekommen seid, um für die Liebe Gottes zu beten und zu diesem …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

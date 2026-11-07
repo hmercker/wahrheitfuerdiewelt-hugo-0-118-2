@@ -1,7 +1,7 @@
 ---
 title: "Prüft euer verzerrtes Denken, bevor ihr behauptet, Werkzeuge Gottes zu sein"
 menu_title: ""
-description: "Prüft euer verzerrtes Denken, bevor ihr behauptet, Werkzeuge Gottes zu sein"
+description: "Tahlia, empfangen durch Al Fike: „Ihr müsst aufrichtig sein. Ihr dürft euch nicht von den Einflüssen und Irreführungen eures Verstandes leiten lassen.“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

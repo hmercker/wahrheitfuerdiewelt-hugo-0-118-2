@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit, Gnade und Liebe, die versprochen wurde, wird gegeben werden"
 menu_title: ""
-description: "Die Wahrheit, Gnade und Liebe, die versprochen wurde, wird gegeben werden"
+description: "Konfuzius, empfangen durch Al Fike: „Es ist euer Freund Konfuzius. Es scheint, dass euer lieber Gastgeber (P) nicht möchte, dass ihr euch ausruht, sondern …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

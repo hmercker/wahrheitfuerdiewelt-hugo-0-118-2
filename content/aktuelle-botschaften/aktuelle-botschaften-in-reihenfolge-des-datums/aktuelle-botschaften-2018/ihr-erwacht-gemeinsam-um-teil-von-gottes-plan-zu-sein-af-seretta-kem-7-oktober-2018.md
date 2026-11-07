@@ -1,7 +1,7 @@
 ---
 title: "Ihr erwacht gemeinsam, um Teil von Gottes Plan zu sein"
 menu_title: ""
-description: "Ihr erwacht gemeinsam, um Teil von Gottes Plan zu sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr errichtet hier so ein schönes Licht mit euren Gebeten, mit euren Gesprächen und Handlungen zusammen; erschafft …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

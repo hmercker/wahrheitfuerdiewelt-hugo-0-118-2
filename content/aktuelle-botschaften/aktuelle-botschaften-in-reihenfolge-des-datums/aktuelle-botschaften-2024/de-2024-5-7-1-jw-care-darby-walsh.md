@@ -1,7 +1,7 @@
 ---
 title: "Sprecht ein einfaches Gebet"
 menu_title: ""
-description: "Sprecht ein einfaches Gebet"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Meine Lieben, wenn man in der materiellen Welt lebt, einer Welt der Gedanken, der Konzepte, Ideologien …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

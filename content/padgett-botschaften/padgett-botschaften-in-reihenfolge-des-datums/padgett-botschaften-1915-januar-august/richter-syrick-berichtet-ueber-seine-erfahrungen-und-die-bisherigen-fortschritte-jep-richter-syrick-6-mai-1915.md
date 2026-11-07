@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick berichtet über seine Erfahrungen und die bisherigen Fortschritte"
 menu_title: ""
-description: "Richter Syrick berichtet über seine Erfahrungen und die bisherigen Fortschritte"
+description: "Richter Syrick, empfangen durch James Padgett: „Ich sage dir Padgett, sie ist ein Wunder und du solltest dich überaus bevorzugt fühlen, solch eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Deine Wunden überwinden - Teil 2"
 menu_title: ""
-description: "Deine Wunden überwinden - Teil 2"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich melde mich wieder, aber ich werde mich kurz fassen. Ich möchte nur klarstellen, was ich vorhin gesagt …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

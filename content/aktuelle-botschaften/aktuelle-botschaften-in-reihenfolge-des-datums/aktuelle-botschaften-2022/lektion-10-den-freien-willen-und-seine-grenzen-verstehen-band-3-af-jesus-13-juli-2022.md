@@ -1,7 +1,7 @@
 ---
 title: "Lektion 10 - Den freien Willen und seine Grenzen verstehen - Band 3"
 menu_title: ""
-description: "Lektion 10 - Den freien Willen und seine Grenzen verstehen - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Wie wunderbar wäre es, wenn ich mich leibhaftig manifestieren und direkt zu euch sprechen könnte.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt, dass Weißer Adler für die dunklen spirituellen Wesen zuständig ist und ihnen nur zur bestimmter Zeit erlaubt zu schreiben"
 menu_title: ""
-description: "Helen erklärt, dass Weißer Adler für die dunklen spirituellen Wesen zuständig ist und ihnen nur zur bestimmter Zeit erlaubt zu schreiben"
+description: "Helen, empfangen durch James Padgett: „Nun, diese spirituellen Wesen wollten so gerne schreiben, aber Weißer Adler lässt sie das nicht tun, denn er sagt …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

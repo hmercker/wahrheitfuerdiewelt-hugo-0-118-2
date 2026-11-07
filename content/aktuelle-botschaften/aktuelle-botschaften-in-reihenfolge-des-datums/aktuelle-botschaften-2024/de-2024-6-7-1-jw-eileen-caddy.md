@@ -1,7 +1,7 @@
 ---
 title: "Zuflucht schaffen"
 menu_title: ""
-description: "Zuflucht schaffen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich fühle mich zu dieser Diskussion und zu dieser Gruppe hingezogen und vielleicht kann ich euch den Rat …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

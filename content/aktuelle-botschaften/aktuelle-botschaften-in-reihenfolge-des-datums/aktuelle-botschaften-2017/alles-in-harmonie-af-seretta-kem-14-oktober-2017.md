@@ -1,7 +1,7 @@
 ---
 title: "Alles in Harmonie"
 menu_title: ""
-description: "Alles in Harmonie"
+description: "Seretta Kem, empfangen durch Al Fike: „Geliebte Tochter, du hast in der Tat eine Rolle in den Bemühungen zu spielen, die diese Individuen der Entwicklung …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

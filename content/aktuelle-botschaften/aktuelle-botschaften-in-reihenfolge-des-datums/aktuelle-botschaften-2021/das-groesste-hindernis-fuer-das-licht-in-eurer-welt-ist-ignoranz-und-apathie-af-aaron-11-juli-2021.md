@@ -1,7 +1,7 @@
 ---
 title: "Das größte Hindernis für das Licht in eurer Welt ist Ignoranz und Apathie"
 menu_title: ""
-description: "Das größte Hindernis für das Licht in eurer Welt ist Ignoranz und Apathie"
+description: "Aaron, empfangen durch Al Fike: „Diese beiden Aspekte des menschlichen Zustandes scheinen zusammenzukommen und erlauben es, dass sich viele der Bedingungen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

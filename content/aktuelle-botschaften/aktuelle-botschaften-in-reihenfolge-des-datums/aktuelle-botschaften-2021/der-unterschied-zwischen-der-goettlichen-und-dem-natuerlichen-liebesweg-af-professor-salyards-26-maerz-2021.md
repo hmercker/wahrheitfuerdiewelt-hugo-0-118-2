@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen der Göttlichen und dem natürlichen Liebesweg"
 menu_title: ""
-description: "Der Unterschied zwischen der Göttlichen und dem natürlichen Liebesweg"
+description: "Professor Salyards, empfangen durch Al Fike: „Obwohl ihr noch nicht oft von mir gehört habt, möchte ich euch sagen, dass ich oft an euren Zirkeln teilnehme …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

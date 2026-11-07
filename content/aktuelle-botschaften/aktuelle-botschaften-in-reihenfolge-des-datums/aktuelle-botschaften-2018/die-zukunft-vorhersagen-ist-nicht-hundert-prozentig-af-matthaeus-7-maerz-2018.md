@@ -1,7 +1,7 @@
 ---
 title: "Die Zukunft vorhersagen ist nicht hundert prozentig"
 menu_title: ""
-description: "Die Zukunft vorhersagen ist nicht hundert prozentig"
+description: "Matthäus, empfangen durch Al Fike: „Zunächst möchte ich sagen, dass eure Fähigkeiten und Kapazitäten, die Ereignisse der Zukunft zu verstehen, ziemlich …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

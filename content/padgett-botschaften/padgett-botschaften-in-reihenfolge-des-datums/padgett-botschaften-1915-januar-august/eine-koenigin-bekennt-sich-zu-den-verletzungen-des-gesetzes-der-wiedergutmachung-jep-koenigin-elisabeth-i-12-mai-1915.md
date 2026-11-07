@@ -1,7 +1,7 @@
 ---
 title: "Eine Königin bekennt sich zu den Verletzungen des Gesetzes der Wiedergutmachung"
 menu_title: ""
-description: "Eine Königin bekennt sich zu den Verletzungen des Gesetzes der Wiedergutmachung"
+description: "Elisabeth, empfangen durch James Padgett: „Ich war viele male hier, aber mir wurde zuvor nicht die Chance gegeben dir zu schreiben und nun da ich die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe filtert die Negativität heraus"
 menu_title: ""
-description: "Gottes Liebe filtert die Negativität heraus"
+description: "John Lennon, empfangen durch Jimbeau Walsh: „Ich fühle mich zu diesem Kreis hingezogen, weil ich in meinem geistigen Leben die Reiche des Lichts erforsche …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

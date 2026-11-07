@@ -1,7 +1,7 @@
 ---
 title: "Führung"
 menu_title: ""
-description: "Führung"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Vor der Gründung der Gemeinschaft, die ich zusammen mit Peter und Dorothy gegründet habe und die Findhorn …“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

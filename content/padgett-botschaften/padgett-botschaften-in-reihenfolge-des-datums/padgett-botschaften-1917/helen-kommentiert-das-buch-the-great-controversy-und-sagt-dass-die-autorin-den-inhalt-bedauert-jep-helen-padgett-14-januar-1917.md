@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert das Buch (The Great Controversy) und sagt, dass die Autorin den Inhalt bedauert"
 menu_title: ""
-description: "Helen kommentiert das Buch (The Great Controversy) und sagt, dass die Autorin den Inhalt bedauert"
+description: "Helen, empfangen durch James Padgett: „Nun, ich sehe, dass du ein Buch (The Great Controversy, eine Adventisten Publikation von Ellen G.“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

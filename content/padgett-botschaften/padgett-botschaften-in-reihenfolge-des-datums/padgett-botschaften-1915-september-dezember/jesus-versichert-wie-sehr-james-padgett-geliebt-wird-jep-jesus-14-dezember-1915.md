@@ -1,7 +1,7 @@
 ---
 title: "Jesus versichert, wie sehr James Padgett geliebt wird"
 menu_title: ""
-description: "Jesus versichert, wie sehr James Padgett geliebt wird"
+description: "Jesus, empfangen durch James Padgett: „Ich freue mich, dass du dich so sehr nach dieser Liebe sehnst, und ich sage dir, dass der Vater dich mit seiner …“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

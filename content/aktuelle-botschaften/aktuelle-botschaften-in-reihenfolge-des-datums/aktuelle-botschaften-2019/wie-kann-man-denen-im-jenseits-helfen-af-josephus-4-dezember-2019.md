@@ -1,7 +1,7 @@
 ---
 title: "Wie kann man denen im Jenseits helfen?"
 menu_title: ""
-description: "Wie kann man denen im Jenseits helfen?"
+description: "Josephus, empfangen durch Al Fike: „[Frage: Ist es für uns möglich, jenen in der Geistigen Welt zu helfen, die noch in Verwirrung, Angst und falschen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

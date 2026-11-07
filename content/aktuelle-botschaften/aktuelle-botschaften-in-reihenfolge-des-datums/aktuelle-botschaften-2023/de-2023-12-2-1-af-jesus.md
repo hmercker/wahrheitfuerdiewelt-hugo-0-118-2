@@ -1,7 +1,7 @@
 ---
 title: "Eine Wahrheit, viele Perspektiven"
 menu_title: ""
-description: "Eine Wahrheit, viele Perspektiven"
+description: "Jesus, empfangen durch Al Fike: „Der Segen der Liebe des Vaters kommt über euch. Ihr seid alle einzigartige Seelen, einzigartige Persönlichkeiten, und ihr …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

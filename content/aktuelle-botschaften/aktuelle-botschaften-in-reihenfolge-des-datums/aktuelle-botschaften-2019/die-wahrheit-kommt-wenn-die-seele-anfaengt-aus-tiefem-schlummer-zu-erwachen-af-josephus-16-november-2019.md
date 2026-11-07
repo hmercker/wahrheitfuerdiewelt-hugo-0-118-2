@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit kommt, wenn die Seele anfängt, aus tiefem Schlummer zu erwachen"
 menu_title: ""
-description: "Die Wahrheit kommt, wenn die Seele anfängt, aus tiefem Schlummer zu erwachen"
+description: "Josephus, empfangen durch Al Fike: „Meine lieben und geliebten Freunde, ihr versteht eure eigenen Seelen nicht wirklich. Ihr kennt nicht wirklich die …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

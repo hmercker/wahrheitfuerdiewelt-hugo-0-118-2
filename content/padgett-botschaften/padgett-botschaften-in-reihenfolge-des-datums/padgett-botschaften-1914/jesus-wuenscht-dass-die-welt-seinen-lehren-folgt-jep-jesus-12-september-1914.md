@@ -1,7 +1,7 @@
 ---
 title: "Jesus wünscht, dass die Welt seinen Lehren folgt"
 menu_title: ""
-description: "Jesus wünscht, dass die Welt seinen Lehren folgt"
+description: "Jesus- empfangen durch James Padgett: „Gott ist Liebe und jene die Ihn anbeten, mit Herz und Verstand werden nicht im Stich gelassen werden.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gesetze der Spirituellen Welt"
 menu_title: ""
-description: "Gesetze der Spirituellen Welt"
+description: "Professor Salyards, empfangen durch James Padgett: „Wie du weißt war ich hier nur eine vergleichsweise kurze Zeit und obwohl meine Studien zu einem …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

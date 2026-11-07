@@ -1,7 +1,7 @@
 ---
 title: "Die geistigen Reiche des Lichts"
 menu_title: ""
-description: "Die geistigen Reiche des Lichts"
+description: "Robert Hugh Benson, empfangen durch Jimbeau Walsh: „Möge der Segen Gottes über euch sein. Ich werde mich dieser Gruppe erneut vorstellen, für diejenigen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

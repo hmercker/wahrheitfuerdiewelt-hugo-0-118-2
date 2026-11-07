@@ -1,7 +1,7 @@
 ---
 title: "Persönliches für Jeanne und wachsendes Bedürfnis nach Unterstützung durch die Gemeinschaft der Göttlichen Liebe"
 menu_title: ""
-description: "Persönliches für Jeanne und wachsendes Bedürfnis nach Unterstützung durch die Gemeinschaft der Göttlichen Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, es ist euer Lehrer Augustinus. Ihr sprecht von euren Bedürfnissen in Bezug auf Veröffentlichungen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

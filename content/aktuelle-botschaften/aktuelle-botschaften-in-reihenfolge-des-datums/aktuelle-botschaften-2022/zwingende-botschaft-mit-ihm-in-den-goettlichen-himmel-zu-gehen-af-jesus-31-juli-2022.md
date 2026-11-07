@@ -1,7 +1,7 @@
 ---
 title: "Zwingende Botschaft, mit Ihm in den Göttlichen Himmel zu gehen "
 menu_title: ""
-description: "Zwingende Botschaft, mit Ihm in den Göttlichen Himmel zu gehen "
+description: "Jesus, empfangen durch Al Fike: „Denn das Mächtigste, was ihr für euren eigenen geistlichen Fortschritt tun könnt, ist, eure Herzen zu Gott zu schicken …“"
 date: 2022-08-02 06:00:00+00:10
 draft: False
 hidden: True

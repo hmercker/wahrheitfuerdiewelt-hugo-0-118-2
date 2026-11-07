@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 19 : Spirituelle Heilung"
 menu_title: ""
-description: "Offenbarung 19 : Spirituelle Heilung"
+description: "Jesus, empfangen durch Dr Samuels: „Die heutige Botschaft beschäftigt sich mit spiritueller Heilung. Die Frage, die an mich herangetragen wurde, lautet …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

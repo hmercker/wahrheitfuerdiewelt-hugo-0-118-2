@@ -1,7 +1,7 @@
 ---
 title: "Wie man mit den sich ändernden Bedingungen dieser Erde umgeht"
 menu_title: ""
-description: "Wie man mit den sich ändernden Bedingungen dieser Erde umgeht"
+description: "Josephus, empfangen durch Al Fike: „In diesem Moment wird jeder von euch mit Licht gesegnet. Wenn ihr zusammen betet und wenn ihr einzeln betet, verändert …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

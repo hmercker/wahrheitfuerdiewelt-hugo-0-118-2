@@ -1,7 +1,7 @@
 ---
 title: "Habt Hoffnung"
 menu_title: ""
-description: "Habt Hoffnung"
+description: "Amon, empfangen durch Jimbeau Walsh: „Und wie meinem geliebten Aman, dem ersten Menschen und mir, das Geschenk der göttlichen Liebe angeboten wurde, das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

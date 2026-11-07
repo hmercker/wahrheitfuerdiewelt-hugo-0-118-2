@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe des Vaters ist nie weit weg, wenn die Versuchung kommt"
 menu_title: ""
-description: "Die Liebe des Vaters ist nie weit weg, wenn die Versuchung kommt"
+description: "Jesus, empfangen durch James Padgett: „Ich war gestern Abend bei dir und habe erkannt, in welchem Zustand du dich befindest, und ich habe versucht, dich …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

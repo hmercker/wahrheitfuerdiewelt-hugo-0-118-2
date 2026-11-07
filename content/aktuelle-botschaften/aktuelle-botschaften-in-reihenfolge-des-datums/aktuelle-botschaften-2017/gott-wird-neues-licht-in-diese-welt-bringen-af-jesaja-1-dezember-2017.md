@@ -1,7 +1,7 @@
 ---
 title: "Gott wird neues Licht in diese Welt bringen"
 menu_title: ""
-description: "Gott wird neues Licht in diese Welt bringen"
+description: "Jesaja, empfangen durch Al Fike: „Ja, meine Brüder, die Welt ist dabei, sich zu verändern, denn Gott bringt den Anstoß zur Veränderung in seinen Segnungen …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

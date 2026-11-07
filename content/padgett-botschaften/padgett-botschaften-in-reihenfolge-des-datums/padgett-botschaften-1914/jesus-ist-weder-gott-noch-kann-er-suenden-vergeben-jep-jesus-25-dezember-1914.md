@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist weder Gott, noch kann er Sünden vergeben"
 menu_title: ""
-description: "Jesus ist weder Gott, noch kann er Sünden vergeben"
+description: "Jesus, empfangen durch James Padgett: „Du bist mein lieber Bruder und ich werde dir erzählen, was ich möchte dass du es zu diesem Zeitpunkt tust.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Warte nur, bis ich komme. Des Ewigen Juden Erfahrung"
 menu_title: ""
-description: "Warte nur, bis ich komme. Des Ewigen Juden Erfahrung"
+description: "Der Ewige Jude, empfangen durch James Padgett: „Und Jahr für Jahr wartete ich, bis er schließlich zu mir kam, nicht als wiedergeborener Jesus sondern als …“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

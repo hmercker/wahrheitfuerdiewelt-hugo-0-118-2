@@ -1,7 +1,7 @@
 ---
 title: "Der Urantia- und Mormonen-Text"
 menu_title: ""
-description: "Der Urantia- und Mormonen-Text"
+description: "Maria, empfangen durch Amada Reza: „[D leitete mir die Frage eines Suchenden aus dem Internet weiter, was die Gedanken des Meisters über das Urantia-Buch …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

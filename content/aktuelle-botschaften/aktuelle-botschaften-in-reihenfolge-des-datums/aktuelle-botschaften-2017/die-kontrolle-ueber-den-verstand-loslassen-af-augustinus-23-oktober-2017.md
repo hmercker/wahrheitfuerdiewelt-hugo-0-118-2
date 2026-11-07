@@ -1,7 +1,7 @@
 ---
 title: "Die Kontrolle über den Verstand loslassen"
 menu_title: ""
-description: "Die Kontrolle über den Verstand loslassen"
+description: "Augustinus, empfangen durch Al Fike: „Ich sehe, dass unser Freund Seretta Kem ziemlich hart mit euch umgegangen ist, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gefühlvoller Austausch mit Dem Einen"
 menu_title: ""
-description: "Gefühlvoller Austausch mit Dem Einen"
+description: "Vater, empfangen durch Child of God: „Der Eine, der Meine Substanz in eure Seele fließen lässt und euch tief mit Meiner Essenz berührt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

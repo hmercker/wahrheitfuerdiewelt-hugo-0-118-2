@@ -1,7 +1,7 @@
 ---
 title: "Hört auf die Stimmen der Hoffnung"
 menu_title: ""
-description: "Hört auf die Stimmen der Hoffnung"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Meine Lieben, ihr seid im Gebet zusammengekommen, um das große Geschenk der Liebe des Vaters zu …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

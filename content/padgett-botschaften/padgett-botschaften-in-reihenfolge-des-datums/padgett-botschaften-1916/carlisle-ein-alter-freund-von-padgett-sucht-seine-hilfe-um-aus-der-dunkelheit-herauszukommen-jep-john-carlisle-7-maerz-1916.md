@@ -1,7 +1,7 @@
 ---
 title: "Carlisle, ein alter Freund von Padgett, sucht seine Hilfe um aus der Dunkelheit herauszukommen"
 menu_title: ""
-description: "Carlisle, ein alter Freund von Padgett, sucht seine Hilfe um aus der Dunkelheit herauszukommen"
+description: "John G Carlisle 1, empfangen durch James Padgett: „Der Rat, den du mir gegeben hast und auch die Hilfe, die ich von Mr. Riddle erhielt, haben mir sehr …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

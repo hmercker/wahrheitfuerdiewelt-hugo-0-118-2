@@ -1,7 +1,7 @@
 ---
 title: "Prüft eure Motivation ein Medium zu sein"
 menu_title: ""
-description: "Prüft eure Motivation ein Medium zu sein"
+description: "Augustinus, empfangen durch Al Fike: „Wir freuen uns sehr, dass eine Reihe von Menschen bereit sind, sich die Zeit und die Mühe zu nehmen, sich in eurem …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

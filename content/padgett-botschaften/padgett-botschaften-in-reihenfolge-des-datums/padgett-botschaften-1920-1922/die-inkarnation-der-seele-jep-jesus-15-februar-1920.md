@@ -1,7 +1,7 @@
 ---
 title: "Die Inkarnation der Seele"
 menu_title: ""
-description: "Die Inkarnation der Seele"
+description: "Jesus, empfangen durch James Padgett: „Du hast bei deinem Studium der verschiedenen Theorien über die Erschaffung des Menschen vielleicht bemerkt, dass …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

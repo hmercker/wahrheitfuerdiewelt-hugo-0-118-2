@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt vom armen Lipscomb, der zu schreiben versuchte und sich einbildete, er sei betrunken"
 menu_title: ""
-description: "Helen erzählt vom armen Lipscomb, der zu schreiben versuchte und sich einbildete, er sei betrunken"
+description: "Helen, empfangen durch James Padgett: „Nun, du hast dir von einigen deiner alten Anwaltsfreunde schreiben lassen, und ich war froh darüber, denn sie …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

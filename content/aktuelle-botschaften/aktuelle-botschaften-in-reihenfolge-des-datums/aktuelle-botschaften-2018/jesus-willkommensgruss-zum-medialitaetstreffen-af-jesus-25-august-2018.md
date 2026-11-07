@@ -1,7 +1,7 @@
 ---
 title: "Jesus' Willkommensgruss zum Medialitäts-Treffen"
 menu_title: ""
-description: "Jesus' Willkommensgruss zum Medialitäts-Treffen"
+description: "Jesus, empfangen durch Al Fike: „Welche Freude bereitet es uns im Geiste, euch auf diese Weise zusammenkommen zu sehen, um die Möglichkeiten eures Dienstes …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

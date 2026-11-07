@@ -1,7 +1,7 @@
 ---
 title: "Andere Wesen und der Zweck dieser Botschaften"
 menu_title: ""
-description: "Andere Wesen und der Zweck dieser Botschaften"
+description: "Judas, empfangen durch H: „Mein lieber Bruder, betrachte dies nicht als Nachricht, betrachte es als einen einfachen Chat.“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

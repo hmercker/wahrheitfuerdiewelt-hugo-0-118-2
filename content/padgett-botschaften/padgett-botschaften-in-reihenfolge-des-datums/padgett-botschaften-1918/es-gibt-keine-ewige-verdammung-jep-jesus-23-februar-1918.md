@@ -1,7 +1,7 @@
 ---
 title: "Es gibt keine ewige Verdammung"
 menu_title: ""
-description: "Es gibt keine ewige Verdammung"
+description: "Jesus, empfangen durch James Padgett: „Ich sehe, dass du heute Abend in guter Verfassung bist, und dass ich in der Lage bin, eine Verbindung mit dir …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

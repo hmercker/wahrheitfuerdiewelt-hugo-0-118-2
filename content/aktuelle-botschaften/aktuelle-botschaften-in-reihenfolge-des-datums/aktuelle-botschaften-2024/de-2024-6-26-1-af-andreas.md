@@ -1,7 +1,7 @@
 ---
 title: "Lernt durch eure mentalen Fähigkeiten, liebt durch eure seelischen Fähigkeiten"
 menu_title: ""
-description: "Lernt durch eure mentalen Fähigkeiten, liebt durch eure seelischen Fähigkeiten"
+description: "Andreas, empfangen durch Al Fike: „(Es gibt die) Gegenwart Gottes in eurem Kreis. Es ist auch gut, dass ihr die Gesetze und die Art und Weise, wie Gott das …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

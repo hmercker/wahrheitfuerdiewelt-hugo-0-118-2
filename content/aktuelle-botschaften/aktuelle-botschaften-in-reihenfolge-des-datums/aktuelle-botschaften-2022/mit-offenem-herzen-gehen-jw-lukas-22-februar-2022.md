@@ -1,7 +1,7 @@
 ---
 title: "Mit offenem Herzen gehen"
 menu_title: ""
-description: "Mit offenem Herzen gehen"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Das große Geschenk des freien Willens gibt jeder Seele die Freiheit zu wählen, ob sie sich im Einklang mit dem …“"
 date: 2022-04-13 06:00:00+00:10
 draft: False
 hidden: True

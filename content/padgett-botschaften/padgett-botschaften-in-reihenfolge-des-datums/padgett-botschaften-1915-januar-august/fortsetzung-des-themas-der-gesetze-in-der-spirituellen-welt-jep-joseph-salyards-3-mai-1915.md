@@ -1,7 +1,7 @@
 ---
 title: "Fortsetzung des Themas der Gesetze in der Spirituellen Welt"
 menu_title: ""
-description: "Fortsetzung des Themas der Gesetze in der Spirituellen Welt"
+description: "Professor Salyards, empfangen durch James Padgett: „Nun, ich wünsche mir, meine Abhandlung über die Gesetze der geistigen Welt, wie sie vielen Geistern …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

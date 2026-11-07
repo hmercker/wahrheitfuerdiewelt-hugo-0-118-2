@@ -1,7 +1,7 @@
 ---
 title: "Ratschläge für Lehrer der Padgett Studiengruppe"
 menu_title: ""
-description: "Ratschläge für Lehrer der Padgett Studiengruppe"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Ich werde versuchen, euch ein ganz einfaches Beispiel für die Gnade Gottes zu geben. Wer kann die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

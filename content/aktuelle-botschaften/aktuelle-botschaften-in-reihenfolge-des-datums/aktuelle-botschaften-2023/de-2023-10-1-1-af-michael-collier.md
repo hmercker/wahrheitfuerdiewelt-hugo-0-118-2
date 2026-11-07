@@ -1,7 +1,7 @@
 ---
 title: "Seid euch bewusst, ein Licht in der Welt zu sein"
 menu_title: ""
-description: "Seid euch bewusst, ein Licht in der Welt zu sein"
+description: "Michael Collier, empfangen durch Al Fike: „Dank und Segen für euch, liebe Seelen. Ich möchte heute zu euch über die Macht eures Verstandes und eures …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Kommunion und Gemeinschaft"
 menu_title: ""
-description: "Spirituelle Kommunion und Gemeinschaft"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Denn ihr seid eine Gemeinschaft von Seelen, die nach dem Höchsten streben. Mit eurem Wachstum nehmt ihr immer mehr …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

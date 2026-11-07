@@ -1,7 +1,7 @@
 ---
 title: "Die von Gott berührte Seele ist der wahre Beweis"
 menu_title: ""
-description: "Die von Gott berührte Seele ist der wahre Beweis"
+description: "Thomas, empfangen durch Jimbeau Walsh: „Ich möchte über Beweise und Belege sprechen, die in so vielen Bereichen des Lebens erforderlich sind.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Welt wird diese Wahrheiten mit der Zeit erkennen"
 menu_title: ""
-description: "Die Welt wird diese Wahrheiten mit der Zeit erkennen"
+description: "James Padgett, empfangen durch Al Fike: „Ich war bei euch, als ihr über die Wahrheit Gottes und die göttliche Liebe gesprochen habt und wie sehr ihr euch …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

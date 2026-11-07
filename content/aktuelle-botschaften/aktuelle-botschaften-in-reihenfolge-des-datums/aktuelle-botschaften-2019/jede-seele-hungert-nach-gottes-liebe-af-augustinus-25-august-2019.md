@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele hungert nach Gottes Liebe"
 menu_title: ""
-description: "Jede Seele hungert nach Gottes Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Mögen sich eure Seelen weit öffnen für dieses große Geschenk der Liebe Gottes, das die vielen Kammern im Inneren …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Vater von Kaiser Wilhelm II stimmt Bismarck zu über die Freiheit des deutschen Volkes von der Ein-Mann-Herrschaft"
 menu_title: ""
-description: "Vater von Kaiser Wilhelm II stimmt Bismarck zu über die Freiheit des deutschen Volkes von der Ein-Mann-Herrschaft"
+description: "Friedrich III, empfangen durch James Padgett: „Ich möchte eine Zeile schreiben. Ich habe gehört, was Bismarck gesagt hat.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

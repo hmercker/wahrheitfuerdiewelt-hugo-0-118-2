@@ -1,7 +1,7 @@
 ---
 title: "Der Göttliche Verstand"
 menu_title: ""
-description: "Der Göttliche Verstand"
+description: "Johannes, empfangen durch Amada Reza: „Ich danke dir, dass du dir die Zeit genommen hast, dich zu mir zu setzen, denn ich weiß, dass du dich fragst, warum …“"
 date: 2020-08-01 06:25:48+00:273
 draft: False
 hidden: True

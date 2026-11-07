@@ -1,7 +1,7 @@
 ---
 title: "ein Glaube als er auf Erden war. Jesus kam und sagte ihm, dass er nicht Gott sei"
 menu_title: ""
-description: "ein Glaube als er auf Erden war. Jesus kam und sagte ihm, dass er nicht Gott sei"
+description: "Hugh Latimer, empfangen durch James Padgett: „Ich war der Märtyrer, der auf dem Scheiterhaufen verbrannt wurde wegen meines Glaubens an Gott und an die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

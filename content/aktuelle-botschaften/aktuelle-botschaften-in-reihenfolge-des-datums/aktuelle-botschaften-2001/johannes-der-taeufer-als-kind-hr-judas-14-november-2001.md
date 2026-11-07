@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer als Kind"
 menu_title: ""
-description: "Johannes der Täufer als Kind"
+description: "Judas, empfangen durch H.: „Ich habe gestern kommentiert, dass der Vater von Johannes dem Täufer, Zacharias, Tempelpriester in Jerusalem war.“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

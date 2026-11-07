@@ -1,7 +1,7 @@
 ---
 title: "Seid ein wahrer Kanal für Gott"
 menu_title: ""
-description: "Seid ein wahrer Kanal für Gott"
+description: "Augustinus: „Es tut mir sehr leid, dass ich heute Abend nicht mit Direkter Stimme zu euch sprechen kann, aber ich hoffe, dass ihr, bevor dieses Treffen zu …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

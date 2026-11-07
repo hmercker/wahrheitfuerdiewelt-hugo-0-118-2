@@ -1,7 +1,7 @@
 ---
 title: "Die Engel kommen einen weiten Weg, um bei euch zu sein"
 menu_title: ""
-description: "Die Engel kommen einen weiten Weg, um bei euch zu sein"
+description: "Jesus, empfangen durch Al Fike: „Möge der Segen der Liebe des Vaters über euch sein, geliebte Brüder und Schwestern. Ich bitte euch, euren Brüdern und …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

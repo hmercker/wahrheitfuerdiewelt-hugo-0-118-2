@@ -1,7 +1,7 @@
 ---
 title: "Erwartungen des Verstandes - Loslassen"
 menu_title: ""
-description: "Erwartungen des Verstandes - Loslassen"
+description: "Augustinus, empfangen durch Al Fike: „Es gibt den Wunsch des Verstandes, die Ergebnisse vieler Dinge um euch herum zu kontrollieren, die Welt nach euren …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

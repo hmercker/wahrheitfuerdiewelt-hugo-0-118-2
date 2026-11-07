@@ -1,7 +1,7 @@
 ---
 title: "Wir arbeiten gemeinsam im Dienst für Gott"
 menu_title: ""
-description: "Wir arbeiten gemeinsam im Dienst für Gott"
+description: "James Reid 1, empfangen durch Al Fike: „Wenn ich noch auf der Erde wäre, hätte ich mich gerne zu euch in diesen Kreis der spirituellen Menschen gesellt.“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

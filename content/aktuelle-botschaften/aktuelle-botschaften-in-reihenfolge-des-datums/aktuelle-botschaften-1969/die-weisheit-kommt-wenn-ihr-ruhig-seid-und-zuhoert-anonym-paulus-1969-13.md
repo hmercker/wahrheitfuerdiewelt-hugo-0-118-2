@@ -1,7 +1,7 @@
 ---
 title: "Die Weisheit kommt, wenn ihr ruhig seid und zuhört"
 menu_title: ""
-description: "Die Weisheit kommt, wenn ihr ruhig seid und zuhört"
+description: "Paulus: „Was für ein wunderbarer Zustand herrscht hier heute Abend, meine Freunde, und ich möchte euch sagen, wie gesegnet wir sind, dass wir uns so …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

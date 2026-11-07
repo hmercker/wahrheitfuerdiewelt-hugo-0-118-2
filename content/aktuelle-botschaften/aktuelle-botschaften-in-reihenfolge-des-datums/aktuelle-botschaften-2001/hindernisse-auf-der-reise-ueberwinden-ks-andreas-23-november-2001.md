@@ -1,7 +1,7 @@
 ---
 title: "Hindernisse auf der Reise überwinden"
 menu_title: ""
-description: "Hindernisse auf der Reise überwinden"
+description: "Andreas, empfangen durch Kathryn Stone: „Ich bete für ein großes Einströmen deiner Göttlichen Liebe in dieser Zeit. Ich bete um Schutz vor Geistern, die …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

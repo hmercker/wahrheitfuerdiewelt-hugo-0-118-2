@@ -1,7 +1,7 @@
 ---
 title: "Seid stark in der Liebe, denn andere brauchen euch in dieser Welt"
 menu_title: ""
-description: "Seid stark in der Liebe, denn andere brauchen euch in dieser Welt"
+description: "Mahatma Gandhi, empfangen durch Al Fike: „Mögen wir in der Tat alle gemeinsam an diesem Ziel arbeiten. Mögen wir in diesem Unterfangen tatsächlich …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

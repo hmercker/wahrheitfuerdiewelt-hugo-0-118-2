@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist das Größte aller Gesetze"
 menu_title: ""
-description: "Die Göttliche Liebe ist das Größte aller Gesetze"
+description: "Moses, empfangen durch Elisabeth Mack: „Mein Bruder und ich (Israel ben Eliezer/Ba'al Shem Tov) teilen dieselbe Tradition und nun auch die Liebe, die uns …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

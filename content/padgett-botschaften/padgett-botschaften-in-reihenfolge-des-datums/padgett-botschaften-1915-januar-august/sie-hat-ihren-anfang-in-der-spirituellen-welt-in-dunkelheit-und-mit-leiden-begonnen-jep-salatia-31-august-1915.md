@@ -1,7 +1,7 @@
 ---
 title: "Sie hat ihren Anfang in der spirituellen Welt in Dunkelheit und mit Leiden begonnen"
 menu_title: ""
-description: "Sie hat ihren Anfang in der spirituellen Welt in Dunkelheit und mit Leiden begonnen"
+description: "Salatia, empfangen durch James Padgett: „Als ich auf der Erde war, war ich eine Frau aus Italien. Ich war ein großer Arbeiter für die Kirche und stand an …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

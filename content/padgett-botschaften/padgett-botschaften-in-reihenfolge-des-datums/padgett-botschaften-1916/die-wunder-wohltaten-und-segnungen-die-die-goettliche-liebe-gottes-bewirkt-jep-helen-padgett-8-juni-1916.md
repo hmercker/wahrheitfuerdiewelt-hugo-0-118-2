@@ -1,7 +1,7 @@
 ---
 title: "Die Wunder, Wohltaten und Segnungen die die Göttliche Liebe Gottes bewirkt"
 menu_title: ""
-description: "Die Wunder, Wohltaten und Segnungen die die Göttliche Liebe Gottes bewirkt"
+description: "Helen, empfangen durch James Padgett: „Heute Abend scheint alles günstig zu sein, dass ich dir meine versprochene Botschaft schreibe, und ich werde es …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

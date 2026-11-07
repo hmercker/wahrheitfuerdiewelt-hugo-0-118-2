@@ -1,7 +1,7 @@
 ---
 title: "Das Gesicht der Liebe"
 menu_title: ""
-description: "Das Gesicht der Liebe"
+description: "Maria Magdalena, empfangen durch Amada Reza: „Ich möchte diese Gelegenheit nutzen, um euch, die ihr euch entschieden habt, Jesus auf dem Weg der Göttlichen …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

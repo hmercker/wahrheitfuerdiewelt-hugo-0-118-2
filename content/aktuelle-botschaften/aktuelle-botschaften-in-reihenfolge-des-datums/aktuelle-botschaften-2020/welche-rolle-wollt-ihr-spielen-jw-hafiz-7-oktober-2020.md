@@ -1,7 +1,7 @@
 ---
 title: "Welche Rolle wollt ihr spielen?"
 menu_title: ""
-description: "Welche Rolle wollt ihr spielen?"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Überraschung Überraschung! Wenn ihr meine Gedichte und meine Schriften lest, sind sie von einer Fülle von Gefühlen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

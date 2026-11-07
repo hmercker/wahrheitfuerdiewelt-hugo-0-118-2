@@ -1,7 +1,7 @@
 ---
 title: "Es ist die Liebe des Vaters, die rettet, und nicht Jesu Blut und Tod"
 menu_title: ""
-description: "Es ist die Liebe des Vaters, die rettet, und nicht Jesu Blut und Tod"
+description: "Jesus, empfangen durch James Padgett: „Ich hatte vor, meine Botschaft heute Abend zu beenden, aber ich sehe, dass du geneigt bist, sie nicht zu empfangen …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

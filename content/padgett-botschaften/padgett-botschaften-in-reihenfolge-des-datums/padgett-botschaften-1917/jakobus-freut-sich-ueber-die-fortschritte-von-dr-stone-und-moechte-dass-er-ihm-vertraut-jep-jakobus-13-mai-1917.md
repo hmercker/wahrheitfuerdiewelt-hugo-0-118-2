@@ -1,7 +1,7 @@
 ---
 title: "Jakobus freut sich über die Fortschritte von Dr Stone und möchte, dass er ihm vertraut"
 menu_title: ""
-description: "Jakobus freut sich über die Fortschritte von Dr Stone und möchte, dass er ihm vertraut"
+description: "Jakobus, empfangen durch James Padgett: „Ich habe gehört, wie du die Botschaften gelesen hast, und ich habe eurem Gespräch zugehört, und es freut mich …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

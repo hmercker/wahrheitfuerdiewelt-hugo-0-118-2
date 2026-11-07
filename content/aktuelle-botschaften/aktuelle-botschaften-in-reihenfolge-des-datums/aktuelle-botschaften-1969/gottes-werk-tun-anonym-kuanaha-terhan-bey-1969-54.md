@@ -1,7 +1,7 @@
 ---
 title: "Gottes Werk tun"
 menu_title: ""
-description: "Gottes Werk tun"
+description: "Kuahana-Theran-Bey: „Es ist viele Jahre her, seit ich auf der Erdenebene war, und bis vor kurzem wusste ich noch nicht, dass ich zur Erde kommen und wieder …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

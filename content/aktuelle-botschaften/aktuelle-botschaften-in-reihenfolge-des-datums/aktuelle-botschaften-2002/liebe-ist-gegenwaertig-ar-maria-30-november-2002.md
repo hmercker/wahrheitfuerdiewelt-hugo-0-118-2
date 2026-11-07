@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist gegenwärtig"
 menu_title: ""
-description: "Liebe ist gegenwärtig"
+description: "Maria, empfangen durch Amda Reza: „Ja, du durchlebst eine ziemlich schwierige Zeit in deinem emotionalen und physischen Leben, aber du entdeckst eine …“"
 date: 2020-08-01 06:25:48+00:248
 draft: False
 hidden: True

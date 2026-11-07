@@ -1,7 +1,7 @@
 ---
 title: "Die zweite Botschaft von Mary Kennedy"
 menu_title: ""
-description: "Die zweite Botschaft von Mary Kennedy"
+description: "Mary Kennedy, empfangen von James Padgett: „Ich freue mich so sehr über die Gelegenheit, meinem lieben Seelenpartner zu schreiben, denn es ist lange her …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

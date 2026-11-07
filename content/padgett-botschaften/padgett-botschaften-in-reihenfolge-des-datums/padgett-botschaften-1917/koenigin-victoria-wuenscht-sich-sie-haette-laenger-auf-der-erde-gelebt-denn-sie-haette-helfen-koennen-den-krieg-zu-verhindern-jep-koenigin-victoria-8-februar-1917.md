@@ -1,7 +1,7 @@
 ---
 title: "Königin Victoria wünscht sich, sie hätte länger auf der Erde gelebt, denn sie hätte helfen können, den Krieg zu verhindern"
 menu_title: ""
-description: "Königin Victoria wünscht sich, sie hätte länger auf der Erde gelebt, denn sie hätte helfen können, den Krieg zu verhindern"
+description: "Victoria, empfangen durch James Padgett: „Ich muss eine Zeile schreiben, denn ich habe den Mitteilungen zugehört und habe das Gefühl, dass niemand, der …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

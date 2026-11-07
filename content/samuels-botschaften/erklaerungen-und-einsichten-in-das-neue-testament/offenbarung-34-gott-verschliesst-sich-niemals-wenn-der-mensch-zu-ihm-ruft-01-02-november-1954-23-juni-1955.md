@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 34 : Gott verschließt sich niemals, wenn der Mensch zu Ihm ruft "
 menu_title: ""
-description: "Offenbarung 34 : Gott verschließt sich niemals, wenn der Mensch zu Ihm ruft "
+description: "Johannes, empfangen durch Dr Samuels: „Ich war heute bei dir, als du mit dem Doktor verschiedenen Passagen des sogenannten Johannes-Evangeliums erörtert hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

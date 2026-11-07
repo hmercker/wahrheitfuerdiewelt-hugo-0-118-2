@@ -1,7 +1,7 @@
 ---
 title: "Jesus weist auf ein Spirituelles Wesen hin, das behauptet seine Seele verloren zu haben"
 menu_title: ""
-description: "Jesus weist auf ein Spirituelles Wesen hin, das behauptet seine Seele verloren zu haben"
+description: "Jesus, empfangen durch James Padgett: „Jene Personen, welche diese Tatsache nicht glauben werden, werden eines Tages davon überzeugt sein, besonders dein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

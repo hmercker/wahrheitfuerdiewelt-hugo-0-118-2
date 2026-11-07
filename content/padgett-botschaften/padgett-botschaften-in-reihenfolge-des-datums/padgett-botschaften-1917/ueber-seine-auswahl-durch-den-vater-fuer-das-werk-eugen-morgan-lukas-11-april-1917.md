@@ -1,7 +1,7 @@
 ---
 title: "Über seine Auswahl durch den Vater für das Werk"
 menu_title: ""
-description: "Über seine Auswahl durch den Vater für das Werk"
+description: "Lukas, empfangen durch Eugene Morgan: „Ich war gestern Abend bei dir und habe geschrieben, wie du gehört hast. Du musst glauben, dass du auserwählt bist …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

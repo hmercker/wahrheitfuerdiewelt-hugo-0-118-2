@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt seine Reise von den tiefsten Höllen zu dem Göttlichen Himmel"
 menu_title: ""
-description: "Beschreibt seine Reise von den tiefsten Höllen zu dem Göttlichen Himmel"
+description: "Caligula, empfangen durch Al Fike: „Ihr seid sicher überrascht, dass ich zu euch spreche, wenn man bedenkt, dass mein Ruf noch heute bekannt ist.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

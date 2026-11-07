@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick's Seelengefährtin schreibt über seine Fortschritte in der Göttlichen Lieb"
 menu_title: ""
-description: "Richter Syrick's Seelengefährtin schreibt über seine Fortschritte in der Göttlichen Lieb"
+description: "Rose, empfangen durch James Padgett: „Nun, der Richter ist in die dritte Sphäre vorgedrungen, und er ist so glücklich, dass er kaum weiß, was er tun oder …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

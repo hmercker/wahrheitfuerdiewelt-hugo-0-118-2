@@ -1,7 +1,7 @@
 ---
 title: "Das Wirken deiner Wünsche - das Gesetz des Begehrens"
 menu_title: ""
-description: "Das Wirken deiner Wünsche - das Gesetz des Begehrens"
+description: "Judas, empfangen durch H.: „Das ist sicherlich keine Überraschung. Ich habe dich natürlich nach Guayaquil begleitet.“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

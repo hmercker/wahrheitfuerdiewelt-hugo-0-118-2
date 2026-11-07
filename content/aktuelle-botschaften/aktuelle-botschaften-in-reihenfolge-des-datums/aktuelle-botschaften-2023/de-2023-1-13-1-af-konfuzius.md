@@ -1,7 +1,7 @@
 ---
 title: "Vergeudet diese Gelegenheiten nicht"
 menu_title: ""
-description: "Vergeudet diese Gelegenheiten nicht"
+description: "Konfuzius, empfangen durch Al Fike: „Seid unschuldig wie ein Kind. Seid liebevoll zueinander und wisst, wie unser lieber Bruder gesagt hat, dass dies eine …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Er wusste nichts von der Entwicklung der Seele durch die Göttliche Liebe als er auf Erden war"
 menu_title: ""
-description: "Er wusste nichts von der Entwicklung der Seele durch die Göttliche Liebe als er auf Erden war"
+description: "Hieronymus, empfangen durch James Padgett: „Nun möchte ich nur sagen, dass du bei den spirituellen Wesen, die in den himmlischen Sphären wohnen und auch …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

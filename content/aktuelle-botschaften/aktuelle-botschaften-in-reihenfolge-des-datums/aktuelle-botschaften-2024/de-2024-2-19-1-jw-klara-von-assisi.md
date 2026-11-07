@@ -1,7 +1,7 @@
 ---
 title: "Alle Dinge vereinen sich zu eurem Glück in Gottes Liebe"
 menu_title: ""
-description: "Alle Dinge vereinen sich zu eurem Glück in Gottes Liebe"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes in unsere Seelen fließen. Ist das Gebet nicht der Wunsch des Herzens, von der Liebe …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

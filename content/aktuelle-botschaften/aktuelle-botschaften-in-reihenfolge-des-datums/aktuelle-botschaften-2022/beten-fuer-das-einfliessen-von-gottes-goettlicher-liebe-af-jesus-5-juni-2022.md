@@ -1,7 +1,7 @@
 ---
 title: "Beten für das Einfließen von Gottes göttlicher Liebe"
 menu_title: ""
-description: "Beten für das Einfließen von Gottes göttlicher Liebe"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch ist ein Lichtpunkt auf der Erde, jeder von euch betet nicht nur für die eigene Seele, sondern auch für die …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

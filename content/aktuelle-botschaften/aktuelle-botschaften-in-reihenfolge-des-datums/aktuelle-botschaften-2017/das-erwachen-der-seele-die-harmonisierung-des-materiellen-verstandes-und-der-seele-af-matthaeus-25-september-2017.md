@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele - die Harmonisierung des materiellen Verstandes und der Seele"
 menu_title: ""
-description: "Das Erwachen der Seele - die Harmonisierung des materiellen Verstandes und der Seele"
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte das Thema ansprechen, was ihr Realität nennt, denn die Menschheit hat ein großes Verlangen, ihre …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

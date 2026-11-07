@@ -1,7 +1,7 @@
 ---
 title: "Setzt eure Bemühungen fort, die Wahrheit zu verbreiten"
 menu_title: ""
-description: "Setzt eure Bemühungen fort, die Wahrheit zu verbreiten"
+description: "Jakobus, empfangen durch Al Fiek: „Ihr sprecht über die Mittel und Wege, wie ihr andere über diese Wahrheit informieren könnt.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

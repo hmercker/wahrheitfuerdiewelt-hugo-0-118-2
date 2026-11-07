@@ -1,7 +1,7 @@
 ---
 title: "Wahre Führung bringt ein weitreichendes und freudiges Signal in die Seele"
 menu_title: ""
-description: "Wahre Führung bringt ein weitreichendes und freudiges Signal in die Seele"
+description: "Andreas, empfangen durch Al Fike: „Es beunruhigt mich, dass einige von euch fühlen und wahrnehmen, dass ihr nicht gebraucht werdet und dass ihr vielleicht …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt Spinoza's Schreiben "
 menu_title: ""
-description: "Helen bestätigt Spinoza's Schreiben "
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, es tut mir leid, dass ich nicht schreiben konnte, aber es gab einige Geisteswesen in Schwierigkeiten …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

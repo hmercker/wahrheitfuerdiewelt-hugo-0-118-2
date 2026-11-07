@@ -1,7 +1,7 @@
 ---
 title: "Das Bewusstsein von Gott"
 menu_title: ""
-description: "Das Bewusstsein von Gott"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn die Welt zur Sterblichkeit und der Kostbarkeit des Lebens erwacht, bringt das Demut und Gebet, eine …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

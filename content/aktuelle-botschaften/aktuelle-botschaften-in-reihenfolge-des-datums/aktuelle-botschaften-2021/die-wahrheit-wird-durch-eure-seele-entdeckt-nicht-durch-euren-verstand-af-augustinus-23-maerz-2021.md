@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit wird durch eure Seele entdeckt, nicht durch euren Verstand "
 menu_title: ""
-description: "Die Wahrheit wird durch eure Seele entdeckt, nicht durch euren Verstand "
+description: "Augustinus, empfangen durch Al Fike: „Die vielen Religionen dieser Welt helfen, den Verstand vieler zu trösten, indem sie ihnen Ideen, Konzepte und …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

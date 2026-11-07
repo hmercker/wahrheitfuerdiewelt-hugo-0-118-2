@@ -1,7 +1,7 @@
 ---
 title: "Bringt den Willen Gottes in alles, was ihr tut"
 menu_title: ""
-description: "Bringt den Willen Gottes in alles, was ihr tut"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich freue mich, dass ihr zu einigen Schlussfolgerungen und Erkenntnissen gekommen seid, was die nächsten …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

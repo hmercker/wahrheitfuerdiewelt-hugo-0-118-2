@@ -1,7 +1,7 @@
 ---
 title: "Die Substanz der Freude"
 menu_title: ""
-description: "Die Substanz der Freude"
+description: "Goldie, empfangen durch Maureen Cardoso: „Ihr sprecht von den Eigenschaften der Seele. Ich bringe immer Freude in den Kreis.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

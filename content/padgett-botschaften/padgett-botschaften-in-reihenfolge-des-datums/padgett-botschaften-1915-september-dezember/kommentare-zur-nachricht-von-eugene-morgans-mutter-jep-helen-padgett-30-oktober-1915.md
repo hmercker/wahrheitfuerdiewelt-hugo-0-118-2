@@ -1,7 +1,7 @@
 ---
 title: "Kommentare zur Nachricht von Eugene Morgan's Mutter"
 menu_title: ""
-description: "Kommentare zur Nachricht von Eugene Morgan's Mutter"
+description: "Helen, empfangen durch James Padgett: „Nun, mein lieber alter Ned, was für schöne und wunderbare Botschaften hast du heute Abend erhalten.“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

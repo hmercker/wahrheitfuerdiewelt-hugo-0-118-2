@@ -1,7 +1,7 @@
 ---
 title: "Was ist die Seele?"
 menu_title: ""
-description: "Was ist die Seele?"
+description: "Augustinus, empfangen durch Al Fike: „Ihr fragt: Was ist die Seele? Was ist dieser Ort tief in mir, von dem meine Engelsfreunde gesagt haben, dass er auf …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

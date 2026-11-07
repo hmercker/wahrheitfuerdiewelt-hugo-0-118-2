@@ -1,7 +1,7 @@
 ---
 title: "Es ist Einfach"
 menu_title: ""
-description: "Es ist Einfach"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn ihr euren Seelen erlaubt, sich zu öffnen und eure Herzen an dem Ort der Sicherheit und der Umarmung unseres …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

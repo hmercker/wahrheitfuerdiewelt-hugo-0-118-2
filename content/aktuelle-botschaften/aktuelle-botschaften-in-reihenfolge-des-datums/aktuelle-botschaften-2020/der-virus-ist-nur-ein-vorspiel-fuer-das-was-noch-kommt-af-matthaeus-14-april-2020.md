@@ -1,7 +1,7 @@
 ---
 title: "Der Virus ist nur ein Vorspiel für das, was noch kommt"
 menu_title: ""
-description: "Der Virus ist nur ein Vorspiel für das, was noch kommt"
+description: "Matthäus, empfangen durch Al Fike: „Gott schüttet Segnungen des Lichts und der Liebe, Heilung und Frieden über eure Welt aus. Angesichts der ungewöhnlichen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

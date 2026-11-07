@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid an einem Wendepunkt in eurem Dienst an Gott"
 menu_title: ""
-description: "Ihr seid an einem Wendepunkt in eurem Dienst an Gott"
+description: "Jesus, empfangen durch Al Fike: „Ihr alle kommt in Liebe zusammen, sucht das Höchste der Wahrheit, drückt eure Ambitionen und Wünsche aus, Gott im Licht …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gewohnheiten, Süchte und Heilung - Teil 1"
 menu_title: ""
-description: "Gewohnheiten, Süchte und Heilung - Teil 1"
+description: "Fred Rogers, empfangen durch Jimbeau Walsh: „Ich fühle mich zu diesem Kreis hingezogen, denn wenn ihr anruft, kommen wir und hören uns oft eure Anliegen an.“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

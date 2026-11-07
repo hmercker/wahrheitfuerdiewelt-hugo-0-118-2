@@ -1,7 +1,7 @@
 ---
 title: "Jesus wünscht über die Liebe Gottes‘ zu schreiben"
 menu_title: ""
-description: "Jesus wünscht über die Liebe Gottes‘ zu schreiben"
+description: "Jesus, empfangen durch James Padgett: „Christus Jesus ist hier und wünscht über die Liebe Gottes‘ und die Bedürfnisse der Menschheit zu schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

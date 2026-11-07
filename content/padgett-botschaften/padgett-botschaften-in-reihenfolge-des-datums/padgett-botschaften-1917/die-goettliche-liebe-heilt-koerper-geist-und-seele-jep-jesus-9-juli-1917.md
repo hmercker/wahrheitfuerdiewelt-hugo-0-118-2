@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe heilt Körper, Geist und Seele"
 menu_title: ""
-description: "Die Göttliche Liebe heilt Körper, Geist und Seele"
+description: "Jesus, empfangen durch James Padgett: „Nun, mein Bruder, ich sehe, dass es dir viel besser geht als in den vergangenen Tagen, und dass du mehr zum Vater um …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Demonstration der Medialität und Gespräch über spirituelle Sphären "
 menu_title: ""
-description: "Demonstration der Medialität und Gespräch über spirituelle Sphären "
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott euch alle segnen. Ja, ich residiere im himmlischen Königreich und das schon seit vielen Jahrhunderten.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

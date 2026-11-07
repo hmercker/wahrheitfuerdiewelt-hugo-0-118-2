@@ -1,7 +1,7 @@
 ---
 title: "Die Führung, die ich im Leben empfangen habe"
 menu_title: ""
-description: "Die Führung, die ich im Leben empfangen habe"
+description: "Pastor George Vale Owen, empfangen durch Jimbeau Walsh: „Ihr kennt mich vielleicht als Pastor Owen. Ich war heute bei euch und habe euch von meiner Seele …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

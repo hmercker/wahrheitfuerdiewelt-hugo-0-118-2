@@ -1,7 +1,7 @@
 ---
 title: "Demut"
 menu_title: ""
-description: "Demut"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt eine Diskussion über die Bedeutung der Demut geführt und ich möchte mich dazu äußern.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

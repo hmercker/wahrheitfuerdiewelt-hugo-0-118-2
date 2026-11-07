@@ -1,7 +1,7 @@
 ---
 title: "Einige Antworten auf persönliche Fragen, zusammen mit ein paar Perlen der Weisheit"
 menu_title: ""
-description: "Einige Antworten auf persönliche Fragen, zusammen mit ein paar Perlen der Weisheit"
+description: "Jesus, empfangen durch Kathryn Stokes: „Ich fühle mich heute Nachmittag ein wenig traurig. Ich habe mein Empfangen von Nachrichten für eine Weile …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

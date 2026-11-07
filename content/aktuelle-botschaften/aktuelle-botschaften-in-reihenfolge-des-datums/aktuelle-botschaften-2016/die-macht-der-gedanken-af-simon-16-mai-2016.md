@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Gedanken"
 menu_title: ""
-description: "Die Macht der Gedanken"
+description: "Simon, empfangen durch Al Fike: „Eure Welt ist voll von Gedanken. Eure Welt ist voll von Informationen, intellektuell, konzeptionell, mit vielen Lehren und …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

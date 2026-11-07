@@ -1,7 +1,7 @@
 ---
 title: "Tretet vor als Instrumente des Lichts"
 menu_title: ""
-description: "Tretet vor als Instrumente des Lichts"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus hier, und ich war mit euch in euren Gesprächen. Die Herausforderung und das Dilemma …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

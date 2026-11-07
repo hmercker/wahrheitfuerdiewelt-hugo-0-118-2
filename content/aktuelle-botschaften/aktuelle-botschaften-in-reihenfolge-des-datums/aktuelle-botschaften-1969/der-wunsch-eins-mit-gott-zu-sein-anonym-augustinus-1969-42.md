@@ -1,7 +1,7 @@
 ---
 title: "Der Wunsch, eins mit Gott zu sein"
 menu_title: ""
-description: "Der Wunsch, eins mit Gott zu sein"
+description: "Augustinus: „Die Kraft der Liebe, die Liebe von Gott wird euch von unserem geliebten Meister gebracht, der im Zentrum eures Kreises steht.“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

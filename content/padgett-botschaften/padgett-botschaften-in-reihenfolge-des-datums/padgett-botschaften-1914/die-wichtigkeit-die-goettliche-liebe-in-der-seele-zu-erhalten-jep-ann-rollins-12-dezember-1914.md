@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit die Göttliche Liebe in der Seele zu erhalten"
 menu_title: ""
-description: "Die Wichtigkeit die Göttliche Liebe in der Seele zu erhalten"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich möchte dir mehr über die Dinge des Geistes erzählen, da sie wichtige Dinge darstellen, über welche du …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

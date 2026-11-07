@@ -1,7 +1,7 @@
 ---
 title: "Engel beten für uns in unserem Erwachen"
 menu_title: ""
-description: "Engel beten für uns in unserem Erwachen"
+description: "Maria, empfangen durch Maureen Cardoso: „Geliebte Seelen, es ist Maria. Darf ich nur sagen, wie schön es ist, zu sehen, wie ihr dem Ruf des Gebets folgt.“"
 date: 2020-08-01 06:25:48+00:256
 draft: False
 hidden: True

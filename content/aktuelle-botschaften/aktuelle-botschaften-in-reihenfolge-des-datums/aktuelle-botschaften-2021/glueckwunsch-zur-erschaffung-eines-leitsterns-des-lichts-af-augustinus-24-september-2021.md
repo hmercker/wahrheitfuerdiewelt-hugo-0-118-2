@@ -1,7 +1,7 @@
 ---
 title: "Glückwunsch zur Erschaffung eines Leitsterns des Lichts"
 menu_title: ""
-description: "Glückwunsch zur Erschaffung eines Leitsterns des Lichts"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gottes Liebe auch weiterhin eure Seele erwecken und euch an diesen Ort der Klarheit, der tiefen spirituellen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

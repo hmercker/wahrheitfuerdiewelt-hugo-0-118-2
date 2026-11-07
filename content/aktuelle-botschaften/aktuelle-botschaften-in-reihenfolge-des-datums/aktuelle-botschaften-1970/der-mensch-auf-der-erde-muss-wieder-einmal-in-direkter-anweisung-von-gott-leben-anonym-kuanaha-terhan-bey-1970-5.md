@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch auf der Erde muss wieder einmal in direkter Anweisung von Gott leben"
 menu_title: ""
-description: "Der Mensch auf der Erde muss wieder einmal in direkter Anweisung von Gott leben"
+description: "Kuanaha Terhan Bey: „Ich spreche nicht gerne auf diese Weise, aber das ist alles, was ich heute Abend durch dieses Instrument tun darf, aber mein …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

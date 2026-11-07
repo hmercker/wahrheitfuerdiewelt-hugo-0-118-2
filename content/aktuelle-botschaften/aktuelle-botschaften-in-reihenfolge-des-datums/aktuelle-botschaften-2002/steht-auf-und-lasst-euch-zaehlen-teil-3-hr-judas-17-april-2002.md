@@ -1,7 +1,7 @@
 ---
 title: "Steht auf und lasst euch zählen - Teil 3"
 menu_title: ""
-description: "Steht auf und lasst euch zählen - Teil 3"
+description: "Judas, empfangen durch H.: „Mal sehen, mein lieber Bruder, ob wir heute bei unserem Vorhaben mehr Glück haben. Eines Tages im Jahr 28, als Jesus von …“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Warum lässt Gott das Leiden der Unschuldigen zu? "
 menu_title: ""
-description: "Warum lässt Gott das Leiden der Unschuldigen zu? "
+description: "Josephus, empfangen durch Al Fike: „Dazu müssen wir viele Zeitepochen zurückgehen, bis zum Beginn der Entstehung der Menschheit auf dieser Welt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

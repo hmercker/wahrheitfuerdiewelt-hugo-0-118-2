@@ -1,7 +1,7 @@
 ---
 title: "Der Weg ist frei vor euch"
 menu_title: ""
-description: "Der Weg ist frei vor euch"
+description: "Jesus, empfangen durch Al Fike: „Schaut mit den Augen eurer Seelen auf und seht das Licht des Heiligen Geistes, das in dieser Zeit auf euch alle herabkommt …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

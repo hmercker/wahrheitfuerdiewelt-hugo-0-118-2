@@ -1,7 +1,7 @@
 ---
 title: "Seelen-Sühne durch das Streben nach der Wahrheit und die Freisetzung von Irrtümern"
 menu_title: ""
-description: "Seelen-Sühne durch das Streben nach der Wahrheit und die Freisetzung von Irrtümern"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich habe mich sehr gefreut, dass ich durch das Instrument, das in diesem Kreis sitzt, sprechen konnte; die liebe …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

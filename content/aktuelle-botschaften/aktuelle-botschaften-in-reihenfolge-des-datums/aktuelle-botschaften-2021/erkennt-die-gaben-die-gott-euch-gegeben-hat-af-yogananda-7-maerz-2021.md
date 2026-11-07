@@ -1,7 +1,7 @@
 ---
 title: "Erkennt die Gaben, die Gott euch gegeben hat"
 menu_title: ""
-description: "Erkennt die Gaben, die Gott euch gegeben hat"
+description: "Yogananda, empfangen durch Al Fike: „Das Gebet ist die Aktivierung der Seele. Wenn das Gebet mit wahrem Seelengefühl und Sehnsucht ausgedrückt wird, dann …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

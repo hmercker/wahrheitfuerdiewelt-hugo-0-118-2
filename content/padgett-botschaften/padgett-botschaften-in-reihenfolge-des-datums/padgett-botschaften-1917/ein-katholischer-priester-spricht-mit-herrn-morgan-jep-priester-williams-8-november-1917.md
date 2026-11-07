@@ -1,7 +1,7 @@
 ---
 title: "Ein katholischer Priester spricht mit Herrn Morgan"
 menu_title: ""
-description: "Ein katholischer Priester spricht mit Herrn Morgan"
+description: "Pater William, empfangen durch James Padgett: „Eugene Morgan) besucht hat, und ich war sehr aggressiv und beleidigend; aber nun möchte ich mich …“"
 date: 2020-08-01 06:25:48+00:233
 draft: False
 hidden: True

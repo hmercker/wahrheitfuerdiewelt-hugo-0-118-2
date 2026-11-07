@@ -1,7 +1,7 @@
 ---
 title: "Seid in großer Freude"
 menu_title: ""
-description: "Seid in großer Freude"
+description: "Goldie, empfangen durch Maureen Cardoso: „Oh, meine sehr geliebten Freunde, es ist schon eine Weile her, seit ich gesprochen habe. Ich möchte euch wissen …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

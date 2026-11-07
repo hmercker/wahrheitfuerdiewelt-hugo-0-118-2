@@ -1,7 +1,7 @@
 ---
 title: "Maria schreibt, dass Jesus der natürliche Sohn von Josef und Maria war"
 menu_title: ""
-description: "Maria schreibt, dass Jesus der natürliche Sohn von Josef und Maria war"
+description: "Maria, empfangen durch James Padgett: „Lasst eure Liebe zum Vater wachsen, und auch eure Liebe zum Meister, denn er ist der größte und liebste Freund, den …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

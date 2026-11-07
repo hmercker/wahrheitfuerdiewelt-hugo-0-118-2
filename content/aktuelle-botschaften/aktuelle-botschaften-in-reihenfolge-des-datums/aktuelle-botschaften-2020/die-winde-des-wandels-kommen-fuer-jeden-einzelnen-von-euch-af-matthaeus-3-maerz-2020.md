@@ -1,7 +1,7 @@
 ---
 title: "Die Winde des Wandels kommen für jeden einzelnen von euch"
 menu_title: ""
-description: "Die Winde des Wandels kommen für jeden einzelnen von euch"
+description: "Matthäus, empfangen durch Al Fike: „Es kommt viel auf die Welt zu, viel für euch, das ihr in euren Seelen erkennen und anerkennen müsst und den Ort in euch …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

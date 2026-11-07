@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt den unbekannten Schreiber"
 menu_title: ""
-description: "Helen bestätigt den unbekannten Schreiber"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du sehr müde bist und ich darf heute Abend nicht viel schreiben.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

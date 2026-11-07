@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird sich der Welt wieder offenbaren"
 menu_title: ""
-description: "Jesus wird sich der Welt wieder offenbaren"
+description: "Jesus, empfangen durch Al Fike: „Eure Gebete für die große Wahrheit der Liebe des Vaters haben große Macht und die Fähigkeit, die Engel des Himmels in eure …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Erfahrung, göttliche Liebe zu empfangen, ist durch das Fühlen"
 menu_title: ""
-description: "Die Erfahrung, göttliche Liebe zu empfangen, ist durch das Fühlen"
+description: "James Padgett, empfangen durch Maureen Cardoso: „Ich möchte die liebe Seele dafür loben, dass sie diese Worte mit dir geteilt hat, die dir helfen, den …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

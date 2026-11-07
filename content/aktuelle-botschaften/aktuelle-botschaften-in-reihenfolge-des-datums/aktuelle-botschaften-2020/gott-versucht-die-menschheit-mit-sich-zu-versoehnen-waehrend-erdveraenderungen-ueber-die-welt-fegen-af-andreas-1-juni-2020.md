@@ -1,7 +1,7 @@
 ---
 title: "Gott versucht die Menschheit mit sich zu versöhnen, während Erdveränderungen über die Welt fegen"
 menu_title: ""
-description: "Gott versucht die Menschheit mit sich zu versöhnen, während Erdveränderungen über die Welt fegen"
+description: "Andreas, empfangen durch Al Fike: „Geliebte Kinder, es ist Andreas. Ihr betet für diejenigen, die in eurer Welt verloren und in der Finsternis sind, und …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

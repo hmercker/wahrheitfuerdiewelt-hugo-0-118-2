@@ -1,7 +1,7 @@
 ---
 title: "Wir sind zusammen in diesem Licht"
 menu_title: ""
-description: "Wir sind zusammen in diesem Licht"
+description: "Jesus, empfangen durch Al Fike: „Wir winken euch, geliebte Seelen, auf die Reise der Transformation, damit auch ihr die große Wahrheit Gottes erkennen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

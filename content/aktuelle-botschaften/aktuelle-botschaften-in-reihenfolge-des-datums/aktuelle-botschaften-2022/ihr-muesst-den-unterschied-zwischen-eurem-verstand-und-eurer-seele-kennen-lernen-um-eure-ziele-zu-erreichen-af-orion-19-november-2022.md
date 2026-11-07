@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst den Unterschied zwischen eurem Verstand und eurer Seele kennen lernen, um eure Ziele zu erreichen"
 menu_title: ""
-description: "Ihr müsst den Unterschied zwischen eurem Verstand und eurer Seele kennen lernen, um eure Ziele zu erreichen"
+description: "Orion, empfangen durch Al Fike: „Die Gedanken und Neigungen der Menschen führen sie auf einen Weg, der oft nicht im Einklang mit dem steht, was wir uns für …“"
 date: 2022-11-20 06:00:00+00:10
 draft: False
 hidden: True

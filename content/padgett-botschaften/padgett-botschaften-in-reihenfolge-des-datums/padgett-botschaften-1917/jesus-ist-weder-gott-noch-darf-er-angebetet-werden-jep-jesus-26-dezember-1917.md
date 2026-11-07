@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist weder Gott, noch darf er angebetet werden"
 menu_title: ""
-description: "Jesus ist weder Gott, noch darf er angebetet werden"
+description: "Jesus, empfangen durch James Padgett: „Nun, mein lieber Bruder, ich freue mich, dass es dir so viel besser geht, und ich weiß, dass ich nun sehr bald …“"
 date: 2020-08-01 06:25:48+00:250
 draft: False
 hidden: True

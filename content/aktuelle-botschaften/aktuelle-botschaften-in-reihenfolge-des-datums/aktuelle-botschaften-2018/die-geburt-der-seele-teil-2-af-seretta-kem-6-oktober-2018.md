@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt der Seele Teil 2"
 menu_title: ""
-description: "Die Geburt der Seele Teil 2"
+description: "Seretta Kem, empfangen durch Al Fike: „zu Geburt der Seele - Teil 1 Denkt ihr an “Direkte Stimme”, meine Freunde?“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

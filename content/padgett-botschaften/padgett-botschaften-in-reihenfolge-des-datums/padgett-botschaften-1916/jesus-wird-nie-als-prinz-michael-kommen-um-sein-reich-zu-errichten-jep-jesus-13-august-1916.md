@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird nie als 'Prinz Michael' kommen, um sein Reich zu errichten"
 menu_title: ""
-description: "Jesus wird nie als 'Prinz Michael' kommen, um sein Reich zu errichten"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Nacht bei dir und hörte die Ansprache des Predigers und seine Erklärung über die Ursache des großen …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

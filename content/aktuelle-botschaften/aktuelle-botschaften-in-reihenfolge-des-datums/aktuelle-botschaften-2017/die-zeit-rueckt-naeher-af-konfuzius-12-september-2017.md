@@ -1,7 +1,7 @@
 ---
 title: "Die Zeit rückt näher"
 menu_title: ""
-description: "Die Zeit rückt näher"
+description: "Konfuzius, empfangen durch Al Fike: „Die Zeit naht, in der ihr viele Segnungen und Wahrheiten in diese Welt bringen werdet. All die Jahre der Gebete, des …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

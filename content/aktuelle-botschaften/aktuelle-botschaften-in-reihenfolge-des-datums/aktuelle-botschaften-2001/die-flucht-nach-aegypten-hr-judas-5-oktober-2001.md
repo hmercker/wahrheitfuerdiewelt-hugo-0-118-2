@@ -1,7 +1,7 @@
 ---
 title: "Die Flucht nach Ägypten"
 menu_title: ""
-description: "Die Flucht nach Ägypten"
+description: "Judas, empfangen durch H.: „Als du die Evangelien gelesen hast, ist dir klar geworden, dass einige Teile nur in einem von ihnen vorkommen.“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

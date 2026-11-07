@@ -1,7 +1,7 @@
 ---
 title: "Jesu Hilfe ist spirituell grenzenlos, aber die materielle Hilfe hängt vom Individuum selbst ab"
 menu_title: ""
-description: "Jesu Hilfe ist spirituell grenzenlos, aber die materielle Hilfe hängt vom Individuum selbst ab"
+description: "Jesus, empfangen durch James Padgett: „Lass mich ein paar Worte sagen. Ich war heute Abend mit dir in der Kirche und seit du nach Hause gekommen bist, und …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

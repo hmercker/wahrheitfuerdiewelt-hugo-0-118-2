@@ -1,7 +1,7 @@
 ---
 title: "Das Streben nach der Wahrheit"
 menu_title: ""
-description: "Das Streben nach der Wahrheit"
+description: "Martin Luther, empfangen durch Al Fike: „Sie verändert alle Wahrnehmungen und Verständnisse der Wahrheit. Ja, jeder von Ihnen trägt seine eigenen …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

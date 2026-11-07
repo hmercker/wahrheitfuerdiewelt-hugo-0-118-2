@@ -1,7 +1,7 @@
 ---
 title: "Die spirituelle Mutter schreibt über ihre Erkenntnis und neuen Glaubensvorstellungen und möchte, dass ihr Sohn weiß und glaubt, wie sie es tut"
 menu_title: ""
-description: "Die spirituelle Mutter schreibt über ihre Erkenntnis und neuen Glaubensvorstellungen und möchte, dass ihr Sohn weiß und glaubt, wie sie es tut"
+description: "Frau Mitchell, empfangen durch James Padgett: „Lass mich nur ein Wort sagen. Mitchell 1 ) Ich weiß, dass das, was Paulus gesagt hat, wahr ist, denn in den …“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

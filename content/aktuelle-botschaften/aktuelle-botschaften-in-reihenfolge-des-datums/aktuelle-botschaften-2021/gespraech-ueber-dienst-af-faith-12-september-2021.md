@@ -1,7 +1,7 @@
 ---
 title: "Gespräch über Dienst"
 menu_title: ""
-description: "Gespräch über Dienst"
+description: "Faith, empfangen durch Al Fike: „Ich möchte über die Macht des Demonstrierens der Wahrheit sprechen, darüber, dass man nicht einfach die Worte in den Mund …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

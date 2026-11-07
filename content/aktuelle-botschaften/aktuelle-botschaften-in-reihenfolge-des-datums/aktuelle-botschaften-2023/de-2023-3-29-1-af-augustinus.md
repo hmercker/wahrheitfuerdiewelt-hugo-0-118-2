@@ -1,7 +1,7 @@
 ---
 title: "Toleranz in der Vielfalt kommt mit Liebe"
 menu_title: ""
-description: "Toleranz in der Vielfalt kommt mit Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Ich sehe vor mir ein Tableau mit vielen verschiedenen Gesichtern, vielen verschiedenen einzigartigen Seelen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

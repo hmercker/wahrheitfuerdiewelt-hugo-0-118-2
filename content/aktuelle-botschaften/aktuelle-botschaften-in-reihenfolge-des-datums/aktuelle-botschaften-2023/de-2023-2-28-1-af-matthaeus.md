@@ -1,7 +1,7 @@
 ---
 title: "Die Einweihung der Seele"
 menu_title: ""
-description: "Die Einweihung der Seele"
+description: "Matthäus, empfangen durch Al Fike: „Ihr habt das Geschenk des Lebens erhalten. Eine Seele, die im Schoß Gottes lebt, begibt sich auf eine Reise, um eine …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

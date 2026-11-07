@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick und Oberst Woods glauben beide an den Spiritualismus"
 menu_title: ""
-description: "Richter Syrick und Oberst Woods glauben beide an den Spiritualismus"
+description: "Helen, empfangen durch James Padgett: „Du bist nun in Bezug auf deinen Verstand in einer guten Verfassung und ich fühle, dass du anfängst daran zu glauben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe gibt euch ein Fundament und eine Grundlage, die so mächtig ist"
 menu_title: ""
-description: "Die Liebe gibt euch ein Fundament und eine Grundlage, die so mächtig ist"
+description: "Judas: „Weil einige von euch nach mir gefragt haben, bin ich während dieses Abends bei diesem Instrument gewesen und habe darauf gewartet, auf einer …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

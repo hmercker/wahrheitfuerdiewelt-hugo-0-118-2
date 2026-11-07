@@ -1,7 +1,7 @@
 ---
 title: "Drückt seine Dankbarkeit für alles Erreichte aus"
 menu_title: ""
-description: "Drückt seine Dankbarkeit für alles Erreichte aus"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte euch von der Arbeit berichten, die ihr gemeinsam geleistet habt. Ihr habt durch eure Gebete viele Pforten …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

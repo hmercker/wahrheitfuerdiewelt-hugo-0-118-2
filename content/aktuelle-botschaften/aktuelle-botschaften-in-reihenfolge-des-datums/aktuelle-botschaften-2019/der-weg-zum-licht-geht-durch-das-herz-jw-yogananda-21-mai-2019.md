@@ -1,7 +1,7 @@
 ---
 title: "Der Weg zum Licht geht durch das Herz"
 menu_title: ""
-description: "Der Weg zum Licht geht durch das Herz"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ihr könnt euch die Freude in meinem Herzen nicht vorstellen, eine solche Versammlung von Seelen zu sehen, die …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

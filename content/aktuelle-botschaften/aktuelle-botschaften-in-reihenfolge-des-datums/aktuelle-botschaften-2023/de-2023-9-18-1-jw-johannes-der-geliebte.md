@@ -1,7 +1,7 @@
 ---
 title: "Eine Frage des Herzens"
 menu_title: ""
-description: "Eine Frage des Herzens"
+description: "Johannes der Geliebte, empfangen durch Jimbeau Walsh: „Wenn ihr von Gefühlen sprecht, wenn ihr von Intuition sprecht, wenn ihr zulasst, dass euer Herz, in …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

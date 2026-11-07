@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Predigt des Predigers"
 menu_title: ""
-description: "Helen kommentiert die Predigt des Predigers"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich sehe, dass du durch die Ansprache des Predigers (Dr. Swain) heute Abend nicht sehr erleuchtet …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

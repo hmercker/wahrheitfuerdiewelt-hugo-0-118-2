@@ -1,7 +1,7 @@
 ---
 title: "Habt Vertrauen in Gottes Zeitplanung und Willen"
 menu_title: ""
-description: "Habt Vertrauen in Gottes Zeitplanung und Willen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr wisst, dass ihr von Gott zusammengeführt wurdet. Ihr seht, was sich in euren Beziehungen und eurer Zusammenarbeit …“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

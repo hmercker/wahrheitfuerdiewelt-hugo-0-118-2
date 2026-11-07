@@ -1,7 +1,7 @@
 ---
 title: "Das Schicksal der Welt liegt bei denen, die bereit sind die Wahrheit zu bringe"
 menu_title: ""
-description: "Das Schicksal der Welt liegt bei denen, die bereit sind die Wahrheit zu bringe"
+description: "Jesus, empfangen durch Al Fike: „Bis zu einem gewissen Grad hängt das Schicksal eurer Welt von denen ab, die bereit sind, diese Wahrheit zu ihren Brüdern …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dem Herzen vertrauen"
 menu_title: ""
-description: "Dem Herzen vertrauen"
+description: "Vater, empfangen durch Child of God: „Ich möchte mit dir sprechen und ich möchte, dass du aufschreibst, was du erhältst. Du zweifelst daran, ob dieser …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

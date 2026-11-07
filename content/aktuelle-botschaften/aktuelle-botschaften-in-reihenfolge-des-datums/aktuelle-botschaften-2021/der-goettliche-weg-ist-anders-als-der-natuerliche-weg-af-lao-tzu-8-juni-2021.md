@@ -1,7 +1,7 @@
 ---
 title: "Der Göttliche Weg ist anders als der natürliche Weg"
 menu_title: ""
-description: "Der Göttliche Weg ist anders als der natürliche Weg"
+description: "Lao Tsu, empfangen durch Al Fike: „Ich war einst ein Philosoph, ein Lehrer, ein spiritueller Führer vor vielen, vielen Jahren und ich habe lange in der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

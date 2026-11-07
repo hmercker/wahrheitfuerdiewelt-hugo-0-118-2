@@ -1,7 +1,7 @@
 ---
 title: "Entdecke deine Schönheit"
 menu_title: ""
-description: "Entdecke deine Schönheit"
+description: "Vater, empfangen durch Child of God: „Aber ich liebe mich selbst noch nicht genug, und deshalb bin ich noch nicht in der Lage, dies in die Welt hinauszutragen.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

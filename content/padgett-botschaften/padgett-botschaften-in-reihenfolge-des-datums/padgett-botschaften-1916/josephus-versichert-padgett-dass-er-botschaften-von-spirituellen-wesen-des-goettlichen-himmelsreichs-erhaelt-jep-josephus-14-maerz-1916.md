@@ -1,7 +1,7 @@
 ---
 title: "Josephus versichert Padgett, dass er Botschaften von spirituellen Wesen des Göttlichen Himmelreichs erhält"
 menu_title: ""
-description: "Josephus versichert Padgett, dass er Botschaften von spirituellen Wesen des Göttlichen Himmelreichs erhält"
+description: "Josephus, empfangen durch James Padgett: „Ja, Josephus, der jüdische Historiker, der dir schon einmal geschrieben hat. Ich möchte nur sagen, dass ich mich …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

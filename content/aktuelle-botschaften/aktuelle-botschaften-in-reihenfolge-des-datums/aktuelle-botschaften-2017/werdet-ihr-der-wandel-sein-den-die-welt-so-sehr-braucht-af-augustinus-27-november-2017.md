@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr der Wandel sein, den die Welt so sehr braucht?"
 menu_title: ""
-description: "Werdet ihr der Wandel sein, den die Welt so sehr braucht?"
+description: "Augustinus, empfangen durch Al Fike: „Die Welt braucht Seelen, die hervortreten und die Verfügbarkeit dieses Geschenkes der Liebe des Vaters verkünden …“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

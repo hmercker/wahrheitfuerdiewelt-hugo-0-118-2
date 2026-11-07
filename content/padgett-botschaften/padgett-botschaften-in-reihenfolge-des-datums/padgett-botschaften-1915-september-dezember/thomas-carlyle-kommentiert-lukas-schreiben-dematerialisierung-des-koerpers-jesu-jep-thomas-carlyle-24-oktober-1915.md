@@ -1,7 +1,7 @@
 ---
 title: "Thomas Carlyle kommentiert Lukas Schreiben: Dematerialisierung des Körpers Jesu"
 menu_title: ""
-description: "Thomas Carlyle kommentiert Lukas Schreiben: Dematerialisierung des Körpers Jesu"
+description: "Thomas Carlyle, empfangen durch James Padgett: „Ich will bloß sagen, dass ich anwesend war, als Lukas dir schrieb, und hörte, was er dir sagte, und das hat …“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 52 : Jesus hatte niemals vor, eine neue Religion zu gründen"
 menu_title: ""
-description: "Offenbarung 52 : Jesus hatte niemals vor, eine neue Religion zu gründen"
+description: "Jesus, empfangen durch Dr Samuels: „An dieser Stelle möchte ich Reverend John Paul Gibson ausdrücklich dafür danken, dass er so unermüdlich daran arbeitet …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

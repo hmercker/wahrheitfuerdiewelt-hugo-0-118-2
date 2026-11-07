@@ -1,7 +1,7 @@
 ---
 title: "Eugene Morgans Mutter schreibt"
 menu_title: ""
-description: "Eugene Morgans Mutter schreibt"
+description: "Frau Morgan, empfangen durch James Padgett: „Ich habe so lange auf die Gelegenheit gewartet, ihm zu schreiben oder in irgendeiner Weise zu kommunizieren.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit, Verantwortung zu übernehmen und immer Harmonie zu wählen"
 menu_title: ""
-description: "Es ist an der Zeit, Verantwortung zu übernehmen und immer Harmonie zu wählen"
+description: "Orion, empfangen durch Al Fike: „Wieder einmal treffen wir uns, beten und besprechen verschiedene Themen und Fragen, die eure Seele betreffen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

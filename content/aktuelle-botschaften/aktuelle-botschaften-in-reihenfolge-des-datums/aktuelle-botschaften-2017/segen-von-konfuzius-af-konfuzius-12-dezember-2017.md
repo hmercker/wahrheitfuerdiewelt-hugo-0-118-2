@@ -1,7 +1,7 @@
 ---
 title: "Segen von Konfuzius"
 menu_title: ""
-description: "Segen von Konfuzius"
+description: "Konfuzius, empfangen durch Al Fike: „Schöne Seelen, schöne Seelen, meine kostbaren Vögel. Ja, diese Lotusblume ist in der Tat wunderschön.“"
 date: 2020-08-01 06:25:48+00:249
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mary erzählt von ihrer großen Liebe zu ihrem Seelenpartner"
 menu_title: ""
-description: "Mary erzählt von ihrer großen Liebe zu ihrem Seelenpartner"
+description: "Mary Kennedy, empfangen durch James Padgett: „Sag ihm, dass es auf der ganzen Erde und auch im Himmel niemanden gibt, der ihn so liebt wie seine Mary.“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

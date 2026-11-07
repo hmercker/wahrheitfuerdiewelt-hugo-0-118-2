@@ -1,7 +1,7 @@
 ---
 title: "Jede Reise beginnt mit einem Schritt"
 menu_title: ""
-description: "Jede Reise beginnt mit einem Schritt"
+description: "Rachel Carson, empfangen durch Jimbeau Walsh: „Eure Gebete für eine nachhaltigere Erde, für Orte der Zuflucht und der Heilung haben mich in diesen Kreis …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

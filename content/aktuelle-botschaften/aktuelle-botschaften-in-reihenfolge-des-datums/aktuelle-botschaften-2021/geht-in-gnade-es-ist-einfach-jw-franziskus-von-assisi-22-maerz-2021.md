@@ -1,7 +1,7 @@
 ---
 title: "Geht in Gnade! Es ist einfach"
 menu_title: ""
-description: "Geht in Gnade! Es ist einfach"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Möge der große Friede der Liebe Gottes über euch sein. Möge Sein Heiliger Geist Seine Liebe in jede …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, nicht länger an ihm zu zweifeln"
 menu_title: ""
-description: "Jesus bittet Padgett, nicht länger an ihm zu zweifeln"
+description: "Jesus, empfangen von James Padgett: „Ich freue mich, dass es dir heute Abend so viel besser geht und dass du dich mit deinen Gedanken den höheren Dingen …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

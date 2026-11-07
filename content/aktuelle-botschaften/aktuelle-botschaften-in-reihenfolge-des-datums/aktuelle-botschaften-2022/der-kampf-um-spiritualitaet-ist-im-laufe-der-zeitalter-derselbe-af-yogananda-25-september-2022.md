@@ -1,7 +1,7 @@
 ---
 title: "Der Kampf um Spiritualität ist im Laufe der Zeitalter derselbe"
 menu_title: ""
-description: "Der Kampf um Spiritualität ist im Laufe der Zeitalter derselbe"
+description: "Yogananda, empfangen durch Al Fike: „Ein Zeitgenosse aus eurer Welt, der euch ebenfalls auf eurem Weg ermutigen möchte. Ja, die Reise heute unterscheidet …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

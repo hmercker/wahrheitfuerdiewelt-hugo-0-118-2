@@ -1,7 +1,7 @@
 ---
 title: "Die Zustände in der Welt als Jesus zum lehren kam"
 menu_title: ""
-description: "Eine Botschaft von Ann Rollins, Herrn Padgett’s Großmutter"
+description: "Ann Rollins, empfangen durch James Padgett: „Du darfst nicht denken, dass weil der Herr gesagt hat, dass Gott eine Personifizierung der Liebe, Macht und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

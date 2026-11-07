@@ -1,7 +1,7 @@
 ---
 title: "Eure Bemühungen werden im Einklang mit Gottes Willen sein"
 menu_title: ""
-description: "Eure Bemühungen werden im Einklang mit Gottes Willen sein"
+description: "Professor Salyards, empfangen durch Al Fike: „Wenn es das ist, was ihr wünscht, dann sind wir im himmlischen Reich natürlich gerne bereit, euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

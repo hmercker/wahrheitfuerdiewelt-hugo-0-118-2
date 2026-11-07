@@ -1,7 +1,7 @@
 ---
 title: "In euren Seelen liegt ein anderer Verstand"
 menu_title: ""
-description: "In euren Seelen liegt ein anderer Verstand"
+description: "Jesus, empfangen durch Al Fike: „Dass alle Machenschaften eures Verstandes nicht wirklich zum Verständnis und zur Wahrheit kommen können, die in euren …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

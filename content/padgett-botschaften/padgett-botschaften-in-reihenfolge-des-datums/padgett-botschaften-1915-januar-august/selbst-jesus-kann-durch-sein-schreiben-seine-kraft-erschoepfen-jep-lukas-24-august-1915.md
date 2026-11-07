@@ -1,7 +1,7 @@
 ---
 title: "Selbst Jesus kann durch sein Schreiben seine Kraft erschöpfen"
 menu_title: ""
-description: "Selbst Jesus kann durch sein Schreiben seine Kraft erschöpfen"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte nur mein Zeugnis dem des Johannes hinzufügen und dir sagen, dass du nicht daran zweifeln darfst, dass der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

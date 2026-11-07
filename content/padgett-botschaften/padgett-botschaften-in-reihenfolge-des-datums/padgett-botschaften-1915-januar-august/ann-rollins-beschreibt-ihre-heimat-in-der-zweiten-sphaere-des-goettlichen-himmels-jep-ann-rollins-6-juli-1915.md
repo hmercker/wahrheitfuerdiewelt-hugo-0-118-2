@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins beschreibt ihre Heimat in der Zweiten Sphäre des Göttlichen Himmels"
 menu_title: ""
-description: "Ann Rollins beschreibt ihre Heimat in der Zweiten Sphäre des Göttlichen Himmels"
+description: "Ann Rollins, empfangen durch James Padgett: „So musst du versuchen, deinen Geist und deine Gedanken frei zu halten, bis du keinen Anlass zur Sorge hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

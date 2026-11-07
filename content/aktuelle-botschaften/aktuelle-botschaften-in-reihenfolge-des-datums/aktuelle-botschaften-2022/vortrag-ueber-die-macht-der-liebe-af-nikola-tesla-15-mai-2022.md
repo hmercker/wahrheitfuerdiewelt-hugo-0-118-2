@@ -1,7 +1,7 @@
 ---
 title: "Vortrag über die Macht der Liebe"
 menu_title: ""
-description: "Vortrag über die Macht der Liebe"
+description: "Nikola Tesla, empfangen durch Al Fike: „Das Universum ist ein so riesiger Ort, meine Freunde. Das Wissen der Menschheit ist in der Tat klein im Vergleich …“"
 date: 2022-05-19 06:00:00+00:10
 draft: False
 hidden: True

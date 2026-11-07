@@ -1,7 +1,7 @@
 ---
 title: "Das Wunder der Göttlichen Liebe Gottes"
 menu_title: ""
-description: "Das Wunder der Göttlichen Liebe Gottes"
+description: "Faith, empfangen durch Al Fike: „Das lebendige Wasser der Liebe Gottes ergießt sich in diesem Augenblick über euch. Die Kraft dieser Liebe wird für immer …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein biblischer König, der jetzt ein himmlischer Engel ist"
 menu_title: ""
-description: "Ein biblischer König, der jetzt ein himmlischer Engel ist"
+description: "Saul, empfangen durch James Padgett: „Ja, ich war schon einmal hier und habe dir geschrieben. Jetzt bin ich ein Engel Gottes und ein Bewohner Seines …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

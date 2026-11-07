@@ -1,7 +1,7 @@
 ---
 title: "Anderen zeigen und lehren"
 menu_title: ""
-description: "Anderen zeigen und lehren"
+description: "Paulus: „Denkt nicht, meine Freunde, dass wir den ganzen Abend nicht bei euch gewesen sind. Wir waren sehr glücklich mit den Bedingungen, die heute Abend …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

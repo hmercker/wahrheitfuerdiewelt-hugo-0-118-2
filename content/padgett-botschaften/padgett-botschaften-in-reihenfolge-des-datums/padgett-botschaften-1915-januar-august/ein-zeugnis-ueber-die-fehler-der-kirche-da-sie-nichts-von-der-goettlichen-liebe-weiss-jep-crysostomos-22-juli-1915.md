@@ -1,7 +1,7 @@
 ---
 title: "Ein Zeugnis über die Fehler der Kirche, da sie nichts von der Göttlichen Liebe weiß"
 menu_title: ""
-description: "Ein Zeugnis über die Fehler der Kirche, da sie nichts von der Göttlichen Liebe weiß"
+description: "Chrysostomos, empfangen durch James Padgett: „Als ich lebte, war ich ein Lehrer der Wahrheiten des Meisters und lebte viele Jahre unter einem Volk, das mit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

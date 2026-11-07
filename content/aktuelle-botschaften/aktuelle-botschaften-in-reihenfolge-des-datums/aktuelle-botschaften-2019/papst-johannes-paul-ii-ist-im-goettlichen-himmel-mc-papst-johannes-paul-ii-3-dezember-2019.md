@@ -1,7 +1,7 @@
 ---
 title: "Papst Johannes Paul II. ist im Göttlichen Himmel"
 menu_title: ""
-description: "Papst Johannes Paul II. ist im Göttlichen Himmel"
+description: "Papst Johannes Paul II, empfangen durch Maureen Cardoso: „Ich schließe mich euch in eurem Kreis des Lichts an. Ihr kennt mich als Papst Johannes Paul und …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

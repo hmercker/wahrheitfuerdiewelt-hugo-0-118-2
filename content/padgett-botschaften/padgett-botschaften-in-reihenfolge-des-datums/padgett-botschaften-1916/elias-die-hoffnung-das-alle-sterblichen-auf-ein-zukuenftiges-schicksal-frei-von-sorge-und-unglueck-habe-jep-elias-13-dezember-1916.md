@@ -1,7 +1,7 @@
 ---
 title: "Elias: Die Hoffnung das alle Sterblichen auf ein zukünftiges Schicksal frei von Sorge und Unglück habe"
 menu_title: ""
-description: "Elias: Die Hoffnung das alle Sterblichen auf ein zukünftiges Schicksal frei von Sorge und Unglück habe"
+description: "Elias, empfangen durch James Padgett: „Ich möchte heute Abend ein paar Zeilen über eine Sache schreiben, von der ich gedacht habe, dass sie dich …“"
 date: 2020-08-01 06:25:48+00:287
 draft: False
 hidden: True

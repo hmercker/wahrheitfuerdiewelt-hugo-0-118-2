@@ -1,7 +1,7 @@
 ---
 title: "Instrumente der Wahrheit"
 menu_title: ""
-description: "Instrumente der Wahrheit"
+description: "Lotus Blossom, empfangen durch Al Fike: „Es ist viel Wissen in diesem Raum vorhanden. Viele von euch sind sich der Heilungsmodalitäten bewusst, mit denen …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

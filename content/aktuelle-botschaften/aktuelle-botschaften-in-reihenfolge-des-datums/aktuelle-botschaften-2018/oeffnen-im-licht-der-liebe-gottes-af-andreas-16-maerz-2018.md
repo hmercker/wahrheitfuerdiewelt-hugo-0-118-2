@@ -1,7 +1,7 @@
 ---
 title: "Öffnen im Licht der Liebe Gottes"
 menu_title: ""
-description: "Öffnen im Licht der Liebe Gottes"
+description: "Andreas, empfangen durch Al Fike: „Ja, es gibt viel, wofür man dankbar sein kann, nicht wahr, in einem Leben, das von Gott gesegnet ist.“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

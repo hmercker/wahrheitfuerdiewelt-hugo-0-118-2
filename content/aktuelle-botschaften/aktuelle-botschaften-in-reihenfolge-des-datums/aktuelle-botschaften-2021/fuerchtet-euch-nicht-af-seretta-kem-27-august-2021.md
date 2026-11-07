@@ -1,7 +1,7 @@
 ---
 title: "Fürchtet euch nicht"
 menu_title: ""
-description: "Fürchtet euch nicht"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr lebt am Rande dessen, was man in dieser Welt als Normalität bezeichnen könnte. Die Anfänge von ernsthaften …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

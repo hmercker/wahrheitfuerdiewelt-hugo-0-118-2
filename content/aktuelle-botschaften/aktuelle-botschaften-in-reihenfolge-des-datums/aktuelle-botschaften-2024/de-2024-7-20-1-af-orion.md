@@ -1,7 +1,7 @@
 ---
 title: "Der Fokus bleibt auf dem Erlangen des Seelenbewusstseins"
 menu_title: ""
-description: "Der Fokus bleibt auf dem Erlangen des Seelenbewusstseins"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Es ist euch sehr deutlich gemacht worden, welche Herausforderungen und Schwierigkeiten ihr …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

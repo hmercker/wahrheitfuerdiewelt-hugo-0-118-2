@@ -1,7 +1,7 @@
 ---
 title: "Ein Strahl des Lichts"
 menu_title: ""
-description: "Ein Strahl des Lichts"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Diese Verbindung wird durch die Liebe ermöglicht und von jedem Einzelnen herbeigeführt, der diese Liebe in der …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

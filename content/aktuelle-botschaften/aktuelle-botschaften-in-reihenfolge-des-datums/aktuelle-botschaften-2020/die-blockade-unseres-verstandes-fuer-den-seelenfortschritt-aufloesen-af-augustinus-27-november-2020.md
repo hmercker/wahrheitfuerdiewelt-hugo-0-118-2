@@ -1,7 +1,7 @@
 ---
 title: "Die Blockade unseres Verstandes für den Seelenfortschritt auflösen "
 menu_title: ""
-description: "Die Blockade unseres Verstandes für den Seelenfortschritt auflösen "
+description: "Augustinus, empfangen durch Al Fike: „Ich bitte euch, euren Verstand zu beruhigen, damit eure Seelen in den Aufstieg kommen und das Bewusstsein eurer …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

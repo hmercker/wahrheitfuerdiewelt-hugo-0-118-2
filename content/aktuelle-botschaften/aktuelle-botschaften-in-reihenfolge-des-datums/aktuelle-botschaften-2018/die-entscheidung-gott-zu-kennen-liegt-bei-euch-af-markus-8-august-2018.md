@@ -1,7 +1,7 @@
 ---
 title: "Die Entscheidung, Gott zu kennen, liegt bei euch"
 menu_title: ""
-description: "Die Entscheidung, Gott zu kennen, liegt bei euch"
+description: "Markus, empfangen durch Al Fike: „Jedem von euch ist das Geschenk des Lebens gegeben und innerhalb dieses Lebens gibt es viele Möglichkeiten und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

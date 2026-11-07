@@ -1,7 +1,7 @@
 ---
 title: "Saleeba kommentiert die Herrlichkeit Jesu, als sie ihn gestern Abend sah"
 menu_title: ""
-description: "Saleeba kommentiert die Herrlichkeit Jesu, als sie ihn gestern Abend sah"
+description: "Saleeba, empfangen von James Padgett: „Ich möchte dir sagen, dass ich neulich Abend Zeuge der wunderbaren Zurschaustellung von Jesu großer Macht und …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

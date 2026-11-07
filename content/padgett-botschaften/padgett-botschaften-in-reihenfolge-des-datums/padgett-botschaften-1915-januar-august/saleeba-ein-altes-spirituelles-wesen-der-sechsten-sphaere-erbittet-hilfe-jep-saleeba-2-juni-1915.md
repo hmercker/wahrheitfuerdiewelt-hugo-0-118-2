@@ -1,7 +1,7 @@
 ---
 title: "Saleeba, ein altes Spirituelle Wesen der sechsten Sphäre, erbittet Hilfe"
 menu_title: ""
-description: "Saleeba, ein altes Spirituelle Wesen der sechsten Sphäre, erbittet Hilfe"
+description: "Saleeba, empfangen durch James Padgett: „Lasst mich ein wenig schreiben, denn ich brauche Hilfe. Ich sah wie dem letzten Spirituellen Wesen das geschrieben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

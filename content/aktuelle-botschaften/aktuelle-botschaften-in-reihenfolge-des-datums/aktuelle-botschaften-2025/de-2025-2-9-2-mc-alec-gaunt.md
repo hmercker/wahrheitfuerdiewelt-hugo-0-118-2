@@ -1,7 +1,7 @@
 ---
 title: "Seelenveränderung erleben"
 menu_title: ""
-description: "Seelenveränderung erleben"
+description: "Alex Gaunt, empfangen durch Maureen Cardoso: „Möge der Segen der Liebe Gottes eure Seelen durchdringen, meine Lieben. Während ihr den Segen der Göttlichen …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

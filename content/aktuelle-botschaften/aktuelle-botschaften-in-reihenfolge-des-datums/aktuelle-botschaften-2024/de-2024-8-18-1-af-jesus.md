@@ -1,7 +1,7 @@
 ---
 title: "Gottes wunderbares Geschenk"
 menu_title: ""
-description: "Gottes wunderbares Geschenk"
+description: "Jesus, empfangen durch Al Fike: „Das größte Geschenk, das Gott euch machen kann, steht euch jederzeit zur Verfügung, wenn ihr aufrichtig betet und den …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

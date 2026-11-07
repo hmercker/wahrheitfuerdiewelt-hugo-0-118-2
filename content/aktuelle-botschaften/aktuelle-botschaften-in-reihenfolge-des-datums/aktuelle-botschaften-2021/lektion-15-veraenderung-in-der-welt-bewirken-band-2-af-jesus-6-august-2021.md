@@ -1,7 +1,7 @@
 ---
 title: "Lektion 15 - Veränderung in der Welt bewirken  - Band 2"
 menu_title: ""
-description: "Lektion 15 - Veränderung in der Welt bewirken  - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Möge Gott euch segnen und Seine Liebe tief in eure Seele einfließen lassen. Wie beeinflusst man den Wandel in einer sich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

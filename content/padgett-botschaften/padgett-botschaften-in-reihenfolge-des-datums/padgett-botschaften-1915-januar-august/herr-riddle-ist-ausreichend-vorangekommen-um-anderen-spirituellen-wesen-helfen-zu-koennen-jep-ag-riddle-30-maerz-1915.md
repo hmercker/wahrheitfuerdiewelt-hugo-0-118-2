@@ -1,7 +1,7 @@
 ---
 title: "Herr Riddle ist ausreichend vorangekommen um anderen Spirituellen Wesen helfen zu können"
 menu_title: ""
-description: "Herr Riddle ist ausreichend vorangekommen um anderen Spirituellen Wesen helfen zu können"
+description: "A.G. Riddle, empfangen durch James Padgett: „Salyards sein kann, welche schon eine ganze Weile dort sind und welche so sehr glücklich sind und voll mit der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

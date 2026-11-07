@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Start"
 menu_title: ""
-description: "Ein neuer Start"
+description: "Martha, empfangen durch Al Fike: „Auch ich habe die Wunder eurer Seelen beobachtet, wie sie in Licht und Liebe wachsen. Auch ich habe das Privileg gehabt …“"
 date: 2020-08-01 06:25:48+00:259
 draft: False
 hidden: True

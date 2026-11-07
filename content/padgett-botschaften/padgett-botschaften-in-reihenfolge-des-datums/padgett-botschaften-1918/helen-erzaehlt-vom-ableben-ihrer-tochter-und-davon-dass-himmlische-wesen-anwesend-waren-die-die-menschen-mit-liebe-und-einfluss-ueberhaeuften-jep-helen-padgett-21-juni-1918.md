@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt vom Ableben ihrer Tochter und davon, dass Himmlische Wesen anwesend waren, die die Menschen mit Liebe und Einfluss überhäuften"
 menu_title: ""
-description: "Helen erzählt vom Ableben ihrer Tochter und davon, dass Himmlische Wesen anwesend waren, die die Menschen mit Liebe und Einfluss überhäuften"
+description: "Helen, empfangen durch James Padgett: „Mein lieber Ehemann, wie glücklich war ich heute Abend, als du und die anderen sich um den Sarg unseres Babys …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

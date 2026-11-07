@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für den Kreis der Sieben, sich persönlich zu versammeln"
 menu_title: ""
-description: "Anleitung für den Kreis der Sieben, sich persönlich zu versammeln"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Es ist ein großer Segen, euch drei wieder einmal zusammen zu sehen und dass sich das Licht und die Liebe in …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

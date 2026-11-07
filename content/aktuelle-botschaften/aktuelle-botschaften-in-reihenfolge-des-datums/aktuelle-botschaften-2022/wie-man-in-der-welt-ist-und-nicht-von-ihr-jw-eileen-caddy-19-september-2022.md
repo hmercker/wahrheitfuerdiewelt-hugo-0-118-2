@@ -1,7 +1,7 @@
 ---
 title: "Wie man in der Welt ist und nicht von ihr"
 menu_title: ""
-description: "Wie man in der Welt ist und nicht von ihr"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Wie kann man in dieser Welt leben und doch nicht von ihr sein? Was braucht man, um sich mit der menschlichen …“"
 date: 2022-09-19 06:00:00+00:10
 draft: False
 hidden: True

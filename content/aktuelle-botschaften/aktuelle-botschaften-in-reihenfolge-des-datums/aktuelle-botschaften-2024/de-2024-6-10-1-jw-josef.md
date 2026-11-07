@@ -1,7 +1,7 @@
 ---
 title: "Vatertag"
 menu_title: ""
-description: "Vatertag"
+description: "Josef, empfangen durch Jimbeau Walsh: „Möge Gottes Liebe über euch allen sein. Lasst euer inneres Auge himmelwärts blicken, während ihr eure Herzen für die …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

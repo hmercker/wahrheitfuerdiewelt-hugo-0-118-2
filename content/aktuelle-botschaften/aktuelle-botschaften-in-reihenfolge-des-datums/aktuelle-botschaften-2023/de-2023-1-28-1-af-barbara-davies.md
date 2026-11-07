@@ -1,7 +1,7 @@
 ---
 title: "Freundschaft"
 menu_title: ""
-description: "Freundschaft"
+description: "Barbara Davies, empfangen durch Al Fike: „Ich kenne deine Mutter Grace und wir haben zusammen gebetet und uns auf viele Arten und über viele Dinge …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

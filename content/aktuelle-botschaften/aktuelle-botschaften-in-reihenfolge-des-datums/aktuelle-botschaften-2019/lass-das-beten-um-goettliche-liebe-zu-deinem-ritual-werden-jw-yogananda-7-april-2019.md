@@ -1,7 +1,7 @@
 ---
 title: "Lass das Beten um göttliche Liebe zu deinem Ritual werden"
 menu_title: ""
-description: "Lass das Beten um göttliche Liebe zu deinem Ritual werden"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Obwohl er in seinem Verstand zögert zu empfangen, ist er in seiner Seele offen für dieses Geschenk.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

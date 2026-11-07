@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Jocelyn Harleston"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Jocelyn Harleston"
+description: "Aktuelle Botschaften empfangen von Jocelyn Harleston: „Hier mehr zu dem Leben von Jocelyn Harleston. Es folgen empfangene Botschaften seit ihrem irdischen Tod.“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

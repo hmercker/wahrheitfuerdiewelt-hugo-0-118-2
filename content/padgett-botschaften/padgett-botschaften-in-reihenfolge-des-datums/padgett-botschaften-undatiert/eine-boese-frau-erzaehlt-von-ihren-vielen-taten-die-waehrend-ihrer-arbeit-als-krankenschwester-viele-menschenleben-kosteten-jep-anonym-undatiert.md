@@ -1,7 +1,7 @@
 ---
 title: "Eine böse Frau erzählt von ihren vielen Taten, die während ihrer Arbeit als Krankenschwester viele Menschenleben kosteten"
 menu_title: ""
-description: "Eine böse Frau erzählt von ihren vielen Taten, die während ihrer Arbeit als Krankenschwester viele Menschenleben kosteten"
+description: "Anonym, empfangen durch James Padgett: „Lass mich schreiben, denn ich warte schon so lange darauf, dich zu erreichen und dich um Hilfe zu bitten.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

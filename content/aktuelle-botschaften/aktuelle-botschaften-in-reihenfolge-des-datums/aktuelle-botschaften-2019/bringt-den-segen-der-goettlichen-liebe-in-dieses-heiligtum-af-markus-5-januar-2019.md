@@ -1,7 +1,7 @@
 ---
 title: "Bringt den Segen der göttlichen Liebe in dieses Heiligtum"
 menu_title: ""
-description: "Bringt den Segen der göttlichen Liebe in dieses Heiligtum"
+description: "Markus, empfangen durch Al Fike: „Ja, wie unser lieber Freund uns daran erinnert, dass das Gebet wichtig ist und den Segen Gottes in eure Mitte zu bringen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

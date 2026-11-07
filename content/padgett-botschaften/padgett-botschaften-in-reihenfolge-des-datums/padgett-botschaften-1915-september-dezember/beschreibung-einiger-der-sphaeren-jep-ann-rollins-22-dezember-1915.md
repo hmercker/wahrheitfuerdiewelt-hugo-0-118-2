@@ -1,7 +1,7 @@
 ---
 title: "Beschreibung einiger der Sphären"
 menu_title: ""
-description: "Beschreibung einiger der Sphären"
+description: "Ann Rollins, empfangen durch James Padgett: „Nun, mein Sohn, ich habe das Buch so gelesen, wie du es getan hast und ich muss sagen, dass ich ernsthafte …“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

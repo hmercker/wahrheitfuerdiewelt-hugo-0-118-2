@@ -1,7 +1,7 @@
 ---
 title: "Die Erfahrung von Seelenwachstum"
 menu_title: ""
-description: "Die Erfahrung von Seelenwachstum"
+description: "Augustinus, empfangen durch Al Fike: „Ich höre dein Gebet, geliebte Tochter, ich höre deine Sorgen und deinen Wunsch nach mehr Wahrheit und Verständnis für …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

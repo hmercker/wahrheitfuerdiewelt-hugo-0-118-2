@@ -1,7 +1,7 @@
 ---
 title: "Harmonie und Liebe unter euch ist der Schlüssel"
 menu_title: ""
-description: "Harmonie und Liebe unter euch ist der Schlüssel"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte das Vorbild dieses Instrumentes nutzen, um euch in die Wege der physischen Medialität einzuweisen, um die …“"
 date: 2020-08-01 06:25:48+00:248
 draft: False
 hidden: True

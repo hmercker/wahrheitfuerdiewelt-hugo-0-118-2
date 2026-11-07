@@ -1,7 +1,7 @@
 ---
 title: "Die Dunkelheit der Erdverhältnisse verdrängen"
 menu_title: ""
-description: "Die Dunkelheit der Erdverhältnisse verdrängen"
+description: "Lukas, empfangen durch Al Fike: „Gesegnet seid ihr, meine Lieben, geliebte Seelen, Kinder des Himmlischen Vaters, deren Seelen offen sind für das, was …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

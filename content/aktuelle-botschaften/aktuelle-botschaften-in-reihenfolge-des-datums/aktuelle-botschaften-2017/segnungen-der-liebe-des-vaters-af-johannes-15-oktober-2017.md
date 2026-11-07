@@ -1,7 +1,7 @@
 ---
 title: "Segnungen der Liebe des Vaters"
 menu_title: ""
-description: "Segnungen der Liebe des Vaters"
+description: "Johannes, empfangen durch Al Fike: „Mögen die Segnungen der Liebe des Vaters eure Seelen erfassen, eure Seelen in dieses Heilige Licht einhüllen und euer …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Macht des freien Willens"
 menu_title: ""
-description: "Die Macht des freien Willens"
+description: "Judas, empfangen durch Al Fike: „Das ist die Macht zu wählen, die Macht des freien Willens. Es ist die Macht, die kein anderes Lebewesen auf der Erde in …“"
 date: 2025-02-11 06:00:00+00:10
 draft: False
 hidden: True

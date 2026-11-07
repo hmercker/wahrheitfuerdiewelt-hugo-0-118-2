@@ -1,7 +1,7 @@
 ---
 title: "Wähle weise, wähle Liebe"
 menu_title: ""
-description: "Wähle weise, wähle Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Musik ist eine Form des Gebets, wenn sie von den Sehnsüchten der Seele kommt. Filme, die euch aufrichten …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

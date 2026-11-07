@@ -1,7 +1,7 @@
 ---
 title: "Jesus beabsichtigt, sein Evangelium zu korrigieren und neu zu schreiben"
 menu_title: ""
-description: "Jesus beabsichtigt, sein Evangelium zu korrigieren und neu zu schreiben"
+description: "Jesus, empfangen durch Dr Samuels: „Wie ich dir am Nachmittag bereits versprochen habe, werde ich diese Abendstunden dazu nutzen, dir und dem Doktor einige …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

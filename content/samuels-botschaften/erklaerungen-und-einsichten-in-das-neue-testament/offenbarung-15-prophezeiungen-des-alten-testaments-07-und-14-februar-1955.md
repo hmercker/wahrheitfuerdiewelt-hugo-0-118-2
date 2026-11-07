@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 15 : Prophezeiungen des Alten Testaments"
 menu_title: ""
-description: "Offenbarung 15 : Prophezeiungen des Alten Testaments"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute möchte ich dir wieder einige Prophezeiungen und Textstellen erklären, die das Alte Testament überliefert …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

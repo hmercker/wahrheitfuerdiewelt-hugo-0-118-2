@@ -1,7 +1,7 @@
 ---
 title: "Habt ihr euer Bedürfnis nach Kontrolle abgelegt?"
 menu_title: ""
-description: "Habt ihr euer Bedürfnis nach Kontrolle abgelegt?"
+description: "Andreas, empfangen durch Al Fike: „Habt ihr euer Bedürfnis losgelassen, die Kontrolle zu haben, unabhängig von Gott zu sein? Das ist eine Frage, die ihr …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

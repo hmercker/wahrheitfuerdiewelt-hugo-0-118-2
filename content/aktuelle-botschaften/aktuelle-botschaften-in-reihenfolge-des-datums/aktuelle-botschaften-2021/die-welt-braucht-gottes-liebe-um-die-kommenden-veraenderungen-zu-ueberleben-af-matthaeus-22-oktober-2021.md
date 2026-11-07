@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht Gottes Liebe, um die kommenden Veränderungen zu überleben"
 menu_title: ""
-description: "Die Welt braucht Gottes Liebe, um die kommenden Veränderungen zu überleben"
+description: "Matthäus, empfangen durch Al Fike: „Ich weiß, dass viele von euch weder sehen noch erkennen können, wie viel Unterstützung und Liebe euch und dieser Welt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

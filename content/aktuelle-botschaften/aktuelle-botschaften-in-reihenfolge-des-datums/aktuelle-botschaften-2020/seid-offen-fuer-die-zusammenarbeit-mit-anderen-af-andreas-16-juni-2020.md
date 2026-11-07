@@ -1,7 +1,7 @@
 ---
 title: "Seid offen für die Zusammenarbeit mit anderen"
 menu_title: ""
-description: "Seid offen für die Zusammenarbeit mit anderen"
+description: "Andreas, empfangen durch Al Fike: „Möge Gott euch, geliebte Seelen, an diesem neuen Tag segnen. Fühlt sich das nicht wie der Rhythmus der Wellen an?“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

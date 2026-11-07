@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy bezieht sich auf eine von Johannes geschriebene Botschaft"
 menu_title: ""
-description: "Mary Kennedy bezieht sich auf eine von Johannes geschriebene Botschaft"
+description: "Mary Kennedy, empfangen durch James Padgett: „Stone vor, dass sie rausgehen und eine Tasse Kaffee holen sollten.] Lass mich sagen, dass du mehr an deinen …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

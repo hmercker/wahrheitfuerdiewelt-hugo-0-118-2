@@ -1,7 +1,7 @@
 ---
 title: "Denkt an die verlorenen Seelen"
 menu_title: ""
-description: "Denkt an die verlorenen Seelen"
+description: "Barbara Davies, empfangen durch Al Fike: „Danke, geliebte Schwester (Terry), für deine Gebete. Du weißt, dass ich dich liebe und dir nahe bin.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

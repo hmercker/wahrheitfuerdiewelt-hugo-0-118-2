@@ -1,7 +1,7 @@
 ---
 title: "Der Verstand darf dein Denken nicht einschränken"
 menu_title: ""
-description: "Der Verstand darf dein Denken nicht einschränken"
+description: "Vater, empfangen durch Child of God: „Lass deinen Verstand dein Denken nicht einschränken. Dein Verstand kann sich nur vorstellen, was du denkst.“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

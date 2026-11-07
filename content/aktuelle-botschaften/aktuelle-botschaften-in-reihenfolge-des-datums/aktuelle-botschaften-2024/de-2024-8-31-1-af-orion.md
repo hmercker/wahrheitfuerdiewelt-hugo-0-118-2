@@ -1,7 +1,7 @@
 ---
 title: "Eine Lektion im Üben von Mitgefühl, um das Seelenbewusstsein zu erreichen"
 menu_title: ""
-description: "Eine Lektion im Üben von Mitgefühl, um das Seelenbewusstsein zu erreichen"
+description: "Orion, empfangen durch Al Fike: „Ich segne euch, meine Freunde. Ich rufe euch auf, Mitgefühl zu haben, Mitgefühl für euch selbst und Mitgefühl für andere.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

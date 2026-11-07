@@ -1,7 +1,7 @@
 ---
 title: "Wisst, dass mit euren Gebeten, eurem Dienst und eurer Liebesentwicklung noch viel mehr kommen wird"
 menu_title: ""
-description: "Wisst, dass mit euren Gebeten, eurem Dienst und eurer Liebesentwicklung noch viel mehr kommen wird"
+description: "Jakobus, empfangen durch Elisabeth Mack: „Segen von oben, wahre Kinder Gottes, Segen für jede eurer Seelen vom Vater. Ich habe einst auf der Erde gelebt …“"
 date: 2025-01-29 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lukas begrüßt diejenigen, die ein Teil des Punnalu'u-Treffens sind"
 menu_title: ""
-description: "Lukas begrüßt diejenigen, die ein Teil des Punnalu'u-Treffens sind"
+description: "Lukas, empfangen durch Al Fike: „Möge die Liebe des Vaters ein beständiges Einströmen in eure Seelen finden, meine Freunde, damit ihr Seine Gegenwart immer …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hilf dem Menschen, seinen Weg wieder zu finden"
 menu_title: ""
-description: "Hilf dem Menschen, seinen Weg wieder zu finden"
+description: "Gandhi: „Es gibt Hoffnung für den Menschen und es gibt Hoffnung für den Frieden auf der Erde und bevor euer Leben auf der Erde zu Ende ist, meine Freunde …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

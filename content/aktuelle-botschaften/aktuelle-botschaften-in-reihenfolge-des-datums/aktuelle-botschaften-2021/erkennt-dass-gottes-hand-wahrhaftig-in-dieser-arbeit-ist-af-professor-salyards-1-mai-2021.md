@@ -1,7 +1,7 @@
 ---
 title: "Erkennt, dass Gottes Hand wahrhaftig in dieser Arbeit ist"
 menu_title: ""
-description: "Erkennt, dass Gottes Hand wahrhaftig in dieser Arbeit ist"
+description: "Professor Salyards, empfangen durch Al Fike: „Wir haben heute euer Gespräch verfolgt, da wir weiterhin jedem von euch nahe stehen und versuchen, euch auf …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Todeswunsch"
 menu_title: ""
-description: "Der Todeswunsch"
+description: "Judas, empfangen durch H.: „Ja — dies ist das Thema der heutigen Botschaft. Ich beziehe mich dabei auf die besorgniserregende Äußerung einiger deiner …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

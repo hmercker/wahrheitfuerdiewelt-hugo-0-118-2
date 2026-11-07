@@ -1,7 +1,7 @@
 ---
 title: "Die Welt nähert sich schnell einer Zeit des Chaos und der Veränderung"
 menu_title: ""
-description: "Die Welt nähert sich schnell einer Zeit des Chaos und der Veränderung"
+description: "Jesus, empfangen durch Al Fike: „Und in vielen Hinsichten seid ihr nicht dazu fähig, den Fortschritt dieser Veränderungen zu verstehen, weil ihr eher mit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

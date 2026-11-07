@@ -1,7 +1,7 @@
 ---
 title: "Jesus kündigt eine Botschaft an, die erklärt, was Seele und was Geist ist"
 menu_title: ""
-description: "Jesus kündigt eine Botschaft an, die erklärt, was Seele und was Geist ist"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir sagen, dass ich schon in wenigen Nächten wiederkommen werde, um dir eine Botschaft zu schreiben, die …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

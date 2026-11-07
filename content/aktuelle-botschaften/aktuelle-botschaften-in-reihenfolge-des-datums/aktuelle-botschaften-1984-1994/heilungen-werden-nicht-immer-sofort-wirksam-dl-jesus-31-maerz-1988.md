@@ -1,7 +1,7 @@
 ---
 title: "Heilungen werden nicht immer sofort wirksam"
 menu_title: ""
-description: "Heilungen werden nicht immer sofort wirksam"
+description: "Jesus, empfangen durch David Lampron: „R. natürlich eingeschlossen, der das Wirken des Willens des Vaters klarer erkennen möchten, was B s Zustand betrifft.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

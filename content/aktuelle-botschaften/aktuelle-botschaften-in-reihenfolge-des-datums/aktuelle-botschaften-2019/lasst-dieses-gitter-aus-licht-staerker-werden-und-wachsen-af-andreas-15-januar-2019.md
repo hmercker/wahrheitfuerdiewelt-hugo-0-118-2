@@ -1,7 +1,7 @@
 ---
 title: "Lasst dieses Gitter aus Licht stärker werden und wachsen"
 menu_title: ""
-description: "Lasst dieses Gitter aus Licht stärker werden und wachsen"
+description: "Andreas, empfangen durch Al Fike: „Jeder von euch hat einen Engel bei sich und jeder von euch wurde mit einer Schnur des Lichts verbunden, die in diesem …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Liebe, Fehler auszulöschen"
 menu_title: ""
-description: "Die Macht der Liebe, Fehler auszulöschen"
+description: "James Padgett, empfangen durch Kathryn Stokes: „Meine liebe Schwester, du weißt, dass wir immer in der Lage sind, unsere Gefühle und Gedanken mit unseren …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3"
 menu_title: ""
-description: "Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Welt im Wandel - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Heute möchte ich über den Verstand sprechen und darüber, wie er das bewusste Erleben und Verstehen der Seele behindert und …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

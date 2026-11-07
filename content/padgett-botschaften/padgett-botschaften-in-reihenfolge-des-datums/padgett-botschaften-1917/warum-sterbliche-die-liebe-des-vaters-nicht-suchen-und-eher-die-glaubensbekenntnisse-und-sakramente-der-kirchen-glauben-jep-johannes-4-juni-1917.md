@@ -1,7 +1,7 @@
 ---
 title: "Warum Sterbliche die Liebe des Vaters nicht suchen und eher die Glaubensbekenntnisse und Sakramente der Kirchen glauben"
 menu_title: ""
-description: "Warum Sterbliche die Liebe des Vaters nicht suchen und eher die Glaubensbekenntnisse und Sakramente der Kirchen glauben"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte dir sagen, dass du sich viel mehr in der Bedingung deiner Seelenentwicklung befindest, die es uns …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

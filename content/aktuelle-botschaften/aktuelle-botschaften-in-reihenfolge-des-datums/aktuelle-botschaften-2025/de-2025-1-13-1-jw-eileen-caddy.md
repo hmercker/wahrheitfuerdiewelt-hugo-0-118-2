@@ -1,7 +1,7 @@
 ---
 title: "Eine Unze Göttlicher Liebe"
 menu_title: ""
-description: "Eine Unze Göttlicher Liebe"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Möge das Licht der Liebe Gottes euch umgeben und mit euch sein. Die Zeiten haben sich geändert, wie das so …“"
 date: 2025-01-13 06:00:00+00:10
 draft: False
 hidden: True

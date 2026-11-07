@@ -1,7 +1,7 @@
 ---
 title: "Seele zu Verstand 60:40 - Anweisungen Teil 1"
 menu_title: ""
-description: "Seele zu Verstand 60:40 - Anweisungen Teil 1"
+description: "Augustinus, empfangen durch Al Fike: „Wenn auch nicht unbedingt das, was sie erwartet hatte, so ist doch viel erreicht worden. Ein neues Bündnis wurde …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

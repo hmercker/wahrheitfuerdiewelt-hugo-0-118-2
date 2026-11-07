@@ -1,7 +1,7 @@
 ---
 title: "Seid eurer Seele treu"
 menu_title: ""
-description: "Seid eurer Seele treu"
+description: "Jakobus, empfangen durch Al Fike: „Das Wissen vieler Menschen ist in den Geschichtsbüchern der Menschheit festgehalten. Doch wie ihr wisst, werden diese …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Trage das Licht der Liebe in dir"
 menu_title: ""
-description: "Trage das Licht der Liebe in dir"
+description: "Maria Magdalena, empfangen durch David Lampron: „Es ist schon einige Zeit her, dass ich das Privileg und die Ehre hatte, durch dich zu sprechen, mein lieber D.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

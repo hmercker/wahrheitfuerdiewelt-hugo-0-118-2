@@ -1,7 +1,7 @@
 ---
 title: "Betet, um als Kanäle der Liebe und des Lichts benutzt zu werden"
 menu_title: ""
-description: "Betet, um als Kanäle der Liebe und des Lichts benutzt zu werden"
+description: "Michael Collier, empfangen durch Al Fike: „Möge die Liebe Gottes weiterhin eure Seelen segnen, meine Freunde. In der Tat sehe ich in eurer Welt, dass es so …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

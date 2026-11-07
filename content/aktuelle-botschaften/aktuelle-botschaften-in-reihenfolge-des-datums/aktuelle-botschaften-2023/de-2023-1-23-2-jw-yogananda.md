@@ -1,7 +1,7 @@
 ---
 title: "Heilung"
 menu_title: ""
-description: "Heilung"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte über Heilung sprechen, denn es besteht ein großer Bedarf. Diejenigen, die in den Geist hinübergehen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

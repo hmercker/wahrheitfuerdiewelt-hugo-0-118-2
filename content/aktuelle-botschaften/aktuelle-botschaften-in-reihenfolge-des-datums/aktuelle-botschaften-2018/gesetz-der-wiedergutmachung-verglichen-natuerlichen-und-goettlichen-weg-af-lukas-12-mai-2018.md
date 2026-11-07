@@ -1,7 +1,7 @@
 ---
 title: "Gesetz der Wiedergutmachung - verglichen natürlichen und Göttlichen Weg"
 menu_title: ""
-description: "Gesetz der Wiedergutmachung - verglichen natürlichen und Göttlichen Weg"
+description: "Lukas, empfangen durch Al Fike: „Ich möchte mich in meinem Vortrag mit dem Gesetz der Kompensation befassen, da eure Freunde einige Diskussionen über …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

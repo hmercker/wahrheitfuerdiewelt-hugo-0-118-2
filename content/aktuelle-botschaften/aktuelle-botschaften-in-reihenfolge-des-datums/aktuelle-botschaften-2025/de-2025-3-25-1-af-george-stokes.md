@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Licht in den dunklen Bedingungen, die euch bedrängen"
 menu_title: ""
-description: "Seid ein Licht in den dunklen Bedingungen, die euch bedrängen"
+description: "George Stokes, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Meine lieben Freunde, alle Anstrengungen, die ihr in der materiellen Welt …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

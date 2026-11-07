@@ -1,7 +1,7 @@
 ---
 title: "Lukas erklärt, was das Leben in der Hölle so schwer macht"
 menu_title: ""
-description: "Lukas erklärt, was das Leben in der Hölle so schwer macht"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte ein paar Zeilen über ein Thema schreiben, das für euch beide von Interesse sein könnte.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

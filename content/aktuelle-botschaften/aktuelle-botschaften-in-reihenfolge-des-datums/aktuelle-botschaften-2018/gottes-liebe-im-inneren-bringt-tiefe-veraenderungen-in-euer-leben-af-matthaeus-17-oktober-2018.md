@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe im Inneren bringt tiefe Veränderungen in euer Leben"
 menu_title: ""
-description: "Gottes Liebe im Inneren bringt tiefe Veränderungen in euer Leben"
+description: "Matthäus, empfangen durch Al Fike: „Ihr steht an der Schwelle zu einem neuen Leben, zu einer neuen Art des Seins in dieser Welt.“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

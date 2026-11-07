@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch nicht von den materiellen Bedingungen ablenken"
 menu_title: ""
-description: "Lasst euch nicht von den materiellen Bedingungen ablenken"
+description: "Jesus, empfangen durch Al Fike: „Ich bete für euch, dass eure Seelen sich weiterhin öffnen und aufblühen in der Gabe der Essenz des Vaters, die in jeden …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

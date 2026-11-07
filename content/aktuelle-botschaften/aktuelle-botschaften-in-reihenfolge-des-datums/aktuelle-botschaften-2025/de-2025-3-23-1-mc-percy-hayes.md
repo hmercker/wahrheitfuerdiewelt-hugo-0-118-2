@@ -1,7 +1,7 @@
 ---
 title: "Percy erzählt von seiner Arbeit als himmlischer Engel"
 menu_title: ""
-description: "Percy erzählt von seiner Arbeit als himmlischer Engel"
+description: "Percy Hayes, empfangen durch Maureen Cardoso: „Wie wunderbar ist es, die Gelegenheit zu haben, mit jedem von euch zu sprechen und mich in der breiteren …“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

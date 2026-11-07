@@ -1,7 +1,7 @@
 ---
 title: "Was Menschen tun müssen, um Gott zu sehen und zu erkennen, dass Er ein persönlicher Gott ist"
 menu_title: ""
-description: "Was Menschen tun müssen, um Gott zu sehen und zu erkennen, dass Er ein persönlicher Gott ist"
+description: "Judas, empfangen von James Padgett: „Lass mich schreiben, Judas. Ich habe dir schon lange nicht mehr geschrieben und fühle, dass ich dir schreiben und eine …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

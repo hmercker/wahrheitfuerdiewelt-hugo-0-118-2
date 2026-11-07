@@ -1,7 +1,7 @@
 ---
 title: "Vater der modernen Philosophie möchte sein Erbe aus dem Zeitalter der Aufklärung korrigieren"
 menu_title: ""
-description: "Vater der modernen Philosophie möchte sein Erbe aus dem Zeitalter der Aufklärung korrigieren"
+description: "Immanuel Kant, empfangen durch Al Fike: „Er ist der Weg in die Hölle, nicht in den Himmel. Denn wenn man nicht die Verantwortung für sein Handeln …“"
 date: 2025-01-15 06:00:00+00:10
 draft: False
 hidden: True

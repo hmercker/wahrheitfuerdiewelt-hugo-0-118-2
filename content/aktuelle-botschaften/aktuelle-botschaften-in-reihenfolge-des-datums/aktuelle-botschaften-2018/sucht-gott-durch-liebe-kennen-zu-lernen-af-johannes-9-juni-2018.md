@@ -1,7 +1,7 @@
 ---
 title: "Sucht Gott durch Liebe kennen zu lernen"
 menu_title: ""
-description: "Sucht Gott durch Liebe kennen zu lernen"
+description: "Johannes, empfangen durch Al Fike: „Möge die Berührung der Liebe Gottes in eure Seelen eindringen und die Sehnsucht und das Verlangen tief in euch nach …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Einströmen der göttlichen Liebe in die Seele spüren und die Barrieren spüren"
 menu_title: ""
-description: "Das Einströmen der göttlichen Liebe in die Seele spüren und die Barrieren spüren"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Kinder, es macht uns im Himmlischen Königreich große Freude, euch auf diese Weise versammelt zu sehen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

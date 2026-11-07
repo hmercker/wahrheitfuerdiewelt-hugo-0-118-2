@@ -1,7 +1,7 @@
 ---
 title: "Lesen der Bibel"
 menu_title: ""
-description: "Lesen der Bibel"
+description: "Vater & Jesus, empfangen durch Child of God: „Ich erkenne deine Bemühungen an, mit unserem Vater in Kontakt zu treten. Was du hörst, ist die Wahrheit und …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

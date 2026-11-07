@@ -1,7 +1,7 @@
 ---
 title: "Umgang mit Bedrohungen"
 menu_title: ""
-description: "Umgang mit Bedrohungen"
+description: "Judas, empfangen durch Jimbeau Walsh: „Möge Seine Liebe über euch ausgegossen werden. Diese Fragen über Gewalt, Konflikt, diejenigen, die nicht in Harmonie …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

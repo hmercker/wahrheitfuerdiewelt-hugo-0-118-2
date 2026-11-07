@@ -1,7 +1,7 @@
 ---
 title: "Wir sind berufen, Anführer in der Welt zu sein"
 menu_title: ""
-description: "Wir sind berufen, Anführer in der Welt zu sein"
+description: "Moses, empfangen durch Al Fike: „Jedes Mal, wenn ihr ein Gebet zu Gott sprecht, um seine Liebe zu empfangen, setzt ihr die Wahrheit in der Welt durch.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

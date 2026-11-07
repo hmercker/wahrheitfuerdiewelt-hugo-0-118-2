@@ -1,7 +1,7 @@
 ---
 title: "Drückt sein Bedauern aus"
 menu_title: ""
-description: "Drückt sein Bedauern aus"
+description: "Kevin O'Neill, empfangen durch Al Fike: „In meiner Zeit auf der Erde war ich viel zu menschlich, voller Fehler, Nachsicht und Ängste, all die menschlichen …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

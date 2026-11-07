@@ -1,7 +1,7 @@
 ---
 title: "Eine persönliche Botschaft"
 menu_title: ""
-description: "Eine persönliche Botschaft"
+description: "Judas, empfangen durch Helge Mercker: „Erkenne, dass du die ausführende Kraft bist, um deinen Willen und deine Wünschen zu verwirklichen.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Alles was über die großartige Kraft und Herrlichkeit des Meisters geschrieben wurde, ist wahr"
 menu_title: ""
-description: "Alles was über die großartige Kraft und Herrlichkeit des Meisters geschrieben wurde, ist wahr"
+description: "John Layton, empfangen von James Padgett: „Ich habe dir schon einmal in deinem Büro geschrieben und wurde unterbrochen. Ich möchte heute Abend nur sagen …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

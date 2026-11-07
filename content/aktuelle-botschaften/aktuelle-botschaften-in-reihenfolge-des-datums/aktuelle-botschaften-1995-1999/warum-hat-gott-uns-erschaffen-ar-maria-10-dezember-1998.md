@@ -1,7 +1,7 @@
 ---
 title: "Warum hat Gott uns erschaffen?"
 menu_title: ""
-description: "Warum hat Gott uns erschaffen?"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater, ich möchte ein klarer Kanal für Deine Liebe sein, die sich in diesen dürftigen Worten …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

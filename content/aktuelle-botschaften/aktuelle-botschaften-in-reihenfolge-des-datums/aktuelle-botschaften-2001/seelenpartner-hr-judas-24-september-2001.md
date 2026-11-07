@@ -1,7 +1,7 @@
 ---
 title: "Seelenpartner"
 menu_title: ""
-description: "Seelenpartner"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , der Moment ist gekommen, um ein wenig tiefer in das Thema Seelenpartnerschaft einzutauchen.“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

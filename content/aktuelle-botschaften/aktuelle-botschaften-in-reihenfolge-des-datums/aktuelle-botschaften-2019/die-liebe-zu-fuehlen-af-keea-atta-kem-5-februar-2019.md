@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe fühlen"
 menu_title: ""
-description: "Die Liebe fühlen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Dieses liebe Instrument ist mit einer tiefen Intuition gesegnet worden und er hat sich durch sein Leben auf einer …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

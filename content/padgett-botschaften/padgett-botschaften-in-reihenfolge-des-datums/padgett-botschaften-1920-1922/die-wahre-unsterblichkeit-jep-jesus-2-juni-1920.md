@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Unsterblichkeit"
 menu_title: ""
-description: "Die wahre Unsterblichkeit"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte heute Nacht über ein Thema schreiben, das wichtig ist für die Menschheit und zur Gänze erklärt werden …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

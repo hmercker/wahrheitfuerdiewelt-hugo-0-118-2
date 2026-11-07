@@ -1,7 +1,7 @@
 ---
 title: "Jesu Segen"
 menu_title: ""
-description: "Jesu Segen"
+description: "Jesus, empfangen durch Al Fike: „Ich hülle euch alle in diesen Kreis der Liebe ein, jene in fernen Orten und jene, die hier sind.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

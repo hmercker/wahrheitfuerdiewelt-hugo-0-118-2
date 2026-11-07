@@ -1,7 +1,7 @@
 ---
 title: "Einige Fragen zu spirituellen Führern, Angriffe durch dunkle Wesen und Materialismus"
 menu_title: ""
-description: "Einige Fragen zu spirituellen Führern, Angriffe durch dunkle Wesen und Materialismus"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, ich möchte einige Fragen ansprechen, die in den letzten Tagen gestellt wurden.“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

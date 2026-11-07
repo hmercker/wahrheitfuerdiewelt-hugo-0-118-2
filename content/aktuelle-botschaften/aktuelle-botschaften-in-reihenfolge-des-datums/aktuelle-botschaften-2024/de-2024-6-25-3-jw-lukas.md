@@ -1,7 +1,7 @@
 ---
 title: "Magnetische Gebete"
 menu_title: ""
-description: "Magnetische Gebete"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes in jede Seele hier in diesem Kreis kommen. Möge sie euer Wesen durchdringen, wenn ihr einfach …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

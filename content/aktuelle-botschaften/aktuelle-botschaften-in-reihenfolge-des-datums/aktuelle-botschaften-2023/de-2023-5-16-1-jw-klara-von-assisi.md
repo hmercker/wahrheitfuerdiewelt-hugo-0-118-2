@@ -1,7 +1,7 @@
 ---
 title: "Geht in die Natur und geht zu Gott"
 menu_title: ""
-description: "Geht in die Natur und geht zu Gott"
+description: "Klara von Asissi, empfangen durch Jimbeau Walsh: „Fragt euch nicht, ob Gott eure Gebete erhört hat, denn die Absichten eurer Seelen steigen nicht nur zur …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

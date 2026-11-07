@@ -1,7 +1,7 @@
 ---
 title: "Aleyabis, ein Anhänger von Zoroaster, weiß nichts von der Neuen Geburt"
 menu_title: ""
-description: "Aleyabis, ein Anhänger von Zoroaster, weiß nichts von der Neuen Geburt"
+description: "Aleyabis, empfangen durch James Padgett: „Ich habe meinen Vorgängern zugehört und interessiere mich für das, was sie gesagt haben. Ich weiß nichts über …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

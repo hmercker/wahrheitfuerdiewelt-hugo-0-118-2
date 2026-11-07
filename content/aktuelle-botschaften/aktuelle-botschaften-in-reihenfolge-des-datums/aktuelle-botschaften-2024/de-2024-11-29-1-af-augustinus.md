@@ -1,7 +1,7 @@
 ---
 title: "Es gibt wenig, was euch von Gott trennt"
 menu_title: ""
-description: "Es gibt wenig, was euch von Gott trennt"
+description: "Augustinus, empfangen durch Al Fike: „Aber im Vergleich zu den meisten in eurer Welt gibt es nur wenig, was euch von Gott fernhält.“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

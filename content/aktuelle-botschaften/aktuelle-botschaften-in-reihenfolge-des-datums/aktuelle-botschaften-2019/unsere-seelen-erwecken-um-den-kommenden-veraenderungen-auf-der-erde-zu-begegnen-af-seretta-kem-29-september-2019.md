@@ -1,7 +1,7 @@
 ---
 title: "Unsere Seelen erwecken, um den kommenden Veränderungen auf der Erde zu begegnen"
 menu_title: ""
-description: "Unsere Seelen erwecken, um den kommenden Veränderungen auf der Erde zu begegnen"
+description: "Seretta Kem, empfangen durch Al Fike: „Liebe kostbare und geliebte Seelen, die sich weiterhin konsequent in diesem Kreis des Lichts und der Absicht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

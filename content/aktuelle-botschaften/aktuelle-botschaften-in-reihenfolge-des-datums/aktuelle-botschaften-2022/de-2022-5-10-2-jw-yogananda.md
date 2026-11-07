@@ -1,7 +1,7 @@
 ---
 title: "Ertrinken im Meer der Liebe"
 menu_title: ""
-description: "Ertrinken im Meer der Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Liebe Brüder und Schwestern, kann es ein höheres Bestreben geben, als nach dem Sinn eines jeden Lebens zu …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

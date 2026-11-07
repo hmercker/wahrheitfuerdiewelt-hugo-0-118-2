@@ -1,7 +1,7 @@
 ---
 title: "Ist das nicht euer Herzenswunsch?"
 menu_title: ""
-description: "Ist das nicht euer Herzenswunsch?"
+description: "Ann Rollins, empfangen durch Jimbeau Walsh: „Ich möchte euch sanft an das Fundament eurer Gemeinschaft erinnern; an das Vertrauen in diese Kommunikation …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

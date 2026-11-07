@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitungen für den Beginn der Direkten Stimme"
 menu_title: ""
-description: "Vorbereitungen für den Beginn der Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir werden uns morgen an euren Kreis wenden und jeder von uns wird einige Worte der Ermutigung sagen.“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

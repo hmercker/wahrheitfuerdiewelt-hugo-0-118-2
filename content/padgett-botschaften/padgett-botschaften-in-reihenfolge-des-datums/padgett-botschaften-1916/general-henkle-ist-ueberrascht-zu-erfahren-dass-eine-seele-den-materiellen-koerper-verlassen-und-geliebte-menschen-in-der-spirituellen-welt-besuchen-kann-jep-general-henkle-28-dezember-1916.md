@@ -1,7 +1,7 @@
 ---
 title: "General Henkle ist überrascht zu erfahren, dass eine Seele den materiellen Körper verlassen und geliebte Menschen in der spirituellen Welt besuchen kann "
 menu_title: ""
-description: "General Henkle ist überrascht zu erfahren, dass eine Seele den materiellen Körper verlassen und geliebte Menschen in der spirituellen Welt besuchen kann "
+description: "Saul S. Henkle, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich den ganzen Abend anwesend war und deine Lektüre der Botschaften und das …“"
 date: 2020-08-01 06:25:48+00:303
 draft: False
 hidden: True

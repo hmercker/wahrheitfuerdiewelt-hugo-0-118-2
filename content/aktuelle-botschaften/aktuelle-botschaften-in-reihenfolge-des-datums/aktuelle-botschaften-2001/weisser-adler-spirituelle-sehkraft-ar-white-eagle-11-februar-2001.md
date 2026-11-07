@@ -1,7 +1,7 @@
 ---
 title: "Weißer Adler: spirituelle Sehkraft"
 menu_title: ""
-description: "Weißer Adler: spirituelle Sehkraft"
+description: "Weißer Adler, empfangen durch Amada Reza: „Ich möchte mit A teilen, dass wir mit ihm sind, um ihm zu helfen, die Wahrheit über seinen Zustand zu erkennen …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

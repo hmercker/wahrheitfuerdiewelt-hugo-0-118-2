@@ -1,7 +1,7 @@
 ---
 title: "Eine Warnung vor kommenden Dingen"
 menu_title: ""
-description: "Eine Warnung vor kommenden Dingen"
+description: "Augustinus: „Wir sind sehr glücklich über die Fortschritte, die diese Gruppe im vergangenen Jahr gemacht hat.“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

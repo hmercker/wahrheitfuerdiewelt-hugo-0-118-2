@@ -1,7 +1,7 @@
 ---
 title: "Übung macht den Meister"
 menu_title: ""
-description: "Übung macht den Meister"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine lieben Mäuse, wie man so schön sagt: Übung macht den Meister. Wenn ihr Zeit und einen Ort findet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

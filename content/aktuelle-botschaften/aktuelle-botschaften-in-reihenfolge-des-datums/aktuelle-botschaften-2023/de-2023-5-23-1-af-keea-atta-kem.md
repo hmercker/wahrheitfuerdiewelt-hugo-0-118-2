@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid die wenigen Privilegierten auf der Welt"
 menu_title: ""
-description: "Ihr seid die wenigen Privilegierten auf der Welt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Denn wie viele Menschen auf eurer Erdebene kennen dieses Geschenk so wie ihr, fühlen dieses Geschenk so wie ihr es …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes rät Padgett, das Lesen von nicht relevantem Material zugunsten der Botschaften aufzugeben"
 menu_title: ""
-description: "Johannes rät Padgett, das Lesen von nicht relevantem Material zugunsten der Botschaften aufzugeben"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend nur ein paar Zeilen schreiben, um dir zu sagen, dass du nicht in dem seelischen Zustand …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

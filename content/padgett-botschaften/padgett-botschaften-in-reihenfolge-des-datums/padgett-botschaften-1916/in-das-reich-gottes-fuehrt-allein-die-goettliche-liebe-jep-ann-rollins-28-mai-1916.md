@@ -1,7 +1,7 @@
 ---
 title: "In das Reich Gottes führt allein die Göttliche Liebe"
 menu_title: ""
-description: "In das Reich Gottes führt allein die Göttliche Liebe"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich werde dir heute Nacht von einer Wahrheit erzählen, die dich interessieren mag, und von der ich weiß, dass …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

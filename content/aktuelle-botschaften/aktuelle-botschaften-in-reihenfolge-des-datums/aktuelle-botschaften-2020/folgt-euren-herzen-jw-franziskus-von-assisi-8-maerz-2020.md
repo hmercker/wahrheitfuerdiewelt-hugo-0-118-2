@@ -1,7 +1,7 @@
 ---
 title: "Folgt euren Herzen"
 menu_title: ""
-description: "Folgt euren Herzen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Was für eine Freude, diese Versammlung von Seelen zu sehen, die sich danach sehnen, eins zu sein in …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

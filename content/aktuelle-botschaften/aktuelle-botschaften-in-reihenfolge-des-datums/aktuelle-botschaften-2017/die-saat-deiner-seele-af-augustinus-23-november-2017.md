@@ -1,7 +1,7 @@
 ---
 title: "Die Saat deiner Seele"
 menu_title: ""
-description: "Die Saat deiner Seele"
+description: "Augustinus, empfangen durch Al Fike: „Könnt ihr erkennen, wie eure Wünsche die Ergebnisse eures Lebens beeinflussen? Wie diese Wünsche im Gebet euch Segen …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

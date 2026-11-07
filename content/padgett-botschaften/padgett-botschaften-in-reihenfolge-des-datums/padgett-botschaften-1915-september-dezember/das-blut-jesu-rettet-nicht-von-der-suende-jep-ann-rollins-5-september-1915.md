@@ -1,7 +1,7 @@
 ---
 title: "Das Blut Jesu rettet nicht von der Sünde"
 menu_title: ""
-description: "Das Blut Jesu rettet nicht von der Sünde"
+description: "Ann Rollins, empfangen von James Padgett: „Ich werde auch ein Wort sagen. Du wirst dich daran erinnern, wie ich auf Erden an diese Lehre vom Irrtum …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

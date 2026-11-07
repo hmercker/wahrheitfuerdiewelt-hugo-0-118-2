@@ -1,7 +1,7 @@
 ---
 title: "Einen Zufluchtsort schaffen"
 menu_title: ""
-description: "Einen Zufluchtsort schaffen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte meinen Vortrag über die Schaffung eines Zufluchtsortes fortsetzen und, wenn ich darf, das Thema …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

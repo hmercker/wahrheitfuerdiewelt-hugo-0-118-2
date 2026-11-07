@@ -1,7 +1,7 @@
 ---
 title: "Vergeudet nicht eure Zeit nicht mit Nichtstun"
 menu_title: ""
-description: "Vergeudet nicht eure Zeit nicht mit Nichtstun"
+description: "Jesus, empfangen durch Al Fike: „Während ihr seinen nährenden Beistand, den Beistand seiner Seele sucht, bete ich mit euch und gehe mit euch, und jeden Tag …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was ist das Verlangen eurer Seele in Bezug auf die Wahrheit?"
 menu_title: ""
-description: "Was ist das Verlangen eurer Seele in Bezug auf die Wahrheit?"
+description: "Matthäus, empfangen durch Al Fike: „Geliebte Seelen, dies ist Matthäus. Ich heiße dich, liebe Tochter (L), in diesem Kreis willkommen und alle von euch …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

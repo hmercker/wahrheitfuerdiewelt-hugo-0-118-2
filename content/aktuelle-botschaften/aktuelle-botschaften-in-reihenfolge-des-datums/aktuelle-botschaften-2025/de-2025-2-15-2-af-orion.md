@@ -1,7 +1,7 @@
 ---
 title: "Die Tyrannei des Verstandes aufzulösen ist entscheidend für das Seelenbewusstsein"
 menu_title: ""
-description: "Die Tyrannei des Verstandes aufzulösen ist entscheidend für das Seelenbewusstsein"
+description: "Orion, empfangen durch Al Fike: „Möge der Segen der Liebe unseres Schöpfers weiterhin in euch fließen. Diese Liebe, die Grundlage aller spirituellen …“"
 date: 2025-02-23 06:00:00+00:10
 draft: False
 hidden: True

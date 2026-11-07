@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt ihren Übergang in die Spirituelle Welt"
 menu_title: ""
-description: "Helen beschreibt ihren Übergang in die Spirituelle Welt"
+description: "Helen, empfangen durch James Padgett: „Als ich erkannt hatte, dass meine Zeit gekommen war fortzugehen, hatte ich keine Angst davor, sondern wartete in …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

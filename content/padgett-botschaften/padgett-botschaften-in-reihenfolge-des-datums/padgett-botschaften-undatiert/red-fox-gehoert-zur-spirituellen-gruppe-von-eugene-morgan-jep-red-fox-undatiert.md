@@ -1,7 +1,7 @@
 ---
 title: "Red Fox gehört zur spirituellen Gruppe von Eugene Morgan"
 menu_title: ""
-description: "Red Fox gehört zur spirituellen Gruppe von Eugene Morgan"
+description: "Red Fox, empfangen durch James Padgett: „Ja, ich habe es dir gesagt. Du hast meine Stimme gehört, wie du es oft tust.“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

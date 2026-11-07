@@ -1,7 +1,7 @@
 ---
 title: "Die Hochzeit in Kana"
 menu_title: ""
-description: "Die Hochzeit in Kana"
+description: "Judas, empfangen durch H.: „Ich weiß, dass du dich in dieser Woche nicht wohl gefühlt hast; es ist verständlich, dass du nicht jeden Tag \"auf einer Wolke …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

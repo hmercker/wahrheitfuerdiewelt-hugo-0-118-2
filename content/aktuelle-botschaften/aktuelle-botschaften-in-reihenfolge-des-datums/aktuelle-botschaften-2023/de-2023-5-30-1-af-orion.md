@@ -1,7 +1,7 @@
 ---
 title: "Die Dominanz des geistigen Verstandes wird mit der Zeit der Einfachheit der Seele weichen"
 menu_title: ""
-description: "Die Dominanz des geistigen Verstandes wird mit der Zeit der Einfachheit der Seele weichen"
+description: "Orion, empfangen durch Al Fike: „Meine wunderbaren Freunde, ihr seid so fleißig und engagiert für die Wahrheit, für das Licht und dafür, Gottes Werkzeuge …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

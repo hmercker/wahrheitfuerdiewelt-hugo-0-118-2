@@ -1,7 +1,7 @@
 ---
 title: "Läutet die Glocke des Gebets"
 menu_title: ""
-description: "Läutet die Glocke des Gebets"
+description: "Judas, empfangen durch Jimbeau Walsh: „Während die Veränderungen auf der Erde immer drastischer werden, während die physischen und spirituellen Polaritäten …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

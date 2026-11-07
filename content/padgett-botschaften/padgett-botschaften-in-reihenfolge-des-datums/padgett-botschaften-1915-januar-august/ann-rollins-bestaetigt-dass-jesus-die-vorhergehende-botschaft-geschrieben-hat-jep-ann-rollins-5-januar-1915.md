@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigt, dass Jesus die vorhergehende Botschaft geschrieben hat"
 menu_title: ""
-description: "Ann Rollins bestätigt, dass Jesus die vorhergehende Botschaft geschrieben hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Das habe ich gehört und du musst glauben, dass es der Herr war. Er hat dir geschrieben und war so ernsthaft …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

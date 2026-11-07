@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung eurer Gedanken, Emotionen und Gefühle"
 menu_title: ""
-description: "Die Bedeutung eurer Gedanken, Emotionen und Gefühle"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Ja, in der Tat, schöne Seelen, ihr seid in der Tat zu Hause, denn es ist eure Seele, die mit Gott …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

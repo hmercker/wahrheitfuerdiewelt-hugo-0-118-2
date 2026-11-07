@@ -1,7 +1,7 @@
 ---
 title: "Gedanken werden zu Dingen"
 menu_title: ""
-description: "Gedanken werden zu Dingen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Die Welt ist voller Wissen und es ist wahr, dass Gedanken zu Dingen werden, egal ob der Gedanke im Geist …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

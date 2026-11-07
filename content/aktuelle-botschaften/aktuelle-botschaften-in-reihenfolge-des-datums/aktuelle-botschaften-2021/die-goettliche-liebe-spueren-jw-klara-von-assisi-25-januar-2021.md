@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe spüren"
 menu_title: ""
-description: "Die Göttliche Liebe spüren"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Als mein geliebter Franziskus, der von so vielen geliebt wurde, in den Geist hinüberging, war er so sehr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

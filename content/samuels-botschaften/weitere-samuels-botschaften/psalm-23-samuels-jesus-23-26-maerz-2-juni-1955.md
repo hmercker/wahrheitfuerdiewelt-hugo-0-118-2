@@ -1,7 +1,7 @@
 ---
 title: "Psalm 23"
 menu_title: ""
-description: "Psalm 23"
+description: "Jesus, empfangen durch Dr Samuels: „Als ich damals in den Synagogen von Nazareth, Kapernaum, Magdala oder anderswo in Palästina lehrte, verfolgte ich immer …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

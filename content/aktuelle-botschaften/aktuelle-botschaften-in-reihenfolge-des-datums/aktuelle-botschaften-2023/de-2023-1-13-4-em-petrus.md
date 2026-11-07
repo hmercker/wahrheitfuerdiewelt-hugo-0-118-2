@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Wahrheit"
 menu_title: ""
-description: "Sucht die Wahrheit"
+description: "Petrus, empfangen durch Elisabeth Mack: „Wenn ihr eure Seelen ausbreitet und eure Herzen zu unserem himmlischen Vater erhebt, werdet ihr alles klar sehen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

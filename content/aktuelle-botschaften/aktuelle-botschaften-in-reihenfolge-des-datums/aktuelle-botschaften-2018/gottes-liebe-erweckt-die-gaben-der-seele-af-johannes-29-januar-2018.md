@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe erweckt die Gaben der Seele"
 menu_title: ""
-description: "Gottes Liebe erweckt die Gaben der Seele"
+description: "Johannes, empfangen durch Al Fike: „In eurem Inneren gibt es viele Aspekte eures Ausdrucks, von der Komplexität eures Verstandes bis zum Wunder eurer …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Perfekte Liebe bedeutet perfekte Ergebnisse"
 menu_title: ""
-description: "Perfekte Liebe bedeutet perfekte Ergebnisse"
+description: "Johannes, empfangen durch Amada Reza: „[Lieber Himmlischer Vater, ich bete für Deine Göttliche Liebe, dass Deine Göttliche Liebe in meine Seele kommt …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

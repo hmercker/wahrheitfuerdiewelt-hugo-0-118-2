@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 1969"
 menu_title: "Aktuelle Botschaften 1969"
-description: "Aktuelle Botschaften vom Jahre 1969"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Keea Atta Kem | Bittet den Vater, eure Seelen zu öffnen | 14 Februar 1969 Keea Atta Kem | …“"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True

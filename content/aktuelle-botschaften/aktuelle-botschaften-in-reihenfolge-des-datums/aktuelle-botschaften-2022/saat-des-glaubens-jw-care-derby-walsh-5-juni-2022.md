@@ -1,7 +1,7 @@
 ---
 title: "Saat des Glaubens"
 menu_title: ""
-description: "Saat des Glaubens"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Einige werden natürlich auf fruchtbaren Boden fallen, andere werden vielleicht eine Zeit lang schlummern.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

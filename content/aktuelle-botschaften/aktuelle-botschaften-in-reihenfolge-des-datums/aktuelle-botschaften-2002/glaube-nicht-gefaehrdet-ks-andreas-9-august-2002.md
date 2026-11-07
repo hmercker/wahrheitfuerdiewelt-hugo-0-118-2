@@ -1,7 +1,7 @@
 ---
 title: "Glaube nicht gefährdet"
 menu_title: ""
-description: "Glaube nicht gefährdet"
+description: "Andreas, empfangen durch Kathryn Stokes: „[Liebe Schöpferseele, Quelle aller Liebe, ich fühle mich inspiriert, eine Botschaft von einem oder mehreren …“"
 date: 2020-08-01 06:25:48+00:241
 draft: False
 hidden: True

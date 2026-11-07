@@ -1,7 +1,7 @@
 ---
 title: "Carlisle ist im vergangenen Jahr ins Licht vorgedrungen"
 menu_title: ""
-description: "Carlisle ist im vergangenen Jahr ins Licht vorgedrungen"
+description: "John Carlisle, empfangen durch James Padgett: „Nun, mein Freund, ich habe dir seit einiger Zeit nicht mehr geschrieben, nicht weil ich es nicht gewollt …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

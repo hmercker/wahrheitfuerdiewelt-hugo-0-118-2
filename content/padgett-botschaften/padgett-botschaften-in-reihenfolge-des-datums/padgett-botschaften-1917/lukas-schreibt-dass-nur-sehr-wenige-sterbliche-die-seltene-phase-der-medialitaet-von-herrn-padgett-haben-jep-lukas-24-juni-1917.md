@@ -1,7 +1,7 @@
 ---
 title: "Lukas schreibt, dass nur sehr wenige Sterbliche die seltene Phase der Medialität von Herrn Padgett haben"
 menu_title: ""
-description: "Lukas schreibt, dass nur sehr wenige Sterbliche die seltene Phase der Medialität von Herrn Padgett haben"
+description: "Lukas, empfangen durch James Padgett: „Ich habe eurem Gespräch zugehört und habe mich über die Tatsachen gefreut, die sich aus der Kenntnis der Wahrheiten …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

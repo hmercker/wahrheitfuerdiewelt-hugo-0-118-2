@@ -1,7 +1,7 @@
 ---
 title: "Das Heiligste Herz"
 menu_title: ""
-description: "Das Heiligste Herz"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Ihr könnt eurem Herzen vertrauen, um zu wissen, was Liebe ist. Mein Herz ist verwandelt und schlägt doch immer noch …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

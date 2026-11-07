@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Botschaft von Papst Clemens"
 menu_title: ""
-description: "Eine kurze Botschaft von Papst Clemens"
+description: "Papst Clemens 1, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich froh bin in der Lage zu sein, zu bezeugen, von der Arbeit wozu du …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

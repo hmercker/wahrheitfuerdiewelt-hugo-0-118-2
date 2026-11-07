@@ -1,7 +1,7 @@
 ---
 title: "Lektion 23 - Der Weg zur Wahrheit - Band 3"
 menu_title: ""
-description: "Lektion 23 - Der Weg zur Wahrheit - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Durch unsere Zusammenarbeit wurden die Seelen aufgewühlt und eine gewisse Kontroverse unter denjenigen entfacht, die diese …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

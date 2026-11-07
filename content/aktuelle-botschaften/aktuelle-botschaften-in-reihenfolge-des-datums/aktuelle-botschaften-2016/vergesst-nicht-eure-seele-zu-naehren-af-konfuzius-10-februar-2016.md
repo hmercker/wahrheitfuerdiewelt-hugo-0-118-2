@@ -1,7 +1,7 @@
 ---
 title: "Vergesst nicht eure Seele zu nähren"
 menu_title: ""
-description: "Vergesst nicht eure Seele zu nähren"
+description: "Konfuzius, empfangen durch Al Fike: „Jeder von euch hat viele Gaben, große Potentiale in euren Seelen, die durch diese Göttliche Essenz, die Liebe des …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

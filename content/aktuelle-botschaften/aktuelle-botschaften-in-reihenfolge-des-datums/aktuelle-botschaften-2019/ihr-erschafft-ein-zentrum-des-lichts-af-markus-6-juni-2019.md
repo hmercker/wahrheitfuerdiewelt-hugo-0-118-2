@@ -1,7 +1,7 @@
 ---
 title: "Ihr erschafft ein Zentrum des Lichts"
 menu_title: ""
-description: "Ihr erschafft ein Zentrum des Lichts"
+description: "Markus, empfangen durch Al Fike: „Willkommen, geliebte Brüder und Schwestern. Das lebendige Wasser der Liebe Gottes strömt in diesem Moment an diesen Ort.“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus antwortet auf unsere Gebete der Dankbarkeit"
 menu_title: ""
-description: "Jesus antwortet auf unsere Gebete der Dankbarkeit"
+description: "Jesus, empfangen durch Al Fike: „Die Sehnsucht eurer Seelen ist für mich ganz offensichtlich. Es ist in dieser Sehnsucht, die ihr Gott gegenüber zum …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

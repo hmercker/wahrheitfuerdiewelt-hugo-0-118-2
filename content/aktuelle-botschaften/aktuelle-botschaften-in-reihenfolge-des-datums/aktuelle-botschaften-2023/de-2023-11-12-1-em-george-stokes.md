@@ -1,7 +1,7 @@
 ---
 title: "Betet um Liebe und Frieden für die Seelen der Menschheit"
 menu_title: ""
-description: "Betet um Liebe und Frieden für die Seelen der Menschheit"
+description: "George Stokes, empfangen durch Elisabeth Mack: „Ihr könnt mich besser hören, wenn ich rufe. Meine Botschaft an euch ist, dass ihr heute, zu dieser Zeit …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

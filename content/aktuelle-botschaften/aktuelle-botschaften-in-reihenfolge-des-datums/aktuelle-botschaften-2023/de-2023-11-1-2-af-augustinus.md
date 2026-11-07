@@ -1,7 +1,7 @@
 ---
 title: "Jeder von euch wählt die Reise seiner Seele"
 menu_title: ""
-description: "Jeder von euch wählt die Reise seiner Seele"
+description: "Augustinus, empfangen durch Al Fike: „Mögen sich eure Seelen weit öffnen für das Einströmen von Gottes Liebe, damit ihr noch mehr zur Wahrheit und …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

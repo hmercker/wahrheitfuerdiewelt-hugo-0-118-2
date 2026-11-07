@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass es wichtig ist, dass die Menschen die moralischen Wahrheiten der Göttlichen Liebe kennen"
 menu_title: ""
-description: "Helen schreibt, dass es wichtig ist, dass die Menschen die moralischen Wahrheiten der Göttlichen Liebe kennen"
+description: "Helen, empfangen durch James Padgett: „Die Wahrheiten, die du in Bezug auf die spirituelle Welt in dem Buch von Dr. Peebles gelesen hast, sind sehr schön …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Tod kann ein freudiger Übergang zum spirituellen Leben sein"
 menu_title: ""
-description: "Der Tod kann ein freudiger Übergang zum spirituellen Leben sein"
+description: "Matthäus, empfangen durch Al Fike: „Es wird eine Zeit in der Existenz der Erde kommen, in der der Tod nicht gefürchtet, sondern von allen Völkern eurer …“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

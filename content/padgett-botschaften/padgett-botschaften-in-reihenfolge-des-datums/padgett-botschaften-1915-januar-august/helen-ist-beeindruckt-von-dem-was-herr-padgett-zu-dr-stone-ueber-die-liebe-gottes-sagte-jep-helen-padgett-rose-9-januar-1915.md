@@ -1,7 +1,7 @@
 ---
 title: "Helen ist beeindruckt von dem was Herr Padgett zu Dr. Stone über die Liebe Gottes sagte"
 menu_title: ""
-description: "Helen ist beeindruckt von dem was Herr Padgett zu Dr. Stone über die Liebe Gottes sagte"
+description: "Helen, empfangen durch James Padgett: „Ich war heute Abend bei dir als du dir die Vorführung angesehen hast und du hast mich so glücklich gemacht, als du …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

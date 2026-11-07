@@ -1,7 +1,7 @@
 ---
 title: "Gespräch über Beweise und Fakten"
 menu_title: ""
-description: "Gespräch über Beweise und Fakten"
+description: "Thomas, empfangen durch Jimbeau Walsh: „Ich möchte über Beweise und Belege sprechen, die in so vielen Bereichen des Lebens erforderlich sind.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

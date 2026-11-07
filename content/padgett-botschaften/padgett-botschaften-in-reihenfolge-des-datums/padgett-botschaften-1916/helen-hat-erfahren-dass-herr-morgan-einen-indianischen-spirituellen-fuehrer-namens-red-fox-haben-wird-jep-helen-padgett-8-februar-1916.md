@@ -1,7 +1,7 @@
 ---
 title: "Helen hat erfahren, dass Herr Morgan einen indianischen spirituellen Führer namens Red Fox haben wird"
 menu_title: ""
-description: "Helen hat erfahren, dass Herr Morgan einen indianischen spirituellen Führer namens Red Fox haben wird"
+description: "Helen, empfangen durch James Padgett: „Nun, du brauchst einen Aufpasser, denn du weißt nie, wann du ins Bett gehen sollst. Ich meine, du darfst nicht …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Es gibt viele Arten von Heilungen"
 menu_title: ""
-description: "Es gibt viele Arten von Heilungen"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Die Welt braucht dringend eine Heilung. So viele Unstimmigkeiten und Unwahrheiten haben viel Angst, Glaubensverlust …“"
 date: 2023-03-31 06:00:00+00:10
 draft: False
 hidden: True

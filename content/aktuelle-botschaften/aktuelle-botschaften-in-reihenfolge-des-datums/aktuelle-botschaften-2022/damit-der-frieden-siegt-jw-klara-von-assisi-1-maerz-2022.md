@@ -1,7 +1,7 @@
 ---
 title: "Damit der Frieden siegt"
 menu_title: ""
-description: "Damit der Frieden siegt"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine lieben Mäuse, ich fühle eure schönen Herzen. Ich fühle eure Sehnsucht nach Frieden, nach …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

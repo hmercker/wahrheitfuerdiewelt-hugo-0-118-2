@@ -1,7 +1,7 @@
 ---
 title: "Lektion über das Seelenbewusstsein"
 menu_title: ""
-description: "Lektion über das Seelenbewusstsein"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie versprochen, bin ich hier, um Fragen zu beantworten und verschiedene Wahrheiten und Umstände zu erläutern, auf …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

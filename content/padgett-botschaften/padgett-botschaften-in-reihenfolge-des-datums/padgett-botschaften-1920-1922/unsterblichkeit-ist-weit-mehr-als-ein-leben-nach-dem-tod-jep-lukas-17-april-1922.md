@@ -1,7 +1,7 @@
 ---
 title: "Unsterblichkeit ist weit mehr als ein Leben nach dem Tod"
 menu_title: ""
-description: "Unsterblichkeit ist weit mehr als ein Leben nach dem Tod"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte dir ein paar Worte zu der Frage der Unsterblichkeit sagen, über die du in den letzten Tagen so viel …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

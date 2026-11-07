@@ -1,7 +1,7 @@
 ---
 title: "Wir sind hier, um diese Musik der Seele zu orchestrieren "
 menu_title: ""
-description: "Wir sind hier, um diese Musik der Seele zu orchestrieren "
+description: "Matthäus, empfangen durch Al Fike: „Wenn ihr nach dem Höchsten greift, wenn eure Gebete ins Schwarze treffen und eurer Seele eine Antwort von Gott bringen …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

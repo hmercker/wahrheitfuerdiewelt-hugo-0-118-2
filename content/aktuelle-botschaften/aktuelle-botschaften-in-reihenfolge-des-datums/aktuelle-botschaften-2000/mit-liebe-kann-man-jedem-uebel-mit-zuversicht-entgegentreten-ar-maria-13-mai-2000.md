@@ -1,7 +1,7 @@
 ---
 title: "Mit Liebe kann man jedem Übel mit Zuversicht entgegentreten"
 menu_title: ""
-description: "Mit Liebe kann man jedem Übel mit Zuversicht entgegentreten"
+description: "Maria, empfangen durch Amada Reza: „A , ich möchte, dass du dein Geschenk als etwas annimmst, das dich befähigt, die Göttliche Liebe deiner Seele zu …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

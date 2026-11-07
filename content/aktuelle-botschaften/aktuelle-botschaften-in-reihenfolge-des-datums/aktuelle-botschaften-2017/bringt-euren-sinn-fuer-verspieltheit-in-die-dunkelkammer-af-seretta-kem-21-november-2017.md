@@ -1,7 +1,7 @@
 ---
 title: "Bringt euren Sinn für Verspieltheit in die Dunkel-Kammer"
 menu_title: ""
-description: "Bringt euren Sinn für Verspieltheit in die Dunkel-Kammer"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir alle wärmen uns in diesem Licht, nicht wahr? Dieses wunderbare Licht, das Maria gebracht hat und das Gott jedem …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

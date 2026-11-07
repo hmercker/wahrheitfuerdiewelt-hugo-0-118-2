@@ -1,7 +1,7 @@
 ---
 title: "Pforten des Lichts haben einen Zweck"
 menu_title: ""
-description: "Pforten des Lichts haben einen Zweck"
+description: "Augustinus, empfangen durch Al Fike: „Ihr bittet um die Gabe einer Pforte, geliebte Tochter, und ich möchte euch sagen, dass dieser Segen nicht einfach nur …“"
 date: 2022-09-09 06:00:00+00:10
 draft: False
 hidden: True

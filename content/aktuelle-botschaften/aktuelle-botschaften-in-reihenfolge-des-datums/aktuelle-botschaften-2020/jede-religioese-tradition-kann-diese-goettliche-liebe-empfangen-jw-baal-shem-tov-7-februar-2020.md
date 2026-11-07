@@ -1,7 +1,7 @@
 ---
 title: "Jede religiöse Tradition kann diese Göttliche Liebe empfangen"
 menu_title: ""
-description: "Jede religiöse Tradition kann diese Göttliche Liebe empfangen"
+description: "Baal Shem Tov, empfangen durch Jimbeau Walsh: „Ich war als Baal Shem Tov bekannt und ich war ein Reformer in meiner Gemeinde unter den chassidischen Juden …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

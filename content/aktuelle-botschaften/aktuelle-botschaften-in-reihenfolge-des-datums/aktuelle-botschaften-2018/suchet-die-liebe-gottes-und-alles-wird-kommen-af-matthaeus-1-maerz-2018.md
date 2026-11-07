@@ -1,7 +1,7 @@
 ---
 title: "Suchet die Liebe Gottes und alles wird kommen"
 menu_title: ""
-description: "Suchet die Liebe Gottes und alles wird kommen"
+description: "Matthäus, empfangen durch Al Fike: „Möge Gott jede eurer Seelen mit Seiner Liebe berühren. Möge diese Berührung tief in euch gehen und euch ein Erwachen …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

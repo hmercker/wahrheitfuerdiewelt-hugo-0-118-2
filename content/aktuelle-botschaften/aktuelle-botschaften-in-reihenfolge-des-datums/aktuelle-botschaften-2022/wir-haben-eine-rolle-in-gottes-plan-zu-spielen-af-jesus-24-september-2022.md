@@ -1,7 +1,7 @@
 ---
 title: "Wir haben eine Rolle in Gottes Plan zu spielen"
 menu_title: ""
-description: "Wir haben eine Rolle in Gottes Plan zu spielen"
+description: "Jesus, empfangen durch Al Fike: „Möge sich der Segen der Liebe des Vaters über jeden von euch ergießen, geliebte Kinder. Es ist wichtig, dass ihr erkennt …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

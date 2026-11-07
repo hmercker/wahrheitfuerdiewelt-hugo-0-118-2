@@ -1,7 +1,7 @@
 ---
 title: "Ein schönes Licht wächst, das das Erwachen eurer Seelen signalisiert"
 menu_title: ""
-description: "Ein schönes Licht wächst, das das Erwachen eurer Seelen signalisiert"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr gewöhnt euch langsam daran, in diese höheren Sphären erhoben zu werden. Das ist sehr erfreulich für uns …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

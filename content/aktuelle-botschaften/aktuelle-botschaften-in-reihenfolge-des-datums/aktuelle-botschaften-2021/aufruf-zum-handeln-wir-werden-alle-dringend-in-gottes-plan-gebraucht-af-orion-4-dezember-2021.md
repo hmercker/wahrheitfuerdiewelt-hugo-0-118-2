@@ -1,7 +1,7 @@
 ---
 title: "Aufruf zum Handeln! Wir werden alle dringend in Gottes Plan gebraucht"
 menu_title: ""
-description: "Aufruf zum Handeln! Wir werden alle dringend in Gottes Plan gebraucht"
+description: "Orion, empfangen durch Al Fike: „Wir helfen euch weiterhin und unterstützen unsere Engelsfreunde dabei, die Grundlagen und Wahrheiten zu schaffen, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Schicksal und freier Wille - Teil  2"
 menu_title: ""
-description: "Schicksal und freier Wille - Teil  2"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte meinen Diskurs über den freien Willen im Gegensatz zum Schicksal fortsetzen, denn ich möchte dieser Lehre …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Werft die Dinge ab, die nicht aus Liebe sind"
 menu_title: ""
-description: "Werft die Dinge ab, die nicht aus Liebe sind"
+description: "Lukas, empfangen durch Al Fike: „Ich bringe euch meine Segnungen der Liebe. Kostbare und geliebte Seelen, jeden Tag seid ihr mit vielen Entscheidungen …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

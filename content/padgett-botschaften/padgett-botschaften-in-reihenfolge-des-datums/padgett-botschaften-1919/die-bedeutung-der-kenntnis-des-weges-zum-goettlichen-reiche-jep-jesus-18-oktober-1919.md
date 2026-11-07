@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung der Kenntnis des Weges zum Göttlichen Reiche"
 menu_title: ""
-description: "Die Bedeutung der Kenntnis des Weges zum Göttlichen Reiche"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte gerne ein paar Zeilen schreiben, denn ich muss dir eine wichtige Wahrheit mitteilen, die die Menschen …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

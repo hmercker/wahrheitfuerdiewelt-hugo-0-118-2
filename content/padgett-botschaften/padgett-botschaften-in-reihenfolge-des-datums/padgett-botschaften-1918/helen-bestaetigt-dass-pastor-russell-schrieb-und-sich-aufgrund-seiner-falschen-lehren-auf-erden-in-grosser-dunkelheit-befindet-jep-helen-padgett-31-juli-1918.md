@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Pastor Russell schrieb und sich aufgrund seiner falschen Lehren auf Erden in großer Dunkelheit befindet"
 menu_title: ""
-description: "Helen bestätigt, dass Pastor Russell schrieb und sich aufgrund seiner falschen Lehren auf Erden in großer Dunkelheit befindet"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast soeben einen Brief von Pastor Russell erhalten, der, wie er sagt, den Tag über bei dir …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

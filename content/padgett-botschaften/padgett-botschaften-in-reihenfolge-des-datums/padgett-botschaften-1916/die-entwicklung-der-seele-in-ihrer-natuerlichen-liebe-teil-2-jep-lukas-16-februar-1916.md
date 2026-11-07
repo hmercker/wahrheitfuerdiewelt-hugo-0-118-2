@@ -1,7 +1,7 @@
 ---
 title: "Die Entwicklung der Seele in ihrer natürlichen Liebe - Teil 2 "
 menu_title: ""
-description: "Die Entwicklung der Seele in ihrer natürlichen Liebe - Teil 2"
+description: "Lukas, empfangen durch James Padgett: „Meinst du, du kannst meine Nachricht heute Abend entgegennehmen? Es sieht so aus, als könntest du - auf jeden Fall …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

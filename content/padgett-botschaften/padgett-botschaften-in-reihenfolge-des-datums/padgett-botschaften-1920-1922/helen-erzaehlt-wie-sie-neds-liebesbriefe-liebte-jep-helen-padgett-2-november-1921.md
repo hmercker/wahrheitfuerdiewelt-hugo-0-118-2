@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt, wie sie Ned's Liebesbriefe liebte"
 menu_title: ""
-description: "Helen erzählt, wie sie Ned's Liebesbriefe liebte"
+description: "Helen Padgett, empfangen durch James Padgett: „Viele Male, nachdem wir uns getrennt hatten, las ich jene wunderbaren Liebesbriefe, in denen du mir die …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

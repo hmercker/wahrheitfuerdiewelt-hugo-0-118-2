@@ -1,7 +1,7 @@
 ---
 title: "Individuelle Segnungen"
 menu_title: ""
-description: "Individuelle Segnungen"
+description: "Jesus, empfangen durch Al Fike: „So hat Gott euch mit dieser Öffnung und dem Gebetswunsch tief berührt, ihr Geliebten Seelen.“"
 date: 2020-08-01 06:25:48+00:238
 draft: False
 hidden: True

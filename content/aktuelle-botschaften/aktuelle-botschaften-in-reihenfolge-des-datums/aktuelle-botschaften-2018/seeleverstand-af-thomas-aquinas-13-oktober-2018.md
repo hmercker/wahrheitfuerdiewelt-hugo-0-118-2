@@ -1,7 +1,7 @@
 ---
 title: "Seelenverstand"
 menu_title: ""
-description: "Seelenverstand"
+description: "Thomas Aquinas, empfangen durch Al Fike: „Ich heiße euch an diesem schönen Tag willkommen, während ich für meine Mitarbeiter in diesem Werk spreche, um zu …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

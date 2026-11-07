@@ -1,7 +1,7 @@
 ---
 title: "Nehmt euch selbst nicht zu ernst"
 menu_title: ""
-description: "Nehmt euch selbst nicht zu ernst"
+description: "Goldie, empfangen durch Al Fike: „Wir sind auch sehr aufgeregt!! Nehmt euch selbst nicht zu ernst, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein Segen von Jesus"
 menu_title: ""
-description: "Ein Segen von Jesus"
+description: "Jesus, empfangen durch Al Fike: „Segne diese deine geliebten Kinder, damit deine Essenz ihre Seelen berührt. Erwecke sie, geliebter Vater, zu deiner …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

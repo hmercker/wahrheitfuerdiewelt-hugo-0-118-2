@@ -1,7 +1,7 @@
 ---
 title: "Segnungen von Mentoren, die Seelenpartner sind"
 menu_title: ""
-description: "Segnungen von Mentoren, die Seelenpartner sind"
+description: "Alec & Elsie, empfangen durch Al Fike: „So bin ich einer der vielen Engel, die euch, meinen geliebten Brüdern auf dieser Erdebene, weiterhin helfen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt einen Vorfall in ihrer Arbeit, die Seelenpartner von Spirituellen Wesen zu finden"
 menu_title: ""
-description: "Helen beschreibt einen Vorfall in ihrer Arbeit, die Seelenpartner von Spirituellen Wesen zu finden"
+description: "Helen, empfangen durch James Padgett: „Nun, wie du weist bin ich unter anderem damit beschäftigt die Seelenpartner von Geistern zu finden und sie zusammen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

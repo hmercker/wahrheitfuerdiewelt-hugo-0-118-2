@@ -1,7 +1,7 @@
 ---
 title: "Demut statt Ego"
 menu_title: ""
-description: "Demut statt Ego"
+description: "Augustinus, empfangen durch Al Fike: „Unser lieber Bruder will unbedingt von mir hören und deshalb bin ich hier. Wir sind eine beeindruckende Gruppe, die …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

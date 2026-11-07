@@ -1,7 +1,7 @@
 ---
 title: "Es gibt keinen höheren Yoga als den Yoga der Liebe Gottes"
 menu_title: ""
-description: "Es gibt keinen höheren Yoga als den Yoga der Liebe Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wir in den himmlischen Reichen fühlen uns zu euch in diesem Kreis des Lichts hingezogen. Ich möchte euch sagen …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Salaalida, ein Muslim, der geholfen hat Jerusalem vor den Christen zu verteidigen"
 menu_title: ""
-description: "Salaalida, ein Muslim, der geholfen hat Jerusalem vor den Christen zu verteidigen"
+description: "Salaalida empfangen durch James Padgett: „Ich war ein Offizier von hohem Rang und ein General, der unter meinen eigenen Landsleuten für meine Kampfkraft im …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

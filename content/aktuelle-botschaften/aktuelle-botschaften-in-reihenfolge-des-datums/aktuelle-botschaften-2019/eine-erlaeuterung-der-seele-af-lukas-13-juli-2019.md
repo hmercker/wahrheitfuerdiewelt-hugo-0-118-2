@@ -1,7 +1,7 @@
 ---
 title: "Eine Erläuterung der Seele"
 menu_title: ""
-description: "Eine Erläuterung der Seele"
+description: "Lukas, empfangen durch Al Fike: „Eure Essenz ist eure Seele. Die Seele ist ein Wesen, eine von Gott geschaffene Entität, die den größten Teil ihrer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

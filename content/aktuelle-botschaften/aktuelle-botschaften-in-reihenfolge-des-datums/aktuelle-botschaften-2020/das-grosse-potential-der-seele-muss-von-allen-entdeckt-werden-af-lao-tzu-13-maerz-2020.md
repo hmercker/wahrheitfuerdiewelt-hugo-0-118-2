@@ -1,7 +1,7 @@
 ---
 title: "Das große Potential der Seele muss von Allen entdeckt werden"
 menu_title: ""
-description: "Das große Potential der Seele muss von Allen entdeckt werden"
+description: "Lao Tzu, empfangen durch Al Fike: „Es gibt einen großen Umbruch in der Welt, besonders im Osten, wie ihr ihn nennt, wo das große Versprechen des …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

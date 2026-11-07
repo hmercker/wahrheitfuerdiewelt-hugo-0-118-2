@@ -1,7 +1,7 @@
 ---
 title: "Die natürliche Liebe nicht ignorieren"
 menu_title: ""
-description: "Die natürliche Liebe nicht ignorieren"
+description: "Agnes, empfangen durch James R.: „Ich lebte auf der Erde zu einer Zeit, als die göttliche Liebe, die wir alle verehren, nicht verfügbar und für uns nicht …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

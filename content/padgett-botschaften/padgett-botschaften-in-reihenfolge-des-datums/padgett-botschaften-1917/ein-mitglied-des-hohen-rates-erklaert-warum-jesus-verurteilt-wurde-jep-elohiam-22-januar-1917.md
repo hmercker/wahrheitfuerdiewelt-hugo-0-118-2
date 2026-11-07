@@ -1,7 +1,7 @@
 ---
 title: "Ein Mitglied des Hohen Rates erklärt, warum Jesus verurteilt wurde"
 menu_title: ""
-description: "Ein Mitglied des Hohen Rates erklärt, warum Jesus verurteilt wurde"
+description: "Elohiam, empfangen durch James Padgett: „Folglich war ich ohne Vorurteile gegen Jesus als Mensch und, wie ich glaubte, als Fanatiker; und nur weil ich …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

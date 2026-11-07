@@ -1,7 +1,7 @@
 ---
 title: "Habt Mut, wenn ihr Heiligtümer schaffen wollt"
 menu_title: ""
-description: "Habt Mut, wenn ihr Heiligtümer schaffen wollt"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ihr habt eine große Chance, eine spirituelle Gemeinschaft zu schaffen, die dem Test der Zeit standhalten wird …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst jeden Tag mit dem großen Geist kommunizieren"
 menu_title: ""
-description: "Ihr müsst jeden Tag mit dem großen Geist kommunizieren"
+description: "Abdul Latif 1: „Segen von Gott ergießt sich über euch, während ich in der Mitte eures Kreises stehe, das Gefühl der Kraft, die sich über euch ergießt …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Padgett's Vater ist einer seiner Schutzengel"
 menu_title: ""
-description: "Padgett's Vater ist einer seiner Schutzengel"
+description: "Padgett, empfangen durch James Padgett: „Ich habe lange auf das Schreiben gewartet, aber es gab so viele andere, die so begierig darauf waren zu schreiben …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

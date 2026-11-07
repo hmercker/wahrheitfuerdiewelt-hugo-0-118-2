@@ -1,7 +1,7 @@
 ---
 title: "Glaube ist der Akt des Vertrauens darauf, dass es mehr gibt"
 menu_title: ""
-description: "Glaube ist der Akt des Vertrauens darauf, dass es mehr gibt"
+description: "Jesus, empfangen durch Al Fike: „Geliebte Seelen, möge der Atem Gottes über jedem von euch sein, so wie er sicherlich ist. Als ich auf der Erde wandelte …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

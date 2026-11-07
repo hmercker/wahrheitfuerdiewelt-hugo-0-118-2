@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, dass es nur einen Gott gibt—den himmlischen Vater"
 menu_title: ""
-description: "Jesus erklärt, dass es nur einen Gott gibt—den himmlischen Vater"
+description: "Jesus, empfangen durch James Padgett: „Du bist nun im richtigen Zustand und ich werde dir eine kurze Nachricht übermitteln. Als ich auf Erden war, wurde …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

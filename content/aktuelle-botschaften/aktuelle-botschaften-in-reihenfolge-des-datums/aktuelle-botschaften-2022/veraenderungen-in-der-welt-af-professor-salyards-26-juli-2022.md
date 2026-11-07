@@ -1,7 +1,7 @@
 ---
 title: "Veränderungen in der Welt"
 menu_title: ""
-description: "Veränderungen in der Welt"
+description: "Professor Salyards, empfangen durch Al Fike: „Die Welt ist in großer Not, meine Freunde, auf allen Ebenen und in jeder Hinsicht, es gibt große Not in eurer …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

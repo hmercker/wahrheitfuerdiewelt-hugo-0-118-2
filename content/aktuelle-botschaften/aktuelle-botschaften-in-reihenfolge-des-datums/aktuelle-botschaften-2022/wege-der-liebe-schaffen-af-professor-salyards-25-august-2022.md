@@ -1,7 +1,7 @@
 ---
 title: "Wege der Liebe schaffen"
 menu_title: ""
-description: "Wege der Liebe schaffen"
+description: "Professor Salyards, empfangen durch Al Fike: „Seid gesegnet, meine Freunde, es ist in der Tat Professor Salyards. Ihr seid hier, um Wege der Liebe zu …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

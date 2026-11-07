@@ -1,7 +1,7 @@
 ---
 title: "Unsere Heilungsgaben teilen"
 menu_title: ""
-description: "Unsere Heilungsgaben teilen"
+description: "Konfuzius, empfangen durch Al Fike: „Ich freue mich, dass ihr von diesen Dingen sprecht, von den vielen Segnungen Gottes, die euch in eurem Leben helfen …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

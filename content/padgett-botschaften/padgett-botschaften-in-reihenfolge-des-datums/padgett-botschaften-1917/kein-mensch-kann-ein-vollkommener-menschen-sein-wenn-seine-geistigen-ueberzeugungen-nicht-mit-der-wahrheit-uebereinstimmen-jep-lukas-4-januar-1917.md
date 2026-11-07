@@ -1,7 +1,7 @@
 ---
 title: "Kein Mensch kann ein vollkommener Menschen sein, wenn seine geistigen Überzeugungen nicht mit der Wahrheit übereinstimmen"
 menu_title: ""
-description: "Kein Mensch kann ein vollkommener Menschen sein, wenn seine geistigen Überzeugungen nicht mit der Wahrheit übereinstimmen"
+description: "Lukas, empfangen durch James Padgett: „Ich werde heute Abend einige Zeilen zu einem Thema schreiben, das ich dir und anderen mitteilen möchte; denn ich …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

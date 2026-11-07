@@ -1,7 +1,7 @@
 ---
 title: "Die Dynamik des Lebens 2: Liebe"
 menu_title: ""
-description: "Die Dynamik des Lebens 2: Liebe"
+description: "Judas, empfangen durch H.: „Ich möchte meine Botschaft noch einmal fortsetzen. Ich appelliere an deine Phantasie.“"
 date: 2020-08-01 06:25:48+00:261
 draft: False
 hidden: True

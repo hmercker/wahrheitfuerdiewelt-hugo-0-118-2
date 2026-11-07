@@ -1,7 +1,7 @@
 ---
 title: "Höhen des Lichts sind unter Sterblichen selten"
 menu_title: ""
-description: "Höhen des Lichts sind unter Sterblichen selten"
+description: "Augustinus, empfangen durch Al Fike: „Denn jeder von euch ist Teil eines Plans, den Gott entworfen hat und in dieser Welt umsetzen möchte.“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

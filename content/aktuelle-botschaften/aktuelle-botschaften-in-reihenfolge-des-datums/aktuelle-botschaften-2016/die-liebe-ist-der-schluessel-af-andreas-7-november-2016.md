@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe ist der Schlüssel"
 menu_title: ""
-description: "Die Liebe ist der Schlüssel"
+description: "Andreas, empfangen durch Al Fike: „Jeder von euch wird geliebt, jeder von euch wird von Gott geliebt und jeder von euch wird von vielen geliebt, aber für …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

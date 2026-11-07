@@ -1,7 +1,7 @@
 ---
 title: "Im Glauben schreiten"
 menu_title: ""
-description: "Im Glauben schreiten"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Wenn ihr einen anderen Menschen wirklich liebt, gibt ihm das Energie, denn ihr strahlt wahre Liebe aus.“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erste Mitteilung von der Mutter von Dr. Leslie R. Stone"
 menu_title: ""
-description: "Erste Mitteilung von der Mutter von Dr. Leslie R. Stone"
+description: "Priscilla Stone, empfangen durch James Padgett: „Er darf nicht daran zweifeln, dass sein Mutter hier ist, denn das ist sie und sie war viele Male bei ihm …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

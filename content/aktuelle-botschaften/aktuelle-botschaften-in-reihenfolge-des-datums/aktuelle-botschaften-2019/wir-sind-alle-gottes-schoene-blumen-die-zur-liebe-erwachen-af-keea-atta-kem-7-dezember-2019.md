@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle Gottes schöne Blumen, die zur Liebe erwachen"
 menu_title: ""
-description: "Wir sind alle Gottes schöne Blumen, die zur Liebe erwachen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wir haben sehr eifrig an jedem einzelnen von euch gearbeitet. Diese Gelegenheit, euch alle zusammen in einem Raum …“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

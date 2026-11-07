@@ -1,7 +1,7 @@
 ---
 title: "Gaben der Medialität"
 menu_title: ""
-description: "Gaben der Medialität"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist schön, euch heute Abend hier im Gebet zu sehen und eure Lichter leuchten zu sehen. Jeder von euch hat die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

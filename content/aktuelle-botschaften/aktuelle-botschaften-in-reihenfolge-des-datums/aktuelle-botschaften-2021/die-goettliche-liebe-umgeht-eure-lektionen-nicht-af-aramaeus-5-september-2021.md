@@ -1,7 +1,7 @@
 ---
 title: "Die göttliche Liebe umgeht eure Lektionen nicht "
 menu_title: ""
-description: "Die göttliche Liebe umgeht eure Lektionen nicht "
+description: "Aramäus, empfangen durch Al Fike: „Ich war ein Mann, der neugierig auf alles war und dazu beitrug, verschiedene Ideen und Philosophien über das Leben zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

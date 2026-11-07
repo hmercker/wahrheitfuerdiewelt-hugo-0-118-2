@@ -1,7 +1,7 @@
 ---
 title: "Lass deinen Gebete tief gehen"
 menu_title: ""
-description: "Lass deinen Gebete tief gehen"
+description: "Baal Shem Tov, empfangen durch Jimbeau Walsh: „Ihr kennt mich vielleicht als den Baal - Baal Shem Tov. Meine lieben Brüder und Schwestern, die in der Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

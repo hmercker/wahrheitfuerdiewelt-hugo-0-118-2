@@ -1,7 +1,7 @@
 ---
 title: "Die größte Stärke kommt von Gott"
 menu_title: ""
-description: "Die größte Stärke kommt von Gott"
+description: "Joan d'Arc: „Es ist so lange her, dass ich darauf gewartet habe, zu sprechen, meine Freunde. Es ist ein wunderbarer Zustand hier heute Abend und ich werde …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Du bestimmst das Tempo"
 menu_title: ""
-description: "Du bestimmst das Tempo"
+description: "Josef, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich glaube, dass einer (oder mehrere) Deiner dienenden Engel daran interessiert ist, eine …“"
 date: 2020-08-01 06:25:48+00:288
 draft: False
 hidden: True

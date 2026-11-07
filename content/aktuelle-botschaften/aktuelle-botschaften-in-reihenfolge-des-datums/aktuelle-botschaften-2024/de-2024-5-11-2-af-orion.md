@@ -1,7 +1,7 @@
 ---
 title: "Kommende Erdveränderungen werden ihre Auswirkungen haben"
 menu_title: ""
-description: "Kommende Erdveränderungen werden ihre Auswirkungen haben"
+description: "Orion, empfangen durch Al Fike: „Eure Hingabe und Beständigkeit ist uns aufgefallen. Gott wird euch weiterhin leiten und unterstützen, während ihr nach …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

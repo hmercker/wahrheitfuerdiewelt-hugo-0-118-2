@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die vorigen Schreiber"
 menu_title: ""
-description: "Helen bestätigt die vorigen Schreiber"
+description: "Helen, empfangen durch James Padgett: „Nun, du scheinst heute Abend an der Identität der Schriftsteller zu zweifeln. Aber du darfst keine Zweifel aufkommen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

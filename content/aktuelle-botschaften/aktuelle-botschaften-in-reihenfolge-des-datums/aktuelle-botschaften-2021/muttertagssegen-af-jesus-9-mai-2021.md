@@ -1,7 +1,7 @@
 ---
 title: "Muttertags-Segen"
 menu_title: ""
-description: "Muttertags-Segen"
+description: "Jesus, empfangen durch Al Fike: „Eine Vielzahl von Segnungen für euch und für diese Welt, da Gott weiterhin Seine Kanäle und Möglichkeiten nutzt, um die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

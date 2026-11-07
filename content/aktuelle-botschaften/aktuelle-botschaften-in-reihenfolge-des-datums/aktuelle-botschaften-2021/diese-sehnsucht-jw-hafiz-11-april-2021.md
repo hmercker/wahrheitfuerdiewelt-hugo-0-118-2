@@ -1,7 +1,7 @@
 ---
 title: "Diese Sehnsucht"
 menu_title: ""
-description: "Diese Sehnsucht"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Du stehst vor der Tür Durch das Schlüsselloch spähend Um zu sehen, was wohl dahinter liegt.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

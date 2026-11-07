@@ -1,7 +1,7 @@
 ---
 title: " Ann Rollins ist erstaunt über die große Zusicherung, die Herrn Padgett gegeben wurde"
 menu_title: ""
-description: "Ann Rollins ist erstaunt über die große Zusicherung, die Herrn Padgett gegeben wurde"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich wusste natürlich, dass der Meister dich erwählt hatte. Die Schriften, die du erhalten hast, tragen kein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

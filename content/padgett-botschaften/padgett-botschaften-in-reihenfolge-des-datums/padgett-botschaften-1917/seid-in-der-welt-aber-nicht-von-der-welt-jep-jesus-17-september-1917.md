@@ -1,7 +1,7 @@
 ---
 title: "Seid in der Welt, aber nicht von der Welt!"
 menu_title: ""
-description: "Seid in der Welt, aber nicht von der Welt!"
+description: "Jesus, empfangen durch James Padgett: „Daher werde ich nicht über das Thema schreiben, wie ich es vorhatte, sondern werde es auf später verschieben.“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

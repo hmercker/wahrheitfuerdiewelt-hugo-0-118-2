@@ -1,7 +1,7 @@
 ---
 title: "Lerne, Gedanken der Liebe zu senden"
 menu_title: ""
-description: "Lerne, Gedanken der Liebe zu senden"
+description: "White Cloud: „Ich bringe heute Abend viele indianische Freunde zu euch und wunderbare Heilkraft in eure Mitte.“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

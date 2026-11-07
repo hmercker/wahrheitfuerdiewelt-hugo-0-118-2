@@ -1,7 +1,7 @@
 ---
 title: "Über die Heilung einer kranken Frau"
 menu_title: ""
-description: "Über die Heilung einer kranken Frau"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich möchte sehr ernsthaft sagen, dass Dr. Stone der Botschaft glauben muss, die er von seinem …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

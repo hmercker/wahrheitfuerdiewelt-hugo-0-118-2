@@ -1,7 +1,7 @@
 ---
 title: "Verweilt nicht in der Tür zu eurer Seele"
 menu_title: ""
-description: "Verweilt nicht in der Tür zu eurer Seele"
+description: "Josephus, empfangen durch Al Fike: „Liebe Seelen, ich kehre zurück. Seid immer gesegnet, in der Gnade der Liebe Gottes.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

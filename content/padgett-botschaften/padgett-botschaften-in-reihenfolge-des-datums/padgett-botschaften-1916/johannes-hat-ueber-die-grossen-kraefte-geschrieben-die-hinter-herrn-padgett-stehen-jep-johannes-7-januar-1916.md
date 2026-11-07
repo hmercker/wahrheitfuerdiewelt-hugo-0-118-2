@@ -1,7 +1,7 @@
 ---
 title: "Johannes hat über die großen Kräfte geschrieben, die hinter Herrn Padgett stehen"
 menu_title: ""
-description: "Johannes hat über die großen Kräfte geschrieben, die hinter Herrn Padgett stehen"
+description: "Johannes, empfangen durch James Padgett: „Aber ich sage dir, dass du, ungeachtet dessen, was du heute Abend in Bezug auf deine materiellen Angelegenheiten …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist der Schlüssel zu Erfüllung, Freude und Frieden"
 menu_title: ""
-description: "Liebe ist der Schlüssel zu Erfüllung, Freude und Frieden"
+description: "Jesus, empfangen durch Al Fike: „Haltet in diesem großen Frieden der Gegenwart des Schöpfers inne. Jeder von euch ist ein Licht.“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Er bestätigt den Zustand des spirituellen Wesens, das gerade geschrieben hat"
 menu_title: ""
-description: "Er bestätigt den Zustand des spirituellen Wesens, das gerade geschrieben hat"
+description: "William Stone, empfangen durch James Padgett: „Lasst mich nur ein Wort sagen. Ich habe gehört, was die spirituellen Wesen dir heute Abend geschrieben …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

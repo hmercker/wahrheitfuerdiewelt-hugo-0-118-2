@@ -1,7 +1,7 @@
 ---
 title: "Seid euch bewusst, was ihr sagt. Seid euch bewusst, was ihr denkt"
 menu_title: ""
-description: "Seid euch bewusst, was ihr sagt. Seid euch bewusst, was ihr denkt"
+description: "Keea Atta Kem: „Ich heiße die Neuen in dieser Gruppe willkommen und freue mich, dass ihr euch für diese Wahrheiten interessiert und die Gelegenheit nutzt …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

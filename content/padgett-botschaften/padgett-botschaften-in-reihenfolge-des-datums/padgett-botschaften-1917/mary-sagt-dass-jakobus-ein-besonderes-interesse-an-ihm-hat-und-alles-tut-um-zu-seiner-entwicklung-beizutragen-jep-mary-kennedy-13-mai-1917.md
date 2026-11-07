@@ -1,7 +1,7 @@
 ---
 title: "Mary sagt, dass Jakobus ein besonderes Interesse an ihm hat und alles tut, um zu seiner Entwicklung beizutragen"
 menu_title: ""
-description: "Mary sagt, dass Jakobus ein besonderes Interesse an ihm hat und alles tut, um zu seiner Entwicklung beizutragen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Stone) enttäuscht wird, denn es juckt ihn geradezu, von mir zu hören, und er hatte die Hoffnung fast …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

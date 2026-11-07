@@ -1,7 +1,7 @@
 ---
 title: "Trance-Botschaft von Jesus"
 menu_title: ""
-description: "Trance-Botschaft von Jesus"
+description: "Jesus, empfangen durch Amada Reza: „[Medium: Danke, himmlischer Vater, für deine Liebe, und in dieser Dankbarkeit beten wir, dass diese Liebe sich in …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lukas setzt seine Botschaft über die wahre Erlösung fort - Teil 2"
 menu_title: ""
-description: "Lukas setzt seine Botschaft über die wahre Erlösung fort - Teil 2"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte meinen Diskurs über \"die Sühne\" weiterführen. So wie ich gesagt habe, wenn ein Mensch nicht in Harmonie …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

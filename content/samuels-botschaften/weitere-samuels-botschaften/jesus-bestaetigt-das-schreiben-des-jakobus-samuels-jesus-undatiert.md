@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt das Schreiben des Jakobus"
 menu_title: ""
-description: "Jesus bestätigt das Schreiben des Jakobus"
+description: "Jesus, empfangen durch Dr Samuels: „Ich bestätige dir hiermit gerne, dass das, was Jakobus dir eben zur physischen Materialisierung spiritueller Wesen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

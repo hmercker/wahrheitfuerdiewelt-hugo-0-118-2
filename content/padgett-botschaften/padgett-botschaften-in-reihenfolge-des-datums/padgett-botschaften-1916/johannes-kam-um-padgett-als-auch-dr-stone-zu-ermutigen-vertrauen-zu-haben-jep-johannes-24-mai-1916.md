@@ -1,7 +1,7 @@
 ---
 title: "Johannes kam um Padgett als auch Dr. Stone zu ermutigen, Vertrauen zu haben"
 menu_title: ""
-description: "Johannes kam um Padgett als auch Dr. Stone zu ermutigen, Vertrauen zu haben"
+description: "Johannes, empfangen durch James Padgett: „Aber ich will sagen, dass du ungeachtet dessen, was du heute Abend in Bezug auf deine materiellen Angelegenheiten …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

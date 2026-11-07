@@ -1,7 +1,7 @@
 ---
 title: "Fühle deinen Weg zu mir"
 menu_title: ""
-description: "Fühle deinen Weg zu mir"
+description: "Vater, empfangen durch Child of God: „Du zweifelst immer noch daran, ob du mit mir im Gespräch bist, und du fragst nach Beweisen.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

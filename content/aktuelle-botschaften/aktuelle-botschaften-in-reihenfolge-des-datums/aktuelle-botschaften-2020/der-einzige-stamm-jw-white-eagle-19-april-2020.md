@@ -1,7 +1,7 @@
 ---
 title: "Der einzige Stamm"
 menu_title: ""
-description: "Der einzige Stamm"
+description: "White Eagle, empfangen durch Jimbeau Walsh: „Meine Arbeit als Heiler antwortet auf den Ruf derer, die aufrichtig darum bitten. Meine Gruppe hat daran …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

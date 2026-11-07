@@ -1,7 +1,7 @@
 ---
 title: "Betet von eurem Herzen"
 menu_title: ""
-description: "Betet von eurem Herzen"
+description: "Jesus, empfangen durch Al Fike: „Durch die Gnade Gottes, gebe ich euch meinen Segen, es ist Jesus. Meine Brüder, verbringt keine Zeit damit, euch Gedanken …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

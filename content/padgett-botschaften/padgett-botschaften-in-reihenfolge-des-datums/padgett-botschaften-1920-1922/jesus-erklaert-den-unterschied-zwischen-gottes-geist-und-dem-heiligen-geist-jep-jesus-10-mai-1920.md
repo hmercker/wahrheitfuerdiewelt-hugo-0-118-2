@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt den Unterschied zwischen Gottes Geist und dem Heiligen Geist"
 menu_title: ""
-description: "Jesus erklärt den Unterschied zwischen Gottes Geist und dem Heiligen Geist"
+description: "Jesus, empfangen durch James Padgett: „Ich will dir kurz über ein Thema schreiben, das dich interessieren wird und diejenigen, die meine Botschaft lesen.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

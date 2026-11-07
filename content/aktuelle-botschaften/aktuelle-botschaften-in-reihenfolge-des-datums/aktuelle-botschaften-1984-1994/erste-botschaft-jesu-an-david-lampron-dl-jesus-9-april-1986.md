@@ -1,7 +1,7 @@
 ---
 title: "Erste Botschaft Jesu an David Lampron"
 menu_title: ""
-description: "Erste Botschaft Jesu an David Lampron"
+description: "Jesus, empfangen durch David Lampron: „Und ich möchte dir sagen, dass du die Fähigkeit hast, ein gutes Medium zu sein, wenn du dies regelmäßig üben wirst.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

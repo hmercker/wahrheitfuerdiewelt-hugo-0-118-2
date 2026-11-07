@@ -1,7 +1,7 @@
 ---
 title: "Wie man ein furchtloser Kanal der Liebe in der Welt ist"
 menu_title: ""
-description: "Wie man ein furchtloser Kanal der Liebe in der Welt ist"
+description: "Augustinus, empfangen durch Al Fike: „Denn ihr seht, dass ihr, um ein Kanal der Liebe in der Welt zu sein, in der Welt sein müsst und dieser Kanal sein …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

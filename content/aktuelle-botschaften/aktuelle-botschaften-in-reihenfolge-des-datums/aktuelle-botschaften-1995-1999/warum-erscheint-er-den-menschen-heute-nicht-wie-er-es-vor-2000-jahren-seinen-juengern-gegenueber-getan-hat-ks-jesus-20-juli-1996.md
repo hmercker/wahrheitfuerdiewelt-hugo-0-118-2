@@ -1,7 +1,7 @@
 ---
 title: "Warum erscheint er den Menschen heute nicht, wie er es vor 2000 Jahren seinen Jüngern gegenüber getan hat?"
 menu_title: ""
-description: "Warum erscheint er den Menschen heute nicht, wie er es vor 2000 Jahren seinen Jüngern gegenüber getan hat?"
+description: "Jesus, empfangen durch Kathryn Stokes: „Ich kann mir sehr gut vorstellen, dass ein Erscheinen an einigen Orten Chaos verursachen würde, an anderen Orten …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

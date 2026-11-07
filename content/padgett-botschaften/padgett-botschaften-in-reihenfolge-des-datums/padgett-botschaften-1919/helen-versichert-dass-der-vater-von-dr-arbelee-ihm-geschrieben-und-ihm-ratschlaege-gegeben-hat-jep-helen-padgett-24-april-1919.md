@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert, dass der Vater von Dr. Arbelee ihm geschrieben und ihm Ratschläge gegeben hat"
 menu_title: ""
-description: "Helen versichert, dass der Vater von Dr. Arbelee ihm geschrieben und ihm Ratschläge gegeben hat"
+description: "Helen, empfangen durch James Padgett: „Er wollte so gerne schreiben und war hier bereit, dies zu tun, sobald du ihm die Gelegenheit dazu gegeben hast.“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

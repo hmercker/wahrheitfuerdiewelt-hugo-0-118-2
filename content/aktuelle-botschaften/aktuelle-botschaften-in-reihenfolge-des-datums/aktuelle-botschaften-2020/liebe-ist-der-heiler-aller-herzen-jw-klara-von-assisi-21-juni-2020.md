@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist der Heiler aller Herzen"
 menu_title: ""
-description: "Liebe ist der Heiler aller Herzen"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine drei schönen, gütigen Freunde, diese Angelegenheiten des Herzens werden immer in der Liebe geheilt …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

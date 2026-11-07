@@ -1,7 +1,7 @@
 ---
 title: "Mein neues zu Hause und das Leben im Geiste"
 menu_title: ""
-description: "Mein neues zu Hause und das Leben im Geiste"
+description: "Barbara Davies, empfangen durch Al Fike: „Möge der Vater euch mit Seiner Liebe segnen. Und ich möchte sagen, dass all die Beschreibungen und Anekdoten, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

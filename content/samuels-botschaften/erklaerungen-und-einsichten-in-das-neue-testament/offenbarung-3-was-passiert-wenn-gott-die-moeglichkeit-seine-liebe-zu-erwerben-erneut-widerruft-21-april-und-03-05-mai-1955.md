@@ -1,7 +1,7 @@
 ---
 title: ""
 menu_title: ""
-description: ""
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte heute die Frage beantworten, die Doktor Stone kürzlich gestellt hat: Hat ein göttlicher Engel auch weiterhin …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

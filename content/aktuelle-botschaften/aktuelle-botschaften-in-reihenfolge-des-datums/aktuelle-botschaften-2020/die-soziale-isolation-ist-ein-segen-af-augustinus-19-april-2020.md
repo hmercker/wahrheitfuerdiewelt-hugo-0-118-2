@@ -1,7 +1,7 @@
 ---
 title: "Die soziale Isolation ist ein Segen"
 menu_title: ""
-description: "Die soziale Isolation ist ein Segen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr erfahrt in dieser Zeit viele Segnungen, da ihr euch von vielen Zuständen in eurem normalen Leben isoliert habt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Liebe und Wahrheit müssen an erster Stelle stehen"
 menu_title: ""
-description: "Liebe und Wahrheit müssen an erster Stelle stehen"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wenn ja, bin ich bereit und hoffentlich auch in der Lage, eure Gedanken klar zu empfangen.]“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

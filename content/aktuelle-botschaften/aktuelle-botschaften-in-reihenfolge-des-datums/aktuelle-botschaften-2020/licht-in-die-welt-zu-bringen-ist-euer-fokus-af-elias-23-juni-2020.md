@@ -1,7 +1,7 @@
 ---
 title: "Licht in die Welt zu bringen ist euer Fokus"
 menu_title: ""
-description: "Licht in die Welt zu bringen ist euer Fokus"
+description: "Elias, empfangen durch Al Fike: „In euren Seelen ist ein großes Licht, in euren Sehnsüchten und Wünschen und Bemühungen, nach dem Licht zu greifen, seid …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True
