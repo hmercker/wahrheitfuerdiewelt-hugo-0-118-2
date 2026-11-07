@@ -1,9 +1,8 @@
-baseURL = ""
+baseURL = "https://wahrheitfuerdiewelt.de/"
 languageCode = "de-DE"
 title = "Wahrheit für die Welt"
 theme = "newbirth"
 enableRobotsTXT = true
-googleAnalytics = "UA-xxxxx-1"
 
 [outputs]
 home = [ "HTML", "HEADERS" ]
