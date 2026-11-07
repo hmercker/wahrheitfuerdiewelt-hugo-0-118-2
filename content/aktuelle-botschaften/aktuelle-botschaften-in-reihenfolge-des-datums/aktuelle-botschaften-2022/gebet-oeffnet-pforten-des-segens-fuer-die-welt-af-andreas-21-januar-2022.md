@@ -1,7 +1,7 @@
 ---
 title: "Gebet öffnet Pforten des Segens für die Welt"
 menu_title: ""
-description: "Gebet öffnet Pforten des Segens für die Welt"
+description: "Andreas, empfangen durch Al Fike: „Indem ihr euch weiterhin an Gott wendet und ihn um seine Berührung für euch, eure Lieben und alle, die seinen Segen …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

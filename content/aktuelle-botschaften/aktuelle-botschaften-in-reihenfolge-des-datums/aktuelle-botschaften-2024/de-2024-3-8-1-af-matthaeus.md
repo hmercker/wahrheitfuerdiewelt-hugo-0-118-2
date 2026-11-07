@@ -1,7 +1,7 @@
 ---
 title: "Stellt sich als ein weiterer Führer von Peter vor"
 menu_title: ""
-description: "Stellt sich als ein weiterer Führer von Peter vor"
+description: "Matthäus, empfangen durch Al Fike: „Der Heilige Geist besucht euch weiterhin, jeden von euch, damit ihr das große Geschenk der Liebe Gottes in eurer Seele …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

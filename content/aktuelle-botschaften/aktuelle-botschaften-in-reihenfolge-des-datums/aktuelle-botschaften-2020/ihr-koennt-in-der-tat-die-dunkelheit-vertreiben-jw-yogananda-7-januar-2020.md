@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt in der Tat die Dunkelheit vertreiben"
 menu_title: ""
-description: "Ihr könnt in der Tat die Dunkelheit vertreiben"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, die ihr euch hier auf diesem Floß des Gebets in einem Ozean des Wahnsinns versammelt habt …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

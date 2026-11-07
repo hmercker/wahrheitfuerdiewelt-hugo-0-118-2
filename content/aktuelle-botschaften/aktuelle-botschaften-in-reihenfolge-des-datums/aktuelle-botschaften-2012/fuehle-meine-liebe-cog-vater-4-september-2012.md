@@ -1,7 +1,7 @@
 ---
 title: "Fühle Meine Liebe"
 menu_title: ""
-description: "Fühle Meine Liebe"
+description: "Vater, empfangen durch Child of God: „Es werden noch viele andere kommen und es wird geschehen. Sei geduldig mit dir selbst.“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

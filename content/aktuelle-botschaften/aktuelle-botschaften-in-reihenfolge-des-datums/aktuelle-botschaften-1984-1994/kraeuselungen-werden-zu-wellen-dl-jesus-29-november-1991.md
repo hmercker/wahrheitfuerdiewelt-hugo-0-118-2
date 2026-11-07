@@ -1,7 +1,7 @@
 ---
 title: "Kräuselungen werden zu Wellen"
 menu_title: ""
-description: "Kräuselungen werden zu Wellen"
+description: "Jesus, empfangen durch David Lampron: „Wie du sicher weißt, haben wir einen weiteren Kandidaten für das Amt des Pastors (\"ministerial candidate\") vor uns …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Viele Gaben werden sich zeigen"
 menu_title: ""
-description: "Viele Gaben werden sich zeigen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich danke unserem lieben und geliebten Lehrer, Augustinus, für seine Worte der Weisheit. Denn in der Tat begebt ihr …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

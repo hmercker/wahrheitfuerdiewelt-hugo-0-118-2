@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit leben"
 menu_title: ""
-description: "Die Wahrheit leben"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt gemeinsam gebetet, um mit dem Geschenk der Liebe Gottes in euren Seelen zu erwachen, um die Bande zwischen …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hinweise für den Planungsausschuss von Laurelville"
 menu_title: ""
-description: "Hinweise für den Planungsausschuss von Laurelville"
+description: "Professor Salyards, empfangen durch Al Fike: „Die Zeit wird knapp, nicht wahr? Wie ihr wisst, vergehen die Wochen schnell und bald werdet ihr zusammen sein.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

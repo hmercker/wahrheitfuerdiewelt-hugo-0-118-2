@@ -1,7 +1,7 @@
 ---
 title: "Anhänger der Göttlichen Liebe müssen sich im Namen der Liebe vereinen"
 menu_title: ""
-description: "Anhänger der Göttlichen Liebe müssen sich im Namen der Liebe vereinen"
+description: "Moses, empfangen durch Al Fike: „Ihr müsst euch als Familie in Harmonie vereinen und diejenigen, die das nicht können, haben die Kraft der Liebe Gottes …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

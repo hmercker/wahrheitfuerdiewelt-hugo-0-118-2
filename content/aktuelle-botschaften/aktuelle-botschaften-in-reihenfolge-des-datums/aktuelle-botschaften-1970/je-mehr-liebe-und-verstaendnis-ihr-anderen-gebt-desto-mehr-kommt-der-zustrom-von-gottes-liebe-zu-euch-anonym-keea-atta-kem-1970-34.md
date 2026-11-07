@@ -1,7 +1,7 @@
 ---
 title: "Je mehr Liebe und Verständnis ihr anderen gebt, desto mehr kommt der Zustrom von Gottes Liebe zu euch"
 menu_title: ""
-description: "Je mehr Liebe und Verständnis ihr anderen gebt, desto mehr kommt der Zustrom von Gottes Liebe zu euch"
+description: "Keea Atta Kem: „(Spricht zu einer neu gebildeten Gruppe.) Dies ist die einzige Zeit, in der ihr euch wirklich nahe an spirituellen Dingen fühlt.“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

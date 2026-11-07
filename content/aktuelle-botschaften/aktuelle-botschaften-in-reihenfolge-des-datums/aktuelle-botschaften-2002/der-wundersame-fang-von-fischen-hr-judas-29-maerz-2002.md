@@ -1,7 +1,7 @@
 ---
 title: "Der wundersame Fang von Fischen"
 menu_title: ""
-description: "Der wundersame Fang von Fischen"
+description: "Judas, empfangen durch H.: „Eines Morgens, gerade als die ersten Sonnenstrahlen zu sehen waren, kehrten wir von unserem nächtlichen Fischen zurück.“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

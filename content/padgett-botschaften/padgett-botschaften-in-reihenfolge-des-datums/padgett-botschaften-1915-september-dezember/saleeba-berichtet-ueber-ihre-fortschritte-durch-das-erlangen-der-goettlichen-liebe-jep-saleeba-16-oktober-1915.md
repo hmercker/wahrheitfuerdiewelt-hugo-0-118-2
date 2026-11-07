@@ -1,7 +1,7 @@
 ---
 title: "Saleeba berichtet über ihre Fortschritte durch das Erlangen der Göttlichen Liebe"
 menu_title: ""
-description: "Saleeba berichtet über ihre Fortschritte durch das Erlangen der Göttlichen Liebe"
+description: "Saleeba, empfangen durch James Padgett: „Ich weiß, dass du nicht so sehr an mir interessiert bist wie an einigen anderen, die dir schreiben, aber ich weiß …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

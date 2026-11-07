@@ -1,7 +1,7 @@
 ---
 title: "Unsere Bemühungen im Dienst für Gott und die Engel sind in dieser Zeit entscheidend"
 menu_title: ""
-description: "Unsere Bemühungen im Dienst für Gott und die Engel sind in dieser Zeit entscheidend"
+description: "Orion, empfangen durch Al Fike: „Tatsächlich haben er und ich im Schlafzustand Gespräche geführt, die ihm geholfen haben, seine Fragen über die Natur des …“"
 date: 2025-01-15 06:00:00+00:10
 draft: False
 hidden: True

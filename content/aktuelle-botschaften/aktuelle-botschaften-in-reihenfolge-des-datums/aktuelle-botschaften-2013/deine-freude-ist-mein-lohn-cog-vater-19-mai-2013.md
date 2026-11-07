@@ -1,7 +1,7 @@
 ---
 title: "Deine Freude ist mein Lohn"
 menu_title: ""
-description: "Deine Freude ist mein Lohn"
+description: "Vater, empfangen durch Child of God: „Ich rufe dich durch das Verlangen deiner Seele. Höre auf Meine Liebe und sie wird dein Herz öffnen.“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

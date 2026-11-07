@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Leuchtfeuer und eine Quelle des Lichts"
 menu_title: ""
-description: "Seid ein Leuchtfeuer und eine Quelle des Lichts"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch versichern, dass es keine Täuschung von unserer Seite gegeben hat. Jede Änderung des Plans kam aus …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die dritte Sphäre"
 menu_title: ""
-description: "Die dritte Sphäre"
+description: "Judas, empfangen durch H.: „Doch zuvor möchte ich dir zwei Fragen beantworten, die du mir gestellt hast. Zuerst möchte ich dir sagen, dass dein Freund …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

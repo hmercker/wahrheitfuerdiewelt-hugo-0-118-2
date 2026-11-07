@@ -1,7 +1,7 @@
 ---
 title: "Gebt eurem Mitmenschen das eine Ding, das ihn befreien kann"
 menu_title: ""
-description: "Gebt eurem Mitmenschen das eine Ding, das ihn befreien kann"
+description: "Roosevelt: „Ich freue mich sehr, hier zu sein, um mit euch in dieser wunderbaren Stunde, die wir gemeinsam verbringen werden, mitreden zu können.“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

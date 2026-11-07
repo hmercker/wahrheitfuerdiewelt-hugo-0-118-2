@@ -1,7 +1,7 @@
 ---
 title: "Spirituelles Licht"
 menu_title: ""
-description: "Spirituelles Licht"
+description: "Andreas: „Unser größter Wunsch für die gesamte Menschheit ist, dass euer Erdplanet ein so großes Licht ausstrahlt, dass es die Orte der Dunkelheit im …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

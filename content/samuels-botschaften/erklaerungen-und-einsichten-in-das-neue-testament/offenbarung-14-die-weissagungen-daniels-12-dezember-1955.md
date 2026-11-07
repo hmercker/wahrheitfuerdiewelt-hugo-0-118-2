@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 14 : Die Weissagungen Daniels"
 menu_title: ""
-description: "Offenbarung 14 : Die Weissagungen Daniels"
+description: "Jesus, empfangen durch Dr Samuels: „Heute werden wir uns mit dem Propheten Daniel befassen, um einen Blick auf die Weissagungen zu werfen, die er im …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

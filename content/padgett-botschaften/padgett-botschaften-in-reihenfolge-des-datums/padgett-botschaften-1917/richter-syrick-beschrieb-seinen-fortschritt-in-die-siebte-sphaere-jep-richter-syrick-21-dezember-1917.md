@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick beschrieb seinen Fortschritt in die siebte Sphäre"
 menu_title: ""
-description: "Richter Syrick beschrieb seinen Fortschritt in die siebte Sphäre"
+description: "Richter Syrick, empfangen durch James Padgett: „Nun, alter Junge, wie geht es dir heute Abend? Ich spreche so, damit du weißt, dass ich mich genauso …“"
 date: 2020-08-01 06:25:48+00:245
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt ihren Fortschritt in die 5. Sphäre"
 menu_title: ""
-description: "Beschreibt ihren Fortschritt in die 5. Sphäre"
+description: "Lorna Scott, empfangen durch Al Fike: „Ihr habt von mir gesprochen. So bin ich gekommen, angezogen von euren Stimmen, euren Erinnerungen und eurer Liebe.“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

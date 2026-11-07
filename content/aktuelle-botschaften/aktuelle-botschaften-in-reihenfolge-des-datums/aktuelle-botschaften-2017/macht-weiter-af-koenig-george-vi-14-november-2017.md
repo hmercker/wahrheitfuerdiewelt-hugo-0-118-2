@@ -1,7 +1,7 @@
 ---
 title: "Macht weiter"
 menu_title: ""
-description: "Macht weiter"
+description: "König George VI, empfangen durch Al Fike: „Auch ich möchte vortreten und eine Botschaft des Friedens und der Wahrheit in die Welt bringen.“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

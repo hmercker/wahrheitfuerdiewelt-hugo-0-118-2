@@ -1,7 +1,7 @@
 ---
 title: "Gott flüstert in euch"
 menu_title: ""
-description: "Gott flüstert in euch"
+description: "Jesus, empfangen durch Al Fike: „Möge die Liebe des Vaters ein beständiges Einströmen in eure Seelen finden. Möge Sein Friede immer mit euch sein …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des gleichzeitigen Gebets erschafft ein Gitter aus Licht"
 menu_title: ""
-description: "Die Kraft des gleichzeitigen Gebets erschafft ein Gitter aus Licht"
+description: "Augustinus, empfangen durch Al Fike: „Schöne Seelen, es ist euer Lehrer Augustinus hier. Wie wichtig ist es für euch, zu beten und euch mit jenen Gruppen …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

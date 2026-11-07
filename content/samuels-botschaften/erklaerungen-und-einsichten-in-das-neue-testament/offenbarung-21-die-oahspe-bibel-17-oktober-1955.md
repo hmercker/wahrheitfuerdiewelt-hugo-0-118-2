@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 21 : Die Oahspe-Bibel"
 menu_title: ""
-description: "Offenbarung 21 : Die Oahspe-Bibel"
+description: "Jesus, empfangen durch Dr Samuels: „Da sowohl der Doktor als auch du zum wiederholten Male darum gebeten habt, von mir oder einem anderen Engel Gottes zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

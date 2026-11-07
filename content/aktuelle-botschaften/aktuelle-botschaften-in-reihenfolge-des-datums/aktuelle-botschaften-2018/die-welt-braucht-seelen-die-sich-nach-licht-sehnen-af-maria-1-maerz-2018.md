@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht Seelen, die sich nach Licht sehnen"
 menu_title: ""
-description: "Die Welt braucht Seelen, die sich nach Licht sehnen"
+description: "Maria, empfangen durch Al Fike: „Möget ihr in euch die brennende Sehnsucht eurer Seelen spüren, Gott nahe zu sein, dass ihr mit den Wünschen eures Herzens …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

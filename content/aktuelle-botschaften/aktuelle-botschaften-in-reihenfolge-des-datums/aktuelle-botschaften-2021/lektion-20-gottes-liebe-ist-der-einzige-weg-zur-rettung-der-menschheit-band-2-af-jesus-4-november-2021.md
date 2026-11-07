@@ -1,7 +1,7 @@
 ---
 title: "Lektion 20 - Gottes Liebe ist der Weg zur Rettung der Menschheit - Band 2"
 menu_title: ""
-description: "Lektion 20 - Gottes Liebe ist der Weg zur Rettung der Menschheit - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Wir nähern uns dem Ende unserer Abhandlungen über spirituelle Wahrheiten. Dieses Instrument hat zusammen mit seiner …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

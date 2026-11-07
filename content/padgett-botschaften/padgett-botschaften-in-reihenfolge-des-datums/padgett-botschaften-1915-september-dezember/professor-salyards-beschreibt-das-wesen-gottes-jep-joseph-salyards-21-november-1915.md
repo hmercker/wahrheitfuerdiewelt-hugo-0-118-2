@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards beschreibt das Wesen Gottes"
 menu_title: ""
-description: "Professor Salyards beschreibt das Wesen Gottes"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich möchte auch, dass du weißt, ich schreite im Zustand meiner Seelenentwicklung und in meiner Kenntnis …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

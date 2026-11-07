@@ -1,7 +1,7 @@
 ---
 title: "Lasst die Schranken fallen, die euch zurückhalten"
 menu_title: ""
-description: "Lasst die Schranken fallen, die euch zurückhalten"
+description: "Orion, empfangen durch Al Fike: „Könnt ihr den Unterschied in euren Einstellungen, Perspektiven und in der Art und Weise, wie ihr eure Prioritäten setzt …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

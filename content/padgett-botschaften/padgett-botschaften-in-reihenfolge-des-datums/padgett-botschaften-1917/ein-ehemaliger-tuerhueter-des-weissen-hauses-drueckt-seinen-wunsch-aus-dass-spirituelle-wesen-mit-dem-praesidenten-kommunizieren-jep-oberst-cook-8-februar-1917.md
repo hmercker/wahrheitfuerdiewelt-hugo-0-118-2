@@ -1,7 +1,7 @@
 ---
 title: "Ein ehemaliger Türhüter des Weißen Hauses drückt seinen Wunsch aus, dass spirituelle Wesen mit dem Präsidenten kommunizieren"
 menu_title: ""
-description: "Ein ehemaliger Türhüter des Weißen Hauses drückt seinen Wunsch aus, dass spirituelle Wesen mit dem Präsidenten kommunizieren"
+description: "Oberst Cook, empfangen durch James Padgett: „Besonders Cleveland ist bestrebt, mit dem Präsidenten zu kommunizieren, denn er scheint sich mehr für die …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

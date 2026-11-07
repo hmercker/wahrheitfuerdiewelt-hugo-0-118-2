@@ -1,7 +1,7 @@
 ---
 title: "Die Entwicklung der Seele in ihrer natürlichen Liebe - Teil 1"
 menu_title: ""
-description: "Die Entwicklung der Seele in ihrer natürlichen Liebe - Teil 1"
+description: "Lukas, empfangen durch James Padgett: „Ich weiß, dass die Menschen denken, dass diese natürliche Liebe einen Teil der Göttlichkeit der Natur des Vaters in …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

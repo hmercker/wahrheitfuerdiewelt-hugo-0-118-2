@@ -1,7 +1,7 @@
 ---
 title: "Der Konstrukteur der Großen Pyramide von Gizeh, Ägypten"
 menu_title: ""
-description: "Der Konstrukteur der Großen Pyramide von Gizeh, Ägypten"
+description: "Anaxylabis, empfangen durch James Padgett: „Lass mich dir von der großen Pyramide von Gizeh erzählen. Ich möchte dies im Detail tun, denn ich war ihr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

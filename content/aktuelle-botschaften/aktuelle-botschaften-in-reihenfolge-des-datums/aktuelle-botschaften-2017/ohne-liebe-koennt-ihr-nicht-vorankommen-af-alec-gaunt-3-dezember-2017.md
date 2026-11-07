@@ -1,7 +1,7 @@
 ---
 title: "Ohne Liebe könnt ihr nicht vorankommen"
 menu_title: ""
-description: "Ohne Liebe könnt ihr nicht vorankommen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Meine Schwiegertochter sitzt hier. Ich fand die Wahrheit der göttlichen Liebe Jahre bevor ich ins spirituelle Leben …“"
 date: 2020-08-01 06:25:48+00:234
 draft: False
 hidden: True

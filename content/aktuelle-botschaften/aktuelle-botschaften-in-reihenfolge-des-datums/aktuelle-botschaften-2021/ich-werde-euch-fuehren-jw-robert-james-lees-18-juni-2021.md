@@ -1,7 +1,7 @@
 ---
 title: "Ich werde euch führen"
 menu_title: ""
-description: "Ich werde euch führen"
+description: "Robert James Lees, empfangen durch Jimbeau Walsh: „Ich habe heute mit viel Freude und Dankbarkeit mitverfolgt 1 , wie ihr wahrgenommen habt. Ich habe eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

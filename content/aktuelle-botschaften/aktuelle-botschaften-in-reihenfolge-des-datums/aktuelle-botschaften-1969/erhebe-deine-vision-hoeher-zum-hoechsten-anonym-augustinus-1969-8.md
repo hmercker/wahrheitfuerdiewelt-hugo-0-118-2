@@ -1,7 +1,7 @@
 ---
 title: "Erhebe deine Vision höher zum Höchsten"
 menu_title: ""
-description: "Erhebe deine Vision höher zum Höchsten"
+description: "Augustinus: „Es mag einige im Raum geben, auf deren Ohren meine Worte fallen und Wurzeln schlagen werden.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

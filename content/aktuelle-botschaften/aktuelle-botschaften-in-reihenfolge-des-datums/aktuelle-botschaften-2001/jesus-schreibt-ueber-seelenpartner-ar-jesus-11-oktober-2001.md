@@ -1,7 +1,7 @@
 ---
 title: "Jesus schreibt über Seelenpartner"
 menu_title: ""
-description: "Jesus schreibt über Seelenpartner"
+description: "Jesus, empfangen durch Amada Reza: „Ich möchte auf deine Frage nach der Wahrheit über die Natur der menschlichen Seele und die Eigenschaften, die sie …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

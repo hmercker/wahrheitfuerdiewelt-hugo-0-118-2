@@ -1,7 +1,7 @@
 ---
 title: "Leytergus schrieb ein Buch, das eine Beschreibung der Schöpfung und des Sündenfalls des Menschen enthielt"
 menu_title: ""
-description: "Leytergus schrieb ein Buch, das eine Beschreibung der Schöpfung und des Sündenfalls des Menschen enthielt"
+description: "Leytergus, empfangen durch James Padgett: „Ich stammte aus Arabien und lebte vor der Zeit Abrahams, des Jüdischen Patriarchen. Das Buch Genesis kopierte …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ehrung Yoganandas, der Kriya Yoga in den Westen bringt"
 menu_title: ""
-description: "Ehrung Yoganandas, der Kriya Yoga in den Westen bringt"
+description: "Sri Yukteswar, empfangen durch Jimbeau Walsh: „Ich war der Lehrer von Paramahansa Yogananda, als er auf der Erde war und habe ihn auf seiner Reise im Geist …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

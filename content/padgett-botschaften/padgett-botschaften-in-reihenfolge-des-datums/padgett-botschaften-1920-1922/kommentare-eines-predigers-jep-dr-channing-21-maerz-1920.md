@@ -1,7 +1,7 @@
 ---
 title: "Kommentare eines Predigers"
 menu_title: ""
-description: "Kommentare eines Predigers"
+description: "Dr Channing 1, empfangen durch James Padgett: „Laß mich nur eine Zeile schreiben, denn ich möchte nur sagen, daß ich auf das gehört habe, was der Meister …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

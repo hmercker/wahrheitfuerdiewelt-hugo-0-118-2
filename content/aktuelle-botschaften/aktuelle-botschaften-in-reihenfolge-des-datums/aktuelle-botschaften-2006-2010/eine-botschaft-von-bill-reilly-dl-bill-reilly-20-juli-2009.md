@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft von Bill Reilly"
 menu_title: ""
-description: "Eine Botschaft von Bill Reilly"
+description: "Bill Reilly, empfangen durch Dave Lampron: „Mein liebster Jim, Joan, Laura und Michael, Ja, durch die große Liebe und Freundschaft, die ich mit meinem …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

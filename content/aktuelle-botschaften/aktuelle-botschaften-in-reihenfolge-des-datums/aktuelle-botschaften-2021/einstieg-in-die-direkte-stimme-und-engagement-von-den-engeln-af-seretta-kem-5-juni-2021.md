@@ -1,7 +1,7 @@
 ---
 title: "Einstieg in die Direkte Stimme und Engagement von den Engeln"
 menu_title: ""
-description: "Einstieg in die Direkte Stimme und Engagement von den Engeln"
+description: "Seretta Kem, empfangen durch Al Fike: „Und so beginnen wir mit einem neuen Unterfangen, einer Erweiterung alter Unternehmungen, damit wir unsere Bemühungen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

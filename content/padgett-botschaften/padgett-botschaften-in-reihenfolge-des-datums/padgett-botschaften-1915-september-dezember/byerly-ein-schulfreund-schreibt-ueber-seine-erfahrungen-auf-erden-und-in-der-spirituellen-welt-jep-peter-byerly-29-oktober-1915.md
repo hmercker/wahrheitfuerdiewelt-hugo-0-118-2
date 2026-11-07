@@ -1,7 +1,7 @@
 ---
 title: "Byerly, ein Schulfreund, schreibt über seine Erfahrungen auf Erden und in der spirituellen Welt"
 menu_title: ""
-description: "Byerly, ein Schulfreund, schreibt über seine Erfahrungen auf Erden und in der spirituellen Welt"
+description: "Peter Byerly 1, empfangen durch James Padgett: „Ich war mehrmals hier, als du geschrieben hast und war sehr interessiert an dem, was ich sah und hörte, und …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

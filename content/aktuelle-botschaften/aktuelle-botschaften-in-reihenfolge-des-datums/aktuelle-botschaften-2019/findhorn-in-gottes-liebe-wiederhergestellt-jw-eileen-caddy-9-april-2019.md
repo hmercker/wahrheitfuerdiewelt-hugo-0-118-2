@@ -1,7 +1,7 @@
 ---
 title: "Findhorn in Gottes Liebe wiederhergestellt"
 menu_title: ""
-description: "Findhorn in Gottes Liebe wiederhergestellt"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Wie ihr vielleicht wisst, bin ich die spirituelle Gründerin von Findhorn in den nördlichen Regionen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

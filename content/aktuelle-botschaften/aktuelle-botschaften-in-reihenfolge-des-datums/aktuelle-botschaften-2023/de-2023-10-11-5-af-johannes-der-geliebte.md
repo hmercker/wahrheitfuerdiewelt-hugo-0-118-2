@@ -1,7 +1,7 @@
 ---
 title: "Der Weg, den ihr gehen werdet, wird die Welt umrunden"
 menu_title: ""
-description: "Der Weg, den ihr gehen werdet, wird die Welt umrunden"
+description: "Johannes der Geliebte, empfangen durch Al Fike: „Ich möchte diese Botschaft unseres geliebten Bruders, des Meisters des himmlischen Königreichs, nur …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

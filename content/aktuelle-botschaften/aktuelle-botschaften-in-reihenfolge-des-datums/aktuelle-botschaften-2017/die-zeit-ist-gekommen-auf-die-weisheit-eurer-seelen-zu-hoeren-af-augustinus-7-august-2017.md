@@ -1,7 +1,7 @@
 ---
 title: "Die Zeit ist gekommen, auf die Weisheit eurer Seelen zu hören"
 menu_title: ""
-description: "Die Zeit ist gekommen, auf die Weisheit eurer Seelen zu hören"
+description: "Augustinus, empfangen durch Al Fike: „Er erlebte heute Morgen eine Episode, die ziemlich dramatisch war. Er wird weiterhin solche Episoden erleben, wenn er …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

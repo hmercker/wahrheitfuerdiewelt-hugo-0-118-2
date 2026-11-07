@@ -1,7 +1,7 @@
 ---
 title: "Ein altes spirituelles Wesen beschließt, nach der Göttlichen Liebe zu suchen"
 menu_title: ""
-description: "Ein altes spirituelles Wesen beschließt, nach der Göttlichen Liebe zu suchen"
+description: "Sebastobel, empfangen von James Padgett: „Ich lebe in der höchsten Sphäre, in der der Intellekt die Oberhand hat und wo die spirituellen Wesen in dem …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

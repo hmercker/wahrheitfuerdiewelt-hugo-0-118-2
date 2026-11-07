@@ -1,7 +1,7 @@
 ---
 title: "Barb ging in die fünfte Sphäre über und wurde von einer Schar von Engeln empfangen"
 menu_title: ""
-description: "Barb ging in die fünfte Sphäre über und wurde von einer Schar von Engeln empfangen"
+description: "Augustinus, empfangen durch Al Fike: „Barbara, die ihr eure Mutter und eure Freundin nennt, ist mit Leichtigkeit in die Geistigen Reiche eingetreten, und …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

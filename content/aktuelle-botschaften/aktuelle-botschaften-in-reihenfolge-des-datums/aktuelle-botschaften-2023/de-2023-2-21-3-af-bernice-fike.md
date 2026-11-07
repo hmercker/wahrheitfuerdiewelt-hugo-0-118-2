@@ -1,7 +1,7 @@
 ---
 title: "Eure Familie profitiert von euren Bemühungen"
 menu_title: ""
-description: "Eure Familie profitiert von euren Bemühungen"
+description: "Bernice Fike [^1], empfangen durch Al Fike: „Denn unser geliebter Neffe und Instrument hat viel getan, um mir und vielen anderen in seiner Familie zu helfen.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

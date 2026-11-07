@@ -1,7 +1,7 @@
 ---
 title: "Aufdecken, was verborgen ist"
 menu_title: ""
-description: "Aufdecken, was verborgen ist"
+description: "Vater, empfangen durch Child of God: „Mein liebes, geliebtes Kind Wisse, dass ich bei dir bin, wie immer und besonders jetzt in deinem Leiden.“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

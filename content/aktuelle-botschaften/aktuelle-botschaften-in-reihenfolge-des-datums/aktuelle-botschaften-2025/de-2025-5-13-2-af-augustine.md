@@ -1,7 +1,7 @@
 ---
 title: "Ersetze das Urteilen durch Mitgefühl"
 menu_title: ""
-description: "Ersetze das Urteilen durch Mitgefühl"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Das menschliche Dasein ist sehr komplex.“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

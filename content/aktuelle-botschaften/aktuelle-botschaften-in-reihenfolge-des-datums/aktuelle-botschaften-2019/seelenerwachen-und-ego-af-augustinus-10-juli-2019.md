@@ -1,7 +1,7 @@
 ---
 title: "Seelenerwachen und Ego"
 menu_title: ""
-description: "Seelenerwachen und Ego"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Es ist mein Privileg, heute bei euch zu sein, um Fragen zu beantworten, die ihr …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erinnert euch an die Wichtigkeit der Führung der Kinder"
 menu_title: ""
-description: "Erinnert euch an die Wichtigkeit der Führung der Kinder"
+description: "Fred Rodgers, empfangen durch Jimbeau Walsh: „Für diejenigen unter euch, die mich nicht kennen, ich war auf der Erde ein Pastor, ein Vater, ein …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

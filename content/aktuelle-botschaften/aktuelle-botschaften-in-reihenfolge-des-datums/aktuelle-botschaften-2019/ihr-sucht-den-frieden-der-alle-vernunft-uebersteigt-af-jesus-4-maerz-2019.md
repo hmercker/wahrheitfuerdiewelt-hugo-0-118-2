@@ -1,7 +1,7 @@
 ---
 title: "Ihr sucht den Frieden der alle Vernunft übersteigt"
 menu_title: ""
-description: "Ihr sucht den Frieden der alle Vernunft übersteigt"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch hat eine tiefe Sehnsucht, euer wahres Selbst, eure Seele zu erkennen. Jeder von euch sucht den Weg zu jenem …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

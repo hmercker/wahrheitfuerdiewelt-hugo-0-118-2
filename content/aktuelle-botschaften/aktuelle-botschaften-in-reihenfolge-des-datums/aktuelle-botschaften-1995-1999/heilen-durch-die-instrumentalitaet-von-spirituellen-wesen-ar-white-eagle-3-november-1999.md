@@ -1,7 +1,7 @@
 ---
 title: "Heilen durch die Instrumentalität von spirituellen Wesen"
 menu_title: ""
-description: "Heilen durch die Instrumentalität von spirituellen Wesen"
+description: "White Eagle, empfangen durch Amada Reza: „Ich freue mich, zu dieser Zeit zu dir kommen zu können, um dir eine Botschaft über Heilung zu geben, da du zu …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

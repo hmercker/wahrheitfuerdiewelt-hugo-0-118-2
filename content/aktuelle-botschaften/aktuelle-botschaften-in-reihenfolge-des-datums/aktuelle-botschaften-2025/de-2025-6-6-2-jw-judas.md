@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt den Rubikon überschritten"
 menu_title: ""
-description: "Ihr habt den Rubikon überschritten"
+description: "Judas, empfangen durch Jimbeau Walsh: „Wir kommen in der Liebe Gottes, um euch zu leiten, über euch zu wachen und euch zu beschützen in dieser Zeit, die …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

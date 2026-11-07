@@ -1,7 +1,7 @@
 ---
 title: "Ich werde mit jedem von euch auf eurer Reise sein"
 menu_title: ""
-description: "Ich werde mit jedem von euch auf eurer Reise sein"
+description: "Jesus, empfangen durch Al Fike: „So werden wir gemeinsam in Liebe die Reise über die Grenzen dieser materiellen Welt hinaus antreten, durch die Reise zum …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

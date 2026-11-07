@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele, die zum Gitter des Lichts beiträgt, ist Teil seiner Vitalität"
 menu_title: ""
-description: "Jede Seele, die zum Gitter des Lichts beiträgt, ist Teil seiner Vitalität"
+description: "Jakobus, empfangen durch Al Fike: „Es ist in der Tat Gottes Plan, dass alle Seine Kinder in Liebe und Licht verbunden sind, dass all jene, die offen sind …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

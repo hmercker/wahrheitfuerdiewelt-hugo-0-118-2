@@ -1,7 +1,7 @@
 ---
 title: "Dein Seelenwesen wird hervorkommen"
 menu_title: ""
-description: "Dein Seelenwesen wird hervorkommen"
+description: "Judas, empfangen durch Al Fike: „Geliebte Seelen, es ist Judas. Ich habe schon seit einiger Zeit nicht mehr durch dieses Instrument gesprochen.“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

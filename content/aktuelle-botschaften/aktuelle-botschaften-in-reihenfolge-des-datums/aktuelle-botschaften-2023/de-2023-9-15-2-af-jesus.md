@@ -1,7 +1,7 @@
 ---
 title: "Erkennt Kevin als ein wahres Kind Gottes an"
 menu_title: ""
-description: "Erkennt Kevin als ein wahres Kind Gottes an"
+description: "Jesus, empfangen durch Al Fike: „Denn er ist ein wahres Kind Gottes. Seine Seele hat den Weg zum Licht gefunden, hat das Fleisch losgelassen und ist in …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

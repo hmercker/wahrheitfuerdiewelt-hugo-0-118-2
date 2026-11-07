@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer drängt ihn, in der Verfassung zu sein, die himmlischen Botschaften zu empfangen"
 menu_title: ""
-description: "Johannes der Täufer drängt ihn, in der Verfassung zu sein, die himmlischen Botschaften zu empfangen"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass dein Zustand heute Abend nicht so ist, dass es den hohen spirituellen Wesen erlaubt …“"
 date: 2020-08-01 06:25:48+00:225
 draft: False
 hidden: True

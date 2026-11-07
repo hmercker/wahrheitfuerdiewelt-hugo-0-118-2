@@ -1,7 +1,7 @@
 ---
 title: "Lichter der spirituellen Kraft werden"
 menu_title: ""
-description: "Lichter der spirituellen Kraft werden"
+description: "Jakobus, empfangen durch Kathryn Stokes: „[Liebe Schutzengel, ich weiß, dass ihr mich liebt und mir helfen wollt, meine Fähigkeiten in der Medialität zu …“"
 date: 2020-08-01 06:25:48+00:280
 draft: False
 hidden: True

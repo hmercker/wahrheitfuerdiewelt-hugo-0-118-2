@@ -1,7 +1,7 @@
 ---
 title: "Paulus: Fortsetzung der vorhergehenden Botschaft"
 menu_title: ""
-description: "Paulus: Fortsetzung der vorhergehenden Botschaft"
+description: "Paulus, empfangen durch James Padgett: „Ich werde meine Botschaft heute Abend beenden, wenn du dazu geneigt bist. Nun, wir werden es versuchen.“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

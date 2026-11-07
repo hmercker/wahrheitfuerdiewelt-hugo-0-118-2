@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme planen"
 menu_title: ""
-description: "Direkte Stimme planen"
+description: "Keea Atta Kem: „Heute Abend bringen wir euch Licht und konditionieren euch, bereiten euch darauf vor, wahre Werkzeuge Gottes zu sein.“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

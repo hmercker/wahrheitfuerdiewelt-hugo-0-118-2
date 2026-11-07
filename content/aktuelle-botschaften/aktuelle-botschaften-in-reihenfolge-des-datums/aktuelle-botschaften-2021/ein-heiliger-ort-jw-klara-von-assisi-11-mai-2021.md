@@ -1,7 +1,7 @@
 ---
 title: "Ein heiliger Ort"
 menu_title: ""
-description: "Ein heiliger Ort"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ein Ort nicht nur des Lernens der Wahrheiten, sondern ein heiliger Ort, an dem ihr Gott alles geben …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

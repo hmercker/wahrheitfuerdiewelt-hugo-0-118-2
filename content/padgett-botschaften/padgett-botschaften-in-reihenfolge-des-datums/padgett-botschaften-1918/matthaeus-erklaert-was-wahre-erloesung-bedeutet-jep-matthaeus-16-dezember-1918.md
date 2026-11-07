@@ -1,7 +1,7 @@
 ---
 title: "Matthäus erklärt, was wahre Erlösung bedeutet"
 menu_title: ""
-description: "Matthäus erklärt, was wahre Erlösung bedeutet"
+description: "Matthäus, empfangen durch James Padgett: „Heute Abend möchte ich ein paar Zeilen schreiben, denn ich möchte dir eine Wahrheit mitteilen, die mir für die …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

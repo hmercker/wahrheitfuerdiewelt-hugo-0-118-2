@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 3"
 menu_title: ""
-description: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 3"
+description: "Jesus, empfangen durch James Padgett: „Ich werde meinen Vortrag fortsetzen. Wie ich bereits sagte, bestand das Hauptziel meiner Mission auf der Erde darin …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit die Göttliche Liebe zu erlangen"
 menu_title: ""
-description: "Die Notwendigkeit die Göttliche Liebe zu erlangen"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich dachte, dass ich dir heute Abend eine Nachricht schreiben könnte, wenn du Lust hast, sie zu empfangen.“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

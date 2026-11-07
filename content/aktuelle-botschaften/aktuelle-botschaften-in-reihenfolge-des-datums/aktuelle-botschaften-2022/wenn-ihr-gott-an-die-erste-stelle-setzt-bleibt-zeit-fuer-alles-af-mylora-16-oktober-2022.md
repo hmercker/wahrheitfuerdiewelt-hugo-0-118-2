@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr Gott an die erste Stelle setzt, bleibt Zeit für alles"
 menu_title: ""
-description: "Wenn ihr Gott an die erste Stelle setzt, bleibt Zeit für alles"
+description: "Mylora, empfangen durch Al Fike: „Es ist Zeit, geliebte Tochter, Zeit, alles zu tun, was ihr tun wollt, um diesen Ort zu einem Heiligtum des Lichts zu machen.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

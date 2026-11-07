@@ -1,7 +1,7 @@
 ---
 title: "Gott wird euch in die ausgedörrten Länder der Welt führen"
 menu_title: ""
-description: "Gott wird euch in die ausgedörrten Länder der Welt führen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich war bei euch, als ihr gemeinsam in dieser Gruppe hungriger Seelen gebetet habt. Viele wurden berührt und viele …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

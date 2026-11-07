@@ -1,7 +1,7 @@
 ---
 title: "Viele arbeiten für die Direkte Stimme"
 menu_title: ""
-description: "Viele arbeiten für die Direkte Stimme"
+description: "Königin Victoria, empfangen durch Al Fike: „Ich werde hoffentlich vor vielen in der Welt in Erscheinung treten, die von mir wissen, und auch ich werde die …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

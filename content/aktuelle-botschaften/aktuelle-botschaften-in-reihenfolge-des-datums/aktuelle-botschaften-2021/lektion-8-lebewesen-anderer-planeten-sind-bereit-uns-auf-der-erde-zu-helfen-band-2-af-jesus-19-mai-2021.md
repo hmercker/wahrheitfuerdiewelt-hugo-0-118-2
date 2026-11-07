@@ -1,7 +1,7 @@
 ---
 title: "Lektion 8 - Lebewesen anderer Planeten sind bereit, uns auf der Erde zu helfen - Band 2"
 menu_title: ""
-description: "Lektion 8 - Lebewesen anderer Planeten sind bereit, uns auf der Erde zu helfen - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Heute möchte ich über das Leben auf anderen Planeten im Universum sprechen, das riesig und scheinbar unendlich ist, und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

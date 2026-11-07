@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt Mary's Plan"
 menu_title: ""
-description: "Helen bestätigt Mary's Plan"
+description: "Helen, empfangen durch James Padgett: „Du hast heute Abend einen ziemlichen Brief von Maria erhalten, und sie war so froh, daß sie dir schreiben konnte …“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

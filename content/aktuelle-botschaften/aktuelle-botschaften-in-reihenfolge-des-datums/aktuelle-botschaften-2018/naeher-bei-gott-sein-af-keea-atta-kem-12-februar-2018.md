@@ -1,7 +1,7 @@
 ---
 title: "Näher bei Gott sein"
 menu_title: ""
-description: "Näher bei Gott sein"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Kostbare, schöne Lichter, jeder von euch geht einen anderen Weg, einen einzigartigen Weg, einen Weg der Entdeckung …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

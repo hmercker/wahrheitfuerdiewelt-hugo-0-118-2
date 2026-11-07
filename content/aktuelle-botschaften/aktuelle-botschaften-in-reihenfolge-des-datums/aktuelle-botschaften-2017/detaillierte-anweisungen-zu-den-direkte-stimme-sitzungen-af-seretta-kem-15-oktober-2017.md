@@ -1,7 +1,7 @@
 ---
 title: "Detaillierte Anweisungen zu den Direkte Stimme Sitzungen"
 menu_title: ""
-description: "Detaillierte Anweisungen zu den Direkte Stimme Sitzungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich werde also einige grundlegende Bitten darlegen, um diese Gebete und Vorbereitungen für die Entwicklung der …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Niemand wird ewig in der Hölle leiden, alle werden Fortschritte machen"
 menu_title: ""
-description: "Niemand wird ewig in der Hölle leiden, alle werden Fortschritte machen"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend bei dir und habe die Predigt über die Hölle gehört, und es tat mir so leid, dass der Prediger …“"
 date: 2020-08-01 06:25:48+00:266
 draft: False
 hidden: True

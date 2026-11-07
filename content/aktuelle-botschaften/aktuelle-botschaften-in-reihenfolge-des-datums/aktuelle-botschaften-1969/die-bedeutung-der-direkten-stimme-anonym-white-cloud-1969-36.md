@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung der Direkten Stimme"
 menu_title: ""
-description: "Die Bedeutung der Direkten Stimme"
+description: "White Cloud: „Wir haben von den Chinesen gehört, Kinder, und wir haben von denen gehört, die für die Kirche gearbeitet haben, und jetzt werdet ihr von …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

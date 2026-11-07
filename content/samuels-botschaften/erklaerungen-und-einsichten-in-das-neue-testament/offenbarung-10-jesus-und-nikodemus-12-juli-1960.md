@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 10 : Jesus und Nikodemus"
 menu_title: ""
-description: "Offenbarung 10 : Jesus und Nikodemus"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte dir heute über Nikodemus ben Gurion schreiben, einem Pharisäer, der damals, als ich in Palästina lehrte …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr alle habt die Gabe zu lehren"
 menu_title: ""
-description: "Ihr alle habt die Gabe zu lehren"
+description: "Matthäus, empfangen durch Al Fike: „Jeder von euch hat die Fähigkeit und Gabe zu lehren, die Worte der Wahrheit denen zu geben, die danach hungern.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Predigt 8 - Jeremia, der leidende Diener"
 menu_title: ""
-description: "Predigt 8 - Jeremia, der leidende Diener"
+description: "Jesus, empfangen durch Dr Samuels: „In dieser Predigt möchte ich all meinen Zuhörern und Lesern erklären, wie und warum sich das 53.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

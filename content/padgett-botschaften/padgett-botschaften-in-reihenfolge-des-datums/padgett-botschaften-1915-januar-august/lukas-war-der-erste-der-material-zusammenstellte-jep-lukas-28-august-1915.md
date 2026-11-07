@@ -1,7 +1,7 @@
 ---
 title: "Lukas war der erste der Material zusammenstellte"
 menu_title: ""
-description: "Lukas war der erste der Material zusammenstellte"
+description: "Lukas, empfangen durch James Padgett: „Das vorliegende Evangelium ist nicht so, wie ich es geschrieben habe, denn viele Dinge wurden hinzugefügt und eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

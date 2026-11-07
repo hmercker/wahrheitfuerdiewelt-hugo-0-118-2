@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Entwicklung ist die wirksamste Antwort auf die Veränderung der Welt"
 menu_title: ""
-description: "Spirituelle Entwicklung ist die wirksamste Antwort auf die Veränderung der Welt"
+description: "Orion, empfangen durch Al Fike: „Die Welt befindet sich nach wie vor in einem Zustand des Übergangs. Doch bei all den Geschäften der Menschen erkennen …“"
 date: 2022-10-22 06:00:00+00:10
 draft: False
 hidden: True

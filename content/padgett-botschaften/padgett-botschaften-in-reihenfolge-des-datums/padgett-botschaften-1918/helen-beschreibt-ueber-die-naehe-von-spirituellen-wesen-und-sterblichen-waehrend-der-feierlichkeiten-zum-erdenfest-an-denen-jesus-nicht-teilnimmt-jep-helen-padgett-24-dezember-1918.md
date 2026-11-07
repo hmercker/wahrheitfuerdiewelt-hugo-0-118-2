@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt über die Nähe von spirituellen Wesen und Sterblichen während der Feierlichkeiten zum Erdenfest, an denen Jesus nicht teilnimmt"
 menu_title: ""
-description: "Helen beschreibt über die Nähe von spirituellen Wesen und Sterblichen während der Feierlichkeiten zum Erdenfest, an denen Jesus nicht teilnimmt"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du gerade ziemlich glücklich bist und den Unterschied im Einfluss schätzt, der …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Unser lebenslanges Wirken"
 menu_title: ""
-description: "Unser lebenslanges Wirken"
+description: "Jesus, empfangen durch David Lampron: „Zunächst möchte ich sagen, dass er sich in seinem Studiengang außerordentlich gut geschlagen hat, und dass wir in …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

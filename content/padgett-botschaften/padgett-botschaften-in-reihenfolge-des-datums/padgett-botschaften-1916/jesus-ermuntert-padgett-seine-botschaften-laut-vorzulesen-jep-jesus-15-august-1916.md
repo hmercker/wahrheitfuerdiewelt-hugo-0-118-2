@@ -1,7 +1,7 @@
 ---
 title: "Jesus ermuntert Padgett, seine Botschaften laut vorzulesen"
 menu_title: ""
-description: "Jesus ermuntert Padgett, seine Botschaften laut vorzulesen"
+description: "Jesus, empfangen durch James Padgett: „Mit großem Interesse habe ich verfolgt, wie du ausgewählte Botschaften, die wir dir bereits geschrieben haben, laut …“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

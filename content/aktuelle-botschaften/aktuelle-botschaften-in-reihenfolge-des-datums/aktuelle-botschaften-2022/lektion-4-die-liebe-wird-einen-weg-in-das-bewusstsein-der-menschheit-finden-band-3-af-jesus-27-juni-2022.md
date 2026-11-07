@@ -1,7 +1,7 @@
 ---
 title: "Lektion 4 - Die Liebe wird einen Weg in das Bewusstsein der Menschheit finden - Band 3"
 menu_title: ""
-description: "Lektion 4 - Die Liebe wird einen Weg in das Bewusstsein der Menschheit finden - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Viele Menschen auf der Welt sind verzweifelt, deprimiert und verloren. Sie sehen keinen Ausweg aus diesen Bedingungen und …“"
 date: 2022-07-03 06:00:00+00:10
 draft: False
 hidden: True

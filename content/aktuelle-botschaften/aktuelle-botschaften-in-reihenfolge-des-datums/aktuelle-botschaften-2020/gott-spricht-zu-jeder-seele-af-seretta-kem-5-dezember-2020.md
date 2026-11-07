@@ -1,7 +1,7 @@
 ---
 title: "Gott spricht zu jeder Seele"
 menu_title: ""
-description: "Gott spricht zu jeder Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie das Sprechen durch einen Körper manchmal seine Grenzen und Überraschungen hat. Können wir noch einmal beginnen?“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

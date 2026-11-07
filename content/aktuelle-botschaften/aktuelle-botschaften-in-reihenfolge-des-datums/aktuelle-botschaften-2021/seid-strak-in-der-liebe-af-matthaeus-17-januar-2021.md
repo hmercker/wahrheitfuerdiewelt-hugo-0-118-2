@@ -1,7 +1,7 @@
 ---
 title: "Seid strak in der Liebe"
 menu_title: ""
-description: "Seid strak in der Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Ja, die Bedingungen eurer Welt intensivieren sich weiter, viele Menschen leiden auf viele verschiedene Arten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Nachricht von Helen"
 menu_title: ""
-description: "Eine Nachricht von Helen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein liebster, du hast eine Menge Mitteilungen empfangen, aber keine war wie die andere.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

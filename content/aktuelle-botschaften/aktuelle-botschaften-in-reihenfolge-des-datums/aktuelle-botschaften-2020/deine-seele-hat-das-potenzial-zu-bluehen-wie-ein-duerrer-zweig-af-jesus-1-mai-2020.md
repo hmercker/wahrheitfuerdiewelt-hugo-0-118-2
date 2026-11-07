@@ -1,7 +1,7 @@
 ---
 title: "Deine Seele hat das Potenzial zu blühen wie ein dürrer Zweig"
 menu_title: ""
-description: "Deine Seele hat das Potenzial zu blühen wie ein dürrer Zweig"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch ist mit vielen Gaben gesegnet und jeder von euch ist begierig darauf, den Segen zu erfahren, dass ihr euer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

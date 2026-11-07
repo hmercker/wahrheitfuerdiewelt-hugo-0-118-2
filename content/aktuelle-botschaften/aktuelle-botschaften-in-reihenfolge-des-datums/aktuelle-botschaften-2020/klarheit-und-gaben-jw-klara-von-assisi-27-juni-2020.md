@@ -1,7 +1,7 @@
 ---
 title: "Klarheit und Gaben"
 menu_title: ""
-description: "Klarheit und Gaben"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Manchmal habt ihr im Leben eine Erleuchtung, bei der das, was vorher nicht klar war, vollkommen klar …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

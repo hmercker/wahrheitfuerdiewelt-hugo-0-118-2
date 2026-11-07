@@ -1,7 +1,7 @@
 ---
 title: "Begrüße die Befreiung von dem, was nicht in Harmonie ist"
 menu_title: ""
-description: "Begrüße die Befreiung von dem, was nicht in Harmonie ist"
+description: "Seretta Kem, empfangen durch Al Fike: „Geliebte Seelen, möge die Liebe des Vaters in eure Seelen einströmen und alle Fähigkeiten und wunderbaren Gaben, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

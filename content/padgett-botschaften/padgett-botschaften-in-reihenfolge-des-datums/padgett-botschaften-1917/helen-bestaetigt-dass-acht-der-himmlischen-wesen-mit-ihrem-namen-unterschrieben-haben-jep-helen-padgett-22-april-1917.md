@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass acht der Himmlischen Wesen mit ihrem Namen unterschrieben haben"
 menu_title: ""
-description: "Helen bestätigt, dass acht der Himmlischen Wesen mit ihrem Namen unterschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebling, die Botschaften waren recht ungewöhnlich heute Nacht. Ich meine die Botschaften, die …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

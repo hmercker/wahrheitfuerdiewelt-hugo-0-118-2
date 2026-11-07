@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, seine Seele zu entwickeln, um das gemeinsame Werk fortzusetzen"
 menu_title: ""
-description: "Jesus bittet Padgett, seine Seele zu entwickeln, um das gemeinsame Werk fortzusetzen"
+description: "Jesus, empfangen durch James Padgett: „Es ist schon einige Zeit her, dass du eine Botschaft von mir erhalten hast, deshalb freue ich mich heute umso mehr …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

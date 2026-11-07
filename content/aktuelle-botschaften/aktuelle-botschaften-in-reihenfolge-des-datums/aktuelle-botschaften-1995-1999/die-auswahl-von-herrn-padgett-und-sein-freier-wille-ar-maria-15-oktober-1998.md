@@ -1,7 +1,7 @@
 ---
 title: "Die Auswahl von Herrn Padgett und sein freier Wille"
 menu_title: ""
-description: "Die Auswahl von Herrn Padgett und sein freier Wille"
+description: "Maria, empfangen durch Amada Reza: „In Bezug auf die Frage, ob es von Gott und Jesus vorherbestimmt war, dass James Padgett ein Instrument sein würde …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

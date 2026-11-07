@@ -1,7 +1,7 @@
 ---
 title: "Bitte bereitet euch sorgfältig vor, damit die Engel, die die Gnade Gottes tragen, leichter kommen können"
 menu_title: ""
-description: "Bitte bereitet euch sorgfältig vor, damit die Engel, die die Gnade Gottes tragen, leichter kommen können"
+description: "Maria, empfangen durch Al Fike: „Schöne Kinder der Erde, ist es nicht gut, dass ihr euch geliebt fühlt, dass ihr lachen könnt, dass eure Bedürfnisse …“"
 date: 2025-01-15 06:00:00+00:10
 draft: False
 hidden: True

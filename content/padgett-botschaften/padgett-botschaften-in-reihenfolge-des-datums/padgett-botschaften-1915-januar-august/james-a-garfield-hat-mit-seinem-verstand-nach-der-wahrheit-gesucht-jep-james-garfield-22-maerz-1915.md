@@ -1,7 +1,7 @@
 ---
 title: "James A. Garfield hat mit seinem Verstand nach der Wahrheit gesucht "
 menu_title: ""
-description: "James A. Garfield hat mit seinem Verstand nach der Wahrheit gesucht "
+description: "James A. Garfield, empfangen durch James Padgett: „Garfield, ein Freund deines alten Partners‘. Ich möchte dir sagen, dass du ein äußerst bevorzugter Mann …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

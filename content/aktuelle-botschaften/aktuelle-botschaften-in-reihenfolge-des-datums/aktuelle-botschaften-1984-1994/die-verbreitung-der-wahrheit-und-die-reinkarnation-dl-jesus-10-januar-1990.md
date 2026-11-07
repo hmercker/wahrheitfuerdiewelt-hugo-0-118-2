@@ -1,7 +1,7 @@
 ---
 title: "Die Verbreitung der Wahrheit und die Reinkarnation"
 menu_title: ""
-description: "Die Verbreitung der Wahrheit und die Reinkarnation"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, J hat mich gebeten, dich um zusätzliche Informationen über unseren lieben Bruder in …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

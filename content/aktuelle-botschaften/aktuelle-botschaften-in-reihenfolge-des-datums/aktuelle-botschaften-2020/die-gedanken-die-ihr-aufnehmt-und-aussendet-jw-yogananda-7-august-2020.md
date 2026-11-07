@@ -1,7 +1,7 @@
 ---
 title: "Die Gedanken, die ihr aufnehmt und aussendet"
 menu_title: ""
-description: "Die Gedanken, die ihr aufnehmt und aussendet"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, in der Welt ist viel über die Macht der Gedanken gesagt worden, über die Fähigkeit, Dinge …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

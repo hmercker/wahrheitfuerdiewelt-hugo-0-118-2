@@ -1,7 +1,7 @@
 ---
 title: "George Butler schreibt über seine Fortschritte aus der Dunkelheit ins Licht"
 menu_title: ""
-description: "George Butler schreibt über seine Fortschritte aus der Dunkelheit ins Licht"
+description: "George Butler, empfangen durch James Padgett: „Ich würde heute Abend gerne ein paar Zeilen schreiben, wenn du einverstanden bist. Vor langer Zeit schrieb …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

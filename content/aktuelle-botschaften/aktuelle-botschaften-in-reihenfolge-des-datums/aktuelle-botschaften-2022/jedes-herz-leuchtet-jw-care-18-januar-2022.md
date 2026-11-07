@@ -1,7 +1,7 @@
 ---
 title: "Jedes Herz leuchtet"
 menu_title: ""
-description: "Jedes Herz leuchtet"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich habe mit meinen Flügeln startbereit darauf gewartet, heute zu sprechen, und ihr wisst natürlich, dass …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

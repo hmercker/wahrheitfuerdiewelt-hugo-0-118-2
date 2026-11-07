@@ -1,7 +1,7 @@
 ---
 title: "Darstellungen der Geisterwelt im Film"
 menu_title: ""
-description: "Darstellungen der Geisterwelt im Film"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich möchte die Fragen der lieben Schwester über den Film 1 ansprechen, den sie gesehen hat und dessen Darstellung …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 13 : Über die Scheidung und die Erzählung vom reichen Jüngling"
 menu_title: ""
-description: "Offenbarung 13 : Über die Scheidung und die Erzählung vom reichen Jüngling"
+description: "Jesus, empfangen durch Dr Samuels: „Heute schreibe ich dir über eine Passage im Matthäus-Evangelium, die nicht nur viele Laien, sondern auch so manchen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

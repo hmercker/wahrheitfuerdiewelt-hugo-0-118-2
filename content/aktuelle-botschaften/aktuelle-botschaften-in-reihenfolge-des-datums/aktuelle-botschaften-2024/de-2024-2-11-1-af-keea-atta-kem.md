@@ -1,7 +1,7 @@
 ---
 title: "Die Harmonisierung eurer Gebete erzeugt großes Licht"
 menu_title: ""
-description: "Die Harmonisierung eurer Gebete erzeugt großes Licht"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wenn ihr eure Gebete miteinander in Einklang bringt, wird ein großes Licht in der Welt erstrahlen.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

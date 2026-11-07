@@ -1,7 +1,7 @@
 ---
 title: "In dir sehe ich nur Schönheit"
 menu_title: ""
-description: "In dir sehe ich nur Schönheit"
+description: "Vater, empfangen durch Child of God: „In dir sehe ich nur Schönheit. Ich spüre dein glühendes Bestreben, Mir zu dienen, und dein Wunsch, alle guten Dinge …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

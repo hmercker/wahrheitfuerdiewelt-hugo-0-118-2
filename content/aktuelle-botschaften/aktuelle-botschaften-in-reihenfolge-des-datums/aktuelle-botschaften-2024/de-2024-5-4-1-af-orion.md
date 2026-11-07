@@ -1,7 +1,7 @@
 ---
 title: "Übernehmt die Verantwortung für eure Gedanken"
 menu_title: ""
-description: "Übernehmt die Verantwortung für eure Gedanken"
+description: "Orion, empfangen durch Al Fike: „Ich freue mich, euch heute bei euren Gebeten und Bemühungen zu begleiten, über die irdischen Bedingungen hinaus in das …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

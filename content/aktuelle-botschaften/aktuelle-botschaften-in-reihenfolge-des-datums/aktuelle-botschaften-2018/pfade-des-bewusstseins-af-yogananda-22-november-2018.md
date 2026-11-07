@@ -1,7 +1,7 @@
 ---
 title: "Pfade des Bewusstseins"
 menu_title: ""
-description: "Pfade des Bewusstseins"
+description: "Yogananda, empfangen durch Al Fike: „Im Gebet und in der Meditation werden die Wege des Verstandes geöffnet und bringen Erfahrungen, die nicht so sehr der …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erhebt eure Augen zu Gott"
 menu_title: ""
-description: "Erhebt eure Augen zu Gott"
+description: "Augustinus, empfangen durch Al Fike: „Dieses Instrument stellt eine Frage und seine Frage lautet: „Wie werde ich stark genug sein, um diese Dinge zu tun …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

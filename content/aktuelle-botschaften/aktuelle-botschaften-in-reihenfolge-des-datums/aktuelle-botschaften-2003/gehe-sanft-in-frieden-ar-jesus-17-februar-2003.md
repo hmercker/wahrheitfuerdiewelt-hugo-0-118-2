@@ -1,7 +1,7 @@
 ---
 title: "Gehe sanft in Frieden"
 menu_title: ""
-description: "Gehe sanft in Frieden"
+description: "Jesus, empfangen durch Amada Reza: „Als ich zu den vielen Menschen sprach, die die Botschaft der Liebe zu hören suchten, die ich lehrte, hatte ich ein Ohr …“"
 date: 2020-08-01 06:25:48+00:258
 draft: False
 hidden: True

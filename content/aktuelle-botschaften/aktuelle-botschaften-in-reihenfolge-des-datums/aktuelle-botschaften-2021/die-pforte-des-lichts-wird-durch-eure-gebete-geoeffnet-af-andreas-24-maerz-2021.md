@@ -1,7 +1,7 @@
 ---
 title: "Die Pforte des Lichts wird durch eure Gebete geöffnet"
 menu_title: ""
-description: "Die Pforte des Lichts wird durch eure Gebete geöffnet"
+description: "Andreas, empfangen durch Al Fike: „Ihr habt die Pforte des Lichts und der Liebe durch eure Gebete geöffnet und Gott nutzt diese Bedingungen und eure …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

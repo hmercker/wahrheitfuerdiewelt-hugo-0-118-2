@@ -1,7 +1,7 @@
 ---
 title: "Helen beantwortet einen Traumanruf von Padgett"
 menu_title: ""
-description: "Helen beantwortet einen Traumanruf von Padgett"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Schatz, ich hörte, wie du mich in deinen wachenden Momenten nach deinem Traum riefst, und ich kam zu dir …“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

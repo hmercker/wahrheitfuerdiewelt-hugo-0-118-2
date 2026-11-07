@@ -1,7 +1,7 @@
 ---
 title: "Kate sagt, sie weiß nun von den wunderbaren Dingen, die mit dem Einströmen der Liebe des Vaters zu ihr kommen"
 menu_title: ""
-description: "Kate sagt, sie weiß nun von den wunderbaren Dingen, die mit dem Einströmen der Liebe des Vaters zu ihr kommen"
+description: "Kate Stone, empfangen durch James Padgett: „Lass mich nur ein oder zwei Zeilen schreiben, denn während so viel Liebe anwesend ist, möchte ich sie genießen …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

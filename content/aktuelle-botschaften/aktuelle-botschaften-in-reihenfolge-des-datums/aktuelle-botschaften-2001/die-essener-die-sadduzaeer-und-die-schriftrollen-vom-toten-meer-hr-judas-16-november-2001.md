@@ -1,7 +1,7 @@
 ---
 title: "Die Essener, die Sadduzäer und die Schriftrollen vom Toten Meer"
 menu_title: ""
-description: "Die Essener, die Sadduzäer und die Schriftrollen vom Toten Meer"
+description: "Judas, empfangen durch H.: „Ich sehe, dass du ziemlich viele Fragen erhalten hast, und einige passen gut in das, womit wir es jetzt zu tun haben.“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

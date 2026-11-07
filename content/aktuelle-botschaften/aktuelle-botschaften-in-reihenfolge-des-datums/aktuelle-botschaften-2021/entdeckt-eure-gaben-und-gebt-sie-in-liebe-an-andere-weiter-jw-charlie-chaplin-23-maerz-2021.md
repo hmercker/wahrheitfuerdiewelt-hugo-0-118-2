@@ -1,7 +1,7 @@
 ---
 title: "Entdeckt eure Gaben und gebt sie in Liebe an andere weiter"
 menu_title: ""
-description: "Entdeckt eure Gaben und gebt sie in Liebe an andere weiter"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Es ist so wundervoll zu sehen, dass der Humor wiederhergestellt ist und die Freude, die sich in eurem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

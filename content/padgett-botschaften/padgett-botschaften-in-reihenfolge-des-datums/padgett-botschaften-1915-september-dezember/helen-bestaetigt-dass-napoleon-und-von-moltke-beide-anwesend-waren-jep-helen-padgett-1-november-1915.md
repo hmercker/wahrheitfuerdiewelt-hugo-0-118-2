@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Napoleon und von Moltke beide anwesend waren"
 menu_title: ""
-description: "Helen bestätigt, dass Napoleon und von Moltke beide anwesend waren"
+description: "Helen, empfangen durch James Padgett: „Du musst zu Bett gehen und Morgen früher aufstehen, denn sonst verlierst du womöglich Geschäfte, wenn du das nicht tust.“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

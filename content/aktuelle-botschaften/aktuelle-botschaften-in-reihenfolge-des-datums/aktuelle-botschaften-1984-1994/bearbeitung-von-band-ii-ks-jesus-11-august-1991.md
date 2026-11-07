@@ -1,7 +1,7 @@
 ---
 title: "Bearbeitung von Band II"
 menu_title: ""
-description: "Bearbeitung von Band II"
+description: "Jesus, empfangen durch Kathryn Stokes: „Lieber geliebter Bruder und Freund, Jesus. Unser lieber Bruder in Christus, Dave, würde gerne wissen, ob die …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

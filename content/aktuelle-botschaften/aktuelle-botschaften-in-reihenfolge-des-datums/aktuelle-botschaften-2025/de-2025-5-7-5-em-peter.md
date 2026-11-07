@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Kirche ist in euren Herzen"
 menu_title: ""
-description: "Die wahre Kirche ist in euren Herzen"
+description: "Petrus, empfangen durch Elisabeth Mack: „Mein Meister sagte, dass er seine Kirche auf diesen Felsen bauen würde. Ich sage euch, die wahre Kirche ist in …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

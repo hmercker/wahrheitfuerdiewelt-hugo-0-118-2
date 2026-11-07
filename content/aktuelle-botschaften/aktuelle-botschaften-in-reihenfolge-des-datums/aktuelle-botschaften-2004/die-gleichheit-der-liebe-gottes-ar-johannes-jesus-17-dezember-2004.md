@@ -1,7 +1,7 @@
 ---
 title: "Die Gleichheit der Liebe Gottes"
 menu_title: ""
-description: "Die Gleichheit der Liebe Gottes"
+description: "Jesus & Johannes, empfangen durch Amada Reza: „Dies ist ein Name, der mich in einen gewissen geschichtlichen Zusammenhang stellt, aber ich möchte euch …“"
 date: 2020-08-01 06:25:48+00:293
 draft: False
 hidden: True

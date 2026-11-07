@@ -1,7 +1,7 @@
 ---
 title: "Freier Wille - Gottes Wille"
 menu_title: ""
-description: "Freier Wille - Gottes Wille"
+description: "Petrus, empfangen durch Elisabeth Mack: „Ich bringe euch eine Botschaft von eurem himmlischen Vater, dessen Liebe für alle seine Kinder groß ist.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

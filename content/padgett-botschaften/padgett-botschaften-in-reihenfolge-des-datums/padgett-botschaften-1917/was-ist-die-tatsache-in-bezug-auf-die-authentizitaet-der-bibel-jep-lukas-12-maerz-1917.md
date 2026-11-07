@@ -1,7 +1,7 @@
 ---
 title: "Was ist die Tatsache in Bezug auf die Authentizität der Bibel?"
 menu_title: ""
-description: "Was ist die Tatsache in Bezug auf die Authentizität der Bibel?"
+description: "Lukas, empfangen durch James Padgett: „Die Tatsache, dass er die Existenz gewisser Manuskripte und Versionen bis auf hundertfünfzig Jahre nach der Zeit der …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

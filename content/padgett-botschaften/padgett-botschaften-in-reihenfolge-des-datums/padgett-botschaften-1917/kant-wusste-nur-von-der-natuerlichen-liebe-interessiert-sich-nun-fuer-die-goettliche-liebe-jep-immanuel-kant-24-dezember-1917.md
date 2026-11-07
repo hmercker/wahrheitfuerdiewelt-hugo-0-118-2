@@ -1,7 +1,7 @@
 ---
 title: "Kant wusste nur von der natürlichen Liebe, interessiert sich nun für die Göttliche Liebe"
 menu_title: ""
-description: "Kant wusste nur von der natürlichen Liebe, interessiert sich nun für die Göttliche Liebe"
+description: "Immanuel Kant 1, empfangen durch James Padgett: „Ich habe deinem Gespräch heute Abend zugehört und war sehr interessiert, so sehr, dass ich mich gefragt …“"
 date: 2020-08-01 06:25:48+00:249
 draft: False
 hidden: True

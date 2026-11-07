@@ -1,7 +1,7 @@
 ---
 title: "Überdenkt nicht meine Bücher"
 menu_title: ""
-description: "Überdenkt nicht meine Bücher"
+description: "Robert J Lees, empfangen durch Jimbeau Walsh: „Ich habe heute eurer Diskussion zugehört und über all ihre Überlegungen nachgedacht, die ich empfangen habe. …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erklärt die psychische und mentale Integration"
 menu_title: ""
-description: "Erklärt die psychische und mentale Integration"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir setzen unsere Reise des Erwachens fort, und jeder von euch macht Erfahrungen und Erlebnisse, die einzigartig für …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

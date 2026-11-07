@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube kommt auf den Flügeln der Liebe"
 menu_title: ""
-description: "Der Glaube kommt auf den Flügeln der Liebe"
+description: "Markus, empfangen durch Maureen Cardoso: „Ich war bei euch, als ihr die Botschaft gelesen habt, die ich über den Glauben gegeben habe.“"
 date: 2020-08-01 06:25:48+00:257
 draft: False
 hidden: True

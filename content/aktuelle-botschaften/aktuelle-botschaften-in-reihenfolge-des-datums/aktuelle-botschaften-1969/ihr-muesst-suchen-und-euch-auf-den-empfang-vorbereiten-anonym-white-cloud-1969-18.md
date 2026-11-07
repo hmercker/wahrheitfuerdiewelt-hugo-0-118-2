@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst suchen und euch auf den Empfang vorbereiten"
 menu_title: ""
-description: "Ihr müsst suchen und euch auf den Empfang vorbereiten"
+description: "White Cloud: „Indianer kommen, White Cloud (Weiße Wolke). Ich stehe Squaw auf den Füßen.“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Immunität"
 menu_title: ""
-description: "Spirituelle Immunität"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Meine lieben, lieben Mäuse, ich kann euch sagen, dass Robert Lees 1 mehr als geschmeichelt war, dass ihr …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

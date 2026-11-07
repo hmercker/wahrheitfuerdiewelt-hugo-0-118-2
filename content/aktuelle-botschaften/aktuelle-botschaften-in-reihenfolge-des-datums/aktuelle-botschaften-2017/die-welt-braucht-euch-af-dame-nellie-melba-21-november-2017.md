@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht euch"
 menu_title: ""
-description: "Die Welt braucht euch"
+description: "Dame Nellie Melba, empfangen durch Al Fike: „Ich war vor vielen Jahren eine bekannte Sängerin auf der Bühne. Ich möchte für die Menschheit singen, das …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

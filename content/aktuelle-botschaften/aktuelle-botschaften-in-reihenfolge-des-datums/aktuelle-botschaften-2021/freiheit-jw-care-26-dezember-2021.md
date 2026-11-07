@@ -1,7 +1,7 @@
 ---
 title: "Freiheit"
 menu_title: ""
-description: "Freiheit"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Alle Menschen auf der Welt wünschen sich Freiheit, und vielleicht bedeutet Freiheit an verschiedenen …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

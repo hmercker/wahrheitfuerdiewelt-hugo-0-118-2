@@ -1,7 +1,7 @@
 ---
 title: "Lukas bestätigt Konstantins Schreiben"
 menu_title: ""
-description: "Lukas bestätigt Konstantins Schreiben"
+description: "Lukas, empfangen durch James Padgett: „Ich werde nicht versuchen, heute Nacht ausführlich zu schreiben. Ich möchte nur sagen, weil du die Identität …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

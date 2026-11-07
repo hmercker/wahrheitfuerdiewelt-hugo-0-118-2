@@ -1,7 +1,7 @@
 ---
 title: "Gefühle stehen an erster Stelle"
 menu_title: ""
-description: "Gefühle stehen an erster Stelle"
+description: "Vater, empfangen durch Child of God: „Es ist für dich jetzt eine Notwendigkeit geworden, morgens ruhig zu sitzen, zu kontemplieren und zu schreiben.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Paulus will Fehler in seinen Briefen, wie sie in der Bibel enthalten sind, korrigieren"
 menu_title: ""
-description: "Paulus will Fehler in seinen Briefen, wie sie in der Bibel enthalten sind, korrigieren"
+description: "Paulus, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich sehr bestrebt bin, dir zu offenbaren, was die wahren Lehren Jesu sind und welche …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

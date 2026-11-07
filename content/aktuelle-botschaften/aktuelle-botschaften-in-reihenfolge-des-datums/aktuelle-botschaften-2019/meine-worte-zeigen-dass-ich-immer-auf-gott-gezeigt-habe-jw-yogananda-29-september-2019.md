@@ -1,7 +1,7 @@
 ---
 title: "Meine Worte zeigen, dass ich immer auf Gott gezeigt habe"
 menu_title: ""
-description: "Meine Worte zeigen, dass ich immer auf Gott gezeigt habe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ich möchte mit euch über Kontrolle sprechen und darüber, im Fluss der Liebe Gottes zu sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

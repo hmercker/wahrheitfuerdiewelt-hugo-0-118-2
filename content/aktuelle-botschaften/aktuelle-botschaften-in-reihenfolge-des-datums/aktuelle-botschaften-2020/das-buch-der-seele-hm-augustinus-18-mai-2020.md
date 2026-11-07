@@ -1,7 +1,7 @@
 ---
 title: "Das Buch der Seele"
 menu_title: ""
-description: "Das Buch der Seele"
+description: "Augustinus, empfangen durch Helge Mercker: „Bei der Herangehensweise, das Innere seiner selbst zu erfassen und zu erkennen, ist es erforderlich, Zeit mit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

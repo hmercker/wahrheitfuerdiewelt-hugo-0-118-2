@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, was Besetzung ist und dass es Reinkarnation nicht gibt"
 menu_title: ""
-description: "Jesus erklärt, was Besetzung ist und dass es Reinkarnation nicht gibt"
+description: "Jesus, empfangen durch James Padgett: „Ich hatte vor, meine Rede heute Abend zu beenden, aber jetzt ist es zu spät, und ich muss sie verschieben.“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

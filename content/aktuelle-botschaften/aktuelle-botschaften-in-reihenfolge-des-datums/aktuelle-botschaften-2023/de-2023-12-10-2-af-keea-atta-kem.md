@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt die Ausdrucksformen unserer Seelen"
 menu_title: ""
-description: "Ermutigt die Ausdrucksformen unserer Seelen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Bei vielen verschiedenen Gelegenheiten war ich euch nahe. Heute möchte ich über die Vitalität der Seele sprechen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

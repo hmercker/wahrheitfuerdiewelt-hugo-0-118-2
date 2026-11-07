@@ -1,7 +1,7 @@
 ---
 title: "Sehnsucht und Seelenwahrnehmung"
 menu_title: ""
-description: "Sehnsucht und Seelenwahrnehmung"
+description: "Yogananda & Franziskus von Assisi, empfangen durch Jimbeau Walsh: „In der vorgelesenen Botschaft sprach der geliebte Thomas über sein Verlangen nach …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

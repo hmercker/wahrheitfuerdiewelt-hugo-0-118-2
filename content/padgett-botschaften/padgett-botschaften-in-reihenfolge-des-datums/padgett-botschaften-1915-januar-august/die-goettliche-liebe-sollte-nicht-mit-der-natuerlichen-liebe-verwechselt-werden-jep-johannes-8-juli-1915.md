@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe sollte nicht mit der natürlichen Liebe verwechselt werden"
 menu_title: ""
-description: "Die Göttliche Liebe sollte nicht mit der natürlichen Liebe verwechselt werden"
+description: "Johannes, empfangen durch James Padgett: „Ich fühlte deinen Ruf und bin gekommen und werde dir von Liebe erzählen, denn darum hast du mich gerufen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 19 - Die Natur des Universums und der Platz der Menschheit darin"
 menu_title: ""
-description: "Lektion 19 - Die Natur des Universums und der Platz der Menschheit darin"
+description: "Jesus, empfangen durch Al Fike: „Möge Gottes großer Segen der Göttlichen Liebe in eure Seelen fließen, damit ihr in diesem höchsten und heiligsten aller …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

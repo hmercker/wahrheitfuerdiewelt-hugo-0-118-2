@@ -1,7 +1,7 @@
 ---
 title: "Freier Wille und Heilungsangebot"
 menu_title: ""
-description: "Freier Wille und Heilungsangebot"
+description: "Judas, empfangen durch H.: „Bitte, könntest du hier die Frage aufschreiben, die du erhalten hast - über den freien Willen?“"
 date: 2020-08-01 06:25:48+00:265
 draft: False
 hidden: True

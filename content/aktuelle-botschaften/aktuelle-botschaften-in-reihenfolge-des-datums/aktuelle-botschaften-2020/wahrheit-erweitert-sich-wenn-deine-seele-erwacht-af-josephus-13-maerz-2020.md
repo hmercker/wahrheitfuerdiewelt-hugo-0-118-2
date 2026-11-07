@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit erweitert sich, wenn deine Seele erwacht"
 menu_title: ""
-description: "Wahrheit erweitert sich, wenn deine Seele erwacht"
+description: "Josephus, empfangen durch Al Fike: „Ich höre deine Frage, lieber Bruder. Ich verstehe, dass du ein tiefes Verlangen nach komplexeren Informationen und …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

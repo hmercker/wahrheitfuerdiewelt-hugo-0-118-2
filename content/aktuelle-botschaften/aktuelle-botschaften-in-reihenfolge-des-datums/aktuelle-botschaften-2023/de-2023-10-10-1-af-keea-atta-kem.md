@@ -1,7 +1,7 @@
 ---
 title: "Freude und Jubel!"
 menu_title: ""
-description: "Freude und Jubel!"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Die Engel freuen sich über euer Zusammentreffen, diese wunderschönen Lichter für Gott in liebevoller Harmonie und …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

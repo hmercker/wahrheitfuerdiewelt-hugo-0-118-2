@@ -1,7 +1,7 @@
 ---
 title: "Seid die Vermittler der Freude"
 menu_title: ""
-description: "Seid die Vermittler der Freude"
+description: "Andreas, empfangen von Al Fike: „Wie wichtig es ist, Freude in eurem Leben, in eurem Wesen, in eurer Seele zu spüren, denn Freude ist ein Markierungszeichen.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lazarus sagt, dass er nicht tot war als er von Jesus auferweckt wurde"
 menu_title: ""
-description: "Lazarus sagt, dass er nicht tot war als er von Jesus auferweckt wurde"
+description: "Lazarus, empfangen durch James Padgett: „Ich war derjenige, den Jesus aus dem Grab rief. Ich möchte nur sagen, dass ich nicht tot war, als ich auferweckt …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

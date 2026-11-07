@@ -1,7 +1,7 @@
 ---
 title: "Die Einzigartigkeit der Wahrnehmung und das Ziel der Harmonie"
 menu_title: ""
-description: "Die Einzigartigkeit der Wahrnehmung und das Ziel der Harmonie"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H, wieder einmal werde ich nicht über Galiläa im ersten Jahrhundert sprechen, und ich werde nicht über die …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

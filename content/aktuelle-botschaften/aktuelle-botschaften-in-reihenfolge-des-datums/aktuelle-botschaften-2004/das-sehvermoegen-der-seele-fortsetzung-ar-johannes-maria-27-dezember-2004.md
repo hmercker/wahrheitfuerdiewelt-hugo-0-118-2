@@ -1,7 +1,7 @@
 ---
 title: "Das Sehvermögen der Seele (Fortsetzung)"
 menu_title: ""
-description: "Das Sehvermögen der Seele (Fortsetzung)"
+description: "Johannes & Maria, empfangen durch Amada Reza: „Ich möchte meine Botschaft über die Seelenschau fortsetzen, d.h. die Fähigkeit, das Potential der …“"
 date: 2020-08-01 06:25:48+00:294
 draft: False
 hidden: True

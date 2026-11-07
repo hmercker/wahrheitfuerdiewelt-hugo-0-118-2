@@ -1,7 +1,7 @@
 ---
 title: "Caesar berichtet über seine Erfahrungen, nachdem er Hilfe von einem göttlichen spirituellen Wesen erhalten hat"
 menu_title: ""
-description: "Caesar berichtet über seine Erfahrungen, nachdem er Hilfe von einem göttlichen spirituellen Wesen erhalten hat"
+description: "Julius Cäsar, empfangen durch James Padgett: „Nun, ich freue mich, dir wieder schreiben zu können, und ganz besonders, da ich dir sagen kann, dass ich …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

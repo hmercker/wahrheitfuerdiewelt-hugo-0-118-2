@@ -1,7 +1,7 @@
 ---
 title: "Ein Angebot der Hilfe und des Vertrauens"
 menu_title: ""
-description: "Ein Angebot der Hilfe und des Vertrauens"
+description: "George, Will, empfangen durch Elisabeth Mack: „Wir segnen diese Seele mit unserer Liebe. Denn er kommt von einem fernen Planeten und ist hier, um allen …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

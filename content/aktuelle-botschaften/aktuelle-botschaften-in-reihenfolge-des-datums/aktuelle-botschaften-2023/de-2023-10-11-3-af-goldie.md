@@ -1,7 +1,7 @@
 ---
 title: "Ein Geschenkvorschlag für jeden müden Reisenden"
 menu_title: ""
-description: "Ein Geschenkvorschlag für jeden müden Reisenden"
+description: "Goldie, empfangen durch Al Fike: „Könnt ihr jedem, der durch die Tür kommt, eine kleine Blume geben, ein kleines Geschenk, einen Sonnenstrahl für ihn?“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

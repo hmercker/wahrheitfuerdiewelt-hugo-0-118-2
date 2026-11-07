@@ -1,7 +1,7 @@
 ---
 title: "Die Zukunft sieht gut aus"
 menu_title: ""
-description: "Die Zukunft sieht gut aus"
+description: "Martin Luther King, empfangen durch Al Fike: „Meine Liebe ist für euch alle. Mein Herz schwillt an, wenn ich sehe, wie ihr alle im Licht hervortretet, eure …“"
 date: 2020-08-01 06:25:48+00:257
 draft: False
 hidden: True

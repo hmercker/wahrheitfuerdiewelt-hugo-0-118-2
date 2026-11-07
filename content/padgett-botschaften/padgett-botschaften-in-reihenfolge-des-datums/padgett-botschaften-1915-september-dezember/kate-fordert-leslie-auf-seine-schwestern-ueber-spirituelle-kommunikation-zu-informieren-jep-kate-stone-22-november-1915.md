@@ -1,7 +1,7 @@
 ---
 title: "Kate fordert Leslie auf, seine Schwestern über spirituelle Kommunikation zu informieren"
 menu_title: ""
-description: "Kate fordert Leslie auf, seine Schwestern über spirituelle Kommunikation zu informieren"
+description: "Kate Stone, empfangen durch James Padgett: „Erlaube mir, ein paar Worte zu schreiben, da ich dir schon lange nicht mehr geschrieben habe und angesichts der …“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

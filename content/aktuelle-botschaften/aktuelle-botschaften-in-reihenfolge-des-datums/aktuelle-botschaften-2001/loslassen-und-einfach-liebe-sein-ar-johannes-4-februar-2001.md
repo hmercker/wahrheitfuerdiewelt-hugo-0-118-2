@@ -1,7 +1,7 @@
 ---
 title: "Loslassen und einfach Liebe sein"
 menu_title: ""
-description: "Loslassen und einfach Liebe sein"
+description: "Johannes, empfangen durch Amada Reza: „Ja, ich war der Apostel Johannes, und ich möchte dir über die Liebe und ihr \"Gesicht\" in dieser Welt schreiben.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

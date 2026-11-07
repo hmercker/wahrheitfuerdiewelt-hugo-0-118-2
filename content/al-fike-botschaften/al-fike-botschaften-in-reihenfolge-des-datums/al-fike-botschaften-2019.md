@@ -1,7 +1,7 @@
 ---
 title: "Al Fike Botschaften 2019"
 menu_title: "Al Fike Botschaften 2019"
-description: "Al Fike Botschaften vom Jahre 2019"
+description: "Al Fike Botschaften in Reihenfolge des Datums empfangen im Jahre 2019: „Jesus ordnet Geistführer zu | 30 Januar 2019 Augustinus | Frage: Wie kann ein …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Heilungensfarben"
 menu_title: ""
-description: "Heilungensfarben"
+description: "Konfuzius, empfangen durch Al Fike: „Eine Welle mit vielen Farben, tief und resonierend und wunderschön, um euch mit euren physischen Körpern zu helfen, um …“"
 date: 2020-08-01 06:25:48+00:237
 draft: False
 hidden: True

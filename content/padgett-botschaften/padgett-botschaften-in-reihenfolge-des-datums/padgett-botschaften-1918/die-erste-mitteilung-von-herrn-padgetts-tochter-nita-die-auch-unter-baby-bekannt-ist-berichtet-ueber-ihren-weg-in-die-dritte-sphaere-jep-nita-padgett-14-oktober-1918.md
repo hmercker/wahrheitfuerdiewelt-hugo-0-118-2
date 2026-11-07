@@ -1,7 +1,7 @@
 ---
 title: "Die erste Mitteilung von Herrn Padgetts Tochter Nita, die auch unter Baby bekannt ist, berichtet über ihren Weg in die Dritte Sphäre"
 menu_title: ""
-description: "Die erste Mitteilung von Herrn Padgetts Tochter Nita, die auch unter Baby bekannt ist, berichtet über ihren Weg in die Dritte Sphäre"
+description: "Nita Padgett, empfangen durch James Padgett: „Lass mich eine Zeile schreiben. Ich weiß, dass Mutter dir in Bezug auf mein Hinübergehen und meinen Zustand …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

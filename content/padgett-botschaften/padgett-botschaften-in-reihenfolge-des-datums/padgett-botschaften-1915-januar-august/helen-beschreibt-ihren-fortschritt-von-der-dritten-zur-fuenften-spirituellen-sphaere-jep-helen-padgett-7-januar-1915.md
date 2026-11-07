@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt ihren Fortschritt von der Dritten zur Fünften Spirituellen Sphäre"
 menu_title: ""
-description: "Helen beschreibt ihren Fortschritt von der Dritten zur Fünften Spirituellen Sphäre"
+description: "Helen, empfangen durch James Padgett: „Ich werde heute Nacht versuchen, dir davon zu erzählen, was ich zurzeit in meinem neuen Zuhause unternehme und in …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung des Glaubens"
 menu_title: ""
-description: "Die Bedeutung des Glaubens"
+description: "Ein hohes spirituelles Wesen, empfangen durch Amada Reza: „[Lieber Schöpfer, Quelle aller Liebe, ich bete für ein großes Einströmen Deiner Göttlichen Liebe …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

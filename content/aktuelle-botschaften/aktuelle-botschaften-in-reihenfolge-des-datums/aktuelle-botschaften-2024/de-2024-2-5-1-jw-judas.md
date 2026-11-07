@@ -1,7 +1,7 @@
 ---
 title: "Absicht und Wille"
 menu_title: ""
-description: "Absicht und Wille"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe in den letzten Stunden an das Herz meines Bruders geklopft und ihn in seiner Seele wissen lassen, was ich …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

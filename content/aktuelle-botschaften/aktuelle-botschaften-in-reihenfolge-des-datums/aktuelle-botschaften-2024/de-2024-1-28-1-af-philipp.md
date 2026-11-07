@@ -1,7 +1,7 @@
 ---
 title: "Die Gesetze der Liebe erforschen"
 menu_title: ""
-description: "Die Gesetze der Liebe erforschen"
+description: "Philipp, empfangen durch Al Fike: „Der Segen der Liebe des Vaters wärmt weiterhin eure Herzen und Seelen. Jeder von euch betet um das große Geschenk der …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

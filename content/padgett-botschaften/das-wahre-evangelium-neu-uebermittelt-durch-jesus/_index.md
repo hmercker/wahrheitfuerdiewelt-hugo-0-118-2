@@ -1,7 +1,7 @@
 ---
 title: "Das wahre Evangelium neu übermittelt durch Jesus"
 menu_title: "Das wahre Evangelium neu übermittelt durch Jesus"
-description: "Das wahre Evangelium neu übermittelt durch Jesus"
+description: "Das wahre Evangelium neu übermittelt durch Jesus: „James Padgett erhielt im Zeitraum von 1914 bis zu seinem Tod im Jahr 1923 Botschaften von Jesus und …“"
 date: 2023-06-28 15:43:52+00:00
 draft: False
 hidden: False

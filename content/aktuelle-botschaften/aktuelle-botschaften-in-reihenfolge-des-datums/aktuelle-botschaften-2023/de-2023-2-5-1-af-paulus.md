@@ -1,7 +1,7 @@
 ---
 title: "Zum Gebet versammeln - für das Gitter des Lichts"
 menu_title: ""
-description: "Zum Gebet versammeln - für das Gitter des Lichts"
+description: "Paulus, empfangen durch Al Fike: „Ihr seid in der Tat mit euren Freunden verbunden, meine Lieben. Die Welt muss von diesem Lichtgitter bedeckt werden.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die ersten Eltern"
 menu_title: ""
-description: "Die ersten Eltern"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Liebe Schöpferseele, ich bete, dass ich, wenn ich in der Lage bin, spirituelle Gedanken von …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gedanken-Behälter"
 menu_title: ""
-description: "Gedanken-Behälter"
+description: "Judas, empfangen durch H.: „Weißt du, was \"Gedankenbehälter\" sind? Nun, es ist ein Begriff, der mir gerade erst eingefallen ist.“"
 date: 2020-08-01 06:25:48+00:272
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Reagiert in Liebe"
 menu_title: ""
-description: "Reagiert in Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „So viele wünschen sich, beten für eine Heilung. Betrachtet den menschlichen Körper und wenn es eine Krankheit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

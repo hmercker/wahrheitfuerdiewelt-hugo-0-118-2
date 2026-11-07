@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe zu Gott führt zu einem Leben des Dienens"
 menu_title: ""
-description: "Die Liebe zu Gott führt zu einem Leben des Dienens"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Die Liebe zu Gott führt zu einem Leben des Dienens. Denn das Herz öffnet sich mitfühlend für alle …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

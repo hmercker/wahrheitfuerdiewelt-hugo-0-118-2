@@ -1,7 +1,7 @@
 ---
 title: "Unsere Seele und das Gesetz der Anziehung"
 menu_title: ""
-description: "Unsere Seele und das Gesetz der Anziehung"
+description: "Konfuzius, empfangen durch Al Fike: „Doch fühlt ihr nicht alle, dass ihr Teil einer Familie seid, einer kostbaren Familie im Licht der Liebe Gottes?“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

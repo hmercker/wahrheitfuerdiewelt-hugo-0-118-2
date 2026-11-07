@@ -1,7 +1,7 @@
 ---
 title: "Sich in guten Zustand bringen"
 menu_title: ""
-description: "Sich in guten Zustand bringen"
+description: "Vater, empfangen durch Child of God: „Liebes Kind, ich liebe dich. Ich sage dies oft, weil du es jeden Tag und viele Male am Tag hören musst.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

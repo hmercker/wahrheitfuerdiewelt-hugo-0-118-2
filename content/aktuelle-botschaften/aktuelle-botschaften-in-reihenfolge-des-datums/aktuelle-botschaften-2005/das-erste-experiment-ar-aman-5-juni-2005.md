@@ -1,7 +1,7 @@
 ---
 title: "Das erste Experiment"
 menu_title: ""
-description: "Das erste Experiment"
+description: "Aman, empfangen durch Amada Reza: „Wir sind als Antwort auf eure Suche nach Führung über die Natur unseres „Ungehorsams” gekommen, indem wir das Geschenk …“"
 date: 2020-08-01 06:25:48+00:301
 draft: False
 hidden: True

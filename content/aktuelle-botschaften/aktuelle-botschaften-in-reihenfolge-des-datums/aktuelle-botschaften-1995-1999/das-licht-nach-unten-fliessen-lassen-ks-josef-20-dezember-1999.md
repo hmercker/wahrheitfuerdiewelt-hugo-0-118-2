@@ -1,7 +1,7 @@
 ---
 title: "Das Licht nach unten fließen lassen"
 menu_title: ""
-description: "Das Licht nach unten fließen lassen"
+description: "Josef, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich habe die Anwesenheit eines Engels gespürt und frage mich, ob einer meiner himmlischen …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

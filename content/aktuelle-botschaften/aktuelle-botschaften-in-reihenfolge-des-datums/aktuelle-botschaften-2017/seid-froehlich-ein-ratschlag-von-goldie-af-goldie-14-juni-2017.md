@@ -1,7 +1,7 @@
 ---
 title: "Seid fröhlich - ein Ratschlag von Goldie"
 menu_title: ""
-description: "Seid fröhlich - ein Ratschlag von Goldie"
+description: "Goldie, empfangen durch Al Fike: „Das Leben ist Freude und Schönheit und Liebe. Bitte nehmt euch selbst nicht zu ernst.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

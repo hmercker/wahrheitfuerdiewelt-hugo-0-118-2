@@ -1,7 +1,7 @@
 ---
 title: "Wie die Göttliche Liebe die Seele verändert"
 menu_title: ""
-description: "Wie die Göttliche Liebe die Seele verändert"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Und wir haben dort große Freude und wundersame Erfahrungen, die ich euch unmöglich beschreiben könnte.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

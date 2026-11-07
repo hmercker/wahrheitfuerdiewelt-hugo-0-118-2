@@ -1,7 +1,7 @@
 ---
 title: "Zeichen der Führung"
 menu_title: ""
-description: "Zeichen der Führung"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine Lieben, ihr habt einen weiten Weg von bescheidenen Anfängen zu einem Zustand der Gnade zurückgelegt, einem …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

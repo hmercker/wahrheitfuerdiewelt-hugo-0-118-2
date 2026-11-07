@@ -1,7 +1,7 @@
 ---
 title: "Wir sind nicht so verschieden"
 menu_title: ""
-description: "Wir sind nicht so verschieden"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Mein lieber Junge, mein lieber Freund, ich möchte am Anfang beginnen, denn dies scheint der beste Ort zu sein …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

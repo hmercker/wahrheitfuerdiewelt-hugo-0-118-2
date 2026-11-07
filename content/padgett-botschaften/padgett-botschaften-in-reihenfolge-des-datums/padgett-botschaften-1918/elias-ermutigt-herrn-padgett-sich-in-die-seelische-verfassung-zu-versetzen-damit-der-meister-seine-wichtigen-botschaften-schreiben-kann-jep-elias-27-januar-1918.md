@@ -1,7 +1,7 @@
 ---
 title: "Elias ermutigt Herrn Padgett, sich in die seelische Verfassung zu versetzen, damit der Meister seine wichtigen Botschaften schreiben kann"
 menu_title: ""
-description: "Elias ermutigt Herrn Padgett, sich in die seelische Verfassung zu versetzen, damit der Meister seine wichtigen Botschaften schreiben kann"
+description: "Elias, empfangen durch James Padgett: „Ich habe dir schon lange nicht mehr geschrieben und heute Abend möchte ich ein paar Worte sagen, und zwar in Bezug …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

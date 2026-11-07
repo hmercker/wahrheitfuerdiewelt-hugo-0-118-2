@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für das Treffen zur Direkten Stimme im Oktober 2018"
 menu_title: ""
-description: "Anleitung für das Treffen zur Direkten Stimme im Oktober 2018"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ihr habt um größere Führung und Klarheit bezüglich der Eindrücke und Führung gebeten, die die liebe Seele …“"
 date: 2020-08-01 06:25:48+00:244
 draft: False
 hidden: True

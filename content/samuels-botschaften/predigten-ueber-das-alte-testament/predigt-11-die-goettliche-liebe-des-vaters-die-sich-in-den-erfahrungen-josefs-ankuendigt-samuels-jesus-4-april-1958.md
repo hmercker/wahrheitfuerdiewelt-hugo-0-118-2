@@ -1,7 +1,7 @@
 ---
 title: "Predigt 11 - Die Göttliche Liebe des Vaters, die sich in den Erfahrungen Josefs ankündigt"
 menu_title: ""
-description: "Predigt 11 - Die Göttliche Liebe des Vaters, die sich in den Erfahrungen Josefs ankündigt"
+description: "Jesus, empfangen durch Dr Samuels: „In dieser Predigt möchte ich zeigen, dass die Geschichte von Joseph und seinen Brüdern für das Alte Testament von …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

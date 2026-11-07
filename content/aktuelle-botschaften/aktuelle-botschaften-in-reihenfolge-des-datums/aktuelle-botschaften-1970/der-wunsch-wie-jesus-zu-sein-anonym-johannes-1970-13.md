@@ -1,7 +1,7 @@
 ---
 title: "Der Wunsch, wie Jesus zu sein"
 menu_title: ""
-description: "Der Wunsch, wie Jesus zu sein"
+description: "Johannes: „Friede sei mit euch, meine Freunde, Johannes. Viele wunderbare Seelen sind in eurer Mitte und wir sind alle so gesegnet mit der Gegenwart des …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

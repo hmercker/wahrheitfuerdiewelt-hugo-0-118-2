@@ -1,7 +1,7 @@
 ---
 title: "Spiritueller Fortschritt"
 menu_title: ""
-description: "Spiritueller Fortschritt"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern in der Liebe Gottes im Christusbewusstsein, die ihr zu eurem eigenen …“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

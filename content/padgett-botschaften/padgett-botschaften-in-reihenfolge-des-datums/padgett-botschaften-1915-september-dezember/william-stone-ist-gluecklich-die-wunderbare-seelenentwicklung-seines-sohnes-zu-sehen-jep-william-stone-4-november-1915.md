@@ -1,7 +1,7 @@
 ---
 title: "William Stone ist glücklich, die wunderbare Seelenentwicklung seines Sohnes zu sehen"
 menu_title: ""
-description: "William Stone ist glücklich, die wunderbare Seelenentwicklung seines Sohnes zu sehen"
+description: "William Stone, empfangen durch James Padgett: „Ich werde auch ein paar Worte schreiben, denn ich weiß, dass mein Sohn heute Abend ein kurzes Schreiben von …“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

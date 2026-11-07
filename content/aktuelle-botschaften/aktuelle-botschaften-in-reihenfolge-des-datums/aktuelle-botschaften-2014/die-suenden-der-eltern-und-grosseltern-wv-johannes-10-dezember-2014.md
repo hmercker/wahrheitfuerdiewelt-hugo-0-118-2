@@ -1,7 +1,7 @@
 ---
 title: "Die Sünden der Eltern und Großeltern"
 menu_title: ""
-description: "Die Sünden der Eltern und Großeltern"
+description: "Johannes, empfangen durch WV: „Ich kann deine Anwesenheit spüren. Kannst du bitte auf die Botschaft der Sünden eingehen, nach der ich im DLS-Forum gefragt …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

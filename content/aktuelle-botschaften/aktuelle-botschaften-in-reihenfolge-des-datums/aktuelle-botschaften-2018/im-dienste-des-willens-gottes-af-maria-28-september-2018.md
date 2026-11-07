@@ -1,7 +1,7 @@
 ---
 title: "Im Dienste des Willens Gottes"
 menu_title: ""
-description: "Im Dienste des Willens Gottes"
+description: "Maria, empfangen durch Al Fike: „Die folgende Botschaft kam nach einer Sitzung der kanadischen Schwesterorganisation von ‘Childrens Sanctuary Namibia’ (die …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

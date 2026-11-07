@@ -1,7 +1,7 @@
 ---
 title: "Gott kommuniziert auf viele Arten"
 menu_title: ""
-description: "Gott kommuniziert auf viele Arten"
+description: "Seretta Kem, empfangen durch Al Fike: „Gottes Atem ist über euch, Geliebte. Er gießt Sein Licht, Seinen Frieden und Seine Liebe in euren Kreis.“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Zweifelt nicht"
 menu_title: ""
-description: "Zweifelt nicht"
+description: "Judas, empfangen durch Elisabeth Mack: „Ihr habt gefragt und hier bin ich. Wir sind immer bei euch, Kinder.“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

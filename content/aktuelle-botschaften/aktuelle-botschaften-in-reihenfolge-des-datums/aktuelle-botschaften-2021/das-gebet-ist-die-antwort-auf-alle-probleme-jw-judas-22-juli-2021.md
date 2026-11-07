@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet ist die Antwort auf alle Probleme"
 menu_title: ""
-description: "Das Gebet ist die Antwort auf alle Probleme"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ihr alle kennt diese Begriffe: \"Der Judas-Fluch\" oder \"Judas-Priester\". So oft neigt man dazu, sich auf den Fehler …“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

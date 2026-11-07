@@ -1,7 +1,7 @@
 ---
 title: "Zum Thema des Seelenfortschritts"
 menu_title: ""
-description: "Zum Thema des Seelenfortschritts"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich damit beginnen zu sagen, dass ich mich über deine Wiederaufnahme der Botschaftsaufnahme sehr freue …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

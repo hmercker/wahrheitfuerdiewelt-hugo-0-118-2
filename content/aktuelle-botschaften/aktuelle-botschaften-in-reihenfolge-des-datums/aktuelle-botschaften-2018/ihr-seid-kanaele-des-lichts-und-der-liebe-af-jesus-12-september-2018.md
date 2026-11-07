@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid Kanäle des Lichts und der Liebe"
 menu_title: ""
-description: "Ihr seid Kanäle des Lichts und der Liebe"
+description: "Jesus, empfangen durch Al Fike: „Ich segne euch in euren Bemühungen, in Liebe zusammenzukommen - einander die Hand zu reichen in dem Wissen, dass in jedem …“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

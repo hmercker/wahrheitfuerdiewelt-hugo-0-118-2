@@ -1,7 +1,7 @@
 ---
 title: "Gott möchte, dass ihr wisst, was eine Beziehung mit Ihm ausmacht"
 menu_title: ""
-description: "Gott möchte, dass ihr wisst, was eine Beziehung mit Ihm ausmacht"
+description: "Andreas, empfangen durch Al Fike: „Mit der klaren Sehnsucht der Seele, die auf Gott gerichtet ist, um die Essenz Seiner Seele in eurer Seele zu empfangen …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die guten Dinge"
 menu_title: ""
-description: "Die guten Dinge"
+description: "James E. Padgett, empfangen durch D.B.: „Du bist bereit, Daniel, also lass uns beginnen. Ich möchte gerne auf Geoff's Kommentare bezüglich meines …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

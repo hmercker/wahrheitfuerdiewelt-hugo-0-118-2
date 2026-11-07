@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist weder Gott, noch gibt es die sogenannte Dreifaltigkeit"
 menu_title: ""
-description: "Jesus ist weder Gott, noch gibt es die sogenannte Dreifaltigkeit"
+description: "Jesus, empfangen durch James Padgett: „Deine Verfassung heute Nacht ist so gut wie schon lange nicht mehr. Die Göttliche Liebe, die in großer Fülle in …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

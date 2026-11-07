@@ -1,7 +1,7 @@
 ---
 title: "Sucht Gottes Liebe, um eure Seelen zu erwecken"
 menu_title: ""
-description: "Sucht Gottes Liebe, um eure Seelen zu erwecken"
+description: "Augustinus, empfangen durch Al Fike: „Trachtet danach, eure Seelen zu kennen, denn in eurer Seele liegen die Schlüssel zu allen Antworten, die ihr sucht.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

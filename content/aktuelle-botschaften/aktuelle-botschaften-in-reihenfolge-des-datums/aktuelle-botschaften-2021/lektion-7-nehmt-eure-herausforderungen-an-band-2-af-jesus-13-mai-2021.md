@@ -1,7 +1,7 @@
 ---
 title: "Lektion 7 - Nehmt eure Herausforderungen an - Band 2"
 menu_title: ""
-description: "Lektion 7 - Nehmt eure Herausforderungen an - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Heute möchte ich über die persönlichen Kämpfe sprechen, die viele haben, um die Wünsche der Seele zu verstehen und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

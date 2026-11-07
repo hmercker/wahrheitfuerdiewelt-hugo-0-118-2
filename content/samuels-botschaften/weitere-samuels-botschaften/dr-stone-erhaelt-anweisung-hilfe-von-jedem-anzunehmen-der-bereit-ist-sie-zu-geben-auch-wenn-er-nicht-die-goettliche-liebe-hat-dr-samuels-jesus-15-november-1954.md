@@ -1,7 +1,7 @@
 ---
 title: "Dr. Stone erhält Anweisung, Hilfe von jedem anzunehmen der bereit ist sie zu geben, auch wenn er nicht die Göttliche Liebe hat"
 menu_title: ""
-description: "Dr. Stone erhält Anweisung, Hilfe von jedem anzunehmen der bereit ist sie zu geben, auch wenn er nicht die Göttliche Liebe hat"
+description: "Jesus, empfangen durch Dr Samuels: „Es geht um einige seiner Freunde und Mitarbeiter, die daran interessiert sein könnten, die Arbeit voranzutreiben und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

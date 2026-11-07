@@ -1,7 +1,7 @@
 ---
 title: "Ein muslimischer Priester, beschreibt das Leben der Sphäre in der er lebt"
 menu_title: ""
-description: "Ein muslimischer Priester, beschreibt das Leben der Sphäre in der er lebt"
+description: "Abdullah ben Kalif, empfangen durch James Padgett: „Ich schreibe mit Erlaubnis deiner Gruppe, denn sie wissen, dass meine Liebe zu meinen Mitmenschen sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

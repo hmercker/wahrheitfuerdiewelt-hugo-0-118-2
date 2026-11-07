@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele, das Kraftwerk deiner Gaben"
 menu_title: ""
-description: "Das Erwachen der Seele, das Kraftwerk deiner Gaben"
+description: "Seretta Kem, empfangen durch Al Fike: „Überall in euch, Geliebte, geschehen kleine Erwachungen. Es gibt Verschiebungen und Veränderungen innerhalb aller …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Menschen oder Propheten können nicht sagen, was in den kommenden Jahrhunderten geschehen wird - es kann nur der Vater wissen"
 menu_title: ""
-description: "Menschen oder Propheten können nicht sagen, was in den kommenden Jahrhunderten geschehen wird - es kann nur der Vater wissen"
+description: "Johannes, empfangen durch James Padgett: „Ich sehe, dass du heute Abend in einem viel besseren Zustand bist und dass deine Seele mehr in Harmonie mit den …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

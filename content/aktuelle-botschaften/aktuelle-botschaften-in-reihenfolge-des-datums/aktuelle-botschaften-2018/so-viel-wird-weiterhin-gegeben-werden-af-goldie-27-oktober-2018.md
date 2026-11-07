@@ -1,7 +1,7 @@
 ---
 title: "So viel wird weiterhin gegeben werden"
 menu_title: ""
-description: "So viel wird weiterhin gegeben werden"
+description: "Goldie, empfangen durch Al Fike: „So bin ich jeden einzelnen Tag bei euch gewesen, um euch meinen Segen und meine Liebe zu bringen.“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

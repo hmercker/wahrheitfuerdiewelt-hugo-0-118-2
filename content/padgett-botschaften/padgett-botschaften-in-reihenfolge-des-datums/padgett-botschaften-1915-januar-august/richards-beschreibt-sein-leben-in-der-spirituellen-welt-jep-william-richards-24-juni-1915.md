@@ -1,7 +1,7 @@
 ---
 title: "Richards beschreibt sein Leben in der spirituellen Welt"
 menu_title: ""
-description: "Richards beschreibt sein Leben in der spirituellen Welt"
+description: "William S. Richards, empfangen durch James Padgett: „Lass mich ein wenig schreiben, denn ich brauche Hilfe. Ich war kein schlechter Mensch, im Sinne …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Euren Verstand und eure Seelen miteinander in Einklang bringen"
 menu_title: ""
-description: "Euren Verstand und eure Seelen miteinander in Einklang bringen"
+description: "Konfuzius, empfangen durch Al Fike: „Meine schönen kleinen Vögel, wie gerne schwärmt ihr zusammen. Wie eifrig seid ihr, eure Reise fortzusetzen und in der …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

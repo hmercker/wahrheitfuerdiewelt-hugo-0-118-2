@@ -1,7 +1,7 @@
 ---
 title: "Erfülle dich im Gebet, um dich auf die kommenden Herausforderungen vorzubereiten"
 menu_title: ""
-description: "Erfülle dich im Gebet, um dich auf die kommenden Herausforderungen vorzubereiten"
+description: "Adriana, empfangen durch Al Fike: „Viele Herausforderungen kommen auf jeden von euch in der kommenden Zeit zu. Es ist gut, dass ihr euch im Gebet erquickt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

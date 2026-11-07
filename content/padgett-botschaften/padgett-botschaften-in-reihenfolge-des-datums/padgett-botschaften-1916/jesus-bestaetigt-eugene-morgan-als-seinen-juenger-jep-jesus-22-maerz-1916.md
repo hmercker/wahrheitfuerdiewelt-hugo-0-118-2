@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt Eugene Morgan als seinen Jünger"
 menu_title: ""
-description: "Jesus bestätigt Eugene Morgan als seinen Jünger"
+description: "Jesus, empfangen durch James Padgett: „Ich werde dir das Gebet jetzt sehr bald geben, und du wirst damit eine spirituelle Erleuchtung über seine Bedeutung …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

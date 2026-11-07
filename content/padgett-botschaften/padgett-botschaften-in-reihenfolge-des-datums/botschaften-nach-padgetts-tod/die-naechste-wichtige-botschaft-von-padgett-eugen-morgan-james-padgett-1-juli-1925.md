@@ -1,7 +1,7 @@
 ---
 title: "Die nächste wichtige Botschaft von Padgett"
 menu_title: ""
-description: "Die nächste wichtige Botschaft von Padgett"
+description: "James E. Padgett, empfangen durch Eugene Morgan: „Unter den heute Abend Anwesenden ist dein alter und sehr erstaunter Freund Padgett. Ja, erstaunt deshalb …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

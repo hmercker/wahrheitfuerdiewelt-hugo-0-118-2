@@ -1,7 +1,7 @@
 ---
 title: "Weiterhin die Wahrheit der Liebe Gottes verbreiten"
 menu_title: ""
-description: "Weiterhin die Wahrheit der Liebe Gottes verbreiten"
+description: "Bartholomäus, empfangen durch Al Fike: „Ich hatte die Erfahrung eines Afrikaners, der zur Zeit Jesu lebte. Hier sind wir zusammen, schöne Freunde der …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

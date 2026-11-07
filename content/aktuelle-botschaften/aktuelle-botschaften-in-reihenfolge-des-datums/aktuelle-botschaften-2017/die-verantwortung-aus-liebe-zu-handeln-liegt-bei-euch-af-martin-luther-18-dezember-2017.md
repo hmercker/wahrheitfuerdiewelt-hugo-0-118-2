@@ -1,7 +1,7 @@
 ---
 title: "Die Verantwortung, aus Liebe zu handeln, liegt bei euch"
 menu_title: ""
-description: "Die Verantwortung, aus Liebe zu handeln, liegt bei euch"
+description: "Martin Luther, empfangen durch Al Fike: „Eine Zeit, in der ihr eure neuen Sensibilitäten und Empfindlichkeiten in die Welt hinaustragt, um sie …“"
 date: 2020-08-01 06:25:48+00:266
 draft: False
 hidden: True

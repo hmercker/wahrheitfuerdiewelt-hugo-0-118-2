@@ -1,7 +1,7 @@
 ---
 title: "Ausgezeichnete Lehrbotschaft über den Willen Gottes und den Willen des Menschen"
 menu_title: ""
-description: "Ausgezeichnete Lehrbotschaft über den Willen Gottes und den Willen des Menschen"
+description: "Augustinus, empfangen durch Al Fike: „Wie viele böse Taten in der Welt werden mit der Vorstellung gerechtfertigt, dass Gott sie verübt, und was für ein …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

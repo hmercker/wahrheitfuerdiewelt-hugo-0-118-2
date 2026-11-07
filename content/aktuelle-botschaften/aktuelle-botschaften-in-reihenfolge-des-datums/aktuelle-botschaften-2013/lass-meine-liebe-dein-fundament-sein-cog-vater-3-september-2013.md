@@ -1,7 +1,7 @@
 ---
 title: "Lass meine Liebe dein Fundament sein"
 menu_title: ""
-description: "Lass meine Liebe dein Fundament sein"
+description: "Vater, empfangen durch Child of God: „Baue dein Leben auf Meine Liebe. Lass Meine Liebe dein Fundament sein.“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

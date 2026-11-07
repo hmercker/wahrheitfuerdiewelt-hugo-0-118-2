@@ -1,7 +1,7 @@
 ---
 title: "Es ist eure Seele, die nach Gottes Ebenbild geschaffen ist"
 menu_title: ""
-description: "Es ist eure Seele, die nach Gottes Ebenbild geschaffen ist"
+description: "Maria, empfangen durch Maureen Cardoso: „Ich bringe euch meine tiefste Liebe, meine Berührung der Gnade, meinen Schauer des Friedens.“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

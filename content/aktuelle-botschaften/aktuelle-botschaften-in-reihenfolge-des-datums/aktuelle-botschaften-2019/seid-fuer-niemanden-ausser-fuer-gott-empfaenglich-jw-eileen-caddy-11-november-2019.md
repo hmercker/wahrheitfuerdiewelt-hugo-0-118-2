@@ -1,7 +1,7 @@
 ---
 title: "Seid für niemanden außer für Gott empfänglich"
 menu_title: ""
-description: "Seid für niemanden außer für Gott empfänglich"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich liebe diese Pforte. 1 Ich möchte euch allen etwas sehr Einfaches vermitteln. Seid niemandem verpflichtet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

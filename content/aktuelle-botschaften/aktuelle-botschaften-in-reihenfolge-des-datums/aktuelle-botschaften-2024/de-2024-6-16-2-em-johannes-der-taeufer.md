@@ -1,7 +1,7 @@
 ---
 title: "Ehrung und Segen zum Vatertag"
 menu_title: ""
-description: "Ehrung und Segen zum Vatertag"
+description: "Johannes der Täufer, empfangen durch Elisabeth Mack: „Ich folge meinem Bruder im Göttlichen Himmel. Ihr alle habt fleißig gearbeitet und aufrichtig darum …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

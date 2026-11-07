@@ -1,7 +1,7 @@
 ---
 title: "Fortschreiten der Seele und Veränderungen erkennen"
 menu_title: ""
-description: "Fortschreiten der Seele und Veränderungen erkennen"
+description: "Augustinus, empfangen durch Helge Mercker: „Ja, du bist umgeben von deinen Führern und deinen Engeln, die dich auf deinen täglichen Wegen begleiten, in …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

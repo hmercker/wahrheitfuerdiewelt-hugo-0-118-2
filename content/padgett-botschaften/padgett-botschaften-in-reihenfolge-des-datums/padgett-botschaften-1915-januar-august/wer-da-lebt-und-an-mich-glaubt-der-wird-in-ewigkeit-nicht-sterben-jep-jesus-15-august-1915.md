@@ -1,7 +1,7 @@
 ---
 title: "Wer da lebt und an mich glaubt, der wird in Ewigkeit nicht sterben"
 menu_title: ""
-description: "Wer da lebt und an mich glaubt, der wird in Ewigkeit nicht sterben"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Nacht mit dir beim Treffen der Christen und sah dass du an verschiedenes dachtest, was ich geschrieben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

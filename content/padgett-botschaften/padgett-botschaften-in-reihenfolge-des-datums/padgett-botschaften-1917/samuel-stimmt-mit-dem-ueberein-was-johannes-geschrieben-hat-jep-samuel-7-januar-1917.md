@@ -1,7 +1,7 @@
 ---
 title: "Samuel stimmt mit dem überein, was Johannes geschrieben hat"
 menu_title: ""
-description: "Samuel stimmt mit dem überein, was Johannes geschrieben hat"
+description: "Samuel, empfangen durch James Padgett: „Ich werde nur ein paar Worte sagen. Du kannst jetzt nach besseren Voraussetzungen streben.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

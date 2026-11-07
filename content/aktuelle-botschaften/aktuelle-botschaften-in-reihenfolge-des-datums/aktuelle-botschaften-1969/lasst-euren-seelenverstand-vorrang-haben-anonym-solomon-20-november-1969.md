@@ -1,7 +1,7 @@
 ---
 title: "Lasst euren Seelenverstand Vorrang haben"
 menu_title: ""
-description: "Lasst euren Seelenverstand Vorrang haben"
+description: "Salomo 1: „Ich möchte heute Abend bei euch sein. Ich möchte die Verschmelzung der Liebe und die Verschmelzung eurer Persönlichkeiten fortsetzen, die …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

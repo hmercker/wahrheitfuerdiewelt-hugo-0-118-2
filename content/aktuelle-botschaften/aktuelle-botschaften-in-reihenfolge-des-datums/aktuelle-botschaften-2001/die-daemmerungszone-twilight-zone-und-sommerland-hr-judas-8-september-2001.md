@@ -1,7 +1,7 @@
 ---
 title: "Die Dämmerungszone (Twilight Zone) und das Sommerland"
 menu_title: ""
-description: "Die Dämmerungszone (Twilight Zone) und das Sommerland"
+description: "Judas, empfangen durch H: „Mein lieber Bruder, heute komme ich, um mit meiner Beschreibung der irdischen Ebenen fortzufahren.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

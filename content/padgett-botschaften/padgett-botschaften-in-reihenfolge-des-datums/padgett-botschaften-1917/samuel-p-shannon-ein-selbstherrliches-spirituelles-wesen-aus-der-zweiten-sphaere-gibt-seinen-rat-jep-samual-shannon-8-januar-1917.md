@@ -1,7 +1,7 @@
 ---
 title: "Samuel P. Shannon: Ein selbstherrliches spirituelles Wesen aus der zweiten Sphäre gibt seinen Rat"
 menu_title: ""
-description: "Samuel P. Shannon: Ein selbstherrliches spirituelles Wesen aus der zweiten Sphäre gibt seinen Rat"
+description: "Shannon, empfangen durch James Padgett: „Laß mich dir sagen, daß du und der Doktor jemanden braucht, der sich um euch in euren mentalen Qualitäten kümmert …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

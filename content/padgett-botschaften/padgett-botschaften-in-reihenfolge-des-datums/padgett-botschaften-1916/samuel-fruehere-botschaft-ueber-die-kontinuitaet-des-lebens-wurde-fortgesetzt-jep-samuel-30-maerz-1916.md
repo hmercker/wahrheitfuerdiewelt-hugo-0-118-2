@@ -1,7 +1,7 @@
 ---
 title: "Samuel: Frühere Botschaft über die Kontinuität des Lebens wurde fortgesetzt"
 menu_title: ""
-description: "Samuel: Frühere Botschaft über die Kontinuität des Lebens wurde fortgesetzt"
+description: "Samuel, empfangen durch James Padgett: „Ich möchte meine Botschaft (Teil 1) zum Thema des ununterbrochenen Lebens eines Menschen nach dem Tod des Körpers …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

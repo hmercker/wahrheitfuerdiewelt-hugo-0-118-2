@@ -1,7 +1,7 @@
 ---
 title: "Kommentare zur Arbeit mit dunklen spirituellen Wesen"
 menu_title: ""
-description: "Kommentare zur Arbeit mit dunklen spirituellen Wesen"
+description: "Lukas, empfangen durch Eugen Morgan: „Millionen haben heute Abend von deinen Diensten Gebrauch gemacht, um uns zu ermöglichen, sie zu visualisieren.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

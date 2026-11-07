@@ -1,7 +1,7 @@
 ---
 title: "Für Gott voranschreiten"
 menu_title: ""
-description: "Für Gott voranschreiten"
+description: "Jeanne d'Arc, empfangen durch Al Fike: „Ich habe ein tiefes Verlangen, Veränderungen in eure Welt zu bringen, die den Trost Gottes, die Liebe Gottes so …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

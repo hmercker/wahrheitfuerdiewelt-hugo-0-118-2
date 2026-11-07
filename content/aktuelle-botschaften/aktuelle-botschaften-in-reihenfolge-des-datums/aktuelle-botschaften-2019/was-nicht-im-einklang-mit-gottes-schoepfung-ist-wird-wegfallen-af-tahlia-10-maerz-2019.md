@@ -1,7 +1,7 @@
 ---
 title: "Was nicht im Einklang mit Gottes Schöpfung ist, wird wegfallen"
 menu_title: ""
-description: "Was nicht im Einklang mit Gottes Schöpfung ist, wird wegfallen"
+description: "Tahlia, empfangen durch Al Fike: „Ihr müsst stark sein, betend und auf den Schöpfer eingestimmt. Gott wird euch auf viele verblüffende Arten gebrauchen …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

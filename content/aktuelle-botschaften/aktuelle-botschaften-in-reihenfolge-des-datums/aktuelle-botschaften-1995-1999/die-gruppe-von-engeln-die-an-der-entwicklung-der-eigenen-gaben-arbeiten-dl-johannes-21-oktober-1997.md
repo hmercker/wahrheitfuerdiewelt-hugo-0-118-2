@@ -1,7 +1,7 @@
 ---
 title: "Die Gruppe von Engeln, die an der Entwicklung der eigenen Gaben arbeiten"
 menu_title: ""
-description: "Die Gruppe von Engeln, die an der Entwicklung der eigenen Gaben arbeiten"
+description: "Johannes, empfangen durch David Lampron: „Eigentlich wurdest du vor einigen Jahren, ganz am Anfang der Reorganisation der Kirche, darüber informiert, dass …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

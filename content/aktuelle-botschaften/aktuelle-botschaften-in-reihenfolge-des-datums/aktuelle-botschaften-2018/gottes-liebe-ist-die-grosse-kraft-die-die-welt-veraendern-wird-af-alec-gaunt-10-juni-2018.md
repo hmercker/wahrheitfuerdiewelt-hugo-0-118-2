@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist die große Kraft, die die Welt verändern wird"
 menu_title: ""
-description: "Gottes Liebe ist die große Kraft, die die Welt verändern wird"
+description: "Alec Gaunt, empfangen durch Al Fike: „Auch ich war vor vielen Jahren, in den Anfängen, ein Teil eurer Gemeinde. Auch ich hatte meine Herausforderungen und …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

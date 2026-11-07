@@ -1,7 +1,7 @@
 ---
 title: "Der einst eiserne Kanzler des Deutschen Reiches glaubt, dass die Deutschen auf Frieden klagen müssen und dass das Reich am Ende ist"
 menu_title: ""
-description: "Der einst eiserne Kanzler des Deutschen Reiches glaubt, dass die Deutschen auf Frieden klagen müssen und dass das Reich am Ende ist"
+description: "Bismarck, empfangen durch James Padgett: „Meine Ansichten basieren auf den Bedingungen, die mir in allen am Krieg beteiligten Ländern bekannt sind.“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

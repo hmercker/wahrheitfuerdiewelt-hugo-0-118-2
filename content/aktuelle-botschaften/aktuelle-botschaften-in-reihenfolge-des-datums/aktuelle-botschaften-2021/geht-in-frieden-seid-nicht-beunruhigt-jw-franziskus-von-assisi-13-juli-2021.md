@@ -1,7 +1,7 @@
 ---
 title: "Geht in Frieden, seid nicht beunruhigt"
 menu_title: ""
-description: "Geht in Frieden, seid nicht beunruhigt"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Meine lieben Brüder, ich sage euch dies. Wenn ihr die Zeit im Gebet zu unserem himmlischen Vater …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

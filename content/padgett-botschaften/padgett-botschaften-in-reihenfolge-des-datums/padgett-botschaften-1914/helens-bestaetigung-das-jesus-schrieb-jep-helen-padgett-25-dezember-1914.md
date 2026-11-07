@@ -1,7 +1,7 @@
 ---
 title: "Helene's Bestätigung das Jesus schrieb"
 menu_title: ""
-description: "Helene's Bestätigung das Jesus schrieb"
+description: "Helen Padgett, empfangen durch James Padgett: „Du bist zu sehr vom Herrn geliebt, als dass du jemals unglücklich sein könntest. Lass mich dir also Gute …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Perry schrieb über seinen Selbstmord und seinen Zustand in der Dunkelheit"
 menu_title: ""
-description: "Perry schrieb über seinen Selbstmord und seinen Zustand in der Dunkelheit"
+description: "Ross Perry, empfangen von James Padgett: „Ich möchte dir sagen, dass ich mich in einem Zustand großer Dunkelheit und großen Leids befinde und nicht in der …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

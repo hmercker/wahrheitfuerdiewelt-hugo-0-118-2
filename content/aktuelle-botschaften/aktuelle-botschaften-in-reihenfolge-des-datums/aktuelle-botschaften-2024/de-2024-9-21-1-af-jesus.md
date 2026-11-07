@@ -1,7 +1,7 @@
 ---
 title: "Einssein mit Gott"
 menu_title: ""
-description: "Einssein mit Gott"
+description: "Jesus, empfangen durch Al Fike: „Um euch zu versichern, dass ihr auf dem Weg seid, der zum himmlischen Königreich und zum Einssein mit Gott führt, wenn ihr …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

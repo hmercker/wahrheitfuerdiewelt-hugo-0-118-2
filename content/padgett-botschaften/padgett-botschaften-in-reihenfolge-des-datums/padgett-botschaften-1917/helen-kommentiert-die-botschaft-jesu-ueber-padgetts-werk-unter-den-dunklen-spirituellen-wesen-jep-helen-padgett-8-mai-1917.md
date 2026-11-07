@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Botschaft Jesu über Padgetts Werk unter den dunklen spirituellen Wesen"
 menu_title: ""
-description: "Helen kommentiert die Botschaft Jesu über Padgetts Werk unter den dunklen spirituellen Wesen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hattest heute Abend eine Botschaft vom Meister, die du nicht erwartet hast.“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

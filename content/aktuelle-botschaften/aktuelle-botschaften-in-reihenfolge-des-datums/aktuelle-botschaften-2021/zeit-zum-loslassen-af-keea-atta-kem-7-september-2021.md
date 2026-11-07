@@ -1,7 +1,7 @@
 ---
 title: "Zeit zum Loslassen"
 menu_title: ""
-description: "Zeit zum Loslassen"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ihr habt also die Macht des dunklen Raums gekostet. Ihr seid zusammengekommen, um eure Verwandtschaft miteinander …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

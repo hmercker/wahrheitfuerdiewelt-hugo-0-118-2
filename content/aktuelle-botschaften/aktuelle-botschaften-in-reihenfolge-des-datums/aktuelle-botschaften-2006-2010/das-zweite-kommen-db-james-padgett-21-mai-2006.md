@@ -1,7 +1,7 @@
 ---
 title: "Das zweite Kommen"
 menu_title: ""
-description: "Das zweite Kommen"
+description: "James E. Padgett, empfangen durch D.B.: „Während wir beginnen, Daniel, sind einige andere hier, die ein Lichtband um dich herum bilden möchten, und ich …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

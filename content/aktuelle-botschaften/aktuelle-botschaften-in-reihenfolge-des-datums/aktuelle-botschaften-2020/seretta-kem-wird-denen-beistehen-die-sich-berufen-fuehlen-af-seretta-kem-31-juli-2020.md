@@ -1,7 +1,7 @@
 ---
 title: "Seretta Kem wird denen beistehen, die sich berufen fühlen"
 menu_title: ""
-description: "Seretta Kem wird denen beistehen, die sich berufen fühlen"
+description: "Seretta Kem, empfangen durch Al Fike: „Liebe und Licht und alles andere wird folgen. Ihr werdet geführt werden.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

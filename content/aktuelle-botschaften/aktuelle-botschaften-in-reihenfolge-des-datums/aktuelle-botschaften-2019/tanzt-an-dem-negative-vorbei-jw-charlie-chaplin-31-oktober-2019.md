@@ -1,7 +1,7 @@
 ---
 title: "Tanzt an dem Negative vorbei"
 menu_title: ""
-description: "Tanzt an dem Negative vorbei"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Ich möchte euch nur ein paar Dinge sagen. Wenn ihr euch erinnern könnt, hatte ich eine besondere Art zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

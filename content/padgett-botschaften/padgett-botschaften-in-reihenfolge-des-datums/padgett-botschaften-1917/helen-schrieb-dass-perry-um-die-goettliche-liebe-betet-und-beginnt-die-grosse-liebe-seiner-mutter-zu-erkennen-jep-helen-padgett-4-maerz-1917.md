@@ -1,7 +1,7 @@
 ---
 title: "Helen schrieb, dass Perry um die Göttliche Liebe betet und beginnt die große Liebe seiner Mutter zu erkennen"
 menu_title: ""
-description: "Helen schrieb, dass Perry um die Göttliche Liebe betet und beginnt die große Liebe seiner Mutter zu erkennen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hattest eine wunderbare Nacht, und wenn du, wie du sagst, die Szene deiner Umgebung sehen …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

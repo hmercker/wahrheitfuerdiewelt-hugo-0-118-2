@@ -1,7 +1,7 @@
 ---
 title: "Predigt 33 - Jesaja verkündet das Gericht Gottes über die Nationen"
 menu_title: ""
-description: "Predigt 33 - Jesaja verkündet das Gericht Gottes über die Nationen"
+description: "Jesus, empfangen durch Dr Samuels: „Als Hiskia die neutralistische Politik Jesajas fortsetzte, wurde Judah stark und wohlhabend, und die Händler Jerusalems …“"
 date: 2020-08-01 06:25:48+00:05
 draft: False
 hidden: True

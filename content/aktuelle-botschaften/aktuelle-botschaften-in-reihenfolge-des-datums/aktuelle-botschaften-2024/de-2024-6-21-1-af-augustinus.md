@@ -1,7 +1,7 @@
 ---
 title: "Mehr Ermutigung für die Vermittlung der Wahrheiten von Gottes Göttlicher Liebe"
 menu_title: ""
-description: "Mehr Ermutigung für die Vermittlung der Wahrheiten von Gottes Göttlicher Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Denn wir sehen unter euch viele, die sich dem Gebet der Liebe des Vaters verschrieben haben und ernsthaft nach dem …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

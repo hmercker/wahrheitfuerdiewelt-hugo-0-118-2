@@ -1,7 +1,7 @@
 ---
 title: "Dienst erweckt die Seele"
 menu_title: ""
-description: "Dienst erweckt die Seele"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Es war ein sehr großartiger Tag, am Dienst teilzunehmen, euren Brüdern und Schwestern zu dienen, eurem …“"
 date: 2020-08-01 06:25:48+00:254
 draft: False
 hidden: True

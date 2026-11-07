@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung durch Petrus "
 menu_title: ""
-description: "Eine Bestätigung durch Petrus "
+description: "Petrus, empfangen durch James Padgett: „Ich möchte mein Zeugnis zu seinem hinzufügen: dass du die wahre Auswahl des Meisters bist, um seine Arbeit zu tun  …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

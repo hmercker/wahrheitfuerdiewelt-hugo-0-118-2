@@ -1,7 +1,7 @@
 ---
 title: "Der Weg des Lichts"
 menu_title: ""
-description: "Der Weg des Lichts"
+description: "Orion, empfangen durch Al Fike: „Der Weg zum Licht steht euch offen, geliebte Brüder und Schwestern. Dies ist ein bedeutendes Geschenk, das euch gegeben …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

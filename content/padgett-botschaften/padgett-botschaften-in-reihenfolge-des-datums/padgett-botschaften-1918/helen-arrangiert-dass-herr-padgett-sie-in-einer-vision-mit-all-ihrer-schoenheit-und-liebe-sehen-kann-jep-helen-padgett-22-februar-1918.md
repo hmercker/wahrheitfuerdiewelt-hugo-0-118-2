@@ -1,7 +1,7 @@
 ---
 title: "Helen arrangiert, dass Herr Padgett sie in einer Vision mit all ihrer Schönheit und Liebe sehen kann"
 menu_title: ""
-description: "Helen arrangiert, dass Herr Padgett sie in einer Vision mit all ihrer Schönheit und Liebe sehen kann"
+description: "Helen, empfangen durch James Padgett: „Du bist heute Nacht glücklich gewesen, denn ich war bei dir und konnte dein Glück sehen und spüren.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

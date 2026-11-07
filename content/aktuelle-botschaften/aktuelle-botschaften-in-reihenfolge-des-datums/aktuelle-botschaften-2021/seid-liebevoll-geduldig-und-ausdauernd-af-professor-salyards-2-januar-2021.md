@@ -1,7 +1,7 @@
 ---
 title: "Seid liebevoll, geduldig und ausdauernd"
 menu_title: ""
-description: "Seid liebevoll, geduldig und ausdauernd"
+description: "Professor Salyards, empfangen durch Al Fike: „Oh meine schönen Freunde, wenn ihr nur einen Tag im Himmel verbringen könntet und diese Dinge verstehen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

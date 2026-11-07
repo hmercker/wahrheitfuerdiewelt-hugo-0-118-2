@@ -1,7 +1,7 @@
 ---
 title: "Ich bin zutiefst bewegt von euren Bemühungen"
 menu_title: ""
-description: "Ich bin zutiefst bewegt von euren Bemühungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir sind sehr amüsiert, denn wir haben euch reichlich Informationen und Botschaften gegeben.“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Differenzen mit Liebe überbrücken"
 menu_title: ""
-description: "Differenzen mit Liebe überbrücken"
+description: "Joschua, empfangen durch Al Fike: „Diese Instrumente haben die Welt ausgiebig bereist und haben die unterschiedlichen Kulturen, Haltungen ihrer Brüder und …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

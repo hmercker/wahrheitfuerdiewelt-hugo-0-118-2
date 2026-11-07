@@ -1,7 +1,7 @@
 ---
 title: "Behaltet eure Augen auf die Trophäe gerichtet"
 menu_title: ""
-description: "Behaltet eure Augen auf die Trophäe gerichtet"
+description: "Martin Luther King jr, empfangen durch Jimbeau Wals: „Danke, dass ihr mir vertraut habt und mir erlaubt, zu kommen und in eurem Kreis zu sein. Auf meiner …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

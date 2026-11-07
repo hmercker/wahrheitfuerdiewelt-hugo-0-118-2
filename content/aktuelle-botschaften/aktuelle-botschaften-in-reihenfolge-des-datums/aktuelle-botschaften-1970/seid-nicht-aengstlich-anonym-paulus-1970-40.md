@@ -1,7 +1,7 @@
 ---
 title: "Seid nicht ängstlich"
 menu_title: ""
-description: "Seid nicht ängstlich"
+description: "Paulus: „Es ist nicht leicht, meine Freunde, wenn man als Diener für Gott hinausgeht und bereit ist, viele Dinge loszulassen und aufzugeben, die man für …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

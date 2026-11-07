@@ -1,7 +1,7 @@
 ---
 title: "Ihr blickt in die Zukunft"
 menu_title: ""
-description: "Ihr blickt in die Zukunft"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr schaut mit vielen Fragen in die Zukunft und fragt euch, was die nächsten Schritte sein werden, wie ihr das …“"
 date: 2020-08-01 06:25:48+00:265
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Antwortet auf die Einladung, Gott zu dienen"
 menu_title: ""
-description: "Antwortet auf die Einladung, Gott zu dienen"
+description: "Michael Colliers, empfangen durch Al Fike: „Ein Land, in dem ich geboren wurde und mein Leben auf der Erde verbracht habe. Ich habe mich zu einem …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

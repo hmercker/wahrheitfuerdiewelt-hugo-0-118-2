@@ -1,7 +1,7 @@
 ---
 title: "Mary erzählt von dem großen Geschenk, das ihr Seelenpartner Leslie erhalten wird"
 menu_title: ""
-description: "Mary erzählt von dem großen Geschenk, das ihr Seelenpartner Leslie erhalten wird"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich wusste dies schon seit einiger Zeit, aber es war mir nicht erlaubt, diese Tatsache preiszugeben, und nun …“"
 date: 2020-08-01 06:25:48+00:230
 draft: False
 hidden: True

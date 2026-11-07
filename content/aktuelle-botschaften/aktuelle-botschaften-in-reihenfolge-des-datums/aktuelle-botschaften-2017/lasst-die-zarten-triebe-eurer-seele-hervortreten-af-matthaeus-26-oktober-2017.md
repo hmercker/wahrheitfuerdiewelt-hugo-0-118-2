@@ -1,7 +1,7 @@
 ---
 title: "Lasst die zarten Triebe eurer Seele hervortreten"
 menu_title: ""
-description: "Lasst die zarten Triebe eurer Seele hervortreten"
+description: "Matthäus, empfangen durch Al Fike: „Ihr streckt euch in euren Bemühungen tatsächlich zu Gott hinauf, und ja, der Meister Jesus ist gekommen, um euch zu …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

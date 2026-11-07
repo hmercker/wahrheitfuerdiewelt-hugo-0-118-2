@@ -1,7 +1,7 @@
 ---
 title: "Spricht Klartext über das Vorankommen der Gruppe"
 menu_title: ""
-description: "Spricht Klartext über das Vorankommen der Gruppe"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ich möchte über den Fortschritt dieser Gruppe sprechen, über die Herausforderungen und die Bedingungen, die ihr in …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

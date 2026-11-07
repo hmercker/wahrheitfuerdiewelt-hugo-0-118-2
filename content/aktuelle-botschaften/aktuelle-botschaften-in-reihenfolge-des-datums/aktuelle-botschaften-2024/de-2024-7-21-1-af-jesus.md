@@ -1,7 +1,7 @@
 ---
 title: "Drängt uns dazu, Lichter in der Welt zu sein"
 menu_title: ""
-description: "Drängt uns dazu, Lichter in der Welt zu sein"
+description: "Jesus, empfangen durch Al Fike: „Ihre Macht ist das größte Geschenk, das einem Sterblichen oder einem spirituellen Wesen gemacht werden kann.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

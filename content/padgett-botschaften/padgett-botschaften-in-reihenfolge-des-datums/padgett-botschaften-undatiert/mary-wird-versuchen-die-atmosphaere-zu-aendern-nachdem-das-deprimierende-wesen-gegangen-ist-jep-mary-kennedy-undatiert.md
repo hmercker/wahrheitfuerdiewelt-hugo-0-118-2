@@ -1,7 +1,7 @@
 ---
 title: "Mary wird versuchen, die Atmosphäre zu ändern, nachdem das deprimierende Wesen gegangen ist"
 menu_title: ""
-description: "Mary wird versuchen, die Atmosphäre zu ändern, nachdem das deprimierende Wesen gegangen ist"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, lass mich versuchen, die Umgebung angenehmer zu gestalten, denn der Einfluss, den das spirituelle Wesen …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

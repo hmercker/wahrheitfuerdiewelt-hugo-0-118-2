@@ -1,7 +1,7 @@
 ---
 title: "Lektion 13 - Die schöpferische Kraft der Menschheit wird durch die Göttliche Liebe freigesetzt"
 menu_title: ""
-description: "Lektion 13 - Die schöpferische Kraft der Menschheit wird durch die Göttliche Liebe freigesetzt"
+description: "Jesus, empfangen durch Al Fike: „Ich danke euch für eure Gebete und eure Bemühungen, einen klaren Kanal der Wahrheit in die Welt zu bringen, einen Kanal …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Freiheit durch die Aktivierung des Seelen-Verstandes"
 menu_title: ""
-description: "Freiheit durch die Aktivierung des Seelen-Verstandes"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. So wie ihr durch einen Garten geht und die prächtigen und farbenfrohen Blumen zu …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

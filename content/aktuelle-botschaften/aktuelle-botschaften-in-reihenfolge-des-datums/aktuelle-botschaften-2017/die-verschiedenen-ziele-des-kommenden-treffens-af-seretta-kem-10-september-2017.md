@@ -1,7 +1,7 @@
 ---
 title: "Die verschiedenen Ziele des kommenden Treffens"
 menu_title: ""
-description: "Die verschiedenen Ziele des kommenden Treffens"
+description: "Seretta Kem, empfangen durch Al Fike: „Jeder von euch fährt fort, sich vorzubereiten, Zeiten des Gebets aufzusuchen, in guter körperlicher Verfassung zu …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

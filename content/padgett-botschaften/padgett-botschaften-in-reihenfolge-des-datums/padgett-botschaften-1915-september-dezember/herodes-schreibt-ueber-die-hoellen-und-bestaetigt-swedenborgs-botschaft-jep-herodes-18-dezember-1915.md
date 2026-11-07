@@ -1,7 +1,7 @@
 ---
 title: "Herodes schreibt über die Höllen und bestätigt Swedenborgs Botschaft"
 menu_title: ""
-description: "Herodes schreibt über die Höllen und bestätigt Swedenborgs Botschaft"
+description: "Herodes, empfangen durch James Padgett: „Erlaube mir nur eine Zeile, bevor du schliesst, denn ich möchte dir eine Angelegenheit mitteilen, die für dich im …“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

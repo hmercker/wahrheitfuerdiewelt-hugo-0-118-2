@@ -1,7 +1,7 @@
 ---
 title: "Der Zustand der Seele, während und nachdem die Göttliche Liebe in sie fließt"
 menu_title: ""
-description: "Der Zustand der Seele, während und nachdem die Göttliche Liebe in sie fließt"
+description: "Johannes, empfangen durch James Padgett: „Nun, ich werde nicht sehr lange schreiben, und was ich sagen werde, wird mit \"dem Zustand der Seele zu tun haben …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

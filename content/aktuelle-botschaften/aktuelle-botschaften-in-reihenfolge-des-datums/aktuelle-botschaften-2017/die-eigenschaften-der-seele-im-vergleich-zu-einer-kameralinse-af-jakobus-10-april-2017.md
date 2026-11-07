@@ -1,7 +1,7 @@
 ---
 title: "Die Eigenschaften der Seele im Vergleich zu einer Kameralinse"
 menu_title: ""
-description: "Die Eigenschaften der Seele im Vergleich zu einer Kameralinse"
+description: "Jakobus, empfangen durch Al Fike: „Ich habe eure Gespräche über den Willen Gottes im Gegensatz zu eurem eigenen Willen und eurem Wunsch, im Licht in der …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

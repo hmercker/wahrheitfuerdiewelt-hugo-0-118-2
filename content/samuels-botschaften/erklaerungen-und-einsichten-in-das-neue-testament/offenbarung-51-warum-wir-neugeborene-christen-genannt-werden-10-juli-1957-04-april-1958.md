@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 51: Warum wir „Neugeborene Christen“ genannt werden"
 menu_title: ""
-description: "Offenbarung 51: Warum wir „Neugeborene Christen“ genannt werden"
+description: "Jesus, empfangen durch Dr Samuels: „Stone Foundation, um bei unserem Treffen anwesend zu sein und im Lichte dessen, was sich darin abspielt, Kommentare und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

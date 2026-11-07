@@ -1,7 +1,7 @@
 ---
 title: "Gespräche mit Yogananda"
 menu_title: ""
-description: "Gespräche mit Yogananda"
+description: "Ein Teil der Botschaften wurden durch Al Fike empfangen: „Hintergrund – Wer war Paramahansa Yogananda zu Lebzeiten hier auf Erden? Botschaften von …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

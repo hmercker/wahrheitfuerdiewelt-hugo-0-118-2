@@ -1,7 +1,7 @@
 ---
 title: "Welche Großartigkeit liegt vor uns!"
 menu_title: ""
-description: "Welche Großartigkeit liegt vor uns!"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Lieber Freund meiner Seele, geliebter Bruder auf dem Pfad der Liebe Gottes, es ist mir eine Freude, mit euch in …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

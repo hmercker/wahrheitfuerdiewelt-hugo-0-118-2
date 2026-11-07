@@ -1,7 +1,7 @@
 ---
 title: "Lukas bestätigt, dass Swedenborg schrieb und dass es wichtig ist, dass Fehler in seinen Schriften korrigiert werden"
 menu_title: ""
-description: "Lukas bestätigt, dass Swedenborg schrieb und dass es wichtig ist, dass Fehler in seinen Schriften korrigiert werden"
+description: "Lukas, empfangen durch James Padgett: „Wir alle wünschen uns, dass er dir über die Themen schreibt, über die er den Wunsch geäußert hat, darüber zu …“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Stellt sich vor, um uns bei unserer Seelenentwicklung zu helfen"
 menu_title: ""
-description: "Stellt sich vor, um uns bei unserer Seelenentwicklung zu helfen"
+description: "Timothy, empfangen durch Elisabeth Mack: „Wisst, dass unser Vater derselbe ist wie euer Vater. Wisst, dass wir kommen und unter euch wandeln.“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

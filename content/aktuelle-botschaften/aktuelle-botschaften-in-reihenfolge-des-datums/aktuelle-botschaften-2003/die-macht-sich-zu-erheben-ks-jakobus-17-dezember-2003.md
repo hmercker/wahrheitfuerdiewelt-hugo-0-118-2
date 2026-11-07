@@ -1,7 +1,7 @@
 ---
 title: "Die Macht, sich zu erheben"
 menu_title: ""
-description: "Die Macht, sich zu erheben"
+description: "Jakobus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich spüre ein Stampfen in meinem rechten Ohr und fühle, dass es vielleicht an meinem …“"
 date: 2020-08-01 06:25:48+00:285
 draft: False
 hidden: True

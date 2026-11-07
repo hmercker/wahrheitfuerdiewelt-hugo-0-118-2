@@ -1,7 +1,7 @@
 ---
 title: "Das Schicksal dieser Welt hängt von der Entscheidung jeder Seele ab"
 menu_title: ""
-description: "Das Schicksal dieser Welt hängt von der Entscheidung jeder Seele ab"
+description: "Andreas, empfangen durch Al Fike: „Das Schicksal der Welt hängt von jeder Seele und den Entscheidungen ab, die sie in dieser Welt trifft.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

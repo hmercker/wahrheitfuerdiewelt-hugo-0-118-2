@@ -1,7 +1,7 @@
 ---
 title: "Wir sind bei euch, wenn ihr den Weg der Liebe geht"
 menu_title: ""
-description: "Wir sind bei euch, wenn ihr den Weg der Liebe geht"
+description: "Martha, empfangen durch Al Fike: „Ihr wisst, wenn wir die Zustände der Welt und die Zustände der Seelen, die diese Welt bewohnen, sehen, ist es entmutigend …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

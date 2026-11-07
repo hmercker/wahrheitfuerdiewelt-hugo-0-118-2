@@ -1,7 +1,7 @@
 ---
 title: "Cornelius erzählt von den zahlreichen spirituellen Zuhörern, die den von Herrn Padgett erhaltenen Schriften beiwohnen "
 menu_title: ""
-description: "Cornelius erzählt von den zahlreichen spirituellen Zuhörern, die den von Herrn Padgett erhaltenen Schriften beiwohnen "
+description: "Cornelius, empfangen durch James Padgett: „Ich werde nur ein oder zwei Zeilen schreiben, da ich an deinem Verstand sehe, dass du bestrebt bist, das Gebet …“"
 date: 2020-08-01 06:25:48+00:279
 draft: False
 hidden: True

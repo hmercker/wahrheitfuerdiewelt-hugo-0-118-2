@@ -1,7 +1,7 @@
 ---
 title: "Seid bereit, eurer Führung zu folgen"
 menu_title: ""
-description: "Seid bereit, eurer Führung zu folgen"
+description: "Matthäus, empfangen durch Maureen Cardoso: „Ich schließe mich euch in dieser Zeit des Gebets an, in der ihr eure Seelen öffnet und euch danach sehnt, dass …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

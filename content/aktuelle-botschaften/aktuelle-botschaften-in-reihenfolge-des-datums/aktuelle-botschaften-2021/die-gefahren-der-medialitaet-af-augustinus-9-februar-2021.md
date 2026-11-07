@@ -1,7 +1,7 @@
 ---
 title: "Die Gefahren der Medialität "
 menu_title: ""
-description: "Die Gefahren der Medialität "
+description: "Augustinus, empfangen durch Al Fike: „Ah die Fallstricke der Medialität, sie sind groß und es gibt viele. Dennoch bringt dieser designierte Dienst ein …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

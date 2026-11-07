@@ -1,7 +1,7 @@
 ---
 title: "Eine tiefe Hingabe einzugehen, um sich nach Gottes Liebe zu sehnen"
 menu_title: ""
-description: "Eine tiefe Hingabe einzugehen, um sich nach Gottes Liebe zu sehnen"
+description: "Johannes, empfangen durch Al Fike: „Einige von euch kennen mich gut und einige nicht, aber ich kenne euch alle sehr gut, so wie viele der himmlischen Engel …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Trage ein Lied in deinem Herzen"
 menu_title: ""
-description: "Trage ein Lied in deinem Herzen"
+description: "Inayat Kahn, empfangen durch Jimbeau Walsh: „Ich möchte, dass ihr über den Klang eurer Stimme nachdenkt, über die Schwingung, die sie trägt, darüber, wo …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

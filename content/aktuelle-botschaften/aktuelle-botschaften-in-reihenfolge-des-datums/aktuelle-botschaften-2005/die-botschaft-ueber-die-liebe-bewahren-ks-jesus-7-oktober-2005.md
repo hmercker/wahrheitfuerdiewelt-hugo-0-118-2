@@ -1,7 +1,7 @@
 ---
 title: "Die Botschaft über die Liebe bewahren"
 menu_title: ""
-description: "Die Botschaft über die Liebe bewahren"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wir sind jetzt hier, um zu schreiben, liebe Schwester in Christus. ... Ich glaube, du weißt, dass wir nicht alle …“"
 date: 2020-08-01 06:25:48+00:305
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eure Herausforderung ist es, alles loszulassen, was nicht aus Liebe ist"
 menu_title: ""
-description: "Eure Herausforderung ist es, alles loszulassen, was nicht aus Liebe ist"
+description: "Matthäus, empfangen durch Al Fike: „Wie begrenzt ist eure Perspektive hier auf der Erde und wie schwierig ist es für euch, über eure täglichen Routinen und …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

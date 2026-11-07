@@ -1,7 +1,7 @@
 ---
 title: "Der Geist der Wahrheit"
 menu_title: ""
-description: "Der Geist der Wahrheit"
+description: "Jesus, empfangen durch Al Fike: „Einige haben mich gebeten, über das Thema des Geistes der Wahrheit zu sprechen, und ich werde Folgendes sagen: Der Geist …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Widersprüche zwischen Verstand und Seele"
 menu_title: ""
-description: "Die Widersprüche zwischen Verstand und Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte über meine gestrige Botschaft hinausgehen und über die Widersprüche zwischen dem Verstand und der Seele …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

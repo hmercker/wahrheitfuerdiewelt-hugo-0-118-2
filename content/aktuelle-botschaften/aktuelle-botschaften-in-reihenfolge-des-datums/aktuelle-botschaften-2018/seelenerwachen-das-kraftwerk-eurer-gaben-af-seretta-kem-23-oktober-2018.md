@@ -1,7 +1,7 @@
 ---
 title: "Seelenerwachen, das Kraftwerk eurer Gaben"
 menu_title: ""
-description: "Seelenerwachen, das Kraftwerk eurer Gaben"
+description: "Seretta Kem, empfangen durch Al Fike: „Überall in euch, ihr Geliebten, finden kleine Erwachungen statt. Es gibt Verschiebungen und Veränderungen innerhalb …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

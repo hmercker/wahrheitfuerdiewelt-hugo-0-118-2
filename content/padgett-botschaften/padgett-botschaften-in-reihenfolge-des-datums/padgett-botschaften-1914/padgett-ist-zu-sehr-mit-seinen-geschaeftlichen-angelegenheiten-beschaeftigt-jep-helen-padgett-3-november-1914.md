@@ -1,7 +1,7 @@
 ---
 title: "Padgett ist zu sehr mit seinen geschäftlichen Angelegenheiten beschäftigt"
 menu_title: ""
-description: "Padgett ist zu sehr mit seinen geschäftlichen Angelegenheiten beschäftigt"
+description: "Helen, empfangen durch James Padgett: „Du bist zu nervös um zu schreiben. Du musst früh zu Bett gehen und dich ausruhen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

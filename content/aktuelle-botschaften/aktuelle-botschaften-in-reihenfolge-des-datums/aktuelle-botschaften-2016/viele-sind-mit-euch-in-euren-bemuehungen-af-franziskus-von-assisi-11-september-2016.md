@@ -1,7 +1,7 @@
 ---
 title: "Viele sind mit euch in euren Bemühungen"
 menu_title: ""
-description: "Viele sind mit euch in euren Bemühungen"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Seid gesegnet, ihr Geliebten. Auf diese einfache Weise tut ihr das Werk Gottes.“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

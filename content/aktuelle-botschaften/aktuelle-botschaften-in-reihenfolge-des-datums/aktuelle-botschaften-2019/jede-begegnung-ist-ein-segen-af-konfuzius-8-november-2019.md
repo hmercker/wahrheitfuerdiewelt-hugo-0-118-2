@@ -1,7 +1,7 @@
 ---
 title: "Jede Begegnung ist ein Segen"
 menu_title: ""
-description: "Jede Begegnung ist ein Segen"
+description: "Konfuzius, empfangen durch Al Fike: „Geliebte Seelen, es ist Konfuzius hier. Ich bringe euch meinen Segen, geliebte Seelen, unerschrockene Reisende auf dem …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Buddha lehrt nicht mehr die Reinkarnation"
 menu_title: ""
-description: "Buddha lehrt nicht mehr die Reinkarnation"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Schatz, du hast dich sehr für das Buch (Die Geburt Buddhas) interessiert, das du gerade gelesen hast, und …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

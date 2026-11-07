@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung für W___"
 menu_title: ""
-description: "Ermutigung für W___"
+description: "Maria & Johannes, empfangen durch Amada Reza: „[Lieber Gott, ich bete um ein Einströmen Deiner Liebe in meine Seele und bitte Dich, dass Du mir hilfst …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

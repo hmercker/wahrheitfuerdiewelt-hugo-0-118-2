@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert das Buch 'The Life Beyond Death', das Herr Padgett las"
 menu_title: ""
-description: "Helen kommentiert das Buch 'The Life Beyond Death', das Herr Padgett las"
+description: "Helen, empfangen durch James Padgett: „Nun, meine Liebe, wie ich sehe, hast du dich sehr für das Buch (\"Das Leben nach dem Tod\" von Yogi Ramasharaka) …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus sagt, dass es der Grad des Glaubens ist der es ermöglicht eine Wahrheit zu erkennen"
 menu_title: ""
-description: "Jesus sagt, dass es der Grad des Glaubens ist der es ermöglicht eine Wahrheit zu erkennen"
+description: "Jesus, empfangen durch James Padgett: „(Glaube:) Es ist jenes Ausmaß an Glauben, welches es dir ermöglicht zu wissen, als Wirklichkeit, dass das was sich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

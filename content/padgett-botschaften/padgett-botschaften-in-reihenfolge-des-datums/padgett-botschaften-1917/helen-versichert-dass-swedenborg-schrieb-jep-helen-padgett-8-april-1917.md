@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert, dass Swedenborg schrieb"
 menu_title: ""
-description: "Helen versichert, dass Swedenborg schrieb"
+description: "Helen, empfangen durch James Padgett: „Er hat deine Fragen tatsächlich mit seinen eigenen Worten beantwortet, und kein Gedanke, der in seinen Antworten …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mary ist in die gleiche Sphäre vorgedrungen, in der auch Helen Padgett wohnt"
 menu_title: ""
-description: "Mary ist in die gleiche Sphäre vorgedrungen, in der auch Helen Padgett wohnt"
+description: "Mary Kennedy, empfangen durch James Padgett: „Mary, du bist herzlich eingeladen, ein paar Worte an den Doktor zu richten, auch wenn er sie nicht verdient hat.“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

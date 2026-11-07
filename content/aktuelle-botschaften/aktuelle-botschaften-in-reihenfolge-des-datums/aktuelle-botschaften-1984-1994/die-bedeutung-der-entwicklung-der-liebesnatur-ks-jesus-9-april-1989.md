@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung der Entwicklung der Liebesnatur"
 menu_title: ""
-description: "Die Bedeutung der Entwicklung der Liebesnatur"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wie du erkennst, ist der Mensch zum größten Teil extrem aus dem Gleichgewicht zwischen seiner spirituellen und …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

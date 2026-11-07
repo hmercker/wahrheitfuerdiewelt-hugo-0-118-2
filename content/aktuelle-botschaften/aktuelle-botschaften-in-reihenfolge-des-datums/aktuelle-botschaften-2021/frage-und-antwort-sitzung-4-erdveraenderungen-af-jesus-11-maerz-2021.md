@@ -1,7 +1,7 @@
 ---
 title: "Frage und Antwort Sitzung 4 - Erdveränderungen"
 menu_title: ""
-description: "Frage und Antwort Sitzung 4 - Erdveränderungen"
+description: "Jesus, empfangen durch Al Fike: „Mögen die Winde des Wandels Segen über euer Leben wehen und eure Seelen und euren Verstand für alles, was Wahrheit, Licht …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

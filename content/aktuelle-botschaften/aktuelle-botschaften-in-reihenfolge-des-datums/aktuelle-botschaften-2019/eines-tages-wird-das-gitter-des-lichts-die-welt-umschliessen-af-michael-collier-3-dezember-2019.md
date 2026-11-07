@@ -1,7 +1,7 @@
 ---
 title: "Eines Tages wird das Gitter des Lichts die Welt umschließen"
 menu_title: ""
-description: "Eines Tages wird das Gitter des Lichts die Welt umschließen"
+description: "Michael Collier, empfangen durch Al Fike: „Ja, ich darf über die Küsten dieses fernen Landes (Australien) hinaus reisen und heute bei euch sein und mit …“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

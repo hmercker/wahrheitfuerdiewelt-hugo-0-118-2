@@ -1,7 +1,7 @@
 ---
 title: "Seid nicht ängstlich"
 menu_title: ""
-description: "Seid nicht ängstlich"
+description: "Barbara Davies, empfangen durch Al Fike: „Ich kenne jeden von euch gut. Wir haben uns schon oft im Schlaf miteinander unterhalten, und ich empfinde es als …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

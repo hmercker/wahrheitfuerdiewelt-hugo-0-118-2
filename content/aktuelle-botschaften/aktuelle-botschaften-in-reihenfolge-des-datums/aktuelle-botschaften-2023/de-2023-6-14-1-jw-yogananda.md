@@ -1,7 +1,7 @@
 ---
 title: "All der Frieden und die Stille"
 menu_title: ""
-description: "All der Frieden und die Stille"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Erlaube dem Frieden und der Stille dieses Gebets, euer Herz zu öffnen. Erlaubt euren Seelen, sich nach der Liebe …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

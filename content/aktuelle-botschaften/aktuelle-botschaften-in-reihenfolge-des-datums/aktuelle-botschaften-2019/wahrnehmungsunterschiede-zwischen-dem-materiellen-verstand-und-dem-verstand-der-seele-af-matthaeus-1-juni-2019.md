@@ -1,7 +1,7 @@
 ---
 title: "Wahrnehmungsunterschiede zwischen dem materiellen Verstand und dem Verstand der Seele"
 menu_title: ""
-description: "Wahrnehmungsunterschiede zwischen dem materiellen Verstand und dem Verstand der Seele"
+description: "Matthäus, empfangen durch Al Fike: „Die meisten, die in eurer Welt leben und auf einem bestimmten Weg des Fortschritts in ihrem spirituellen Verständnis …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert Padgett, dass es wirklich Jesus war, der Samstagabend geschrieben hat"
 menu_title: ""
-description: "Helen versichert Padgett, dass es wirklich Jesus war, der Samstagabend geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Das war ich und ich war so glücklich. Du brauchst nicht unglücklich zu sein, da ich immer bei dir bin und du wirst …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

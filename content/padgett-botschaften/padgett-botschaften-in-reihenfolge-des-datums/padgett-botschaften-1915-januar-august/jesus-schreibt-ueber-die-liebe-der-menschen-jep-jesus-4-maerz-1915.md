@@ -1,7 +1,7 @@
 ---
 title: "Jesus schreibt über die Liebe der Menschen"
 menu_title: ""
-description: "Jesus schreibt über die Liebe der Menschen"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte heute Abend etwas zur Liebe der Menschen schreiben. Diese Liebe ist eine Liebe, welche von der Menschheit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

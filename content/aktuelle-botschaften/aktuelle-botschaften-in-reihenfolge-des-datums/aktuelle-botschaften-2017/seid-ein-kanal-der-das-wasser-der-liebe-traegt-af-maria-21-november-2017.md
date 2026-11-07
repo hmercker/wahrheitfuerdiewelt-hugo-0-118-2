@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Kanal, der das Wasser der Liebe trägt"
 menu_title: ""
-description: "Seid ein Kanal, der das Wasser der Liebe trägt"
+description: "Maria, empfangen durch Al Fike: „Ich war heute Morgen bei euch in der Kammer, denn mein Sohn hat mich gebeten, bei euch zu sein.“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

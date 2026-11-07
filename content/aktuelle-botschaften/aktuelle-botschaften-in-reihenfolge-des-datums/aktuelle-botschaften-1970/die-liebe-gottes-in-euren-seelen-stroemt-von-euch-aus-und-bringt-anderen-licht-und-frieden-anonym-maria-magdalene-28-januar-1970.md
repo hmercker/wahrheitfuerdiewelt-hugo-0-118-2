@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden"
 menu_title: ""
-description: "Die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden"
+description: "Maria Magdalena: „Es freut mich, euch versammelt zu sehen und zu wissen, dass ihr den Wunsch habt, Gott zu dienen.“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

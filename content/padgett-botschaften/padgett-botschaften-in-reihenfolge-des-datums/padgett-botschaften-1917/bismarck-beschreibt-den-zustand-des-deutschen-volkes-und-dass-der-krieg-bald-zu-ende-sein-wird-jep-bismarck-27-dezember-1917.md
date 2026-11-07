@@ -1,7 +1,7 @@
 ---
 title: "Bismarck beschreibt den Zustand des deutschen Volkes und dass der Krieg bald zu Ende sein wird"
 menu_title: ""
-description: "Bismarck beschreibt den Zustand des deutschen Volkes und dass der Krieg bald zu Ende sein wird"
+description: "Bismarck, empfangen durch James Padgett: „Wenn es dir recht ist, möchte ich heute Abend ein paar Zeilen über den Krieg und die Aussichten auf sein Ende …“"
 date: 2020-08-01 06:25:48+00:251
 draft: False
 hidden: True

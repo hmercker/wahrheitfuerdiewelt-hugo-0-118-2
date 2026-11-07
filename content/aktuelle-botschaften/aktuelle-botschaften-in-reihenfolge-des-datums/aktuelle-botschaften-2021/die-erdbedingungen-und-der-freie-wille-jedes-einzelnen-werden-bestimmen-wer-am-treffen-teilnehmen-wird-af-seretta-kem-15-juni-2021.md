@@ -1,7 +1,7 @@
 ---
 title: "Die Erdbedingungen und der freie Wille jedes Einzelnen werden bestimmen, wer am Treffen teilnehmen wird"
 menu_title: ""
-description: "Die Erdbedingungen und der freie Wille jedes Einzelnen werden bestimmen, wer am Treffen teilnehmen wird"
+description: "Seretta Kem, empfangen durch Al Fike: „Zuerst muss ich anmerken, dass es interessant ist, dass einige das Gefühl haben, dass, da sie berufen wurden, alle …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft der Liebe Gottes hält eure Welt zusammen"
 menu_title: ""
-description: "Die Kraft der Liebe Gottes hält eure Welt zusammen"
+description: "Jeanne d'Arc, empfangen durch Al Fike: „Was auch immer in eurer Welt geschehen mag, an diesem physischen Ort, an dem ihr lebt, ihr habt immer dafür …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

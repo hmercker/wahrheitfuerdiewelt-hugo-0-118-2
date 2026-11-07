@@ -1,7 +1,7 @@
 ---
 title: "Mach die Welt zu deinem Ashram, deinem Kloster"
 menu_title: ""
-description: "Mach die Welt zu deinem Ashram, deinem Kloster"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte jedem von euch dafür danken, dass ihr euch die Zeit genommen habt, in heiliger Verbundenheit mit dem …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

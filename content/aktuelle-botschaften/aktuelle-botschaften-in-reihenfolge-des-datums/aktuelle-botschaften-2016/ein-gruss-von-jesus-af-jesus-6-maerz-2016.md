@@ -1,7 +1,7 @@
 ---
 title: "Ein Gruß von Jesus"
 menu_title: ""
-description: "Ein Gruß von Jesus"
+description: "Jesus, empfangen durch Al Fike: „Es ist Jesus, ich liebe euch. Ihr werdet in vielerlei Hinsicht die Vorhut dafür sein und euch anderen anschließen, die …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

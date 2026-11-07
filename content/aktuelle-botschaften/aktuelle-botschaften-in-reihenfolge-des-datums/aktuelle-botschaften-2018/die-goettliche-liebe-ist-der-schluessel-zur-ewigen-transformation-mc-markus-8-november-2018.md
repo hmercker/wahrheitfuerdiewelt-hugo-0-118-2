@@ -1,7 +1,7 @@
 ---
 title: "Die göttliche Liebe ist der Schlüssel zur ewigen Transformation"
 menu_title: ""
-description: "Die göttliche Liebe ist der Schlüssel zur ewigen Transformation"
+description: "Markus, empfangen durch Maureen Cardoso: „Wenn ihr euch von Herzen nach eurem geliebten Schöpfer sehnt und euch nach der Essenz dieser Liebe sehnt, kommt …“"
 date: 2020-08-01 06:25:48+00:260
 draft: False
 hidden: True

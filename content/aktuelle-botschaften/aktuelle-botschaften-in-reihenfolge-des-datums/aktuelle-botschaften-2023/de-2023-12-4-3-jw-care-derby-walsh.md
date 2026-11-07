@@ -1,7 +1,7 @@
 ---
 title: "Gesundheit von Körper und Seele"
 menu_title: ""
-description: "Gesundheit von Körper und Seele"
+description: "Caer Derby Walsh, empfangen durch Jimbeau Walsh: „Meine Lieben, ihr, die ihr euch diese Zeit für eure Seelen genommen habt, für das Wohlergehen dessen, was …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

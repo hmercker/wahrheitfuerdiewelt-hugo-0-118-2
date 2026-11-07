@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert, dass Konstantin und Lukas geschrieben haben"
 menu_title: ""
-description: "Helen versichert, dass Konstantin und Lukas geschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hattest heute Abend eine ungewöhnliche, oder besser gesagt, eine unerwartete Botschaft, und ich …“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

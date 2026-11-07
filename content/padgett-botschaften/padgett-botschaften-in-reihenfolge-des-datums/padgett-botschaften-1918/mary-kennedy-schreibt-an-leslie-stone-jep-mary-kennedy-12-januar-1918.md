@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy schreibt an Leslie Stone"
 menu_title: ""
-description: "Mary Kennedy schreibt an Leslie Stone"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, ich muss ein Wort sagen, weil ich die Gelegenheit habe und gerade jetzt wie die alte Dame bin, die nie …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

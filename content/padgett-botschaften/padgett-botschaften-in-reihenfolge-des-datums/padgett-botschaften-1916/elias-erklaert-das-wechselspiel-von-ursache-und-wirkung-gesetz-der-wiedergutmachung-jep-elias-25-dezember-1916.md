@@ -1,7 +1,7 @@
 ---
 title: "Elias erklärt das Wechselspiel von Ursache und Wirkung (Gesetz der Wiedergutmachung)"
 menu_title: ""
-description: "Elias erklärt das Wechselspiel von Ursache und Wirkung (Gesetz der Wiedergutmachung)"
+description: "Elias, empfangen durch James Padgett: „Ich werde heute Nacht eine kurze Botschaft schreiben, weil es schon spät ist, und du müde bist.“"
 date: 2020-08-01 06:25:48+00:299
 draft: False
 hidden: True

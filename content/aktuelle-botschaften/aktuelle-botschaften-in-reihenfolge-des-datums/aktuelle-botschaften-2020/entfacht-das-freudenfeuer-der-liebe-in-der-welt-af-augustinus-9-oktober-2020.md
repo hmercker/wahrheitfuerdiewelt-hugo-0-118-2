@@ -1,7 +1,7 @@
 ---
 title: "Entfacht das Freudenfeuer der Liebe in der Welt "
 menu_title: ""
-description: "Entfacht das Freudenfeuer der Liebe in der Welt "
+description: "Augustinus, empfangen durch Al Fike: „Die Fülle der Liebe Gottes, die in diesen Kreisen des Lichts kommt, steht in direkter Beziehung zu euren Gebeten und …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins schreibt über die große Liebe Jesu zu ihm und sein Werk von größter Bedeutung"
 menu_title: ""
-description: "Ann Rollins schreibt über die große Liebe Jesu zu ihm und sein Werk von größter Bedeutung"
+description: "Ann Rollins, empfangen durch James Padgett: „Mein Sohn, was für eine wunderbare Liebe hat der Meister über dich ausgegossen, als er dir schrieb, und eine …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

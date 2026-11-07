@@ -1,7 +1,7 @@
 ---
 title: "Saul versichert, dass Maria, die Mutter Jesu, geschrieben hat"
 menu_title: ""
-description: "Saul versichert, dass Maria, die Mutter Jesu, geschrieben hat"
+description: "Saul, empfangen durch James Padgett: „Ich möchte nur eine Zeile schreiben, da ich sehe, dass du heute Abend so viele von den spirituellen Wesen um dich …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

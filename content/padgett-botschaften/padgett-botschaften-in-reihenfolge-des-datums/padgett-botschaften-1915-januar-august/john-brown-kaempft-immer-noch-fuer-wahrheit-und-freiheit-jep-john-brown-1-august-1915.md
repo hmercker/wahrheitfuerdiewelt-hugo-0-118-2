@@ -1,7 +1,7 @@
 ---
 title: "John Brown kämpft immer noch für Wahrheit und Freiheit"
 menu_title: ""
-description: "John Brown kämpft immer noch für Wahrheit und Freiheit"
+description: "John Brown, empfangen durch James Padgett: „Ich war der Mann, der sein Leben für die Freiheit der Sklaven und die Reinigung der Nation gab.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

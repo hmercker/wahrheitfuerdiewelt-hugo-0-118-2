@@ -1,7 +1,7 @@
 ---
 title: "Anstrengungen sind notwendig, um im Gebet zu wachsen"
 menu_title: ""
-description: "Anstrengungen sind notwendig, um im Gebet zu wachsen"
+description: "Matthäus, empfangen durch Al Fike: „Es gibt einen spürbaren Unterschied in eurem Licht von der Zeit, als ihr begonnen habt, bis jetzt.“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

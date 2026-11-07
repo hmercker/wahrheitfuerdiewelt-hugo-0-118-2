@@ -1,7 +1,7 @@
 ---
 title: "Fürchtet euch nicht, die Liebe wird sich durchsetzen und Frieden bringen"
 menu_title: ""
-description: "Fürchtet euch nicht, die Liebe wird sich durchsetzen und Frieden bringen"
+description: "Jesus, empfangen durch Al Fike: „Die Handlungen der Menschen spielen weiterhin eine Rolle bei der Entwicklung des Lebens auf eurer Erde.“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

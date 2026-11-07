@@ -1,7 +1,7 @@
 ---
 title: "Gebete für den Dienst bieten Möglichkeiten für Wachstum"
 menu_title: ""
-description: "Gebete für den Dienst bieten Möglichkeiten für Wachstum"
+description: "Bartholomäus, empfangen durch Al Fike: „Ich danke dir, liebe Tochter, für dein Gebet und deine Absicht, ein Werkzeug des Lichts und ein Kanal der Liebe für …“"
 date: 2025-02-05 06:00:00+00:10
 draft: False
 hidden: True

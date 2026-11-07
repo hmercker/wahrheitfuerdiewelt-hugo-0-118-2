@@ -1,7 +1,7 @@
 ---
 title: "Warnungen vor weiteren Veränderungen, die Verwüstung bringen werden"
 menu_title: ""
-description: "Warnungen vor weiteren Veränderungen, die Verwüstung bringen werden"
+description: "Augustinus, empfangen durch Al Fike: „Die erste Welle dieser Flamme der Krankheit, die über die Erde gefegt ist, ist nun an vielen Orten unter Kontrolle …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

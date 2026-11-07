@@ -1,7 +1,7 @@
 ---
 title: "Saul - Ratschläge für sein Volk, die Juden"
 menu_title: ""
-description: "Saul - Ratschläge für sein Volk, die Juden"
+description: "Saul, empfangen durch James Padgett: „Ich will nur ein Wort sagen, da es schon spät ist, und deine Frau sagt, dass ich nicht viel schreiben darf.“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

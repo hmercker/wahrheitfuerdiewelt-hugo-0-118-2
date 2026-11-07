@@ -1,7 +1,7 @@
 ---
 title: "Mein Leben in der fünften Sphäre"
 menu_title: ""
-description: "Mein Leben in der fünften Sphäre"
+description: "Joseph Babinsky, empfangen durch Brian Holmes: „Ich freue mich, dass du wieder zu uns gekommen bist.] Ich heiße tatsächlich Joseph Babinski.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

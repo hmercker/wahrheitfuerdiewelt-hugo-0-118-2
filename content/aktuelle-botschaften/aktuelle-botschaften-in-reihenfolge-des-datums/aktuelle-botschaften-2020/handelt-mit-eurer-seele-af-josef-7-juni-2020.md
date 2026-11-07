@@ -1,7 +1,7 @@
 ---
 title: "Handelt mit eurer Seele"
 menu_title: ""
-description: "Handelt mit eurer Seele"
+description: "Josef, empfangen durch Al Fike: „Versteht ihr wirklich die Kraft eurer eigenen Seele? Denn die Macht der Seele ist groß, wenn diese Seele durch das …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

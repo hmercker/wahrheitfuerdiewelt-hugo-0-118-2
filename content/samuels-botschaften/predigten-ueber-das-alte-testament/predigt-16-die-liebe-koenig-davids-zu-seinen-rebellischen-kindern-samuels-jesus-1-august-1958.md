@@ -1,7 +1,7 @@
 ---
 title: "Predigt 16 - Die Liebe König Davids zu seinen rebellischen Kindern"
 menu_title: ""
-description: "Predigt 16 - Die Liebe König Davids zu seinen rebellischen Kindern"
+description: "Jesus, empfangen durch Dr Samuels: „Ich habe versucht zu zeigen, dass David in seinem Verhalten gegenüber Saul, Jonathan und Abigail, der Frau von Nabal …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

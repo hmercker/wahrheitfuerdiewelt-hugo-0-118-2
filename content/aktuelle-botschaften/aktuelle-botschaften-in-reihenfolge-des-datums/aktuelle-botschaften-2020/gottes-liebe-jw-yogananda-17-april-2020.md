@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe"
 menu_title: ""
-description: "Gottes Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte der schönen Beschreibung des Meisters über die Seele in Beziehung zu ihrem Schöpfer etwas hinzufügen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

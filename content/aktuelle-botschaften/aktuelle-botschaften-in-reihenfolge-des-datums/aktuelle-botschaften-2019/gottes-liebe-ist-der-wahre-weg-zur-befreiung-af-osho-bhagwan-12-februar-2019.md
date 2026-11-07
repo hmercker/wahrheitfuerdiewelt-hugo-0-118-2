@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist der wahre Weg zur Befreiung"
 menu_title: ""
-description: "Gottes Liebe ist der wahre Weg zur Befreiung"
+description: "Osho Bhagwan Shree Rajneesh 1, empfangen durch Al Fike: „Ich habe viel gelernt in dieser Zeit, in der ich im Geistkörper verweile, und ich möchte mein …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

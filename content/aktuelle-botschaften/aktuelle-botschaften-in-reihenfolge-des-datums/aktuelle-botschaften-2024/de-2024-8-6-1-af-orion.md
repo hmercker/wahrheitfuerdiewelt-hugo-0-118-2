@@ -1,7 +1,7 @@
 ---
 title: "Unsere stellaren Freunde werden uns zur rechten Zeit mit allem versorgen, was wir brauchen"
 menu_title: ""
-description: "Unsere stellaren Freunde werden uns zur rechten Zeit mit allem versorgen, was wir brauchen"
+description: "Orion, empfangen durch Al Fike: „In den kommenden Zeiten werden wir eng zusammenarbeiten. Unsere kontinuierliche Beziehung und die Stärkung unserer Bande …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

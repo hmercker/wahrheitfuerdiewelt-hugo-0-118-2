@@ -1,7 +1,7 @@
 ---
 title: "Klarstellung, wie unser Verstand die Führung falsch interpretiert"
 menu_title: ""
-description: "Klarstellung, wie unser Verstand die Führung falsch interpretiert"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Ihr habt Fragen bezüglich eurer Führung gestellt.“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

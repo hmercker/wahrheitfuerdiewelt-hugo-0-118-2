@@ -1,7 +1,7 @@
 ---
 title: "Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels"
 menu_title: ""
-description: "Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels"
+description: "Judas, empfangen durch H.: „Der Grund dafür ist, dass ich hier nicht allein bin, einige meiner Gefährten sind bei uns, und offensichtlich hast du eine …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

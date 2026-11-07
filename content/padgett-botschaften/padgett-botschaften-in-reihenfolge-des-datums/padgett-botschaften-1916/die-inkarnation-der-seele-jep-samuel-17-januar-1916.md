@@ -1,7 +1,7 @@
 ---
 title: "Die Inkarnation der Seele"
 menu_title: ""
-description: "Die Inkarnation der Seele"
+description: "Samuel, empfangen durch James Padgett: „Nun, ich werde heute Abend nicht lange schreiben, da ich lediglich sagen möchte, dass es dir in deinem spirituellen …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

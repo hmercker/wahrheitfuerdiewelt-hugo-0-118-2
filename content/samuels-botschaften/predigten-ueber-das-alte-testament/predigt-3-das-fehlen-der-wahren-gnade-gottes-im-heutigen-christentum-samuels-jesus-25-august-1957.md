@@ -1,7 +1,7 @@
 ---
 title: "Predigt 3 - Das Fehlen der wahren Gnade Gottes im heutigen Christentum"
 menu_title: ""
-description: "Predigt 3 - Das Fehlen der wahren Gnade Gottes im heutigen Christentum"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte näher auf die Botschaft von der Liebe des Vaters und ihre Verfügbarkeit für die gesamte Menschheit eingehen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

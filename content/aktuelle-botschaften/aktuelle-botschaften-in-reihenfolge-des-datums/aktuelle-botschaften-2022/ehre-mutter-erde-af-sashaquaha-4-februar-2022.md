@@ -1,7 +1,7 @@
 ---
 title: "Ehre Mutter Erde"
 menu_title: ""
-description: "Ehre Mutter Erde"
+description: "Sashaquaha, empfangen durch Al Fike: „Möge der Große Weiße Geist euch alle segnen. Möget ihr unsere Mutter Erde wirklich ehren.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

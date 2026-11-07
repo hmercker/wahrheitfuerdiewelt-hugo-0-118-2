@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgetts Vater erzählt von seinem Weg zur ersten Himmelssphäre"
 menu_title: ""
-description: "Herr Padgetts Vater erzählt von seinem Weg zur ersten Himmelssphäre"
+description: "John H. Padgett, empfangen durch James Padgett: „Ich möchte heute Abend ein paar Zeilen schreiben, da ich seit einiger Zeit nicht mehr geschrieben habe …“"
 date: 2020-08-01 06:25:48+00:245
 draft: False
 hidden: True

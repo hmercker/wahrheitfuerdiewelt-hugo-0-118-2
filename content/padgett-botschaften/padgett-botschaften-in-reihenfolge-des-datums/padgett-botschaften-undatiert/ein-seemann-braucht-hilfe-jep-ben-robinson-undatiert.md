@@ -1,7 +1,7 @@
 ---
 title: "Ein Seemann braucht Hilfe"
 menu_title: ""
-description: "Ein Seemann braucht Hilfe"
+description: "Ben Robinson, empfangen durch James Padgett: „Also höre mir eine Weile zu. Ich war ein Seemann und besuchte jedes Land auf der Erde und beteiligte mich an …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

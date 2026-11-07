@@ -1,7 +1,7 @@
 ---
 title: "Botschaft für das kommende Jahr"
 menu_title: ""
-description: "Botschaft für das kommende Jahr"
+description: "Seretta Kem, empfangen durch Al Fike: „Vieles, was ihr für das kommende Jahr erwartet, wird nicht unbedingt das Ergebnis sein, das sich zeigen wird.“"
 date: 2022-01-01 06:25:48+00:73
 draft: False
 hidden: True

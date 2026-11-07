@@ -1,7 +1,7 @@
 ---
 title: "Ein Attribut Gottes ist die liebevolle Fürsorge die er für Seine Kinder hat"
 menu_title: ""
-description: "Ein Attribut Gottes ist die liebevolle Fürsorge die er für Seine Kinder hat"
+description: "Jesus, empfangen durch James Padgett: „Lasse mich heute Abend ein paar Worte sagen, denn ich sehe, dass du von der Predigt, die der Prediger heute Abend …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

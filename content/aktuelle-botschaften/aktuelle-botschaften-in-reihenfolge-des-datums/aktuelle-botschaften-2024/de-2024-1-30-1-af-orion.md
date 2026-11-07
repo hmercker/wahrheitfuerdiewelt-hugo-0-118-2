@@ -1,7 +1,7 @@
 ---
 title: "Wir werden lieben, eine Liebe für immer und ewig"
 menu_title: ""
-description: "Wir werden lieben, eine Liebe für immer und ewig"
+description: "Orion, empfangen durch Al Fike: „Euer Freund Orion kommt wieder einmal. Möget ihr weiter an dem großen Geschenk der universellen Liebe unseres Schöpfers …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

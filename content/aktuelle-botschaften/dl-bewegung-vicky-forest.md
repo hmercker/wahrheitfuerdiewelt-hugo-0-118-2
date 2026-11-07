@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Vicky Forest"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Vicky Forest"
+description: "Aktuelle Botschaften empfangen von Vicky Forest: „Vicky hatte am Ende ihres Lebens große Schmerzen und wurde in den kanadischen Prozess der Sterbehilfe …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

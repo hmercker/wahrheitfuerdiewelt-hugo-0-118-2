@@ -1,7 +1,7 @@
 ---
 title: "Padgett muss an Jesus als den Erlöser glauben, aber nicht als stellvertretendes Sühneopfer"
 menu_title: ""
-description: "Padgett muss an Jesus als den Erlöser glauben, aber nicht als stellvertretendes Sühneopfer"
+description: "John Carroll, empfangen durch James Padgett: „Geht zum Herrn und eure Kraft wird erneuert werden und eure Seele wird ein wunderbares Einströmen der …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

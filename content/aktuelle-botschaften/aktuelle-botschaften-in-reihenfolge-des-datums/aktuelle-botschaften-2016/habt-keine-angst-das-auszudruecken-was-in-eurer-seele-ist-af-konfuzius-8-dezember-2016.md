@@ -1,7 +1,7 @@
 ---
 title: "Habt keine Angst, das auszudrücken, was in eurer Seele ist"
 menu_title: ""
-description: "Habt keine Angst, das auszudrücken, was in eurer Seele ist"
+description: "Konfuzius, empfangen durch Al Fike: „Euch wurde viel an Lehren gegeben, die ihr gemeinsam betrachten solltet, während ihr zusammen wart, und es gibt viele …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Sinn des Lebens entfaltet sich mit Gottes Liebe"
 menu_title: ""
-description: "Der Sinn des Lebens entfaltet sich mit Gottes Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Um den Sinn des Lebens wirklich zu verstehen, muss man in das Seelenbewusstsein, die Seelenwahrnehmungen und das …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

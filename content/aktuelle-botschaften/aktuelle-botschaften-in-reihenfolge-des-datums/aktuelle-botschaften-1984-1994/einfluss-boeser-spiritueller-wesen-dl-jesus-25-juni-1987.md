@@ -1,7 +1,7 @@
 ---
 title: "Einfluss böser spiritueller Wesen"
 menu_title: ""
-description: "Einfluss böser spiritueller Wesen"
+description: "Jesus, empfangen durch David Lampron: „Lieber Meister, in deiner letzten Botschaft durch mich sagtest du, dass die bösen Geister in der spirituellen Welt …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

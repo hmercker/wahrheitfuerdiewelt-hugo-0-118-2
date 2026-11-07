@@ -1,7 +1,7 @@
 ---
 title: "Heilender Segen für die Erde"
 menu_title: ""
-description: "Heilender Segen für die Erde"
+description: "Mylora, empfangen durch Al Fike: „Eine Brücke zwischen Gott und der Erde, zwischen diesen beiden Bewusstheiten und euch selbst, damit alles in Harmonie …“"
 date: 2025-01-03 06:00:00+00:10
 draft: False
 hidden: True

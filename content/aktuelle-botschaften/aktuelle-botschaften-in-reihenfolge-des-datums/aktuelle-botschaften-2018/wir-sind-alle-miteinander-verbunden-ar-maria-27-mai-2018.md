@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle miteinander verbunden"
 menu_title: ""
-description: "Wir sind alle miteinander verbunden"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte mit den Kindern der Erde sprechen, mit euch, deren Füße den Boden berühren, mit euch, die ihr die Luft atmet.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

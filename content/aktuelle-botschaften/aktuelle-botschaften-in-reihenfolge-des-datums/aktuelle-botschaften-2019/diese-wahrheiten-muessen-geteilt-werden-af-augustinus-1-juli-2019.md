@@ -1,7 +1,7 @@
 ---
 title: "Diese Wahrheiten müssen geteilt werden"
 menu_title: ""
-description: "Diese Wahrheiten müssen geteilt werden"
+description: "Augustinus, empfangen durch Al Fike: „Sie ruht auf euren Seelen. Trinkt grosse Schlücke von diesem Geschenk.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

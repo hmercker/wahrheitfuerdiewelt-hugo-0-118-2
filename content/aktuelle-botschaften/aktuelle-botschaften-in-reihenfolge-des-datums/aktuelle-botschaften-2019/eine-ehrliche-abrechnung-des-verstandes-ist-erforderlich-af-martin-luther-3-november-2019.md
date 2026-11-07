@@ -1,7 +1,7 @@
 ---
 title: "Eine ehrliche Abrechnung des Verstandes ist erforderlich"
 menu_title: ""
-description: "Eine ehrliche Abrechnung des Verstandes ist erforderlich"
+description: "Martin Luther, empfangen durch Al Fike: „Gott braucht starke Seelen, solche, die wirklich dem Dienst an Gott verpflichtet sind und seinen Willen kennen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

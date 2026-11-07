@@ -1,7 +1,7 @@
 ---
 title: "Ihr könnt euch nicht vorstellen, was auf euch zukommt"
 menu_title: ""
-description: "Ihr könnt euch nicht vorstellen, was auf euch zukommt"
+description: "Konfuzius, empfangen durch Al Fike: „Möge die Kraft der Liebe Gottes weiterhin eure Seele erwecken, ihr Lieben, und euch ins Licht tragen, in das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

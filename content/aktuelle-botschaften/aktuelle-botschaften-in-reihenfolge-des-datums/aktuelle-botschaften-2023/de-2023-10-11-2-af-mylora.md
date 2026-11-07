@@ -1,7 +1,7 @@
 ---
 title: "Segen der tiefen Heilung auf der Reise nach Laurelville"
 menu_title: ""
-description: "Segen der tiefen Heilung auf der Reise nach Laurelville"
+description: "Mylora, empfangen durch Al Fike: „Denn wir verlassen uns auf eure Fähigkeiten und Gaben, um die größere Gruppe zu stärken. Deshalb haben wir euch zu einem …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

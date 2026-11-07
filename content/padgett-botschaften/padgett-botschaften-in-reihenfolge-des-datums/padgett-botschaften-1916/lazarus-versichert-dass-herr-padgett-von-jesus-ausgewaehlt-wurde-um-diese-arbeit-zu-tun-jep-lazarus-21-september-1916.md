@@ -1,7 +1,7 @@
 ---
 title: "Lazarus versichert, dass Herr Padgett von Jesus ausgewählt wurde, um diese Arbeit zu tun"
 menu_title: ""
-description: "Lazarus versichert, dass Herr Padgett von Jesus ausgewählt wurde, um diese Arbeit zu tun"
+description: "Lazarus, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich der wahre Lazarus der biblischen Geschichte bin und dass ich ein Bewohner des …“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

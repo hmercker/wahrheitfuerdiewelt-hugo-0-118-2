@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards schreibt über die großartige Arbeit die Herr Padgett leistet"
 menu_title: ""
-description: "Professor Salyards schreibt über die großartige Arbeit die Herr Padgett leistet"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich nun bereit dazu bin, dir zu schreiben, wie ich es versprochen habe und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

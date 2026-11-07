@@ -1,7 +1,7 @@
 ---
 title: "Das Geschenk des Lebens"
 menu_title: ""
-description: "Das Geschenk des Lebens"
+description: "Jakobus- empfangen durch Al Fike: „Ich sehe, dass ihr über das Leben nachdenkt, über die Bedeutung des Lebens, über die Erneuerung des Lebens, über die …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Neujahrsgruß"
 menu_title: ""
-description: "Neujahrsgruß"
+description: "Jesus, empfangen durch Helge Mercker: „Wir sind glücklich über diese neue Ära und das neue Jahr. Wir erkennen alle an, die die Arbeit unseres Vaters getan …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

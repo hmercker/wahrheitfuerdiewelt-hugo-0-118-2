@@ -1,7 +1,7 @@
 ---
 title: "Predigt 9 - Das neue Herz im Alten Testament"
 menu_title: ""
-description: "Predigt 9 - Das neue Herz im Alten Testament"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte euch sagen, dass es das Neue Herz ist, das mich zum Messias Gottes gemacht hat und jetzt macht, und dass es …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

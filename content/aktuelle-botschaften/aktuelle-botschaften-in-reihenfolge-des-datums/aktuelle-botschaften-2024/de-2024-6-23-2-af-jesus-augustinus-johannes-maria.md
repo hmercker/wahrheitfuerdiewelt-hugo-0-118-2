@@ -1,7 +1,7 @@
 ---
 title: "Engel beten mit uns"
 menu_title: ""
-description: "Engel beten mit uns"
+description: "Jesus, Augustinus, Johannes, Maria, empfangen durch Al Fike: „Die Engel im Himmel beten für das Erwachen eurer Seelen und für das Erwachen der Menschheit …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

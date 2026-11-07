@@ -1,7 +1,7 @@
 ---
 title: "Stärke und Mitgefühl werden erlangt durch die Kämpfe, die ihr durchgemacht habt"
 menu_title: ""
-description: "Stärke und Mitgefühl werden erlangt durch die Kämpfe, die ihr durchgemacht habt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ja, ihr habt Fragen zur Heilung, zur Heilung der Seele, zur Heilung des Körpers, zur Heilung von allem in euch …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 22 - Der Glaube beseitigt die Barrieren, um Gott zu kennen - Band 3"
 menu_title: ""
-description: "Lektion 22 - Der Glaube beseitigt die Barrieren, um Gott zu kennen - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen fließen und euch große Weisheit und Wissen bringen, Wahrheit in allen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

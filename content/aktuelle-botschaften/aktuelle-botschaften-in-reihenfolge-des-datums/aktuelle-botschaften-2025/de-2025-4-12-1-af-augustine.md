@@ -1,7 +1,7 @@
 ---
 title: "Die Schwierigkeit, die Wahrheit in ihrer Reinheit zu empfangen"
 menu_title: ""
-description: "Die Schwierigkeit, die Wahrheit in ihrer Reinheit zu empfangen"
+description: "Augustinus, empfangen durch Al Fike: „Für diejenigen unter euch, die wissbegierig sind und in Büchern und Informationen studieren, die auf dieser Erdebene …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

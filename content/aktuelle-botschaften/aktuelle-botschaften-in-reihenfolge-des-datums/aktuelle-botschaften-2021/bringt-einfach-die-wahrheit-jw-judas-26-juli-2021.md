@@ -1,7 +1,7 @@
 ---
 title: "Bringt einfach die Wahrheit"
 menu_title: ""
-description: "Bringt einfach die Wahrheit"
+description: "Judas, empfangen durch Jimbeau Walsh: „In meiner Zeit auf der Erde, in der ich mit dem Meister und meinen Brüdern und Schwestern unterwegs war, haben wir …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

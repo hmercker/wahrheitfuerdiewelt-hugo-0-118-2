@@ -1,7 +1,7 @@
 ---
 title: "Dr Arbelee schrieb durch Eugene Morgan"
 menu_title: ""
-description: "Dr Arbelee schrieb durch Eugene Morgan"
+description: "Dr Arbelee, empfangen durch James Padgett: „Er hat es tatsächlich für mich ausgedrückt. Hier gibt es nichts Erstrebenswertes.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

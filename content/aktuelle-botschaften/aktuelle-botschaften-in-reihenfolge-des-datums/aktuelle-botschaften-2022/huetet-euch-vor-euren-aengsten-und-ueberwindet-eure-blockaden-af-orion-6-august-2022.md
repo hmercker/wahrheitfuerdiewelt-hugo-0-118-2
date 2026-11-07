@@ -1,7 +1,7 @@
 ---
 title: "Hütet euch vor euren Ängsten und überwindet eure Blockaden"
 menu_title: ""
-description: "Hütet euch vor euren Ängsten und überwindet eure Blockaden"
+description: "Orion, empfangen durch Al Fike: „Seht ihr nicht, dass euer spirituelles Streben und eure Entwicklung beschleunigt sind und dass ihr viele Möglichkeiten …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

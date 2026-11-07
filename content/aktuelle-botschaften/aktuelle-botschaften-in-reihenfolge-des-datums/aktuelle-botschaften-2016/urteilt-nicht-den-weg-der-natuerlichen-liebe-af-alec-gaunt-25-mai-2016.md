@@ -1,7 +1,7 @@
 ---
 title: "Urteilt nicht den Weg der Natürlichen Liebe"
 menu_title: ""
-description: "Urteilt nicht den Weg der Natürlichen Liebe"
+description: "Alec Gaunt, empfangen durch Al Fike: „Es ist das Beste, nicht zu urteilen; diejenigen mit anderen Einstellungen (und) Perspektiven zu beurteilen.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

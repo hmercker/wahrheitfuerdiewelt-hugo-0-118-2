@@ -1,7 +1,7 @@
 ---
 title: "Er fordert uns auf, das Licht für unsere Seelen und unsere Familien zu suchen"
 menu_title: ""
-description: "Er fordert uns auf, das Licht für unsere Seelen und unsere Familien zu suchen"
+description: "Jesus, empfangen durch Al Fike: „Die Welt ist in Schwierigkeiten, in Aufruhr und in Dunkelheit. Wenn ihr also an euch und eure Bedürfnisse denkt, stellt …“"
 date: 2025-02-01 06:00:00+00:10
 draft: False
 hidden: True

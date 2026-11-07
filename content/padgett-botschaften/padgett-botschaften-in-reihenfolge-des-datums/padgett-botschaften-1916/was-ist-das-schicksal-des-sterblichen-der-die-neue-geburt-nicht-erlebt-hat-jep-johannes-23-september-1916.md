@@ -1,7 +1,7 @@
 ---
 title: "Was ist das Schicksal des Sterblichen, der die Neue Geburt nicht erlebt hat"
 menu_title: ""
-description: "Was ist das Schicksal des Sterblichen, der die Neue Geburt nicht erlebt hat"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte heute Abend über ein Thema schreiben, das wichtig ist, und ich hoffe, dass du meine Nachricht erhalten …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

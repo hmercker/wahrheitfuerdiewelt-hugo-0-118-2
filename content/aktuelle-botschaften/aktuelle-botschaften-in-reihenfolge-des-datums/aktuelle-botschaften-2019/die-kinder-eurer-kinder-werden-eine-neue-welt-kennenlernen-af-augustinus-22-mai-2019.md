@@ -1,7 +1,7 @@
 ---
 title: "Die Kinder eurer Kinder werden eine andere Welt kennenlernen"
 menu_title: ""
-description: "Die Kinder eurer Kinder werden eine andere Welt kennenlernen"
+description: "Augustinus, empfangen durch Al Fike: „Gott hat einen großen Plan für die Rettung der Menschheit im Gange. Gottes Absicht ist es, der Welt ein größeres …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

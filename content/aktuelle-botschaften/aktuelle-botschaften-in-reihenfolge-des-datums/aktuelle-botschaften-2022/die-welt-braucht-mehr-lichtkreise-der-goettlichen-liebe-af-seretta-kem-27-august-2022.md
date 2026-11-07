@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht mehr Lichtkreise der Göttlichen Liebe"
 menu_title: ""
-description: "Die Welt braucht mehr Lichtkreise der Göttlichen Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie wichtig ist es, in einem Kreis des Lichts wie diesem zu sein, und wie wichtig ist es für diejenigen unter euch …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

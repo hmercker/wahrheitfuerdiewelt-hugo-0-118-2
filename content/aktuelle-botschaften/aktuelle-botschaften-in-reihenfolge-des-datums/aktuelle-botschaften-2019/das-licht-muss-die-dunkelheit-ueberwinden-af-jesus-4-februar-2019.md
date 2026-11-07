@@ -1,7 +1,7 @@
 ---
 title: "Das Licht muss die Dunkelheit überwinden"
 menu_title: ""
-description: "Das Licht muss die Dunkelheit überwinden"
+description: "Jesus, empfangen durch Al Fike: „Es gibt zwei mächtige Strömungen in dieser Welt, eine, die zur Dunkelheit fließt und eine, die zum Licht fließt.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Luther schrieb "
 menu_title: ""
-description: "Helen bestätigt, dass Luther schrieb "
+description: "Helen, empfangen durch James Padgett: „Ja, Luther hat geschrieben und das andere spirituelle Wesen kenne ich nicht, aber ich zweifle nicht daran, dass er …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

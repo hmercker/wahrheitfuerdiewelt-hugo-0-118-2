@@ -1,7 +1,7 @@
 ---
 title: "Elias stellt sich vor und trifft Vorkehrungen, um in das Buch der Wahrheiten aufgenommen zu werden"
 menu_title: ""
-description: "Elias stellt sich vor und trifft Vorkehrungen, um in das Buch der Wahrheiten aufgenommen zu werden"
+description: "Elias, empfangen durch James Padgett: „Ich verstehe, dass du heute Abend müde bist und ich werde nicht mehr schreiben. Ich möchte nur sagen, dass ich dir …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

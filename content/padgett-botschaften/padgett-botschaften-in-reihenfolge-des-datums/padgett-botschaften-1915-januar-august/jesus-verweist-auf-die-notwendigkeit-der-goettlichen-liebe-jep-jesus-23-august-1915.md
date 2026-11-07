@@ -1,7 +1,7 @@
 ---
 title: "Jesus verweist auf die Notwendigkeit der Göttlichen Liebe"
 menu_title: ""
-description: "Jesus verweist auf die Notwendigkeit der Göttlichen Liebe"
+description: "Jesus, empfangen durch James Padgett: „Ich freue mich, dass es dir heute Abend besser geht, und ich sehe, dass du bald wieder in der Lage sein wirst, meine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

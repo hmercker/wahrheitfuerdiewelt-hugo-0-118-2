@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit ist den kommenden Erdveränderungen gegenüber ahnungslos"
 menu_title: ""
-description: "Die Menschheit ist den kommenden Erdveränderungen gegenüber ahnungslos"
+description: "Orion, empfangen durch Al Fike: „Eure Rolle befindet sich im Wandel und verändert sich entsprechend den Bedingungen, die in eurer Welt herrschen, und den …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Blaine und Bismarck über den Krieg schrieben"
 menu_title: ""
-description: "Helen bestätigt, dass Blaine und Bismarck über den Krieg schrieben"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend einige sehr interessante Briefe erhalten, und die beiden spirituelle Wesen …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

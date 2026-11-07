@@ -1,7 +1,7 @@
 ---
 title: "Vater in der spirituellen Welt schreibt an seinen kranken Sohn, Dr. Arbelee, über sein Leben dort"
 menu_title: ""
-description: "Vater in der spirituellen Welt schreibt an seinen kranken Sohn, Dr. Arbelee, über sein Leben dort"
+description: "Arbelee, empfangen durch James Padgett: „Lass mich schreiben, denn ich möchte meinem Sohn sagen, dass ich bei ihm in seiner Krankheit bin und versuche, ihm …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

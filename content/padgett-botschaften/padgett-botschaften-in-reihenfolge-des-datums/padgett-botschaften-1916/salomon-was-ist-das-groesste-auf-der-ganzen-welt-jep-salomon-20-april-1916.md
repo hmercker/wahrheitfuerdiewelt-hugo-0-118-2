@@ -1,7 +1,7 @@
 ---
 title: "Was ist das Größte auf der ganzen Welt?"
 menu_title: ""
-description: "Was ist das Größte auf der ganzen Welt?"
+description: "Salomo, empfangen durch James Padgett: „Ich werde jetzt nicht mehr schreiben, aber ich werde bald kommen. Was ist das Größte auf der ganzen Welt?“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

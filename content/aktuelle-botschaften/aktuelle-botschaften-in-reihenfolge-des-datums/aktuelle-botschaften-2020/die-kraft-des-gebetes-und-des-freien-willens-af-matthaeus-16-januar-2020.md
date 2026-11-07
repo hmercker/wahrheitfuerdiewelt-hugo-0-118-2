@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebetes und des freien Willens"
 menu_title: ""
-description: "Die Kraft des Gebetes und des freien Willens"
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte auf die Kraft des Gebetes eingehen, da dieses Gespräch unter euch ausgetauscht wurde und viele verschiedene …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

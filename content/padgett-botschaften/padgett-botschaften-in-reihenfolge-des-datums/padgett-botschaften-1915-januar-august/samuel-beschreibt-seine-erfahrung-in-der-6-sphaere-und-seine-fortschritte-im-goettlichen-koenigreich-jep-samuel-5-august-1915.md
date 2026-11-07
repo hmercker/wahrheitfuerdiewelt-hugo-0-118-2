@@ -1,7 +1,7 @@
 ---
 title: "Samuel beschreibt seine Erfahrung in der 6. Sphäre und seine Fortschritte im göttlichen Königreich"
 menu_title: ""
-description: "Samuel beschreibt seine Erfahrung in der 6. Sphäre und seine Fortschritte im göttlichen Königreich"
+description: "Samuel, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich in der Lage bin, dir über meine Existenz hier in der spirituellen Welt zu berichten …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wer und was Gott ist und was ihr seid"
 menu_title: ""
-description: "Wer und was Gott ist und was ihr seid"
+description: "Andreas, empfangen durch Al Fike: „Ich war und bin ein Jünger des Meisters. Denn unser geliebter Führer und Lehrer Jesus lehrte diese Liebe, dieses …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

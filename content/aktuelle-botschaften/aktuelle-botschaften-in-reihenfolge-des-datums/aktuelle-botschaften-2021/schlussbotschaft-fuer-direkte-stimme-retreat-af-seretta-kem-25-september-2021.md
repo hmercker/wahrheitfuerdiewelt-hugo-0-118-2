@@ -1,7 +1,7 @@
 ---
 title: "Schlussbotschaft für Direkte Stimme Retreat"
 menu_title: ""
-description: "Schlussbotschaft für Direkte Stimme Retreat"
+description: "Seretta Kem, empfangen durch Al Fike: „Jetzt seht ihr, warum wir nicht allzu sehr ins Detail gehen, wenn es darum geht, eure spirituelle Reise und euer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

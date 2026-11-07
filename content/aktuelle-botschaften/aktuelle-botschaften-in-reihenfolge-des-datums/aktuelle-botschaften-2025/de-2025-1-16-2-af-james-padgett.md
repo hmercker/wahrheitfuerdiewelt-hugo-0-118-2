@@ -1,7 +1,7 @@
 ---
 title: "Die Herausforderung, wie Göttliche Wahrheiten in die Welt zu bringen sind"
 menu_title: ""
-description: "Die Herausforderung, wie Göttliche Wahrheiten in die Welt zu bringen sind"
+description: "James Padgett, empfangen durch Al Fike: „Ich freue mich, meine Großmutter von der Wahrheit sprechen zu hören, denn sie ist wortgewandt, nicht wahr?“"
 date: 2025-01-16 06:00:00+00:10
 draft: False
 hidden: True

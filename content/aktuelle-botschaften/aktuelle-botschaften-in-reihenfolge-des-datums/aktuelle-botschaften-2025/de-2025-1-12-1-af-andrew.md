@@ -1,7 +1,7 @@
 ---
 title: "Strebt weiter nach Gottes Segen"
 menu_title: ""
-description: "Strebt weiter nach Gottes Segen"
+description: "Andreas, empfangen durch Al Fike: „Möget ihr euch weiterhin für das große Einströmen der Liebe Gottes öffnen, die Essenz seiner Seele, die euch immer höher …“"
 date: 2025-01-19 06:00:00+00:10
 draft: False
 hidden: True

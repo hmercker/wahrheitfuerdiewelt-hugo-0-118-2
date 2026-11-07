@@ -1,7 +1,7 @@
 ---
 title: "Ich bin bei euch, wenn ihr das Werk des Vaters tut"
 menu_title: ""
-description: "Ich bin bei euch, wenn ihr das Werk des Vaters tut"
+description: "Jesus, empfangen durch Al Fike: „Ich stehe an deiner Seite. Ich segne jene, die mit dir sind.“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Padgett's Vater hat seinen Seelenpartner gefunden"
 menu_title: ""
-description: "Padgett's Vater hat seinen Seelenpartner gefunden"
+description: "Ann R. Padgett, empfangen durch James Padgett: „Seine Seelenpartnerin ist sehr oft bei ihm und sie liebt ihn sehr, aber er scheint noch nicht zu erkennen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wandelt innerhalb des Willens Gottes"
 menu_title: ""
-description: "Wandelt innerhalb des Willens Gottes"
+description: "Augustinus, empfangen durch Al Fike: „Für viele, die mit euch in Lichtkreisen waren, waren sie etwas verwirrt. Es ist nicht so, dass die Worte, die ihr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

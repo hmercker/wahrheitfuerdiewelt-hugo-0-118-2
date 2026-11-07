@@ -1,7 +1,7 @@
 ---
 title: "Das Zeugnis von Dr Leslie Ribbon Stone"
 menu_title: "Das Zeugnis von Dr Leslie Ribbon Stone"
-description: "Das Zeugnis von Dr Leslie Ribbon Stone"
+description: "Dieses Zeugnis ist das Ergebnis vieler Anfragen, die aus der Veröffentlichung der Bände I und II der Botschaften von Jesus und der Himmlischen Wesen …“"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: False

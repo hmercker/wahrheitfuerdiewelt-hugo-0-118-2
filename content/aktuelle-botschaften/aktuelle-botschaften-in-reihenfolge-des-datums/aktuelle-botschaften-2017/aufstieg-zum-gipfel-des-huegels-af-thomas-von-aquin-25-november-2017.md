@@ -1,7 +1,7 @@
 ---
 title: "Aufstieg zum Gipfel des Hügels"
 menu_title: ""
-description: "Aufstieg zum Gipfel des Hügels"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Stellt euch vor, ihr steigt auf eine Anhöhe, einen kleinen Hügel, und ihr kommt auf den Kamm des Hügels, aber …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

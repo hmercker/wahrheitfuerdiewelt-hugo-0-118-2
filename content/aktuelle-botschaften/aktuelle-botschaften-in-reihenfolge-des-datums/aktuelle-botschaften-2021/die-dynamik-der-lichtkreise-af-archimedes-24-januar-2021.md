@@ -1,7 +1,7 @@
 ---
 title: "Die Dynamik der Lichtkreise"
 menu_title: ""
-description: "Die Dynamik der Lichtkreise"
+description: "Archimedes, empfangen durch Al Fike: „Möge Gott euch tief in euren Seelen segnen. Ich fahre fort, in meiner Entwicklung als eine mit Gott im Einklang …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

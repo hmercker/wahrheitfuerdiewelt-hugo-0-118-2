@@ -1,7 +1,7 @@
 ---
 title: "Im Licht bleiben"
 menu_title: ""
-description: "Im Licht bleiben"
+description: "Augustinus, empfangen durch Al Fike: „Euer Lehrer Augustinus ist gekommen, um zu euch zu sprechen in euren Gebeten und in eurem Wunsch, im Licht zu sein.“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

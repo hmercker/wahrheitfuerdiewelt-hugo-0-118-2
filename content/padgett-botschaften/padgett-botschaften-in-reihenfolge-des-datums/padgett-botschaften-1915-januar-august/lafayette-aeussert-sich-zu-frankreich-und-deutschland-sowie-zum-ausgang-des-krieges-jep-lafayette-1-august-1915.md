@@ -1,7 +1,7 @@
 ---
 title: "Lafayette äußert sich zu Frankreich und Deutschland sowie zum Ausgang des Krieges"
 menu_title: ""
-description: "Lafayette äußert sich zu Frankreich und Deutschland sowie zum Ausgang des Krieges"
+description: "Lafayette, empfangen durch James Padgett: „Der Kaiser war bestrebt, weitere zu Frankreich gehörende Gebiete zum Zwecke der Kolonisierung zu erwerben, und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

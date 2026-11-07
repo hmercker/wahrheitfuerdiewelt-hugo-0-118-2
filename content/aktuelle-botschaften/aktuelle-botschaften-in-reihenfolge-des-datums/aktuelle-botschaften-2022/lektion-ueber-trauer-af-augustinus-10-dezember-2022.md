@@ -1,7 +1,7 @@
 ---
 title: "Lektion über Trauer"
 menu_title: ""
-description: "Lektion über Trauer"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt mich um Ratschläge und Kommentare über die Natur der Trauer gebeten. Das ist eine gute Frage und ein gutes …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Dualität von Seele und Verstand"
 menu_title: ""
-description: "Die Dualität von Seele und Verstand"
+description: "Sri Yukteswar, empfangen durch Al Fike: „Möge die Liebe Gottes einen tiefen Platz in eurem Herzen finden. Ich möchte euch sagen, dass in den Reichen des …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

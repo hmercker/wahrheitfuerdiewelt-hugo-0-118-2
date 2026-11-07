@@ -1,7 +1,7 @@
 ---
 title: "Dieses Gitter aus Licht nähren"
 menu_title: ""
-description: "Dieses Gitter aus Licht nähren"
+description: "Augustinus, empfangen durch Al Fike: „Hier spricht euer Lehrer Augustinus. Ich möchte euch weiterhin ermutigen, dieses Gitter des Lichts, das wir gemeinsam …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

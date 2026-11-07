@@ -1,7 +1,7 @@
 ---
 title: "Das Alleinsein ist ein gesegneter Zustand"
 menu_title: ""
-description: "Das Alleinsein ist ein gesegneter Zustand"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe meinem Bruder heute während eurer Sitzung Eindrücke geschickt, um ihm mitzuteilen, was ich der Gruppe …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

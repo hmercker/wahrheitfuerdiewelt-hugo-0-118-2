@@ -1,7 +1,7 @@
 ---
 title: "Die Mutter von Dr. Stone hält die Arbeit sowohl von Herrn Padgett als auch von ihrem Sohn für sehr wichtig"
 menu_title: ""
-description: "Die Mutter von Dr. Stone hält die Arbeit sowohl von Herrn Padgett als auch von ihrem Sohn für sehr wichtig"
+description: "Frau Stone, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich so oft bei ihm bin mit meiner Liebe und den Sehnsüchten der Mutter nach seinem …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Abraham Lincoln: Liebe ist größer als Hass, Gott segne alle Menschen auf der Erde"
 menu_title: ""
-description: "Abraham Lincoln: Liebe ist größer als Hass, Gott segne alle Menschen auf der Erde"
+description: "Lincoln, empfangen durch James Padgett: „Liebe ist größer als Hass, und der Krieg wird enden und die Liebe wird kommen und der Friede wird wieder …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

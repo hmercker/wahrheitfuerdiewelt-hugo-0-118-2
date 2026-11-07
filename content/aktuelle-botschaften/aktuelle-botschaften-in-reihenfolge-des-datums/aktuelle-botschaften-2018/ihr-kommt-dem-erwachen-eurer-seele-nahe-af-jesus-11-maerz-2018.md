@@ -1,7 +1,7 @@
 ---
 title: "Ihr kommt dem Erwachen eurer Seele nahe"
 menu_title: ""
-description: "Ihr kommt dem Erwachen eurer Seele nahe"
+description: "Jesus, empfangen durch Al Fike: „Ihr haltet euch weiterhin an Gottes Willen, an Seinen Wunsch, euch als Seine Werkzeuge für Frieden und Veränderung und …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

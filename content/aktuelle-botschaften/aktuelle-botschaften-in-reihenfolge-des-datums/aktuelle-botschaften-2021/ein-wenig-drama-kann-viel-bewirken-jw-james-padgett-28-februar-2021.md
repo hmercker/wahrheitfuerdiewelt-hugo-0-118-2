@@ -1,7 +1,7 @@
 ---
 title: "Ein wenig Drama kann viel bewirken"
 menu_title: ""
-description: "Ein wenig Drama kann viel bewirken"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Wie immer gebe ich dieser Arbeit meinen Segen und fühle mich geehrt, dass ihr mein Leben und meine Arbeit …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid unterscheidend, weise und treu zu Gottes Willen"
 menu_title: ""
-description: "Seid unterscheidend, weise und treu zu Gottes Willen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr fühlt euch von vielen Seelen angezogen. Es scheint wie eine endlose Parade von Seelen, die mit euch zusammen …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

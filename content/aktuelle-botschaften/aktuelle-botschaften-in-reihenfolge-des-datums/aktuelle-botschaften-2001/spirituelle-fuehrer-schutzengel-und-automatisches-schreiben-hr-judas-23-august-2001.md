@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Führer, Schutzengel und automatisches Schreiben"
 menu_title: ""
-description: "Spirituelle Führer, Schutzengel und automatisches Schreiben"
+description: "Judas, empfangen durch H.: „Wie ich sehe, geht es dir jetzt besser. Und unsere Verbindung ist auch besser geworden.“"
 date: 2020-08-01 06:25:48+00:279
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der einfache Weg der Liebe"
 menu_title: ""
-description: "Der einfache Weg der Liebe"
+description: "Franziskus von Assisi, empfangen durch Al Fike: „Möge Gottes große Liebe eure Seelen erfüllen und euch immer näher an die große Quelle der Liebe bringen …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

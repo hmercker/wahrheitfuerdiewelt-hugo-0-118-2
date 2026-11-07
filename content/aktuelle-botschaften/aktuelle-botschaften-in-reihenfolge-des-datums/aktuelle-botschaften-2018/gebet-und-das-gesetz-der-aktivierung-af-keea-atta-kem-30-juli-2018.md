@@ -1,7 +1,7 @@
 ---
 title: "Gebet und das Gesetz der Aktivierung"
 menu_title: ""
-description: "Gebet und das Gesetz der Aktivierung"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich möchte über das Thema Gebet sprechen, denn das Gebet ist die Hauptstütze derer, die diesen Göttlichen Weg gehen.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

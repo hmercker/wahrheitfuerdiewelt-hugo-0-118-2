@@ -1,7 +1,7 @@
 ---
 title: "Wasserträger der Liebe"
 menu_title: ""
-description: "Wasserträger der Liebe"
+description: "Maria, empfangen durch Al Fike: „Möget ihr diese Wahrheit weit und breit in eure Welt tragen, die so ausgedörrt ist und so sehr nach der Liebe Gottes dürstet.“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

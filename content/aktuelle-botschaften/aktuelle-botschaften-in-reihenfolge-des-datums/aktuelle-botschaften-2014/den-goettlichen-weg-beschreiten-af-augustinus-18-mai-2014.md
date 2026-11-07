@@ -1,7 +1,7 @@
 ---
 title: "Den göttlichen Weg beschreiten"
 menu_title: ""
-description: "Den göttlichen Weg beschreiten"
+description: "Augustinus, empfangen durch Al Fike: „Es ist eine Übung eures Willens und ihr alle habt einen freien Willen, meine Kinder, deshalb müsst ihr euren Willen …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

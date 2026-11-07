@@ -1,7 +1,7 @@
 ---
 title: "Viele spirituelle Wesen wurden durch eure Bemühungen gesegnet"
 menu_title: ""
-description: "Viele spirituelle Wesen wurden durch eure Bemühungen gesegnet"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Ich möchte diesen beiden geliebten Seelen danken, die weiterhin auf den Ruf hören …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

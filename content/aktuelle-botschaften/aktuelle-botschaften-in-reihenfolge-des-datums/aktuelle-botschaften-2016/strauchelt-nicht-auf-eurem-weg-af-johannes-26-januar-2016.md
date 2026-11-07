@@ -1,7 +1,7 @@
 ---
 title: "Strauchelt nicht auf eurem Weg"
 menu_title: ""
-description: "Strauchelt nicht auf eurem Weg"
+description: "Johannes, empfangen durch Al Fike: „Öffnet eure Seelen, Geliebte, für die Berührung Gottes. Zögert nicht auf eurem Weg, zweifelt nicht daran, dass Gott …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

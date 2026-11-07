@@ -1,7 +1,7 @@
 ---
 title: "Gott soll die Kontrolle haben"
 menu_title: ""
-description: "Gott soll die Kontrolle haben"
+description: "Peter, empfangen durch Kathryn Stokes: „Wir sind gekommen, um in dieser Zeit bei euch zu sein und euch vor negativen Gedanken und Ablenkungen zu schützen.“"
 date: 2020-08-01 06:25:48+00:276
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir sind sowohl Empfänger als auch Geber"
 menu_title: ""
-description: "Wir sind sowohl Empfänger als auch Geber"
+description: "Lotus Blossom, empfangen durch Al Fike: „Während wir zusammenarbeiten, trägt jeder von uns etwas zu dieser Arbeit bei, sei es ein Gedanke der Liebe, eine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

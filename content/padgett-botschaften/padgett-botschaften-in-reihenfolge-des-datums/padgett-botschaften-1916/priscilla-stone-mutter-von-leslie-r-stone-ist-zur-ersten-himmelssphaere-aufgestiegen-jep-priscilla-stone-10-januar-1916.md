@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone, Mutter von Leslie R Stone, ist zur Ersten Himmels-Sphäre aufgestiegen"
 menu_title: ""
-description: "Priscilla Stone, Mutter von Leslie R Stone, ist zur Ersten Himmels-Sphäre aufgestiegen"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich kann nicht versuchen, ihm zu diesem Zeitpunkt zu sagen, was für ein herrliches Zuhause ich habe und …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

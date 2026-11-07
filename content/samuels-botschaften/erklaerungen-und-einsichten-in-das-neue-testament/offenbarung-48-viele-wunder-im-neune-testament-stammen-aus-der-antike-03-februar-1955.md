@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 48: Viele Wunder im Neuen Testament stammen aus der Antike"
 menu_title: ""
-description: "Offenbarung 48: Viele Wunder im Neuen Testament stammen aus der Antike"
+description: "Jesus, empfangen durch Dr Samuels: „Heute werden wir uns nicht weiter mit messianischen Prophezeiungen befassen, sondern unsere Aufmerksamkeit auf einige …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

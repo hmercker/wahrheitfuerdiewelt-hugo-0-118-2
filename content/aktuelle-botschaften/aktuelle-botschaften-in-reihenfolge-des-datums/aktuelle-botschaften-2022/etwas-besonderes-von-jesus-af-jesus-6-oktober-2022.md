@@ -1,7 +1,7 @@
 ---
 title: "Etwas Besonderes von Jesus"
 menu_title: ""
-description: "Etwas Besonderes von Jesus"
+description: "Jesus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen strömen. Wenn ihr ernsthaft um diese Gabe Gottes und alles, was mit …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

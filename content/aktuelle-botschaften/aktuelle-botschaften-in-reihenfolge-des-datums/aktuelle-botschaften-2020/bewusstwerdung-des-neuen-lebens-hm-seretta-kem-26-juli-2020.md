@@ -1,7 +1,7 @@
 ---
 title: "Bewusstwerdung des neuen Lebens"
 menu_title: ""
-description: "Bewusstwerdung des neuen Lebens"
+description: "Seretta Kem, empfangen durch Helge Mercker: „Meine Kinder, wir umarmen euch in unserer Liebe. Wir kommen, um euch nahe zu sein und eure Rufe nach Liebe …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

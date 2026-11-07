@@ -1,7 +1,7 @@
 ---
 title: "Seelensühne und das Spüren der Göttlichen Liebe"
 menu_title: ""
-description: "Seelensühne und das Spüren der Göttlichen Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr hattet ein interessantes Gespräch über den Zustand eurer Seelen und wie eure Seelen durch die Heilung jener …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

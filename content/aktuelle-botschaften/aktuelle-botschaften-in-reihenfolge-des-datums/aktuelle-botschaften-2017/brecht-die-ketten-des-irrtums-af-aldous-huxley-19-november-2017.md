@@ -1,7 +1,7 @@
 ---
 title: "Brecht die Ketten des Irrtums"
 menu_title: ""
-description: "Brecht die Ketten des Irrtums"
+description: "Aldous Huxley 1, empfangen durch Al Fike: „Ihr kennt mich aus den Büchern, die ich geschrieben habe und meine Vision der Zukunft, die ich in diesen Werken …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

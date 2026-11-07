@@ -1,7 +1,7 @@
 ---
 title: "Wie man die Wahrheit zu neuen Seelen bringt"
 menu_title: ""
-description: "Wie man die Wahrheit zu neuen Seelen bringt"
+description: "Michael Collier, empfangen durch Al Fike: „Ihr wurdet ernsthaft eingeladen, zu jenen lieben Seelen zu sprechen, die sich versammeln und ein Teil eures …“"
 date: 2020-08-01 06:25:48+00:230
 draft: False
 hidden: True

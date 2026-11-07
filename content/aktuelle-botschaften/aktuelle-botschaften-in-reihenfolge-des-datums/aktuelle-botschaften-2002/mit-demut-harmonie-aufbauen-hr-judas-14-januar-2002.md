@@ -1,7 +1,7 @@
 ---
 title: "Mit Demut Harmonie aufbauen"
 menu_title: ""
-description: "Mit Demut Harmonie aufbauen"
+description: "Judas, empfangen durch H.: „Aber erlaube mir, dir einen Ratschlag zu geben. Nach dem Tod Jesu verbreitete sich die neue Kirche, die in Wirklichkeit keine …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

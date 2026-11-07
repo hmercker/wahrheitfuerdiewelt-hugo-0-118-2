@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über die große Liebe Jesu zu ihm und das Interesse, das er sowohl an der materiellen als auch an der spirituellen Arbeit hat"
 menu_title: ""
-description: "Helen schreibt über die große Liebe Jesu zu ihm und das Interesse, das er sowohl an der materiellen als auch an der spirituellen Arbeit hat"
+description: "Helen Padgett, empfangen durch James Padgett: „Noch nie war ich so glücklich wie jetzt, denn ich weiß jetzt, dass du, wenn du in deiner Arbeit vorankommst …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

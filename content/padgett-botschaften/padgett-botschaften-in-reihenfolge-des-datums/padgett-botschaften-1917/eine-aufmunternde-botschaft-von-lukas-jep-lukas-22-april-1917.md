@@ -1,7 +1,7 @@
 ---
 title: "Eine aufmunternde Botschaft von Lukas"
 menu_title: ""
-description: "Eine aufmunternde Botschaft von Lukas"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen, denn ich sehe, wie du dich fühlst, und wie wichtig es ist, dass du glaubst, dass der …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

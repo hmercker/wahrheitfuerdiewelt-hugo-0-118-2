@@ -1,7 +1,7 @@
 ---
 title: "Die Macht des Gebets"
 menu_title: ""
-description: "Die Macht des Gebets"
+description: "Jesus, empfangen durch Al Fike: „Wisst, dass ihr Teil einer großen Familie seid, die das Licht sucht, die nach Einklang mit Gott strebt, dass jeder von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

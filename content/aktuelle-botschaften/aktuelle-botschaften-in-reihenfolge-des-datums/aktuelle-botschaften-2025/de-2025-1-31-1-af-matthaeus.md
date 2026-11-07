@@ -1,7 +1,7 @@
 ---
 title: "Die Engel segnen die kulturelle Vielfalt der Menschheit auf der Erde"
 menu_title: ""
-description: "Die Engel segnen die kulturelle Vielfalt der Menschheit auf der Erde"
+description: "Matthäus, empfangen durch Al Fike: „Die Welt ist ein sehr vielfältiger Ort, nicht wahr? Gott will die von Menschen geschaffenen Kulturen nicht stören oder …“"
 date: 2025-01-31 06:00:00+00:10
 draft: False
 hidden: True

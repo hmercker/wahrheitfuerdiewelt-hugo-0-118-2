@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst die Macht eures freien Willens verstehen lernen"
 menu_title: ""
-description: "Ihr müsst die Macht eures freien Willens verstehen lernen"
+description: "Jakobus, empfangen durch Al Fike: „Seid gesegnet, geliebte Freunde. Denn ohne die Ausübung eures Willens kann nichts geschehen, weder geistig noch …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

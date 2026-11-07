@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt die Zärtlichkeit ihrer Herangehensweise an die Arbeit mit uns"
 menu_title: ""
-description: "Beschreibt die Zärtlichkeit ihrer Herangehensweise an die Arbeit mit uns"
+description: "Orion & Jesus, empfangen durch Al Fike: „Ihr seid wie die zarten Triebe, die aus dem Boden sprießen. Ihr fangt an, im Licht zu wachsen, aber in eurem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

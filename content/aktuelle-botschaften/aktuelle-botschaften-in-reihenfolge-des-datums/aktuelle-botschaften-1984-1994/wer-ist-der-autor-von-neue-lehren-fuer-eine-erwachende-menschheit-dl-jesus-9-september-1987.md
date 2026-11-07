@@ -1,7 +1,7 @@
 ---
 title: "Wer ist der Autor von 'Neue Lehren für eine erwachende Menschheit'?"
 menu_title: ""
-description: "Wer ist der Autor von 'Neue Lehren für eine erwachende Menschheit'?"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, wie du sicher schon weißt, hat Reverend V. D. die Aufmerksamkeit von J auf ein neues Buch …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

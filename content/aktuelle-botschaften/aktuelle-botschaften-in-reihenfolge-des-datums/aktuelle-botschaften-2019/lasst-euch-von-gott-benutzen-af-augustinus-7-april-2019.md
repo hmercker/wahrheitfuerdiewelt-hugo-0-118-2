@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch von Gott benutzen"
 menu_title: ""
-description: "Lasst euch von Gott benutzen"
+description: "Augustinus, empfangen durch Al Fike: „Wie der Einfluss der himmlischen Engel euch alle infiziert, ist es nicht so? Es gibt einen Hauch des Göttlichen, der …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

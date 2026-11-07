@@ -1,7 +1,7 @@
 ---
 title: "Johannes: Fortsetzung der vorhergehenden Botschaft"
 menu_title: ""
-description: "Johannes: Fortsetzung der vorhergehenden Botschaft"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte meine Botschaft beenden und hoffe, dass du in der Lage bist, sie zu empfangen. Nun, da ich über die …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Darstellung der Wahrheiten des Vaters"
 menu_title: ""
-description: "Die Darstellung der Wahrheiten des Vaters"
+description: "Jesus, empfangen durch Kathryn Stokes im Jahr: „Aufgrund der großen Vielfalt an Glaubensrichtungen und Entwicklungsstufen wird es notwendigerweise die …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

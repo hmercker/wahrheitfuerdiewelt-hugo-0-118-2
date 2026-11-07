@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 7 : Das Reich Gottes in uns "
 menu_title: ""
-description: "Offenbarung 7 : Das Reich Gottes in uns "
+description: "Jesus, empfangen durch Dr Samuels: „Heute möchte ich dir über eine Passage schreiben, die zu vielerlei Missverständnissen geführt hat, nämlich vom Reich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

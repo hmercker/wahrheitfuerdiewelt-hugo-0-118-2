@@ -1,7 +1,7 @@
 ---
 title: "Lektion 21 - Die tiefe Freude des Seelenerwachens - Band 3"
 menu_title: ""
-description: "Lektion 21 - Die tiefe Freude des Seelenerwachens - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte auf die Erfahrung eines Menschen eingehen, der eine Beziehung zu Gott hat und das große Geschenk Seiner Liebe …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

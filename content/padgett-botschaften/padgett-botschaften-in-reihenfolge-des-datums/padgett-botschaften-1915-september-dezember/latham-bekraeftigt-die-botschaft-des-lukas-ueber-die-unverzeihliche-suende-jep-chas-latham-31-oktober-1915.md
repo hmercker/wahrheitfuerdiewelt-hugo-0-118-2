@@ -1,7 +1,7 @@
 ---
 title: "Latham bekräftigt die Botschaft des Lukas über die 'unverzeihliche Sünde'"
 menu_title: ""
-description: "Latham bekräftigt die Botschaft des Lukas über die 'unverzeihliche Sünde'"
+description: "Charles Latham, empfangen durch James Padgett: „Ich war ein Prediger in den Tagen der Reformation und starb in England als Märtyrer meines Glaubens und …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

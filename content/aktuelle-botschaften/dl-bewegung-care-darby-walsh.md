@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Care Darby Walsh"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Care Darby Walsh"
+description: "Aktuelle Botschaften empfangen von Care Darby Walsh: „Hier empfangene Botschaften seit ihrem irdischen Tod.“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

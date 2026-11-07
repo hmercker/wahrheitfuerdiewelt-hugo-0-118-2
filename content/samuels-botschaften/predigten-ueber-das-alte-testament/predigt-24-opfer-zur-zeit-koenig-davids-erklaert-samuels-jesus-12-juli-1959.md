@@ -1,7 +1,7 @@
 ---
 title: "Predigt 24 - Opfer zur Zeit König Davids erklärt"
 menu_title: ""
-description: "Predigt 24 - Opfer zur Zeit König Davids erklärt"
+description: "Jesus, empfangen durch Dr Samuels: „In dieser Predigt möchte ich über Davids Einstellung zu den Tempelopfern sprechen. Es gibt viele Ausdrücke in den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Integration des materiellen Verstands und des Seelenverstands"
 menu_title: ""
-description: "Integration des materiellen Verstands und des Seelenverstands"
+description: "Orion, empfangen durch Al Fike: „Ich danke dir für dein Gebet, geliebter Sohn. Die Grenzen des Verstandes sind in der Tat groß.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

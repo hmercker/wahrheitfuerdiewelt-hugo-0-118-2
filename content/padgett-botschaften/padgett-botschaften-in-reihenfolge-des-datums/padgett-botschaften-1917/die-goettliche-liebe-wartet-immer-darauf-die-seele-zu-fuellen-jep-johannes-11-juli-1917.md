@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe wartet immer darauf, die Seele zu füllen"
 menu_title: ""
-description: "Die Göttliche Liebe wartet immer darauf, die Seele zu füllen"
+description: "Johannes, empfangen durch James Padgett: „Ich habe dein Gebet gehört und weiß, dass diese Liebe in deine Seele fließt und dass du jetzt einen großen …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wie der Mensch mit den Gesetzen, die ihn als erschaffenen Menschen regieren, in Einklang kommen kann, ohne die Göttliche Liebe zu erlangen"
 menu_title: ""
-description: "Wie der Mensch mit den Gesetzen, die ihn als erschaffenen Menschen regieren, in Einklang kommen kann, ohne die Göttliche Liebe zu erlangen"
+description: "Abraham Lincoln, empfangen durch James Padgett: „Laß mich heute Abend ein paar Zeilen schreiben, da du in guter Verfassung bist, um meine Botschaft zu …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

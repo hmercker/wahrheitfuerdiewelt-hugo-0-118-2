@@ -1,7 +1,7 @@
 ---
 title: "Campbell verstand den Plan der Erlösung des Menschen nicht, als er noch auf Erden war"
 menu_title: ""
-description: "Campbell verstand den Plan der Erlösung des Menschen nicht, als er noch auf Erden war"
+description: "Alexander Campbell, empfangen durch James Padgett: „Nun, ich habe es so buchstabiert, wie es geschrieben werden sollte. Ich weiß, dass meine Anhänger …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

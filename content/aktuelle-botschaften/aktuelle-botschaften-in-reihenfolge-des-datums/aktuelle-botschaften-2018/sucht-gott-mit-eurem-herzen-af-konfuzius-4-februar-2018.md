@@ -1,7 +1,7 @@
 ---
 title: "Sucht Gott mit eurem Herzen"
 menu_title: ""
-description: "Sucht Gott mit eurem Herzen"
+description: "Konfuzius, empfangen durch Al Fike: „Ja, ich war das erste spirituelle Wesen, das vor vielen Jahren zu diesem jungen Mann sprach.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

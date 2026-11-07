@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt Seelenerwachen"
 menu_title: ""
-description: "Beschreibt Seelenerwachen"
+description: "Orion, empfangen durch Al Fike: „Oh, was für Herausforderungen stellt eure irdische, dichte Existenzebene in Bezug auf eure spirituelle Entwicklung und …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

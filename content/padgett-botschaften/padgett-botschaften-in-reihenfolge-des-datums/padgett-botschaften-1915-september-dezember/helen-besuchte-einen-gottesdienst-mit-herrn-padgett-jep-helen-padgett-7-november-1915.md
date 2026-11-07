@@ -1,7 +1,7 @@
 ---
 title: "Helen besuchte einen Gottesdienst mit Herrn Padgett"
 menu_title: ""
-description: "Helen besuchte einen Gottesdienst mit Herrn Padgett"
+description: "Helen, empfangen durch James Padgett: „Ich sehe, du bist müde und ich werde nicht viel schreiben. Ich war mit dir in der Kirche und das Medium sah die von …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

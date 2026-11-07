@@ -1,7 +1,7 @@
 ---
 title: "Helen ist froh, dass der Richter geschrieben hat"
 menu_title: ""
-description: "Helen ist froh, dass der Richter geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Er ist sehr glücklich und macht Fortschritte, und mit seiner Rose genießt er die Glückseligkeit in vollen Zügen.“"
 date: 2020-08-01 06:25:48+00:246
 draft: False
 hidden: True

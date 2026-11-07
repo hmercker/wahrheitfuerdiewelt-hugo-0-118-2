@@ -1,7 +1,7 @@
 ---
 title: "Beziehungen"
 menu_title: ""
-description: "Beziehungen"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Dies war eine Antwort auf eine Frage, die ich auf dem Divine Love Web Message Board …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Predigt 30 - Amos und Hosea waren Gott gehorsam"
 menu_title: ""
-description: "Predigt 30 - Amos und Hosea waren Gott gehorsam"
+description: "Jesus, empfangen durch Dr Samuels: „Ich möchte nun kurz die Stellung von Amos in der alttestamentlichen Entwicklung der menschlichen Liebe, dem Vorläufer …“"
 date: 2020-08-01 06:25:48+00:02
 draft: False
 hidden: True

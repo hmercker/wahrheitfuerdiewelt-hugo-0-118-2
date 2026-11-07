@@ -1,7 +1,7 @@
 ---
 title: "Betet!"
 menu_title: ""
-description: "Betet!"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Weil ihr im Gebet und in Demut zusammengekommen seid, unseren Schöpfer anerkennt und darum bittet, Seine Große …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

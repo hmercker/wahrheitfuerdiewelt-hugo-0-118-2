@@ -1,7 +1,7 @@
 ---
 title: "Bleibt erwacht in der Göttlichen Liebe"
 menu_title: ""
-description: "Bleibt erwacht in der Göttlichen Liebe"
+description: "George Gurdjieff, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes über euch sein! Einige hier wissen vielleicht von meiner Arbeit, als ich auf der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid fröhlich in Gottes Liebe"
 menu_title: ""
-description: "Seid fröhlich in Gottes Liebe"
+description: "Goldie, empfangen durch Al Fike: „Für euch, meine Freunde, bin ich Goldie. Freude ist das Thema eurer Reise.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

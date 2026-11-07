@@ -1,7 +1,7 @@
 ---
 title: "Die in Liebe dienen, werden die Welt verändern"
 menu_title: ""
-description: "Die in Liebe dienen, werden die Welt verändern"
+description: "Helen Padgett, empfangen durch Al Fike: „Ich diene weiterhin vielen Menschen auf dieser Welt, die die Wahrheit der Liebe Gottes suchen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

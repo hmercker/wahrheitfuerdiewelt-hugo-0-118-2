@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit ist wie ein Virus auf Mutter Erde"
 menu_title: ""
-description: "Die Menschheit ist wie ein Virus auf Mutter Erde"
+description: "Kopernikus, empfangen durch Al Fike: „Eure Mutter Erde braucht dringend Gebete. Aber in der Tat, die Erde hat ein Fieber.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

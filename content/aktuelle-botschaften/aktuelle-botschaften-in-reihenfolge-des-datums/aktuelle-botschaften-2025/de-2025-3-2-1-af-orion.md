@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit, die Wahl zu treffen"
 menu_title: ""
-description: "Es ist an der Zeit, die Wahl zu treffen"
+description: "Orion, empfangen durch Al Fike: „Möget ihr mit einem großen Einströmen der Liebe des Vaters gesegnet sein, diesem universellen Segen, der allen Seelen zur …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

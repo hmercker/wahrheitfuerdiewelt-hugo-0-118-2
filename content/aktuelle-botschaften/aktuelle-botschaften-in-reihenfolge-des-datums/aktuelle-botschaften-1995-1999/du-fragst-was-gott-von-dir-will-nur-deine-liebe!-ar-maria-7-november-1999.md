@@ -1,7 +1,7 @@
 ---
 title: "Du fragst, was Gott von dir will? Nur Deine Liebe!"
 menu_title: ""
-description: "Du fragst, was Gott von dir will? Nur Deine Liebe!"
+description: "Maria, empfangen durch Amada Reza: „[Ich bete, lieber Gott, dass Deine barmherzige Liebe meine Seele erfüllt und mich emporhebt, um Deinen dienenden Engeln …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

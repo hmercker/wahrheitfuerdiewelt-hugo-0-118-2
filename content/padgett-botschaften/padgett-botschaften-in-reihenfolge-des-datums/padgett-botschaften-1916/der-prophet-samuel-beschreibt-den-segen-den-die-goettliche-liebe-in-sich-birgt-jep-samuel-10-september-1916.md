@@ -1,7 +1,7 @@
 ---
 title: "Der Prophet Samuel beschreibt den Segen, den die Göttliche Liebe in sich birgt"
 menu_title: ""
-description: "Der Prophet Samuel beschreibt den Segen, den die Göttliche Liebe in sich birgt"
+description: "Samuel, empfangen durch James Padgett: „Ich weiß, dass die Sorgen des Lebens dich daran hindern, den Einfluss der Großen Liebe wahrzunehmen, die dich …“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

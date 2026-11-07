@@ -1,7 +1,7 @@
 ---
 title: "Helen findet die Seelenpartnerin von Herrn Padgetts Vater, die sehr liebenswert und ein göttliches Spirituelles Wesen ist"
 menu_title: ""
-description: "Helen findet die Seelenpartnerin von Herrn Padgetts Vater, die sehr liebenswert und ein göttliches Spirituelles Wesen ist"
+description: "Helen Padgett, empfangen durch James Padgett: „Ich werde dir von der Seelenpartnerin deines Vaters erzählen, wie ich es versprochen habe.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

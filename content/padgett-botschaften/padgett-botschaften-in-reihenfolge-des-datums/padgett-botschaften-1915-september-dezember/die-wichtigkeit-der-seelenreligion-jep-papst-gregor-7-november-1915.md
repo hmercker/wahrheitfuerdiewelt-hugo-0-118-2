@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit der Seelenreligion"
 menu_title: ""
-description: "Die Wichtigkeit der Seelenreligion"
+description: "Gregor, empfangen durch James Padgett: „Ich war der große Papst Roms, der so viel getan hat, um die Römische Kirche auf einer sicheren Basis zu gründen und …“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

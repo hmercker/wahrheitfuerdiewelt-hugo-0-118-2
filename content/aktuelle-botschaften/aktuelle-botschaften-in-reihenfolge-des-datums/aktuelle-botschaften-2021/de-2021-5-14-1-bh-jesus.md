@@ -1,7 +1,7 @@
 ---
 title: "Die Unterscheidung zwischen Göttlicher Liebe und Emotionaler Liebe"
 menu_title: ""
-description: "Die Unterscheidung zwischen Göttlicher Liebe und Emotionaler Liebe"
+description: "Jesus, empfangen durch Brian Holmes: „Ich werde diese Frage hier stellen, und jeder himmlische Engel, der sie beantworten möchte, kann sie hier beantworten.“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

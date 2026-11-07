@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitungen für die Direkte Stimme"
 menu_title: ""
-description: "Vorbereitungen für die Direkte Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Meine Schützlinge haben um eine Anleitung gebeten, wie sie sich auf die Direkte Stimme vorbereiten und in Harmonie …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

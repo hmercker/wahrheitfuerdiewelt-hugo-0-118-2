@@ -1,7 +1,7 @@
 ---
 title: "Feiert die Freude am Leben!"
 menu_title: ""
-description: "Feiert die Freude am Leben!"
+description: "Orion, empfangen durch Al Fike: „...sei euer, schöne Freunde. Die Segnungen einer Seele, die sich nach Gott sehnt.“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

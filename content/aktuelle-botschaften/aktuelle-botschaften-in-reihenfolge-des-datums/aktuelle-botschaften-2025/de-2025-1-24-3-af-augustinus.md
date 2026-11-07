@@ -1,7 +1,7 @@
 ---
 title: "Die Empfänglichkeit des Verstandes und der Seele und die Bedingungen die für Manifestationen erforderlich sind"
 menu_title: ""
-description: "Die Empfänglichkeit des Verstandes und der Seele und die Bedingungen die für Manifestationen erforderlich sind"
+description: "Augustinus, empfangen durch Al Fike: „Ihr sprecht von der sehnsüchtigen Seele und davon, wie man diese Seele erreichen kann, um die Wahrheit der Liebe des …“"
 date: 2025-01-24 06:00:00+00:10
 draft: False
 hidden: True

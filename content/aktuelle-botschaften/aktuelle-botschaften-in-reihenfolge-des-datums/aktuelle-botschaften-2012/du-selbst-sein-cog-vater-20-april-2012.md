@@ -1,7 +1,7 @@
 ---
 title: "Du selbst sein"
 menu_title: ""
-description: "Du selbst sein"
+description: "Vater, empfangen durch Child of God: „Du warst gestern sehr gestresst wegen eines einzigen Wortes, das du nicht ganz richtig verstanden hast.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

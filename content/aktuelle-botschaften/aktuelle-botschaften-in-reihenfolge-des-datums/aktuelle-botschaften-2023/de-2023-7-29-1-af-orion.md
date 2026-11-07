@@ -1,7 +1,7 @@
 ---
 title: "Die drei Bewustseinsebenen und der Weg zum Erwachen der Seele"
 menu_title: ""
-description: "Die drei Bewustseinsebenen und der Weg zum Erwachen der Seele"
+description: "Orion, empfangen durch Al Fike: „Ein großer Unterschied zwischen uns, die wir so weit von euch entfernt leben, und euch selbst ist euer Bewusstsein oder …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

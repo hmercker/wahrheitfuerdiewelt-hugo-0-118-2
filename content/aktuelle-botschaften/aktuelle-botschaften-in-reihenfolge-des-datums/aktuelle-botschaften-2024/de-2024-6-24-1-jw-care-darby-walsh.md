@@ -1,7 +1,7 @@
 ---
 title: "Die Neue Geburt"
 menu_title: ""
-description: "Die Neue Geburt"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Als der Meister von der Wiedergeburt sprach, wurde er fälschlicherweise so interpretiert, dass er damit …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

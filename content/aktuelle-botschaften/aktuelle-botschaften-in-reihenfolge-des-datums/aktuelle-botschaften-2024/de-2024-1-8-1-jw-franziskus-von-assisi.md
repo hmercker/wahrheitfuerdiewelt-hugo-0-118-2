@@ -1,7 +1,7 @@
 ---
 title: "In der Gnade bleiben"
 menu_title: ""
-description: "In der Gnade bleiben"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Möge der sanfte Regen der Liebe Gottes auf euch fallen, wenn ihr eure Seelen für die Erfüllung mit …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

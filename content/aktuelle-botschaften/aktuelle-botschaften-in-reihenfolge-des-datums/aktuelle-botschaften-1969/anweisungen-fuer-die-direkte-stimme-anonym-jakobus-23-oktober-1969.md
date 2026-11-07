@@ -1,7 +1,7 @@
 ---
 title: "Anweisungen für die Direkte Stimme"
 menu_title: ""
-description: "Anweisungen für die Direkte Stimme"
+description: "Jakobus: „Alec, ich möchte, dass ihr eine kleinere Gruppe zusammenstellt, um für die Direkte Stimme zu sitzen.“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

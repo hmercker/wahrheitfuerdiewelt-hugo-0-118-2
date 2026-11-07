@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt von den falschen Überzeugungen von Herrn Colburn"
 menu_title: ""
-description: "Helen erzählt von den falschen Überzeugungen von Herrn Colburn"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du einen angenehmen Abend hattest und ich habe mit Interesse eurem Gespräch in …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt, dass Gottes Liebe auf einzigartige Weise durch eure Seele zum Ausdruck kommt"
 menu_title: ""
-description: "Erlaubt, dass Gottes Liebe auf einzigartige Weise durch eure Seele zum Ausdruck kommt"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Am Anfang, wenn eine Seele beginnt, sich nach der Liebe Gottes zu sehnen, um dieses außerordentliche …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

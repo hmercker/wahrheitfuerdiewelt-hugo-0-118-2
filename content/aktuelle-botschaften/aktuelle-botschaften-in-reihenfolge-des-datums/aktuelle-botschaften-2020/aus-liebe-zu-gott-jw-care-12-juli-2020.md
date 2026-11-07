@@ -1,7 +1,7 @@
 ---
 title: "Aus Liebe zu Gott"
 menu_title: ""
-description: "Aus Liebe zu Gott"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Erinnert euch daran, dass alles, was ihr tut, für die Liebe Gottes sein kann, und wenn dies euer …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

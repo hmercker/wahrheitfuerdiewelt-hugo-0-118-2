@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung von Astronomie und Astrologie ist begrenzt"
 menu_title: ""
-description: "Die Bedeutung von Astronomie und Astrologie ist begrenzt"
+description: "Aekarius, empfangen durch Al Fike: „Vieles von dem, was ihr Astrologie nennt, ist aus dem Wunsch der Menschen entstanden, die Zukunft vorherzusagen und die …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

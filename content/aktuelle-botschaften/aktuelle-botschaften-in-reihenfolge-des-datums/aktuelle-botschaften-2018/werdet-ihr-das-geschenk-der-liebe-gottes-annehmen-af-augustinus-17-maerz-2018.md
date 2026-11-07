@@ -1,7 +1,7 @@
 ---
 title: "Werdet ihr das Geschenk der Liebe Gottes annehmen?"
 menu_title: ""
-description: "Werdet ihr das Geschenk der Liebe Gottes annehmen?"
+description: "Augustinus, empfangen durch Al Fike: „Es gibt einen Plan, den Gott hat, um mehr Licht in diese Welt zu bringen, um all jene Seelen zu nutzen, die bereit …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

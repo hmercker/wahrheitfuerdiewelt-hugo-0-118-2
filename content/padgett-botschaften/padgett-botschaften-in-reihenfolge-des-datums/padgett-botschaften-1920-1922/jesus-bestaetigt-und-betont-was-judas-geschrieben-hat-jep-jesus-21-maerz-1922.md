@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt und betont was Judas geschrieben hat"
 menu_title: ""
-description: "Jesus bestätigt und betont was Judas geschrieben hat"
+description: "Jesus, empfangen von James Padgett: „Was Judas dir geschrieben hat, befürworte und betone ich, und mit all meiner Liebe für den bloßen Menschen, wie auch …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

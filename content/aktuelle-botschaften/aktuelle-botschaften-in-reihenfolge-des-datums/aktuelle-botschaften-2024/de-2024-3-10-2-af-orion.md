@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt sein Aussehen und seine Seele"
 menu_title: ""
-description: "Beschreibt sein Aussehen und seine Seele"
+description: "Orion, empfangen durch Al Fike: „Ihr habt über mich gesprochen und mich in euren Kreis gezogen. Ich möchte euch sagen, dass ich in der Tat von einem …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

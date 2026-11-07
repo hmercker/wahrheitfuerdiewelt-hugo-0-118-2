@@ -1,7 +1,7 @@
 ---
 title: "Samuel drückt seine Liebe für Herrn Padgett und die Arbeit aus, die er im Namen des Königreichs leistet"
 menu_title: ""
-description: "Samuel drückt seine Liebe für Herrn Padgett und die Arbeit aus, die er im Namen des Königreichs leistet"
+description: "Samuel, empfangen durch James Padgett: „Nun, heute Abend werde ich keinen meiner formellen Briefe schreiben, sondern nur sagen, dass du in einem viel …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

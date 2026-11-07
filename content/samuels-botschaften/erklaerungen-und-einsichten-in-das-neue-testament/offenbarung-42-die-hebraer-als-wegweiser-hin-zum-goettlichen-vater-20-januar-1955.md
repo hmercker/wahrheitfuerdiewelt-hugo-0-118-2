@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 42 : Die Hebräer als Wegweiser hin zum göttlichen Vater"
 menu_title: ""
-description: "Offenbarung 42 : Die Hebräer als Wegweiser hin zum göttlichen Vater"
+description: "Jesus, empfangen durch Dr Samuels: „Erneut bin ich bei dir, um dir eine der Botschaften zu schreiben, die das Neue Testament von seinen Irrtümern befreien …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommunikation mit Göttlichen und anderen spirituellen Wesen"
 menu_title: ""
-description: "Kommunikation mit Göttlichen und anderen spirituellen Wesen"
+description: "Judas, empfangen durch H.: „Nach unserem gestrigen Treffen am Vormittag habe ich nicht mit dir kommuniziert. Auch von meiner Seite hast du keine Eindrücke …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

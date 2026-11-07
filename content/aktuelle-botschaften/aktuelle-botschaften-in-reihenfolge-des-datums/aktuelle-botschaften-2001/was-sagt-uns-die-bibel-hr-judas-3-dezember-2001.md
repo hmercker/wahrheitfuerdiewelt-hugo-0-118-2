@@ -1,7 +1,7 @@
 ---
 title: "Was sagt uns die Bibel?"
 menu_title: ""
-description: "Was sagt uns die Bibel?"
+description: "Judas, empfangen durch H.: „Womit wir uns bisher in vielen Botschaften beschäftigt haben, sind die sogenannten verlorenen Jahre Jesu.“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

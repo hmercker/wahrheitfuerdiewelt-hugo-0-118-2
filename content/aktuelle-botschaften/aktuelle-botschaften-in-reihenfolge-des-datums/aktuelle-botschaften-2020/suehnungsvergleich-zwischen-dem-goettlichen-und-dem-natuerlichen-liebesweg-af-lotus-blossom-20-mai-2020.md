@@ -1,7 +1,7 @@
 ---
 title: "Sühnungsvergleich zwischen dem Göttlichen und dem natürlichen Liebesweg"
 menu_title: ""
-description: "Sühnungsvergleich zwischen dem Göttlichen und dem natürlichen Liebesweg"
+description: "Lotus Blüte, empfangen durch Al Fike: „Wir finden Freude an euren Entdeckungen, euren Versuchen, die tiefere Wahrheit der Liebe des Vaters und die tiefen …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

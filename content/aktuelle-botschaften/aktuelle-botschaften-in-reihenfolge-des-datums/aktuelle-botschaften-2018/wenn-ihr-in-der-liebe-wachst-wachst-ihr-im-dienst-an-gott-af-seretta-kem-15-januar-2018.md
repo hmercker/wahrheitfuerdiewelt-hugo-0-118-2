@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr in der Liebe wachst, wachst ihr im Dienst an Gott"
 menu_title: ""
-description: "Wenn ihr in der Liebe wachst, wachst ihr im Dienst an Gott"
+description: "Seretta Kem, empfangen durch Al Fike: „Spürt ihr den Eifer eurer Freunde aus der Ferne, die mit euch im Gebet sein wollen? Diese Gelegenheit wird nur eine …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

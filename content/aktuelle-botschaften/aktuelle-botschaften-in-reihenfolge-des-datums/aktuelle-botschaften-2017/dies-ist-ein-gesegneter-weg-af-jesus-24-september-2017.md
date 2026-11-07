@@ -1,7 +1,7 @@
 ---
 title: "Dies ist ein gesegneter Weg"
 menu_title: ""
-description: "Dies ist ein gesegneter Weg"
+description: "Jesus, empfangen durch Al Fike: „Sein Atem ist Liebe und Seine Liebe dringt in eure Seele ein, heilt eure Wunden, erhebt euer Herz und bringt euch immer …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

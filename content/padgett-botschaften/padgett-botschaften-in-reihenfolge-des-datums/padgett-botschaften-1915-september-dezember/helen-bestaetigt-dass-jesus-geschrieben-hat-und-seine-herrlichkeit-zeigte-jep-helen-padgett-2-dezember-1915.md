@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit zeigte"
 menu_title: ""
-description: "Helen bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit zeigte"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hast heute Abend einige wunderbare Botschaften erhalten, die alle bestätigen, dass der Meister …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich bin die Wärme in deinem Herzen"
 menu_title: ""
-description: "Ich bin die Wärme in deinem Herzen"
+description: "Maria, empfangen durch Child of God: „Wisse, dass ich immer bei dir gewesen bin. Greif einfach nach mir und fühle meine Gegenwart.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

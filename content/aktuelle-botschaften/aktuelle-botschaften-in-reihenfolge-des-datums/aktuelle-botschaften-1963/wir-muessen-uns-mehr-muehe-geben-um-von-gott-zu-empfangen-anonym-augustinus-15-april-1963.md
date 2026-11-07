@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen uns mehr Mühe geben, um von Gott zu empfangen"
 menu_title: ""
-description: "Wir müssen uns mehr Mühe geben, um von Gott zu empfangen"
+description: "Augustinus: „Mir ist klar, dass wir von der spirituellen Seite sehr dankbar sind, die Stimme von jemandem zu nutzen, der bereit ist zu dienen, aber wir …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

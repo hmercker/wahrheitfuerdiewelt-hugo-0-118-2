@@ -1,7 +1,7 @@
 ---
 title: "Worte ohne Taten"
 menu_title: ""
-description: "Worte ohne Taten"
+description: "Franziskus von Asissi, empfangen durch Jimbeau Walsh: „In einer Welt, die so sehr damit beschäftigt ist, materielle Dinge zu erwerben, in einer Welt, die …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

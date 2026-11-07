@@ -1,7 +1,7 @@
 ---
 title: "Den Machthabern Wissen über die Wahrheit vermitteln"
 menu_title: ""
-description: "Den Machthabern Wissen über die Wahrheit vermitteln"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es gibt ein Sprichwort, ein modernes Sprichwort, das dazu ermutigt, den Mächtigen die Wahrheit zu sagen.“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

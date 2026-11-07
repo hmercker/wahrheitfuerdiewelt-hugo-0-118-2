@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die vorherige Nachricht"
 menu_title: ""
-description: "Helen bestätigt die vorherige Nachricht"
+description: "Helen, empfangen durch James Padgett: „Ja, das waren sie, und Ingersoll ist jetzt bei Herrn Riddle und deiner Großmutter. Er scheint von deiner Großmutter …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

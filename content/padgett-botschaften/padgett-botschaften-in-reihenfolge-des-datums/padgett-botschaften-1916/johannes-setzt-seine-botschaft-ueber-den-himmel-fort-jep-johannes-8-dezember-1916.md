@@ -1,7 +1,7 @@
 ---
 title: "Johannes setzt seine Botschaft über den Himmel fort"
 menu_title: ""
-description: "Johannes setzt seine Botschaft über den Himmel fort"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte meine Kommentare zu der Predigt des Predigers [Dr. Ratcliff] über den Himmel beenden.“"
 date: 2020-08-01 06:25:48+00:283
 draft: False
 hidden: True

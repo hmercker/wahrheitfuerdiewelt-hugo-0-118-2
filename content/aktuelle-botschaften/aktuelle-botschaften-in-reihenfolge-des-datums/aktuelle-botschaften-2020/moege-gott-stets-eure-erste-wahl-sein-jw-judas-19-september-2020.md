@@ -1,7 +1,7 @@
 ---
 title: "Möge Gott stets eure erste Wahl sein"
 menu_title: ""
-description: "Möge Gott stets eure erste Wahl sein"
+description: "Judas, empfangen durch Jimbeau Walsh: „Und ich möchte euch dafür loben, dass ihr heute diese beiden sehr umfassenden Botschaften ausgewählt habt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

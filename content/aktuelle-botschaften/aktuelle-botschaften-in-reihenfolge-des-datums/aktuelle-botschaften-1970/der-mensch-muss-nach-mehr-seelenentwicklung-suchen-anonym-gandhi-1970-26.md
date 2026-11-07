@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch muss nach mehr Seelenentwicklung suchen"
 menu_title: ""
-description: "Der Mensch muss nach mehr Seelenentwicklung suchen"
+description: "Gandhi: „Ich habe auch mit dem Geliebten im Kämmerchen gearbeitet, da ich ein großes Verlangen habe, noch einmal direkt zur Erde zu sprechen, wenn …“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

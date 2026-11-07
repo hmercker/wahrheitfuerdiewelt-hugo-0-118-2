@@ -1,7 +1,7 @@
 ---
 title: "Die Seele soll der Anführer eures Bewusstseins sein"
 menu_title: ""
-description: "Die Seele soll der Anführer eures Bewusstseins sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Heute möchte ich über den Prozess der Integration der drei Aspekte eures Wesens sprechen: der Seele, des …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

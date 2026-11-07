@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Verbindung "
 menu_title: ""
-description: "Die Göttliche Verbindung "
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Für alle, denen es schwerfällt, die Liebe Gottes zu spüren, für alle, die mit Einsamkeit oder einem …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Aus einem Samenkorn wächst der große Baum"
 menu_title: ""
-description: "Aus einem Samenkorn wächst der große Baum"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, die Bande der Liebe binden euch alle weiterhin in enger Verbindung und Liebe, und obwohl ihr es als schwierig …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

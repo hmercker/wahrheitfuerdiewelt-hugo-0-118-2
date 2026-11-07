@@ -1,7 +1,7 @@
 ---
 title: "Die Himmlischen Wesen müssen arbeiten, bis das Göttliche Reich die Pforten schließt"
 menu_title: ""
-description: "Die Himmlischen Wesen müssen arbeiten, bis das Göttliche Reich die Pforten schließt"
+description: "Johannes, empfangen durch James Padgett: „Wir sind Göttliche spirituelle Wesen der höchsten Ordnung, aber diese Tatsache hält uns nicht davon ab, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

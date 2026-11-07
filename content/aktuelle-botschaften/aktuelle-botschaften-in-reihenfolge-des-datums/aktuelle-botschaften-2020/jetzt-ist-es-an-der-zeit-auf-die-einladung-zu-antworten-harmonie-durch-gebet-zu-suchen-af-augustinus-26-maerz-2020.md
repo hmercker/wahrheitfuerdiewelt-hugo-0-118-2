@@ -1,7 +1,7 @@
 ---
 title: "Jetzt ist es an der Zeit, auf die Einladung zu antworten, Harmonie durch Gebet zu suchen"
 menu_title: ""
-description: "Jetzt ist es an der Zeit, auf die Einladung zu antworten, Harmonie durch Gebet zu suchen"
+description: "Augustinus, empfangen durch Al Fike: „Es ist Augustinus, euer Lehrer. Während die Winde des Wandels über eure Welt wehen, seht ihr nicht, wie unzureichend …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

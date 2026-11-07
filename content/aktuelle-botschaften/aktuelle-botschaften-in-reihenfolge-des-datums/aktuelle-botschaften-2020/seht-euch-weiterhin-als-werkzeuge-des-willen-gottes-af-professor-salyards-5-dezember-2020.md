@@ -1,7 +1,7 @@
 ---
 title: "Seht euch weiterhin als Werkzeuge des Willen Gottes"
 menu_title: ""
-description: "Seht euch weiterhin als Werkzeuge des Willen Gottes"
+description: "Professor Salyards, empfangen durch Al Fike: „Es ist euer Professor Salyards hier. Unser lieber und geliebter Matthäus drückt tiefe Wahrheit und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

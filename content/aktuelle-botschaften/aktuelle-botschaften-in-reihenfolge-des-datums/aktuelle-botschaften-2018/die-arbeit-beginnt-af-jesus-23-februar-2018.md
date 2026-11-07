@@ -1,7 +1,7 @@
 ---
 title: "Die Arbeit beginnt"
 menu_title: ""
-description: "Die Arbeit beginnt"
+description: "Jesus, empfangen durch Al Fike: „Geliebte Seelen, lernt die Fähigkeiten und Stärken eurer Seelen kennen, wie ihr durch diesen Weg und Kanal in euch unter …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

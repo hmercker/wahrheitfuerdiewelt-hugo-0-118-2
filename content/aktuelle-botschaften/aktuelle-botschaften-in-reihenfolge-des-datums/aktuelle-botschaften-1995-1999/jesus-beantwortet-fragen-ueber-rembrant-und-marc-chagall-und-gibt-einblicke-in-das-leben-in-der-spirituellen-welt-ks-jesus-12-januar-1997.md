@@ -1,7 +1,7 @@
 ---
 title: "Jesus beantwortet Fragen über Rembrant und Marc Chagall und gibt Einblicke in das Leben in der spirituellen Welt"
 menu_title: ""
-description: "Jesus beantwortet Fragen über Rembrant und Marc Chagall und gibt Einblicke in das Leben in der spirituellen Welt"
+description: "Jesus, empfangen durch Kathryn Stokes: „[ hat den Wunsch nach Informationen über zwei Künstler. Er bereitet einen Kurs über die beiden - Rembrant und Marc …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

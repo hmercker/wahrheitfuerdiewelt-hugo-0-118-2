@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen lernen, keine Barrieren aufzubauen"
 menu_title: ""
-description: "Wir müssen lernen, keine Barrieren aufzubauen"
+description: "Abdulla: „Es gibt keine Barrieren im Leben, meine Freunde. Die Barrieren, die wir im Leben finden, sind das, was wir für uns selbst bauen.“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

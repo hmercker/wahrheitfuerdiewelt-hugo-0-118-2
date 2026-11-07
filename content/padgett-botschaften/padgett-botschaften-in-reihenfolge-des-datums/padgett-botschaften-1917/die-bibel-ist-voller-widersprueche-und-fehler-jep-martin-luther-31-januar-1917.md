@@ -1,7 +1,7 @@
 ---
 title: "Die Bibel ist voller Widersprüche und Fehler"
 menu_title: ""
-description: "Die Bibel ist voller Widersprüche und Fehler"
+description: "Martin Luther, empfangen durch James Padgett: „Ich möchte dies tun, sobald du in der Lage bist und ich hoffe, dass du mir die Möglichkeit gibst.“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

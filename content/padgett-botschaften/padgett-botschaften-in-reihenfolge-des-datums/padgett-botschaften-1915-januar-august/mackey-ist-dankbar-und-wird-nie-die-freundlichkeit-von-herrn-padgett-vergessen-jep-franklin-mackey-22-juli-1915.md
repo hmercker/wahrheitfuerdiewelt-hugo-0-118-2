@@ -1,7 +1,7 @@
 ---
 title: "Mackey ist dankbar und wird nie die Freundlichkeit von Herrn Padgett vergessen"
 menu_title: ""
-description: "Mackey ist dankbar und wird nie die Freundlichkeit von Herrn Padgett vergessen"
+description: "Mackey, empfangen durch James Padgett: „Ich möchte dir nur eine Zeile schreiben, um dir zu sagen, dass du mein Freund und Helfer in meiner Dunkelheit und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Verschiedene Anpassungen in euren Körpern"
 menu_title: ""
-description: "Verschiedene Anpassungen in euren Körpern"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir fahren fort, verschiedene Anpassungen in euren Körpern vorzunehmen und bringen verschiedene Chemikalien in eure …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

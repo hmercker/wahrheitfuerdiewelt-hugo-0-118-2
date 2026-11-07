@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Vorhersagen der beiden deutschen Schreiber zur Beendigung des Krieges"
 menu_title: ""
-description: "Helen kommentiert die Vorhersagen der beiden deutschen Schreiber zur Beendigung des Krieges"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du bist ein wenig müde und solltest heute Abend besser nicht mehr schreiben.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

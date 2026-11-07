@@ -1,7 +1,7 @@
 ---
 title: "Die Intensität eurer Gebete bestimmt die Wirksamkeit des Ergebnisses"
 menu_title: ""
-description: "Die Intensität eurer Gebete bestimmt die Wirksamkeit des Ergebnisses"
+description: "Orion, empfangen durch Al Fike: „Je intensiver euer Gebet ist, desto mächtiger ist das Ergebnis. Je aufrichtiger ihr in euren Gedanken und Wünschen seid …“"
 date: 2025-03-27 06:00:00+00:10
 draft: False
 hidden: True

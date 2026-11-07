@@ -1,7 +1,7 @@
 ---
 title: "Das Vertrauen in andere"
 menu_title: ""
-description: "Das Vertrauen in andere"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Liebe liebende Schöpferseele. Wenn ich in der Verfassung bin, deine Gedanken klar zu empfangen, hätten wir gerne …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

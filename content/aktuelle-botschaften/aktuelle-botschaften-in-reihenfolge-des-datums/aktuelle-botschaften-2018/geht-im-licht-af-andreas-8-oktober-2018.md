@@ -1,7 +1,7 @@
 ---
 title: "Geht im Licht"
 menu_title: ""
-description: "Geht im Licht"
+description: "Andreas, empfangen durch Al Fike: „Ihr alle tragt ein Licht, ein Licht in der Welt, einer Welt, die Licht braucht. Ihr alle kämpft weiter darum, in euch …“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

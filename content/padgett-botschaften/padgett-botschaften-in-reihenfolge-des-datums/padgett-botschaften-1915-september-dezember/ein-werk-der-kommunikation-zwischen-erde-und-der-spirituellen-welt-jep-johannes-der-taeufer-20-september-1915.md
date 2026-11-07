@@ -1,7 +1,7 @@
 ---
 title: "Ein Werk der Kommunikation zwischen Erde und der spirituellen Welt"
 menu_title: ""
-description: "Ein Werk der Kommunikation zwischen Erde und der spirituellen Welt"
+description: "Johannes der Täufer, empfangen von James Padgett: „Du bist also in der Verfassung, das zu glauben, was wir dir schreiben und dich darauf zu verlassen, dass …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

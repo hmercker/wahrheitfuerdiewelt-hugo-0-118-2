@@ -1,7 +1,7 @@
 ---
 title: "William T Sherman ist derselbe wie auf Erden"
 menu_title: ""
-description: "William T Sherman ist derselbe wie auf Erden"
+description: "William T. Sherman 1, empfangen durch James Padgett: „Nein, es scheint nicht - wie seltsam. [White Eagle: Er sagt, dass sein Name General Sherman war und …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

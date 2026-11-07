@@ -1,7 +1,7 @@
 ---
 title: "Gott bereitet viele Seelen auf das Kommende vor"
 menu_title: ""
-description: "Gott bereitet viele Seelen auf das Kommende vor"
+description: "Andreas, empfangen durch Al Fike: „Geliebte Seelen, es ist Andreas. Die Impulse und Wellen der Liebe Gottes wirken weiterhin auf diese Erde ein, erheben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

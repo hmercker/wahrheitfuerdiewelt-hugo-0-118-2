@@ -1,7 +1,7 @@
 ---
 title: "Durch negative Zustände in größeres Licht gelangen"
 menu_title: ""
-description: "Durch negative Zustände in größeres Licht gelangen"
+description: "Faith, empfangen durch Al Fike: „Geliebte Seelen, ich weiß, dass ihr manchmal herausgefordert werdet, dass andere euch nicht glauben und behaupten, ihr …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

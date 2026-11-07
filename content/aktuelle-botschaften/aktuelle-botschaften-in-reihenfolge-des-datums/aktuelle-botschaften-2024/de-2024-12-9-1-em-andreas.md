@@ -1,7 +1,7 @@
 ---
 title: "Dies ist eure Zeit, eure Bestimmung auf dieser Erde zu erfüllen"
 menu_title: ""
-description: "Dies ist eure Zeit, eure Bestimmung auf dieser Erde zu erfüllen"
+description: "Andreas, empfangen durch Elisabeth Mack: „Denn wir sind uns durch die Gebete, die ihr für die Rettung der Menschheit darbringt, näher gekommen.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

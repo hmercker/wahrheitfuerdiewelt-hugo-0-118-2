@@ -1,7 +1,7 @@
 ---
 title: "Jesus verwirrt die Pharisäer"
 menu_title: ""
-description: "Jesus verwirrt die Pharisäer"
+description: "Judas, empfangen durch H.: „Lass uns über ein anderes Thema sprechen: Stell dir die folgende Szene vor:“"
 date: 2020-08-01 06:25:48+00:251
 draft: False
 hidden: True

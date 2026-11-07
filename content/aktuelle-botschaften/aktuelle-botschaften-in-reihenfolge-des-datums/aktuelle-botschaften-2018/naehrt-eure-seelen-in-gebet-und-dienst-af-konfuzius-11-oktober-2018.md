@@ -1,7 +1,7 @@
 ---
 title: "Nährt eure Seelen in Gebet und Dienst"
 menu_title: ""
-description: "Nährt eure Seelen in Gebet und Dienst"
+description: "Konfuzius, empfangen durch Al Fike: „Also meine kleinen Vögel wollen fliegen und fliegen müsst ihr, fliegen müsst ihr kleine Vögel und fliegen werdet ihr …“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

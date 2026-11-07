@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Anleitung für die Medialität der Göttlichen Liebe"
 menu_title: ""
-description: "Persönliche Anleitung für die Medialität der Göttlichen Liebe"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ja, ich werde diesem Instrument und seiner Gefährtin bei diesem Projekt eines Retreats für Medialität assistieren.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

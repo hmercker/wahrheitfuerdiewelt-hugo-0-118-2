@@ -1,7 +1,7 @@
 ---
 title: "Wir sind zusammen in diesem großen Kreis des Lichts"
 menu_title: ""
-description: "Wir sind zusammen in diesem großen Kreis des Lichts"
+description: "Maria, empfangen durch Al Fike: „Möge der Segen Seiner Liebe eure Seelen streicheln und euch in jenes große Licht bringen, das Gottes Gegenwart und Segen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

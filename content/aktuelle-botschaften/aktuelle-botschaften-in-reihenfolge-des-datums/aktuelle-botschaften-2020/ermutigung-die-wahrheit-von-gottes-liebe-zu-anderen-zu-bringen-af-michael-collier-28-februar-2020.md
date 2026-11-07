@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, die Wahrheit von Gottes Liebe zu anderen zu bringen"
 menu_title: ""
-description: "Ermutigung, die Wahrheit von Gottes Liebe zu anderen zu bringen"
+description: "Michael Collier, empfangen durch Al Fike: „Ich wurde vor ein paar Jahrhunderten in London geboren und lebte kein außergewöhnliches Leben, sondern ein eher …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

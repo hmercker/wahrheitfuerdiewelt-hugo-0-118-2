@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen kann nur mit Sterblichen kommunizieren, wenn sie in Verbindung miteinander sind"
 menu_title: ""
-description: "Ein spirituelles Wesen kann nur mit Sterblichen kommunizieren, wenn sie in Verbindung miteinander sind"
+description: "Helen, empfangen durch James Padgett: „Dein Vater ist auch schon sehr begierig darauf zur selben Sphäre aufzusteigen, damit er bei seiner Seelenpartnerin …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

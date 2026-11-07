@@ -1,7 +1,7 @@
 ---
 title: "Der Prozess der Sühne"
 menu_title: ""
-description: "Der Prozess der Sühne"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ich möchte das Beispiel der jüngsten Erfahrung dieser lieben Seele verwenden, denn sie ist bereit, mir zu …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid ein Geschenk füreinander und für Gott"
 menu_title: ""
-description: "Ihr seid ein Geschenk füreinander und für Gott"
+description: "Augustinus, empfangen durch Al Fike: „Ja, ihr beginnt gerade eure Reisen, eure Reisen als individuierte Seelen auf einer materiellen Welt und noch nicht in …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

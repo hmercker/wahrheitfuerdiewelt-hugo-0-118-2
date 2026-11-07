@@ -1,7 +1,7 @@
 ---
 title: "Wie das Urteilen der Seelenentwicklung im Weg steht"
 menu_title: ""
-description: "Wie das Urteilen der Seelenentwicklung im Weg steht"
+description: "Orion, empfangen durch Al Fike: „Die Welt ist in der Tat in Aufruhr. Da draußen in der Welt herrscht große Not, meine Freunde.“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

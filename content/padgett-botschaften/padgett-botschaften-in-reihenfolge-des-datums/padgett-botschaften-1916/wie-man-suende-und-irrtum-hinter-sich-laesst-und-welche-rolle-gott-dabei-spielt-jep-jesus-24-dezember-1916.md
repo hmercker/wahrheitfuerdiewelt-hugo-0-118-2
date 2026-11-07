@@ -1,7 +1,7 @@
 ---
 title: "Wie man Sünde und Irrtum hinter sich lässt und welche Rolle Gott dabei spielt"
 menu_title: ""
-description: "Wie man Sünde und Irrtum hinter sich lässt und welche Rolle Gott dabei spielt"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir mitteilen, dass ich heute Abend mit dir in der Kirche war. Ich hörte die Predigt des Priesters (Dr.“"
 date: 2020-08-01 06:25:48+00:297
 draft: False
 hidden: True

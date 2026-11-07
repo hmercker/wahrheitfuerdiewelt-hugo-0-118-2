@@ -1,7 +1,7 @@
 ---
 title: "Träume"
 menu_title: ""
-description: "Träume"
+description: "Khalil Gibran, empfangen durch Jimbeau Walsh: „Die Welt wurde von Mystikern oft als ein Traum beschrieben, aus dem ihr, wenn ihr nur erwacht und die …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

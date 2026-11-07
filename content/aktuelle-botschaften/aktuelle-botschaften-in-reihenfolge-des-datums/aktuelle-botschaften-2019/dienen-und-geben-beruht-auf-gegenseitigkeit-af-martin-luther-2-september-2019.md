@@ -1,7 +1,7 @@
 ---
 title: "Dienen und Geben beruht auf Gegenseitigkeit"
 menu_title: ""
-description: "Dienen und Geben beruht auf Gegenseitigkeit"
+description: "Martin Luther, empfangen durch Al Fike: „Aber ihr, geliebte Töchter, habt ihr große Liebe und Unterstützung gezeigt, so wie ihr es getan habt, während ihr …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

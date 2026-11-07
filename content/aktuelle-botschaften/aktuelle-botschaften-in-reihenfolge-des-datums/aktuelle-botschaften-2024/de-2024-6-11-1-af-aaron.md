@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur zwischenmenschlichen Kommunikation"
 menu_title: ""
-description: "Anleitung zur zwischenmenschlichen Kommunikation"
+description: "Aaron, empfangen durch Al Fike: „Der Heilige Geist der großen Seele Gottes berührt jeden einzelnen von euch und öffnet die Tür zu euren Seelen, öffnet die …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

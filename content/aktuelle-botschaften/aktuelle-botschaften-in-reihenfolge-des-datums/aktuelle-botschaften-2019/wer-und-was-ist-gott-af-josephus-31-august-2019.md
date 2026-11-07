@@ -1,7 +1,7 @@
 ---
 title: "Wer und was ist Gott?"
 menu_title: ""
-description: "Wer und was ist Gott?"
+description: "Josephus, empfangen durch Al Fike: „Da unser liebes Instrument euch ermutigt hat, euch nach Gott, der Quelle von allem, auszustrecken, nach wem und was …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

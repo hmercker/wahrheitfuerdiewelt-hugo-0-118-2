@@ -1,7 +1,7 @@
 ---
 title: "Himmelsbotschaft neu erleben"
 menu_title: ""
-description: "Himmelsbotschaft neu erleben"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern, ihr habt einen langen Weg hinter euch. Euch wurde viel gegeben, alles, was man …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

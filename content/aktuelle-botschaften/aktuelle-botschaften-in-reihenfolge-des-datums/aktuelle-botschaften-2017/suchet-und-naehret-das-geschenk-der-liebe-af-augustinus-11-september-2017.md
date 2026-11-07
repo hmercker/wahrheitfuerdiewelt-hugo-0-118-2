@@ -1,7 +1,7 @@
 ---
 title: "Suchet und nähret das Geschenk der Liebe"
 menu_title: ""
-description: "Suchet und nähret das Geschenk der Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Gott hat euch ein großes Geschenk gemacht. Es liegt an euch, dieses Geschenk anzunehmen, das Geschenk Seiner Liebe.“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Reise des Helden"
 menu_title: ""
-description: "Die Reise des Heldene"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ihr alle kennt mehr oder weniger die so genannte Heldenreise, die aus den großen Mythologien …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

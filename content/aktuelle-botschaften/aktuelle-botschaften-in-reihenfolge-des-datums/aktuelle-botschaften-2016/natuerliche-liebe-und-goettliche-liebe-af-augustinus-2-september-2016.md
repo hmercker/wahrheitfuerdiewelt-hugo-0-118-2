@@ -1,7 +1,7 @@
 ---
 title: "Natürliche Liebe und Göttliche Liebe"
 menu_title: ""
-description: "Natürliche Liebe und Göttliche Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Wertvolle Seelen, ihr hattet ein wichtiges Gespräch unter euch, das durch den Besuch einer wunderschönen Seele …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

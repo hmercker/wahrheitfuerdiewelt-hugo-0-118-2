@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird die Erdebene zu Ostern besuchen"
 menu_title: ""
-description: "Jesus wird die Erdebene zu Ostern besuchen"
+description: "Jesus, empfangen durch Al Fike: „Wie ihr sehr wohl wisst, ist dies ein Irrtum. Ich habe vor hundert Jahren durch unseren geliebten Bruder James Padgett …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2020"
 menu_title: ""
-description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2020"
+description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2020: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Yogananda | Betet! | 20 Dezember …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

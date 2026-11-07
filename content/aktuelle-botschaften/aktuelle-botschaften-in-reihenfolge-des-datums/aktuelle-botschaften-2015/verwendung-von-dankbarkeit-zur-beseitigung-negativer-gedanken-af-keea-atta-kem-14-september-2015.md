@@ -1,7 +1,7 @@
 ---
 title: "Verwendung von Dankbarkeit zur Beseitigung negativer Gedanken"
 menu_title: ""
-description: "Verwendung von Dankbarkeit zur Beseitigung negativer Gedanken"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Eine dankbare Seele ist eine offene Seele. Wenn ihr euer Leben auf diese Weise betrachtet, wenn ihr das Licht …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Sonne der Liebe"
 menu_title: ""
-description: "Die Sonne der Liebe"
+description: "Maria, empfangen durch Helge Mercker: „Oh mein liebes süßes Kind, wie sehr ich dich liebe. Ich streichle deinen Kopf mit Liebe.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr bereitet einen Platz für viele vor"
 menu_title: ""
-description: "Ihr bereitet einen Platz für viele vor"
+description: "Josef, empfangen durch Al Fike: „Du bereitest einen Platz für viele, mein Sohn (A). Eure Bemühungen werden große Belohnungen bringen und ihr spürt die …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

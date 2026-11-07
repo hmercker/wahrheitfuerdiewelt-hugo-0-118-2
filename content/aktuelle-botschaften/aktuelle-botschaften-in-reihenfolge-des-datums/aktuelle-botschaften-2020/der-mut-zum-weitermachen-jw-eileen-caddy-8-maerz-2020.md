@@ -1,7 +1,7 @@
 ---
 title: "Der Mut zum Weitermachen"
 menu_title: ""
-description: "Der Mut zum Weitermachen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Während ich euren Bedenken zuhöre, kommt ein Lächeln über mein Gesicht, wenn ich mich an meine eigenen …“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

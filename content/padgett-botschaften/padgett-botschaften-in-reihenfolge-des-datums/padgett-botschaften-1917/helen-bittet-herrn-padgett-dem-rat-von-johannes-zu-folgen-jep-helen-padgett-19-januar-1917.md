@@ -1,7 +1,7 @@
 ---
 title: "Helen bittet Herrn Padgett, dem Rat von Johannes zu folgen"
 menu_title: ""
-description: "Helen bittet Herrn Padgett, dem Rat von Johannes zu folgen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du müde bist und nicht mehr schreiben darfst; aber ich möchte sagen, dass du an …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 6 - Die Seele"
 menu_title: ""
-description: "Lektion 6 - Die Seele"
+description: "Jesus- empfangen durch Al Fike: „Bevor ich beginne, möchte ich meinem lieben Bruder und meiner lieben Schwester versichern, dass ihre geliebte Freundin …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

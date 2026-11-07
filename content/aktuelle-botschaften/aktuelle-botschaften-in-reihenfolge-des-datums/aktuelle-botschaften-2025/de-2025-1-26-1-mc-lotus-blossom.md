@@ -1,7 +1,7 @@
 ---
 title: "Seelentransformation mit Göttlicher Liebe"
 menu_title: ""
-description: "Seelentransformation mit Göttlicher Liebe"
+description: "Lotus Blossom, empfangen durch Moureen Cardoso: „Ihr habt alle die großartige Gelegenheit bekommen, etwas mehr über die Lehre der Liebe Gottes, den Segen …“"
 date: 2025-01-26 06:00:00+00:10
 draft: False
 hidden: True

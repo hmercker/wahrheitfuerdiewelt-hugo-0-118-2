@@ -1,7 +1,7 @@
 ---
 title: "Eine tiefe und kraftvolle Botschaft"
 menu_title: ""
-description: "Eine tiefe und kraftvolle Botschaft"
+description: "Petrus, empfangen durch Al Fike: „Nicht aus Verpflichtung, meine Freunde, denn das ist der falsche Weg. Nicht aus Schuldgefühlen, nicht aus falschem …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Lebensabschnitt"
 menu_title: ""
-description: "Ein neuer Lebensabschnitt"
+description: "Konfuzius, empfangen durch Al Fike: „Ich füge meine Liebe zu eurer Liebe hinzu, zu euren Sorgen für eure Brüder und Schwestern und für diese Welt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

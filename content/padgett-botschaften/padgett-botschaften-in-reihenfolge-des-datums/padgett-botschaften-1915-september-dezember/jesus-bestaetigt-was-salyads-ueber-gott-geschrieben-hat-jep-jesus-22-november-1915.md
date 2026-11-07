@@ -1,7 +1,7 @@
 ---
 title: "Jesus bestätigt, was Salyads über Gott geschrieben hat"
 menu_title: ""
-description: "Jesus bestätigt, was Salyads über Gott geschrieben hat"
+description: "Jesus, empfangen durch James Padgett: „Ich habe gehört, was dir der Professor gesagt hat, und du musst dein Bestes versuchen, um die Bedeutung dessen zu …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wählen in Gottes Liebe zu leben"
 menu_title: ""
-description: "Wählen in Gottes Liebe zu leben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Stellt euch vor, wenn ihr wollt, in jedem Moment im Zustand der Liebe zu sein. Stellt euch die Freude und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

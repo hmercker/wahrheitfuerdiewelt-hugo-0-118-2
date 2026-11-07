@@ -1,7 +1,7 @@
 ---
 title: "Der wichtigste Yoga ist es, offen für Gottes Liebe zu sein"
 menu_title: ""
-description: "Der wichtigste Yoga ist es, offen für Gottes Liebe zu sein"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Der Yoga der göttlichen Liebe umfasst das gesamte Wesen. Wenn die Seele den Verstand informiert, ist es nicht …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Überbringer der frohen Botschaft"
 menu_title: ""
-description: "Der Überbringer der frohen Botschaft"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, da heute Karfreitag und ein Urlaubstag für mich ist, dachte ich, dies wäre ein guter …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

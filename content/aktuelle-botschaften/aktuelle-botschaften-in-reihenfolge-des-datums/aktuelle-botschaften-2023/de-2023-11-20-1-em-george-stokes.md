@@ -1,7 +1,7 @@
 ---
 title: "Bedenkt eure Seelengeschwister beim Beten"
 menu_title: ""
-description: "Bedenkt eure Seelengeschwister beim Beten"
+description: "George Stokes, empfangen durch Elisabeth Mack: „Denn ihr seid eine starke, engagierte Einheit, die in ihrem Wunsch, Gott zu dienen, immer deutlicher wird.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

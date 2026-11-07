@@ -1,7 +1,7 @@
 ---
 title: "Steht für die Wahrheit"
 menu_title: ""
-description: "Steht für die Wahrheit"
+description: "Martin Luther, empfangen durch Al Fike: „Ja, euer Kreis ist in der Tat sehr groß. Ihr habt viele Seelen, die auf dieser Erdenebene sind und viele Seelen …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

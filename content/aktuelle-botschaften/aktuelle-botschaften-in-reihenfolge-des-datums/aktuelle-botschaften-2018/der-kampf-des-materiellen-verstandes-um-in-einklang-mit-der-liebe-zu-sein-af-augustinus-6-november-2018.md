@@ -1,7 +1,7 @@
 ---
 title: "Der Kampf des materiellen Verstandes um in Einklang mit der Liebe zu sein"
 menu_title: ""
-description: "Der Kampf des materiellen Verstandes um in Einklang mit der Liebe zu sein"
+description: "Augustinus, empfangen durch Al Fike: „Wie könnt ihr ein Vorbild für die gesegnete Liebe des Vaters sein, wenn ihr euch in einem Zustand des Urteils …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

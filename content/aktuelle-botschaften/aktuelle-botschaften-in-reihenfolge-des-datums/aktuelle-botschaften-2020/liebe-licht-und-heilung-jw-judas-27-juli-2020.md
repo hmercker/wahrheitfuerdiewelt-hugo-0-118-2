@@ -1,7 +1,7 @@
 ---
 title: "Liebe, Licht und Heilung"
 menu_title: ""
-description: "Liebe, Licht und Heilung"
+description: "Judas, empfangen durch Jimbeau Walsh: „Wenn wir von Licht und Liebe sprechen, ist das Licht die Schwingung der Liebe in ihrer höchsten Frequenz.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

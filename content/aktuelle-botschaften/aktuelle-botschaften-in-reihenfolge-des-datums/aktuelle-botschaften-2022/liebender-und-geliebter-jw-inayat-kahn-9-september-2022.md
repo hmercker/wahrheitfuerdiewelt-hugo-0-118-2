@@ -1,7 +1,7 @@
 ---
 title: "Liebender und Geliebter"
 menu_title: ""
-description: "Liebender und Geliebter"
+description: "Inayat Kahn, empfangen durch Jimbeau Walsh: „Ich habe heute meinen Bruder begleitet und war daher bei eurer lebhaften Diskussion über das Verständnis der …“"
 date: 2022-09-09 06:00:00+00:10
 draft: False
 hidden: True

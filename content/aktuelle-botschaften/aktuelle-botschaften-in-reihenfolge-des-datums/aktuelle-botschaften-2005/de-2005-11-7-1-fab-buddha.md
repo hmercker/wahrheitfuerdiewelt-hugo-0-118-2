@@ -1,7 +1,7 @@
 ---
 title: "Der Buddha ist sehr glücklich"
 menu_title: ""
-description: "Der Buddha ist sehr glücklich"
+description: "Buddha, empfangen durch F.A.B.: „Ich weiß, dass du neugierig auf mich warst. Ich war natürlich kein Gott, sondern ein Sterblicher.“"
 date: 2020-08-01 06:25:48+00:299
 draft: False
 hidden: True

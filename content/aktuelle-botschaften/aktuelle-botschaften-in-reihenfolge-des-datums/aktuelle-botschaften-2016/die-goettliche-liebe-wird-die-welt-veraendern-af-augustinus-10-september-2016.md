@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe wird die Welt verändern"
 menu_title: ""
-description: "Die Göttliche Liebe wird die Welt verändern"
+description: "Augustinus, empfangen durch Al Fike: „Leider verschafft mir das keine große Genugtuung, denn vieles von dem, was ich festlegte und die Lehren der Kirche …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

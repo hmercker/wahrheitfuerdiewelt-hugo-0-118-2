@@ -1,7 +1,7 @@
 ---
 title: "Über den Glauben"
 menu_title: ""
-description: "Über den Glauben"
+description: "Jakobus, empfangen durch Helge Mercker: „Meine Tochter, wir können anfangen zu schreiben. Du hast die Eindrücke meines Aussehens als ich auf Erden lebte …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

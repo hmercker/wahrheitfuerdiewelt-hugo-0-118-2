@@ -1,7 +1,7 @@
 ---
 title: "Jeder von euch erlebt Gott und die Wahrheit auf eine einzigartige Weise"
 menu_title: ""
-description: "Jeder von euch erlebt Gott und die Wahrheit auf eine einzigartige Weise"
+description: "James Padgett, empfangen durch Al Fike: „Ah, wie provokativ ist die Göttliche Liebe, meine Freunde? Als diese Wahrheit zu mir kam, hatte ich Angst vor ihr …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

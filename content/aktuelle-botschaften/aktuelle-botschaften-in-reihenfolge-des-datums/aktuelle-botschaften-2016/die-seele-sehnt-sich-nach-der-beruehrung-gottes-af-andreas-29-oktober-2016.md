@@ -1,7 +1,7 @@
 ---
 title: "Die Seele sehnt sich nach der Berührung Gottes"
 menu_title: ""
-description: "Die Seele sehnt sich nach der Berührung Gottes"
+description: "Andreas, empfangen durch Al Fike: „Der himmlische Vater heißt alle in Seiner Umarmung willkommen, und alle sind ständig und immer willkommen.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

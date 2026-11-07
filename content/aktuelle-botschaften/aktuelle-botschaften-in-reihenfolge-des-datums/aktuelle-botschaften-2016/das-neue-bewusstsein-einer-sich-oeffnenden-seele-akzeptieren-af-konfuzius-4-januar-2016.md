@@ -1,7 +1,7 @@
 ---
 title: "Das neue Bewusstsein einer sich öffnenden Seele akzeptieren"
 menu_title: ""
-description: "Das neue Bewusstsein einer sich öffnenden Seele akzeptieren"
+description: "Konfuzius, empfangen durch Al Fike: „Ja, ihr seid eine Familie der Liebe, und ich verstehe euren Wunsch, eure Familie so zu vergrößern, dass andere sich …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

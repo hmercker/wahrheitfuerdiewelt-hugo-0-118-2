@@ -1,7 +1,7 @@
 ---
 title: "Sich der Liebe hingeben"
 menu_title: ""
-description: "Sich der Liebe hingeben"
+description: "Maria, empfangen durch Helge Mercker: „Du wirst geliebt meine Liebe, so tief, wisse das. Das ist eine Tatsache und eine Wahrheit.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

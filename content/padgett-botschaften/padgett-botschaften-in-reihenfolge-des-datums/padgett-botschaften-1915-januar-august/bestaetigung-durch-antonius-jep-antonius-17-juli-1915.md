@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Antonius"
 menu_title: ""
-description: "Bestätigung durch Antonius"
+description: "Antonius, empfangen durch James Padgett: „Also, laß mich dir sagen, daß nicht allen Menschen die große Gnade erwiesen wird, die der Meister dir erwiesen hat.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

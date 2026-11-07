@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 29 : Warum die Juden den Messias nicht erkannt haben"
 menu_title: ""
-description: "Offenbarung 29 : Warum die Juden den Messias nicht erkannt haben"
+description: "Jesus, empfangen durch Dr Samuels: „Eigentlich hatte ich heute vor, dir wieder einzelne Passagen aus dem Neuen Testament zu erklären, ich werde meine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

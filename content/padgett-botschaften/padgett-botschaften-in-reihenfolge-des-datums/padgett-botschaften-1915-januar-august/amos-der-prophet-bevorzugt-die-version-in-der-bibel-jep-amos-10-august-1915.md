@@ -1,7 +1,7 @@
 ---
 title: "Amos der Prophet bevorzugt die Version in der Bibel"
 menu_title: ""
-description: "Amos der Prophet bevorzugt die Version in der Bibel"
+description: "Amos, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich die Botschaft des spirituellen Wesens, das zuletzt geschrieben hat, gehört habe und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

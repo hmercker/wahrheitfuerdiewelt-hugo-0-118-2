@@ -1,7 +1,7 @@
 ---
 title: "Ich bin frei!"
 menu_title: ""
-description: "Ich bin frei!"
+description: "Kevon O'Neill 1, empfangen durch Al Fike: „Der glücklichste Tag in meinem Leben war der Tag, an dem ich in den Geist überging. Denn ich hatte immer das …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

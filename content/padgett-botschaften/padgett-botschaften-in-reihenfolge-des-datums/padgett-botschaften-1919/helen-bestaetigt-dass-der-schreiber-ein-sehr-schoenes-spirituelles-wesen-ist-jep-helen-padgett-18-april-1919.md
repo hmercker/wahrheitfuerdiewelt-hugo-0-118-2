@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass der Schreiber ein sehr schönes spirituelles Wesen ist"
 menu_title: ""
-description: "Helen bestätigt, dass der Schreiber ein sehr schönes spirituelles Wesen ist"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich sehe, dass du dich sehr für das Buch interessiert hast, das du gelesen hast, und das …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

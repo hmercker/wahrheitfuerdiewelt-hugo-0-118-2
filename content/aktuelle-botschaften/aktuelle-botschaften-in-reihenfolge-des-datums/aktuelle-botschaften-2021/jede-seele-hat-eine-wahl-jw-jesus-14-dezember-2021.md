@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele hat eine Wahl"
 menu_title: ""
-description: "Jede Seele hat eine Wahl"
+description: "Jesus, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern, das Geschenk des freien Willens ist ein Geschenk der Wahl.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

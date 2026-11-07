@@ -1,7 +1,7 @@
 ---
 title: "Verbindung mit Gott"
 menu_title: ""
-description: "Verbindung mit Gott"
+description: "Jesus, empfangen durch Elisabeth Mack: „Jedes Gebet, vertieft eure Gebete, vertieft die Sehnsucht eurer Seele, bei Gott zu sein. Sehnt euch nach seiner …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

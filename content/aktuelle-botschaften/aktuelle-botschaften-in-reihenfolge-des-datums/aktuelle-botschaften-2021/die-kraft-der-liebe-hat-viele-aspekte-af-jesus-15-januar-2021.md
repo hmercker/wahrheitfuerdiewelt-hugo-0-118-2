@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft der Liebe hat viele Aspekte"
 menu_title: ""
-description: "Die Kraft der Liebe hat viele Aspekte"
+description: "Jesus, empfangen durch Al Fike: „Und doch ist es die Kraft der Liebe, die euch vereint. Es ist die Kraft der Liebe, die eure Erkenntnis öffnet, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

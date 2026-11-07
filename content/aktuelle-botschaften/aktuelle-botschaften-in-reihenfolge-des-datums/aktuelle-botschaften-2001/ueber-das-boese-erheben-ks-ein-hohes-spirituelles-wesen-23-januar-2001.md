@@ -1,7 +1,7 @@
 ---
 title: "Über das Böse erheben"
 menu_title: ""
-description: "Über das Böse erheben"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „Wir sind jetzt hier, um zu schreiben und auf deinen Ruf zu antworten - ein aufrichtiger …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

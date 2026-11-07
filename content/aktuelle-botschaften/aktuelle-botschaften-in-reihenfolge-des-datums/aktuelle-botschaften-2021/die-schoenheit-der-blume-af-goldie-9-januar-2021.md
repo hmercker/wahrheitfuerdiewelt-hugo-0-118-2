@@ -1,7 +1,7 @@
 ---
 title: "Die Schönheit der Blume"
 menu_title: ""
-description: "Die Schönheit der Blume"
+description: "Goldie, empfangen durch Al Fike: „Die Schönheit der Blume spricht mehr Worte der Wahrheit und von Gott als ein ganzes Buch über dieses Thema.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass Shannon beträchtlich dunkel in seiner Erscheinung ist"
 menu_title: ""
-description: "Helen schreibt, dass Shannon beträchtlich dunkel in seiner Erscheinung ist"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebster, ich sehe, dass du und der Doktor die letzte Botschaft genossen habt, ebenso wie wir, die wir ihn …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

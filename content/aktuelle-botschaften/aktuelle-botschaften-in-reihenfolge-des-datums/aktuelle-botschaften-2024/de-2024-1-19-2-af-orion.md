@@ -1,7 +1,7 @@
 ---
 title: "Im Einklang mit Gott"
 menu_title: ""
-description: "Im Einklang mit Gott"
+description: "Orion, empfangen durch Al Fike: „Möge der Segen der Göttlichen Liebe weiterhin in eure Seelen fließen, meine Freunde. Ich zweifle nicht daran, dass die …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

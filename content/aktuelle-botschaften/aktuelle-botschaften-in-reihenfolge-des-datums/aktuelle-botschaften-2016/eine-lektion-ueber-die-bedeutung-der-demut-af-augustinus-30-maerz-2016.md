@@ -1,7 +1,7 @@
 ---
 title: "Eine Lektion über die Bedeutung der Demut"
 menu_title: ""
-description: "Eine Lektion über die Bedeutung der Demut"
+description: "Augustinus, empfangen durch Al Fike: „Denn genau an dieser Eigenschaft mangelte es mir, als ich auf der Erde wandelte. Ich war ein Mann voller Ehrgeiz …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

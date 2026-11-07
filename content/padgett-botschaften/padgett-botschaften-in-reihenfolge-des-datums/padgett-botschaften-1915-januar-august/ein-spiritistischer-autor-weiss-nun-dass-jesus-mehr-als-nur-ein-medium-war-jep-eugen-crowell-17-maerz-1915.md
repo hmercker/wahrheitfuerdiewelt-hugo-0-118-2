@@ -1,7 +1,7 @@
 ---
 title: "Ein spiritistischer Autor weiß nun, dass Jesus mehr als nur ein Medium war"
 menu_title: ""
-description: "Ein spiritistischer Autor weiß nun, dass Jesus mehr als nur ein Medium war"
+description: "Eugene Crowell, empfangen durch James Padgett: „Nun, wie du beobachtet hast, habe ich Jesus nicht als einen Gott angesehen, sondern lediglich als ein sehr …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

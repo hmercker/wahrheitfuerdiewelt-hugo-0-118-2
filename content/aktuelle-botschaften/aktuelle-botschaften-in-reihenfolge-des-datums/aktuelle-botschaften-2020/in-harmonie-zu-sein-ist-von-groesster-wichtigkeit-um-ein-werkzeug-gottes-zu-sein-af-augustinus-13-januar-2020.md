@@ -1,7 +1,7 @@
 ---
 title: "In Harmonie zu sein ist von größter Wichtigkeit, um ein Werkzeug Gottes zu sein"
 menu_title: ""
-description: "In Harmonie zu sein ist von größter Wichtigkeit, um ein Werkzeug Gottes zu sein"
+description: "Augustinus, empfangen durch Al Fike: „Euer Lehrer Augustinus ist mit euch. Ich muss sagen, dass ich über dein Gebet etwas amüsiert bin, geliebte Tochter …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

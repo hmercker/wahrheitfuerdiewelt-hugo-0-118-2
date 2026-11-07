@@ -1,7 +1,7 @@
 ---
 title: "Wahlmöglichkeiten"
 menu_title: ""
-description: "Wahlmöglichkeiten"
+description: "Andreas, empfangen durch Al Fike: „Gott wird euch weiterhin viele Türen öffnen. So wie ihr Gott dienen wollt, so werden diese Dinge möglich sein.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

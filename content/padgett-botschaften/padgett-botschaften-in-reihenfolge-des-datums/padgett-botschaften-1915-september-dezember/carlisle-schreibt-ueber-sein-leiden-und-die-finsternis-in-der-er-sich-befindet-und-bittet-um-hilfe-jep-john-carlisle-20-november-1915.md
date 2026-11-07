@@ -1,7 +1,7 @@
 ---
 title: "Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe"
 menu_title: ""
-description: "Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe"
+description: "John Carlisle 1, empfangen durch James Padgett: „Lass mich schreiben, John G Carlisle. Ich möchte nur sagen, dass ich so sehr Hilfe brauche.“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

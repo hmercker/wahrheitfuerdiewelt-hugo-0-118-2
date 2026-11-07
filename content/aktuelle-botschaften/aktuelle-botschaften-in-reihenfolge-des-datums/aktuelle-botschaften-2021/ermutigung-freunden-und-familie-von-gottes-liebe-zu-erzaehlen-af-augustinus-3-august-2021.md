@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, Freunden und Familie von Gottes Liebe zu erzählen"
 menu_title: ""
-description: "Ermutigung, Freunden und Familie von Gottes Liebe zu erzählen"
+description: "Augustinus, empfangen durch Al Fike: „Ich höre eure Gebete für eure Familien, eure Lieben und diejenigen, die euch nahestehen. Und wie wir schon oft gesagt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

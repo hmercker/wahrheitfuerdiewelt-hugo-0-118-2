@@ -1,7 +1,7 @@
 ---
 title: "Das Lied des Herzens und der Tanz der Liebe"
 menu_title: ""
-description: "Das Lied des Herzens und der Tanz der Liebe"
+description: "Inayat Khan, empfangen durch Jimbeau Walsh: „Die Gebete für den lieben Bruder 1 haben viele von uns an seine Seite gebracht, die ihn als Antwort auf eure …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Assyrischer Beamter, der an viele Götter glaubte als er auf Erden war, ist jetzt ein Christ"
 menu_title: ""
-description: "Assyrischer Beamter, der an viele Götter glaubte als er auf Erden war, ist jetzt ein Christ"
+description: "Leekesi, empfangen durch James Padgett: „Ich war ein Mann, der in der Zeit der Zerstörung von Ninevah lebte und ein assyrischer Beamter war; aber ich werde …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein Großonkel versichert Padgett, dass wichtige spirituelle Wesen tatsächlich schreiben"
 menu_title: ""
-description: "Ein Großonkel versichert Padgett, dass wichtige spirituelle Wesen tatsächlich schreiben"
+description: "Thomas Padgett, empfangen durch James Padgett: „Mary’s“ Bezirk gelebt und bin 1831 in der Bezirksstadt „Leonardstown“ gestorben. Ich war sein [meines …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

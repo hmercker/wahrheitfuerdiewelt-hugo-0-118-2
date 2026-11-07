@@ -1,7 +1,7 @@
 ---
 title: "Das Wissen um die Weisheit eurer Seele bringt mehr Harmonie in euer Leben"
 menu_title: ""
-description: "Das Wissen um die Weisheit eurer Seele bringt mehr Harmonie in euer Leben"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Denn es ist wichtig, dass diese Lehren in eurer Welt aufrechterhalten werden, dass sie …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

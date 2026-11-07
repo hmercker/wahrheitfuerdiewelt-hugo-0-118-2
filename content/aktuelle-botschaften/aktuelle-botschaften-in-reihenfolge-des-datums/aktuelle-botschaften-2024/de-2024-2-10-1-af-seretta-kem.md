@@ -1,7 +1,7 @@
 ---
 title: "Überraschende Gaben eurer Seelen öffnen sich"
 menu_title: ""
-description: "Überraschende Gaben eurer Seelen öffnen sich"
+description: "Seretta Kem, empfangen durch Al Fike: „In der kommenden Zeit werden sich für jeden von euch viele Gaben öffnen, überraschende Gaben, Gaben, von denen ihr …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

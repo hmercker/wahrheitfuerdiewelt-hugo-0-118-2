@@ -1,7 +1,7 @@
 ---
 title: "Du bist zu Hause in Meiner Liebe"
 menu_title: ""
-description: "Du bist zu Hause in Meiner Liebe"
+description: "Vater, empfangen durch Child of God: „Liebe Töchter und Söhne, liebe Kinder meiner Liebe. Ich ehre euch dafür, dass ihr euch Meiner Liebe öffnet.“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

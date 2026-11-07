@@ -1,7 +1,7 @@
 ---
 title: "Klärung der Gabe der Medialität"
 menu_title: ""
-description: "Klärung der Gabe der Medialität"
+description: "Josephus, empfangen durch Al Fike: „[Frage: Wir haben viele Belehrungen über den Prozess, ein Medium zu werden, erhalten. Die Frage ist wieder aufgetaucht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

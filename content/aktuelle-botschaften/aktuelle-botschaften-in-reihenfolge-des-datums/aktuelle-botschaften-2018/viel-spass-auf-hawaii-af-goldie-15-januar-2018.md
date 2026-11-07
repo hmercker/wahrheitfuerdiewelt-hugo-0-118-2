@@ -1,7 +1,7 @@
 ---
 title: "Viel Spaß auf Hawaii!"
 menu_title: ""
-description: "Viel Spaß auf Hawaii!"
+description: "Goldie, empfangen durch Al Fike: „Ich sehe, dass dieses Instrument sich über zu viele Dinge Sorgen macht. Er macht sich Sorgen, dass ihr nicht gemeinsam …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes ermutigt Padgett. Eine wunderbare Liebe die der Meister für ihn empfindet"
 menu_title: ""
-description: "Johannes ermutigt Padgett. Eine wunderbare Liebe die der Meister für ihn empfindet"
+description: "Johannes, empfangen durch James Padgett: „Johannes, der Apostel Jesu. Ich möchte eine Weile schreiben und dir von der wunderbaren Liebe erzählen, die der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

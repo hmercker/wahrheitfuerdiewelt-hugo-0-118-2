@@ -1,7 +1,7 @@
 ---
 title: "Ehrung der Betreuer - Fürsorge für andere"
 menu_title: ""
-description: "Ehrung der Betreuer - Fürsorge für andere"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Viele in der Welt können die Herausforderungen nicht verstehen, die es bedeutet, sich um andere zu …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

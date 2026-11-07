@@ -1,7 +1,7 @@
 ---
 title: "Wir benutzen euch, um vielen Seelen die Wahrheit zu lehren"
 menu_title: ""
-description: "Wir benutzen euch, um vielen Seelen die Wahrheit zu lehren"
+description: "Konfuzius, empfangen durch Al Fike: „Wir helfen weiterhin, den Körper zu unterstützen und aufzurichten, den Verstand zu heilen und die Seele mit Liebe zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

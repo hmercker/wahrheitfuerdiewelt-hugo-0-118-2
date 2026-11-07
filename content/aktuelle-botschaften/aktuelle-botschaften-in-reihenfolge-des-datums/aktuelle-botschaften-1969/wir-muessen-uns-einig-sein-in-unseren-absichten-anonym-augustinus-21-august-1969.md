@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen und einig sein in unseren Absichten"
 menu_title: ""
-description: "Wir müssen und einig sein in unseren Absichten"
+description: "Augustinus: „Wir werden etwas Arbeit zur Entwicklung leisten, und ihr alle habt euch bemüht, eure Gedanken zu kontrollieren, eure mentale Diät so zu …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

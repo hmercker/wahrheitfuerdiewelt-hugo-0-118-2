@@ -1,7 +1,7 @@
 ---
 title: "Im Garten der Liebe"
 menu_title: ""
-description: "Im Garten der Liebe"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Hummm, jeder kleine Vogel der singt, möge eurem Herzen Flügel verleihen. Als ich auf der Erde war …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

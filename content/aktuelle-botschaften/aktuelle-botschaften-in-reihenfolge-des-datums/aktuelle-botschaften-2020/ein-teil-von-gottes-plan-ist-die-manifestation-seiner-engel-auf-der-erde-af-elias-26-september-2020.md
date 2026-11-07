@@ -1,7 +1,7 @@
 ---
 title: "Ein Teil von Gottes Plan ist die Manifestation Seiner Engel auf der Erde"
 menu_title: ""
-description: "Ein Teil von Gottes Plan ist die Manifestation Seiner Engel auf der Erde"
+description: "Elias, empfangen durch Al Fike: „Im Moment gibt es eine hektische Aktivität der Engel im Himmel, um bei den Sterblichen auf der Erde zu sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

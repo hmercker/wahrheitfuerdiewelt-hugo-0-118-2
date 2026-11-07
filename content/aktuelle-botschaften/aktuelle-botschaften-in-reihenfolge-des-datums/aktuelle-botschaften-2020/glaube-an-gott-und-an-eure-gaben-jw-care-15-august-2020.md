@@ -1,7 +1,7 @@
 ---
 title: "Glaube an Gott und an eure Gaben"
 menu_title: ""
-description: "Glaube an Gott und an eure Gaben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Wie könnte ich wegbleiben? Ich hatte einige Diskussionen mit Klara von Assisi über unser Leben auf der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

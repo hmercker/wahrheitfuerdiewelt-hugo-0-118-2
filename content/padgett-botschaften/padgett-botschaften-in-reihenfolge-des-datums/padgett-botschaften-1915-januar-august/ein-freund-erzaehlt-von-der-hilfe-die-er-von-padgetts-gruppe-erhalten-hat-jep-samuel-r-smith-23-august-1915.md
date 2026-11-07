@@ -1,7 +1,7 @@
 ---
 title: "Ein Freund erzählt von der Hilfe die er von Padgett 's Gruppe erhalten hat"
 menu_title: ""
-description: "Ein Freund erzählt von der Hilfe die er von Padgett 's Gruppe erhalten hat"
+description: "Samuel R. Smith, empfangen durch James Padgett: „Seit ich letztmalig an dich geschrieben habe, habe ich eine große Erfahrung gemacht, und das Ergebnis ist …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

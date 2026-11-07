@@ -1,7 +1,7 @@
 ---
 title: "Jesus erinnert Padgett an das gemeinsame Werk"
 menu_title: ""
-description: "Jesus erinnert Padgett an das gemeinsame Werk"
+description: "Jesus, empfangen durch James Padgett: „Nun, mein Bruder, ich sehe, dass du heute Abend in einem viel besseren Zustand bist, als du es seit einiger Zeit …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

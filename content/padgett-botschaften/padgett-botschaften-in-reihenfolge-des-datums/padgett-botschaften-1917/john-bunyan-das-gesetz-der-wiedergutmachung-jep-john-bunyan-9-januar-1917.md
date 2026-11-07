@@ -1,7 +1,7 @@
 ---
 title: "John Bunyan: Das Gesetz der Wiedergutmachung"
 menu_title: ""
-description: "John Bunyan: Das Gesetz der Wiedergutmachung"
+description: "Bunyan, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben. Ich interessiere mich sehr für dich und deine Arbeit und möchte alles tun, um …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Feenstaub und Blumen"
 menu_title: ""
-description: "Feenstaub und Blumen"
+description: "Goldie, empfangen durch Al Fike: „Ich habe Feenstaub auf euch gestreut, mit Blumen zu euren Füßen. Ich habe jeden einzelnen von euch geküsst.“"
 date: 2020-08-01 06:25:48+00:233
 draft: False
 hidden: True

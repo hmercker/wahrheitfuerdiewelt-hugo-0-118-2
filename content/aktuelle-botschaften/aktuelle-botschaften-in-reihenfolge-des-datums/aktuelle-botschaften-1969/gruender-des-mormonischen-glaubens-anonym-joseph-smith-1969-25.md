@@ -1,7 +1,7 @@
 ---
 title: "Gründer des Mormonischen Glaubens"
 menu_title: ""
-description: "Gründer des Mormonischen Glaubens"
+description: "Joseph Smith: „Macht weiter mit eurer Arbeit, ihr seid auf dem richtigen Weg. Eines Tages kann ich euch vielleicht helfen.“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

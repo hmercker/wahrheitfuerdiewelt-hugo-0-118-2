@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung, dass Jesus das Gebet geschrieben hat"
 menu_title: ""
-description: "Eine Bestätigung, dass Jesus das Gebet geschrieben hat"
+description: "Robert Ingersoll, empfangen durch James Padgett: „Er war herrlich, und es ist nicht verwunderlich, dass du den Einfluss seiner Gegenwart und seiner Liebe …“"
 date: 2020-08-01 06:25:48+00:277
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Hunger der Seele"
 menu_title: ""
-description: "Der Hunger der Seele"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe einen Teil meines Tages damit verbracht, ihm einige Dinge einzuprägen, über die ich sprechen möchte, und er …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

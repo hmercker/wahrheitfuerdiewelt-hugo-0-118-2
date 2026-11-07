@@ -1,7 +1,7 @@
 ---
 title: "Habt Vertrauen, dass eure Gebete erhört werden"
 menu_title: ""
-description: "Habt Vertrauen, dass eure Gebete erhört werden"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Das Leben ist ein kostbares Geschenk, genauso wie das Geschenk des freien Willens. Es geht um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

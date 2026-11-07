@@ -1,7 +1,7 @@
 ---
 title: "100. Jahrestag von Yogananda' Ankunft im Westen"
 menu_title: ""
-description: "100. Jahrestag von Yogananda' Ankunft im Westen"
+description: "Yogananda, empfangen durch Al Fike: „Ich wünsche euch, meine Freunde, ein wahres Erwachen von Liebe und Licht und ein Bewusstsein aller Dinge Gottes.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

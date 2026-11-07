@@ -1,7 +1,7 @@
 ---
 title: "Spricht zu den Teilnehmern der 100-Jahr-Feier"
 menu_title: ""
-description: "Spricht zu den Teilnehmern der 100-Jahr-Feier"
+description: "James Padgett, empfangen durch Al Fike: „Ich freue mich darauf, zu den Menschen zu sprechen, die sich versammeln werden, um meines Hinübergehens in die …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

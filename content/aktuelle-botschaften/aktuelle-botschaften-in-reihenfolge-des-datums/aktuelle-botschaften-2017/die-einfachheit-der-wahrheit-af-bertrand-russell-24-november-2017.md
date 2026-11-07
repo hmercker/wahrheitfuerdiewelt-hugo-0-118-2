@@ -1,7 +1,7 @@
 ---
 title: "Die Einfachheit der Wahrheit"
 menu_title: ""
-description: "Die Einfachheit der Wahrheit"
+description: "Bertrand Russell, empfangen durch Al Fike: „Ich war ein Philosoph in meiner Zeit. Die Kraft der Seele in eurer Welt hervorzubringen, ist das, was geschehen …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

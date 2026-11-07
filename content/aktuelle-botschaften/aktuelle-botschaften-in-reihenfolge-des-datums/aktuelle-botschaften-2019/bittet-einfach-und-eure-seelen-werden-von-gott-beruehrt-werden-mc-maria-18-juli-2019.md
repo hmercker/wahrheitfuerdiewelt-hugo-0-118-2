@@ -1,7 +1,7 @@
 ---
 title: "Bittet einfach und eure Seelen werden von Gott berührt werden"
 menu_title: ""
-description: "Bittet einfach und eure Seelen werden von Gott berührt werden"
+description: "Maria, empfangen durch Maureen Cardoso: „Es gibt viele himmlische Engel, die euch umgeben, die mit euch beten und die bei euch stehen und helfen, euch in …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

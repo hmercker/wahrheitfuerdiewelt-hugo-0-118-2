@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr in eurer Seele wachst, werdet ihr in der Lage sein, die kommenden Veränderungen zu empfangen"
 menu_title: ""
-description: "Wenn ihr in eurer Seele wachst, werdet ihr in der Lage sein, die kommenden Veränderungen zu empfangen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Schöne Freunde, es ist Alec. Wenn ihr anfangt eure Seelenwahrnehmungen zu öffnen und das Seeelnbewusstsein beginnt zu …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

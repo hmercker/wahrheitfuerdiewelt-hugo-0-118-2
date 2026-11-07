@@ -1,7 +1,7 @@
 ---
 title: "Die größte Macht auf Erden"
 menu_title: ""
-description: "Die größte Macht auf Erden"
+description: "Salem: „Oh, wie wunderbar wird eure Erde sein, wenn alle Menschen den Wunsch haben, einander zu helfen, so wie ihr es getan habt.“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

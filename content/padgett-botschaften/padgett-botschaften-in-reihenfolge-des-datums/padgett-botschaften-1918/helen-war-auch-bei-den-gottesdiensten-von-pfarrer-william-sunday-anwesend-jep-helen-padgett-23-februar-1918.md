@@ -1,7 +1,7 @@
 ---
 title: "Helen war auch bei den Gottesdiensten von Pfarrer William Sunday anwesend"
 menu_title: ""
-description: "Helen war auch bei den Gottesdiensten von Pfarrer William Sunday anwesend"
+description: "Helen, empfangen durch James Padgett: „Ich war heute Abend bei dir und neben mir waren der Meister und dein besonderer Hüter, Johannes, und wir alle …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

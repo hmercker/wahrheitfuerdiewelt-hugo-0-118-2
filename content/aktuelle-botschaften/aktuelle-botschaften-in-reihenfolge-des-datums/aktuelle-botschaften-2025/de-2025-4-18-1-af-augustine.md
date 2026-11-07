@@ -1,7 +1,7 @@
 ---
 title: "Jesus war nicht dazu bestimmt, früh zu sterben"
 menu_title: ""
-description: "Jesus war nicht dazu bestimmt, früh zu sterben"
+description: "Augustinus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen strömen, in jede von euch. Öffnet euch weit und bringt den Wunsch …“"
 date: 2025-07-10 06:00:00+00:00
 draft: False
 hidden: True

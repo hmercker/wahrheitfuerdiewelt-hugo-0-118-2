@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit von Beständigkeit, Hingabe und Glaube"
 menu_title: ""
-description: "Die Wichtigkeit von Beständigkeit, Hingabe und Glaube"
+description: "Michael Collier, empfangen durch Al Fike: „Danke, liebe Tochter, für deine Gebete. Sie haben eine Qualität der Unschuld und des Glaubens, die für viele von …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

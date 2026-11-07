@@ -1,7 +1,7 @@
 ---
 title: "Kein Grund sich zu schämen wer man ist"
 menu_title: ""
-description: "Kein Grund sich zu schämen wer man ist"
+description: "Rock Hudson, empfangen durch Al Fike: „Dies ist nicht mein wahrer Name, aber dies ist mein Künstlername. Ich habe große Befreiung in der spirituellen Welt …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

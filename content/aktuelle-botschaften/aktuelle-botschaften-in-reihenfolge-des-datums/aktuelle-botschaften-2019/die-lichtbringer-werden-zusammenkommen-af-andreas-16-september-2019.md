@@ -1,7 +1,7 @@
 ---
 title: "Die Lichtbringer werden zusammenkommen"
 menu_title: ""
-description: "Die Lichtbringer werden zusammenkommen"
+description: "Andreas, empfangen durch Al Fike: „Wie wir euch in der Vergangenheit gesagt haben, werden die Lichtbringer zusammenkommen. Wie wir gesagt haben, werden die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

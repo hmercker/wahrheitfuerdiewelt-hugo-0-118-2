@@ -1,7 +1,7 @@
 ---
 title: "Gottes Universum ist von der Liebe geprägt"
 menu_title: ""
-description: "Gottes Universum ist von der Liebe geprägt"
+description: "Orion, empfangen durch Al Fike: „Da Gott ein Universum voller Liebe erschaffen hat und ein Universum, das nach Harmonie strebt, hat Gott auch ein Universum …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

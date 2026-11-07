@@ -1,7 +1,7 @@
 ---
 title: "Schließt euch Gottes Gewebtem der schönen Seelen an"
 menu_title: ""
-description: "Schließt euch Gottes Gewebtem der schönen Seelen an"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott euch zutiefst segnen, meine Freunde, damit ihr eure Seele kennenlernt, wie ihr sie noch nie gekannt habt …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

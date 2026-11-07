@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele geht ihre eigene Reise"
 menu_title: ""
-description: "Jede Seele geht ihre eigene Reise"
+description: "Guru Nanak 1, empfangen durch Maureen Cardoso: „Ja, meine Tochter, danke, dass du die Erfahrung der lieben Seele teilst, die den Garten gefunden hat, der …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Fühlt die Antwort auf eure Gebete"
 menu_title: ""
-description: "Fühlt die Antwort auf eure Gebete"
+description: "Timothy: „Meine Mission, als ich zu euch kam, war es, mit Direkter Stimme zu sprechen. Auch ich möchte zu Gott beten, dass er euch segnet.“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

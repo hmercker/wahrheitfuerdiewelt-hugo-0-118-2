@@ -1,7 +1,7 @@
 ---
 title: "Der Kampf des Verstandes"
 menu_title: ""
-description: "Der Kampf des Verstandes"
+description: "Konfuzius, empfangen durch Al Fike: „Sterbliche sind so ein eigensinniger Haufen, nicht wahr? Denn sie sind mit viel Macht ausgestattet, der Macht des …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich gebe euch meinen Segen und meine Liebe"
 menu_title: ""
-description: "Ich gebe euch meinen Segen und meine Liebe"
+description: "Jesus, empfangen durch Al Fike: „Wisst, dass ich jedem einzelnen von euch nahe bin, dass ich euren Wunsch und euer Bemühen gutheiße, die Wahrheit der Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

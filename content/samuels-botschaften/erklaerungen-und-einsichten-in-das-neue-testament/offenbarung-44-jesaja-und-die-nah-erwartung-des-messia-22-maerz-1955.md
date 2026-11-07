@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 44 : Jesaja und die Nah-Erwartung des Messia"
 menu_title: ""
-description: "Offenbarung 44 : Jesaja und die Nah-Erwartung des Messia"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute möchte ich dir wieder über das Alte Testament und die Nah-Erwartung des Messias schreiben — ein Versprechen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

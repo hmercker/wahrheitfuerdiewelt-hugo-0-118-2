@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgett ist in besonderer Obhut des Meisters"
 menu_title: ""
-description: "Herr Padgett ist in besonderer Obhut des Meisters"
+description: "Johannes, empfangen von James Padgett: „Wie der Meister, der dir gerade geschrieben hat, sagt, versuche, an das zu glauben, was wir dir sagen, denn wir …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit kann nur von der Seele verstanden werden "
 menu_title: ""
-description: "Die Wahrheit kann nur von der Seele verstanden werden "
+description: "Augustinus, empfangen durch Al Fike: „Ja, es ist euer Lehrer Augustinus. Möge die Liebe des Vaters weiterhin in eure Seelen fließen, und all die Aspekte …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

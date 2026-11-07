@@ -1,7 +1,7 @@
 ---
 title: "Der, der euch geschaffen hat, lässt euch nicht im Stich"
 menu_title: ""
-description: "Der, der euch geschaffen hat, lässt euch nicht im Stich"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Meine Brüder und Schwestern, es ist viel über die aktuellen Ereignisse auf der Erde und über das, was kommen wird …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Veränderung, die für die Welt notwendig ist, wird bei den Kindern beginnen"
 menu_title: ""
-description: "Die Veränderung, die für die Welt notwendig ist, wird bei den Kindern beginnen"
+description: "Maria, empfangen durch Al Fike: „Gesegnet seid ihr, meine Lieben, es ist Maria. Die Veränderung, die ihr wünscht, die ihr für diese Welt sucht, wird bei …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

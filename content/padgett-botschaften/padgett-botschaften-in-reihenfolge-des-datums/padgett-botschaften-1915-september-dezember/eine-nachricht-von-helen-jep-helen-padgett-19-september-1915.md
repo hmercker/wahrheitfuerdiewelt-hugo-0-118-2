@@ -1,7 +1,7 @@
 ---
 title: "Eine Nachricht von Helen"
 menu_title: ""
-description: "Eine Nachricht von Helen"
+description: "Helen, empfangen von James Padgett: „Natürlich hat er einige Wahrheiten gepredigt, als er davon sprach, Gott zu vertrauen, dass er dir bei deinen …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

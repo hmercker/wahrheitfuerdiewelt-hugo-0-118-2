@@ -1,7 +1,7 @@
 ---
 title: "Mills ist erstaunt über die Fortschritte die Forrest aus der Dunkelheit machte und wird versuchen, dasselbe zu tun"
 menu_title: ""
-description: "Mills ist erstaunt über die Fortschritte die Forrest aus der Dunkelheit machte und wird versuchen, dasselbe zu tun"
+description: "Mills, empfangen durch James Padgett: „Nun, für mich ist das wirklich seltsam. Es ist wirklich wunderbar!“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

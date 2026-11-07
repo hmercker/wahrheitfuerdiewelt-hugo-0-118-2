@@ -1,7 +1,7 @@
 ---
 title: "Ihr sollt euch über eure Wünsche im Klaren sein"
 menu_title: ""
-description: "Ihr sollt euch über eure Wünsche im Klaren sein"
+description: "Aaron, empfangen durch Al Fike: „Was auch immer über eure Welt hereinbrechen mag, ihr habt dieses Licht, diese Kraft und diesen transformierenden Segen …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

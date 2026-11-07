@@ -1,7 +1,7 @@
 ---
 title: "Wir sind mit euch auf dieser Reise"
 menu_title: ""
-description: "Wir sind mit euch auf dieser Reise"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Und ich war heute früh mit einem zusammen, als er die Schwestern erkundete, die die Tradition, die ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

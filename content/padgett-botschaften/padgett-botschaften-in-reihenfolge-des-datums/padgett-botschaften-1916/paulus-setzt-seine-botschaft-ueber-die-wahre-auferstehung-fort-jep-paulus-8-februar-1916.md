@@ -1,7 +1,7 @@
 ---
 title: "Paulus setzt seine Botschaft über die wahre Auferstehung fort"
 menu_title: ""
-description: "Paulus setzt seine Botschaft über die wahre Auferstehung fort"
+description: "Paulus, empfangen durch James Padgett: „Ich möchte heute Nacht meine Botschaft fortsetzen. Wie ich zum Schluss meines letzten Schreibens sagte, gibt es …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

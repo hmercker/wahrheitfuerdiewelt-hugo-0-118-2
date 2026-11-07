@@ -1,7 +1,7 @@
 ---
 title: "Seelenwahrnehmungen sind vielschichtig"
 menu_title: ""
-description: "Seelenwahrnehmungen sind vielschichtig"
+description: "Matthäus, empfangen durch Elisabeth Mack: „Unser Bruder Jesus ist gekommen, um uns zu segnen, um alle Menschen auf der Erde zu segnen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

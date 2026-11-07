@@ -1,7 +1,7 @@
 ---
 title: "Predigt 25 - Der dreiundzwanzigste Psalm"
 menu_title: ""
-description: "Predigt 25 - Der dreiundzwanzigste Psalm"
+description: "Jesus, empfangen durch Dr Samuels: „Psalm ist einer der beliebtesten und bekanntesten der mehr als 150 Psalmen, die wir besitzen, ganz zu schweigen von …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

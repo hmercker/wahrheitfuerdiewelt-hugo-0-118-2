@@ -1,7 +1,7 @@
 ---
 title: "Den Ego-Verstand überwinden: Eine Göttliche Warnung"
 menu_title: ""
-description: "Den Ego-Verstand überwinden: Eine Göttliche Warnung"
+description: "Augustinue, empfangen durch Al Fike: „Wenn wir euch auf der Erdebene auffordern, nach dem Höchsten zu streben, was bedeutet das dann in eurem Leben?“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

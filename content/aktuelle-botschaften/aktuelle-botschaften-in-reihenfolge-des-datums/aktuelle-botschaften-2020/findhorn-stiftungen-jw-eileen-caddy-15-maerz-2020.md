@@ -1,7 +1,7 @@
 ---
 title: "Findhorn Stiftungen"
 menu_title: ""
-description: "Findhorn Stiftungen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich werde nicht viel von eurer Zeit in Anspruch nehmen, denn ich weiß, dass ihr auf einem Zeitplan seid.“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

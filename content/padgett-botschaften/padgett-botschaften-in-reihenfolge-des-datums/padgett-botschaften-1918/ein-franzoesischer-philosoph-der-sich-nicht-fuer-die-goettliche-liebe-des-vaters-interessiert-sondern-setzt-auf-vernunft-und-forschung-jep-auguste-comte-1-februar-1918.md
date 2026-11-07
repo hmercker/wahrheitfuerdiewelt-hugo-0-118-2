@@ -1,7 +1,7 @@
 ---
 title: "Ein französischer Philosoph, der sich nicht für die Göttliche Liebe des Vaters interessiert, sondern setzt auf Vernunft und Forschung"
 menu_title: ""
-description: "Ein französischer Philosoph, der sich nicht für die Göttliche Liebe des Vaters interessiert, sondern setzt auf Vernunft und Forschung"
+description: "Auguste Comte, empfangen durch James Padgett: „Als ich auf der Erde war, war ich als Freidenker und von einigen als Agnostiker bekannt und war folglich …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

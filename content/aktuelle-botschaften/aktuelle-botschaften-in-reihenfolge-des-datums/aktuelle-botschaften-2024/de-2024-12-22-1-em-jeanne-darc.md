@@ -1,7 +1,7 @@
 ---
 title: "Gottes Segen für jedes seiner Kinder"
 menu_title: ""
-description: "Gottes Segen für jedes seiner Kinder"
+description: "Jeanne d'Arc, empfangen durch Elisabeth Mack: „Es gibt so viele Seelen, die Licht in sich tragen, dass Gott sie in dieser Jahreszeit mit noch mehr Licht …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Du bist ein Mysterium"
 menu_title: ""
-description: "Du bist ein Mysterium"
+description: "Vater, empfangen durch Child of God: „Wage es, dein Leben in dieses Mysterium hinein zu leben. Es gibt ein strahlendes Licht in den verborgenen Kammern …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

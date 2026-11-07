@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist nicht Gott, sondern wurde vom Vater gesandt, um die Menschen zu Seiner Gunst und Liebe zu führen"
 menu_title: ""
-description: "Jesus ist nicht Gott, sondern wurde vom Vater gesandt, um die Menschen zu Seiner Gunst und Liebe zu führen"
+description: "Jesus, empfangen durch James Padgett: „Lass keine Angst in dein Herz, denn der Herr ist dein Beschützer und Er wird dein Ratgeber und Schutzschild sein.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

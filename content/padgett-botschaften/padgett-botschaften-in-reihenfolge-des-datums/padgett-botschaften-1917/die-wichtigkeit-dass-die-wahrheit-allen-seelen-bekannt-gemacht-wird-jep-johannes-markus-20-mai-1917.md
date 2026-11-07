@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit, dass die Wahrheit allen Seelen bekannt gemacht wird"
 menu_title: ""
-description: "Die Wichtigkeit, dass die Wahrheit allen Seelen bekannt gemacht wird"
+description: "Johannes Markus, empfangen durch James Padgett: „Ich werde ein paar Zeilen schreiben und dich wissen lassen, dass ich heute Abend deinen Kommentaren zu dem …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

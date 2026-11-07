@@ -1,7 +1,7 @@
 ---
 title: "Das Gleichnis vom Mandelbaum"
 menu_title: ""
-description: "Das Gleichnis vom Mandelbaum"
+description: "Judas, empfangen durch H.: „\"Es war einmal ein Mann, der Besitzer eines wertvollen Obstgartens. Mitten in seinem Garten stand eine hohe Mandel.“"
 date: 2020-08-01 06:25:48+00:253
 draft: False
 hidden: True

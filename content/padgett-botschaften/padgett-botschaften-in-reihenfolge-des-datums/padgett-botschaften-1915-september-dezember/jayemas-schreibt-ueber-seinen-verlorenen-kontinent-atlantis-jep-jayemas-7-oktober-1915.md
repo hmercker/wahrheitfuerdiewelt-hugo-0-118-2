@@ -1,7 +1,7 @@
 ---
 title: "Jayemas schreibt über seinen verlorenen Kontinent (Atlantis)"
 menu_title: ""
-description: "Jayemas schreibt über seinen verlorenen Kontinent (Atlantis)"
+description: "Jayemas, empfangen durch James Padgett: „Ich befinde mich jetzt in der sechsten Sphäre, in der sich viele andere meiner Landsleute befinden und in der sie …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

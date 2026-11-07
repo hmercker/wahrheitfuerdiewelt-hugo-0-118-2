@@ -1,7 +1,7 @@
 ---
 title: "Seid dankbar"
 menu_title: ""
-description: "Seid dankbar"
+description: "John Hughes, empfangen durch Elisabeth Mack: „Ihr habt viel, wofür ihr dankbar sein könnt. Ihr seid mit vielen Segnungen beschenkt worden.“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

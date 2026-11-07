@@ -1,7 +1,7 @@
 ---
 title: "Elias schreibt, dass er der Prophet der Verklärung ist, die tatsächlich stattgefunden hat"
 menu_title: ""
-description: "Elias schreibt, dass er der Prophet der Verklärung ist, die tatsächlich stattgefunden hat"
+description: "Elias, empfangen durch James Padgett: „Ich möchte dir nur sagen, dass ich dir eine Nachricht schreiben möchte, und ich werde es gerne tun, sobald es mir …“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offen sein für Heilung"
 menu_title: ""
-description: "Offen sein für Heilung"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich war gestern anwesend, als Bruder Judas seine Botschaft von der heilenden Kraft des Lichts und der Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

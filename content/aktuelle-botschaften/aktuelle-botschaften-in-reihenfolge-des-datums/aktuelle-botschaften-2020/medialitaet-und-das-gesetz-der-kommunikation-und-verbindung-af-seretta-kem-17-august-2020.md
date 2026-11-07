@@ -1,7 +1,7 @@
 ---
 title: "Medialität und das Gesetz der Kommunikation und Verbindung"
 menu_title: ""
-description: "Medialität und das Gesetz der Kommunikation und Verbindung"
+description: "Seretta Kem, empfangen durch Al Fike: „Seine Behauptung, dass es für dieses Individuum möglich sein kann, Botschaften aus dem, was er den unterbewussten …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet ist ein wichtiger Bestandteil in Gottes Plan für die Transformation der Welt"
 menu_title: ""
-description: "Das Gebet ist ein wichtiger Bestandteil in Gottes Plan für die Transformation der Welt"
+description: "Orion & Jesus, empfangen durch Al Fike: „Orion: Möge der Friede, der alles Verstehen übersteigt, der eure sein, geliebte Freunde. Damit bin ich eines …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

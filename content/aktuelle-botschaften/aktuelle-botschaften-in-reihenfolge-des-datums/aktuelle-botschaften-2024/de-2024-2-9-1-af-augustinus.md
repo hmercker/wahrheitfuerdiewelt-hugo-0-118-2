@@ -1,7 +1,7 @@
 ---
 title: "Stellt euch immer dem Licht der Liebe Gottes"
 menu_title: ""
-description: "Stellt euch immer dem Licht der Liebe Gottes"
+description: "Augustinus, empfangen durch Al Fike: „So wie die Sonne immer im Osten aufgeht und euch wärmt, euch mit der Wärme von Gottes Schöpfung berührt, so wird …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Padgett half spirituellen Wesen aus allen Gesellschaftsschichten und dem frühen Indianer, der um Hilfe bat"
 menu_title: ""
-description: "Padgett half spirituellen Wesen aus allen Gesellschaftsschichten und dem frühen Indianer, der um Hilfe bat"
+description: "Der letzte Mohikaner, empfangen durch James Padgett: „Ich war ein Indianer, der in den frühen Tagen der Existenz deines Landes lebte, und ich war kein …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

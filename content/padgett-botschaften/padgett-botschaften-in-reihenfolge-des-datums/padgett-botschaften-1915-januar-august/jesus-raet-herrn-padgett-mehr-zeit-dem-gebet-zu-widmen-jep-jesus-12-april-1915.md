@@ -1,7 +1,7 @@
 ---
 title: "Jesus rät Herrn Padgett, mehr Zeit dem Gebet zu widmen"
 menu_title: ""
-description: "Jesus rät Herrn Padgett, mehr Zeit dem Gebet zu widmen"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir sagen, dass du schon sehr lange nicht mehr in einer so guten spirituellen Verfassung warst.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Geht tiefer, um in euren Seelen zu sein"
 menu_title: ""
-description: "Geht tiefer, um in euren Seelen zu sein"
+description: "Barbara Davies, empfangen durch Al Fike: „Viele sind zu mir gekommen, weil ich eine Mutter bin. Viele fühlten sich getröstet und gesegnet, aber das war …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

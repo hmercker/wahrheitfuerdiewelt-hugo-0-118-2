@@ -1,7 +1,7 @@
 ---
 title: "Eine Unze Göttlicher Liebe"
 menu_title: ""
-description: "Eine Unze Göttlicher Liebe"
+description: "Thomas Merton, empfangen durch Jimbeau Walsh: „Ich habe, wie man so schön sagt, in den Startlöchern gestanden, um zu sprechen, und ich wurde von denen …“"
 date: 2025-01-06 06:00:00+00:10
 draft: False
 hidden: True

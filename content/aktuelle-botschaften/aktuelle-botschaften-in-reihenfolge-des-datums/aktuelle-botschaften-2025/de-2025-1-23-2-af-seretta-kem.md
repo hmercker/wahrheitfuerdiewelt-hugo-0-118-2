@@ -1,7 +1,7 @@
 ---
 title: "Entwicklung des menschlichen Bewustseins"
 menu_title: ""
-description: "Entwicklung des menschlichen Bewustseins"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte ein wenig auf das eingehen, was das liebe Instrument euch über Entwicklung erzählt hat.“"
 date: 2025-01-23 06:00:00+00:10
 draft: False
 hidden: True

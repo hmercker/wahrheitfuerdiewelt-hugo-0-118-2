@@ -1,7 +1,7 @@
 ---
 title: "Es ist wichtig, der Menschheit die Wahrheit zu bringen"
 menu_title: ""
-description: "Es ist wichtig, der Menschheit die Wahrheit zu bringen"
+description: "Joseph Smith, empfangen durch Al Fike: „Ich möchte in der Tat zu meinem Volk des mormonischen Glaubens materialisieren und zu diesen Menschen sprechen und …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

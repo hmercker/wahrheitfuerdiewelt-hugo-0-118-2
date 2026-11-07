@@ -1,7 +1,7 @@
 ---
 title: "Ein Gebet, das uns hilft, das Seelenbewusstsein zu erreichen"
 menu_title: ""
-description: "Ein Gebet, das uns hilft, das Seelenbewusstsein zu erreichen"
+description: "Jesus, empfangen durch Al Fike: „Möget ihr die Liebe des Vaters als tragende Säule eures Lebens erkennen. Wir wandeln einen Moment lang gemeinsam in der …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

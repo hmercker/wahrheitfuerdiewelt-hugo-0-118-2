@@ -1,7 +1,7 @@
 ---
 title: "Sucht Gott zu erkennen und ihr werdet ein Kanal der Liebe sein"
 menu_title: ""
-description: "Sucht Gott zu erkennen und ihr werdet ein Kanal der Liebe sein"
+description: "Matthäus, empfangen durch Al Fike: „Gott möchte jede Seele in eurer Welt berühren und dass sich jede Seele für die Berührung Gottes öffnet, damit Seine …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

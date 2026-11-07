@@ -1,7 +1,7 @@
 ---
 title: "F.U.S.C. wird weiterhin eine Zuflucht und ein Lichtzentrum sein"
 menu_title: ""
-description: "F.U.S.C. wird weiterhin eine Zuflucht und ein Lichtzentrum sein"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch trägt ein Licht. Jeder von euch wird von Gott genährt.“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

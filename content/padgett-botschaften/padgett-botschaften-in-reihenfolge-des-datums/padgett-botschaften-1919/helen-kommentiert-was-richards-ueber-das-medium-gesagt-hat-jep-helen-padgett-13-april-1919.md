@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert, was Richards über das Medium gesagt hat"
 menu_title: ""
-description: "Helen kommentiert, was Richards über das Medium gesagt hat"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hast gerade eine Nachricht von einem der spirituellen Wesen erhalten, die manchmal an den Treffen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

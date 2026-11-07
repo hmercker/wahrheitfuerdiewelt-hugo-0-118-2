@@ -1,7 +1,7 @@
 ---
 title: "Weihnachtssegen"
 menu_title: ""
-description: "Weihnachtssegen"
+description: "Matthäus, empfangen durch Al Fike: „Ihr ehrt unseren geliebten Bruder Jesus, indem ihr die Wahrheit sucht, die er gelehrt hat, indem ihr die Wahrheit in …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

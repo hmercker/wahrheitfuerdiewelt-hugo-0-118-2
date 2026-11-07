@@ -1,7 +1,7 @@
 ---
 title: "Nutze deine Kunst, um die Wahrheit von Gottes Liebe zu verbreiten"
 menu_title: ""
-description: "Nutze deine Kunst, um die Wahrheit von Gottes Liebe zu verbreiten"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Ihr kennt mich natürlich als Charlie Chaplin. Es ist schon eine Weile her, dass ich gesprochen habe, aber …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

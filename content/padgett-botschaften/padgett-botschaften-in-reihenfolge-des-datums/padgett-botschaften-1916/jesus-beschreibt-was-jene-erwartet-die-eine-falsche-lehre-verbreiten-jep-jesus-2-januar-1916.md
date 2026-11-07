@@ -1,7 +1,7 @@
 ---
 title: "Jesus beschreibt, was jene erwartet, die eine falsche Lehre verbreiten"
 menu_title: ""
-description: "Jesus beschreibt, was jene erwartet, die eine falsche Lehre verbreiten"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir sagen, dass das Buch von Charles Taze Russel, das den Spiritismus als Teufelswerk verurteilt, deiner …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

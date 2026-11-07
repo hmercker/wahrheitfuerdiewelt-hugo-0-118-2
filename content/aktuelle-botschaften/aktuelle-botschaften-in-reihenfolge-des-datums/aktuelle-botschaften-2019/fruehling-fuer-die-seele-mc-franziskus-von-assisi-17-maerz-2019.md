@@ -1,7 +1,7 @@
 ---
 title: "Frühling für die Seele"
 menu_title: ""
-description: "Frühling für die Seele"
+description: "Franziskus von Assisi, empfangen durch Maureen Cardoso: „Ja, es liegt viel in der Luft, was in dieser Zeit in jedem eurer Leben erblüht, während ihr euch …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

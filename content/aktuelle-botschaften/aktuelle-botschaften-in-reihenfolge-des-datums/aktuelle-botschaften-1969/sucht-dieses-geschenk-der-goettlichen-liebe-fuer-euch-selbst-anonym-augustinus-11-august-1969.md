@@ -1,7 +1,7 @@
 ---
 title: "Sucht dieses Geschenk der Göttlichen Liebe für euch selbst"
 menu_title: ""
-description: "Sucht dieses Geschenk der Göttlichen Liebe für euch selbst"
+description: "Augustinus: „Ich habe gehofft, dass ihr nichts dagegen habt, dass ich euch gebeten habe, das Licht zu dimmen, das macht es uns leichter.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

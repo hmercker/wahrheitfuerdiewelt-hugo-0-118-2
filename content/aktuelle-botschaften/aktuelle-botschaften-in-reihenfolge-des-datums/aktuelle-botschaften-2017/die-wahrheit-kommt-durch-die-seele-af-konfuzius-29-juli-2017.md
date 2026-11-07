@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit kommt durch die Seele"
 menu_title: ""
-description: "Die Wahrheit kommt durch die Seele"
+description: "Konfuzius, empfangen durch Al Fike: „Ich hoffe, dass ihr mich hören könnt. Jeder von euch ist wertvoll in den Augen Gottes.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

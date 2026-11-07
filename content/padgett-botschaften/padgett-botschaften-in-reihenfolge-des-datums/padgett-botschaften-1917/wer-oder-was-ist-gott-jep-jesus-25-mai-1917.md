@@ -1,7 +1,7 @@
 ---
 title: "Wer oder Was ist Gott"
 menu_title: ""
-description: "Wer oder Was ist Gott"
+description: "Jesus, empfangen durch James Padgett: „Ich war bei dir, als du gebetet hast, und habe mich deinem Gebet zum Vater angeschlossen, damit Seine Große Liebe in …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

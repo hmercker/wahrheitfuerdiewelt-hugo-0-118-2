@@ -1,7 +1,7 @@
 ---
 title: "Was eine Botschaft aus dem spirituellen Reich vertrauenswürdig macht"
 menu_title: ""
-description: "Was eine Botschaft aus dem spirituellen Reich vertrauenswürdig macht"
+description: "Johannes, empfangen von James Padgett: „Nun, ich habe gehört, was der Meister gesagt hat, und ich kann dem nur hinzufügen, dass ich niemals die Dinge …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

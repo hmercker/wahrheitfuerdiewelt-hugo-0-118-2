@@ -1,7 +1,7 @@
 ---
 title: "Stille ist goldwert"
 menu_title: ""
-description: "Stille ist goldwert"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Mögen unsere Herzen in diesem Kreis offen sein, damit der Schöpfer jede Seele mit der Essenz seiner Liebe …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

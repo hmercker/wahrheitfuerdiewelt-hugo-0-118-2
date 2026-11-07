@@ -1,7 +1,7 @@
 ---
 title: "Ein Weg zur Gesundheit"
 menu_title: ""
-description: "Ein Weg zur Gesundheit"
+description: "Lukas: „Ich stehe hier, seit das Treffen eröffnet wurde, und bringe vielen von euch hier Heilung, vielen Gesehenen und vielen Ungesehenen.“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

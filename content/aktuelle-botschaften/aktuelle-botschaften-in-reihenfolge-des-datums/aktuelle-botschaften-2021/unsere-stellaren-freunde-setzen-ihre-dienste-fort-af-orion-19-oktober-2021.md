@@ -1,7 +1,7 @@
 ---
 title: "Unsere stellaren Freunde setzen ihre Dienste fort"
 menu_title: ""
-description: "Unsere stellaren Freunde setzen ihre Dienste fort"
+description: "Orion, empfangen durch Al Fike: „Ich bringe den Segen der Liebe. Fahrt fort, eure Seelen zu erwecken.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

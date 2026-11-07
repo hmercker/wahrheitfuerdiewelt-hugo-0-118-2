@@ -1,7 +1,7 @@
 ---
 title: "Bis zehn zählen"
 menu_title: ""
-description: "Bis zehn zählen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Erlaubt euren Herzen, eurem Verstand und eurem Körper, in Frieden zu sein. Erlaubt der Liebe Gottes …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

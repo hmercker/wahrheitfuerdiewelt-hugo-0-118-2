@@ -1,7 +1,7 @@
 ---
 title: "Lukas versichert, dass Erleichterung bald kommt"
 menu_title: ""
-description: "Lukas versichert, dass Erleichterung bald kommt"
+description: "Lukas, empfangen von James Padgett: „Aber das Licht wird bald kommen und mit ihm eine Erleichterung, die dir bewusst machen wird, dass die Himmlische Welt …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

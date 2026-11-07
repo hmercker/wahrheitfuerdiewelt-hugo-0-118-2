@@ -1,7 +1,7 @@
 ---
 title: "Die zweite Sphäre"
 menu_title: ""
-description: "Die zweite Sphäre"
+description: "Judas, empfangen durch H.: „Nachdem ich meine Kommentare über diese schrecklichen Angriffe in den Vereinigten Staaten und ihre Ursachen und Folgen geäußert …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

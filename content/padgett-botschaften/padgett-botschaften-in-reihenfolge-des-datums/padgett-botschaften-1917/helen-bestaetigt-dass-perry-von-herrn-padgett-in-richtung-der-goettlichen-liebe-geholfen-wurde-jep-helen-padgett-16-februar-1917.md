@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Perry von Herrn Padgett in Richtung der Göttlichen Liebe geholfen wurde"
 menu_title: ""
-description: "Helen bestätigt, dass Perry von Herrn Padgett in Richtung der Göttlichen Liebe geholfen wurde"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich weiß, dass du glücklich bist, das Ergebnis deines Gesprächs mit Perry zu hören und das …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Freude für die Welt"
 menu_title: ""
-description: "Freude für die Welt"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Dies ist die Jahreszeit, um fröhlich zu sein. Ehre sei Gott in der Höhe!“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

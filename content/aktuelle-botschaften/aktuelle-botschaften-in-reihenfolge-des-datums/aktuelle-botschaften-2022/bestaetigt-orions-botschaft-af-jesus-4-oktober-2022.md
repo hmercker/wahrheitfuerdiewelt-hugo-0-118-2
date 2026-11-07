@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt Orions Botschaft"
 menu_title: ""
-description: "Bestätigt Orions Botschaft"
+description: "Jesus, empfangen durch Al Fike: „Er ist ein großes Licht und ein großer Lehrer, und wir arbeiten alle zusammen, um der Menschheit die Wahrheit zu bringen.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

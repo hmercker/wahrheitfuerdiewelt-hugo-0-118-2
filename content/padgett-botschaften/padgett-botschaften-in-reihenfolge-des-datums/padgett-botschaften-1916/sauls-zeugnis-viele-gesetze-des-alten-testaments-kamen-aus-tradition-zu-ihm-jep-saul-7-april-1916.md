@@ -1,7 +1,7 @@
 ---
 title: "Saul's Zeugnis: Viele Gesetze des Alten Testaments kamen aus Tradition zu ihm"
 menu_title: ""
-description: "Saul's Zeugnis: Viele Gesetze des Alten Testaments kamen aus Tradition zu ihm"
+description: "Saul, empfangen durch James Padgett: „Ich wünsche mir sehr, heute Abend eine kurze Nachricht zu schreiben, wie ich es dir vor kurzem versprochen habe.“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

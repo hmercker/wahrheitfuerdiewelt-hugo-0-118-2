@@ -1,7 +1,7 @@
 ---
 title: "Eine Synchronität der Wahrheit"
 menu_title: ""
-description: "Eine Synchronität der Wahrheit"
+description: "Robert Lees, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern, hier bin ich, Robert Lees. Wie immer freue ich mich, wenn ihr die Seiten …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

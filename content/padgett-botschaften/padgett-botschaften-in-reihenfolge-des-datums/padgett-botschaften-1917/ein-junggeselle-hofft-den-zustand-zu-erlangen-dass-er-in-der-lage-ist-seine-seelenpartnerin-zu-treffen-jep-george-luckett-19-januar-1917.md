@@ -1,7 +1,7 @@
 ---
 title: "Ein Junggeselle hofft den Zustand zu erlangen, dass er in der Lage ist, seine Seelenpartnerin zu treffen"
 menu_title: ""
-description: "Ein Junggeselle hofft den Zustand zu erlangen, dass er in der Lage ist, seine Seelenpartnerin zu treffen"
+description: "Luckett, empfangen durch James Padgett: „Lass mich ein Wort sagen - George E Luckett. Nun, das mag alles wahr sein und ich muss sagen, dass sie und ihr …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

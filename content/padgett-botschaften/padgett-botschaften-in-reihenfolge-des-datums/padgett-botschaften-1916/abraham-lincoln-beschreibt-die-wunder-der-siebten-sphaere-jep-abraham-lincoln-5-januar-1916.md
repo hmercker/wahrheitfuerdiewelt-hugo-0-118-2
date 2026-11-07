@@ -1,7 +1,7 @@
 ---
 title: "Abraham Lincoln beschreibt die Wunder der Siebten Sphäre"
 menu_title: ""
-description: "Abraham Lincoln beschreibt die Wunder der Siebten Sphäre"
+description: "Abraham Lincoln, empfangen durch James Padgett: „Nun gut, ich lebe in der Siebenten Sphäre, bin sehr glücklich und erfreue mich der Wonnen einer erlösten …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

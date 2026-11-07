@@ -1,7 +1,7 @@
 ---
 title: "Ehrung und Segen zum Vatertag"
 menu_title: ""
-description: "Ehrung und Segen zum Vatertag"
+description: "Jesus, empfangen durch Al Fike: „Lasst die Liebe des Vaters in eure Seelen eindringen. So wie ihr eure Brüder ehrt, so ehre ich meine Brüder.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

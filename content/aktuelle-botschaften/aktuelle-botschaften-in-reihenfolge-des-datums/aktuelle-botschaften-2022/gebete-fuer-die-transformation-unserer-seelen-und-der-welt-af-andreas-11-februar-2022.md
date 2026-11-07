@@ -1,7 +1,7 @@
 ---
 title: "Gebete für die Transformation unserer Seelen und der Welt"
 menu_title: ""
-description: "Gebete für die Transformation unserer Seelen und der Welt"
+description: "Andreas, empfangen durch Al Fike: „Die Welt wird sich in Liebe erheben. Das ist die Bestimmung eurer Welt, denn Gott hat einen Plan, um die ganze …“"
 date: 2022-03-11 06:00:00+00:10
 draft: False
 hidden: True

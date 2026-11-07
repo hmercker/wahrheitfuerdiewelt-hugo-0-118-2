@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 17 : Die Versuchung Jesu, die Taufe mit Wasser und über den Spiritismus"
 menu_title: ""
-description: "Offenbarung 17 : Die Versuchung Jesu, die Taufe mit Wasser und über den Spiritismus"
+description: "Jesus, empfangen durch Dr Samuels: „Ich war bei dir, als du die Briefe der Mitglieder der Foundation Church of the New Birth beantwortet hast und freue …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid die Vorboten der neuen Welt"
 menu_title: ""
-description: "Ihr seid die Vorboten der neuen Welt"
+description: "Matthäus, empfangen durch Al Fike: „Ich weiß, dass es für euch schwierig ist, die Funktionsweise eurer Seele und die Feinheiten und Gefühle eurer Seele so …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

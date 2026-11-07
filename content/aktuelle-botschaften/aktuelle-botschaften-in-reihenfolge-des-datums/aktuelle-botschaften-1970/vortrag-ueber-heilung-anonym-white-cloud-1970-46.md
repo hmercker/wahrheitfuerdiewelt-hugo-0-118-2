@@ -1,7 +1,7 @@
 ---
 title: "Vortrag über Heilung"
 menu_title: ""
-description: "Vortrag über Heilung"
+description: "White Cloud: „Tecumseh 1 und ich werden nicht allzu lange bleiben, denn viele wollen folgen und das Instrument ist heute Abend hier in einem sehr guten …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

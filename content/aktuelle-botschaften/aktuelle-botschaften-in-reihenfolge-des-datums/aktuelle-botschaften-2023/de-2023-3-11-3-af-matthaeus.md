@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit, vorzutreten und Anstrengungen zu intensivieren!"
 menu_title: ""
-description: "Es ist an der Zeit, vorzutreten und Anstrengungen zu intensivieren!"
+description: "Matthäus, empfangen durch Al Fike: „Es ist schön, euch im Gebet und in der liebevollen Gemeinschaft zu sehen, die ihr als Brüder und Schwestern in der …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

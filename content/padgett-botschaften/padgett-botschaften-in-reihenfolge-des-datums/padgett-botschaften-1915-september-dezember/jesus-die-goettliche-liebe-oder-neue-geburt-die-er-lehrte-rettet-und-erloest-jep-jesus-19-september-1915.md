@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Die Göttliche Liebe oder Neue Geburt, die er lehrte, rettet und erlöst"
 menu_title: ""
-description: "Jesus: Die Göttliche Liebe oder Neue Geburt, die er lehrte, rettet und erlöst"
+description: "Jesus, empfangen von James Padgett: „Ich habe die Diskussion zwischen dir und dem anderen Mann über mein Blut, das von der Sünde errettet, gehört und hatte …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

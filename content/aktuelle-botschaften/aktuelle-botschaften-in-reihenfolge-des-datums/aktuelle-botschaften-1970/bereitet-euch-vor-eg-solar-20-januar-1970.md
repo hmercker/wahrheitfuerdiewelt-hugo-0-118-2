@@ -1,7 +1,7 @@
 ---
 title: "Bereitet euch vor"
 menu_title: ""
-description: "Bereitet euch vor"
+description: "Solar 1: „Wir geben unsere Zeit nicht leichtfertig, und wenn diejenigen aus der Gruppe nicht daran interessiert sind, Gott zu dienen und sich selbst zu …“"
 date: 2020-06-04 06:25:48+00:00
 draft: False
 hidden: True

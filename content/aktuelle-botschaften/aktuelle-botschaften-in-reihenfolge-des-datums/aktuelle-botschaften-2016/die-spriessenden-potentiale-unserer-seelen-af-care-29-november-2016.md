@@ -1,7 +1,7 @@
 ---
 title: "Die sprießenden Potentiale unserer Seelen"
 menu_title: ""
-description: "Die sprießenden Potentiale unserer Seelen"
+description: "Care Darby Walsh, empfangen durch Al Fike: „Auch ich werde mich euren Gebeten und Bemühungen anschließen. Es gibt eine Menge Arbeit für dich zu tun, meine …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

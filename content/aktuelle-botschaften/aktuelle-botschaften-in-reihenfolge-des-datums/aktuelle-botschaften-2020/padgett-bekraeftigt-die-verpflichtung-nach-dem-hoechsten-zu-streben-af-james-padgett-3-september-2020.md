@@ -1,7 +1,7 @@
 ---
 title: "Padgett bekräftigt die Verpflichtung, nach dem Höchsten zu streben"
 menu_title: ""
-description: "Padgett bekräftigt die Verpflichtung, nach dem Höchsten zu streben"
+description: "James Padgett, empfangen durch Al Fike: „Dieses Instrument hat etwas geschrieben, das eine wichtige Erklärung bezüglich seiner Gaben und Medialität ist.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Betet für die Pforten des Lichts und dafür, dass mehr errichtet werden"
 menu_title: ""
-description: "Betet für die Pforten des Lichts und dafür, dass mehr errichtet werden"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte euch ermutigen, weiterhin für diese Pforten des Lichts zu beten, die in der Welt errichtet wurden, und …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

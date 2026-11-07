@@ -1,7 +1,7 @@
 ---
 title: "Rogers sucht Hilfe und fühlte sich bei der Seance, an der er teilnahm, zu Herrn Padgett hingezogen"
 menu_title: ""
-description: "Rogers sucht Hilfe und fühlte sich bei der Seance, an der er teilnahm, zu Herrn Padgett hingezogen"
+description: "John D. Rogers, empfangen durch James Padgett: „Ich möchte eine Zeile schreiben, John D. Ich war bei dem Treffen mit dir und habe gesehen, dass du ein …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

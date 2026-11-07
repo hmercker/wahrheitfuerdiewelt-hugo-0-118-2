@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid nie allein"
 menu_title: ""
-description: "Ihr seid nie allein"
+description: "Maria, empfangen durch Al Fike: „Keiner von euch ist allein mit seinem Wunsch und seinen Bemühungen, Gott zu erreichen und im Licht von Gottes Gnade zu stehen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Weihung eurer Seelen"
 menu_title: ""
-description: "Die Weihung eurer Seelen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr badet in diesem Moment in den lebendigen Wassern Gottes. Diese Wasser strömen in diesen Raum, in euren Kreis …“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

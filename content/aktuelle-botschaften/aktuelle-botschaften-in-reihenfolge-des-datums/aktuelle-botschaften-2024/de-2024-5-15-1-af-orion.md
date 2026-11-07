@@ -1,7 +1,7 @@
 ---
 title: "Eins sein mit Gott"
 menu_title: ""
-description: "Eins sein mit Gott"
+description: "Orion, empfangen durch Al Fike: „Orion ist wieder hier, um mit meinen wunderbaren Freunden zusammen zu sein, die eifrig nach der Wahrheit suchen, die ihren …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

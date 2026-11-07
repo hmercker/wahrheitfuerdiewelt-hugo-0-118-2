@@ -1,7 +1,7 @@
 ---
 title: "Im Kampf mit den Herausforderungen dieser Welt"
 menu_title: ""
-description: "Im Kampf mit den Herausforderungen dieser Welt"
+description: "Andreas, empfangen durch Al Fike: „Seid gesegnet auf eurer Reise und bei euren Bemühungen, die Liebe zu empfangen, um ins Licht zu gehen, um Gott in all …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Seelenverstand soll den materiellen Verstand ergänzen"
 menu_title: ""
-description: "Der Seelenverstand soll den materiellen Verstand ergänzen"
+description: "Icarius, empfangen durch Al Fike: „Denn durch diese Gabe kommen alle mächtigen Gaben der Seele zum Vorschein. In diesem Segen kommt das Erwachen des …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

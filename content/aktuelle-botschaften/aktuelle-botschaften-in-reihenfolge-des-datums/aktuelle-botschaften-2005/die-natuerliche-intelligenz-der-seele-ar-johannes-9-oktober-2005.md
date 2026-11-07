@@ -1,7 +1,7 @@
 ---
 title: "Die natürliche Intelligenz der Seele"
 menu_title: ""
-description: "Die natürliche Intelligenz der Seele"
+description: "Johannes, empfangen durch Amada Reza: „Ihr seid alle Jünger Jesu, denn ihr betet um diese Substanz der Seele Gottes - die Göttliche Liebe - und empfangt …“"
 date: 2020-08-01 06:25:48+00:306
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bund der Einheit"
 menu_title: ""
-description: "Bund der Einheit"
+description: "Andreas: „Es ist eine lange Zeit her, Alec. Viele Male seid ihr in Gedanken, in meinen Gebeten und in meiner Liebe bei mir gewesen.“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

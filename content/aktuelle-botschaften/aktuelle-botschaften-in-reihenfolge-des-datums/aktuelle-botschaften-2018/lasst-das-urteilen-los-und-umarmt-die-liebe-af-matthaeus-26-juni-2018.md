@@ -1,7 +1,7 @@
 ---
 title: "Lasst das Urteilen los und umarmt die Liebe"
 menu_title: ""
-description: "Lasst das Urteilen los und umarmt die Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Jeden Tag ermutigt euch Gott, auf der Leiter des Lichts weiter nach oben zu steigen, reiner in euren Gedanken zu sein …“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

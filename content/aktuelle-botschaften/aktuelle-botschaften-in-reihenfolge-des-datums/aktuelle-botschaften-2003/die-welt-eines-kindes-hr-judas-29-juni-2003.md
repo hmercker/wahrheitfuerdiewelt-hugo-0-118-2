@@ -1,7 +1,7 @@
 ---
 title: "Die Welt eines Kindes"
 menu_title: ""
-description: "Die Welt eines Kindes"
+description: "Judas, empfangen durch H.: „Ich erinnere mich auch daran, dass ich einmal, als ich nach den kleinen Objekten und den winzigen Wesen meiner Welt im hinteren …“"
 date: 2020-08-01 06:25:48+00:274
 draft: False
 hidden: True

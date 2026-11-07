@@ -1,7 +1,7 @@
 ---
 title: "Die Quelle der Emotionen"
 menu_title: ""
-description: "Die Quelle der Emotionen"
+description: "Judas, empfangen durch Al Fike: „Eine kürzlich geführte Diskussion über Gefühle und Gedanken, bei der es darum geht, was zuerst kommt.“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

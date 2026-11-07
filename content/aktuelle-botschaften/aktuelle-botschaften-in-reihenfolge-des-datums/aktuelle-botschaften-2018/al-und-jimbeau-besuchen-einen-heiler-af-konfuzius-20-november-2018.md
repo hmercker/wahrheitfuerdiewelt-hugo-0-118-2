@@ -1,7 +1,7 @@
 ---
 title: "Al und Jimbeau besuchen einen Heiler"
 menu_title: ""
-description: "Al und Jimbeau besuchen einen Heiler"
+description: "Konfuzius, empfangen durch Al Fike: „Ich habe eurer Heilung beigewohnt und viele Segnungen zu den Segnungen hinzugefügt, die die liebe Seele (Pauline) 1 …“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

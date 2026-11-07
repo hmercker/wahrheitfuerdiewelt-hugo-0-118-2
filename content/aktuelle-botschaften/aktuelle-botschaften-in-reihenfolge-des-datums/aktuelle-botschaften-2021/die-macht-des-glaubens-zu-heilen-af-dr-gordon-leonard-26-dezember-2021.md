@@ -1,7 +1,7 @@
 ---
 title: "Die Macht des Glaubens zu heilen"
 menu_title: ""
-description: "Die Macht des Glaubens zu heilen"
+description: "Dr Gorden Leonard, empfangen durch Al Fike: „Ich arbeite seit vielen Jahren mit diesem Kreis und dieser Gruppe in der Gegend, in der sie sich aufhalten.“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

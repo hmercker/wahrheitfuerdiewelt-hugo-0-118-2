@@ -1,7 +1,7 @@
 ---
 title: "Ein Blick in die Ewigkeit"
 menu_title: ""
-description: "Ein Blick in die Ewigkeit"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „In dieser Zeit, in dieser Verlangsamung, in der so viele aus der sterblichen Spule entlassen werden, aus dem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

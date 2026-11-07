@@ -1,7 +1,7 @@
 ---
 title: "Anabalixis will wiederkommen um über den Kontinent Atlantis zu schreiben"
 menu_title: ""
-description: "Anabalixis will wiederkommen um über den Kontinent Atlantis zu schreiben"
+description: "Anabalixis, empfangen durch James Padgett: „Ich habe auf dem verlorenen Kontinent Atlantis gelebt. Ich werde irgendwann wiederkommen und dir die Wunder …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

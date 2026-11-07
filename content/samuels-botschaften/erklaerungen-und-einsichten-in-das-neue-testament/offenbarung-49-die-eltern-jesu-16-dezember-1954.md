@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 49 : Die Eltern Jesu"
 menu_title: ""
-description: "Offenbarung 49 : Die Eltern Jesu"
+description: "Jesus, empfangen durch Dr Samuels: „Ich freue mich, dass du das Buch von Emerson Fosdick über mein Leben und Wirken gelesen hast — ein Autor, der zwar noch …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

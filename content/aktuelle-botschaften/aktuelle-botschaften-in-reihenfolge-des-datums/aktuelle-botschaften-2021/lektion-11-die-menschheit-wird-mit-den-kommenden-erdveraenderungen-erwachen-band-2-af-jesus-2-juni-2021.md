@@ -1,7 +1,7 @@
 ---
 title: "Lektion 11 - Die Menschheit wird mit den kommenden Erdveränderungen erwachen  - Band 2"
 menu_title: ""
-description: "Lektion 11 - Die Menschheit wird mit den kommenden Erdveränderungen erwachen  - Band 2"
+description: "Jesus, empfangen durch Al Fike: „[Vorweg ein Kommentar des Mediums: „Diese Botschaft wurde gegeben, nachdem kürzlich bekannt wurde, dass Hunderte von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Vom Schoß Gottes bis an die Pforten des Himmels"
 menu_title: ""
-description: "Vom Schoß Gottes bis an die Pforten des Himmels"
+description: "Lukas, empfangen durch Al Fike: „Die Reise zu Gott ist sowohl schwierig als auch sehr lohnend. Wie ihr wisst, liegen die Schwierigkeiten im menschlichen …“"
 date: 2025-01-17 06:00:00+00:10
 draft: False
 hidden: True

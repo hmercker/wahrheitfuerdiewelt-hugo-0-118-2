@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit hat ein großes Werk zu vollbringen"
 menu_title: ""
-description: "Die Menschheit hat ein großes Werk zu vollbringen"
+description: "Johannes der Täufer, empfangen durch Elisabeth Mack: „Ihr alle in diesem Kreis seid gerettet. Ihr alle habt diese eine Seeleneigenschaft, die euch rettet …“"
 date: 2025-02-01 06:00:00+00:10
 draft: False
 hidden: True

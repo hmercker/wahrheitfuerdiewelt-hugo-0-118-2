@@ -1,7 +1,7 @@
 ---
 title: "Betont (erneut), was für die Direkte Stimme notwendig ist"
 menu_title: ""
-description: "Betont (erneut), was für die Direkte Stimme notwendig ist"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr nähert euch der Zeit, in der ihr im Gebet zusammen seid. In der Tat muss ich unsere Bitte wiederholen, betend …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

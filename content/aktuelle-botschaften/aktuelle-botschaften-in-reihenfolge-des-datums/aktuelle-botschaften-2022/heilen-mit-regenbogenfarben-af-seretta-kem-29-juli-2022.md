@@ -1,7 +1,7 @@
 ---
 title: "Heilen mit Regenbogenfarben"
 menu_title: ""
-description: "Heilen mit Regenbogenfarben"
+description: "Seretta Kem, empfangen durch Al Fike: „So viele Worte, so viele Spekulationen, und so habt ihr als Menschen ein großes Verlangen, die Manifestationen von …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

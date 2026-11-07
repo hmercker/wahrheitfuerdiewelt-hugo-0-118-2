@@ -1,7 +1,7 @@
 ---
 title: "Für Göttliche Liebe beten, ohne sich wie ein Schwindler zu fühlen; Wann erhält man Unsterblichkeit?"
 menu_title: ""
-description: "Für Göttliche Liebe beten, ohne sich wie ein Schwindler zu fühlen; Wann erhält man Unsterblichkeit?"
+description: "Josef, empfangen durch Kathryn Stokes: „[Wie kann man um göttliche Liebe beten, ohne sich wie ein Schwindler zu fühlen? Wird man unsterblich, wenn man …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

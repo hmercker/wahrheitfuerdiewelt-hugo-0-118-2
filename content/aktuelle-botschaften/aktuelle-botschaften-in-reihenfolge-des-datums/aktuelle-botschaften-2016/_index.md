@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2016"
 menu_title: "Aktuelle Botschaften 2016"
-description: "Aktuelle Botschaften vom Jahre 2016"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Konfuzius | Das neue Bewusstsein einer sich öffnenden Seele akzeptieren | 4 Januar 2016 …“"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True

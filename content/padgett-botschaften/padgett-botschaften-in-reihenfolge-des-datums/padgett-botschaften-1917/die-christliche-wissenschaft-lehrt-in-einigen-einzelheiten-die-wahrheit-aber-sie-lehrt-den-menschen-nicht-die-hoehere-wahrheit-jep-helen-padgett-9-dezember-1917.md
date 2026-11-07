@@ -1,7 +1,7 @@
 ---
 title: "Die Christliche Wissenschaft lehrt in einigen Einzelheiten die Wahrheit, aber sie lehrt den Menschen nicht die Höhere Wahrheit"
 menu_title: ""
-description: "Die Christliche Wissenschaft lehrt in einigen Einzelheiten die Wahrheit, aber sie lehrt den Menschen nicht die Höhere Wahrheit"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebster, ich habe deine Gebete gehört und mit dir um das Einströmen der Liebe gebetet, und ich weiß, dass der …“"
 date: 2020-08-01 06:25:48+00:237
 draft: False
 hidden: True

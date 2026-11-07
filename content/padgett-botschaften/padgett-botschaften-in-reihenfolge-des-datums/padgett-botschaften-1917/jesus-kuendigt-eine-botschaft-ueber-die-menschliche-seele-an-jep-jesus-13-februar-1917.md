@@ -1,7 +1,7 @@
 ---
 title: "Jesus kündigt eine Botschaft über die menschliche Seele an"
 menu_title: ""
-description: "Jesus kündigt eine Botschaft über die menschliche Seele an"
+description: "Jesus, empfangen durch James Padgett: „Wie ich dir gesagt habe, ist es notwendig, dass du dich in den bestmöglichen Empfangszustand begibst, damit du meine …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

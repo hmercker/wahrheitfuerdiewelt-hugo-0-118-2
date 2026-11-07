@@ -1,7 +1,7 @@
 ---
 title: "Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3"
 menu_title: ""
-description: "Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte heute über die Verbreitung der Wahrheit der göttlichen Liebe in der Welt sprechen und darüber, wie wir im …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

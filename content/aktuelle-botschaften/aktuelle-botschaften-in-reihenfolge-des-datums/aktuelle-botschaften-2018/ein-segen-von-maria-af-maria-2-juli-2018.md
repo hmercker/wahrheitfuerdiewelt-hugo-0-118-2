@@ -1,7 +1,7 @@
 ---
 title: "Ein Segen von Maria"
 menu_title: ""
-description: "Ein Segen von Maria"
+description: "Maria, empfangen durch Al Fike: „Möget ihr weiterhin die Liebe des Vaters in euren Seelen empfangen. Es sind viele in eurer Obhut, meine schönen Brüder und …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ernsthaftes Gespräch über den wirtschaftlichen Zusammenbruch und die Erhebung des Bewusstseins auf der Erde"
 menu_title: ""
-description: "Ernsthaftes Gespräch über den wirtschaftlichen Zusammenbruch und die Erhebung des Bewusstseins auf der Erde"
+description: "Orion, empfangen durch Al Fike: „Ihr habt Fragen zu den kommenden Veränderungen auf der Erde. Eure Erde wird von Systemen geleitet, Systemen, die einzelne …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

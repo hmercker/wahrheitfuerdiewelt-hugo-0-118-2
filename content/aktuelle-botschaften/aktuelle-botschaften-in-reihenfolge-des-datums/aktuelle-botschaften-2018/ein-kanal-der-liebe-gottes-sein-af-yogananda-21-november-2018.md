@@ -1,7 +1,7 @@
 ---
 title: "Ein Kanal der Liebe Gottes sein"
 menu_title: ""
-description: "Ein Kanal der Liebe Gottes sein"
+description: "Yogananda, empfangen durch Al Fike: „Und ich war den Vormittag über bei euch und ich finde euch alle recht amüsant, wie so viel von euren Gesprächen so …“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

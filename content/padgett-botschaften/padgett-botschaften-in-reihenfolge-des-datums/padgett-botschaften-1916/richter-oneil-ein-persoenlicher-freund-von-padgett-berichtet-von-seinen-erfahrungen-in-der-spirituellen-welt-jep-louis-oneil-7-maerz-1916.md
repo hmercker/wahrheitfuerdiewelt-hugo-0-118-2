@@ -1,7 +1,7 @@
 ---
 title: "Richter O'Neil, ein persönlicher Freund von Padgett, berichtet von seinen Erfahrungen in der spirituellen Welt"
 menu_title: ""
-description: "Richter O'Neil, ein persönlicher Freund von Padgett, berichtet von seinen Erfahrungen in der spirituellen Welt"
+description: "Louis I. O’Neil, empfangen durch James Padgett: „Ja, er ist es, der Richter genannt wurde. Ich möchte nur ein Wort sagen, da ich schon lange keine …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

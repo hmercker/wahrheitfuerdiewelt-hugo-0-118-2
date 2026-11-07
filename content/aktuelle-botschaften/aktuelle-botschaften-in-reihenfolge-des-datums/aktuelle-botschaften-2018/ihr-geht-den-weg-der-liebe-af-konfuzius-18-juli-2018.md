@@ -1,7 +1,7 @@
 ---
 title: "Ihr geht den Weg der Liebe"
 menu_title: ""
-description: "Ihr geht den Weg der Liebe"
+description: "Konfuzius, empfangen durch Al Fike: „Oh, meine kostbaren kleinen Vögel. Wie sehr liebt ihr es, im Licht der Liebe des Vaters zusammenzuschwärmen und ihr …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele, eine neue Geburt"
 menu_title: ""
-description: "Das Erwachen der Seele, eine neue Geburt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich freue mich, dass ihr dieses Gebet hattet, damit ich sprechen konnte. Dieses Instrument muss nicht die …“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

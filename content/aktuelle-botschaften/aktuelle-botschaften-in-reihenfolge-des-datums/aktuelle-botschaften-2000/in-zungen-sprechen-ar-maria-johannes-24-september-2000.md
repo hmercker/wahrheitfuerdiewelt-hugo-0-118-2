@@ -1,7 +1,7 @@
 ---
 title: "In Zungen sprechen"
 menu_title: ""
-description: "In Zungen sprechen"
+description: "Maria & Johannes, empfangen durch Amada Reza: „[Liebe Maria und Johannes, ich habe das Gefühl, dass ihr durch mich eine Botschaft übermitteln wollt, und …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins erzählt von den Fehlern in dem Buch, das er über Höllen gelesen hat"
 menu_title: ""
-description: "Ann Rollins erzählt von den Fehlern in dem Buch, das er über Höllen gelesen hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Du hast ein Buch gelesen, welches nicht wahrheitsgemäß ist, da es keine Höllen gibt, so wie sie darin …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

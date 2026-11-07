@@ -1,7 +1,7 @@
 ---
 title: "Erwartungen lassen keinen Raum das Mysterium"
 menu_title: ""
-description: "Erwartungen lassen keinen Raum für das Mysterium"
+description: "Vater, empfangen durch Child of God: „Mein Königreich ist für alle. Innerhalb Meines Reiches ist endlose Liebe für jedes Kind von Mir.“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

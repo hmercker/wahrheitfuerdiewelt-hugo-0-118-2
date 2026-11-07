@@ -1,7 +1,7 @@
 ---
 title: "Bringt das Licht der Wahrheit"
 menu_title: ""
-description: "Bringt das Licht der Wahrheit"
+description: "Maria, empfangen durch Al Fike: „Ich möchte euch, meinen geliebten Kindern, meinen Segen und meine Wünsche bringen, dass Gott in diesem kommenden Jahr …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

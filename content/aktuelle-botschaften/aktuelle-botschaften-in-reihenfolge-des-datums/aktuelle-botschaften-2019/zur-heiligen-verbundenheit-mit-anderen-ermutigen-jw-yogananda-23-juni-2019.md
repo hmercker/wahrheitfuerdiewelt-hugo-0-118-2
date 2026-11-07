@@ -1,7 +1,7 @@
 ---
 title: "Zur heiligen Verbundenheit mit anderen ermutigen"
 menu_title: ""
-description: "Zur heiligen Verbundenheit mit anderen ermutigen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte meinem Bruder Franziskus dafür danken, dass er gestern meine Gedanken an euch übermittelt hat, an …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

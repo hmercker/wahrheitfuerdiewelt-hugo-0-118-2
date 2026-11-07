@@ -1,7 +1,7 @@
 ---
 title: "Kate Stone und Familie reagieren immer, wenn Leslie's Hilferuf kommt"
 menu_title: ""
-description: "Kate Stone und Familie reagieren immer, wenn Leslie's Hilferuf kommt"
+description: "Kate Stone, empfangen durch James Padgett: „Lass mich eine Zeile schreiben, denn ich wünsche, meinem Bruder zu sagen, dass ich so oft bei ihm war und die …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

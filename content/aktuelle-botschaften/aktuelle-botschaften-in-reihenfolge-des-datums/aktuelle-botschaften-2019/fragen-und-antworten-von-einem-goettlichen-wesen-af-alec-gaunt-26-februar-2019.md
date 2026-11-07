@@ -1,7 +1,7 @@
 ---
 title: "Fragen und Antworten von einem Göttlichen Wesen"
 menu_title: ""
-description: "Fragen und Antworten von einem Göttlichen Wesen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Isis 1 residiert nicht innerhalb der Göttliche Reiche. Dieses Instrument besteht auf Göttliche Wesen als seine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

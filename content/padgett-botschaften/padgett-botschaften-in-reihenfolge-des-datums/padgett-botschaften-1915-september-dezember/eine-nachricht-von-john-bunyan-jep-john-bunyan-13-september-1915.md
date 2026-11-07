@@ -1,7 +1,7 @@
 ---
 title: "Eine Nachricht von John Bunyan"
 menu_title: ""
-description: "Eine Nachricht von John Bunyan"
+description: "John Bunyan 1, empfangen von James Padgett: „Natürlich war mein Glaube an Jesus als Gott und als ein stellvertretendes Sühneopfer ganz falsch, denn jetzt …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Einschränkungen der Wahrnehmung der Gesetze des Universums durch den sterblichen Menschen"
 menu_title: ""
-description: "Die Einschränkungen der Wahrnehmung der Gesetze des Universums durch den sterblichen Menschen"
+description: "Francis Bacon 1, empfangen durch James Padgett: „Laß mich nur einige Zeilen schreiben, denn ich möchte dir eine Sache mitteilen, die für dich von Bedeutung …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

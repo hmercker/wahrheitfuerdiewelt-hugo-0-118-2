@@ -1,7 +1,7 @@
 ---
 title: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
 menu_title: ""
-description: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
+description: "Aristoteles, empfangen durch Al Fike: „Möge die Liebe aus der Höhe die eure sein. Obwohl ich in Wahrheit nur einer von vielen war.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

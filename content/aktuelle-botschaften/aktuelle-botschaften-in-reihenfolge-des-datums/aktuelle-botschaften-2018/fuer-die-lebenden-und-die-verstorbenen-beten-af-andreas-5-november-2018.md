@@ -1,7 +1,7 @@
 ---
 title: "Für die Lebenden und die Verstorbenen beten"
 menu_title: ""
-description: "Für die Lebenden und die Verstorbenen beten"
+description: "Andreas, empfangen durch Al Fike: „Eure Gebete für diejenigen, die aus dieser Welt hinübergegangen sind in die geistige Welt, sind wichtig.“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

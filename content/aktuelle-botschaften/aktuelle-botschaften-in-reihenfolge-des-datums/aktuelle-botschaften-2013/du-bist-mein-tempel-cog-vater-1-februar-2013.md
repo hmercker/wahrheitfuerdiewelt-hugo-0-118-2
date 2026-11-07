@@ -1,7 +1,7 @@
 ---
 title: "Du bist mein Tempel"
 menu_title: ""
-description: "Du bist mein Tempel"
+description: "Vater, empfangen durch Child of God: „Ich brauche keinen Platz außerhalb deines Herzens. Ich bitte um nichts anderes als um deine Liebe.“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

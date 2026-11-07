@@ -1,7 +1,7 @@
 ---
 title: "James Padgett's Vater wurde von den Höheren Mächten zum Schutzengel seines Sohnes gewählt"
 menu_title: ""
-description: "James Padgett's Vater wurde von den Höheren Mächten zum Schutzengel seines Sohnes gewählt"
+description: "John H. Padgett, empfangen durch James Padgett: „Nun, mein Sohn, ich habe dir seit einiger Zeit nicht mehr geschrieben, da du mir nicht die Gelegenheit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

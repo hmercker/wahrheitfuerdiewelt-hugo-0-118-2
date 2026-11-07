@@ -1,7 +1,7 @@
 ---
 title: "Lektion 4 - Über die Kraft der Liebe, den menschlichen Zustand zu heilen - Band 2"
 menu_title: ""
-description: "Lektion 4 - Über die Kraft der Liebe, den menschlichen Zustand zu heilen - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Obwohl ich in der Vergangenheit viel Zeit und Mühe darauf verwendet habe, diese Perspektive zu beschreiben, möchte ich …“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

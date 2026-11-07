@@ -1,7 +1,7 @@
 ---
 title: "Perfektion ist ein relativer Begriff"
 menu_title: ""
-description: "Perfektion ist ein relativer Begriff"
+description: "Paulus, empfangen durch James Padgett: „Ich war heute Abend bei der Versammlung bei dir und habe gehört, was der junge Mann über Perfektion sagte und ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

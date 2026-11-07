@@ -1,7 +1,7 @@
 ---
 title: "Mary erklärt weiterhin die Liebe der Seelenpartner"
 menu_title: ""
-description: "Mary erklärt weiterhin die Liebe der Seelenpartner"
+description: "Mary, empfangen durch James Padgett: „Nun, du hattest ein spirituelles Wesen schreiben lassen, der das Licht wollte, und deine Band hielt es für ratsam …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

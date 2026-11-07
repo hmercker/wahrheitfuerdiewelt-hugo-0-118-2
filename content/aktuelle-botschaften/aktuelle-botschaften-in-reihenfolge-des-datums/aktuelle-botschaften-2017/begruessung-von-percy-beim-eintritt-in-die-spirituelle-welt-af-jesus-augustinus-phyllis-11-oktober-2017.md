@@ -1,7 +1,7 @@
 ---
 title: "Begrüßung von Percy beim Eintritt in die spirituelle Welt"
 menu_title: ""
-description: "Begrüßung von Percy beim Eintritt in die spirituelle Welt"
+description: "Jesus, Augustinus & Phyllis, empfangen durch Al Fike: „Ich grüßte ihn, als er aus dem Fleisch überging. Ich umarmte ihn, denn ich habe und alle Engel …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

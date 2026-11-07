@@ -1,7 +1,7 @@
 ---
 title: "Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen"
 menu_title: ""
-description: "Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen"
+description: "Jesus, empfangen durch Dr Samuels: „Ich habe darauf gewartet, dir eine weitere Predigt über die Liebe des Vaters und sein Bestreben, zu schreiben, dass die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

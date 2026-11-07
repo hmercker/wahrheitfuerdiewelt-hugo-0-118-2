@@ -1,7 +1,7 @@
 ---
 title: "Teilt die gute Nachricht"
 menu_title: ""
-description: "Teilt die gute Nachricht"
+description: "Augustinus, empfangen durch Al Fike: „Während ich die Bitte dieses lieben Instrumentes an euch alle höre, die gute Nachricht von Gottes Liebe mit jedem zu …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

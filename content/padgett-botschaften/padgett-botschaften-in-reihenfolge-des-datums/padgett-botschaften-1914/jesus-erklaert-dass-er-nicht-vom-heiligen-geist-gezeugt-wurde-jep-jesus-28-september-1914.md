@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, dass er nicht vom Heiligen Geist gezeugt wurde"
 menu_title: ""
-description: "Jesus erklärt, dass er nicht vom Heiligen Geist gezeugt wurde"
+description: "Jesus, empfangen durch James Padgett: „Du bist mein wahrer Bruder und wirst bald die großartigere Liebe deines Vaters in deinem Herzen haben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

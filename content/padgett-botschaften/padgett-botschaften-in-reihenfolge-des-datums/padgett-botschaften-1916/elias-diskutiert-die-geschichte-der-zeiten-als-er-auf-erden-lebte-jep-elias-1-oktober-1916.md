@@ -1,7 +1,7 @@
 ---
 title: "Elias diskutiert die Geschichte der Zeiten, als er auf Erden lebte"
 menu_title: ""
-description: "Elias diskutiert die Geschichte der Zeiten, als er auf Erden lebte"
+description: "Elias, empfangen durch James Padgett: „Ich war ein Prophet des Alten Testamentes, und nun bin ich ein Bewohner der Göttlichen Himmel und ein unsterbliches …“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

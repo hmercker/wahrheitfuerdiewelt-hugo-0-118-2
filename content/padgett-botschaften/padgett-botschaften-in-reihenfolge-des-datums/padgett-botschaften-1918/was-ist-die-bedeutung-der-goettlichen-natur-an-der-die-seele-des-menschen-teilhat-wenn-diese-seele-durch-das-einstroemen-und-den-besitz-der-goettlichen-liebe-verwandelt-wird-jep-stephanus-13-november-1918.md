@@ -1,7 +1,7 @@
 ---
 title: "Was ist die Bedeutung der göttlichen Natur, an der die Seele des Menschen teilhat, wenn diese Seele durch das Einströmen und den Besitz der göttlichen Liebe verwandelt wird?"
 menu_title: ""
-description: "Was ist die Bedeutung der göttlichen Natur, an der die Seele des Menschen teilhat, wenn diese Seele durch das Einströmen und den Besitz der göttlichen Liebe verwandelt wird?"
+description: "Stephanus, empfangen durch James Padgett: „Mein Thema ist: \"Was ist die Bedeutung der göttlichen Natur, an der die Seele des Menschen teilhat, nach der …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

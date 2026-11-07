@@ -1,7 +1,7 @@
 ---
 title: "Gott wird euch in eurem Dienst führen"
 menu_title: ""
-description: "Gott wird euch in eurem Dienst führen"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr strebt danach, mit so viel Ernsthaftigkeit und Verlangen zu dienen. Ihr wollt, dass die Welt geheilt wird und dass …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

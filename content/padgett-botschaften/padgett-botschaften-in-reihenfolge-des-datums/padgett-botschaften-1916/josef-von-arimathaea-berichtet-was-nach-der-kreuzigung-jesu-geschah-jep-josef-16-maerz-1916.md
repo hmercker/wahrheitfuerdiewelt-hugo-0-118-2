@@ -1,7 +1,7 @@
 ---
 title: "Josef von Arimathäa berichtet, was nach der Kreuzigung Jesu geschah"
 menu_title: ""
-description: "Josef von Arimathäa berichtet, was nach der Kreuzigung Jesu geschah"
+description: "Josef, empfangen durch James Padgett: „Ich war bei ihm, als er starb, und ich war bei seinem Körper, als er ins Grab gelegt und dieses versiegelt wurde.“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

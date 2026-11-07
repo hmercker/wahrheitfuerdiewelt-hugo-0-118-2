@@ -1,7 +1,7 @@
 ---
 title: "Beantwortung persönlicher Fragen und warum James Padgett ausgewählt wurde"
 menu_title: ""
-description: "Beantwortung persönlicher Fragen und warum James Padgett ausgewählt wurde"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Gott, ich liebe Dich und möchte Dir mit all meiner Kraft dienen, mit all meiner Liebe - der Liebe meiner Seele …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz des Fortschritts und des Wandels und des Wachstums"
 menu_title: ""
-description: "Das Gesetz des Fortschritts und des Wandels und des Wachstums"
+description: "Jesus, empfangen durch David Lampron: „Wie du aus der Botschaft von K weißt, und auch aus deiner eigenen, habe ich das Konzept und das Thema des Gesetzes …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

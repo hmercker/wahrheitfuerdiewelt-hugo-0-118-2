@@ -1,7 +1,7 @@
 ---
 title: "Die Wirkung der Göttlichen Liebe auf die Seele und ihre große reinigende Kraft"
 menu_title: ""
-description: "Die Wirkung der Göttlichen Liebe auf die Seele und ihre große reinigende Kraft"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich habe mir deine Fragen an deine Frau angehört und ich habe mich gefreut, dass du den Wunsch geäußert …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

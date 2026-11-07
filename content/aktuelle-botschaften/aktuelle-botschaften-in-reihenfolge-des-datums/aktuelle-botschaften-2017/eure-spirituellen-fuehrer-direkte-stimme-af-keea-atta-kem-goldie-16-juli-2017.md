@@ -1,7 +1,7 @@
 ---
 title: "Eure spirituellen Führer - Direkte Stimme"
 menu_title: ""
-description: "Eure spirituellen Führer - Direkte Stimme"
+description: "Keea Atta Kem & Goldie, empfangen durch Al Fike: „Es ist Goldie und ich bringe eine Überraschung! Unsere liebe und geliebte M hat Lotus Blossom als Führer …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

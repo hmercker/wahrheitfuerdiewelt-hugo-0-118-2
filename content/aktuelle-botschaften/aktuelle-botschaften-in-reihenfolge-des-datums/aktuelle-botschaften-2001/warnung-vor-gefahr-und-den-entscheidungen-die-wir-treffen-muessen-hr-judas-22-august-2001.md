@@ -1,7 +1,7 @@
 ---
 title: "Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen"
 menu_title: ""
-description: "Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen"
+description: "Judas, empfangen durch H.: „Du hast mich gerufen, aber ich sehe, dass unsere Verbindung nicht sehr gut ist. Das spürst du auch, weil du mich nicht klar …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

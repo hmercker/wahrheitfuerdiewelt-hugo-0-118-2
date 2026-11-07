@@ -1,7 +1,7 @@
 ---
 title: "Gott webt uns zu einem Teppich aus Licht"
 menu_title: ""
-description: "Gott webt uns zu einem Teppich aus Licht"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wir sind so erfreut, dass ihr zusammengekommen seid, um die Bande der Liebe zu stärken, die ihr miteinander teilt …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

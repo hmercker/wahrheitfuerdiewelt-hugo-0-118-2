@@ -1,7 +1,7 @@
 ---
 title: "Ich halte euch den Rücken frei"
 menu_title: ""
-description: "Ich halte euch den Rücken frei"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich trete hervor, weil ich euch loben möchte, liebe Brüder. Ihr seid in meiner Gruppe.“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

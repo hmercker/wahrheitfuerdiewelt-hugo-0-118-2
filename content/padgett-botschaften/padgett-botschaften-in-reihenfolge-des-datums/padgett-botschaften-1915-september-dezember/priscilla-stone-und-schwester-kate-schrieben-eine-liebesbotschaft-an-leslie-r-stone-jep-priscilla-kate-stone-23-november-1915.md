@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone und Schwester Kate schrieben eine Liebesbotschaft an Leslie R. Stone"
 menu_title: ""
-description: "Priscilla Stone und Schwester Kate schrieben eine Liebesbotschaft an Leslie R. Stone"
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich möchte ein Wort an meinen Sohn richten, bevor du aufhörst zu schreiben, da ich heute Abend so viel …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

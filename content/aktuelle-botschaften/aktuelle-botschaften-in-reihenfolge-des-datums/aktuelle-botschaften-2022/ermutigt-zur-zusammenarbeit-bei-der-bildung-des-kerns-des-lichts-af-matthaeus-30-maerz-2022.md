@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt zur Zusammenarbeit bei der Bildung des Kerns des Lichts"
 menu_title: ""
-description: "Ermutigt zur Zusammenarbeit bei der Bildung des Kerns des Lichts"
+description: "Matthäus, empfangen durch Al Fike: „Ich freue mich, wenn die Kinder Gottes im Vertrauen und in Gesprächen zusammenkommen, die ihre Instrumente und ihre …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

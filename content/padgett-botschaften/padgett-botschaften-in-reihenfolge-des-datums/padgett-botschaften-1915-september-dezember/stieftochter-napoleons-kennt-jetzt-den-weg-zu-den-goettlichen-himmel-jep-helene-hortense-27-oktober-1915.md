@@ -1,7 +1,7 @@
 ---
 title: "Stieftochter Napoleons kennt jetzt den Weg zu den Göttlichen Himmel"
 menu_title: ""
-description: "Stieftochter Napoleons kennt jetzt den Weg zu den Göttlichen Himmel"
+description: "Helene Hortense, empfangen durch James Padgett: „Als ich als Tochter eines Kaisers auf der Erde war, waren meine Gedanken auf alles andere gerichtet als …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

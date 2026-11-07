@@ -1,7 +1,7 @@
 ---
 title: "Die Perspektive einiger der A.R.E.I. Konferenzteilnehmer"
 menu_title: ""
-description: "Die Perspektive einiger der A.R.E.I. Konferenzteilnehmer"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt diese vielen Seelen beobachtet, begabt wie sie sind, mit ihren Perspektiven und ihrem Verständnis der …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

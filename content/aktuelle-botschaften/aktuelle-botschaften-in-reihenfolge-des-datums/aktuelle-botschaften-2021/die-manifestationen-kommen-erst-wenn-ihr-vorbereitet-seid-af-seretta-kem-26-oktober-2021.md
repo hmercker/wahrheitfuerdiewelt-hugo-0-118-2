@@ -1,7 +1,7 @@
 ---
 title: "Die Manifestationen kommen erst, wenn ihr vorbereitet seid"
 menu_title: ""
-description: "Die Manifestationen kommen erst, wenn ihr vorbereitet seid"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge Gott euch von Herzen segnen, meine Freunde. Viele von euch werden von den irdischen Bedingungen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

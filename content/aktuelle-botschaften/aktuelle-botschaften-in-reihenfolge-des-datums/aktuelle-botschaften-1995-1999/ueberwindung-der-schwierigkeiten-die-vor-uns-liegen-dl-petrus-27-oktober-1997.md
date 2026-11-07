@@ -1,7 +1,7 @@
 ---
 title: "Überwindung der Schwierigkeiten, die vor uns liegen"
 menu_title: ""
-description: "Überwindung der Schwierigkeiten, die vor uns liegen"
+description: "Petrus, empfangen durch David Lampron: „Wie Johannes, mein Vorgänger, was die Botschaften betrifft, war ich bisher nicht sehr aktiv in meiner Rolle als …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

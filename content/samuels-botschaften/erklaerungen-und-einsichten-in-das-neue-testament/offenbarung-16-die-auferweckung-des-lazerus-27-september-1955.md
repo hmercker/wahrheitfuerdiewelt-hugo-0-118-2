@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 16 : Die Auferweckung des Lazarus"
 menu_title: ""
-description: "Offenbarung 16 : Die Auferweckung des Lazarus"
+description: "Jesus, empfangen durch Dr Samuels: „Heute möchte ich dir beschreiben, was sich im Haus des Lazarus zugetragen hat, als ich meinen Freund aus tiefer …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Einsatz für Findhorn"
 menu_title: ""
-description: "Einsatz für Findhorn"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Danke, dass ihr mich in euren Kreis der Liebe eingeladen habt, als Antwort auf meine Bitte, eure Gebete und …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

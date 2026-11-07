@@ -1,7 +1,7 @@
 ---
 title: "Jetzt ist die Zeit"
 menu_title: ""
-description: "Jetzt ist die Zeit"
+description: "Nikodemus, empfangen durch Jimbeau Walsh: „Ich möchte auf diese Besorgnisse über die Zukunft eingehen. Ich weiß, dass ihr Informationen aus dem Göttlichen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

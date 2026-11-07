@@ -1,7 +1,7 @@
 ---
 title: "Vaters Liebe"
 menu_title: ""
-description: "Vaters Liebe"
+description: "Vater, empfangen durch Helge Mercker: „Schwanke nicht bis in die Tiefen des Konstrukts deines materiellen Verstandes, schwelge in der Liebe deines Herzens …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

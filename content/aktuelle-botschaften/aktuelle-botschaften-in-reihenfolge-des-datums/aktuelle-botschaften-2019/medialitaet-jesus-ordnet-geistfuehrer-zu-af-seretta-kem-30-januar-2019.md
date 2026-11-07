@@ -1,7 +1,7 @@
 ---
 title: "Medialität. Jesus ordnet Geistführer zu"
 menu_title: ""
-description: "Medialität. Jesus ordnet Geistführer zu"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gibt jene in der Welt, die glauben, dass Jesus kommt und durch sie nach ihrem Willen spricht und sie bestehen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

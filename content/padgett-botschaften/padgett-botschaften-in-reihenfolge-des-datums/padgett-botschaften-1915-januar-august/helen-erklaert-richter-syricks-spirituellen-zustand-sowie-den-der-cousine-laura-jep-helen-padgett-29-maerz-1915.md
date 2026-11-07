@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt Richter Syrick's spirituellen Zustand sowie den der Cousine Laura"
 menu_title: ""
-description: "Helen erklärt Richter Syrick's spirituellen Zustand sowie den der Cousine Laura"
+description: "Helen, empfangen durch James Padgett: „Nun, du hast einen Brief vom Richter erhalten. Er war so begierig darauf dir zu schreiben, dass wir dachten, es …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

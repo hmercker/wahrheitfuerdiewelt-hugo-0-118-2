@@ -1,7 +1,7 @@
 ---
 title: "Die Erneuerung und das Erwachen von euch und der Welt sind wie die Erneuerung des Frühlings"
 menu_title: ""
-description: "Die Erneuerung und das Erwachen von euch und der Welt sind wie die Erneuerung des Frühlings"
+description: "Andreas, empfangen durch Al Fike: „Die Erneuerung und das Erwachen von euch und der Welt sind wie die Erneuerung des Frühlings“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 22 - Die kommende Dunkelheit vor dem Licht - Band 2"
 menu_title: ""
-description: "Lektion 22 - Die kommende Dunkelheit vor dem Licht - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Diese Dinge müssen an die Oberfläche des menschlichen Bewusstseins kommen, damit sie erkannt und aus ihren Gedanken und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

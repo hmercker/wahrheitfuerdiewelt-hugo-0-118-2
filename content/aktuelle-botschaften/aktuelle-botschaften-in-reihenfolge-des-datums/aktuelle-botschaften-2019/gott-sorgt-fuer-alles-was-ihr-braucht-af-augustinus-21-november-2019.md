@@ -1,7 +1,7 @@
 ---
 title: "Gott sorgt für alles, was ihr braucht"
 menu_title: ""
-description: "Gott sorgt für alles, was ihr braucht"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, es ist euer Lehrer Augustinus. Jeder von euch hatte zu irgendeinem Zeitpunkt in seinem Leben seine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

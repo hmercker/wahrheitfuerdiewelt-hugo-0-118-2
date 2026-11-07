@@ -1,7 +1,7 @@
 ---
 title: "Teilt das kostbare Geschenk der Liebe mit allen"
 menu_title: ""
-description: "Teilt das kostbare Geschenk der Liebe mit allen"
+description: "Jesus, empfangen durch Al Fike: „Ihr tragt ein Licht, geliebte Seelen, und ihr tragt den Wunsch, dass diese Welt vom Licht berührt wird, dass jene in …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

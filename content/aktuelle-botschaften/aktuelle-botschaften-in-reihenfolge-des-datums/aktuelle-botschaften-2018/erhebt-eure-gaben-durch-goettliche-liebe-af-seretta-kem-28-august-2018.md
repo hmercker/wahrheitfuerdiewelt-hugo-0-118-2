@@ -1,7 +1,7 @@
 ---
 title: "Erhebt eure Gaben durch göttliche Liebe"
 menu_title: ""
-description: "Erhebt eure Gaben durch göttliche Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Einige von euch kennen mich gut, während andere mich nicht kennen. Ich lebte vor vielen tausend Jahren in Ägypten.“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

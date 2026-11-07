@@ -1,7 +1,7 @@
 ---
 title: "Das Licht in euren Seelen wachsen zu lassen ist der größte Dienst an Gott"
 menu_title: ""
-description: "Das Licht in euren Seelen wachsen zu lassen ist der größte Dienst an Gott"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, ihr seht deutlich die Veränderungen, die in eurer Welt geschehen, wie die Erde im Ungleichgewicht ist und zurück …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

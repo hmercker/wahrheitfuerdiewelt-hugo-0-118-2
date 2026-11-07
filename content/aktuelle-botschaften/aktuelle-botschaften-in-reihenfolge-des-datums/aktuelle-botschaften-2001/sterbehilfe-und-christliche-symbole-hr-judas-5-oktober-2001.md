@@ -1,7 +1,7 @@
 ---
 title: "Sterbehilfe und christliche Symbole"
 menu_title: ""
-description: "Sterbehilfe und christliche Symbole"
+description: "Judas, empfangen durch H.: „Sag mir nicht, dass dies eine Überraschung ist, denn du selbst wolltest mich treffen. Ja, ich habe die Fragen nicht vergessen …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

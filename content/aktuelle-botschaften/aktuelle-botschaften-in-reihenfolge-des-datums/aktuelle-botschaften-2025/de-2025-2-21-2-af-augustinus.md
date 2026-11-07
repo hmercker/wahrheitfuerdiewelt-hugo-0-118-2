@@ -1,7 +1,7 @@
 ---
 title: "Nur euer eigener Verstand kann euch von Gott trennen"
 menu_title: ""
-description: "Nur euer eigener Verstand kann euch von Gott trennen"
+description: "Augustinus, empfangen durch Al Fike: „Es gibt nur eine Sache, die euch zurückhält, geliebte Seelen, wenn ihr Gottes Werk tut. Das Einzige ist, wie wir euch …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

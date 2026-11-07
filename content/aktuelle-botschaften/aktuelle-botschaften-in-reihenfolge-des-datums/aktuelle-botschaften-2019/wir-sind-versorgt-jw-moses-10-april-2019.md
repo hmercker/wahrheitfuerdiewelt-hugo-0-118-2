@@ -1,7 +1,7 @@
 ---
 title: "Wir sind versorgt"
 menu_title: ""
-description: "Wir sind versorgt"
+description: "Moses, empfangen durch Jimbeau Walsh: „In meiner Zeit ging ich von den Reichtümern des Palastes zu den Wanderungen in der Wüste. Ich fragte mich: \"Wie …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

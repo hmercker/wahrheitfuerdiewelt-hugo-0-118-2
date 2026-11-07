@@ -1,7 +1,7 @@
 ---
 title: "Ein Gespräch über die Sünden der Eltern"
 menu_title: ""
-description: "Ein Gespräch über die Sünden der Eltern"
+description: "Lukas, empfangen durch Al Fike: „Ich möchte dir versichern, meine Tochter, dass himmlische Engel weder Anstoß empfinden, noch fühlen sie sich von …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Helen Padgett"
 menu_title: ""
-description: "Bestätigung durch Helen Padgett"
+description: "Helen, empfangen durch James Padgett: „Ich freue mich heute Abend, denn ich sehe, dass du eine Erfahrung gemacht hast, die deine Seele dazu veranlasst hat …“"
 date: 2020-08-01 06:25:48+00:278
 draft: False
 hidden: True

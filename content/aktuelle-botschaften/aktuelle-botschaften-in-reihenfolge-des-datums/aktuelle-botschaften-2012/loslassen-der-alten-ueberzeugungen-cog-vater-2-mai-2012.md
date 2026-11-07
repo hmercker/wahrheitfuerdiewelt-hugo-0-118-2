@@ -1,7 +1,7 @@
 ---
 title: "Loslassen der alten Überzeugungen"
 menu_title: ""
-description: "Loslassen der alten Überzeugungen"
+description: "Vater, empfangen von Child of God: „Du bist also hier bei mir. Ich liebe unsere kleinen Morgentreffen.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

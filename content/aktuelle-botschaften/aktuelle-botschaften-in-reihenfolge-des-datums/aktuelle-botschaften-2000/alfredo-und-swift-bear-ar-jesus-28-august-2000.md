@@ -1,7 +1,7 @@
 ---
 title: "Alfredo und Swift Bear"
 menu_title: ""
-description: "Alfredo und Swift Bear"
+description: "Jesus, empfangen durch Amada Reza: „[Alfredo möchte wissen, ob seine Wahrnehmung seines Führers, Swift Bear, richtig war und ob er mit einer höheren …“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

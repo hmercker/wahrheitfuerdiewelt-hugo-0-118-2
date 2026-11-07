@@ -1,7 +1,7 @@
 ---
 title: "Wir sind mit euch in Liebe und Freude"
 menu_title: ""
-description: "Wir sind mit euch in Liebe und Freude"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wir haben Freude, weil ihr in liebevoller Harmonie zusammengekommen seid. Wir haben Freude, weil wir sehen, wie …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

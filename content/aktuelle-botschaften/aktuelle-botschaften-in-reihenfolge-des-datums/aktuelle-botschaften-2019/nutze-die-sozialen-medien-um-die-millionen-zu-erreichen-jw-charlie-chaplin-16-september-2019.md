@@ -1,7 +1,7 @@
 ---
 title: "Nutze die Sozialen Medien, um die Millionen zu erreichen"
 menu_title: ""
-description: "Nutze die Sozialen Medien, um die Millionen zu erreichen"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Es ist Charlie, wie ihr sagt, ja. Wie wunderbar, wenn die Welt kein Gewicht hat.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

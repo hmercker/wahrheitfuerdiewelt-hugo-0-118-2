@@ -1,7 +1,7 @@
 ---
 title: "Glaube jenseits von Furcht"
 menu_title: ""
-description: "Glaube jenseits von Furcht"
+description: "Judas, empfangen durch Jimbeau Walsh: „Möge diese Zeit für euch alle auf der Erde ein Zusammentreffen sein, nicht nur in der Gemeinschaft der Liebe Gottes …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

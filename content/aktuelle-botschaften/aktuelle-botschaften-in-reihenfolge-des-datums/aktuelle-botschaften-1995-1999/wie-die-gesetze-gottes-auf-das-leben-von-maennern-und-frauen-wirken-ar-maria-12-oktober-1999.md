@@ -1,7 +1,7 @@
 ---
 title: "Wie die Gesetze Gottes auf das Leben von Männern und Frauen wirken"
 menu_title: ""
-description: "Wie die Gesetze Gottes auf das Leben von Männern und Frauen wirken"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte über die Gesetze Gottes schreiben und wie diese auf das Leben von Männern und Frauen wirken.“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

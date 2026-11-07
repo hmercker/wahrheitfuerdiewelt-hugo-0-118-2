@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit in eurem Seelenerwachen zu handeln und proaktiv zu sein "
 menu_title: ""
-description: "Es ist an der Zeit in eurem Seelenerwachen zu handeln und proaktiv zu sein "
+description: "Augustinus, empfangen durch Al Fike: „Vergesst nicht die Gelübde, die ihr, ein jeder von euch, gegenüber diesem Unternehmen abgelegt habt.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

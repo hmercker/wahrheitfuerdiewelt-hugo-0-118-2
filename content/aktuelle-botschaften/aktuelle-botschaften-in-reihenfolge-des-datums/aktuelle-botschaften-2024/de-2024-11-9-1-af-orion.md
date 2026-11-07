@@ -1,7 +1,7 @@
 ---
 title: "Die Multidimensionalität des Universums"
 menu_title: ""
-description: "Die Multidimensionalität des Universums"
+description: "Orion, empfangen durch Al Fike: „Möge das große universelle Geschenk, der Segen der Essenz des Schöpfers des gesamten Universums, seine Liebe, in eure …“"
 date: 2025-02-23 06:00:00+00:10
 draft: False
 hidden: True

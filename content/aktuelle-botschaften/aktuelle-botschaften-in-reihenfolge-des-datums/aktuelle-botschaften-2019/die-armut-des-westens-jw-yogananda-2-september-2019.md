@@ -1,7 +1,7 @@
 ---
 title: "Die Armut des Westens"
 menu_title: ""
-description: "Die Armut des Westens"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich habe den Berichten über die Reisen der lieben Schwestern zugehört. 1 Ich muss sagen, man kann den Reichtum …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

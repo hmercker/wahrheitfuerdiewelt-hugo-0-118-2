@@ -1,7 +1,7 @@
 ---
 title: "Erinnert euch an das Licht am Ende des Tunnels"
 menu_title: ""
-description: "Erinnert euch an das Licht am Ende des Tunnels"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Und die Ermutigung meiner lieben Mutter gab mir den Mut, diese Gaben schon früh zu entdecken.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch ist die Ursache von Sünde und Krankheit"
 menu_title: ""
-description: "Der Mensch ist die Ursache von Sünde und Krankheit"
+description: "Jesus empfangen durch James Padgett: „Ich habe dich bei deiner Lektüre in den vergangenen Tagen begleitet und beobachtet, wie der Kontrast zwischen dem …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

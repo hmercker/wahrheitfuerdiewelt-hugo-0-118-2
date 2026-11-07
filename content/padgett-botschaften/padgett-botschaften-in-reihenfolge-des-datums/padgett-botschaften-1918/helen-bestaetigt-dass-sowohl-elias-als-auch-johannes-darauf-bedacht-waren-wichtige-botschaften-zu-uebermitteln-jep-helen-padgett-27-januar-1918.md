@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass sowohl Elias als auch Johannes darauf bedacht waren, wichtige Botschaften zu übermitteln "
 menu_title: ""
-description: "Helen bestätigt, dass sowohl Elias als auch Johannes darauf bedacht waren, wichtige Botschaften zu übermitteln "
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich sehe, dass du nicht in der Verfassung bist, heute Abend viel zu schreiben, und es tut mir leid, da …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

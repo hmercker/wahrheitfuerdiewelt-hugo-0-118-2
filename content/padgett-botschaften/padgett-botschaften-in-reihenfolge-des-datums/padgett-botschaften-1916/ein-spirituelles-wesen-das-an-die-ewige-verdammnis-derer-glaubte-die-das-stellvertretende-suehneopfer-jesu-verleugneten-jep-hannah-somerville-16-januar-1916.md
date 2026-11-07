@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen, das an die ewige Verdammnis derer glaubte, die das stellvertretende Sühneopfer Jesu verleugneten"
 menu_title: ""
-description: "Ein spirituelles Wesen, das an die ewige Verdammnis derer glaubte, die das stellvertretende Sühneopfer Jesu verleugneten"
+description: "Hannah Somerville, empfangen durch James Padgett: „Ich weiß, dass andere Geisteswesen dir diese gleiche Leugnung eines falschen Glaubens geschrieben haben …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

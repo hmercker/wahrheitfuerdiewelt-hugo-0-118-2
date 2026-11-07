@@ -1,7 +1,7 @@
 ---
 title: "Lektion 21 - Gesetze, die das Fortschreiten der Seele bestimmen - Band 2"
 menu_title: ""
-description: "Lektion 21 - Gesetze, die das Fortschreiten der Seele bestimmen - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte über die Gesetze sprechen, die in Kraft treten, wenn man sich in der materiellen Welt und in der geistigen Welt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

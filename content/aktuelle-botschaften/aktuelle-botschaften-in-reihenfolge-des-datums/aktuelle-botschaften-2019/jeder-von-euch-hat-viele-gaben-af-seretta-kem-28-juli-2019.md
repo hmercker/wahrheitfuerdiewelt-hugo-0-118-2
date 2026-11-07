@@ -1,7 +1,7 @@
 ---
 title: "Jeder von euch hat viele Gaben"
 menu_title: ""
-description: "Jeder von euch hat viele Gaben"
+description: "Seretta Kem, empfangen durch Al Fike: „In der Tat ist es ein Anliegen der Sterblichen, was sich durch sie manifestieren mag, welche Gaben sie haben mögen …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

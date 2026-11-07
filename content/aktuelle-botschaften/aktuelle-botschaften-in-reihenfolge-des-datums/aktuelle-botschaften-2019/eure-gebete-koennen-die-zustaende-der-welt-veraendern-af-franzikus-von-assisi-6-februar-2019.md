@@ -1,7 +1,7 @@
 ---
 title: "Eure Gebete können die Zustände der Welt verändern"
 menu_title: ""
-description: "Eure Gebete können die Zustände der Welt verändern"
+description: "Franzikus von Assisi, empfangen durch Al Fike: „....und gegen Gottes Gesetz. Die Menschheit muss durch ihren eigenen Willen zu Gott kommen, muss kommen und …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

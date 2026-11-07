@@ -1,7 +1,7 @@
 ---
 title: "Helen bekräftigt die Botschaft von Frau Eddy"
 menu_title: ""
-description: "Helen bekräftigt die Botschaft von Frau Eddy"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich war den ganzen Abend bei dir und habe dein Gespräch genossen. Du kannst glauben, dass die …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

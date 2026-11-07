@@ -1,7 +1,7 @@
 ---
 title: "Gott sucht nicht nach Macht und Kontrolle"
 menu_title: ""
-description: "Gott sucht nicht nach Macht und Kontrolle"
+description: "Bartholomäus, empfangen durch Al Fike: „Gott bestraft euch nicht, Gott schickt euch nicht in den Krieg, Gott trägt euch nicht in Gefahr und Dunkelheit.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

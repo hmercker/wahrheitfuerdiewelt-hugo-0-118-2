@@ -1,7 +1,7 @@
 ---
 title: "Die Geschichte des Nikodemus"
 menu_title: ""
-description: "Die Geschichte des Nikodemus"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, ich habe dir eine Überraschung versprochen und heute werde ich sie dir geben.“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

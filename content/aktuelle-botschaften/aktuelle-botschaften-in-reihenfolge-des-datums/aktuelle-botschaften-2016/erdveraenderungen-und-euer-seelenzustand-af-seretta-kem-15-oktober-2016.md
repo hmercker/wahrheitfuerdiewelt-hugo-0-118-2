@@ -1,7 +1,7 @@
 ---
 title: "Erdveränderungen und euer Seelenzustand"
 menu_title: ""
-description: "Erdveränderungen und euer Seelenzustand"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich sehe unter euch ein großes Licht und den tiefen Wunsch, Gott zu dienen und den Beginn eines neuen Erwachens in euch.“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

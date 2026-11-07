@@ -1,7 +1,7 @@
 ---
 title: "Persönlich für M"
 menu_title: ""
-description: "Persönlich für M"
+description: "Lotus Blossom, empfangen durch Al Fike: „Ich habe gesehen, wie du die Wahrheiten, die du kennst, nutzt, um dir und anderen mehr Wissen, Gesundheit …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

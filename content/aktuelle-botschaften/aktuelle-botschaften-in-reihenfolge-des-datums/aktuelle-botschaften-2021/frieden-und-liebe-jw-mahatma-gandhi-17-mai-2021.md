@@ -1,7 +1,7 @@
 ---
 title: "Frieden und Liebe"
 menu_title: ""
-description: "Frieden und Liebe"
+description: "Mahatma Gandhi, empfangen durch Jimbeau Walsh: „So viele in der Welt klammern sich an das \"Auge um Auge und Zahn um Zahn\", suchen Rache und fühlen sich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

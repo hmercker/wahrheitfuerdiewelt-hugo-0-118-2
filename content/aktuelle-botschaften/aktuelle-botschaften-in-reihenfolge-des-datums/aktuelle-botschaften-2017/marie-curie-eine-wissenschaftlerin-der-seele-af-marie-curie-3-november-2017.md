@@ -1,7 +1,7 @@
 ---
 title: "Marie Curie: Eine Wissenschaftlerin der Seele"
 menu_title: ""
-description: "Marie Curie: Eine Wissenschaftlerin der Seele"
+description: "Marie Curie, empfangen durch Al Fike: „Ja, mein Verständnis der Welt ist so viel tiefer als es war. Die Welt muss verstehen, dass jeder ein Wissenschaftler …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

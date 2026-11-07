@@ -1,7 +1,7 @@
 ---
 title: "Das Erreichen von Harmonie ist eine Frage des Fokus"
 menu_title: ""
-description: "Das Erreichen von Harmonie ist eine Frage des Fokus"
+description: "Seretta Kem, empfangen durch Al Fike: „Und so haben wir eine weitere Woche zusammen in dieser mächtigen Anstrengung, die Gabe der Direkten Stimme in eurer …“"
 date: 2020-08-01 06:25:48+00:243
 draft: False
 hidden: True

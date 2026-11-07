@@ -1,7 +1,7 @@
 ---
 title: "Sebastian möchte, dass Herr Padgett weiß, dass er in der Lage ist zu schreiben"
 menu_title: ""
-description: "Sebastian möchte, dass Herr Padgett weiß, dass er in der Lage ist zu schreiben"
+description: "Sebastian, empfangen durch James Padgett: „Ich wünsche dir eine gute Nacht, Sebastian.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein offenes Herz ist der Weg zur Seele"
 menu_title: ""
-description: "Ein offenes Herz ist der Weg zur Seele"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Oh, meine schönen Freunde, ich freue mich, mit euch zu beten und eure Sehnsucht zu spüren, frei zu sein …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

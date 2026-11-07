@@ -1,7 +1,7 @@
 ---
 title: "Was ihr wollt, das man euch tut, das tut auch den anderen"
 menu_title: ""
-description: "Was ihr wollt, das man euch tut, das tut auch den anderen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, was für eine Freude, mit euch in diesem Kreis zu sein. Die Schönheit der Melodien …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

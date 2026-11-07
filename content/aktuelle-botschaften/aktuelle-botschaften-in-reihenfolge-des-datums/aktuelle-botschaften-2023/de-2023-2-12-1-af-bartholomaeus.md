@@ -1,7 +1,7 @@
 ---
 title: "Zufrieden mit unserer Mission; wir werden immer wieder zurückgeführt"
 menu_title: ""
-description: "Zufrieden mit unserer Mission; wir werden immer wieder zurückgeführt"
+description: "Bartholomäus, empfangen durch Al Fike: „Ich möchte euch für eure Bemühungen auf diesen schönen und warmen Inseln danken, denn sie brauchen dringend …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

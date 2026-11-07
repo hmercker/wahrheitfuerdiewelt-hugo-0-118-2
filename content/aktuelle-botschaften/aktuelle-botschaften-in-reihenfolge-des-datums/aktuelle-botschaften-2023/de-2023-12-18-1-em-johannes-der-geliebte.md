@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit, dass die Göttlichen Liebe das größte Geschenk ist, das gegeben werden kann"
 menu_title: ""
-description: "Die Wahrheit, dass die Göttlichen Liebe das größte Geschenk ist, das gegeben werden kann"
+description: "Johannes der Geliebte, empfangen durch Elisabeth Mack: „Du bist vorsichtig, wenn du diese Botschaft empfängst, also mach dir keine Sorgen. Es ist gut, dass …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sucht das Licht in einer sich verändernden Welt"
 menu_title: ""
-description: "Sucht das Licht in einer sich verändernden Welt"
+description: "Konfuzius, empfangen durch Al Fike: „Auch ich bewohne das himmlische Königreich. Die Welt wird einen großen Umbruch und Wandel erleben und diejenigen von …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

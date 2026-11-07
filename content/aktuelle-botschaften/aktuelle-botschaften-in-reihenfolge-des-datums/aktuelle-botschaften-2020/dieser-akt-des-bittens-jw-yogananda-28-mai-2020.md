@@ -1,7 +1,7 @@
 ---
 title: "Dieser Akt des Bittens"
 menu_title: ""
-description: "Dieser Akt des Bittens"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ist es nicht ein wunderbares Gefühl, das ihr in euch tragt, wenn ihr jemanden liebt, ein wunderschönes Geschenk …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

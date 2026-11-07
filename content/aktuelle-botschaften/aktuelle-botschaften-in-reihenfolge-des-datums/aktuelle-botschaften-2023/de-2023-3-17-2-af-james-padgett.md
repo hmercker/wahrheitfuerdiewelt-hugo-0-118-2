@@ -1,7 +1,7 @@
 ---
 title: "Bekenntnis zur Liebe des Vaters"
 menu_title: ""
-description: "Bekenntnis zur Liebe des Vaters"
+description: "James Padgett, empfangen durch Al Fike: „Wie viele sind dieser Wahrheit nahe gekommen, haben sich aber abgewandt? Wie viele missverstehen diese Wahrheit …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

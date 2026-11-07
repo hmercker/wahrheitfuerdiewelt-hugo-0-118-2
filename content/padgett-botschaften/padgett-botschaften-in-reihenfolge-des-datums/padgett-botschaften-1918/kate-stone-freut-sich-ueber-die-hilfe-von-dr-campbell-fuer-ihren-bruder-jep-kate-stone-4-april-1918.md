@@ -1,7 +1,7 @@
 ---
 title: "Kate Stone freut sich über die Hilfe von Dr Campbell für ihren Bruder"
 menu_title: ""
-description: "Kate Stone freut sich über die Hilfe von Dr Campbell für ihren Bruder"
+description: "Kate Stone, empfangen durch James Padgett: „Er wird vielleicht etwas überrascht sein zu erfahren, dass ich bei Dr. Campbell war, während er die Wirkung …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion über Direkte Stimme"
 menu_title: ""
-description: "Lektion über Direkte Stimme"
+description: "Keea Atta Kem: „Diese Anlässe sind so wichtig für uns und ich habe das Gefühl, dass wir heute Abend viel zustande bringen müssen.“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

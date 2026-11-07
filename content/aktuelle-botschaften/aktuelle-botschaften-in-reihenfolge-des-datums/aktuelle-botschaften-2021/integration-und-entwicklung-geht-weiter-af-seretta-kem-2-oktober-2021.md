@@ -1,7 +1,7 @@
 ---
 title: "Integration und Entwicklung geht weiter"
 menu_title: ""
-description: "Integration und Entwicklung geht weiter"
+description: "Seretta Kem, empfangen durch Al Fike: „Möge Gott euch mit seiner Liebe segnen. Es ist gut, dass ihr euch auf diese Art und Weise versammelt, und zwar mit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

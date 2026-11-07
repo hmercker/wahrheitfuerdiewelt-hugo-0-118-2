@@ -1,7 +1,7 @@
 ---
 title: "Was ist Sünde?"
 menu_title: ""
-description: "Was ist Sünde?"
+description: "Vater, empfangen durch Child of God: „Du hast die letzten Tage genutzt, um darüber nachzudenken „was ist eine Sünde?“ und du hast Probleme bekommen, weil …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

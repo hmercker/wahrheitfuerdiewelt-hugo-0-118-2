@@ -1,7 +1,7 @@
 ---
 title: "Spirituelles Bewusstsein und spirituelle Wahrnehmung"
 menu_title: ""
-description: "Spirituelles Bewusstsein und spirituelle Wahrnehmung"
+description: "Judas, empfangen durch H.: „Ich glaube, es ist an der Zeit, etwas Schwierigeres zu versuchen. Wenn du Probleme mit dem Gedankenempfang hast, mach dir keine …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

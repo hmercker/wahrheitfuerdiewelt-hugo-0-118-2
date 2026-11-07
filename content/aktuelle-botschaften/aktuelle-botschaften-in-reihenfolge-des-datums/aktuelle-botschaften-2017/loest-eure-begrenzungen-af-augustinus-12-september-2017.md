@@ -1,7 +1,7 @@
 ---
 title: "Löst eure Begrenzungen"
 menu_title: ""
-description: "Löst eure Begrenzungen"
+description: "Augustinus, empfangen durch Al Fike: „Jeder von euch ist sich seiner Begrenztheit bewusst. Ihr lebt in einem fleischigen Körper.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

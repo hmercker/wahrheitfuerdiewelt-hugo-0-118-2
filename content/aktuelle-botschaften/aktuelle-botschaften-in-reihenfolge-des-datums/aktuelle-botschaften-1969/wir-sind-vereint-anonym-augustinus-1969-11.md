@@ -1,7 +1,7 @@
 ---
 title: "Wir sind vereint"
 menu_title: ""
-description: "Wir sind vereint"
+description: "Augustinus: „Es ist so wunderbar, diese Gelegenheit zu haben, noch einmal zu euch zu kommen und zu euch zu sprechen und all die wunderbaren Seelen zu …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

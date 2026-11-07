@@ -1,7 +1,7 @@
 ---
 title: "Macht keine Götzen und seid frei"
 menu_title: ""
-description: "Macht keine Götzen und seid frei"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Es steht geschrieben, dass der Meister sagte: \"Liebt alle, wie ich euch geliebt habe\". Ihr wisst, dass …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

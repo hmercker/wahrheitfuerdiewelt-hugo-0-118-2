@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Geschenk für die Welt"
 menu_title: ""
-description: "Seid ein Geschenk für die Welt"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Ihr kennt mich als Charlie, Charlie Chaplin. Ich habe heute dem Gespräch zugehört, wie ich oft komme und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

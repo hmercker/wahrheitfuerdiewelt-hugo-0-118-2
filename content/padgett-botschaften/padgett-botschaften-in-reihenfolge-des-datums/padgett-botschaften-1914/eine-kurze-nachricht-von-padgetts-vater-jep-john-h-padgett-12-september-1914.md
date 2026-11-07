@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Nachricht von Padgett's Vater"
 menu_title: ""
-description: "Eine kurze Nachricht von Padgett's Vater"
+description: "Padgett’s Vater- empfangen durch James Padgett: „Er war bei dir und du wirst schon bald mehr von ihm lernen, da er sagt, dass er dir die Wahrheit und das …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

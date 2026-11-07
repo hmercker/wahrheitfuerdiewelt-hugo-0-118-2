@@ -1,7 +1,7 @@
 ---
 title: "Spricht ernsthaft darüber, was für ein Engagement erforderlich ist"
 menu_title: ""
-description: "Spricht ernsthaft darüber, was für ein Engagement erforderlich ist"
+description: "Matthäus, empfangen durch Al Fike: „Wir sehen eine große Verheißung in euren Bemühungen, denn eine Gruppe von Individuen zu sehen, die sich in ihrem Wunsch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

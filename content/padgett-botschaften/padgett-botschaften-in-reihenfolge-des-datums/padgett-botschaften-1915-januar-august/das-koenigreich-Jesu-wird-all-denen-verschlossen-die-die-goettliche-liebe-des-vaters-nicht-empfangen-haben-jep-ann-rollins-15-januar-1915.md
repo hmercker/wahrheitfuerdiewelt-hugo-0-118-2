@@ -1,7 +1,7 @@
 ---
 title: "Das Königreich Jesu wird all denen verschlossen, die die Göttliche Liebe nicht empfangen haben"
 menu_title: ""
-description: "Das Königreich Jesu wird all denen verschlossen, die die Göttliche Liebe nicht empfangen haben"
+description: "Ann Rollins, empfangen von James Padgett: „Das Königreich von Jesus 1 wird von solcher Art sein, dass nur diejenigen dort leben werden, welche an seine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

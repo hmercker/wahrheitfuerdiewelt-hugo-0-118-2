@@ -1,7 +1,7 @@
 ---
 title: "Die andere Wange hinhalten"
 menu_title: ""
-description: "Die andere Wange hinhalten"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[A's Frage: Soweit ich weiß, wird die Idee des \"die andere Wange hinhalten\", wie sie im …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

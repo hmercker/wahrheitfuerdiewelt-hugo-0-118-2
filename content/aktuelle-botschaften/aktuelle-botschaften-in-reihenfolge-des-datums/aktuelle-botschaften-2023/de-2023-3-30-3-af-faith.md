@@ -1,7 +1,7 @@
 ---
 title: "Wird Soul Links unterstützen"
 menu_title: ""
-description: "Wird Soul Links unterstützen"
+description: "Faith, empfangen durch Al Fike: „Und ich liebe euch, geliebte schöne Seelen des Lichts, ich liebe euch von ganzem Herzen. Der Schwung nimmt zu, die Engel …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

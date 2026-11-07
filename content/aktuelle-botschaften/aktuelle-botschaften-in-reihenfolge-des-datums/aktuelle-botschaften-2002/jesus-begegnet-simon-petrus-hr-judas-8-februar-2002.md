@@ -1,7 +1,7 @@
 ---
 title: "Jesus begegnet Simon Petrus"
 menu_title: ""
-description: "Jesus begegnet Simon Petrus"
+description: "Judas, empfangen durch H.: „Ich sehe, dass du gestern und heute eine Botschaft von Petrus erwartet hast, in der er dir von seiner ersten Begegnung mit …“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

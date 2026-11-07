@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch von der Liebe Gottes leiten"
 menu_title: ""
-description: "Lasst euch von der Liebe Gottes leiten"
+description: "Elisabeth (Mutter von Johannes dem Täufer), empfangen durch Jimbeau Walsh: „Meine Schwester und ich, die wir schon so lange im Geist und in den himmlischen …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

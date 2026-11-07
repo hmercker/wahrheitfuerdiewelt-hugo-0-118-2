@@ -1,7 +1,7 @@
 ---
 title: "Ein Neuanfang steht kurz bevor"
 menu_title: ""
-description: "Ein Neuanfang steht kurz bevor"
+description: "Vater, empfangen durch Child of God: „Unsere Beziehung ist echt und wahrhaftig. Du erfährst viel Schmerz in diesen Zeiten.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

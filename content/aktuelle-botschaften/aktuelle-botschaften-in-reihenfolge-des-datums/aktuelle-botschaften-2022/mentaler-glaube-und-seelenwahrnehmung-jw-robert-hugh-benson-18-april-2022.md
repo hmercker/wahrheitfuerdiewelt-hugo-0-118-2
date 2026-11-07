@@ -1,7 +1,7 @@
 ---
 title: "Mentaler Glaube und Seelenwahrnehmung"
 menu_title: ""
-description: "Mentaler Glaube und Seelenwahrnehmung"
+description: "Robert Hugh Benson, empfangen durch Jimbeau Walsh: „Einige von euch kennen mich vielleicht als Monsignore, was mein Amt auf der Erde war. Andere wissen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

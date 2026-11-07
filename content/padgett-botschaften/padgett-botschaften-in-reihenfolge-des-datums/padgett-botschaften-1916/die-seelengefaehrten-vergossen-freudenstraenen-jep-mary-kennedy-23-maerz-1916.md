@@ -1,7 +1,7 @@
 ---
 title: "Die Seelengefährten vergossen Freudenstränen"
 menu_title: ""
-description: "Die Seelengefährten vergossen Freudenstränen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Helen sagte, sie würde dich dazu bringen, den Bleistift zu nehmen, und sagte mir, ich solle mich bereit …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

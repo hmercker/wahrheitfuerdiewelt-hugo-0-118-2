@@ -1,7 +1,7 @@
 ---
 title: "Das Verheißung der Göttlichen Liebe"
 menu_title: ""
-description: "Das Verheißung der Göttlichen Liebe"
+description: "Aliyah, empfangen durch Maureen Cardoso: „Diese Liebe, für die ihr euch in diesem Moment öffnet, fließt in eure Seele und nährt, stärkt, erweckt und segnet …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

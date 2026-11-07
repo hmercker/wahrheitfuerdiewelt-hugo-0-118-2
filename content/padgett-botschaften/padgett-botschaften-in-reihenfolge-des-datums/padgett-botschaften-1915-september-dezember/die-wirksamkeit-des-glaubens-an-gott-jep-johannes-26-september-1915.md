@@ -1,7 +1,7 @@
 ---
 title: "Die Wirksamkeit des Glaubens an Gott"
 menu_title: ""
-description: "Die Wirksamkeit des Glaubens an Gott"
+description: "Johannes, empfangen von James Padgett: „Ich möchte nur sagen, dass der Glaube, von dem der Prediger heute Abend sprach, den Elias besaß, der Glaube ist …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Generalmajor Lafayette beschreibt seine seelische Entwicklung"
 menu_title: ""
-description: "Generalmajor Lafayette beschreibt seine seelische Entwicklung"
+description: "Lafayette, empfangen durch James Padgett: „Ich habe schon einige Zeit lang darauf gebrannt, dir wieder zu schreiben und dir die Ergebnisse deines …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

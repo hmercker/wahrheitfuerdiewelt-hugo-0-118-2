@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet den Weg der Wiedergeburt der Seele gehen"
 menu_title: ""
-description: "Ihr werdet den Weg der Wiedergeburt der Seele gehen"
+description: "Jesus, empfangen durch Al Fike: „Und möge die Liebe des Vaters in euren Seelen wohnen und sein Friede ein Mantel auf euren Schultern sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

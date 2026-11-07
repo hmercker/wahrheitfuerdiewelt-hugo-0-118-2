@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit, der Menschheit die Wahrheit zu bringen"
 menu_title: ""
-description: "Es ist an der Zeit, der Menschheit die Wahrheit zu bringen"
+description: "John Wesley, empfangen durch Al Fike: „Einige von euch kennen mich gut, denn ihr habt euch der Kirche und der Anhängerschaft angeschlossen, die ich vor …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "In Liebe leben"
 menu_title: ""
-description: "In Liebe leben"
+description: "Josef, empfangen durch Kathryn Stokes: „[Lieber Schöpfer, ich glaube, es gibt hier einen himmlischen Engel, der mir eine Nachricht geben möchte.“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

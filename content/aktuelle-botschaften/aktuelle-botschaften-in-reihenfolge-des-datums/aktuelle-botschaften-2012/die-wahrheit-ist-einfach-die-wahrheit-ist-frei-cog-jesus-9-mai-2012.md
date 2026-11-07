@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit ist einfach. Die Wahrheit ist frei."
 menu_title: ""
-description: "Die Wahrheit ist einfach. Die Wahrheit ist frei."
+description: "Jesus, empfangen durch Child of God: „Meine Absicht ist immer gewesen, unserem Vater zu dienen, wie vor Jahren auf Erden und jetzt im Himmel.“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

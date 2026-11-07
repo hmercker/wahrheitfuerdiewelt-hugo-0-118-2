@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen beschreibt seine Erfahrung in einer der Höllen"
 menu_title: ""
-description: "Ein spirituelles Wesen beschreibt seine Erfahrung in einer der Höllen"
+description: "George Butler, empfangen durch James Padgett: „Möchtest du, dass ich das tue? Nun, wisse also, dass ich, als ich auf Erden lebte, ein Mensch von sehr …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

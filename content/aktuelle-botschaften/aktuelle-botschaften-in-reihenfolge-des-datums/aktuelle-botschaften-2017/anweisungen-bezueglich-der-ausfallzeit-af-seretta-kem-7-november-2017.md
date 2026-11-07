@@ -1,7 +1,7 @@
 ---
 title: "Anweisungen bezüglich der Ausfallzeit"
 menu_title: ""
-description: "Anweisungen bezüglich der Ausfallzeit"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir werden weiterhin bestimmte Prozeduren an euren Körpern, eurem spirituellen Körper durchführen, während ihr in …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

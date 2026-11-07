@@ -1,7 +1,7 @@
 ---
 title: "Heilungskreise und Heilungs-Merkabas"
 menu_title: ""
-description: "Heilungskreise und Heilungs-Merkabas"
+description: "Die Erstellung eines Heilungskreises ist ganz einfach und sehr effektiv. Die Teilnehmer sitzen in einem Kreis und reichen sich die Hände. Sie konzentrieren …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

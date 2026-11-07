@@ -1,7 +1,7 @@
 ---
 title: "Der Dieb der Herzen"
 menu_title: ""
-description: "Der Dieb der Herzen"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Wusstet ihr, dass ich als Kind eine Zeit lang ein Dieb war, als meine Mutter krank war und ich obdachlos …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

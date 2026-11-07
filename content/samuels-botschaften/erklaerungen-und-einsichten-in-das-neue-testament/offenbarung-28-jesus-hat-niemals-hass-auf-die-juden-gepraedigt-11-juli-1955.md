@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 28 : Jesus hat niemals Hass auf die Juden gepredigt"
 menu_title: ""
-description: "Offenbarung 28 : Jesus hat niemals Hass auf die Juden gepredigt"
+description: "Jesus, empfangen durch Dr Samuels: „Ja—auch heute bin ich bei dir in diesem Zimmer, um dir eine Botschaft zu schreiben, die wiederum das …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

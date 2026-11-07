@@ -1,7 +1,7 @@
 ---
 title: "Jesus bedauert, auch heute keine Botschaft schreiben zu können"
 menu_title: ""
-description: "Jesus bedauert, auch heute keine Botschaft schreiben zu können"
+description: "Jesus, empfangen von James Padgett: „Nun, mein lieber Jünger, ich habe durchaus vernommen, dass dein Herz sich danach sehnt, eine Botschaft von mir zu …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

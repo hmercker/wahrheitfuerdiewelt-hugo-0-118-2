@@ -1,7 +1,7 @@
 ---
 title: "Die Ursachen von Krankheiten kennen"
 menu_title: ""
-description: "Die Ursachen von Krankheiten kennen"
+description: "Samuel: „Meine lieben Freunde, wie sehr freue ich mich, bei euch zu sein. Das Thema meiner Rede, das ich euch heute Abend vermitteln möchte, ist von etwas …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

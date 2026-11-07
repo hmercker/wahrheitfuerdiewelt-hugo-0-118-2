@@ -1,7 +1,7 @@
 ---
 title: "Alles übertreffend ist das Geschenk der Liebe Gottes"
 menu_title: ""
-description: "Alles übertreffend ist das Geschenk der Liebe Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „In letzter Zeit wurde in eurer Welt viel Aufmerksamkeit auf Wesen aus anderen Teilen der Galaxie, des …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

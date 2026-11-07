@@ -1,7 +1,7 @@
 ---
 title: "Kommt, um uns in Harmonie in unseren individuellen Bemühungen zu unterstützen"
 menu_title: ""
-description: "Kommt, um uns in Harmonie in unseren individuellen Bemühungen zu unterstützen"
+description: "Jesus, empfangen durch Al Fike: „Ich bemühe mich, euch bei euren Bemühungen zu unterstützen. Ich möchte euch versichern, dass Fortschritte gemacht werden …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, was spirituelle Heilung ist"
 menu_title: ""
-description: "Jesus erklärt, was spirituelle Heilung ist"
+description: "Jesus, empfangen durch James Padgett: „Ich werde heute Abend keine förmliche Botschaft schreiben, sondern dir nur sagen, dass ich heute Abend bei dir im …“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

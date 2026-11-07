@@ -1,7 +1,7 @@
 ---
 title: "Cäsar ist auf der Suche nach der Göttlichen Liebe; Licht bricht in seine Seele ein"
 menu_title: ""
-description: "Cäsar ist auf der Suche nach der Göttlichen Liebe; Licht bricht in seine Seele ein"
+description: "Cäsar, empfangen durch James Padgett: „Nun, ich will nur sagen, daß ich, seit ich dir das letzte Mal geschrieben habe, deinen Rat befolgt und den Rat der …“"
 date: 2020-08-01 06:25:48+00:286
 draft: False
 hidden: True

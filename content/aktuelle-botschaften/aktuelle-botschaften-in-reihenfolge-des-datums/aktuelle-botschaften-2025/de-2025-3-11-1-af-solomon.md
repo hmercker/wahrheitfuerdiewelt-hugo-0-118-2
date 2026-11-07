@@ -1,7 +1,7 @@
 ---
 title: "Hinweise, wie man sein Leben leben sollte"
 menu_title: ""
-description: "Hinweise, wie man sein Leben leben sollte"
+description: "Solomon, empfangen durch Al Fike: „Während ihr weiter in der Liebe des Vaters wächst, macht ihr euch auf den Weg zum Einssein mit Gott und zum Einzug in …“"
 date: 2025-03-27 06:00:00+00:10
 draft: False
 hidden: True

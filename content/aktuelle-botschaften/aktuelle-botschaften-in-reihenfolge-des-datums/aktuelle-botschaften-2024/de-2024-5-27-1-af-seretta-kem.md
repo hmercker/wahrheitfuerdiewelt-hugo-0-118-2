@@ -1,7 +1,7 @@
 ---
 title: "Seid wachsam!"
 menu_title: ""
-description: "Seid wachsam!"
+description: "Seretta Kem, empfangen durch Al Fike: „Erkennt die Verantwortung, die ihr tragt, wenn ihr Seelen wie diese zusammenbringt und sie für diese Gaben öffnet.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

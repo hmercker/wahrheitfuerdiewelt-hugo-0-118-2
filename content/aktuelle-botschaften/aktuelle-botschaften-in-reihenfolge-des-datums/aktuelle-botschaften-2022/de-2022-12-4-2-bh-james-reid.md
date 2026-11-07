@@ -1,7 +1,7 @@
 ---
 title: "Die Wiederverleihung der Göttlichen Liebe"
 menu_title: ""
-description: "Die Wiederverleihung der Göttlichen Liebe"
+description: "James Reid, empfangen durch Brian Holmes: „Der Glaube ermöglicht es uns, euch nahe zu kommen und Botschaften durch euch zu überbringen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

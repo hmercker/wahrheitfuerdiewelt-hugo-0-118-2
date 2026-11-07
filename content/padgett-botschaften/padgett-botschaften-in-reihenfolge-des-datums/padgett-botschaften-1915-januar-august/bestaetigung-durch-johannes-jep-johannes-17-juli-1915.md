@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Johannes"
 menu_title: ""
-description: "Bestätigung durch Johannes"
+description: "Johannes, empfangen durch James Padgett: „Du musst also glauben, was der Meister dir versprochen hat, denn er wird dich nicht enttäuschen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

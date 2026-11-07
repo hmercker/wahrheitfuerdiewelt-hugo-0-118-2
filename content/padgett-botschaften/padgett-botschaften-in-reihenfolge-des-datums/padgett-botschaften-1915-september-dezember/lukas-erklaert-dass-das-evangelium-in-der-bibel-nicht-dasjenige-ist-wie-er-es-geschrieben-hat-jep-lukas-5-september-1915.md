@@ -1,7 +1,7 @@
 ---
 title: "Lukas erklärt, dass das Evangelium in der Bibel nicht dasjenige ist, wie er es geschrieben hat"
 menu_title: ""
-description: "Lukas erklärt, dass das Evangelium in der Bibel nicht dasjenige ist, wie er es geschrieben hat"
+description: "Lukas, empfangen von James Padgett: „Ich schreibe ein wenig, da ich interessiert bin an dem, was du von Luther heute Abend empfangen hast und weil ich das …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

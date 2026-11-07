@@ -1,7 +1,7 @@
 ---
 title: "Orion sagt uns, was wir nächstes Jahr erwarten können"
 menu_title: ""
-description: "Orion sagt uns, was wir nächstes Jahr erwarten können"
+description: "Orion, empfangen durch Al Fike: „Die irdischen Veränderungen kommen in eurer Welt weiterhin auf vielerlei Weise zum Ausdruck.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

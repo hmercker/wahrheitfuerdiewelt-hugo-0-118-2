@@ -1,7 +1,7 @@
 ---
 title: "Dr. Samuels' Channelings"
 menu_title: ""
-description: "Dr. Samuels' Channelings"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Schöpfer, himmlische Eltern, Quelle aller Liebe, wir streben danach, Deinem Weg zu folgen, um Deiner Natur …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

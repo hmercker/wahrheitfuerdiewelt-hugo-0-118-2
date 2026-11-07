@@ -1,7 +1,7 @@
 ---
 title: "Mein Gebetsleben"
 menu_title: ""
-description: "Mein Gebetsleben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Da ich in meiner Zeit auf der Erde mit euch gekämpft habe, möchte ich euch sagen, dass ich großes …“"
 date: 2025-01-20 06:00:00+00:10
 draft: False
 hidden: True

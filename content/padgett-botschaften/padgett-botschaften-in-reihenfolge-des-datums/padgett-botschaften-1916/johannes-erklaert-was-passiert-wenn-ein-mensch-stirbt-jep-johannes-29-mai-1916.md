@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, was passiert, wenn ein Mensch stirbt"
 menu_title: ""
-description: "Johannes erklärt, was passiert, wenn ein Mensch stirbt"
+description: "Johannes, empfangen durch James Padgett: „Es ist oft die Frage gestellt worden: \"Was macht das spirituelle Wesen des Menschen, wenn es den stofflichen …“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

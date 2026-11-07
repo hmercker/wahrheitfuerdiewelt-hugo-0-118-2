@@ -1,7 +1,7 @@
 ---
 title: "Tribut an Barb"
 menu_title: ""
-description: "Tribut an Barb"
+description: "Augustinus, empfangen durch Al Fike: „Durch ihre Bemühungen ist jeder von euch mit der Wahrheit berührt worden. Ihr Vermächtnis ist dieser Kreis …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Einige Einzelheiten zum Übergang"
 menu_title: ""
-description: "Einige Einzelheiten zum Übergang"
+description: "Joseph Babinsky, empfangen durch Brian Holmes: „Ich habe darum gebeten, mit Joseph Babinsky zu kommunizieren, von dem ich gestern Abend erfahren habe, dass …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

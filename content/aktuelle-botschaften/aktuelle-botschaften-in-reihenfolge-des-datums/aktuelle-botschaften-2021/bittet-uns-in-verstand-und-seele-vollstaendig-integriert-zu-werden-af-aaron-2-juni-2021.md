@@ -1,7 +1,7 @@
 ---
 title: "Bittet uns, in Verstand und Seele vollständig integriert zu werden"
 menu_title: ""
-description: "Bittet uns, in Verstand und Seele vollständig integriert zu werden"
+description: "Aaron, empfangen durch Al Fike: „Ich weiß, dass Entschlossenheit nicht oft als ein Attribut der Seele angesehen wird, aber sie kann tatsächlich eine große …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

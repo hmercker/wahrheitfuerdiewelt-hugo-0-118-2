@@ -1,7 +1,7 @@
 ---
 title: "Tropfen für Tropfen füllte die Liebe meine Seele"
 menu_title: ""
-description: "Tropfen für Tropfen füllte die Liebe meine Seele"
+description: "Kathryn Stokes 1, empfangen durch Al Fike: „[Jeanne dankt Kathryn für ihr Kommen.] Und ich möchte sagen, dass ich jetzt dem Göttlichen Himmel sehr nahe …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

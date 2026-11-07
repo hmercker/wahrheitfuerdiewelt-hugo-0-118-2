@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, die Wahrheit zu lehren"
 menu_title: ""
-description: "Ermutigung, die Wahrheit zu lehren"
+description: "Johannes der Täufer, empfangen durch Jesper Sorensen: „Liebe deinen Nächsten wie dich selbst. Als ich auf der Erde wandelte, tat ich dies mit großem Glauben.“"
 date: 2020-08-01 06:25:48+00:242
 draft: False
 hidden: True

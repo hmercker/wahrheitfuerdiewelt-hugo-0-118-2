@@ -1,7 +1,7 @@
 ---
 title: "Erwartet den Ansturm des Erwachens"
 menu_title: ""
-description: "Erwartet den Ansturm des Erwachens"
+description: "Seretta Kem, empfangen durch Al Fike: „Bald werdet ihr dazu aufgerufen, eure Aufgaben und Schicksale als Gruppe und als Einzelne zu erfüllen, um der Welt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

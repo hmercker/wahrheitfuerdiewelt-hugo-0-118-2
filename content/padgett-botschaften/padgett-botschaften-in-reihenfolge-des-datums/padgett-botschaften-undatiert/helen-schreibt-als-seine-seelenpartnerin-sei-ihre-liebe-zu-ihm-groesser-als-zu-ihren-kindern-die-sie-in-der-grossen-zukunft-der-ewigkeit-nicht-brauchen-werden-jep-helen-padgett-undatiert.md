@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, als seine Seelenpartnerin sei ihre Liebe zu ihm größer als zu ihren Kindern, die sie in der großen Zukunft der Ewigkeit nicht brauchen werden"
 menu_title: ""
-description: "Helen schreibt, als seine Seelenpartnerin sei ihre Liebe zu ihm größer als zu ihren Kindern, die sie in der großen Zukunft der Ewigkeit nicht brauchen werden"
+description: "Helen Padgett, empfangen durch James Padgett: „Du fühlst dich heute so einsam, aber denke daran, dass ich bei dir bin und dich von ganzem Herzen und ganzer …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

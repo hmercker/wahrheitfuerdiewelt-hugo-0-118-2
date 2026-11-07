@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 11 : Das Grabtuch von Turin"
 menu_title: ""
-description: "Offenbarung 11 : Das Grabtuch von Turin"
+description: "Jesus, empfangen durch Dr Samuels am14. September und: „Ich war bei dir, als du Dr. Pierre Barbets Buch Die Passion Christi gelesen hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

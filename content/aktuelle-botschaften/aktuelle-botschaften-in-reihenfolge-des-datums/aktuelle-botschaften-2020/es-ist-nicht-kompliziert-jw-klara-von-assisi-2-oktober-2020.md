@@ -1,7 +1,7 @@
 ---
 title: "Es ist nicht kompliziert"
 menu_title: ""
-description: "Es ist nicht kompliziert"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich möchte, dass ihr dieses Gefühl der Liebe, die Gegenwart des Schöpfers und diesen Frieden, der in euer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

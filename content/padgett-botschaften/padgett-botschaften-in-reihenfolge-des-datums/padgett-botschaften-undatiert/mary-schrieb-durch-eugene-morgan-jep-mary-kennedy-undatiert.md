@@ -1,7 +1,7 @@
 ---
 title: "Mary schrieb durch Eugene Morgan"
 menu_title: ""
-description: "Mary schrieb durch Eugene Morgan"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich werde nicht über die Dinge schreiben, die mit Liebe und Romantik zu tun haben, denn ich weiß, dass du ein …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

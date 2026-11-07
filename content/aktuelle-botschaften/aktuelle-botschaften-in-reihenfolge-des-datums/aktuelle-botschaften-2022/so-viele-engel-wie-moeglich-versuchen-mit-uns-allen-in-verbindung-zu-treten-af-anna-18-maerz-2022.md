@@ -1,7 +1,7 @@
 ---
 title: "So viele Engel wie möglich versuchen, mit uns allen in Verbindung zu treten"
 menu_title: ""
-description: "So viele Engel wie möglich versuchen, mit uns allen in Verbindung zu treten"
+description: "Anna (Grossmutter Jesu), empfangen durch Al Fike: „Es ist wichtig und notwendig, dass ihr euch weiterhin an diese Wahrheiten haltet und im Licht dieser …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

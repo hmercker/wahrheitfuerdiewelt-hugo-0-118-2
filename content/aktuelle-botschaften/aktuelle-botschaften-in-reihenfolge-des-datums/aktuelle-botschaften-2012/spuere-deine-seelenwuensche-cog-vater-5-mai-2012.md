@@ -1,7 +1,7 @@
 ---
 title: "Spüre deine Seelenwünsche"
 menu_title: ""
-description: "Spüre deine Seelenwünsche"
+description: "Vater, empfangen durch Child of God: „Deine Gefühle sprechen den Wunsch deiner Seele aus. Wenn du auf deine Gefühle achtest, hörst du auf deine Seele.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

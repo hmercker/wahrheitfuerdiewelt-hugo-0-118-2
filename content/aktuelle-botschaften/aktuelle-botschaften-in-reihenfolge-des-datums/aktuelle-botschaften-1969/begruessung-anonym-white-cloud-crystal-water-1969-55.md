@@ -1,7 +1,7 @@
 ---
 title: "Begrüßung"
 menu_title: ""
-description: "Begrüßung"
+description: "White Cloud (Weiße Wolke) und Crystal Water (Kristallwasser): „Ich habe einige Schwierigkeiten, dieses Instrument zu benutzen, also werde ich mein Bestes …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

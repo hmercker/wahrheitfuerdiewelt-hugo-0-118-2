@@ -1,7 +1,7 @@
 ---
 title: "Tiefster Segen für das neue Jahr"
 menu_title: ""
-description: "Tiefster Segen für das neue Jahr"
+description: "Jesus, empfangen durch Al Fike: „Denn wenn ihr euch immer mehr dem Willen und der Liebe Gottes widmet, geht ihr eine tiefere Verbindung mit euren …“"
 date: 2025-01-04 06:00:00+00:10
 draft: False
 hidden: True

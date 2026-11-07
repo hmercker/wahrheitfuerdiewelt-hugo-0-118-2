@@ -1,7 +1,7 @@
 ---
 title: "Yogananda beschreibt seine Reise durch die Sphären"
 menu_title: ""
-description: "Yogananda beschreibt seine Reise durch die Sphären"
+description: "Yogananda, empfangen durch Al Fike: „Als ich in den Geist überging, trug ich viele Ideen und Gedanken mit mir, die aus den östlichen Religionen stammten.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

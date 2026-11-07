@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung, die Wahrheit für sich selbst zu lernen"
 menu_title: ""
-description: "Ermutigung, die Wahrheit für sich selbst zu lernen"
+description: "James Padgett, empfangen durch Al Fike: „Vor vielen Jahren segneten mich die Engel mit der Möglichkeit, viele Wahrheiten und Erkenntnisse zu vermitteln …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

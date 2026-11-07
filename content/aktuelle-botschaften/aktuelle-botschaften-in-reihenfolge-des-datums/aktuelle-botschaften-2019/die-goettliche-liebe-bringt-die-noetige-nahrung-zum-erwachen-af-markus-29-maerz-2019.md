@@ -1,7 +1,7 @@
 ---
 title: "Die göttliche Liebe bringt die nötige Nahrung zum Erwachen"
 menu_title: ""
-description: "Die göttliche Liebe bringt die nötige Nahrung zum Erwachen"
+description: "Markus, empfangen durch Al Fike: „Ich habe den Segen und die Ehre, der Hüter dieser Kirche zu sein. Obwohl ich im himmlischen Königreich wohne, hat Gott …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

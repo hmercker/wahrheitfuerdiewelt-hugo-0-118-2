@@ -1,7 +1,7 @@
 ---
 title: "Möget ihr gemeinsam Einheit und Harmonie finden"
 menu_title: ""
-description: "Möget ihr gemeinsam Einheit und Harmonie finden"
+description: "Orion, empfangen durch Al Fike: „Möget ihr zur Einheit und zum Einklang finden, damit ihr eine gewaltige Kraft des Lichts in der Welt sein könnt, denn wenn …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

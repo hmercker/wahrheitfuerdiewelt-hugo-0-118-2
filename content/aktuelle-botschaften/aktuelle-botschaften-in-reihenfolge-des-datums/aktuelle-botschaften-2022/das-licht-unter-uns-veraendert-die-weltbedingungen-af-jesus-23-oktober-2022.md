@@ -1,7 +1,7 @@
 ---
 title: "Das Licht unter uns verändert die Weltbedingungen"
 menu_title: ""
-description: "Das Licht unter uns verändert die Weltbedingungen"
+description: "Jesus, empfangen durch Al Fike: „So wie Gott euch im Licht versammelt, so bildet ihr durch eure Bemühungen im Gebet ein Heiligtum des Lichts unter euch in …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "In Botschaft scherzen Helen und Mary über ihre Liebe zu ihren Seelenpartnern"
 menu_title: ""
-description: "In Botschaft scherzen Helen und Mary über ihre Liebe zu ihren Seelenpartnern"
+description: "Helen, empfangen durch James Padgett: „Nun, für heute Abend hast du genug geschrieben, und ich werde nur ein paar Worte sagen und aufhören, wenn sich das …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

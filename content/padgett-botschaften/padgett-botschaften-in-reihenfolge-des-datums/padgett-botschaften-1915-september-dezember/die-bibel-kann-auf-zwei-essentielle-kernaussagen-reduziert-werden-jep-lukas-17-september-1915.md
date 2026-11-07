@@ -1,7 +1,7 @@
 ---
 title: "Die Bibel kann auf zwei essentielle Kernaussagen reduziert werden"
 menu_title: ""
-description: "Die Bibel kann auf zwei essentielle Kernaussagen reduziert werden"
+description: "Lukas, empfangen von James Padgett: „Ich sagte nie, dass Jesus als der eingeborene Sohn des Vaters zur Erde kam im Sinne, dass er anders geboren wurde als …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

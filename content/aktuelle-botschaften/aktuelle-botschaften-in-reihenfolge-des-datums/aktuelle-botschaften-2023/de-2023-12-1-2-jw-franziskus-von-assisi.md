@@ -1,7 +1,7 @@
 ---
 title: "Was nehmt ihr mit?"
 menu_title: ""
-description: "Was nehmt ihr mit?"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Meine Brüder und Schwestern, Freunde der Erde, Geliebte des Schöpfers, ich wandelte einst auf dieser …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

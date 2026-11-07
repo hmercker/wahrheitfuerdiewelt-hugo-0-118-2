@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt Herrn Padgett, warum sie ihn zum Schreiben aufgerufen hat"
 menu_title: ""
-description: "Helen erzählt Herrn Padgett, warum sie ihn zum Schreiben aufgerufen hat"
+description: "Helen, empfangen durch James Padgett: „Ich habe dich gerufen, weil das spirituelle Wesen, das schrieb, in einem so schlechten und leidenden Zustand war und …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

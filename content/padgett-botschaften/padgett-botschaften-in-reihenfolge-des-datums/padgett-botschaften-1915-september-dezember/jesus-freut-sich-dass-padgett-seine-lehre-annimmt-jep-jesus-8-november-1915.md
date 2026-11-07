@@ -1,7 +1,7 @@
 ---
 title: "Jesus freut sich, dass Padgett seine Lehre annimmt"
 menu_title: ""
-description: "Jesus freut sich, dass Padgett seine Lehre annimmt"
+description: "Jesus, empfangen durch James Padgett: „Heute Nacht möchte ich dir sagen, wie sehr es mich freut, dass du die Wahrheiten, die wir dir schreiben, nicht nur …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

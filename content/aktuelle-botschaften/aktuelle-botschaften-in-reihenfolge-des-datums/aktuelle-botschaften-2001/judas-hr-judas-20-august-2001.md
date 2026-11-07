@@ -1,7 +1,7 @@
 ---
 title: "Judas"
 menu_title: ""
-description: "Judas"
+description: "Judas, empfangen durch H.: „Ich folgte Alfredos Rat, wie ich mich mit geschlossenen Augen entspannen sollte, als ich dieses Licht auf mich zukommen sah.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

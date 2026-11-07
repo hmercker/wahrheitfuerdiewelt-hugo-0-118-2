@@ -1,7 +1,7 @@
 ---
 title: "Antwort auf die Fragen von H."
 menu_title: ""
-description: "Antwort auf die Fragen von H."
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist Seretta Kem hier und ihr und die liebe Seele über den Wassern haben mich eingeladen, einige Fragen zu …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

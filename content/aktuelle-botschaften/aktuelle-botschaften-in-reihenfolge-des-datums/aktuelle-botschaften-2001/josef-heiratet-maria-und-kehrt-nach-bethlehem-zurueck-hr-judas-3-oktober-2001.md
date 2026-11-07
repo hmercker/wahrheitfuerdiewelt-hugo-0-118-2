@@ -1,7 +1,7 @@
 ---
 title: "Josef heiratet Maria und kehrt nach Bethlehem zurück"
 menu_title: ""
-description: "Josef heiratet Maria und kehrt nach Bethlehem zurück"
+description: "Judas, empfangen durch H.: „Mein lieber H , ich fühle mich glücklich, eine weitere Botschaft durch dich überbringen zu können.“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

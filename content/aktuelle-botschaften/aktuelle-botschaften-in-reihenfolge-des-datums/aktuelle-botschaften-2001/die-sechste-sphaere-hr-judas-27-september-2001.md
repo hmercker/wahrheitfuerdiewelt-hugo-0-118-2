@@ -1,7 +1,7 @@
 ---
 title: "Die sechste Sphäre"
 menu_title: ""
-description: "Die sechste Sphäre"
+description: "Judas, empfangen durch H.: „Es ist eine gute Praxis, den Empfangsmodus zu ändern, wann immer dies möglich ist, da du so viel mehr Vertrauen und Genauigkeit …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Betet für das Seelenbewusstsein"
 menu_title: ""
-description: "Betet für das Seelenbewusstsein"
+description: "Orion, empfangen durch Al Fike: „Ihr denkt oft, dass Entwicklung etwas Materielles ist, dass Entwicklung zu einer materiellen Form führt, dass Entwicklung …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

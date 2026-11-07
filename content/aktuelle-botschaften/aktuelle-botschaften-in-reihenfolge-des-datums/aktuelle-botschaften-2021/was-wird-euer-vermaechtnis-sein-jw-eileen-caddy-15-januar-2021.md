@@ -1,7 +1,7 @@
 ---
 title: "Was wird euer Vermächtnis sein?"
 menu_title: ""
-description: "Was wird euer Vermächtnis sein?"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Das Leben hat seine Drehungen und Wendungen, seine Komplikationen wie auch seine Segnungen und es scheint …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

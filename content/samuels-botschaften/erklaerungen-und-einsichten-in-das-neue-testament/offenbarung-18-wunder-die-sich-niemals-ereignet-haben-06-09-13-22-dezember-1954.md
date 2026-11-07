@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 18 : Wunder, die sich niemals ereignet haben"
 menu_title: ""
-description: "Offenbarung 18 : Wunder, die sich niemals ereignet haben"
+description: "Jesus, empfangen durch Dr Samuels: „Eines der Wunder, das sich niemals ereignet hat, war die Speisung der Fünftausend, wo ich am See Genezareth die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid beständig im Gebet, um ein Licht für die Welt zu sein "
 menu_title: ""
-description: "Seid beständig im Gebet, um ein Licht für die Welt zu sein "
+description: "Andreas, empfangen durch Al Fike: „In eurer Welt herrscht ein solcher Mangel, obwohl ein Großteil eurer Welt ein Dach über dem Kopf hat, Essen im Bauch …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Nicht verzweifeln"
 menu_title: ""
-description: "Nicht verzweifeln"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich sehe, dass ihr alle heute ein wenig belastet seid, denn ihr seht so viele Veränderungen in dieser Welt, auf …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

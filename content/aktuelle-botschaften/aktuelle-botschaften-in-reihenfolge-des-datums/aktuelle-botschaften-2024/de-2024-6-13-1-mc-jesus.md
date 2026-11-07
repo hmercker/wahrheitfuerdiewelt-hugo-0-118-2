@@ -1,7 +1,7 @@
 ---
 title: "Die Gnade des Wesens Gottes bringt Verantwortung mit sich"
 menu_title: ""
-description: "Die Gnade des Wesens Gottes bringt Verantwortung mit sich"
+description: "Jesus, empfangen durch Maureen Cardoso: „Ich stehe vor meinen Jüngern, deren Seelen im Licht Gottes wachsen. Deren Seelen vom Glanz der Essenz des …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

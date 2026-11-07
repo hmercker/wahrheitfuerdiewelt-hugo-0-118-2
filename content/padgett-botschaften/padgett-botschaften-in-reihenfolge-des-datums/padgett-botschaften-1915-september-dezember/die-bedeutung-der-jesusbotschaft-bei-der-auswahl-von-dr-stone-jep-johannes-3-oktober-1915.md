@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone"
 menu_title: ""
-description: "Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone"
+description: "Johannes, empfangen von James Padgett: „Ich beziehe mich insbesondere auf den Teil, in dem es heißt, dass dein Freund (Dr. Stone) für eine Arbeit …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

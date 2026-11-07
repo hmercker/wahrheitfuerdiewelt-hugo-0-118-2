@@ -1,7 +1,7 @@
 ---
 title: "Stimmt euch auf die Liebe ein"
 menu_title: ""
-description: "Stimmt euch auf die Liebe ein"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Sind wir nicht alle auf dieser Reise? Ich habe vorhin zugehört, als ihr über mich gesprochen habt, mich …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

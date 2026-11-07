@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist mit uns"
 menu_title: ""
-description: "Jesus ist mit uns"
+description: "Jesus, empfangen durch Al Fike: „Ihr seid in meiner Umarmung, meinen Gedanken und Gebeten. Ich unterstütze euch in euren Bemühungen.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

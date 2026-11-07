@@ -1,7 +1,7 @@
 ---
 title: "Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit"
 menu_title: ""
-description: "Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit"
+description: "Jesus, empfangen durch Dr Samuels: „Es ist für die Menschheit so wichtig zu wissen, inwiefern das Christentum in seiner heutigen Form nicht die Botschaft …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

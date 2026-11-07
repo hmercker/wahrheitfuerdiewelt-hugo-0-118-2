@@ -1,7 +1,7 @@
 ---
 title: "Bringt euer Licht hervor"
 menu_title: ""
-description: "Bringt euer Licht hervor"
+description: "Konfuzius, empfangen durch Al Fike: „Denn die Menschheit muss mit gegenseitigem Verständnis und Teilen und Liebe füreinander zusammenkommen.“"
 date: 2020-08-01 06:25:48+00:241
 draft: False
 hidden: True

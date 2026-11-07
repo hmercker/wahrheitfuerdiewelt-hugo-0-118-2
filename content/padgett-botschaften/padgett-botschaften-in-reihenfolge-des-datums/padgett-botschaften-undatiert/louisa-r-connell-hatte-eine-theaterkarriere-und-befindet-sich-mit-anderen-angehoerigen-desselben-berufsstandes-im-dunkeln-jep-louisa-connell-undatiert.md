@@ -1,7 +1,7 @@
 ---
 title: "Louisa R. Connell hatte eine Theaterkarriere und befindet sich mit anderen Angehörigen desselben Berufsstandes im Dunkeln"
 menu_title: ""
-description: "Louisa R. Connell hatte eine Theaterkarriere und befindet sich mit anderen Angehörigen desselben Berufsstandes im Dunkeln"
+description: "Louisa Connell, empfangen durch James Padgett: „Ich war keine sehr gute Frau, als ich auf der Erde war, noch eine sehr schlechte, wie ich damals dachte.“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bittet um die Hilfe der Engel"
 menu_title: ""
-description: "Bittet um die Hilfe der Engel"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Zusammen mit euren Gebeten zu Gott dürft ihr uns anrufen, um euch bei euren Bemühungen zu helfen, spirituell …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

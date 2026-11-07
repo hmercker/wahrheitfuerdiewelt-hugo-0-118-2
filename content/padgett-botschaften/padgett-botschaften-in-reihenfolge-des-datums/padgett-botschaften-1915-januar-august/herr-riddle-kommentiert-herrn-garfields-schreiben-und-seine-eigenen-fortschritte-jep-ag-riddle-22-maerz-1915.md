@@ -1,7 +1,7 @@
 ---
 title: "Herr Riddle kommentiert Herrn Garfield's Schreiben und seine eigenen Fortschritte"
 menu_title: ""
-description: "Herr Riddle kommentiert Herrn Garfield's Schreiben und seine eigenen Fortschritte"
+description: "A.G. Riddle, empfangen durch James Padgett: „Du hast einen Brief von Garfield erhalten. Er ist intellektuell gesehen ein wundervoller Geist und hat schon …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

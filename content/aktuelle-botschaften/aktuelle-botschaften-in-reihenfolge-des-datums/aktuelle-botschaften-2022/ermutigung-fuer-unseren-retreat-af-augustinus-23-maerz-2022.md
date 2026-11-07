@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung für unseren Retreat"
 menu_title: ""
-description: "Ermutigung für unseren Retreat"
+description: "Augustinus, empfangen durch Al Fike: „Wir freuen uns, dass ihr weiterhin auf die Stimme Gottes hört und in Lichtkreisen zusammenkommt, um tiefere Bande der …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

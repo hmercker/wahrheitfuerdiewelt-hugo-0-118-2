@@ -1,7 +1,7 @@
 ---
 title: "Die 19te Meile"
 menu_title: ""
-description: "Die 19te Meile"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ja, ich habe eurer Diskussion über Energie zugehört und unsere geliebte Lotusblüte hat die Konzepte in dieser …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

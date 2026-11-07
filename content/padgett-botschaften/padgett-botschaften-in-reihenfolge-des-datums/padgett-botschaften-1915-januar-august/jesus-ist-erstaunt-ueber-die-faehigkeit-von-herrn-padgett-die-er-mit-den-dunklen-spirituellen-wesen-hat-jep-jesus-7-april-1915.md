@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist erstaunt über die Fähigkeit von Herrn Padgett, die er mit den dunklen Spirituellen Wesen hat"
 menu_title: ""
-description: "Jesus ist erstaunt über die Fähigkeit von Herrn Padgett, die er mit den dunklen Spirituellen Wesen hat"
+description: "Jesus, empfangen durch James Padgett: „Nun, du verfügst über meine Liebe und Hilfe und musst erkennen, dass ich sehr oft bei dir bin, da ich es bin.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

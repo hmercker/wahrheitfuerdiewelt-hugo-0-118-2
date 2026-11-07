@@ -1,7 +1,7 @@
 ---
 title: "Otto von Bismarck ist anderer Meinung was Lafayette über den deutschen Kaiser geschrieben hat"
 menu_title: ""
-description: "Otto von Bismarck ist anderer Meinung was Lafayette über den deutschen Kaiser geschrieben hat"
+description: "Otto von Bismarck, empfangen durch James Padgett: „Ich möchte ein Wort sagen. Ich habe gesehen, was Lafayette geschrieben hat und ich stimme in keinem der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

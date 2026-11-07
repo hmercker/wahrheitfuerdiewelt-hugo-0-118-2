@@ -1,7 +1,7 @@
 ---
 title: "Die Tür der Wahrheit ist durch Gottes Liebe geöffnet"
 menu_title: ""
-description: "Die Tür der Wahrheit ist durch Gottes Liebe geöffnet"
+description: "Andreas, empfangen durch Al Fike: „Geliebte Freunde, schöne Seelen, möge Gott eure Seele mit einem großen Einströmen Seiner Liebe segnen.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

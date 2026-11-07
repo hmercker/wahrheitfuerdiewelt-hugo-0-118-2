@@ -1,7 +1,7 @@
 ---
 title: "Der Islam und Mohammed"
 menu_title: ""
-description: "Der Islam und Mohammed"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, ich sehe, dass du den Koran liest. Du hast ihn schon einmal gelesen, und er hat dich nicht sehr beeindruckt.“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

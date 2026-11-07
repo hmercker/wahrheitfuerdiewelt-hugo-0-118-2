@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass der Meister sehr viel mit Herrn Padgett zusammen ist und sogar abends mit ihm betet"
 menu_title: ""
-description: "Helen schreibt, dass der Meister sehr viel mit Herrn Padgett zusammen ist und sogar abends mit ihm betet"
+description: "Helen, empfangen durch James Padgett: „Die spirituellen Wesen, die schrieben, waren so bestrebt, dies zu tun, und besonders Mary, und ich hielt es für …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

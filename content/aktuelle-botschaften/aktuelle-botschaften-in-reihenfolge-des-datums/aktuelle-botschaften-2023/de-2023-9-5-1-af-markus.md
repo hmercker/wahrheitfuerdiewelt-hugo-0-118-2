@@ -1,7 +1,7 @@
 ---
 title: "Der Dienst für Gott"
 menu_title: ""
-description: "Der Dienst für Gott"
+description: "Markus, empfangen durch Al Fike: „Möge die große Liebe Gottes in eure Seelen fließen, meine Lieben. Ich war schon oft mit diesem Instrument unterwegs, und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

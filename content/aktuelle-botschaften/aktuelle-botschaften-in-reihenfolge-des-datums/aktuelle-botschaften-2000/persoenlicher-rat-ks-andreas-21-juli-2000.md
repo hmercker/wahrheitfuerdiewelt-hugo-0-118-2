@@ -1,7 +1,7 @@
 ---
 title: "Persönlicher Rat"
 menu_title: ""
-description: "Persönlicher Rat"
+description: "Andreas, empfangen durch Kathryn Stokes: „[Lieber Gott, ich bete, dass ich spirituelle Fortschritte in Deiner Göttlichen Liebe gemacht habe.“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

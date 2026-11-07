@@ -1,7 +1,7 @@
 ---
 title: "Lasst euch von eurer Krise zu einem Leben in Gott treiben"
 menu_title: ""
-description: "Lasst euch von eurer Krise zu einem Leben in Gott treiben"
+description: "Franziskus von Asissi, empfangen durch Jimbeau Walsh: „Es gibt viele Versionen der Geschichte meines Lebens, und sie alle enthalten Elemente der Wahrheit.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

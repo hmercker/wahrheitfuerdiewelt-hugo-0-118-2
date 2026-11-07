@@ -1,7 +1,7 @@
 ---
 title: "Helft anderen, die Wahrheit der Liebe des Vaters zu finden"
 menu_title: ""
-description: "Helft anderen, die Wahrheit der Liebe des Vaters zu finden"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte euch versichern, dass ich nicht so sehr gelitten habe, wie ihr es euch vielleicht vorstellt, dass mein …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

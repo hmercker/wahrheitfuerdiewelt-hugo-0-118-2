@@ -1,7 +1,7 @@
 ---
 title: "Folge deinem Herzen "
 menu_title: ""
-description: "Folge deinem Herzen "
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Was für ein schönes Gebet von einer schönen Seele! Es gibt so viele praktische Erwägungen im irdischen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

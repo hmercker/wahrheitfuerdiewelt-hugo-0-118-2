@@ -1,7 +1,7 @@
 ---
 title: "Einheit des Gebets"
 menu_title: ""
-description: "Einheit des Gebets"
+description: "Lukas, empfangen durch Al Fike: „Ihr sucht die Einheit, und die Einheit ist eure im Gebet. Sie ist euer, wenn ihr den Segen der Liebe Gottes empfangt und …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

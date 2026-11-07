@@ -1,7 +1,7 @@
 ---
 title: "Spürt die Gewissheit eurer Schritte"
 menu_title: ""
-description: "Spürt die Gewissheit eurer Schritte"
+description: "Jesus, empfangen durch Al Fike: „Erinnert euch daran, dass ihr eurem himmlischen Vater dient, dass Gott einen Segen und eine Bitte an euch gerichtet hat …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

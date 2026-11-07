@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme wird sich für jeden einzelnen von euch manifestieren"
 menu_title: ""
-description: "Direkte Stimme wird sich für jeden einzelnen von euch manifestieren"
+description: "Lotus Blossom, empfangen durch Al Fike: „So schön, so schön seid ihr geworden, als ihr zusammen gebetet habt in dieser Zeit, die Gott euch geschenkt hat …“"
 date: 2020-08-01 06:25:48+00:258
 draft: False
 hidden: True

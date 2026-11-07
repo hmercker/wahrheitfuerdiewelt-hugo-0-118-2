@@ -1,7 +1,7 @@
 ---
 title: "Stephen Elkins wurde von Herrn Padgett unterstützt und ist aus der Finsternis herausgekommen"
 menu_title: ""
-description: "Stephen Elkins wurde von Herrn Padgett unterstützt und ist aus der Finsternis herausgekommen"
+description: "Stephen Elkins, empfangen durch James Padgett: „Ich habe dir schon einmal geschrieben und ich möchte dir jetzt nur sagen, dass ich in einem besseren …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

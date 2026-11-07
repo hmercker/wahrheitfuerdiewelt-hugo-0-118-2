@@ -1,7 +1,7 @@
 ---
 title: "Gottes Plan in Aktion"
 menu_title: ""
-description: "Gottes Plan in Aktion"
+description: "Johannes der Geliebte, empfangen durch Elisabeth Mack: „Ihr kennt die Wahrheit und wendet sie jedes Mal an, wenn ihr betet, wenn ihr eure Sehnsüchte, die …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Neue und kreative Wege werden sich öffnen, zum Dienen während der Erdveränderungen"
 menu_title: ""
-description: "Neue und kreative Wege werden sich öffnen, zum Dienen während der Erdveränderungen"
+description: "Matthäus, empfangen durch Al Fike: „Seht ihr nicht, wie Gott mit jedem Tag große Möglichkeiten zum Dienen bereitstellt. Dass, obwohl sich die Strukturen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

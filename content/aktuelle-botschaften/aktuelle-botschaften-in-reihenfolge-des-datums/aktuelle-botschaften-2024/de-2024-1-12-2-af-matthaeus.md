@@ -1,7 +1,7 @@
 ---
 title: "Die Wahl"
 menu_title: ""
-description: "Die Wahl"
+description: "Matthäus, empfangen durch Al Fike: „Seht und schätzt ihr nicht die Einzigartigkeit jeder einzelnen Seele, die hier anwesend ist?“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

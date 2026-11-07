@@ -1,7 +1,7 @@
 ---
 title: "Es liegt eine Kraft in dieser Gabe der Einsicht"
 menu_title: ""
-description: "Es liegt eine Kraft in dieser Gabe der Einsicht"
+description: "Stephanus, empfangen durch Al Fike: „Ihr kennt mich als den Heiligen Stephanus aus der Bibel. Es kommen viele Veränderungen auf eure Welt und auf euer …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

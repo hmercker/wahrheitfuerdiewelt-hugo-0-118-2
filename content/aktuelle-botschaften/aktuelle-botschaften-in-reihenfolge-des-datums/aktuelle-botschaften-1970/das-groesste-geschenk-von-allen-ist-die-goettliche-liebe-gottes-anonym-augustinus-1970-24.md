@@ -1,7 +1,7 @@
 ---
 title: "Das größte Geschenk von allen ist die Göttliche Liebe Gottes"
 menu_title: ""
-description: "Das größte Geschenk von allen ist die Göttliche Liebe Gottes"
+description: "Augustinus: „Ich fühlte, dass ich noch einmal zu euch sprechen muss, liebe Kinder, während dieser Zeit der Meditation, und euch wissen lassen muss, dass …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

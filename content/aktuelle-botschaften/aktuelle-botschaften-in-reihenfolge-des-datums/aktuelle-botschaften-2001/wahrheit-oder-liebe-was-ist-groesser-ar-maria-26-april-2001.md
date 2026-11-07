@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit oder Liebe, was ist größer?"
 menu_title: ""
-description: "Wahrheit oder Liebe, was ist größer?"
+description: "Maria, empfangen durch Amada Reza: „Ich freue mich, dass du trotz der späten Stunde den Eingebungen deines Herzens gefolgt bist, um meine Botschaft zu …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

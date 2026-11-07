@@ -1,7 +1,7 @@
 ---
 title: "Viele Hebräer haben damals den Namen Jesus getragen"
 menu_title: ""
-description: "Viele Hebräer haben damals den Namen Jesus getragen"
+description: "Jesus, empfangen durch Dr Samuels: „Ich freue mich, dir heute wieder schreiben zu können. Ich war anwesend, als ihr, meine lieben Treuhänder und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Konstantin erklärt, wie das Christentum zur Staatsreligion wurde"
 menu_title: ""
-description: "Konstantin erklärt, wie das Christentum zur Staatsreligion wurde"
+description: "Konstantin, empfangen durch James Padgett: „Ich war der Römische Kaiser und starb als das Oberhaupt der Christlichen Kirche. Ich war eigentlich kein …“"
 date: 2020-08-01 06:25:48+00:206
 draft: False
 hidden: True

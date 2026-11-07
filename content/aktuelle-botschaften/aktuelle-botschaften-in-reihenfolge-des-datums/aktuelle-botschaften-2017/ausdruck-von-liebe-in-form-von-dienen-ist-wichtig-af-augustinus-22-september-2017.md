@@ -1,7 +1,7 @@
 ---
 title: "Ausdruck von Liebe in Form von Dienen ist wichtig"
 menu_title: ""
-description: "Ausdruck von Liebe in Form von Dienen ist wichtig"
+description: "Augustinus, empfangen durch Al Fike: „Das natürliche Ergebnis der Liebe ist die Verbindung mit anderen, das Geben an andere, das Ermöglichen des Flusses …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe schenkt Freiheit"
 menu_title: ""
-description: "Gottes Liebe schenkt Freiheit"
+description: "Jesus, empfangen durch Elisabeth Mack: „Eine solche Freiheit habt ihr noch nie erfahren, aber das werdet ihr, wenn ihr in dieser Liebe wächst, wenn ihr in …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

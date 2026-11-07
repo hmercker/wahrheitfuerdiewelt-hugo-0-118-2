@@ -1,7 +1,7 @@
 ---
 title: "Das Erwecken der Seele ist ein schrittweiser Prozess"
 menu_title: ""
-description: "Das Erwecken der Seele ist ein schrittweiser Prozess"
+description: "Augustinus, empfangen durch Al Fike: „Ja, geliebte Tochter, du weißt von mir und ich weiß von dir. Kein Segen ist zu groß, als dass diejenigen von euch auf …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

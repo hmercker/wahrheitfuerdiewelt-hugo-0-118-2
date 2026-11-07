@@ -1,7 +1,7 @@
 ---
 title: "Spricht zum ersten Mal mit zwei Fremden"
 menu_title: ""
-description: "Spricht zum ersten Mal mit zwei Fremden"
+description: "Augustinus: „Ich beziehe mich auf euren Seelenzustand. Aber dennoch, meine Freunde, müssen wir prüfen.“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

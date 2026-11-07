@@ -1,7 +1,7 @@
 ---
 title: "Im Licht wandeln"
 menu_title: ""
-description: "Im Licht wandeln"
+description: "Johannes, empfangen durch Al Fike: „Liebe geliebte Seelen, ihr wandelt heute im Licht, und ihr betet in der Gegenwart unseres geliebten Vaters, der euch so …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

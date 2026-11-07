@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt unsere Fähigkeiten"
 menu_title: ""
-description: "Ermutigt unsere Fähigkeiten"
+description: "Seretta Kem, empfangen durch Al Fike: „Was für ein Geschenk habt ihr in eurer Gemeinschaft, eurer Freundschaft, eurer liebevollen Anerkennung füreinander.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

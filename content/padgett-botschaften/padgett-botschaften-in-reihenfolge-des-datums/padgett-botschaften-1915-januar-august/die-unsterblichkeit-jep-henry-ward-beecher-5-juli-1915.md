@@ -1,7 +1,7 @@
 ---
 title: "Die Unsterblichkeit "
 menu_title: ""
-description: "Die Unsterblichkeit "
+description: "Henry Ward Beecher, empfangen durch James Padgett: „Ich lebe in der Siebenten Sphäre, wo sich dein Vater jetzt befindet; und weil ich ihn dort getroffen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

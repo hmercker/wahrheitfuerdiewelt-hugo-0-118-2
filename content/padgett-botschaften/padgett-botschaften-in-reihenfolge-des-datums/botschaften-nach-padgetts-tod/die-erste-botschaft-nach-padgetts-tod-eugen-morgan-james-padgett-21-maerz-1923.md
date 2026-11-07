@@ -1,7 +1,7 @@
 ---
 title: "Die erste Botschaft nach Padgett's Tod"
 menu_title: ""
-description: "Die erste Botschaft nach Padgett's Tod"
+description: "James E. Padgett, empfangen durch Eugene Morgan: „Und als ich ankam, traf ich auf Jesus und andere hohe Wesen, die so oft bei mir waren, und auch auf eine …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

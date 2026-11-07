@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung durch Helen"
 menu_title: ""
-description: "Eine Bestätigung durch Helen"
+description: "Helen Padgett, empfangen durch James Padgett: „Gute Nacht, ich liebe dich – Helen. Deutscher Orginaltext von padgettmessages.de“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

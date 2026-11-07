@@ -1,7 +1,7 @@
 ---
 title: "Warum ist es so schwer, unseren Verstand für die Wahrheit zu öffnen?"
 menu_title: ""
-description: "Warum ist es so schwer, unseren Verstand für die Wahrheit zu öffnen?"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Lieber Gott der Liebe, ich bete für ein großes Einströmen Deiner Göttlichen Liebe in dieser …“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

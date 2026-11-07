@@ -1,7 +1,7 @@
 ---
 title: "Helen und Mary schrieben eine gemeinsame Botschaft, um Marys Seelenpartner ein Geheimnis zu erzählen"
 menu_title: ""
-description: "Helen und Mary schrieben eine gemeinsame Botschaft, um Marys Seelenpartner ein Geheimnis zu erzählen"
+description: "Helen und Mary, empfangen durch James Padgett: „Ich werde dir ein wenig schreiben, wenn du es erlaubst. Wenn ich es zulasse, wird sie mich für immer lieben.“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

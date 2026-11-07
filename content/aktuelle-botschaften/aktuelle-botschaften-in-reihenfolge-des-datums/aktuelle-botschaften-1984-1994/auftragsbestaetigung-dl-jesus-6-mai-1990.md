@@ -1,7 +1,7 @@
 ---
 title: "Auftragsbestätigung"
 menu_title: ""
-description: "Auftragsbestätigung"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, wie du weißt, Meister, jetzt, wo G seinen Studienkurs abgeschlossen hat und die Mitglieder …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

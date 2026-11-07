@@ -1,7 +1,7 @@
 ---
 title: "Lieben mit der Göttlichen Liebe "
 menu_title: ""
-description: "Lieben mit der Göttlichen Liebe "
+description: "Jesus, empfangen durch David Lampron: „R. und die Überwachung seiner kürzlichen, erfolgreichen Operation danken. Wenn ich an meine eigene Liebe zu B denke …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lukas gibt sein Zeugnis ab"
 menu_title: ""
-description: "Lukas gibt sein Zeugnis ab"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte auch mein Zeugnis hinzufügen und du wirst bald sehen, dass jeder Zweifel mehr als nur Torheit ist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

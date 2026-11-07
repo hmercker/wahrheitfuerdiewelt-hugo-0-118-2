@@ -1,7 +1,7 @@
 ---
 title: "Gruß von Victor Summers"
 menu_title: ""
-description: "Gruß von Victor Summers"
+description: "Victor Summers, empfangen durch Al Fike: „Es ist euer Freund Victor. Mein lieber KO, ich liebe dich so sehr und du warst mir ein so guter Freund, als wir …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

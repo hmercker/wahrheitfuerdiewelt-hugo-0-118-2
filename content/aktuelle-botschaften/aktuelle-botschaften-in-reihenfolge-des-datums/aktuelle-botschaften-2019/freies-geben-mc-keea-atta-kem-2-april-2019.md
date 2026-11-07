@@ -1,7 +1,7 @@
 ---
 title: "Freies Geben"
 menu_title: ""
-description: "Freies Geben"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Was für ein Segen ist es, nach dem großen Geschenk der Göttlichen Liebe zu greifen und es zu empfangen.“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

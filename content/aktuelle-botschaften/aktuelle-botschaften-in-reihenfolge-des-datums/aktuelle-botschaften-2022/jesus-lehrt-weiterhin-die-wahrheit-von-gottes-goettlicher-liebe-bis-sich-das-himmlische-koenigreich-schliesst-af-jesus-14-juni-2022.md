@@ -1,7 +1,7 @@
 ---
 title: "Jesus lehrt weiterhin die Wahrheit von Gottes göttlicher Liebe, bis sich das himmlische Königreich schließt"
 menu_title: ""
-description: "Jesus lehrt weiterhin die Wahrheit von Gottes göttlicher Liebe, bis sich das himmlische Königreich schließt"
+description: "Jesus, empfangen durch Al Fike: „An vielen Orten in der Welt des Geistes und auf der Erdebene. Denn bis sich das große Tor zum Göttlichen Himmel schließt …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

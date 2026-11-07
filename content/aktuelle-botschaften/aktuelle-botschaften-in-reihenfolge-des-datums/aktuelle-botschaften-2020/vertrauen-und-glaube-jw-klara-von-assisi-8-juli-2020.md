@@ -1,7 +1,7 @@
 ---
 title: "Vertrauen und Glaube"
 menu_title: ""
-description: "Vertrauen und Glaube"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich weiß, dass in den Botschaften, die der Bruder (HR) von Judas empfangen hat, einige wunderbare …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

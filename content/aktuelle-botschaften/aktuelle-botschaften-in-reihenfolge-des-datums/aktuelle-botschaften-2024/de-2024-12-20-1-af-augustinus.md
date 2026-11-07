@@ -1,7 +1,7 @@
 ---
 title: "Auf Suche nach der Wahrheit"
 menu_title: ""
-description: "Auf Suche nach der Wahrheit"
+description: "Augustinus, empfangen durch Al Fike: „Seelen aus der ganzen Welt kommen an einen Ort der Wahrheitssuche. Überall auf der Welt sehnen sich die Seelen …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

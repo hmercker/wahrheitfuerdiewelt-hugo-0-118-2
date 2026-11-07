@@ -1,7 +1,7 @@
 ---
 title: "Verschiedene Fragen bezüglich des Hinübergehens"
 menu_title: ""
-description: "Verschiedene Fragen bezüglich des Hinübergehens"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H, nachdem ich nun die Beschreibung der Erdenebenen abgeschlossen habe, die, wie du verstehen wirst …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

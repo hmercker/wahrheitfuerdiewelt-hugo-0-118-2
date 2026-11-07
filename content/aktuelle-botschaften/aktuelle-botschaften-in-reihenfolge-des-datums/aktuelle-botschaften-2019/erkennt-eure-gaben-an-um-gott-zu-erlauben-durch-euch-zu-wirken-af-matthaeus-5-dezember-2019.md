@@ -1,7 +1,7 @@
 ---
 title: "Erkennt eure Gaben an, um Gott zu erlauben, durch euch zu wirken"
 menu_title: ""
-description: "Erkennt eure Gaben an, um Gott zu erlauben, durch euch zu wirken"
+description: "Matthäus, empfangen durch Al Fike: „Während ihr in diesem Kreis des Lichts gesessen habt, waren wir fleißig in unseren Bemühungen, euch zu helfen, jene …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

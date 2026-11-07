@@ -1,7 +1,7 @@
 ---
 title: "Mehr über spirituelle Kommunikation"
 menu_title: ""
-description: "Mehr über spirituelle Kommunikation"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich möchte über das Thema der spirituellen Kommunikation sprechen, wenn auch vielleicht aus einer anderen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

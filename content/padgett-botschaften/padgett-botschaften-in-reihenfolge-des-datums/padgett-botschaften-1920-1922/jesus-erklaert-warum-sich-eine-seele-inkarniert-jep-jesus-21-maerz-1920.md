@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, warum sich eine Seele inkarniert "
 menu_title: ""
-description: "Jesus erklärt, warum sich eine Seele inkarniert "
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir heute Abend schreiben, denn du bist in guter Verfassung und ich möchte dich unbedingt auf ein Thema …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

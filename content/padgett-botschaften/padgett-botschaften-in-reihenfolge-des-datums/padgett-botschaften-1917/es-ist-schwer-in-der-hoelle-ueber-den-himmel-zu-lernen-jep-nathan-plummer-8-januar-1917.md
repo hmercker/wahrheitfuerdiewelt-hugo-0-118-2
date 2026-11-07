@@ -1,7 +1,7 @@
 ---
 title: "Es ist schwer, in der Hölle über den Himmel zu lernen"
 menu_title: ""
-description: "Es ist schwer, in der Hölle über den Himmel zu lernen"
+description: "Plummer, empfangen durch James Padgett: „Ich möchte dir nur ein paar wenige Worte sagen. Dein indianischer Schutzengel, der dir wachsam zur Seite steht …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

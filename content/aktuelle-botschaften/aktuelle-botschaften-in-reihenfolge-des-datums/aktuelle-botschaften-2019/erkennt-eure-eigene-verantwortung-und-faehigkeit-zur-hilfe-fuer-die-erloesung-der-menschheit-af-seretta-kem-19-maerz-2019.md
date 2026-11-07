@@ -1,7 +1,7 @@
 ---
 title: "Erkennt eure eigene Verantwortung und Fähigkeit zur Hilfe für die Erlösung der Menschheit"
 menu_title: ""
-description: "Erkennt eure eigene Verantwortung und Fähigkeit zur Hilfe für die Erlösung der Menschheit"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gibt eine große Wertschätzung von unserer Seite des Lebens für diejenigen von euch, die bereit sind, sich diese …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

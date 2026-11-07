@@ -1,7 +1,7 @@
 ---
 title: "Predigt 32 - Jesaja und die Bedrohung durch die Assyrer"
 menu_title: ""
-description: "Predigt 32 - Jesaja und die Bedrohung durch die Assyrer"
+description: "Jesus, empfangen durch Dr Samuels: „In meiner letzten Predigt habe ich gezeigt, dass Jesaja ein Prophet des Friedens war, ein Mann, der sich für die Sache …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

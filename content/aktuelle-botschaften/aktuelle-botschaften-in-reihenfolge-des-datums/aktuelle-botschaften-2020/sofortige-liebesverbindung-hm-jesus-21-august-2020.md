@@ -1,7 +1,7 @@
 ---
 title: "Sofortige Liebesverbindung"
 menu_title: ""
-description: "Sofortige Liebesverbindung"
+description: "Jesus, empfangen durch Helge Mercker: „Ich möchte dir meine Liebe ausdrücken und meine Zusicherung bringen, dass ich bei dir bin.“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

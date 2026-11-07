@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit für die Menschen, ihre Gedanken dem Spirituellen zuzuwenden"
 menu_title: ""
-description: "Die Notwendigkeit für die Menschen, ihre Gedanken dem Spirituellen zuzuwenden"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte gewisse Wahrheiten erklären in Bezug auf die Notwendigkeit für die Menschen, ihre Gedanken dem …“"
 date: 2020-08-01 06:25:48+00:236
 draft: False
 hidden: True

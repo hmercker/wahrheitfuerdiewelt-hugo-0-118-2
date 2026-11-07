@@ -1,7 +1,7 @@
 ---
 title: "William Stone ist bemüht, das Zuhause seiner Frau zu erreichen um bei ihr zu sein"
 menu_title: ""
-description: "William Stone ist bemüht, das Zuhause seiner Frau zu erreichen um bei ihr zu sein"
+description: "William Stone, empfangen durch James Padgett: „Glaube an diese Wahrheit, und du wirst nicht enttäuscht werden, und wenn der große Tag des Wiedersehens …“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

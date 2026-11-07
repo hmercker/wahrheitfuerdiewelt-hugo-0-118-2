@@ -1,7 +1,7 @@
 ---
 title: "Meine Poesie widerspiegelt meine Verbundenheit mit Gott"
 menu_title: ""
-description: "Meine Poesie widerspiegelt meine Verbundenheit mit Gott"
+description: "Hafiz, empfangen durch Jimbeau Walsh: „Danke, dass ihr meine Arbeit und meine Worte gewürdigt habt. Ich war in tiefer Verbundenheit mit Gott und ich war …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

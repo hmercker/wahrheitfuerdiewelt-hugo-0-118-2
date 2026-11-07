@@ -1,7 +1,7 @@
 ---
 title: "Sich auf das konzentrieren, was nötig ist"
 menu_title: ""
-description: "Sich auf das konzentrieren, was nötig ist"
+description: "Jesus, empfangen durch Al Fike: „Wenn ihr so sitzt und betet, wie ihr es tut, kommt ihr mit der Absicht und dem Wunsch zusammen, Gott zu dienen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

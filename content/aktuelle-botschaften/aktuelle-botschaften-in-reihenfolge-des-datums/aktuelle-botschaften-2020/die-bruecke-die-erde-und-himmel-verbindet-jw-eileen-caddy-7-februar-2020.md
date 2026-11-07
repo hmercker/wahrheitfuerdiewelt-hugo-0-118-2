@@ -1,7 +1,7 @@
 ---
 title: "Die Brücke, die Erde und Himmel verbindet"
 menu_title: ""
-description: "Die Brücke, die Erde und Himmel verbindet"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Es gibt eine Brücke, die die Realitäten der Erdebene mit den Realitäten der himmlischen Welt und der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

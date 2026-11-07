@@ -1,7 +1,7 @@
 ---
 title: "Das 'automatische Schreiben' ist der 'unabhängigen Stimme' überlegen"
 menu_title: ""
-description: "Das 'automatische Schreiben' ist der 'unabhängigen Stimme' überlegen"
+description: "Bright Star, empfangen durch James Padgett: „Ja, ich weiß, ich sah und fühlte, dass deine Liebe für deine Frau so großartig und rein war, dass ich mich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

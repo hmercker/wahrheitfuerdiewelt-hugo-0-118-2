@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe wird euer Verständnis öffnen"
 menu_title: ""
-description: "Gottes Liebe wird euer Verständnis öffnen"
+description: "Jesaja, empfangen durch Al Fike: „Seine Hand liegt auf jedem einzelnen von euch. Ihr seid innerhalb dieser großen Welle von Licht und Liebe.“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

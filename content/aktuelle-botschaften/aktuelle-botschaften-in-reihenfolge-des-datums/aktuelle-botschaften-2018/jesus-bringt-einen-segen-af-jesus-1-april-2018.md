@@ -1,7 +1,7 @@
 ---
 title: "Jesus bringt einen Segen"
 menu_title: ""
-description: "Jesus bringt einen Segen"
+description: "Jesus, empfangen durch Al Fike: „Ihr habt mich mit euren Gebeten und euren Gefühlen hergebracht. Viele Male habe ich die Gespräche derer gehört, die die …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

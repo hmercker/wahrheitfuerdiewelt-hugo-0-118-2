@@ -1,7 +1,7 @@
 ---
 title: "Der größere Anteil der Liebe"
 menu_title: ""
-description: "Der größere Anteil der Liebe"
+description: "Jakobus, empfangen durch Kathryn Stokes: „[Lieber Gott, wenn ich in der Lage bin, eine Botschaft von Deinen dienenden Engeln zu kanalisieren, würde ich Dir …“"
 date: 2020-08-01 06:25:48+00:286
 draft: False
 hidden: True

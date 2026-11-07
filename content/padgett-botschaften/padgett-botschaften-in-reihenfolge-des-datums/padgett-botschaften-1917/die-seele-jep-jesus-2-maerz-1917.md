@@ -1,7 +1,7 @@
 ---
 title: "Die Seele"
 menu_title: ""
-description: "Die Seele"
+description: "Jesus, empfangen durch James Padgett: „Nun, das Thema ist außerordentlich wichtig und schwierig zu erklären, denn es gibt auf der Erde nichts, was dem …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

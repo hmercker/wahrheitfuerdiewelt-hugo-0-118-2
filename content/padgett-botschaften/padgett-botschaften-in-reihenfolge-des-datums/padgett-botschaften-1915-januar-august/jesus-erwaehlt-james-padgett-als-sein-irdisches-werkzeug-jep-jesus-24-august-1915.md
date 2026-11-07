@@ -1,7 +1,7 @@
 ---
 title: "Jesus erwählt James Padgett als sein irdisches Werkzeug"
 menu_title: ""
-description: "Jesus erwählt James Padgett als sein irdisches Werkzeug"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir nur sagen, dass das Buch, das du gelesen hast, zeigt, dass der Spiritualismus in der Welt der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

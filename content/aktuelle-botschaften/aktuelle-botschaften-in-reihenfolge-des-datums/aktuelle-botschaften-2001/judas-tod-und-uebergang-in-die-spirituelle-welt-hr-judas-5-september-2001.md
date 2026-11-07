@@ -1,7 +1,7 @@
 ---
 title: "Judas' Tod und Übergang in die Spirituelle Welt"
 menu_title: ""
-description: "Judas' Tod und Übergang in die Spirituelle Welt"
+description: "Judas, empfangen durch H.: „Gestern konnten wir uns nicht treffen, es gab einfach keine Gelegenheit. Du brauchst dir darüber keine Sorgen zu machen, es gab …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

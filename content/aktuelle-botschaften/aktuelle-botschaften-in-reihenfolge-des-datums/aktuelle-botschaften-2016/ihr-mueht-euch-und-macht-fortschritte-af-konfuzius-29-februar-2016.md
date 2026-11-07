@@ -1,7 +1,7 @@
 ---
 title: "Ihr müht euch und macht Fortschritte"
 menu_title: ""
-description: "Ihr müht euch und macht Fortschritte"
+description: "Konfuzius, empfangen durch Al Fike: „Manchmal ist das Aufsteigen aus euren Seelen schwierig und ihr findet das schmerzhaft, verwirrend.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

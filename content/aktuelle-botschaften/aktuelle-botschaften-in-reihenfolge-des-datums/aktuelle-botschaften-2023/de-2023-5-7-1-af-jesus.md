@@ -1,7 +1,7 @@
 ---
 title: "Eure Fähigkeit zu lieben wird immer stärker"
 menu_title: ""
-description: "Eure Fähigkeit zu lieben wird immer stärker"
+description: "Jesus, empfangen durch Al Fike: „So habt ihr von diesem Segen erfahren, von dieser offenen Tür, die euch und der ganzen Menschheit zur Verfügung steht.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

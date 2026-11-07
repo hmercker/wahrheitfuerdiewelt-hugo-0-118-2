@@ -1,7 +1,7 @@
 ---
 title: "Echtes Glücklichsein"
 menu_title: ""
-description: "Echtes Glücklichsein"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ahh, das schwer fassbare Glück, das alle Menschen suchen. Für manche ist es so einfach wie eine Mahlzeit.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

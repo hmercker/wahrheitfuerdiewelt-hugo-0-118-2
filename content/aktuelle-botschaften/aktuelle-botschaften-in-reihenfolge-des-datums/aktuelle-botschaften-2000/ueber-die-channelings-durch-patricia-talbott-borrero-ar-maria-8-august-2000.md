@@ -1,7 +1,7 @@
 ---
 title: "Über die Channelings durch Patricia Talbott Borrero"
 menu_title: ""
-description: "Über die Channelings durch Patricia Talbott Borrero"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Gott, H fragt, ob Maria, die Mutter Jesu, tatsächlich Botschaften durch Patricia Talbott Borrero gechannelt hat.“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

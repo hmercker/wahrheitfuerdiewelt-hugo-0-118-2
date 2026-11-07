@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Julius Cäsar geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Julius Cäsar geschrieben hat"
+description: "Helen, empfangen von James Padgett: „Du glaubst es vielleicht nicht, aber es ist eine Tatsache und es ist das Beste für dich, damit aufzuhören.“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

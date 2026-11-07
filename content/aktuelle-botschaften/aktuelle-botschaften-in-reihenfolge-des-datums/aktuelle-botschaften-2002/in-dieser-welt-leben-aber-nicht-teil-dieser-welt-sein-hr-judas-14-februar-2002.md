@@ -1,7 +1,7 @@
 ---
 title: "In dieser Welt leben, aber nicht Teil dieser Welt sein"
 menu_title: ""
-description: "In dieser Welt leben, aber nicht Teil dieser Welt sein"
+description: "Judas, empfangen durch H.: „Wie toll war dieser Karneval! Am Montag hattest du eine richtig schöne Zeit, fast ohne Alkohol, du hast schön geplaudert und …“"
 date: 2020-08-01 06:25:48+00:182
 draft: False
 hidden: True

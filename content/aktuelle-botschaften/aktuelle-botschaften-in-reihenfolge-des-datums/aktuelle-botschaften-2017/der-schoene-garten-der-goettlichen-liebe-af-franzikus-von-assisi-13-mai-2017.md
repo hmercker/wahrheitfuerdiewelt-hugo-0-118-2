@@ -1,7 +1,7 @@
 ---
 title: "Der schöne Garten der Göttlichen Liebe"
 menu_title: ""
-description: "Der schöne Garten der Göttlichen Liebe"
+description: "Franzikus von Assisi, empfangen durch Al Fike: „Dieser schöne Zustand der Liebe, die Harmonie, die hier existiert, jede Seele, die in diesen Garten kommt …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

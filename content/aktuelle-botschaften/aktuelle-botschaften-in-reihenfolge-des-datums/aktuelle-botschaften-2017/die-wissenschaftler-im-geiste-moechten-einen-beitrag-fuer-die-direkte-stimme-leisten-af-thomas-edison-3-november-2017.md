@@ -1,7 +1,7 @@
 ---
 title: "Die Wissenschaftler im Geiste möchten einen Beitrag für die Direkte Stimme leisten"
 menu_title: ""
-description: "Die Wissenschaftler im Geiste möchten einen Beitrag für die Direkte Stimme leisten"
+description: "Thomas Edison, empfangen durch Al Fike: „Sogar Wissenschaftler sind in diesen Reichen erlaubt. Ich habe viel gelernt, seit ich in der spirituellen Welt bin …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Öffnen der Gabe der Medialität"
 menu_title: ""
-description: "Das Öffnen der Gabe der Medialität"
+description: "Lotus Blossom, empfangen durch Al Fike: „Es gibt eine Neugierde, die sie über sich selbst trägt und Neugierde ist ein Element, das euch allen helfen kann …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

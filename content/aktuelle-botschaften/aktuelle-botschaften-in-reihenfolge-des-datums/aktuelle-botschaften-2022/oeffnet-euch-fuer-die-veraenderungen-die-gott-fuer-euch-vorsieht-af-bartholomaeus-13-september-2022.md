@@ -1,7 +1,7 @@
 ---
 title: "Öffnet euch für die Veränderungen, die Gott für euch vorsieht"
 menu_title: ""
-description: "Öffnet euch für die Veränderungen, die Gott für euch vorsieht"
+description: "Bartholomäus, empfangen durch Al Fike: „Ich werde weiterhin an seiner Seite sein, wenn er große Sprünge in Richtung Licht und ewige Liebe macht.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

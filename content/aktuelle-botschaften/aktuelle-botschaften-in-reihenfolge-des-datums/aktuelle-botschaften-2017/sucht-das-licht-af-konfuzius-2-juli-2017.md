@@ -1,7 +1,7 @@
 ---
 title: "Sucht das Licht"
 menu_title: ""
-description: "Sucht das Licht"
+description: "Konfuzius, empfangen durch Al Fike: „Möge jede Seele von Gott in diesem Haus des Lichts berührt werden. Möge Seine Gnade euer Segen sein, Geliebte, und …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

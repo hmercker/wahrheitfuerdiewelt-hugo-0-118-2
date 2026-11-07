@@ -1,7 +1,7 @@
 ---
 title: "Erforscht eure Gaben"
 menu_title: ""
-description: "Erforscht eure Gaben"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Es gibt eine Sache, die offensichtlich wird, wenn man über die Gaben eines jeden einzelnen Menschen spricht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

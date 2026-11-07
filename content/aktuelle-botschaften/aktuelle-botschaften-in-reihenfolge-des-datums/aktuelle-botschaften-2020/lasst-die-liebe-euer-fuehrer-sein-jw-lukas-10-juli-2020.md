@@ -1,7 +1,7 @@
 ---
 title: "Lasst die Liebe euer Führer sein"
 menu_title: ""
-description: "Lasst die Liebe euer Führer sein"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Gott hat euch allen eine Seele, ein Herz und einen Verstand gegeben. Der Verstand ist ein wunderbares Organ der …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

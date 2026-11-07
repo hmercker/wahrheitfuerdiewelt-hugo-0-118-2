@@ -1,7 +1,7 @@
 ---
 title: "Es gibt große Dinge, die auf euch warten"
 menu_title: ""
-description: "Es gibt große Dinge, die auf euch warten"
+description: "Jesus: „Unser Vater ist in dieser Stunde in die Gegenwart von uns allen gekommen. Es ist sehr, sehr heilig in diesem Augenblick.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

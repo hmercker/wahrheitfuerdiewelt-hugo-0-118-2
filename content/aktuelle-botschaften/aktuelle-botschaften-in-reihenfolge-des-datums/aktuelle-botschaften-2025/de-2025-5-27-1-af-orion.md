@@ -1,7 +1,7 @@
 ---
 title: "Die Widersprüche in uns"
 menu_title: ""
-description: "Die Widersprüche in uns"
+description: "Orion, empfangen durch Al Fike: „Das Gebet des Sohnes ist in der Tat sehr aktuell. Wir stehen euch weiterhin bei euren Vorbereitungen zur Seite.“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

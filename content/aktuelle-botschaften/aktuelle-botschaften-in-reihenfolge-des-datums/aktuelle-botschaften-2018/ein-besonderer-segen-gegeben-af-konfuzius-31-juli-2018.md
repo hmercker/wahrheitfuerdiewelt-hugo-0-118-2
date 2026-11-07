@@ -1,7 +1,7 @@
 ---
 title: "Ein besonderer Segen gegeben"
 menu_title: ""
-description: "Ein besonderer Segen gegeben"
+description: "Konfuzius, empfangen durch Al Fike: „Ach, meine kleinen Vögel, wie gerne schart ihr euch zusammen und betet gemeinsam im Licht von Gottes geliebter …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

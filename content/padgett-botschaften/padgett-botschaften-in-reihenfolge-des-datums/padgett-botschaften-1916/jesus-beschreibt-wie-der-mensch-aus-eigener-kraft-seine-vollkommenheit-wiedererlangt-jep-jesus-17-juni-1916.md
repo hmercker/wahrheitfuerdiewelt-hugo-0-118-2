@@ -1,7 +1,7 @@
 ---
 title: "Jesus beschreibt, wie der Mensch aus eigener Kraft seine Vollkommenheit wiedererlangt"
 menu_title: ""
-description: "Jesus beschreibt, wie der Mensch aus eigener Kraft seine Vollkommenheit wiedererlangt"
+description: "Jesus, empfangen durch James Padgett: „Ich sehe, dass es dir heute Abend besser geht, und vielleicht können wir die Botschaft fortsetzen.“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

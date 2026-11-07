@@ -1,7 +1,7 @@
 ---
 title: "Herr Forrest beginnt zu begreifen, dass es einen Gott der Barmherzigkeit und Liebe geben muss"
 menu_title: ""
-description: "Herr Forrest beginnt zu begreifen, dass es einen Gott der Barmherzigkeit und Liebe geben muss"
+description: "Edwin Forrest, empfangen durch James Padgett: „Sie ist das wunderbarste spirituelle Wesen, das ich je gesehen habe, und wenn sie zu mir spricht, dann mit …“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

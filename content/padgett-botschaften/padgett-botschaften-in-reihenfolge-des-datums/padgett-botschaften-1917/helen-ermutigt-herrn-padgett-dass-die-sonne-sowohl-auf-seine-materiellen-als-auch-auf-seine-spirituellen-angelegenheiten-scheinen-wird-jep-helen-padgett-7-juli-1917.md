@@ -1,7 +1,7 @@
 ---
 title: "Helen ermutigt Herrn Padgett, dass die Sonne sowohl auf seine materiellen als auch auf seine spirituellen Angelegenheiten scheinen wird"
 menu_title: ""
-description: "Helen ermutigt Herrn Padgett, dass die Sonne sowohl auf seine materiellen als auch auf seine spirituellen Angelegenheiten scheinen wird"
+description: "Helen, empfangen durch James Padgett: „Ich habe mir solche Sorgen gemacht, dass du aus dem Zustand der Mutlosigkeit, der in den vergangenen Tagen bei dir …“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

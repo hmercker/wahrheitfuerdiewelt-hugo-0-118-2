@@ -1,7 +1,7 @@
 ---
 title: "Die Schließung der Göttlichen Himmel"
 menu_title: ""
-description: "Die Schließung der Göttlichen Himmel"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , du hast eine seltsame Mischung von Fragen vorgeschlagen, und einige von ihnen haben uns wirklich zum …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

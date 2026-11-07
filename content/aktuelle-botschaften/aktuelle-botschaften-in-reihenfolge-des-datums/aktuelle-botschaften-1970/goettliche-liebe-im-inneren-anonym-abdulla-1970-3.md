@@ -1,7 +1,7 @@
 ---
 title: "Göttliche Liebe im Inneren"
 menu_title: ""
-description: "Göttliche Liebe im Inneren"
+description: "Abdulla: „Das größte Geschenk und das größte Glück, das der Mensch haben kann, ist das Bewusstsein von Gottes göttlicher Liebe in seiner Seele.“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

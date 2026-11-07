@@ -1,7 +1,7 @@
 ---
 title: "Stimme deine Saiten auf die Frequenz der Liebe"
 menu_title: ""
-description: "Stimme deine Saiten auf die Frequenz der Liebe"
+description: "Vater, empfangen durch Child of God: „Stimmt eure Saiten auf die Frequenz der Liebe. Dein himmlischer Vater ist hier.“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

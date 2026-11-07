@@ -1,7 +1,7 @@
 ---
 title: "Liebe ist meine Botschaft"
 menu_title: ""
-description: "Liebe ist meine Botschaft"
+description: "Jesus, empfangen durch Al Fike: „Ich liebe alle meine Brüder und Schwestern in dieser Welt, unabhängig von ihrem Glauben, ihrer Hautfarbe oder ihrem …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

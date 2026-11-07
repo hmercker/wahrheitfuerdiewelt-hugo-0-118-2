@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet wissen, wann ihr vortreten müsst"
 menu_title: ""
-description: "Ihr werdet wissen, wann ihr vortreten müsst"
+description: "Seretta Kem, empfangen durch Al Fike: „Fühlt ihr nicht die Begeisterung, die sich in euren Seelen aufbaut, während ihr dem Datum näher kommt, an dem ihr …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

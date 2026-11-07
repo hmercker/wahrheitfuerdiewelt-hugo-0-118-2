@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigt die Worte des Meisters und ermutigt Padgett in seiner Arbeit"
 menu_title: ""
-description: "Ann Rollins bestätigt die Worte des Meisters und ermutigt Padgett in seiner Arbeit"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich gehört habe, was der Meister gesagt hat, und ich schließe mich ihm an, indem …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

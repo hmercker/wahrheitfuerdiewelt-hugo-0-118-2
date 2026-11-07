@@ -1,7 +1,7 @@
 ---
 title: "Die Integration des materiellen Verstandes mit dem Seelenverstand"
 menu_title: ""
-description: "Die Integration des materiellen Verstandes mit dem Seelenverstand"
+description: "Seretta Kem, empfangen durch Al Fike: „Die Transformation der Seele endet nicht mit Veränderungen innerhalb der Struktur der Seele.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

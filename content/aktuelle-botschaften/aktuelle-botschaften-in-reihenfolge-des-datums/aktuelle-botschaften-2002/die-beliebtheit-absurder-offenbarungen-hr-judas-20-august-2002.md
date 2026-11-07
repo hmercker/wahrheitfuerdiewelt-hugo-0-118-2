@@ -1,7 +1,7 @@
 ---
 title: "Die Beliebtheit absurder 'Offenbarungen'"
 menu_title: ""
-description: "Die Beliebtheit absurder 'Offenbarungen'"
+description: "Judas, empfangen durch H.: „[Lieber Judas, dem Rat folgend, den ich in meiner letzten Botschaft erhielt, las ich Teile von Lorbers Schriften, und es ist …“"
 date: 2020-08-01 06:25:48+00:244
 draft: False
 hidden: True

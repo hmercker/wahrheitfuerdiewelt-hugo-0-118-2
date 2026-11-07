@@ -1,7 +1,7 @@
 ---
 title: "Wo viel gegeben wird, wird auch viel erwartet"
 menu_title: ""
-description: "Wo viel gegeben wird, wird auch viel erwartet"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich bitte euch, euch an die Worte zu erinnern: \"Wem viel gegeben wurde, von dem wird auch viel …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

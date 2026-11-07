@@ -1,7 +1,7 @@
 ---
 title: "Ruft uns alle dazu auf, Gott zu dienen"
 menu_title: ""
-description: "Ruft uns alle dazu auf, Gott zu dienen"
+description: "Eileen Caddy, empfangen durch Al Fike: „Ich fahre fort, meine Reise zum Einssein mit Gott zu machen. Diese großmütterliche Gestalt, die ich war, kam mit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

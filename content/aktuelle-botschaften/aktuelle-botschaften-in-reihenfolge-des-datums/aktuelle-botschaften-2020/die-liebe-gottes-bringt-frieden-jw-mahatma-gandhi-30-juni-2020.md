@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes bringt Frieden"
 menu_title: ""
-description: "Die Liebe Gottes bringt Frieden"
+description: "Mahatma Gandhi, empfangen durch Jimbeau Walsh: „Wie ihr vielleicht wisst, brachte ich eine Botschaft der Gewaltlosigkeit, ahimsa, in mein Land, wo es viel …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 22 : Hosea und der Neue Bund mit Gott"
 menu_title: ""
-description: "Offenbarung 22 : Hosea und der Neue Bund mit Gott"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute werden wir uns wieder mit dem Alten Testament befassen—zum einen möchte ich dir aufzeigen, was mich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

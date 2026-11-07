@@ -1,7 +1,7 @@
 ---
 title: "Vieles wartet auf eure Bemühungen"
 menu_title: ""
-description: "Vieles wartet auf eure Bemühungen"
+description: "Richard Wagner, empfangen durch Al Fike: „Ich möchte schöne Musik in diese Welt bringen. So viele von uns, die in eurer Welt für ihre Kompositionen bekannt …“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

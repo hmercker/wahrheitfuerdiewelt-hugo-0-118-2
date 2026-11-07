@@ -1,7 +1,7 @@
 ---
 title: "Frau Wilson schreibt über ihre Versuche, ihren Mann, Präsident Wilson, zu beeinflussen"
 menu_title: ""
-description: "Frau Wilson schreibt über ihre Versuche, ihren Mann, Präsident Wilson, zu beeinflussen"
+description: "Frau Wilson, empfangen durch James Padgett: „Ich werde nur ein oder zwei Zeilen schreiben. Er hat auch andere Wesen um sich herum, die sehr am Wohl des …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

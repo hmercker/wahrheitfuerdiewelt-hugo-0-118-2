@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr mit eurer Seele seht"
 menu_title: ""
-description: "Wenn ihr mit eurer Seele seht"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Auf eine sehr einfache Art und Weise beteten und spielten wir in der Natur, die unsere erste Kirche war.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

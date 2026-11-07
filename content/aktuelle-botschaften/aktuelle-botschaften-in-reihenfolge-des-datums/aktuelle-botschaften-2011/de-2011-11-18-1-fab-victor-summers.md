@@ -1,7 +1,7 @@
 ---
 title: "Nachricht von Victor Summers"
 menu_title: ""
-description: "Nachricht von Victor Summers"
+description: "Victor Summers, empfangen durch Arthur Finman: „Ich möchte euch eine Botschaft schreiben. Ich kann es, obwohl ich gerade erst angekommen bin.“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

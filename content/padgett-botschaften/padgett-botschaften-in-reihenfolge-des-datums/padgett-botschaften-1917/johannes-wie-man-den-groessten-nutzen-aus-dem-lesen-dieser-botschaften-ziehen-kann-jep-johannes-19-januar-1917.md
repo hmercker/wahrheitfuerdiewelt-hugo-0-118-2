@@ -1,7 +1,7 @@
 ---
 title: "Johannes: Wie man den größten Nutzen aus dem Lesen dieser Botschaften ziehen kann"
 menu_title: ""
-description: "Johannes: Wie man den größten Nutzen aus dem Lesen dieser Botschaften ziehen kann"
+description: "Johannes, empfangen durch James Padgett: „Ich weiß, dass du das Gefühl hast, dass du nicht in der Lage bist, zu schreiben, und dass du dich deshalb nicht …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

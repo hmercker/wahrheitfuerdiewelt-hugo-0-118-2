@@ -1,7 +1,7 @@
 ---
 title: "Den Verstand zähmen"
 menu_title: ""
-description: "Den Verstand zähmen"
+description: "Martin Luther, empfangen durch Al Fike am8. November: „Innerhalb eures Gehirns sind verschiedene Schuppen oder Knötchen von Zuständen an den komplexen …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

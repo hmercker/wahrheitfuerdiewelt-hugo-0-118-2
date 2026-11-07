@@ -1,7 +1,7 @@
 ---
 title: "Es gibt viel vorzubereiten"
 menu_title: ""
-description: "Es gibt viel vorzubereiten"
+description: "James Reid, empfangen durch Al Fike: „Ich freue mich, meine alten Freunde und einige neue Freunde zu sehen. Es ist ein Segen und ein Privileg, in diesem …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

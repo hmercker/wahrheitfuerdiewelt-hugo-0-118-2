@@ -1,7 +1,7 @@
 ---
 title: "Bei Gott gibt es keine Distanz"
 menu_title: ""
-description: "Bei Gott gibt es keine Distanz"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes über euch und in euch sein. Während meiner Zeit auf der Erde erfreute ich mich an …“"
 date: 2025-04-19 06:00:00+00:10
 draft: False
 hidden: True

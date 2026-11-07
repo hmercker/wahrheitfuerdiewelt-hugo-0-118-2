@@ -1,7 +1,7 @@
 ---
 title: "Was der Mensch sät, wird er ernten"
 menu_title: ""
-description: "Was der Mensch sät, wird er ernten"
+description: "Jesus, empfangen durch James Padgett: „Es tut mir leid, dass dies so ist, aber es ist eine Tatsache, und wir werden noch eine Weile warten müssen, was …“"
 date: 2020-08-01 06:25:48+00:239
 draft: False
 hidden: True

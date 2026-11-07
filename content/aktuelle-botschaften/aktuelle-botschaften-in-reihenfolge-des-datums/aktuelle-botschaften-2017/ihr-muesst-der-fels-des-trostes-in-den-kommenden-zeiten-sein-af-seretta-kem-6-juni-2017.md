@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst der Fels des Trostes in den kommenden Zeiten sein"
 menu_title: ""
-description: "Ihr müsst der Fels des Trostes in den kommenden Zeiten sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich würde diese Instrumente bitten, diese Tochter zu unterrichten, wenn sie bereit ist, bezüglich dieser Anstrengung …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

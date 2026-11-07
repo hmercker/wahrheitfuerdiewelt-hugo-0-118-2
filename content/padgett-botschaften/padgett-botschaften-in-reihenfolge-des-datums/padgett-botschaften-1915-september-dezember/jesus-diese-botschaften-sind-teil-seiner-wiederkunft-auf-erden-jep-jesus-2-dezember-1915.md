@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Diese Botschaften sind Teil seiner Wiederkunft auf Erden"
 menu_title: ""
-description: "Jesus: Diese Botschaften sind Teil seiner Wiederkunft auf Erden"
+description: "Jesus, empfangen durch James Padgett: „Ich habe eure Diskussion heute Nacht gehört, und ich freue mich über das Seelenverständnis meiner Wahrheiten, das du …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, nicht länger an ihm und seinem Auftrag zu zweifeln"
 menu_title: ""
-description: "Jesus bittet Padgett, nicht länger an ihm und seinem Auftrag zu zweifeln"
+description: "Jesus, empfangen durch James Padgett: „Du hast dich sicherlich schon gefragt, warum so viele Apostel, Jünger und Heilige zu dir kommen, um dir eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

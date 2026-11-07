@@ -1,7 +1,7 @@
 ---
 title: "Tragt die Liebe in euren Seelen"
 menu_title: ""
-description: "Tragt die Liebe in euren Seelen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich habe euer Gespräch verfolgt und glaube mir, ich kann die Absichten eurer Herzen und eurer Seelen spüren.“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

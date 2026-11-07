@@ -1,7 +1,7 @@
 ---
 title: "Eure Kämpfe sind nicht umsonst"
 menu_title: ""
-description: "Eure Kämpfe sind nicht umsonst"
+description: "Augustinus, empfangen durch Al Fike: „Ja, es gibt Fortschritte, liebe Seelen. Auch wenn ihr euren Fortschritt als langsam, mühsam und sogar langwierig …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

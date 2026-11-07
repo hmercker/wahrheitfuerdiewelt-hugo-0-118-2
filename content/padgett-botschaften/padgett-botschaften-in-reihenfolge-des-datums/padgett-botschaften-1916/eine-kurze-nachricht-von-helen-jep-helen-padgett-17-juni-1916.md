@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Nachricht von Helen"
 menu_title: ""
-description: "Eine kurze Nachricht von Helen"
+description: "Helen, empfangen durch James Padgett: „Er sagte, dass du sehr erfolgreich warst und er ist zufrieden. Deine wahrhaft eigene und dich liebende, Helen“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

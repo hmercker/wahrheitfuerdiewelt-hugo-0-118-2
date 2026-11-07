@@ -1,7 +1,7 @@
 ---
 title: "Transformation in Göttlicher Liebe"
 menu_title: ""
-description: "Transformation in Göttlicher Liebe"
+description: "Orion, empfangen durch Al Fike: „Jeder von euch hat auf seine Weise verschiedene Hürden und Hindernisse überwunden. Jeder von euch lernt die Macht der …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

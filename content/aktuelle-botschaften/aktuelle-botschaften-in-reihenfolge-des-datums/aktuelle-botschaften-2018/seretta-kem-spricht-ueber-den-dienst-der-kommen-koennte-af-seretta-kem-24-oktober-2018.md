@@ -1,7 +1,7 @@
 ---
 title: "Seretta Kem spricht über den Dienst, der kommen könnte"
 menu_title: ""
-description: "Seretta Kem spricht über den Dienst, der kommen könnte"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte heute zu euch über das sprechen, was in der Zukunft für jeden einzelnen von euch kommen kann, wenn ihr …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

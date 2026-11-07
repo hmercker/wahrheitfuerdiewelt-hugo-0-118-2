@@ -1,7 +1,7 @@
 ---
 title: "Der Zustand der Menschen ist so, dass es für sie von grösster Wichtigkeit ist, die Wahrheit zu erfahren"
 menu_title: ""
-description: "Der Zustand der Menschen ist so, dass es für sie von grösster Wichtigkeit ist, die Wahrheit zu erfahren"
+description: "John Wesley, empfangen durch James Padgett: „Ich möchte zu dir über eine Angelegenheit sprechen, die sehr eng mit deiner Mission und dem Werk, das du jetzt …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

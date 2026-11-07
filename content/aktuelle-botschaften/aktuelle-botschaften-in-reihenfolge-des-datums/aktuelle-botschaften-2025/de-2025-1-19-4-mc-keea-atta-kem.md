@@ -1,7 +1,7 @@
 ---
 title: "Die Reiche des inneren Friedens und der Weisheit"
 menu_title: ""
-description: "Die Reiche des inneren Friedens und der Weisheit"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich lade euch ein, euch zu entspannen, in Frieden zu sein und euch eurer inneren Welt bewusst zu sein.“"
 date: 2025-01-19 06:00:00+00:10
 draft: False
 hidden: True

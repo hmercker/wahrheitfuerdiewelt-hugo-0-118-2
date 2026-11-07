@@ -1,7 +1,7 @@
 ---
 title: "Die überragende Macht der Göttlichen Liebe ist die wahre Kraft, die Veränderung bringt"
 menu_title: ""
-description: "Die überragende Macht der Göttlichen Liebe ist die wahre Kraft, die Veränderung bringt"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, es ist euer Lehrer Augustinus, der wieder einmal zu euch spricht. Es ist die Macht der Liebe, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

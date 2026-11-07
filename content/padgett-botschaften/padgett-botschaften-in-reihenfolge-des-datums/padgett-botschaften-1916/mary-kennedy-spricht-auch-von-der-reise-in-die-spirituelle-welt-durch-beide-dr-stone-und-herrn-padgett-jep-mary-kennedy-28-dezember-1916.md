@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy spricht auch von der Reise in die spirituelle Welt durch beide, Dr. Stone und Herrn Padgett"
 menu_title: ""
-description: "Mary Kennedy spricht auch von der Reise in die spirituelle Welt durch beide, Dr. Stone und Herrn Padgett"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, wenn er an mich gedacht hätte, wie er sollte, hätte er es ohne Schwierigkeiten erraten können.“"
 date: 2020-08-01 06:25:48+00:301
 draft: False
 hidden: True

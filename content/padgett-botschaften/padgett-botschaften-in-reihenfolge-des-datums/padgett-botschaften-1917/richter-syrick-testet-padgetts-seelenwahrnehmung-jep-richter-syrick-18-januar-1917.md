@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick testet Padgett's Seelenwahrnehmung "
 menu_title: ""
-description: "Richter Syrick testet Padgett's Seelenwahrnehmung "
+description: "Syrick, empfangen durch James Padgett: „Der Geist der schrieb, war nicht Ingersoll und ihm wurde erlaubt nur zu schreiben, um deine Fähigkeit oder deinen …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

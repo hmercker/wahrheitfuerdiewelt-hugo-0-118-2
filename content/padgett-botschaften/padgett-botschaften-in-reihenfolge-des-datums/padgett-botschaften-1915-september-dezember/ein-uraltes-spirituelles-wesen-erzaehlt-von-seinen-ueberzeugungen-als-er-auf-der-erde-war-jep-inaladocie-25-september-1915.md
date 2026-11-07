@@ -1,7 +1,7 @@
 ---
 title: "Ein uraltes spirituelles Wesen erzählt von seinen Überzeugungen, als er auf der Erde war"
 menu_title: ""
-description: "Ein uraltes spirituelles Wesen erzählt von seinen Überzeugungen, als er auf der Erde war"
+description: "Inaladocie, empfangen von James Padgett: „Zu meiner Zeit hatten die Menschen nicht den Ehrgeiz und die Gier, weltliche Besitztümer anzuhäufen, die sie …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

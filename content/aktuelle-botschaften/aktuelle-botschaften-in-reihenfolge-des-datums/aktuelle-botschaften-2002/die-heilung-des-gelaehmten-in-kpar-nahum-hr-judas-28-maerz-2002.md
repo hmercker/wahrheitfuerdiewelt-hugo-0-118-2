@@ -1,7 +1,7 @@
 ---
 title: "Die Heilung des Gelähmten in Kpar Nahum"
 menu_title: ""
-description: "Die Heilung des Gelähmten in Kpar Nahum"
+description: "Judas, empfangen durch H.: „Heute hast du einen Brief geschrieben über die Heilung am Teich von Bethesda und die angebliche Blasphemie, die der Meister …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

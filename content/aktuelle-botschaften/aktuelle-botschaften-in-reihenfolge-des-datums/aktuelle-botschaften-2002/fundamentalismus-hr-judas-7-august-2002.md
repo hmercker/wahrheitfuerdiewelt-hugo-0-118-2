@@ -1,7 +1,7 @@
 ---
 title: "Fundamentalismus"
 menu_title: ""
-description: "Fundamentalismus"
+description: "Judas, empfangen durch H.: „Mein lieber Freund, ich fühle mich sehr glücklich, wieder einmal die Gelegenheit gefunden zu haben, dir eine Botschaft zu …“"
 date: 2020-08-01 06:25:48+00:239
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Samuel, dass Jesus die Botschaften geschrieben hat"
 menu_title: ""
-description: "Bestätigung durch Samuel, dass Jesus die Botschaften geschrieben hat"
+description: "Samuel, empfangen durch James Padgett: „Ich habe die Botschaft des Meisters gehört, und wie alle seine Botschaften ist sie voller Wahrheiten, die für das …“"
 date: 2020-08-01 06:25:48+00:180
 draft: False
 hidden: True

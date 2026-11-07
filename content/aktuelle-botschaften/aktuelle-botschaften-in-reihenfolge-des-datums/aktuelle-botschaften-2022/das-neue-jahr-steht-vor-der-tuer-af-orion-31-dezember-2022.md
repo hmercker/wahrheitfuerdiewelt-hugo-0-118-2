@@ -1,7 +1,7 @@
 ---
 title: "Das neue Jahr steht vor der Tür"
 menu_title: ""
-description: "Das neue Jahr steht vor der Tür"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. In diesem vergangenen Jahr seid ihr nicht untätig geblieben.“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

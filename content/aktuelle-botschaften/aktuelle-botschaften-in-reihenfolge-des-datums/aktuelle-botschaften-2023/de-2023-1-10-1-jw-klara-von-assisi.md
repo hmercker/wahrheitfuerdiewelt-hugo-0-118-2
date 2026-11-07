@@ -1,7 +1,7 @@
 ---
 title: "Erschafft eure Vision"
 menu_title: ""
-description: "Erschafft eure Vision"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich habe keine Agenda, für die ich werben will, keine mentalen Erklärungen. Wann immer jemand auf der …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

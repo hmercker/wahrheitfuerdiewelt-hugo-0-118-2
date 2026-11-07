@@ -1,7 +1,7 @@
 ---
 title: "Caligula, ein römischer Kaiser und Mörder von Christen, findet seinen Seelenpartner"
 menu_title: ""
-description: "Caligula, ein römischer Kaiser und Mörder von Christen, findet seinen Seelenpartner"
+description: "Caligula, empfangen durch James Padgett: „Ich war der römische Kaiser und der Mörder der Christen und habe seitdem und für meine Sünden alle Schrecken …“"
 date: 2020-08-01 06:25:48+00:132
 draft: False
 hidden: True

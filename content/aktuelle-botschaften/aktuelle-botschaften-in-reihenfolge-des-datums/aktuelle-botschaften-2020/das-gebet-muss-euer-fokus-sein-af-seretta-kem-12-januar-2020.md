@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet muss euer Fokus sein"
 menu_title: ""
-description: "Das Gebet muss euer Fokus sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Das ist es, was erforderlich ist, damit diese großen Anstrengungen zum Tragen kommen, im Licht von Gottes Segen zu …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

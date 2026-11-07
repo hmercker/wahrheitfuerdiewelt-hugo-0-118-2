@@ -1,7 +1,7 @@
 ---
 title: "Seligman, ein Muslim, wusste oder hörte in all seinen vielen Jahren in der spirituellen Welt nie etwas von der Göttlichen Liebe"
 menu_title: ""
-description: "Seligman, ein Muslim, wusste oder hörte in all seinen vielen Jahren in der spirituellen Welt nie etwas von der Göttlichen Liebe"
+description: "Seligman, empfangen durch James Padgett: „Ich habe in all den langen Jahren meiner Pilgerreise in der spirituellen Welt noch nie von der Existenz dieser …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

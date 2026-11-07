@@ -1,7 +1,7 @@
 ---
 title: "Das Gleichnis vom faulen Holz"
 menu_title: ""
-description: "Das Gleichnis vom faulen Holz"
+description: "Judas, empfangen durch H.: „Natürlich gibt es noch viele weitere Beispiele für Gleichnisse, die Jesus benutzt hat, um seine Lehren zu verdeutlichen, und …“"
 date: 2020-08-01 06:25:48+00:254
 draft: False
 hidden: True

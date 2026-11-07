@@ -1,7 +1,7 @@
 ---
 title: "Eure Seelen dürsten nach Gottes Liebe"
 menu_title: ""
-description: "Eure Seelen dürsten nach Gottes Liebe"
+description: "Johannes, empfangen durch Elisabeth Mack: „Ich ermutige euch alle, von dieser Liebe zu trinken, von dieser Liebe, die euch erweckt und belebt, von dieser …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

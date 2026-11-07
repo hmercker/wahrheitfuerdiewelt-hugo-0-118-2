@@ -1,7 +1,7 @@
 ---
 title: "Der Grund, warum die Seele auf die Erde geboren wird"
 menu_title: ""
-description: "Der Grund, warum die Seele auf die Erde geboren wird"
+description: "Augustinus: „Ich freue mich, bei euch zu sein, und ich bringe euch und dir Alec große Liebe. Ich möchte mich bei euch bedanken für das, was ihr tut, und …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

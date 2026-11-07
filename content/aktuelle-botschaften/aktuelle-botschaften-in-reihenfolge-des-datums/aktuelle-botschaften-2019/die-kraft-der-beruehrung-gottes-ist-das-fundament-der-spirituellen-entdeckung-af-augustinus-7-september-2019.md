@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft der Berührung Gottes ist das Fundament der Spirituellen Entdeckung"
 menu_title: ""
-description: "Die Kraft der Berührung Gottes ist das Fundament der Spirituellen Entdeckung"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, lasst euch in den Frieden der Gegenwart Gottes nieder, der mit euch ist. Atmet den Atem Gottes ein …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

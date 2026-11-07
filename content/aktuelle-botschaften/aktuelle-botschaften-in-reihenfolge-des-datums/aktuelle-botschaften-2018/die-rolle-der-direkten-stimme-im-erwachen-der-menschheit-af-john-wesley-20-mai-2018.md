@@ -1,7 +1,7 @@
 ---
 title: "Die Rolle der Direkten Stimme im Erwachen der Menschheit"
 menu_title: ""
-description: "Die Rolle der Direkten Stimme im Erwachen der Menschheit"
+description: "John Wesley, empfangen durch Al Fike: „Möge Gott euch mit Seiner Liebe segnen. Ihr wurdet am Morgen (am Tag zuvor) Zeuge eines Ereignisses, das euch eine …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

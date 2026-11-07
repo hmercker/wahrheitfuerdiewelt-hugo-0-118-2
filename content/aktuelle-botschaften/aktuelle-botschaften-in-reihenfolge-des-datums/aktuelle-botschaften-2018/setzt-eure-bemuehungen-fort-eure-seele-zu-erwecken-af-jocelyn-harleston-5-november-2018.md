@@ -1,7 +1,7 @@
 ---
 title: "Setzt eure Bemühungen fort, eure Seele zu erwecken"
 menu_title: ""
-description: "Setzt eure Bemühungen fort, eure Seele zu erwecken"
+description: "Jocelyn Harleston, empfangen durch Al Fike: „Ich möchte mit meinem wunderschönen Freund und Schüler der Liebe Gottes sprechen. Geliebter Bruder, fahre fort …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

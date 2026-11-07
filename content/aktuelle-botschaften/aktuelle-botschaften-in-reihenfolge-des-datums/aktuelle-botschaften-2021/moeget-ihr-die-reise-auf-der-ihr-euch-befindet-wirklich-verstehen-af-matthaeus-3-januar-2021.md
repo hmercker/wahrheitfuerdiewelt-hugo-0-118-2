@@ -1,7 +1,7 @@
 ---
 title: "Möget Ihr die Reise, auf der Ihr Euch befindet, wirklich verstehen"
 menu_title: ""
-description: "Möget Ihr die Reise, auf der Ihr Euch befindet, wirklich verstehen"
+description: "Matthäus, empfangen durch Al Fike: „Geliebte Seelen, wie schön ihr alle seid! Natürlich werdet ihr eure Reise, euer Denken, die Ideen und Glaubenssätze …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

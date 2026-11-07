@@ -1,7 +1,7 @@
 ---
 title: "Gottes Gnade zulassen"
 menu_title: ""
-description: "Gottes Gnade zulassen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Im Fluss von Gottes Liebe, dem Ozean Seiner Gnade, dem lebendigen Wasser, lasst euch von der Strömung der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Was ihr gemeinsam schafft, nährt diese große Eiche "
 menu_title: ""
-description: "Was ihr gemeinsam schafft, nährt diese große Eiche "
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte für euch ein Bild malen, das den Prozess angemessen beschreiben mag, in dem ihr euch befindet und wie viele …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

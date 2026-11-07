@@ -1,7 +1,7 @@
 ---
 title: "Markus versichert, dass die Autoren wirklich die sind, für die sie sich ausgeben"
 menu_title: ""
-description: "Markus versichert, dass die Autoren wirklich die sind, für die sie sich ausgeben"
+description: "Markus, empfangen von James Padgett: „Lass deinen Glauben wachsen und deinen Glauben an die Tatsache, dass wir dir schreiben, wachsen, bis du keinen …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

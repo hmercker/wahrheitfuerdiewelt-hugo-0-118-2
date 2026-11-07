@@ -1,7 +1,7 @@
 ---
 title: "Mitgefühl für sich selbst und andere während des Seelenerwachens"
 menu_title: ""
-description: "Mitgefühl für sich selbst und andere während des Seelenerwachens"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Meine Lieben, bitte seid nicht hart zu euch selbst. Unser geliebter Augustinus hat eine großartige …“"
 date: 2020-08-01 06:25:48+00:253
 draft: False
 hidden: True

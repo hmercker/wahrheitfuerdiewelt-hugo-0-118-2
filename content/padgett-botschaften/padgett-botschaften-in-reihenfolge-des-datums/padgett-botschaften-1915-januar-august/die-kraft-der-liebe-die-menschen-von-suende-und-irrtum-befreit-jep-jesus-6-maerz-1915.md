@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft der Liebe, die Menschen von Sünde und Irrtum befreit"
 menu_title: ""
-description: "Die Kraft der Liebe, die Menschen von Sünde und Irrtum befreit"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte heute Abend über die Macht der Göttliche Liebe sprechen, ihre Macht die Menschen von Sünde und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

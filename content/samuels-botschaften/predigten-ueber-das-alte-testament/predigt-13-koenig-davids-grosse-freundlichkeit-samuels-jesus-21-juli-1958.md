@@ -1,7 +1,7 @@
 ---
 title: "Predigt 13 - König Davids große Freundlichkeit"
 menu_title: ""
-description: "Predigt 13 - König Davids große Freundlichkeit"
+description: "Jesus, empfangen durch Dr Samuels: „Ich habe euch von den Erzählungen im Alten Testament erzählt, in denen Gott als Gott der Liebe dargestellt wird, wenn …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

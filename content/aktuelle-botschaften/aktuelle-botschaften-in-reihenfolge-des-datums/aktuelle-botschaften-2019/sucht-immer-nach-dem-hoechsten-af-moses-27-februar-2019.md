@@ -1,7 +1,7 @@
 ---
 title: "Sucht immer nach dem Höchsten"
 menu_title: ""
-description: "Sucht immer nach dem Höchsten"
+description: "Moses, empfangen durch Al Fike: „Sucht immer nach dem Höchsten, nach dem größten Gut, den höchsten Segnungen. Die gnädigsten und schönsten Ergebnisse jeder …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

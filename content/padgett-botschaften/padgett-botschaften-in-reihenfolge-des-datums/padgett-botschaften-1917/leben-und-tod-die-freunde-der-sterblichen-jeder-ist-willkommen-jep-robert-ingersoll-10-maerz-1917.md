@@ -1,7 +1,7 @@
 ---
 title: "Leben und Tod, die Freunde der Sterblichen, jeder ist willkommen"
 menu_title: ""
-description: "Leben und Tod, die Freunde der Sterblichen, jeder ist willkommen"
+description: "Ingersoll, empfangen durch James Padgett: „Heute Abend bin ich ein sehr glückliches Wesen, und einer, der erkennt, dass \"es nicht das ganze Leben ist, um …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

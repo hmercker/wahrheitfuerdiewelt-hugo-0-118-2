@@ -1,7 +1,7 @@
 ---
 title: "Wir alle haben mächtige Heilungsfähigkeiten"
 menu_title: ""
-description: "Wir alle haben mächtige Heilungsfähigkeiten"
+description: "Mylora, empfangen durch Al Fike: „Ihr denkt nicht oft daran, dass ein Teil eurer Instrumente und des Plans, der entwickelt wird, darin besteht, die …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

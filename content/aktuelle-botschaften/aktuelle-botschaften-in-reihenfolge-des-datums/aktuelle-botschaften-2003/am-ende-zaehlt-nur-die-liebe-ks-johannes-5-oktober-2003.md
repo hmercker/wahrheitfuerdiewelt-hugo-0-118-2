@@ -1,7 +1,7 @@
 ---
 title: "Am Ende zählt nur die Liebe"
 menu_title: ""
-description: "Am Ende zählt nur die Liebe"
+description: "Johannes, empfangen durch Kathryn Stokes: „Danke für Deine Gaben und Segnungen. ...und dass Du einen guten Plan für Deine Kinder geschaffen hast, indem Du …“"
 date: 2020-08-01 06:25:48+00:279
 draft: False
 hidden: True

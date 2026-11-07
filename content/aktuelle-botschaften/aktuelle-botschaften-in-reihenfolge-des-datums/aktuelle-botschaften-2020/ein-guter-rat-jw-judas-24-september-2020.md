@@ -1,7 +1,7 @@
 ---
 title: "Ein guter Rat"
 menu_title: ""
-description: "Ein guter Rat"
+description: "Judas, empfangen durch Jimbeau Walsh: „Lass mich dir einen guten Rat geben, wie du dich auf einfache Art und Weise mit Gott verbindest, wie du Seine …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

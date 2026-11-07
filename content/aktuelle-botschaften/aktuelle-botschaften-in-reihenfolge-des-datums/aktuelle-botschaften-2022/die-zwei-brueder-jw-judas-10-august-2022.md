@@ -1,7 +1,7 @@
 ---
 title: "Die zwei Brüder"
 menu_title: ""
-description: "Die zwei Brüder"
+description: "Judas, empfangen durch Jimbeau Walsh: „Lasst mich euch die Geschichte der beiden Brüder erzählen. Beide hatten die Gabe der Medialität, Kanäle für Licht …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

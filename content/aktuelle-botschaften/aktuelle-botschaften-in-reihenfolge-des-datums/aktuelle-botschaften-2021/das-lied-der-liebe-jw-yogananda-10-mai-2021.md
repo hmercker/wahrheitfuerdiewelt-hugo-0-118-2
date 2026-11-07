@@ -1,7 +1,7 @@
 ---
 title: "Das Lied der Liebe"
 menu_title: ""
-description: "Das Lied der Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Während ihr in diesen Kreis des Lichts kommt, wird jeder von euch im Geist wiedergeboren, jede Seele wird in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

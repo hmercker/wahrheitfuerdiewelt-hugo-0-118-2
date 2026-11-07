@@ -1,7 +1,7 @@
 ---
 title: "Lektion über Glaube"
 menu_title: ""
-description: "Lektion über Glaube"
+description: "Orion, empfangen durch Al Fike: „Ihr reist auf der Straße, meine Freunde. Dieser Weg wird eher durch den Glauben als durch Einsicht und Wahrnehmung …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

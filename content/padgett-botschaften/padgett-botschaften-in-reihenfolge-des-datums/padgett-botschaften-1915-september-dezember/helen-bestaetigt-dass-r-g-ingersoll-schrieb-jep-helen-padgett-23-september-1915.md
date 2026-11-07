@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass R. G. Ingersoll schrieb"
 menu_title: ""
-description: "Helen bestätigt, dass R. G. Ingersoll schrieb"
+description: "Helen, empfangen durch James Padgett: „Ja, das war Ingersoll und er schrieb dir genau so, wie du seine Nachricht erhalten hast. Er studiert und betet, wie …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

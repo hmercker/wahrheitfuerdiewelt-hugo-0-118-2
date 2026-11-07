@@ -1,7 +1,7 @@
 ---
 title: "Der Prozess des spirituellen Erwachens"
 menu_title: ""
-description: "Der Prozess des spirituellen Erwachens"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Schöpfer und Liebender Vater, ich bete um ein Einströmen Deiner Göttlichen Liebe, um meine Seele zu erfüllen …“"
 date: 2020-08-01 06:25:48+00:190
 draft: False
 hidden: True

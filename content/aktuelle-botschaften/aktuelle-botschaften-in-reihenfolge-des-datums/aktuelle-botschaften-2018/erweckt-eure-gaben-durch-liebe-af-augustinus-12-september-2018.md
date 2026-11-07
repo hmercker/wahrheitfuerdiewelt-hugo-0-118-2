@@ -1,7 +1,7 @@
 ---
 title: "Erweckt eure Gaben durch Liebe"
 menu_title: ""
-description: "Erweckt eure Gaben durch Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Dies ist euer Lehrer, Augustinus. Heilungen, die eure Körper stärken, Gaben öffnen und Einsicht und Weisheit für die …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Samariter - Teil 1"
 menu_title: ""
-description: "Die Samariter - Teil 1"
+description: "Judas, empfangen durch H.: „Heute möchte ich auf ein historisches Thema zurückkommen. In der Tat werden wir über einige Teile der alttestamentlichen …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

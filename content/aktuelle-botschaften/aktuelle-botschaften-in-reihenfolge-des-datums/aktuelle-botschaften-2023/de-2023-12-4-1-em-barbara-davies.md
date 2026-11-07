@@ -1,7 +1,7 @@
 ---
 title: "Barbara teilt ihre Liebe"
 menu_title: ""
-description: "Barbara teilt ihre Liebe"
+description: "Barbara Davies, empfangen durch Elisabeth Mack: „Ich liebe euch von ganzem Herzen. Ich freue mich so sehr, heute hier bei euch zu sein.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Gaben und der Zweck jeder Seele"
 menu_title: ""
-description: "Die Gaben und der Zweck jeder Seele"
+description: "Samuel, empfangen durch Al Fike: „Der Hauptgrund für eine Seele sich in die Welt zu inkarnieren, besteht darin, dieser Seele eine Identität zu geben, eine …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

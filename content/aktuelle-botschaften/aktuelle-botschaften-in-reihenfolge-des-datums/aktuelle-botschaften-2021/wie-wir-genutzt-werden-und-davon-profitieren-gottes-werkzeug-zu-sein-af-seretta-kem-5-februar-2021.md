@@ -1,7 +1,7 @@
 ---
 title: "Wie wir genutzt werden und davon profitieren, Gottes Werkzeug zu sein"
 menu_title: ""
-description: "Wie wir genutzt werden und davon profitieren, Gottes Werkzeug zu sein"
+description: "Seretta Kem, empfangen durch Al Fike: „Heute haben wir euch versammelt, um ein Licht zu erschaffen, das der Welt und euch selbst zugutekommen wird.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

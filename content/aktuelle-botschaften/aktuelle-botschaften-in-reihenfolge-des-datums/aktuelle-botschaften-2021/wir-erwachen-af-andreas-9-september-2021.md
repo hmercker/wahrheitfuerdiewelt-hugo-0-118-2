@@ -1,7 +1,7 @@
 ---
 title: "Wir erwachen!"
 menu_title: ""
-description: "Wir erwachen!"
+description: "Andreas, empfangen durch Al Fike: „Wir sind alle zutiefst gesegnet mit euren Führern und eurer Präsenz in unserem Leben. Sie wurden speziell ausgewählt, um …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

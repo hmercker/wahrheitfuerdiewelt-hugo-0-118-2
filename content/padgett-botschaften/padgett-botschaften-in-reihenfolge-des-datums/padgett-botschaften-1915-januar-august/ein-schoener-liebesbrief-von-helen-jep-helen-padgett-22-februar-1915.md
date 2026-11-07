@@ -1,7 +1,7 @@
 ---
 title: "Ein schöner Liebesbrief von Helen"
 menu_title: ""
-description: "Ein schöner Liebesbrief von Helen"
+description: "Helen, empfangen durch James Padgett: „Ja, das bin ich wenn du mich brauchst und fühlst, dass ich deine eigene wahre Ehefrau bin.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

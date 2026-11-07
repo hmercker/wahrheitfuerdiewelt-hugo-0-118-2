@@ -1,7 +1,7 @@
 ---
 title: "Johannes versichert, dass Maria, die Mutter Jesu, geschrieben hat"
 menu_title: ""
-description: "Johannes versichert, dass Maria, die Mutter Jesu, geschrieben hat"
+description: "Johannes, empfangen durch James Padgett: „Nun, ich weiß, dass er eine Verabredung mit dir hatte, aber er hielt es für das Beste, sie nicht einzuhalten, und …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

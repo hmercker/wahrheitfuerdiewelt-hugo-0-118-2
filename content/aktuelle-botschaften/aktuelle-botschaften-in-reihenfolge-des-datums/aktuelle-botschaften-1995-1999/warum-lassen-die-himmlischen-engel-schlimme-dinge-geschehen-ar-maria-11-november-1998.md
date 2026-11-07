@@ -1,7 +1,7 @@
 ---
 title: "Warum lassen die Himmlischen Engel schlimme Dinge geschehen?"
 menu_title: ""
-description: "Warum lassen die Himmlischen Engel schlimme Dinge geschehen?"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater, ich werde versuchen, zu sehen, wie das mit den Engeln funktioniert.“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

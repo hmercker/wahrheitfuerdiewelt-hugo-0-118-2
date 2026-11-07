@@ -1,7 +1,7 @@
 ---
 title: "Mutter Erde heilen"
 menu_title: ""
-description: "Mutter Erde heilen"
+description: "Mylora, empfangen durch Al Fike: „Es ist mein Bestreben, Harmonie in eure Welt zu bringen. Das ist der Grund, warum ich gekommen bin.“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

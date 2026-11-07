@@ -1,7 +1,7 @@
 ---
 title: "Gottes Willen für euch kennen"
 menu_title: ""
-description: "Gottes Willen für euch kennen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Es ist schön, euch alle im Gebet versammelt zu sehen, eure ernsten Seelen, die zu Gott hinausgehen und Weisheit und …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

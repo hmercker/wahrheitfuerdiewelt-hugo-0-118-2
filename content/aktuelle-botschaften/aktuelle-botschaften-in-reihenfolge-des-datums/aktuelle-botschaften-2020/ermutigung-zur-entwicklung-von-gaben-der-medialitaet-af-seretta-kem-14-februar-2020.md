@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung zur Entwicklung von Gaben der Medialität"
 menu_title: ""
-description: "Ermutigung zur Entwicklung von Gaben der Medialität"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich habe mit diesem Instrument und anderen in vielen Formen der Entwicklung von Medialität und Wegen der …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

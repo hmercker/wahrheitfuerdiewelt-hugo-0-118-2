@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Licht in der Welt"
 menu_title: ""
-description: "Seid ein Licht in der Welt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Möge diese Liebe die eure sein, liebe kostbare Seelen, die auf der Suche nach Wahrheit sind und den höchsten Segen …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

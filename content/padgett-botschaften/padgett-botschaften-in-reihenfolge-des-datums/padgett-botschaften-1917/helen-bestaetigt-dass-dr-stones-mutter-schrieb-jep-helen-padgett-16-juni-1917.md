@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Dr. Stones Mutter schrieb"
 menu_title: ""
-description: "Helen bestätigt, dass Dr. Stones Mutter schrieb"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend einige schöne Botschaften erhalten, und in ihnen war viel Liebe, und ich war …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 5 : Warum Jesus nicht als Messias Gottes anerkannt wurde"
 menu_title: ""
-description: "Offenbarung 5 : Warum Jesus nicht als Messias Gottes anerkannt wurde"
+description: "Jesus, empfangen durch Dr Samuels: „Ich war bei euch, als ihr verschiedene Prophezeiungen und Begebenheiten aus dem Alten Testament, die den Messias …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

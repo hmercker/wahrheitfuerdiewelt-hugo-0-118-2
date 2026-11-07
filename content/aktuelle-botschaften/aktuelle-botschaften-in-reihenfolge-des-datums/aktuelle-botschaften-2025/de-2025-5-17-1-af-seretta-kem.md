@@ -1,7 +1,7 @@
 ---
 title: "Wenn verschiedene Aspekte unserer Seele erwachen, hat dies Auswirkungen darauf, wie die Kommunikation mit den Engeln abläuft"
 menu_title: ""
-description: "Wenn verschiedene Aspekte unserer Seele erwachen, hat dies Auswirkungen darauf, wie die Kommunikation mit den Engeln abläuft"
+description: "Seretta Kem, empfangen durch Al Fike: „Die Strukturen des Verstandes, wie sie sich im Laufe der menschlichen Evolution herausgebildet haben, stehen im …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus beschreibt die Seligkeit, die der Göttlichen Liebe entspringt"
 menu_title: ""
-description: "Jesus beschreibt die Seligkeit, die der Göttlichen Liebe entspringt"
+description: "Jesus, empfangen durch James Padgett: „Ich werde nur ein paar Zeilen schreiben. Ich möchte dir nur sagen, dass alles, was du heute Abend von deiner Frau …“"
 date: 2020-08-01 06:25:48+00:231
 draft: False
 hidden: True

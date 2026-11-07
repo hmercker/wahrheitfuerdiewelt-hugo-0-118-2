@@ -1,7 +1,7 @@
 ---
 title: "Wachsam bleiben"
 menu_title: ""
-description: "Wachsam bleiben"
+description: "George Gurdjieff, empfangen durch Jimbeau Walsh: „Betrachte mich als den spirituellen Großvater desjenigen, durch den ich spreche. Ich dachte, ich schaue …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

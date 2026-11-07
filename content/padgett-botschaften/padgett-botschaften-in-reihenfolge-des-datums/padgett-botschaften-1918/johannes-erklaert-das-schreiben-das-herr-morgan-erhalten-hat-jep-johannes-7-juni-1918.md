@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt das Schreiben, das Herr Morgan erhalten hat"
 menu_title: ""
-description: "Johannes erklärt das Schreiben, das Herr Morgan erhalten hat"
+description: "Johannes, empfangen durch James Padgett: „Lass mich eine Zeile schreiben. Ich war bei dir, als du die Botschaften gelesen hast, die dein Freund erhalten …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

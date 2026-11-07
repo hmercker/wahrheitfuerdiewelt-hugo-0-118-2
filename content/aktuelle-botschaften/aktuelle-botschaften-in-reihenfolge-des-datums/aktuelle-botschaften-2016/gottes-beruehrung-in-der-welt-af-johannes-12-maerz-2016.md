@@ -1,7 +1,7 @@
 ---
 title: "Gottes Berührung in der Welt"
 menu_title: ""
-description: "Gottes Berührung in der Welt"
+description: "Johannes, empfangen durch Al Fike: „Jeden Moment berührt Er euer Leben; Er führt den Weg ins Licht; Er öffnet Türen und Möglichkeiten.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 9 - Die falsche Lehre von der Reinkarnation - Band 2"
 menu_title: ""
-description: "Lektion 9 - Die falsche Lehre von der Reinkarnation - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Das Thema dieser Botschaft ist die Frage der Reinkarnation, ein Thema, das in euren spirituellen Kreisen und in den vielen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

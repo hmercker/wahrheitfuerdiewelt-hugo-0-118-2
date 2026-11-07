@@ -1,7 +1,7 @@
 ---
 title: "Symbole"
 menu_title: ""
-description: "Symbole"
+description: "Moses: „Ich segne euch, meine Kinder, Moses. Ich bringe euch große Liebe, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

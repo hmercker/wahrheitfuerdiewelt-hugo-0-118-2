@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid würdig"
 menu_title: ""
-description: "Ihr seid würdig"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich möchte jedem von euch bestätigen, dass ihr würdig seid. Würdig, die Liebe Gottes zu empfangen.“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erste formelle Nachricht von Dr. Stone's Vater, William Stone"
 menu_title: ""
-description: "Erste formelle Nachricht von Dr. Stone's Vater, William Stone"
+description: "William Stone, empfangen durch James Padgett: „Wenn er mir also ab und zu einen liebevollen, besorgten Gedanken schenkt, werde ich in der Lage sein, in …“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

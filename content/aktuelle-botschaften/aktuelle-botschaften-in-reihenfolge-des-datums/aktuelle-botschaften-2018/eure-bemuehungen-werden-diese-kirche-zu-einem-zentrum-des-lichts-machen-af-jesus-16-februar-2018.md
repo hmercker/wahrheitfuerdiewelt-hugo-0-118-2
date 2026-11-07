@@ -1,7 +1,7 @@
 ---
 title: "Eure Bemühungen werden diese Kirche zu einem Zentrum des Lichts machen"
 menu_title: ""
-description: "Eure Bemühungen werden diese Kirche zu einem Zentrum des Lichts machen"
+description: "Jesus, empfangen durch Al Fike: „Alle Seelen, die nach dem Höchsten streben, die von dem großen Segen der Liebe des Vaters wissen, sollen meinen Segen …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

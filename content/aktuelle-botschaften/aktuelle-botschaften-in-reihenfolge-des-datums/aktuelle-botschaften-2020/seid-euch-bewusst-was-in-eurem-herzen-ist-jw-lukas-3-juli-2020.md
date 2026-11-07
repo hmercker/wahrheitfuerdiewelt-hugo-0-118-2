@@ -1,7 +1,7 @@
 ---
 title: "Seid euch bewusst, was in eurem Herzen ist"
 menu_title: ""
-description: "Seid euch bewusst, was in eurem Herzen ist"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Ich spreche normalerweise nicht durch diesen lieben Bruder, aber da er mich in seinem Gebet erwähnt hatte, hörte ich …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

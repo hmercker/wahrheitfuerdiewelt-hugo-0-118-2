@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Eileen Caddy"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Eileen Caddy"
+description: "Aktuelle Botschaften empfangen von Eileen Caddy: „(Foto: © Findhorn Foundation) Eileen Caddy war eine Mystikerin, spirituelle Lehrerin, Autorin und …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

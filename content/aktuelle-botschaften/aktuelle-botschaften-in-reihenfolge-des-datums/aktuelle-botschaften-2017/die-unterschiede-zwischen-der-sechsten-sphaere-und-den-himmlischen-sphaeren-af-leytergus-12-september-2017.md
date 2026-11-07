@@ -1,7 +1,7 @@
 ---
 title: "Die Unterschiede zwischen der sechsten Sphäre und den himmlischen Sphären"
 menu_title: ""
-description: "Die Unterschiede zwischen der sechsten Sphäre und den himmlischen Sphären"
+description: "Leytergus, empfangen durch Al Fike: „Ihr wollt etwas von meiner Geschichte wissen. Ja, ich lebte in dem, was ihr den Nahen Osten nennt.“"
 date: 2020-08-01 06:25:48+00:108
 draft: False
 hidden: True

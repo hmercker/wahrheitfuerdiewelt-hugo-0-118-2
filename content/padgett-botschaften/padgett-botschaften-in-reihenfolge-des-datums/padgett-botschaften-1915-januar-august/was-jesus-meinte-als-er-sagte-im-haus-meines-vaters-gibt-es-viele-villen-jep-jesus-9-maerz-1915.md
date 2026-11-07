@@ -1,7 +1,7 @@
 ---
 title: "Was Jesus meinte, als er sagte: „Im Haus meines Vaters gibt es viele Villen.“"
 menu_title: ""
-description: "Was Jesus meinte, als er sagte: „Im Haus meines Vaters gibt es viele Villen.“"
+description: "Jesus, empfangen durch James Padgett: „Du bist heute Nacht in der Lage meine Nachricht fortzusetzen. Du musst verstehen, dass diese Göttliche Liebe eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

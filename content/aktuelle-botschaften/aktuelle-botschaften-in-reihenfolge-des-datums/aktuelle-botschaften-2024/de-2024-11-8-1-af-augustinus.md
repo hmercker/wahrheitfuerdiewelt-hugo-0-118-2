@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Licht und lasst euch nicht von der Dunkelheit und dem Aufruhr in der Welt einfangen"
 menu_title: ""
-description: "Seid ein Licht und lasst euch nicht von der Dunkelheit und dem Aufruhr in der Welt einfangen"
+description: "Augustinus, empfangen durch Al Fike: „Die Welt schmachtet weiterhin im Irrtum und in bedauernswerter Dunkelheit, wo die Bedingungen der Menschheit in …“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

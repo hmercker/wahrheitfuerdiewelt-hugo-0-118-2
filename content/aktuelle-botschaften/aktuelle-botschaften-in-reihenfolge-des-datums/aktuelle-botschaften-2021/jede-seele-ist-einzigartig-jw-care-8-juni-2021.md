@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele ist einzigartig"
 menu_title: ""
-description: "Jede Seele ist einzigartig"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich war heute bei euch und habe die Harmonie, die zwischen meiner Familie, sowohl biologisch als auch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die weise Seele kommt zu Gott"
 menu_title: ""
-description: "Die weise Seele kommt zu Gott"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr seid kostbare Seelen, jede einzelne kostbar, eine unbezahlbare Perle, ein schönes Licht in dieser Welt.“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

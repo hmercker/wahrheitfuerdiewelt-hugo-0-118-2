@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid die Morgenröte"
 menu_title: ""
-description: "Ihr seid die Morgenröte"
+description: "Maria, empfangen durch Jimbeau Walsh: „Wenn ihr als Mutter ein Kind in euch tragt, habt ihr, wenn ihr euch dessen bewusst seid, das Gefühl, etwas Heiliges …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

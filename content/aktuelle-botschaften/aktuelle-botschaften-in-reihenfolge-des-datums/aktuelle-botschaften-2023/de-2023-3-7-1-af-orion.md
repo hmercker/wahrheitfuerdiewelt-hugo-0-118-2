@@ -1,7 +1,7 @@
 ---
 title: "Mit der Göttlichen Liebe wird der Weg leichter"
 menu_title: ""
-description: "Mit der Göttlichen Liebe wird der Weg leichter"
+description: "Orion, empfangen durch Al Fike: „Ich sehe, wie eure Gebete weitreichend sind und mehr Licht in eure Welt bringen. Wir sehen, wie eure Wünsche, eure …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

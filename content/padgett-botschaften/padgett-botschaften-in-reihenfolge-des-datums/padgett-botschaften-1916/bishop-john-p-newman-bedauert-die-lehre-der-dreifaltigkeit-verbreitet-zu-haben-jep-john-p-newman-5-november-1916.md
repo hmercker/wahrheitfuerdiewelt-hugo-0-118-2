@@ -1,7 +1,7 @@
 ---
 title: "Bischof John P Newman bedauert, die Lehre der Dreifaltigkeit verbreitet zu haben"
 menu_title: ""
-description: "Bischof John P Newman bedauert, die Lehre der Dreifaltigkeit verbreitet zu haben"
+description: "John P. Newman, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen, weil ich sehr interessiert bin an den Wahrheiten in der Botschaft, die Lukas …“"
 date: 2020-08-01 06:25:48+00:260
 draft: False
 hidden: True

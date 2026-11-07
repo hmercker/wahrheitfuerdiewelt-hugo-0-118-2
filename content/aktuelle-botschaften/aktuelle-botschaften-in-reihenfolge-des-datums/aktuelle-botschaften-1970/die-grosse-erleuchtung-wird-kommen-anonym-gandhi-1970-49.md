@@ -1,7 +1,7 @@
 ---
 title: "Die große Erleuchtung wird kommen"
 menu_title: ""
-description: "Die große Erleuchtung wird kommen"
+description: "Gandhi: „Wenn der Mensch in Gottes Liebe so weit entwickelt ist, dass der Wunsch nach Grausamkeiten und falschen Taten ihn verlässt, dann wird es wahrlich …“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid die Zuhörer"
 menu_title: ""
-description: "Ihr seid die Zuhörer"
+description: "Matthäus, empfangen durch Al Fike: „Möge der Segen der Liebe des Vaters jeden von euch erreichen, eure Seelen offen und begierig, ihn zu empfangen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

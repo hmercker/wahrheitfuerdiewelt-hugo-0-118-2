@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Barnabas, dass Herr Padgett vom Meister auserwählt wurde"
 menu_title: ""
-description: "Bestätigung durch Barnabas, dass Herr Padgett vom Meister auserwählt wurde"
+description: "Barnabas, empfangen durch James Padgett: „Lasst mich ergänzen, was Stephanus geschrieben hat. Ich war nicht nur der Mitarbeiter von Paulus in Jerusalem …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

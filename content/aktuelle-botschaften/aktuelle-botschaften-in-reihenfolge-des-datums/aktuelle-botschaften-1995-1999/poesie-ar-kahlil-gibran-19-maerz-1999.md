@@ -1,7 +1,7 @@
 ---
 title: "Poesie"
 menu_title: ""
-description: "Poesie"
+description: "Kahlil Gibran, empfangen durch Amada Reza: „Die Macht der Liebe bindet die Seele an die Kräfte des Himmels und der Erde, das Band, das alles Lebendige und …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

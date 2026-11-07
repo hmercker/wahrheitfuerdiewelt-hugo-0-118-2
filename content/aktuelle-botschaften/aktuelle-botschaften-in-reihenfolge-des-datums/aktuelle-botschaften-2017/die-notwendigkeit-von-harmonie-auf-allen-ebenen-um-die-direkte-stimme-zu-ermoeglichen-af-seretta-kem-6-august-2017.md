@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit von Harmonie auf allen Ebenen, um die Direkte Stimme zu ermöglichen"
 menu_title: ""
-description: "Die Notwendigkeit von Harmonie auf allen Ebenen, um die Direkte Stimme zu ermöglichen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ist es nicht ein großer Segen, dass der Meister Jesus zu euch kommt, um euch mit seiner Liebe und Unterstützung bei …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit widersetzt sich weiterhin der Liebe und den heilenden Energien Gottes"
 menu_title: ""
-description: "Die Menschheit widersetzt sich weiterhin der Liebe und den heilenden Energien Gottes"
+description: "Orion, empfangen durch Al Fike: „Der Druck nimmt zu, meine Freunde. Gott bittet seine Kinder, sich zu verändern, auf seine Segnungen und die Energien, die …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seretta Kem's liebevolle Betrachtungen"
 menu_title: ""
-description: "Seretta Kem's liebevolle Betrachtungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Bei allem, was in euren Kreisen, euren Gesprächen, euren Bemühungen und euren Feiern geschehen ist, war alles von …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Verschwendet nicht den Segen, den ihr empfangt"
 menu_title: ""
-description: "Verschwendet nicht den Segen, den ihr empfangt"
+description: "Konfuzius, empfangen durch Al Fike: „Oh, ich sehe, die schönen Vögel haben sich wieder einmal versammelt, um Gott ihr Loblied zu singen.“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

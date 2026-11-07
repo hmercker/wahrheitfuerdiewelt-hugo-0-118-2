@@ -1,7 +1,7 @@
 ---
 title: "Geboren ohne Sünde"
 menu_title: ""
-description: "Geboren ohne Sünde"
+description: "Jesus, empfangen durch David Lampron: „Was das Thema betrifft, dass ich ohne Sünde geboren wurde, ist dies ein Thema, von dem ich weiß, dass es für viele …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 16 - Aufruf an alle Lichtbringer, beim Aufbau zu helfen - Band 2"
 menu_title: ""
-description: "Lektion 16 - Aufruf an alle Lichtbringer, beim Aufbau zu helfen - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Überall auf der Welt läuten in dieser Zeit Alarmglocken, jede einzelne Seele beginnt zu erkennen, dass nicht alles in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

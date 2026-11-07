@@ -1,7 +1,7 @@
 ---
 title: "Seelenqualitäten"
 menu_title: ""
-description: "Seelenqualitäten"
+description: "Amon, empfangen durch Jimbeau Walsh: „Ich gelte als die Mutter der Menschheit und kann daher alle Mütter und die nährenden Qualitäten des weiblichen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

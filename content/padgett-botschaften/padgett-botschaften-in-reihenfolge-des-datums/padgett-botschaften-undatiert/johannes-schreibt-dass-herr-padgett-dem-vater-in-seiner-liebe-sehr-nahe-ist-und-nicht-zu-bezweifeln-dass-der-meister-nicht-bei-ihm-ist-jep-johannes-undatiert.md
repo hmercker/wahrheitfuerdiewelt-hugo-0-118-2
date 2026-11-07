@@ -1,7 +1,7 @@
 ---
 title: "Johannes schreibt, dass Herr Padgett dem Vater in Seiner Liebe sehr nahe ist und nicht zu bezweifeln, dass der Meister nicht bei ihm ist"
 menu_title: ""
-description: "Johannes schreibt, dass Herr Padgett dem Vater in Seiner Liebe sehr nahe ist und nicht zu bezweifeln, dass der Meister nicht bei ihm ist"
+description: "Johannes, empfangen durch James Padgett: „Du bist die besondere Sorge des Meisters und musst glauben, was er sagt, denn was er sagt, ist wahr.“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

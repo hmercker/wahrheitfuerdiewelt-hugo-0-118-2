@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, dass Jesus bereits zum zweiten Mal gekommen ist"
 menu_title: ""
-description: "Johannes erklärt, dass Jesus bereits zum zweiten Mal gekommen ist"
+description: "Johannes, empfangen durch James Padgett: „Lass mich eine Zeile schreiben. Ich war heute Abend bei dir und hörte die Predigt des Predigers über das zweite …“"
 date: 2020-08-01 06:25:48+00:304
 draft: False
 hidden: True

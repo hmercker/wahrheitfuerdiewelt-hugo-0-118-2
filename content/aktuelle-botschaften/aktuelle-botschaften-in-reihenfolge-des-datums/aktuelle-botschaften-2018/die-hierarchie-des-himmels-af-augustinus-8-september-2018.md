@@ -1,7 +1,7 @@
 ---
 title: "Die Hierarchie des Himmels"
 menu_title: ""
-description: "Die Hierarchie des Himmels"
+description: "Augustinus, empfangen von Al Fike: „Ihr habt gefragt nach der ‘Hierarchie des Himmels’. Es gibt Wesen, von Gott erschaffene Engel, die nicht von der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gebet für unsere Welt"
 menu_title: ""
-description: "Gebet für unsere Welt"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, ihr schönen Kinder der Welt. Eure Erde und alles, was Gott auf dieser wunderschönen Sphäre im Universum …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

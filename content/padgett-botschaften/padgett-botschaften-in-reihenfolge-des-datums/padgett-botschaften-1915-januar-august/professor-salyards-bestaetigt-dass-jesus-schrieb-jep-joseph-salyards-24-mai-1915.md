@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards bestätigt, dass Jesus schrieb"
 menu_title: ""
-description: "Professor Salyards bestätigt, dass Jesus schrieb"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich würde dir gerne eine Folge meiner Abhandlung übermitteln, wenn dir im Moment danach ist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

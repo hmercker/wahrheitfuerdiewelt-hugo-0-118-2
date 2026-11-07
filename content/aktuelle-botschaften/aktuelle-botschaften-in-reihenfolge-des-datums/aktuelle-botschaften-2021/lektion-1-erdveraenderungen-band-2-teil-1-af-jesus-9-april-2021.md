@@ -1,7 +1,7 @@
 ---
 title: "Lektion 1 - Erdveränderungen und Seelenerwachen n - Band 2"
 menu_title: ""
-description: "Lektion 1 - Erdveränderungen und Seelenerwachen  - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Möge der höchste Segen Gottes über euch sein, Geliebte. Ja, eure Erde durchläuft einen großen Wandel.“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

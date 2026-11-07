@@ -1,7 +1,7 @@
 ---
 title: "Der Segen der Tragödie"
 menu_title: ""
-description: "Der Segen der Tragödie"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Meine Lieben, lasst uns für einen Moment die Welt hinter uns lassen. Lasst uns die Freiheit spüren.“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

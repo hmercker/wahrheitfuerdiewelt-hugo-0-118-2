@@ -1,7 +1,7 @@
 ---
 title: "Orions Buch kommt bald"
 menu_title: ""
-description: "Orions Buch kommt bald"
+description: "Orion, empfangen durch Al Fike: „Ich möchte die Ideen und Eindrücke dieses Instruments bestätigen, wie wir die Informationen, die wir der Welt geben …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

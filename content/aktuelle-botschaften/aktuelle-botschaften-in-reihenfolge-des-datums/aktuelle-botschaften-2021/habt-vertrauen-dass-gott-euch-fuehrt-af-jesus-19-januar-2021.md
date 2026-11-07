@@ -1,7 +1,7 @@
 ---
 title: "Habt Vertrauen, dass Gott euch führt"
 menu_title: ""
-description: "Habt Vertrauen, dass Gott euch führt"
+description: "Jesus, empfangen durch Al Fike: „Ich bitte euch eindringlich, die erforderlichen Anstrengungen zu unternehmen, um dieses Band des Lichts …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

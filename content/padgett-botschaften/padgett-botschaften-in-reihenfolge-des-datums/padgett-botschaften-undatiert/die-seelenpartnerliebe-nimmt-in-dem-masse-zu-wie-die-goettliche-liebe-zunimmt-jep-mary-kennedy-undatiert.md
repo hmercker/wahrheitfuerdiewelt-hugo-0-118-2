@@ -1,7 +1,7 @@
 ---
 title: "Die Seelenpartner-Liebe nimmt in dem Maße zu, wie die Göttliche Liebe zunimmt"
 menu_title: ""
-description: "Die Seelenpartner-Liebe nimmt in dem Maße zu, wie die Göttliche Liebe zunimmt"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich mache immer noch Fortschritte und habe mehr Liebe zum Vater als je zuvor, und folglich auch mehr Liebe zu …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

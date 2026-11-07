@@ -1,7 +1,7 @@
 ---
 title: "Großes Erbarmen für uns, die wir mit den Bedingungen der Welt leben"
 menu_title: ""
-description: "Großes Erbarmen für uns, die wir mit den Bedingungen der Welt leben"
+description: "Augustinus, empfangen durch Al Fike: „Dies ist euer Lehrer Augustinus. Ich weiß, dass viele von euch begierig darauf sind, euren Wunsch nach spirituellem …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

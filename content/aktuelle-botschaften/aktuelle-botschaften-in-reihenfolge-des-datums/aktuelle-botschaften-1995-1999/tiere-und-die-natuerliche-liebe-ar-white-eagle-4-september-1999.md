@@ -1,7 +1,7 @@
 ---
 title: "Tiere und die natürliche Liebe"
 menu_title: ""
-description: "Tiere und die natürliche Liebe"
+description: "White Eagle, empfangen durch Amada Reza: „[Lieber Gott, ich bete, offen zu sein für Deine Göttliche Liebe, die meine Seele erfüllt, damit sie meine …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

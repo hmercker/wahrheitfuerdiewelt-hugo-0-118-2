@@ -1,7 +1,7 @@
 ---
 title: "Als Ergebnis seiner Gespräche können sie viele spirituelle Wesen erreichen"
 menu_title: ""
-description: "Als Ergebnis seiner Gespräche können sie viele spirituelle Wesen erreichen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich habe die Frage des Doktors gehört. Ich möchte sagen, dass er durch seine Vorträge sehr viel Gutes tut …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

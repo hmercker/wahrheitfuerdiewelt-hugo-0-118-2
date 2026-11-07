@@ -1,7 +1,7 @@
 ---
 title: "Vermittelt sein tiefes Mitgefühl und seine Hingabe"
 menu_title: ""
-description: "Vermittelt sein tiefes Mitgefühl und seine Hingabe"
+description: "Orion, empfangen durch Al Fike: „Ich möchte über die Unterschiede zwischen dem Bewusstsein der Seele und dem des Verstandes, dem materiellen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

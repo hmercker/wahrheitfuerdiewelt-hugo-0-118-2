@@ -1,7 +1,7 @@
 ---
 title: "Schritt für Schritt, lerne deine Lektionen gut..."
 menu_title: ""
-description: "Schritt für Schritt, lerne deine Lektionen gut..."
+description: "Johannes, empfangen durch Kathryn Stokes: „Ich habe es versäumt, ihnen die Gelegenheit zu geben, ihre Gedanken durch mich zu übermitteln.“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

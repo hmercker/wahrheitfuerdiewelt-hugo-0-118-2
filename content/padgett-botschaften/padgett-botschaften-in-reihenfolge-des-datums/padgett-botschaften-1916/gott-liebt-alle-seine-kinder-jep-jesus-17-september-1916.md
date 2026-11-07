@@ -1,7 +1,7 @@
 ---
 title: "Gott liebt alle Seine Kinder"
 menu_title: ""
-description: "Gott liebt alle Seine Kinder"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Nacht mit dir beim Treffen und hörte, was der Prediger sagte, und er erklärte einige Wahrheiten.“"
 date: 2020-08-01 06:25:48+00:213
 draft: False
 hidden: True

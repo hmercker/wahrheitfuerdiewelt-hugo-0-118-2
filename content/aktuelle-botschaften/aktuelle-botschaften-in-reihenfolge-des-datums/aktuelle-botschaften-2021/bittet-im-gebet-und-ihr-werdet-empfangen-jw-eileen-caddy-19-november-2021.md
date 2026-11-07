@@ -1,7 +1,7 @@
 ---
 title: "Bittet im Gebet und ihr werdet empfangen"
 menu_title: ""
-description: "Bittet im Gebet und ihr werdet empfangen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ihr, die ihr als Gebetsgemeinschaft, als Vereinigung der Seelen zusammenkommt, kommt zusammen, um die Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

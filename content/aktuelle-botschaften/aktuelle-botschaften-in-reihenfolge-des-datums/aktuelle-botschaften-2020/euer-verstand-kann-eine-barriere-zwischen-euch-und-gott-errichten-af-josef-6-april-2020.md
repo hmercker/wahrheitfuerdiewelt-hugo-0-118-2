@@ -1,7 +1,7 @@
 ---
 title: "Euer Verstand kann eine Barriere zwischen euch und Gott errichten"
 menu_title: ""
-description: "Euer Verstand kann eine Barriere zwischen euch und Gott errichten"
+description: "Josef, empfangen durch Al Fike: „Geliebte Freunde, möge das große Licht und die Liebe Gottes ein Geschenk für eure Seele sein.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

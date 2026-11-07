@@ -1,7 +1,7 @@
 ---
 title: "Die Technologie von Orions Planet muss durch reine Absichten verdient werden"
 menu_title: ""
-description: "Die Technologie von Orions Planet muss durch reine Absichten verdient werden"
+description: "Orion, empfangen durch Al Fike: „Ja, es gibt viele Technologien und Erkenntnisse über die Funktionsweise des Universums, die der Menschheit gegeben werden …“"
 date: 2022-05-19 06:00:00+00:10
 draft: False
 hidden: True

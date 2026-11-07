@@ -1,7 +1,7 @@
 ---
 title: "Segen des Lichts für die Welt"
 menu_title: ""
-description: "Segen des Lichts für die Welt"
+description: "Jesus, Moses & Elias, empfangen durch Al Fike: „Viele sind in der Dunkelheit verloren und verstehen oder erkennen den Weg zum Licht nicht, aber in der Tat …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

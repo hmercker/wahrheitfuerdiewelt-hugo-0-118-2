@@ -1,7 +1,7 @@
 ---
 title: "Wachse in meiner Liebe"
 menu_title: ""
-description: "Wachse in meiner Liebe"
+description: "Judas, empfangen durch H.: „Entschuldigt, dass ich in deine freien Stunden eindringe. Aber ich habe etwas auf dem Herzen, das ich dir sofort mitteilen möchte.“"
 date: 2020-08-01 06:25:48+00:268
 draft: False
 hidden: True

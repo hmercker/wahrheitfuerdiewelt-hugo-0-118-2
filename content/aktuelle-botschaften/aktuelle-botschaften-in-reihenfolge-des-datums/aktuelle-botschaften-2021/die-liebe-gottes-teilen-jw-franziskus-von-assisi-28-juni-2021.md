@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes teilen"
 menu_title: ""
-description: "Die Liebe Gottes teilen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ihr wurdet darüber informiert, dass ihr zwar die Liebe Gottes empfangen könnt, aber Seine Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

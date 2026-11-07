@@ -1,7 +1,7 @@
 ---
 title: "Mary ist so glücklich, dass Dr. Stone jetzt ein Foto von ihr hat"
 menu_title: ""
-description: "Mary ist so glücklich, dass Dr. Stone jetzt ein Foto von ihr hat"
+description: "Mary, empfangen durch James Padgett: „Ich hörte seiner Mutter zu, als sie auf die Fotos schrieb und fühlte, dass das was sie sagte, wahr war und geglaubt …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

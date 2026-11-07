@@ -1,7 +1,7 @@
 ---
 title: "Paulus: Was ist der wirkliche Körper, der zum Zeitpunkt des physischen Todes auferweckt wird?"
 menu_title: ""
-description: "Paulus: Was ist der wirkliche Körper, der zum Zeitpunkt des physischen Todes auferweckt wird?"
+description: "Paulus, empfangen durch James Padgett: „Wenn du in der Lage bist, meine Botschaft zu empfangen, werde ich dir schreiben. Nun, das Thema ist: Was ist der …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

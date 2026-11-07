@@ -1,7 +1,7 @@
 ---
 title: "Johannes besucht oft die Gottesdienste mit Herrn Padgett"
 menu_title: ""
-description: "Johannes besucht oft die Gottesdienste mit Herrn Padgett"
+description: "Johannes, empfangen durch James Padgett: „Gordon) zu dem Thema seiner Predigt über den modernen Spiritualismus einnehmen wird. Wie er in der Versammlung am …“"
 date: 2020-08-01 06:25:48+00:235
 draft: False
 hidden: True

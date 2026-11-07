@@ -1,7 +1,7 @@
 ---
 title: "Johannes korrigiert das Bild vom Himmel"
 menu_title: ""
-description: "Johannes korrigiert das Bild vom Himmel"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend bei dir und habe die Predigt des Predigers über den Himmel und was er ist, gehört.“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

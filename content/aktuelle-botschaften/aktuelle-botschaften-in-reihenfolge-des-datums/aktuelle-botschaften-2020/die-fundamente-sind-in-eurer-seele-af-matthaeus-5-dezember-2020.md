@@ -1,7 +1,7 @@
 ---
 title: "Die Fundamente sind in eurer Seele"
 menu_title: ""
-description: "Die Fundamente sind in eurer Seele"
+description: "Matthäus, empfangen durch Al Fike: „Ich möchte jeden von euch ermutigen, in sich zu gehen und über eure eigenen Gaben, eure Bestimmung und die Führung …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

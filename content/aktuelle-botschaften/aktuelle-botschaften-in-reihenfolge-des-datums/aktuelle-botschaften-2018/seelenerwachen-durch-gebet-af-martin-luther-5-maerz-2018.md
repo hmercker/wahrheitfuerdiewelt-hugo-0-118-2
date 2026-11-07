@@ -1,7 +1,7 @@
 ---
 title: "Seelenerwachen durch Gebet"
 menu_title: ""
-description: "Seelenerwachen durch Gebet"
+description: "Martin Luther, empfangen durch Al Fike: „Mögen Gottes Segen und Liebe weiterhin in euch fließen, geliebte Seelen, und Seine Gnade euch durch eure Tage …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

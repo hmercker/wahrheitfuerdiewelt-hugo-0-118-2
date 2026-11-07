@@ -1,7 +1,7 @@
 ---
 title: "Salome"
 menu_title: ""
-description: "Salome"
+description: "Judas, empfangen durch H.: „Mein lieber H , heute ist nicht der Tag, um eine lange Nachricht zu überbringen. Du hast dich erkältet, und deine Kopfschmerzen …“"
 date: 2020-08-01 06:25:48+00:232
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dies ist euer Mandat"
 menu_title: ""
-description: "Dies ist euer Mandat"
+description: "Professor Salyards, empfangen durch Al Fike: „Das ist es, was ihr tun müsst, wenn ihr Menschen zusammenbringt: die Unterschiede akzeptieren, sie in Liebe …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

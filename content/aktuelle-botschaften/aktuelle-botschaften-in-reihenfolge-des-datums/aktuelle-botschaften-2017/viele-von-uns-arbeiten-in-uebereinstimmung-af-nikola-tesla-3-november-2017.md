@@ -1,7 +1,7 @@
 ---
 title: "Viele von uns arbeiten in Übereinstimmung"
 menu_title: ""
-description: "Viele von uns arbeiten in Übereinstimmung"
+description: "Nikola Tesla, empfangen durch Al Fike: „Ja, es gibt viele von uns, die gemeinsam daran arbeiten, euch bei diesen Unternehmungen zu helfen.“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

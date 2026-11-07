@@ -1,7 +1,7 @@
 ---
 title: "Lasst eure Seelen in Gottes Garten der Liebe wachsen"
 menu_title: ""
-description: "Lasst eure Seelen in Gottes Garten der Liebe wachsen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich kam mit meinem lieben Bruder Yogananda herein, da wir oft zusammen reisen. Er war sehr …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

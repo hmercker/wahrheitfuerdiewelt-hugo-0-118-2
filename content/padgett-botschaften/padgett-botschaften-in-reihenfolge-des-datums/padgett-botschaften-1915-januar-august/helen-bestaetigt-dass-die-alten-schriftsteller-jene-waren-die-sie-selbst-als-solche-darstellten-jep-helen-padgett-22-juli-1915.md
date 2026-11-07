@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass die alten Schriftsteller jene waren, die sie selbst als solche darstellten"
 menu_title: ""
-description: "Helen bestätigt, dass die alten Schriftsteller jene waren, die sie selbst als solche darstellten"
+description: "Helen, empfangen durch James Padgett: „Nun, du hattest heute Abend einige wunderbare Mitteilungen und ich weiß, dass du etwas verwirrt bist und einige …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Esau (Sohn von Isaak) bedauert, dass viele sich weigern, das Geschenk des Vaters anzunehmen"
 menu_title: ""
-description: "Esau (Sohn von Isaak) bedauert, dass viele sich weigern, das Geschenk des Vaters anzunehmen"
+description: "Esau, empfangen durch James Padgett: „Ich war der Sohn Isaaks und der Bruder Jakobs und derjenige, von dem die Juden annahmen, dass er sein …“"
 date: 2020-08-01 06:25:48+00:280
 draft: False
 hidden: True

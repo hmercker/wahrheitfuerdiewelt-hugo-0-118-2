@@ -1,7 +1,7 @@
 ---
 title: "Erfüllung als Attribut der Liebe"
 menu_title: ""
-description: "Erfüllung als Attribut der Liebe"
+description: "Jesus, empfangen durch Amada Reza: „Ich sehe, dass du offen bist, eine Botschaft zu empfangen, und ich freue mich, dass mir diese Gelegenheit gegeben wird …“"
 date: 2020-08-01 06:25:48+00:298
 draft: False
 hidden: True

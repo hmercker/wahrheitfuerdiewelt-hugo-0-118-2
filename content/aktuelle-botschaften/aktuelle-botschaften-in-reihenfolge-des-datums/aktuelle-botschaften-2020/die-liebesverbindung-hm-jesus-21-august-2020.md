@@ -1,7 +1,7 @@
 ---
 title: "Die Liebesverbindung"
 menu_title: ""
-description: "Die Liebesverbindung"
+description: "Jesus, empfangen durch Helge Mercker: „Ich möchte dir meine Liebe ausdrücken und dir die Gewissheit bringen, dass ich bei dir bin.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

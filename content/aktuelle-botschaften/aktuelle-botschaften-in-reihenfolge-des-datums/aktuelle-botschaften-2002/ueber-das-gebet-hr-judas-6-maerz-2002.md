@@ -1,7 +1,7 @@
 ---
 title: "Über das Gebet"
 menu_title: ""
-description: "Über das Gebet"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, in meiner letzten Botschaft habe ich dir erzählt, wie wir das Dorf Naym verlassen haben, und wie Jesus uns …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

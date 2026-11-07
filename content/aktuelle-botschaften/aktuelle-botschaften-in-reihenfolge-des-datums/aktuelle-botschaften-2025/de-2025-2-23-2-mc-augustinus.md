@@ -1,7 +1,7 @@
 ---
 title: "In der Realität der Seele existiert die Zeit nicht"
 menu_title: ""
-description: "In der Realität der Seele existiert die Zeit nicht"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Es ist euer Lehrer, Augustinus. Ihr fragt euch vielleicht, ob ich genug Zeit habe, um meine Aufgabe zu …“"
 date: 2025-03-01 06:00:00+00:10
 draft: False
 hidden: True

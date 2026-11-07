@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft der Liebe"
 menu_title: ""
-description: "Die Kraft der Liebe"
+description: "Lotus Blossom, empfangen durch Al Fike: „Ich heiße euch Geliebte willkommen. Die Welt ist der Liebe beraubt.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

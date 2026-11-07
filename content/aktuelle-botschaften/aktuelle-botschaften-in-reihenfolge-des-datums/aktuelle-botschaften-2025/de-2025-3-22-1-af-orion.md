@@ -1,7 +1,7 @@
 ---
 title: "Hindernisse bei der Kindererziehung überwinden"
 menu_title: ""
-description: "Hindernisse bei der Kindererziehung überwinden"
+description: "Orion, empfangen durch Al Fike: „Eure Welt ist voller Hindernisse und Barrieren, die euch davon abhalten, in Licht, Freude und Glück zu sein, etwas, das …“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

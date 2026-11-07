@@ -1,7 +1,7 @@
 ---
 title: "Fortschreiten von der fünften zur siebten Sphäre"
 menu_title: ""
-description: "Fortschreiten von der fünften zur siebten Sphäre"
+description: "Barbara Davies, empfangen durch Al Fike: „Möge Gott euch segnen, schöne Seelen. Ich möchte meine liebe Terry zu ihrem Einsatz in der Küche beglückwünschen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

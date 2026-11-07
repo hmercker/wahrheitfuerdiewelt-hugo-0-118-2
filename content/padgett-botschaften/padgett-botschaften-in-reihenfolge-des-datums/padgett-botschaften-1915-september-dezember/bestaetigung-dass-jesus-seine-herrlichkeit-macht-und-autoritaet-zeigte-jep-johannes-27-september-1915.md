@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung, dass Jesus seine Herrlichkeit, Macht und Autorität zeigte"
 menu_title: ""
-description: "Bestätigung, dass Jesus seine Herrlichkeit, Macht und Autorität zeigte"
+description: "Johannes, empfangen von James Padgett: „Ich weiß, es fällt dir schwer zu glauben, dass die Botschaft tatsächlich von Jesus kam, aber ich muss dir sagen …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

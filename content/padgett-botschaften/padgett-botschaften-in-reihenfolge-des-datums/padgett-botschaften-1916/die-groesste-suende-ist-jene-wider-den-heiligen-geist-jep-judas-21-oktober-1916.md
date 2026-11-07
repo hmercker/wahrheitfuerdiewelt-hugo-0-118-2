@@ -1,7 +1,7 @@
 ---
 title: "Die größte Sünde ist jene wider den Heiligen Geist"
 menu_title: ""
-description: "Die größte Sünde ist jene wider den Heiligen Geist"
+description: "Judas Iskariot, empfangen durch James Padgett: „Nun, für mich bedeutete während einer langen Zeit die größte Sünde des gesamten Universums Gottes mein …“"
 date: 2020-08-01 06:25:48+00:238
 draft: False
 hidden: True

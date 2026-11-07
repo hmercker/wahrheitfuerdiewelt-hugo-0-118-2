@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung durch Thomas"
 menu_title: ""
-description: "Bestätigung durch Thomas"
+description: "Thomas, empfangen durch James Padgett: „Sei offen für die Überzeugung, die ich und alle anderen der Jünger Jesu haben und sie dir schreiben als Zeugnis …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gebet und Antwort"
 menu_title: ""
-description: "Gebet und Antwort"
+description: "Maria, empfangen durch Amada Reza: „Es gibt viele Gründe, warum die Seele nach der höheren Hilfe sucht, die Gott Seinen Kindern in Seiner Liebe zu ihnen …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

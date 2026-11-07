@@ -1,7 +1,7 @@
 ---
 title: "Der Heilige Geist"
 menu_title: ""
-description: "Der Heilige Geist"
+description: "Augustinus, empfangen durch Al Fike: „Ich segne euch auf euren Reisen des Einsseins mit Gott. Denn wenn ihr diese Kräfte in euch vereint und sie auf Gott …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Du musst der Realität deines eigenen Zustands bewusst werden"
 menu_title: ""
-description: "Du musst der Realität deines eigenen Zustands bewusst werden"
+description: "Augustinus, empfangen durch Al Fike: „Ich kann dieser Gelegenheit nicht widerstehen, um zu euch über eure Entscheidungen und die Macht eures eigenen freien …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

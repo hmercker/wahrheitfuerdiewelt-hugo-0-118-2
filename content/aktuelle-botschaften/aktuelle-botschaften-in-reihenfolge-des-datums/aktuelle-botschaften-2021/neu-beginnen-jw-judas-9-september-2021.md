@@ -1,7 +1,7 @@
 ---
 title: "Neu beginnen"
 menu_title: ""
-description: "Neu beginnen"
+description: "Judas, empfangen durch Jimbeau Walsh: „Dies ist eine gute Zeit, um neu anzufangen, den Kurs zu ändern und im Glauben zu gehen. Nach Gottes Willen soll …“"
 date: 2022-01-27 06:25:48+00:73
 draft: False
 hidden: True

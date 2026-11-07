@@ -1,7 +1,7 @@
 ---
 title: "Der Zustand eurer Seele"
 menu_title: ""
-description: "Der Zustand eurer Seele"
+description: "Judas, empfangen durch Jimbeau Walsh: „Brüder und Schwestern, ihr, die ihr gekommen seid, um in der Liebe Gottes zu sein, und euch die Zeit genommen habt …“"
 date: 2025-07-06 06:00:00+00:00
 draft: False
 hidden: True

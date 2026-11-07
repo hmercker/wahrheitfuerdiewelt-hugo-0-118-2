@@ -1,7 +1,7 @@
 ---
 title: "Weltweit werden Gruppen zum Beten zusammengebracht"
 menu_title: ""
-description: "Weltweit werden Gruppen zum Beten zusammengebracht"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie ihr bereits geahnt habt, werdet ihr euch vielen anderen Gruppen auf der Welt anschließen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

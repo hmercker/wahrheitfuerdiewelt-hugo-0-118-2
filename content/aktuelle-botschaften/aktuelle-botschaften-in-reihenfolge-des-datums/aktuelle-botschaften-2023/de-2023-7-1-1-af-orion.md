@@ -1,7 +1,7 @@
 ---
 title: "Fortgesetztes Seelenerwachen"
 menu_title: ""
-description: "Fortgesetztes Seelenerwachen"
+description: "Orion, empfangen durch Al Fike: „Ihr habt erkannt, dass ihr bestimmte Grenzen habt, die geheilt und gelöst werden müssen. Aber ihr habt auch die Bande …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

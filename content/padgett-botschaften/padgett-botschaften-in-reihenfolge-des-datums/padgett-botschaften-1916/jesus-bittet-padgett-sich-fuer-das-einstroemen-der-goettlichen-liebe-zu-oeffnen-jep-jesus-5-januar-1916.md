@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, sich für das Einströmen der Göttlichen Liebe zu öffnen"
 menu_title: ""
-description: "Jesus bittet Padgett, sich für das Einströmen der Göttlichen Liebe zu öffnen"
+description: "Jesus, empfangen durch James Padgett: „Ich freue mich, dass die Entwicklung deiner Seele solche Fortschritte macht. Öffne dich weiter für die Göttliche …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

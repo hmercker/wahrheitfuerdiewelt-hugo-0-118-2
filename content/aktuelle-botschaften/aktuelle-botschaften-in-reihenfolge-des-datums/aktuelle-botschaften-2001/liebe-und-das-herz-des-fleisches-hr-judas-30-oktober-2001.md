@@ -1,7 +1,7 @@
 ---
 title: "Liebe und das Herz des Fleisches"
 menu_title: ""
-description: "Liebe und das Herz des Fleisches"
+description: "Judas, empfangen durch H.: „Dies scheint eine Binsenweisheit zu sein, aber es ist die tiefste Wahrheit. Es lohnt sich, sie über eine Million Mal zu …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kennt euren Zweck"
 menu_title: ""
-description: "Kennt euren Zweck"
+description: "Jakobus, empfangen durch Al Fike: „Ein Leben voller Sinn zu leben, bedeutet, ein reiches und erfülltes Leben zu leben. Wenn dieser Sinn und Zweck aus der …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

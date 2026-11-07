@@ -1,7 +1,7 @@
 ---
 title: "Reagiert in Liebe und Mitgefühl, wenn ihr verleumdet werdet"
 menu_title: ""
-description: "Reagiert in Liebe und Mitgefühl, wenn ihr verleumdet werdet"
+description: "Orion, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen eindringen und die kostbaren Teile eures Wesens erwecken, die zarten …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

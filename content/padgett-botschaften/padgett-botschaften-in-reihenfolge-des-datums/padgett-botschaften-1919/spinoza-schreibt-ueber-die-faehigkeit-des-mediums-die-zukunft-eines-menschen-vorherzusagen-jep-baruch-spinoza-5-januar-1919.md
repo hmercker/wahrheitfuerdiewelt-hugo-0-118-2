@@ -1,7 +1,7 @@
 ---
 title: "Spinoza schreibt über die Fähigkeit des Mediums, die Zukunft eines Menschen vorherzusagen"
 menu_title: ""
-description: "Spinoza schreibt über die Fähigkeit des Mediums, die Zukunft eines Menschen vorherzusagen"
+description: "Baruch Spinoza 1, empfangen durch James Padgett: „Nun, ich möchte nur ein paar Worte zu den Vorhersagen sagen, die du heute Abend gehört hast, und was die …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

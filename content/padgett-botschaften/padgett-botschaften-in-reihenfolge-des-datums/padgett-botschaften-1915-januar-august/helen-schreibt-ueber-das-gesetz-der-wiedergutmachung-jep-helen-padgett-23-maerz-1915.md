@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über das Gesetz der Wiedergutmachung"
 menu_title: ""
-description: "Helen schreibt über das Gesetz der Wiedergutmachung"
+description: "Helen, empfangen durch James Padgett: „Du hast nicht gedacht, dass ich die Ankündigung meines Kommens ändern könnte, aber du musst wissen, dass ich alles …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

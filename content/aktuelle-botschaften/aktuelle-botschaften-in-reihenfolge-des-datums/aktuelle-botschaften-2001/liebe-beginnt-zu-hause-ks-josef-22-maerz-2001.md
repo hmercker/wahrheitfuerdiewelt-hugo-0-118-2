@@ -1,7 +1,7 @@
 ---
 title: "Liebe beginnt zu Hause"
 menu_title: ""
-description: "Liebe beginnt zu Hause"
+description: "Josef, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, danke für all die vielen Segnungen, die Du uns jeden Tag gewährst.“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

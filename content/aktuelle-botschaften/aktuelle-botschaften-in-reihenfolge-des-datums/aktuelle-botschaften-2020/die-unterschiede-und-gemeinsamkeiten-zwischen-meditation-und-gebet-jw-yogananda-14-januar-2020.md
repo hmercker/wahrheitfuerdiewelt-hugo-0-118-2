@@ -1,7 +1,7 @@
 ---
 title: "Die Unterschiede und Gemeinsamkeiten zwischen Meditation und Gebet"
 menu_title: ""
-description: "Die Unterschiede und Gemeinsamkeiten zwischen Meditation und Gebet"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte die Unterschiede und Gemeinsamkeiten von Meditation und Gebet erklären. Diese Dinge trennen sich …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

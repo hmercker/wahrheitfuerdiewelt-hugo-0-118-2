@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe des Vaters ist der Schlüssel zum Reich Gottes"
 menu_title: ""
-description: "Die Liebe des Vaters ist der Schlüssel zum Reich Gottes"
+description: "Jesus, empfangen durch James Padgett: „Nun, ich werde über das Thema schreiben: Über das Schicksal des Menschen, der nicht die göttliche Liebe in seiner …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

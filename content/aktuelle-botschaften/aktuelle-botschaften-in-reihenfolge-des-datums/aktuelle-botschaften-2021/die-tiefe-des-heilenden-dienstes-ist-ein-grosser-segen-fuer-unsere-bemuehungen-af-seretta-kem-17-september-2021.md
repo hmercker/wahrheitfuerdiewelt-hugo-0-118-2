@@ -1,7 +1,7 @@
 ---
 title: "Die Tiefe des heilenden Dienstes ist ein großer Segen für unsere Bemühungen"
 menu_title: ""
-description: "Die Tiefe des heilenden Dienstes ist ein großer Segen für unsere Bemühungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir sind dabei, viele Giftstoffe, Blockaden und dunkle Aspekte der Energien in euch zu klären.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

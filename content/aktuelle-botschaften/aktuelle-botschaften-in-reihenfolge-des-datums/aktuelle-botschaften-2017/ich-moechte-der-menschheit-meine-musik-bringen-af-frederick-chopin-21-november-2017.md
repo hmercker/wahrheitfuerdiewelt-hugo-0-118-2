@@ -1,7 +1,7 @@
 ---
 title: "Ich möchte der Menschheit meine Musik bringen"
 menu_title: ""
-description: "Ich möchte der Menschheit meine Musik bringen"
+description: "Frederic Chopin, empfangen durch Al Fike: „Auch ich möchte der Menschheit Musik bringen. Ich habe noch viele weitere Kompositionen, die ich der Menschheit …“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Frage über die 7. Sphäre"
 menu_title: ""
-description: "Eine Frage über die 7. Sphäre"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte dir danken, meine Tochter, dass du diesem Instrument den Weg zur Ruhe gewiesen hast.“"
 date: 2020-08-01 06:25:48+00:183
 draft: False
 hidden: True

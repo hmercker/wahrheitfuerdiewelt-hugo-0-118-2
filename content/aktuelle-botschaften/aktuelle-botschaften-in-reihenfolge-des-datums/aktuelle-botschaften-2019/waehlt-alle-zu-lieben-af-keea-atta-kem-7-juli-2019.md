@@ -1,7 +1,7 @@
 ---
 title: "Wählt, alle zu lieben"
 menu_title: ""
-description: "Wählt, alle zu lieben"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich möchte über die Wichtigkeit der Harmonie in euren Lichtkreisen sprechen. Gott bringt viele verschiedene …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

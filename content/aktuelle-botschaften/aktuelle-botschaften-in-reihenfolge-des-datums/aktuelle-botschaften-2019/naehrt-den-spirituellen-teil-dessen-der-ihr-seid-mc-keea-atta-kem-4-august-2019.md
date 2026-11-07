@@ -1,7 +1,7 @@
 ---
 title: "Nährt den spirituellen Teil dessen, der ihr seid"
 menu_title: ""
-description: "Nährt den spirituellen Teil dessen, der ihr seid"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Ich schließe mich euch aus den Göttlichen Himmeln an. Es gibt auch andere himmlische Engel, die hier mit …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

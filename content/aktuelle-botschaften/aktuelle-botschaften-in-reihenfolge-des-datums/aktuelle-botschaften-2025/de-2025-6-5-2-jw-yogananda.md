@@ -1,7 +1,7 @@
 ---
 title: "Führung wird im Glauben gegeben"
 menu_title: ""
-description: "Führung wird im Glauben gegeben"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich heiße euch in diesem Kreis, diesem Gebet der Göttlichen Liebe, diesem Yoga der Göttlichen Liebe willkommen.“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

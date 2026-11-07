@@ -1,7 +1,7 @@
 ---
 title: "Helen wünscht, dass Herr Padgett bereit ist, die Botschaft des Meisters zu empfangen und dass er über Seelenpartner schreiben wird"
 menu_title: ""
-description: "Helen wünscht, dass Herr Padgett bereit ist, die Botschaft des Meisters zu empfangen und dass er über Seelenpartner schreiben wird"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, der Meister hat dir gerade geschrieben und er war sehr daran interessiert, was du zu tun gedenkst.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

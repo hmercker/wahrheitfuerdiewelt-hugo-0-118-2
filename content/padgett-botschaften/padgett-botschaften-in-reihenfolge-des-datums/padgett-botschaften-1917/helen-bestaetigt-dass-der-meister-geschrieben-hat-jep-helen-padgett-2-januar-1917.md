@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass der Meister geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass der Meister geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Oh, mein Liebster, wie froh bin ich, dass der Meister dir geschrieben hat. Wenn du ihn nur gesehen hättest, als er …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Was Menschen glauben sollten, um wieder der vollkommene Mensch zu werden"
 menu_title: ""
-description: "Jesus: Was Menschen glauben sollten, um wieder der vollkommene Mensch zu werden"
+description: "Jesus, empfangen durch James Padgett: „Lass mich heute Abend eine Weile schreiben, denn ich wünsche mir sehr, wieder mit dir in Verbindung zu treten in …“"
 date: 2020-08-01 06:25:48+00:284
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "In Demut dienen"
 menu_title: ""
-description: "In Demut dienen"
+description: "Augustinus, empfangen durch Al Fike: „Erinnert ihr euch an die Geschichte eures Bruders Jesus, der durch das Land ging und die Wahrheit der Göttlichen …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

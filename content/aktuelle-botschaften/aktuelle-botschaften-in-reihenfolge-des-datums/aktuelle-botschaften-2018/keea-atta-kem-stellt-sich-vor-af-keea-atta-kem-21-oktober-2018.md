@@ -1,7 +1,7 @@
 ---
 title: "Keea Atta Kem stellt sich vor"
 menu_title: ""
-description: "Keea Atta Kem stellt sich vor"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ihr seid alle, Geliebte, in diesen Kreis gezogen worden, um Gemeinschaft und Freundschaft und Verbindung …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

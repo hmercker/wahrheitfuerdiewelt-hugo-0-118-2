@@ -1,7 +1,7 @@
 ---
 title: "Seine Erfahrung als Ergebnis des Glaubens eines spirituellen Wesens an das stellvertretende Sühneopfer"
 menu_title: ""
-description: "Seine Erfahrung als Ergebnis des Glaubens eines spirituellen Wesens an das stellvertretende Sühneopfer"
+description: "G.W.H., Helen's Vater, empfangen durch James Padgett: „Ich möchte ein paar Zeilen schreiben, da mich das Gespräch, das ich gehört habe, sehr interessiert …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

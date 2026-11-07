@@ -1,7 +1,7 @@
 ---
 title: "Von der Liebe Gottes geführt zu werden"
 menu_title: ""
-description: "Von der Liebe Gottes geführt zu werden"
+description: "Augustinus: „Wie viel mehr hätten wir auf der Erde tun können, wenn wir mehr Verständnis hätten. Es ist schwer für den Menschen auf der Erde zu erkennen …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sehr bald werden christliche Spiritualisten große Anstrengungen unternehmen, um die Wahrheit zu verbreiten"
 menu_title: ""
-description: "Sehr bald werden christliche Spiritualisten große Anstrengungen unternehmen, um die Wahrheit zu verbreiten"
+description: "Johannes, empfangen von James Padgett: „Ich werde nicht lange schreiben und möchte nur sagen, dass du weiterhin Glauben haben und beten musst.“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Begrüßung"
 menu_title: ""
-description: "Eine Begrüßung"
+description: "Paulus: „Ich bringe ein großes Gefühl der Zuneigung für euch alle hierher, meine Freunde. Zu euch zu kommen, mit euch in dieser wunderbaren Stunde zusammen …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

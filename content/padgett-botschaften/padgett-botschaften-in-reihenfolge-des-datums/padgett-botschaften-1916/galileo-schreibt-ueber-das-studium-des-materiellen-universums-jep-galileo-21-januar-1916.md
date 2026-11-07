@@ -1,7 +1,7 @@
 ---
 title: "Galileo schreibt über das Studium des materiellen Universums"
 menu_title: ""
-description: "Galileo schreibt über das Studium des materiellen Universums"
+description: "Galileo 1, empfangen durch James Padgett: „Als ich auf der Erde war, dachte ich, dass meine Erfindung des Teleskops eine wunderbare Sache sei und dass sie …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

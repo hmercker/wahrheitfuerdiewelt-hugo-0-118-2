@@ -1,7 +1,7 @@
 ---
 title: "Die Barrieren in uns, die durch den Konflikt zwischen unserem Verstand und unserer Seele verursacht werden"
 menu_title: ""
-description: "Die Barrieren in uns, die durch den Konflikt zwischen unserem Verstand und unserer Seele verursacht werden"
+description: "Orion, empfangen durch Al Fike: „Möge der Segen der Liebe Gottes weiterhin in eure Seelen fließen und euch erwecken, wie es sein muss.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

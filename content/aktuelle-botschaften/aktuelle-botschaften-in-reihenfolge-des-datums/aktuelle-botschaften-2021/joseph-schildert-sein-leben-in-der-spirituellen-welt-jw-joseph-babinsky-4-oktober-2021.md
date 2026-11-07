@@ -1,7 +1,7 @@
 ---
 title: "Joseph schildert sein Leben in der spirituellen Welt"
 menu_title: ""
-description: "Joseph schildert sein Leben in der spirituellen Welt"
+description: "Joseph Babinsky, empfangen durch Jimbeau Walsh: „Als ich merkte, dass meine Zeit kurz war, bewertete ich mein Leben, meinen Weg, die Bücher, die ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

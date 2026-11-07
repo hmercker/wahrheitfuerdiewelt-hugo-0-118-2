@@ -1,7 +1,7 @@
 ---
 title: "Der Konflikt zwischen dem Verstand und der Seele"
 menu_title: ""
-description: "Der Konflikt zwischen dem Verstand und der Seele"
+description: "Augustinus, empfangen durch Al Fike: „Erkennt ihr euer doppeltes Selbst ? Das eine, das menschlich ist, und das andere, das eure Seele ist?“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Vorstellungen und Ideen von Menschen schaffen Unwahrheiten und Fehlinterpretationen"
 menu_title: ""
-description: "Die Vorstellungen und Ideen von Menschen schaffen Unwahrheiten und Fehlinterpretationen"
+description: "Joseph Smith, empfangen durch Al Fike: „Ich befinde mich jetzt im Göttlichen Himmel. Ich habe die Wahrheit der göttlichen Liebe angenommen und obwohl ich …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

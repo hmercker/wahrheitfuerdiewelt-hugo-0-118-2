@@ -1,7 +1,7 @@
 ---
 title: "Wir sind immer noch bei euch für eure Entwicklung"
 menu_title: ""
-description: "Wir sind immer noch bei euch für eure Entwicklung"
+description: "Orion, empfangen durch Al Fike: „Es gibt noch viel zu tun, geliebte Seelen, und alles, was ihr gemeinsam in dieser Vereinigung der Seelen mit einem …“"
 date: 2022-05-28 06:00:00+00:10
 draft: False
 hidden: True

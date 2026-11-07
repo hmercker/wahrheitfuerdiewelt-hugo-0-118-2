@@ -1,7 +1,7 @@
 ---
 title: "Die Reise des Herzens ist wirklich die Reise der Seele"
 menu_title: ""
-description: "Die Reise des Herzens ist wirklich die Reise der Seele"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn das Herz betrübt ist, ist der Weg zur Seele verschlossen. Diejenigen, die missbraucht wurden oder denen das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Zeiten der großen Veränderung liegen vor uns"
 menu_title: ""
-description: "Die Zeiten der großen Veränderung liegen vor uns"
+description: "Jesus, empfangen durch Al Fike: „Es wird Schwierigkeiten, Hindernisse, Probleme aller Art geben, die mit diesen Veränderungen kommen werden.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

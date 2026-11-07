@@ -1,7 +1,7 @@
 ---
 title: "Wie fühlt ihr euch?"
 menu_title: ""
-description: "Wie fühlt ihr euch?"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Dieser wunderbare Lichtkreis wird immer größer und größer, nicht nur auf der Erdebene, sondern auch in den …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus bringt seinen Segen zur Gruppe "
 menu_title: ""
-description: "Jesus bringt seinen Segen zur Gruppe "
+description: "Jesus, empfangen durch Al Fike: „Wenn ihr fortfahrt, die Liebe des Vaters zu suchen und von all den Wundern und Herrlichkeiten dieser Liebe zu erfahren.“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

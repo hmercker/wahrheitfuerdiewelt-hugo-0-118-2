@@ -1,7 +1,7 @@
 ---
 title: "Jetzt ist die Zeit zum Handeln gekommen"
 menu_title: ""
-description: "Jetzt ist die Zeit zum Handeln gekommen"
+description: "Augustinus, empfangen durch Al Fike: „Die Zeit, sich zurückzulehnen und zuzusehen, wie die Welt vergeht, ist vorbei. Denn jeder von euch wird gebraucht, um …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

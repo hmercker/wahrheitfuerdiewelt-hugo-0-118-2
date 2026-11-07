@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist der Weg zur Heilung der Welt"
 menu_title: ""
-description: "Die Göttliche Liebe ist der Weg zur Heilung der Welt"
+description: "Augustinus, empfangen durch Al Fike: „Ich werde mit den Seelen beginnen, denn alle Anfänge sind mit der Seele. Die Seele wird mit vielen Potentialen in die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

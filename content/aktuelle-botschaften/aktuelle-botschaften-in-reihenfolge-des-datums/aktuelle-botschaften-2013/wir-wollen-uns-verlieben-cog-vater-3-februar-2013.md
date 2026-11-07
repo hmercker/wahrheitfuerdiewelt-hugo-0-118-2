@@ -1,7 +1,7 @@
 ---
 title: "Wir wollen uns verlieben"
 menu_title: ""
-description: "Wir wollen uns verlieben"
+description: "Vater, empfangen durch Child of God: „Leg deinen Verstand beiseite und wende dich Mir zu. Du bist die wunderbarste unter all meinen Schöpfungen.“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

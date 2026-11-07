@@ -1,7 +1,7 @@
 ---
 title: "Steht auf und lasst euch zählen - Teil 1"
 menu_title: ""
-description: "Steht auf und lasst euch zählen - Teil 1"
+description: "Judas, empfangen durch H.: „In letzter Zeit war dein Zustand nicht so gut, aber du hast Recht, dass ich vor ein paar Tagen versucht habe, dich mit einer …“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

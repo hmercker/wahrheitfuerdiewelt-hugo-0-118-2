@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit über die Höllen"
 menu_title: ""
-description: "Die Wahrheit über die Höllen"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich die Botschaft, die du gelesen hast, und die Bemerkungen deines Freundes und deiner …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

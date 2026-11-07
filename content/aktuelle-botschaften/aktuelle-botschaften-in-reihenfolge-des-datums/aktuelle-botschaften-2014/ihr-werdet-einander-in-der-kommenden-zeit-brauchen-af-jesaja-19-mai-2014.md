@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet einander in der kommenden Zeit brauchen"
 menu_title: ""
-description: "Ihr werdet einander in der kommenden Zeit brauchen"
+description: "Jesaja, empfangen durch Al Fike: „Geliebte Kinder, Träger der Liebe des Vaters im Inneren. Meine lieben süßen Seelen, dies ist so wichtig.“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

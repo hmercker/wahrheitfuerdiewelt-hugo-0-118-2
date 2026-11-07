@@ -1,7 +1,7 @@
 ---
 title: "Würdigung des Buches 'For the Love of His Creation'"
 menu_title: ""
-description: "Würdigung des Buches 'For the Love of His Creation'"
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Und ich spreche aus Erfahrung, denn obwohl ich ein weltlicher Mensch war, doch als ich mich den Engeln …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

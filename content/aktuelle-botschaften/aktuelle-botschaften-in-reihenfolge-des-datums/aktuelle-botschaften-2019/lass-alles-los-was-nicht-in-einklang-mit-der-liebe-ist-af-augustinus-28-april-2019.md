@@ -1,7 +1,7 @@
 ---
 title: "Lass alles los, was nicht in Einklang mit der Liebe ist"
 menu_title: ""
-description: "Lass alles los, was nicht in Einklang mit der Liebe ist"
+description: "Augustinus, empfangen durch Al Fike: „Es kommen herausfordernde Bedingungen auf euch zu, da die Veränderungen in der Welt weiter zunehmen und die …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Bittet den Vater, eure Seelen zu öffnen"
 menu_title: ""
-description: "Bittet den Vater, eure Seelen zu öffnen"
+description: "Keea Atta Kem: „Wir kommen zu euch, um euch den Weg zu zeigen, damit ihr die Freude und das Glück und das Beste von uns allen auf diesen Ebenen haben könnt.“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

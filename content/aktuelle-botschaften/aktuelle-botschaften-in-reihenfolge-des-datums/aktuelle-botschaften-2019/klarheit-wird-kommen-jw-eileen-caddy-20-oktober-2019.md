@@ -1,7 +1,7 @@
 ---
 title: "Klarheit wird kommen"
 menu_title: ""
-description: "Klarheit wird kommen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich möchte dieses wunderschöne Gebet nicht stören, sondern bestätigen, was unser Bruder Yogananda und unser …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

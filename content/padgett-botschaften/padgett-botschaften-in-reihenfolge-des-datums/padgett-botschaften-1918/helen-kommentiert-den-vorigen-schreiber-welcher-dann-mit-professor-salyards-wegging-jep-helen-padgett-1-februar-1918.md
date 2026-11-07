@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert den vorigen Schreiber, welcher dann mit Professor Salyards wegging"
 menu_title: ""
-description: "Helen kommentiert den vorigen Schreiber, welcher dann mit Professor Salyards wegging"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich hatte einige Schwierigkeiten wegen der spirituellen Wesen, die schreiben wollten und es auch …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

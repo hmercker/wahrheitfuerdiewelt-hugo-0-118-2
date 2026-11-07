@@ -1,7 +1,7 @@
 ---
 title: "Kultiviert die Realität der Seele"
 menu_title: ""
-description: "Kultiviert die Realität der Seele"
+description: "Orion, empfangen durch Al Fike: „Ihr seht die Welt anders, meine Freunde. Möge die große Essenz unseres Schöpfers, des Schöpfers des gesamten Universums …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

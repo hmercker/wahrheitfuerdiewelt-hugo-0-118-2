@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes wird euch von der Dunkelheit befreien"
 menu_title: ""
-description: "Die Liebe Gottes wird euch von der Dunkelheit befreien"
+description: "Matthäus, empfangen durch Al Fike: „Das ist es, was wir auf eure Erdebene bringen wollen, und ich weiß, dass ihr das auch wollt.“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

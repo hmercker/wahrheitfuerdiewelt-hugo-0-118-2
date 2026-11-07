@@ -1,7 +1,7 @@
 ---
 title: "Demut ist der Schlüssel"
 menu_title: ""
-description: "Demut ist der Schlüssel"
+description: "Judas, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes mit euch sein. Ich möchte das Gefühl der Trennung von Gott ansprechen, das diejenigen, die …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

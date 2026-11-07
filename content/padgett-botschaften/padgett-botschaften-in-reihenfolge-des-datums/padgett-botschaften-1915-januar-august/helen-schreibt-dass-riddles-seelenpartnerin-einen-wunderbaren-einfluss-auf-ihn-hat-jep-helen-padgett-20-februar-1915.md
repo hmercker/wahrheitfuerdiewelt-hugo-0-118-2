@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass Riddle's Seelenpartnerin einen wunderbaren Einfluss auf ihn hat"
 menu_title: ""
-description: "Helen schreibt, dass Riddle's Seelenpartnerin einen wunderbaren Einfluss auf ihn hat"
+description: "Helen, empfangen durch James Padgett: „Ja, du wirst meine Stimme bald in deinem eigenen Zimmer hören. Wir werden dann liebevoll miteinander reden, und auch …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

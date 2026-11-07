@@ -1,7 +1,7 @@
 ---
 title: "Der Wunsch, mit meinem Volk zu sprechen"
 menu_title: ""
-description: "Der Wunsch, mit meinem Volk zu sprechen"
+description: "Konfuzius: „Ich wollte ein paar Worte zu euch sagen, denn ihr seid mir so lieb und ich war schon so oft bei euch.“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

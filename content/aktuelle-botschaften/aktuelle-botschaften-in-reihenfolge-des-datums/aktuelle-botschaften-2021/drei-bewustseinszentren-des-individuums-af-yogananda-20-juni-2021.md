@@ -1,7 +1,7 @@
 ---
 title: "Drei Bewustseinszentren des Individuums"
 menu_title: ""
-description: "Drei Bewustseinszentren des Individuums"
+description: "Yogananda, empfangen durch Al Fike: „Es ist ein solches Privileg, heute mit euch zu beten, meine schönen Freunde. Und ich möchte einen Kommentar zu einer …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

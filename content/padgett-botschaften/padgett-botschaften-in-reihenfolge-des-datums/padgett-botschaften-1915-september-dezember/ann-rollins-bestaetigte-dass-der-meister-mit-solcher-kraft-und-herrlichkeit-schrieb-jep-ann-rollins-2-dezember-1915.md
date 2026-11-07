@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb"
 menu_title: ""
-description: "Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich fühle, dass ich dir nur eine Zeile schreiben muss, denn ich möchte dir sagen, dass der Meister dir …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mit der Vorstellung der Ewigkeit den Tod überleben"
 menu_title: ""
-description: "Mit der Vorstellung der Ewigkeit den Tod überleben"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich sehe die Güte in diesem Kreis und den großen Wunsch nach Freiheit in der Liebe Gottes, und ich muss …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

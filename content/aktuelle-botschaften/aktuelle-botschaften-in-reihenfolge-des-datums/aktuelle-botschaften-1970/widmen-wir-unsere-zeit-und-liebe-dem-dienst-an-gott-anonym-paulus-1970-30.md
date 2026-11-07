@@ -1,7 +1,7 @@
 ---
 title: "Widmen wir unsere Zeit und Liebe dem Dienst an Gott"
 menu_title: ""
-description: "Widmen wir unsere Zeit und Liebe dem Dienst an Gott"
+description: "Paulus: „Hier gibt es so viel Frieden und Schönheit, meine Freunde, und so viel Liebe. Es ist so wunderbar, auf diese Weise zusammenzukommen.“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dienst und Führung"
 menu_title: ""
-description: "Dienst und Führung"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Es heißt, man kann nicht an zwei Orten gleichzeitig sein, und der Meister sagte uns, dass man nicht …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

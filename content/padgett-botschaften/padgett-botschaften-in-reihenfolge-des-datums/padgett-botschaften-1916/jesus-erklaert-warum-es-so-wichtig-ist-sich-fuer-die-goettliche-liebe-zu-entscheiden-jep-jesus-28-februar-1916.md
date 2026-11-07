@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, warum es so wichtig ist, sich für die Göttliche Liebe zu entscheiden"
 menu_title: ""
-description: "Jesus erklärt, warum es so wichtig ist, sich für die Göttliche Liebe zu entscheiden"
+description: "Jesus, empfangen durch James Padgett: „Die Göttliche Liebe wurde dem Menschen nie als vollkommenes und fertiges Geschenk übertragen, weder zur Zeit seiner …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

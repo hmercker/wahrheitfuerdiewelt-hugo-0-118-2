@@ -1,7 +1,7 @@
 ---
 title: "Al's Eindrücke nach dem Gebet der Direkten Stimme"
 menu_title: ""
-description: "Al's Eindrücke nach dem Gebet der Direkten Stimme"
+description: "Empfangen durch Al Fike am 10. März 2018, Punaluu, Oahu, Hawaii, USA: „Die Engel waren hinter uns und dann verschmelzen diese beiden Ringe miteinander. Sie …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

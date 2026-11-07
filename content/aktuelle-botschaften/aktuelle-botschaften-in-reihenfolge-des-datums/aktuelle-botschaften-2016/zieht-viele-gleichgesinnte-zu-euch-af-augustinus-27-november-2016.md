@@ -1,7 +1,7 @@
 ---
 title: "Zieht viele Gleichgesinnte zu euch "
 menu_title: ""
-description: "Zieht viele Gleichgesinnte zu euch "
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Ja, ihr werdet auf viele Gleichgesinnte treffen.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

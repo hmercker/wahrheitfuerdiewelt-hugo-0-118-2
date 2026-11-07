@@ -1,7 +1,7 @@
 ---
 title: "Himmlische Engel wünschen die Menschheit zu ermutigen und zu unterstützen"
 menu_title: ""
-description: "Himmlische Engel wünschen die Menschheit zu ermutigen und zu unterstützen"
+description: "Josephus, empfangen durch Al Fike: „Möge die Liebe Gottes weiterhin eure Seelen berühren. Möget ihr die Großartigkeit erkennen, die eure Seele in Gottes …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

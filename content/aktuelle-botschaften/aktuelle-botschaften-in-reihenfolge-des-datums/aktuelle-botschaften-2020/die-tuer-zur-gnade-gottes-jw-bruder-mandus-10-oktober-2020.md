@@ -1,7 +1,7 @@
 ---
 title: "Die Tür zur Gnade Gottes"
 menu_title: ""
-description: "Die Tür zur Gnade Gottes"
+description: "Bruder Mandus, empfangen durch Jimbeau Walsh: „Und ich danke euch, dass ihr mich gerufen habt, denn ich war bei euch während eurer Diskussion vorhin und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

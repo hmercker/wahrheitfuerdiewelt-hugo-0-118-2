@@ -1,7 +1,7 @@
 ---
 title: "Folgt uns in das Reich Gottes"
 menu_title: ""
-description: "Folgt uns in das Reich Gottes"
+description: "Simon, empfangen durch Al Fike: „Wir leben im Paradies der Liebe Gottes, die unsere Seelen ständig nährt. So kommen wir zu euch, geliebte Brüder und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

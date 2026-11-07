@@ -1,7 +1,7 @@
 ---
 title: "Perry fühlt sich besser und ist dankbar für all die Hilfe"
 menu_title: ""
-description: "Perry fühlt sich besser und ist dankbar für all die Hilfe"
+description: "Perry, empfangen durch James Padgett: „Was für eine wunderbare Sache ist dieses große Geschenk, das du hast, und kein Wesen in all der Dunkelheit einer …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

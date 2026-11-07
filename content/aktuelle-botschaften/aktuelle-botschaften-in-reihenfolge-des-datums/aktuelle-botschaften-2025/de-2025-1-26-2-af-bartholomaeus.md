@@ -1,7 +1,7 @@
 ---
 title: "Die Botschaften, die durchkommen, sind Gottes Wahrheiten"
 menu_title: ""
-description: "Die Botschaften, die durchkommen, sind Gottes Wahrheiten"
+description: "Bartholomäus, empfangen durch Al Fike: „Möge die Herrlichkeit der Liebe des Vaters in großer Fülle in eure Seelen einziehen. Möget ihr dieses Geschenk …“"
 date: 2025-01-26 06:00:00+00:10
 draft: False
 hidden: True

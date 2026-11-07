@@ -1,7 +1,7 @@
 ---
 title: "Keine 'unverzeihliche Sünde', wie sie der Prediger lehrt"
 menu_title: ""
-description: "Keine 'unverzeihliche Sünde', wie sie der Prediger lehrt"
+description: "Lukas, empfangen durch James Padgett: „Ich war mit dir in der Kirche und hörte die Predigt über die unverzeihliche Sünde und war sehr interessiert an der …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

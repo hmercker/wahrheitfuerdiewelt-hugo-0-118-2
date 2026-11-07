@@ -1,7 +1,7 @@
 ---
 title: "Geheimnis des Erdenlebens"
 menu_title: ""
-description: "Geheimnis des Erdenlebens"
+description: "Shandor: „Die Bedingungen sind einfach perfekt für uns, um zu euch zu kommen. Viele, die für Gott arbeiten, sind mit mir und bringen große Kraft und Licht …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

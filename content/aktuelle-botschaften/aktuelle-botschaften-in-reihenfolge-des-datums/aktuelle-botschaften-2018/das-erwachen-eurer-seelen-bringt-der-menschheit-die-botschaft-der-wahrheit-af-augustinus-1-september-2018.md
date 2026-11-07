@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen eurer Seelen bringt der Menschheit die Botschaft der Wahrheit"
 menu_title: ""
-description: "Das Erwachen eurer Seelen bringt der Menschheit die Botschaft der Wahrheit"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Wie unser geliebter Bruder und Meister gesagt hat, müsst ihr alle in die Welt …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

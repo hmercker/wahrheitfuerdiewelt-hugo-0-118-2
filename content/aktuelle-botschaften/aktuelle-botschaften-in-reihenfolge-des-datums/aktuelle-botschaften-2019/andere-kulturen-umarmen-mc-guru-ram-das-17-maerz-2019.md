@@ -1,7 +1,7 @@
 ---
 title: "Andere Kulturen umarmen"
 menu_title: ""
-description: "Andere Kulturen umarmen"
+description: "Guru Ram Das 1, empfangen durch Maureen Cardoso: „Als ich auf der Erde war, war ich der vierte Guru, der vierte Lehrer in der Sikh-Tradition.“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

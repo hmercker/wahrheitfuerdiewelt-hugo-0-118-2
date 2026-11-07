@@ -1,7 +1,7 @@
 ---
 title: "Der Großvater des Kaisers hat sich sehr bemüht, seinen Enkel zu beeinflussen, um den Krieg zu beenden"
 menu_title: ""
-description: "Der Großvater des Kaisers hat sich sehr bemüht, seinen Enkel zu beeinflussen, um den Krieg zu beenden"
+description: "Willhelm, empfangen durch James Padgett: „Lass mich ein Wort sagen als Antwort auf das, was gerade geschrieben wurde, denn ich interessiere mich für den Krieg.“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

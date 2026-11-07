@@ -1,7 +1,7 @@
 ---
 title: "Zusammenarbeit in Bezug auf Direkte Stimme"
 menu_title: ""
-description: "Zusammenarbeit in Bezug auf Direkte Stimme"
+description: "Seretta Kem & Jesus, empfangen durch Al Fike: „Wir waren sehr erfreut über das, was dieses Instrument bei der heutigen Versammlung vorgebracht hat, und wir …“"
 date: 2020-08-01 06:25:48+00:181
 draft: False
 hidden: True

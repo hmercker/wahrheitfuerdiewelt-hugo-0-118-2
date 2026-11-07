@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Botschaft"
 menu_title: ""
-description: "Persönliche Botschaft"
+description: "Maria, empfangen durch Amada Reza: „Das erklärt, warum ich diese Botschaft für deine Freundin schreibe, die hier bei uns ist. Ich werde die Botschaft auf …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

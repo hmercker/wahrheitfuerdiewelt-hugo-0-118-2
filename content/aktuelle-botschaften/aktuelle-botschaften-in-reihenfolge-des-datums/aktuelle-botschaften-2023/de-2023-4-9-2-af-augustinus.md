@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt euch für den Kampf um das Licht entschieden"
 menu_title: ""
-description: "Ihr habt euch für den Kampf um das Licht entschieden"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch versichern, dass jeder von euch ein Licht ist. Auch wenn ihr auf dieser Erdebene, die voller …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

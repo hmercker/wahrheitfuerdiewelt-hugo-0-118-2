@@ -1,7 +1,7 @@
 ---
 title: "Kommentare zu Stadien der Heilung"
 menu_title: ""
-description: "Kommentare zu Stadien der Heilung"
+description: "Mylora, empfangen durch Al Fike: „Die Umwelt, in der ihr lebt, steht im Gegensatz zu vielen dieser Energien und Segnungen. Die Menschheit hat die …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

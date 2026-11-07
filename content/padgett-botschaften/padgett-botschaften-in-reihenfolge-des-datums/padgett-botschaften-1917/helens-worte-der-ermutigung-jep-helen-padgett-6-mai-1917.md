@@ -1,7 +1,7 @@
 ---
 title: "Helen's Worte der Ermutigung"
 menu_title: ""
-description: "Helen's Worte der Ermutigung"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich sehe, dass du heute Abend keine Lust hast, viel zu schreiben, und ich werde nur ein paar Worte sagen.“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

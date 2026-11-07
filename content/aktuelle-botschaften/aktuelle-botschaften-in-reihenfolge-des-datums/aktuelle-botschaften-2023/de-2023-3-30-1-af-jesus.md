@@ -1,7 +1,7 @@
 ---
 title: "Startet „Soul Links”, den neuen Lichtkreis aus England"
 menu_title: ""
-description: "Startet „Soul Links”, den neuen Lichtkreis aus England"
+description: "Jesus, empfangen durch Al Fike: „Wir sind wahrhaftig in Liebe verbunden und unabhängig von den Überzeugungen und Gedanken des Einzelnen auf dieser …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

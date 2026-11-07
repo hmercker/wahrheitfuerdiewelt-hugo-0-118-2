@@ -1,7 +1,7 @@
 ---
 title: "Über Heilung"
 menu_title: ""
-description: "Über Heilung"
+description: "Jesus, empfangen durch Kathryn Stokes: „Die Gesetze Gottes sind weitläufig und komplex; sie können nicht mit dem denkenden Verstand erfasst werden, sondern …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Entspannung, Zuflucht und persönliche Verantwortung"
 menu_title: ""
-description: "Spirituelle Entspannung, Zuflucht und persönliche Verantwortung"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Seelen, die sich wirklich danach sehnen, die Liebe Gottes zu empfangen und verändert zu werden, trotz …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

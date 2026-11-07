@@ -1,7 +1,7 @@
 ---
 title: "Die Macht des freien Willens"
 menu_title: ""
-description: "Die Macht des freien Willens"
+description: "Augustinus, empfangen durch Al Fike: „Was bedeutet der freie Wille im eigenen Leben und wie wirkt er sich auf die Seele aus? Der erste Akt der Wahl für …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

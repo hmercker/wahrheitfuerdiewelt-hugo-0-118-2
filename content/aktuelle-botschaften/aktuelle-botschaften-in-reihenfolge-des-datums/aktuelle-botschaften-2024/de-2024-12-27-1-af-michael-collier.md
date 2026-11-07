@@ -1,7 +1,7 @@
 ---
 title: "Das Pendel des Segens Gottes in Richtung Licht"
 menu_title: ""
-description: "Das Pendel des Segens Gottes in Richtung Licht"
+description: "Michael Collier, empfangen durch Al Fike: „Möge der Segen der Liebe des Vaters in großer Fülle in eure Seele strömen, damit ihr die verwandelnden Wirkungen …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

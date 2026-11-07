@@ -1,7 +1,7 @@
 ---
 title: "Deine Gebete sind erhört worden"
 menu_title: ""
-description: "Deine Gebete sind erhört worden"
+description: "Martin Luther, empfangen durch Joseph: „Ich sehe, dass du eine recht erfreuliche Erfahrung gemacht hast; ich möchte dir sagen, dass deine Gebete erhört …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommt zum Festmahl der Wahrheit"
 menu_title: ""
-description: "Kommt zum Festmahl der Wahrheit"
+description: "Judas, empfangen durch Jimbeau Walsh: „Viele wollen heute Abend vortreten und so werde ich beginnen. In diesem Kreis der Liebe, im Schutz des Himmels, in …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

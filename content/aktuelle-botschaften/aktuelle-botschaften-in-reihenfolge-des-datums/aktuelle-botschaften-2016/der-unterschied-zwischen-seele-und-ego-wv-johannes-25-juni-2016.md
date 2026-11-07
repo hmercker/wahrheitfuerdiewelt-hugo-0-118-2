@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen Seele und Ego"
 menu_title: ""
-description: "Der Unterschied zwischen Seele und Ego"
+description: "Johannes, empfangen durch W.V.: „Und der Grund, warum ich hier bin, ist auch, um etwas Licht auf das zu werfen, was wir \"Ego\" nennen.“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

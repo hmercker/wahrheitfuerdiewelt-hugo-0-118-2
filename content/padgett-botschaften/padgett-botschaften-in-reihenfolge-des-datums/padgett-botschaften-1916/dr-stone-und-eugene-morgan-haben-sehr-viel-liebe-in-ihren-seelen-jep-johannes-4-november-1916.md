@@ -1,7 +1,7 @@
 ---
 title: "Dr. Stone und Eugene Morgan haben sehr viel Liebe in ihren Seelen"
 menu_title: ""
-description: "Dr. Stone und Eugene Morgan haben sehr viel Liebe in ihren Seelen"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass das, was der Meister und ich vor ein paar Nächten zu Dr. Er hat mehr von dieser Liebe …“"
 date: 2020-08-01 06:25:48+00:254
 draft: False
 hidden: True

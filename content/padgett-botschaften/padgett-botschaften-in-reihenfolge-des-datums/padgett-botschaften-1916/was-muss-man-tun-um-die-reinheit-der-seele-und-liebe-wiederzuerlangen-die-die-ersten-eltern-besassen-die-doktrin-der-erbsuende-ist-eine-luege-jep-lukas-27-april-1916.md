@@ -1,7 +1,7 @@
 ---
 title: "Was muss man tun, um die Reinheit der Seele und Liebe wiederzuerlangen, die die ersten Eltern besaßen. Die Doktrin der Erbsünde ist eine Lüge"
 menu_title: ""
-description: "Was muss man tun, um die Reinheit der Seele und Liebe wiederzuerlangen, die die ersten Eltern besaßen. Die Doktrin der Erbsünde ist eine Lüge"
+description: "Lukas, empfangen durch James Padgett: „Ich habe dir seit einiger Zeit nicht mehr geschrieben und möchte dir heute Abend eine kurze Nachricht zum Thema …“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

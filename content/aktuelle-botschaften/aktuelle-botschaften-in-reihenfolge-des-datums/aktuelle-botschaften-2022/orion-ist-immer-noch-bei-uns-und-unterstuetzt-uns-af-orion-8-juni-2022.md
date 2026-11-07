@@ -1,7 +1,7 @@
 ---
 title: "Orion ist immer noch bei uns und unterstützt uns"
 menu_title: ""
-description: "Orion ist immer noch bei uns und unterstützt uns"
+description: "Orion, empfangen durch Al Fike: „Eure Bemühungen sind nicht verloren, sondern helfen weiterhin, die Menschheit zu erwecken.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

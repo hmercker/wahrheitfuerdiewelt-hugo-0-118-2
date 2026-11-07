@@ -1,7 +1,7 @@
 ---
 title: "Bringt weiterhin Botschaften von Gottes Liebe in die Welt"
 menu_title: ""
-description: "Bringt weiterhin Botschaften von Gottes Liebe in die Welt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „In den Fußstapfen unseres geliebten Meisters, in den Fußstapfen der Liebe, tun wir unsere Arbeit.“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

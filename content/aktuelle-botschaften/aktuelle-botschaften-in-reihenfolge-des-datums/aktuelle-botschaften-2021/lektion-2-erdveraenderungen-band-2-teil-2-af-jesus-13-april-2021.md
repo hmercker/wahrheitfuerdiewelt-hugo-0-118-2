@@ -1,7 +1,7 @@
 ---
 title: "Lektion 2 - Das Leben auf der Erde und die Bedeutung des spirituellen Fortschritts  - Band 2"
 menu_title: ""
-description: "Lektion 2 - Das Leben auf der Erde und die Bedeutung des spirituellen Fortschritts  - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Für einige, die sich mit Astrologie und anderen ähnlichen Angelegenheiten befassen, gibt es den Glauben, dass die …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

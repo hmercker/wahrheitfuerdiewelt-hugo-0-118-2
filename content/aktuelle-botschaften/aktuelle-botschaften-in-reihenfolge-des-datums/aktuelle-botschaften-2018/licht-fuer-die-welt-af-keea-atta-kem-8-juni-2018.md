@@ -1,7 +1,7 @@
 ---
 title: "Licht für die Welt "
 menu_title: ""
-description: "Licht für die Welt "
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wenn ihr im Gebet zusammenkommt, zieht ihr Licht in eure Welt. Wenn ihr danach strebt, Licht in eure Seelen zu …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

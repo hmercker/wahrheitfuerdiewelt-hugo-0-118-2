@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 47 : Der Prophet Micha weissagt den Geburtsort des Messias"
 menu_title: ""
-description: "Offenbarung 47 : Der Prophet Micha weissagt den Geburtsort des Messias"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute Nacht werden wir uns wieder mit dem Alten Testament befassen, um aus der Vielzahl der Prophezeiungen, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

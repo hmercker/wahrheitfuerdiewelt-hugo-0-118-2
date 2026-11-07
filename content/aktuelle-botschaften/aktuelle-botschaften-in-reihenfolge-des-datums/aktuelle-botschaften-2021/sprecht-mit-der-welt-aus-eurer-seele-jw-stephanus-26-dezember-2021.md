@@ -1,7 +1,7 @@
 ---
 title: "Sprecht mit der Welt aus eurer Seele"
 menu_title: ""
-description: "Sprecht mit der Welt aus eurer Seele"
+description: "Stephanus, empfangen durch Jimbeau Walsh: „Wie ihr vielleicht wisst, waren wir keine gelehrten Männer, mit ein paar Ausnahmen. Viele von uns hatten ihre …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frage und Antwort Sitzung 1 - Die Seele "
 menu_title: ""
-description: "Frage und Antwort Sitzung 1 - Die Seele "
+description: "Jesus, empfangen durch Al Fike: „Möge Gottes große Liebe weiterhin ein Einströmen in eure Seelen finden, geliebte und schöne Freunde.“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

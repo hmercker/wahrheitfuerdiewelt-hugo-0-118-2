@@ -1,7 +1,7 @@
 ---
 title: "Helen stimmt zu, dass er von der Teilnahme an dem Treffen nicht profitiert hat"
 menu_title: ""
-description: "Helen stimmt zu, dass er von der Teilnahme an dem Treffen nicht profitiert hat"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebes, ich sehe, dass du müde bist und ich werde nicht viel schreiben. Aber ich muss sagen, dass ich so froh …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

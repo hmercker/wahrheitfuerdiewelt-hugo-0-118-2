@@ -1,7 +1,7 @@
 ---
 title: "Alfredo ermutigen"
 menu_title: ""
-description: "Alfredo ermutigen"
+description: "Johannes, empfangen durch Amada Reza: „Unser Meister lehrte über das Potential der menschlichen Seele, die göttliche Liebe Gottes zu empfangen, ein …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Segen ist überall"
 menu_title: ""
-description: "Gottes Segen ist überall"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wir werden euch auch weiterhin beistehen und euch dienen. So wie ihr die Liebe des Vaters sucht, so zieht ihr eure …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

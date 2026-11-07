@@ -1,7 +1,7 @@
 ---
 title: "Eine Rede über Mitgefühl und Dienst"
 menu_title: ""
-description: "Eine Rede über Mitgefühl und Dienst"
+description: "Mahatma Gandhi, empfangen durch Al Fike: „Ich wurde von eurem Gespräch über die Speisung der Armen angezogen, denn das ist etwas, was mir sehr am Herzen …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

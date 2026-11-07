@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Seelenpartner gehen keine andere Verpflichtungen ein, wenn wir mit ihren Seelenpartnern auf Erden zusammen sein können"
 menu_title: ""
-description: "Spirituelle Seelenpartner gehen keine andere Verpflichtungen ein, wenn wir mit ihren Seelenpartnern auf Erden zusammen sein können"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ja, es ist, und er traut sich nicht zu gehen, bevor ich ihm nicht ein paar Zeilen schreiben kann.“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

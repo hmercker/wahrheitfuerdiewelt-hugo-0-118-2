@@ -1,7 +1,7 @@
 ---
 title: "Augen der Liebe"
 menu_title: ""
-description: "Augen der Liebe"
+description: "Andreas, empfangen durch Kathryn Stokes: „Wir haben immer Themen, die wir für eure größere Erleuchtung und euer spirituelles Wachstum erläutern können.“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

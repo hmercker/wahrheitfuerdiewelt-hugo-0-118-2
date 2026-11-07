@@ -1,7 +1,7 @@
 ---
 title: "Der Religionsgründer des Zoroastrismus bekräftigt den Weg der Göttlichen Liebe zur Versöhnung mit Gott"
 menu_title: ""
-description: "Der Religionsgründer des Zoroastrismus bekräftigt den Weg der Göttlichen Liebe zur Versöhnung mit Gott"
+description: "Zarathustra [^1], empfangen durch Al Fike: „Ich möchte euch versichern, dass ihr auf dem richtigen Weg seid. Dass ihr großes Licht und große Erfüllung …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

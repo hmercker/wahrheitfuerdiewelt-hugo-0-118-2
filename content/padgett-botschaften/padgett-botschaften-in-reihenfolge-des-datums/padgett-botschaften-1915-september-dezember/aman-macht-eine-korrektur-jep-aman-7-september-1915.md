@@ -1,7 +1,7 @@
 ---
 title: "Aman macht eine Korrektur"
 menu_title: ""
-description: "Aman macht eine Korrektur"
+description: "Aman, empfangen von James Padgett: „Ja, und ich möchte etwas korrigieren, was ich zuvor geschrieben habe: dass ich nie ein spirituelles Wesen war, das …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jede menschliche Seele wird durch den Zustand der Erde geschädigt"
 menu_title: ""
-description: "Jede menschliche Seele wird durch den Zustand der Erde geschädigt"
+description: "Andreas, empfangen durch Al Fike: „Jede Seele hat tiefe und andauernde Schmerzen und Wunden in sich. Jede Seele, die wir treffen, jedes Individuum, das auf …“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wahrheit und falsche Überzeugungen - Teil 2"
 menu_title: ""
-description: "Wahrheit und falsche Überzeugungen - Teil 2"
+description: "Judas, empfangen durch H.: „Ich würde gerne mit meiner Rede über falsche Überzeugungen und die Verbreitung der Wahrheit fortfahren.“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

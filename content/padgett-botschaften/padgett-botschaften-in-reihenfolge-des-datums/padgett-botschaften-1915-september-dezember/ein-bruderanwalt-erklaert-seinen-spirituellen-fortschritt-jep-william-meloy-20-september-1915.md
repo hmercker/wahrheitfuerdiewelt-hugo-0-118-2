@@ -1,7 +1,7 @@
 ---
 title: "Ein Bruderanwalt erklärt seinen spirituellen Fortschritt"
 menu_title: ""
-description: "Ein Bruderanwalt erklärt seinen spirituellen Fortschritt"
+description: "William A Meloy, empfangen von James Padgett: „Vielleicht überrascht es dich, was ich sage, aber ich habe viel gelernt, seit ich im spirituellen Leben bin.“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

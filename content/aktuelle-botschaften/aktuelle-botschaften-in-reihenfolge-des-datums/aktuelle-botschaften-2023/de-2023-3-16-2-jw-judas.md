@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid, wo eure Seele ist"
 menu_title: ""
-description: "Ihr seid, wo eure Seele ist"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe den heutigen Beitrag mit großem Interesse verfolgt, nicht nur wegen der Ermutigung, still zu sein, sondern …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

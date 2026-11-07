@@ -1,7 +1,7 @@
 ---
 title: "Weder der Tod Jesu, noch der Verrat des Judas gehörten zum Heilsplan Gottes"
 menu_title: ""
-description: "Weder der Tod Jesu, noch der Verrat des Judas gehörten zum Heilsplan Gottes"
+description: "Johannes, empfangen durch James Padgett: „Es gibt einiges in meinem Evangelium, dass nicht ganz klar zu sein scheint und vielleicht sogar widersprüchlich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

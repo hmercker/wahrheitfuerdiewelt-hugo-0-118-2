@@ -1,7 +1,7 @@
 ---
 title: "Johannes spricht über die Gleichberechtigung der Geschlechter"
 menu_title: ""
-description: "Johannes spricht über die Gleichberechtigung der Geschlechter"
+description: "Johannes, empfangen durch James Padgett: „Ich habe mir heute Abend dein Gespräch angehört und war an einigen Dingen interessiert, die über die …“"
 date: 2020-08-01 06:25:48+00:140
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Drei freundliche Mäuse"
 menu_title: ""
-description: "Drei freundliche Mäuse"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich werde mich kurz fassen, aber ich möchte an diesem Lichtkreis teilhaben, in dem so viele mit euch in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

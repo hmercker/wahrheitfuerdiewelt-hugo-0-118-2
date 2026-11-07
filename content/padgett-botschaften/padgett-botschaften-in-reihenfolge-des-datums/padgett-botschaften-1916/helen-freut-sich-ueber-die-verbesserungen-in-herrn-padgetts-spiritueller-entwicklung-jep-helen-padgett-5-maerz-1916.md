@@ -1,7 +1,7 @@
 ---
 title: "Helen freut sich über die Verbesserungen in Herrn Padgetts spiritueller Entwicklung"
 menu_title: ""
-description: "Helen freut sich über die Verbesserungen in Herrn Padgetts spiritueller Entwicklung"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, ich möchte nur sagen, dass es mir leid tut, dass du nicht in der Lage bist, heute Abend für den …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

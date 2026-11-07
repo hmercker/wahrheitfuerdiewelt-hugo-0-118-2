@@ -1,7 +1,7 @@
 ---
 title: "Verschiedene Fragen"
 menu_title: ""
-description: "Verschiedene Fragen"
+description: "Josephus, empfangen durch Al Fike: „So bin ich sehr glücklich, eure Fragen zu beantworten, wenn ihr welche habt. Ich werde dies auch weiterhin tun, während …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

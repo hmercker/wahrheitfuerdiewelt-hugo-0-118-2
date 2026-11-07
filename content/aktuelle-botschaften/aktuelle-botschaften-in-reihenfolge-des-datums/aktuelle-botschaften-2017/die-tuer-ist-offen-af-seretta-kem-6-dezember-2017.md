@@ -1,7 +1,7 @@
 ---
 title: "Die Tür ist offen"
 menu_title: ""
-description: "Die Tür ist offen"
+description: "Seretta Kem, empfangen durch Al Fike: „Und so seid ihr an einen weiteren Scheideweg gekommen. Jeder Tag ist in der Tat eine Kreuzung, ein Ort der Wahl, ein …“"
 date: 2020-08-01 06:25:48+00:235
 draft: False
 hidden: True

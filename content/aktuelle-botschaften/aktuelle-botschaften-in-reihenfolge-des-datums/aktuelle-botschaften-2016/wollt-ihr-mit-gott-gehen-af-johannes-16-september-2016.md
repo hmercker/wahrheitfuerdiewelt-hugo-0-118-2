@@ -1,7 +1,7 @@
 ---
 title: "Wollt ihr mit Gott gehen?"
 menu_title: ""
-description: "Wollt ihr mit Gott gehen?"
+description: "Johannes, empfangen durch Al Fike: „Die Welt braucht dringend eine Veränderung. Die Welt hungert nach Liebe.“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

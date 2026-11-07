@@ -1,7 +1,7 @@
 ---
 title: "Ihr müsst zusammenarbeiten"
 menu_title: ""
-description: "Ihr müsst zusammenarbeiten"
+description: "Augustinus, empfangen durch Al Fike: „An eurem Tisch und unter euch wurde viel darüber gesprochen, wie ihr die Gaben und Möglichkeiten eurer Seelen und …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

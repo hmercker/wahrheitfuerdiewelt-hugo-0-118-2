@@ -1,7 +1,7 @@
 ---
 title: "Percys Gruß aus Gottes Reich der Liebe"
 menu_title: ""
-description: "Percys Gruß aus Gottes Reich der Liebe"
+description: "Percy Hayes, empfangen durch Al Fike: „Was für ein wunderbarer Segen, durch dieses Instrument zu euch sprechen zu können. Wie ich ihm schon viele Male …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

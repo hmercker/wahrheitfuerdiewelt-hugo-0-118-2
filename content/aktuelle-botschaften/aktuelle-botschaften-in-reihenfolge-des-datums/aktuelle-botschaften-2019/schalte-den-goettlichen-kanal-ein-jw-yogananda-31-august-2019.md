@@ -1,7 +1,7 @@
 ---
 title: "Schalte den Göttlichen Kanal ein"
 menu_title: ""
-description: "Schalte den Göttlichen Kanal ein"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, so wie mein lieber Bruder über den Unterschied zwischen dem Einssein mit dem Universum …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

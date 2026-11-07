@@ -1,7 +1,7 @@
 ---
 title: "Mary ist glücklich, wenn sie Leslie schreiben darf"
 menu_title: ""
-description: "Mary ist glücklich, wenn sie Leslie schreiben darf"
+description: "Mary, empfangen durch James Padgett: „Ich wollte ihm sagen, dass ich hier bin und ihm nahe bin und nicht einmal seine Mutter meinen Platz einnehmen lassen …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

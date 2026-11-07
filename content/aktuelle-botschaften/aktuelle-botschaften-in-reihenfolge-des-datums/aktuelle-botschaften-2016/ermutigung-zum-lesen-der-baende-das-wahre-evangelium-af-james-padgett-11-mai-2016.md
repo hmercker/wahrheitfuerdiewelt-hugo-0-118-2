@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung zum Lesen der Bände (Das Wahre Evangelium)"
 menu_title: ""
-description: "Ermutigung zum Lesen der Bände (Das Wahre Evangelium)"
+description: "James Padgett, empfangen durch Al Fike: „Wie wunderbar ist es, vom Meister gesegnet zu werden und die Gegenwart Jesu in eurer Mitte zu haben.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

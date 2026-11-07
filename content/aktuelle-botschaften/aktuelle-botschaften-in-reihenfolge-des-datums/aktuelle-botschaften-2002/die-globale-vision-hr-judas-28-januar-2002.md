@@ -1,7 +1,7 @@
 ---
 title: "Die globale Vision"
 menu_title: ""
-description: "Die globale Vision"
+description: "Judas, empfangen durch H.: „Als du am Samstag mit deinem Gast gesprochen hast, hast du in deinem Verstand eine Reise zurück durch ein paar Jahrzehnte …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes ist die einzige Sache, die wahres Glück und Frieden bringen kann"
 menu_title: ""
-description: "Die Liebe Gottes ist die einzige Sache, die wahres Glück und Frieden bringen kann"
+description: "Solar: „„Gesegneter Vater, während wir in diesem wunderbaren Frieden zusammenkommen, wissen wir, dass wir wirklich gesegnet sind durch die Ausgießung …“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

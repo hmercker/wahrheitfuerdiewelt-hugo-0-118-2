@@ -1,7 +1,7 @@
 ---
 title: "Gruppen-Karma und freier Wille"
 menu_title: ""
-description: "Gruppen-Karma und freier Wille"
+description: "Josef, empfangen durch Kathryn Stokes: „[Medium: Wir haben eine Bitte um Führung von einer Frau, die in ihrem Leben Kämpfe durchlebt hat, die aus der …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

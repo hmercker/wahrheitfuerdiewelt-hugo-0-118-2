@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid die Hoffnung der Welt"
 menu_title: ""
-description: "Ihr seid die Hoffnung der Welt"
+description: "Orion, empfangen durch Al Fike: „Unser Bruder spricht in der Tat von Geduld. Wir lernen Geduld mit euch, geliebte Seelen, denn wir sind wie die stolzen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

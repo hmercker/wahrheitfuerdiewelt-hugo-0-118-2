@@ -1,7 +1,7 @@
 ---
 title: "Der Reichtum der Seele"
 menu_title: ""
-description: "Der Reichtum der Seele"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich wurde in euren Kreis gezogen, wegen eurer Diskussion und weil ich die Sehnsucht eurer Seelen spürte …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

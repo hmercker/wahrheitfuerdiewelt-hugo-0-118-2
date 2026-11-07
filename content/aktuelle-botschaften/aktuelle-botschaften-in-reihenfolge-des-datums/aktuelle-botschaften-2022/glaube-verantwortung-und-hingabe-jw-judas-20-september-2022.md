@@ -1,7 +1,7 @@
 ---
 title: "Glaube, Verantwortung und Hingabe"
 menu_title: ""
-description: "Glaube, Verantwortung und Hingabe"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich habe bemerkt, dass mein Bruder hier sehr auf die Worte geachtet hat, die ich gesprochen und mit Hans geteilt …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

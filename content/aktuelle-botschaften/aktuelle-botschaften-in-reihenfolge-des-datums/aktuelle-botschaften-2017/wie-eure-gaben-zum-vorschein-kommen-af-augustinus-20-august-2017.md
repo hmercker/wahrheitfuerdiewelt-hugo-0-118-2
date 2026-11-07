@@ -1,7 +1,7 @@
 ---
 title: "Wie eure Gaben zum Vorschein kommen"
 menu_title: ""
-description: "Wie eure Gaben zum Vorschein kommen"
+description: "Augustinus, empfangen durch Al Fike: „Es ist ein Prozess, den jede Seele am meisten durchläuft, wenn sich die Gaben öffnen und neue Einsichten und …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

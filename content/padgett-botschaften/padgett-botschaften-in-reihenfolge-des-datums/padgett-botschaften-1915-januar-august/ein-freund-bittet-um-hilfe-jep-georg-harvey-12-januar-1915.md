@@ -1,7 +1,7 @@
 ---
 title: "Ein Freund bittet um Hilfe"
 menu_title: ""
-description: "Ein Freund bittet um Hilfe"
+description: "George Harvey, empfangen durch James Padgett: „I habe in Washington gelebt und ein Restaurant in der Pennsylvania Avenue und Tenth Street geführt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

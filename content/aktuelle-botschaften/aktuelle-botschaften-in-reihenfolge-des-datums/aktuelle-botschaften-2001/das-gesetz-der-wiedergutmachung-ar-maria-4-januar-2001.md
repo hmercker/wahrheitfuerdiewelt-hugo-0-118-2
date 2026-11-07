@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Wiedergutmachung"
 menu_title: ""
-description: "Das Gesetz der Wiedergutmachung"
+description: "Maria, empfangen durch Amada Reza: „[Die Frage von A ist: Wie hat das Gesetz der Wiedergutmachung in Bezug auf Abraham Lincoln und seine Rolle im …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

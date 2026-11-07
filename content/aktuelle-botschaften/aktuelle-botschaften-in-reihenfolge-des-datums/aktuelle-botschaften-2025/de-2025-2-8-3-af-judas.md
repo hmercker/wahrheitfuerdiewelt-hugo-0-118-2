@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt zu einer Bearbeitung der Judas-Botschaften, das Wissen um höhere Wahrheiten zu stärken"
 menu_title: ""
-description: "Ermutigt zu einer Bearbeitung der Judas-Botschaften, das Wissen um höhere Wahrheiten zu stärken"
+description: "Judas, empfangen durch Al Fike: „Ja, es gibt ein Buch mit meinen erhaltenen Botschaften, meinen Mitteilungen, das ihr vielleicht auch lesen wollt.“"
 date: 2025-02-08 06:00:00+00:10
 draft: False
 hidden: True

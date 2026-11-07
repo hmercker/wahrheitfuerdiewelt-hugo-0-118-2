@@ -1,7 +1,7 @@
 ---
 title: "Das Gleichnis von den zwei Räumen"
 menu_title: ""
-description: "Das Gleichnis von den zwei Räumen"
+description: "Judas, empfangen durch H.: „Der arme Shmu'el war eine sehr bekannte Figur in Kpar Nakhum. Jeden Tag, beim ersten Tageslicht, erschien er mit seinem Esel in …“"
 date: 2020-08-01 06:25:48+00:269
 draft: False
 hidden: True

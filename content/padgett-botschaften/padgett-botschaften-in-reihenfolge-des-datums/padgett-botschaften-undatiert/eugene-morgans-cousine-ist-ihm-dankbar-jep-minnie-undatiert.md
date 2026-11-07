@@ -1,7 +1,7 @@
 ---
 title: "Eugene Morgan's Cousine ist ihm dankbar"
 menu_title: ""
-description: "Eugene Morgan's Cousine ist ihm dankbar"
+description: "Minnie, empfangen durch James Padgett: „Ich möchte ein Wort sagen, wenn du willst, denn ich habe so sehr den Wunsch, Eugene zu schreiben, wie es mir vor …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Akzeptiert die von Gott geschaffene Vielfalt"
 menu_title: ""
-description: "Akzeptiert die von Gott geschaffene Vielfalt"
+description: "Yogananda, empfangen durch Al Fike: „Ihr seht, das Licht ist überall, Geliebte, das Licht ist überall. Ja, meine Worte waren anders, meine Lehren …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

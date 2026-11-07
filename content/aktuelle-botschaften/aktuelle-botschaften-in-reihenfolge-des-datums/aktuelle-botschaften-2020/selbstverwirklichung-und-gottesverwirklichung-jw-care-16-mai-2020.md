@@ -1,7 +1,7 @@
 ---
 title: "Selbstverwirklichung und Gottesverwirklichung"
 menu_title: ""
-description: "Selbstverwirklichung und Gottesverwirklichung"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Sie haben mir erlaubt, hierher zu kommen und zu sprechen, weil sie euch hier in diesem Kreis für die …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

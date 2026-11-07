@@ -1,7 +1,7 @@
 ---
 title: "Die Samariter - Teil 3"
 menu_title: ""
-description: "Die Samariter - Teil 3"
+description: "Judas, empfangen durch H.: „Nun, mein lieber Bruder, wie ich dir versprochen habe, werde ich dir in wenigen Worten die Religion der Samariter oder …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

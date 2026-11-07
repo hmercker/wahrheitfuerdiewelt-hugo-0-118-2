@@ -1,7 +1,7 @@
 ---
 title: "Du bist das Geschenk an diese Welt"
 menu_title: ""
-description: "Du bist das Geschenk an diese Welt"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater/Mutter, ich bete um ein Einströmen Deiner Göttlichen Liebe - möge diese Liebe meine Gedanken …“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

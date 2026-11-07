@@ -1,7 +1,7 @@
 ---
 title: "Begrüße alle Seelen mit Liebe"
 menu_title: ""
-description: "Begrüße alle Seelen mit Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wie Paulus schrieb: „Obwohl ich mit Engelszungen rede, aber die Liebe nicht habe, bin ich wie eine klingende …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

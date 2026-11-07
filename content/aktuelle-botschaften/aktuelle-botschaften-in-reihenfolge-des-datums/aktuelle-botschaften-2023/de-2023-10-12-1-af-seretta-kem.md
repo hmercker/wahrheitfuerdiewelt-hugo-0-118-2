@@ -1,7 +1,7 @@
 ---
 title: "Jedem von uns ist ein Engel zugeteilt"
 menu_title: ""
-description: "Jedem von uns ist ein Engel zugeteilt"
+description: "Seretta Kem, empfangen durch Al Fike: „Die Ranken der Liebe wickeln sich weiterhin um alle, die an diesem wunderschönen Kreis beteiligt sind, der sich in …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Habt den Glauben, dass Gott unsere Gebete erhört"
 menu_title: ""
-description: "Habt den Glauben, dass Gott unsere Gebete erhört"
+description: "Augustinus, empfangen durch Al Fike: „Diese menschliche Bedingung, die in eurer Welt so mächtig ist, legt weiterhin ihre Barrieren und Schwierigkeiten in …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

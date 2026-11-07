@@ -1,7 +1,7 @@
 ---
 title: "Jesus war anwesend als Padgett und Dr. Stone sich über spirituelle Dinge unterhielten"
 menu_title: ""
-description: "Jesus war anwesend als Padgett und Dr. Stone sich über spirituelle Dinge unterhielten"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir ein paar Zeilen schreiben, denn dein Sehnen, eine Botschaft von mir zu erhalten, macht es mir möglich …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

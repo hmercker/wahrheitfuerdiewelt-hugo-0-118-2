@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist schwerelos"
 menu_title: ""
-description: "Gottes Liebe ist schwerelos"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Wenn ihr morgens aufwacht, wenn ihr euch daran erinnern könnt, eure Absicht für den Tag im Gebet zu Gott …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

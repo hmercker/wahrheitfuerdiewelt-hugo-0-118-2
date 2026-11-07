@@ -1,7 +1,7 @@
 ---
 title: "Führt eure Kinder, lehrt sie richtig"
 menu_title: ""
-description: "Führt eure Kinder, lehrt sie richtig"
+description: "Samuel: „Das ist Samuel, der gekommen ist, um euch noch einmal zu sehen. Wisst ihr, meine lieben Kinder, ich sehne mich danach, euch an der Hand zu nehmen …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

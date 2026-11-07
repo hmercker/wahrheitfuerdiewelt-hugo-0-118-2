@@ -1,7 +1,7 @@
 ---
 title: "Maria bringt ihren Segen"
 menu_title: ""
-description: "Maria bringt ihren Segen"
+description: "Maria, empfangen durch Al Fike: „Ich wache über jedes Kind, das Gott zu dienen begehrt. Ihr seid vertraut mit dem Werk, das mein geliebter Sohn auf die …“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

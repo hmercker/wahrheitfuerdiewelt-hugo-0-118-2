@@ -1,7 +1,7 @@
 ---
 title: "Mit Liebe den Kurs halten"
 menu_title: ""
-description: "Mit Liebe den Kurs halten"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich war vorhin mit euch im Kreis und ich habe mich entschieden, wie ich meinem lieben Freund hier sagte, zu …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Förderung dieses Lichtzentrums wird viele Türen in der Zukunft öffnen"
 menu_title: ""
-description: "Die Förderung dieses Lichtzentrums wird viele Türen in der Zukunft öffnen"
+description: "Augustinus, empfangen durch Al Fike: „Das Tempo des Wandels in eurer Welt beschleunigt sich, geliebte Seelen, und das Tempo des Wandels in eurem eigenen …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

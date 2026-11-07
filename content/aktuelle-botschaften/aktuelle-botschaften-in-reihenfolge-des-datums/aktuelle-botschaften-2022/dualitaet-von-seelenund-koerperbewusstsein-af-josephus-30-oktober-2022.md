@@ -1,7 +1,7 @@
 ---
 title: "Dualität von Seelen- und Körperbewußtsein"
 menu_title: ""
-description: "Dualität von Seelen- und Körperbewußtsein"
+description: "Josephus, empfangen durch Al Fike: „Die meisten von euch sind sich dieser Zweiteilung, dem Bewusstsein des materiellen Verstandes und dem Bewusstsein der …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt unserer Seelen und das Gesetz der Wiedergutmachung"
 menu_title: ""
-description: "Die Geburt unserer Seelen und das Gesetz der Wiedergutmachung"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte über das Gesetz der Wiedergutmachung (auch Kompensation genannt) sprechen, nach dem jede Seele für ihre …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt euch entschieden, aus all euren Herausforderungen und Schwierigkeiten zu lernen"
 menu_title: ""
-description: "Ihr habt euch entschieden, aus all euren Herausforderungen und Schwierigkeiten zu lernen"
+description: "Orion, empfangen durch Al Fike: „Nach meinen Beobachtungen waren die Herausforderungen und Schwierigkeiten schon immer ein Teil eures Lebens auf der Erde …“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Leitstern und eine Quelle des Lichts"
 menu_title: ""
-description: "Seid ein Leitstern und eine Quelle des Lichts"
+description: "Franziskus, empfangen durch Al Fike: „Indem ich die menschliche Situation, die mein Leben war, zurückwies, verpflichtete ich mich gegenüber meinem …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

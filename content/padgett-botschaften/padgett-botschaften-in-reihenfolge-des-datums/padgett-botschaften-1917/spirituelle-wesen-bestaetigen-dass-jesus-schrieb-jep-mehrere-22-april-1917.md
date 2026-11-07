@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Wesen bestätigen, dass Jesus schrieb"
 menu_title: ""
-description: "Spirituelle Wesen bestätigen, dass Jesus schrieb"
+description: "Empfangen durch James Padgett am 22. April 1922, Washington, DC, USA: „Ich möchte sagen, dass wir alle hier sind und gehört haben, was der Meister sagte. …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

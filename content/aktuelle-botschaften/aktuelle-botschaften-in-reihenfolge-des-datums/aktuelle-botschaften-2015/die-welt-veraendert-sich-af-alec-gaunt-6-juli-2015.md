@@ -1,7 +1,7 @@
 ---
 title: "Die Welt verändert sich"
 menu_title: ""
-description: "Die Welt verändert sich"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ihr habt über den Wandel auf der Erde diskutiert und ich muss leider sagen, dass diese Veränderungen sich weiter …“"
 date: 2020-08-01 06:25:48+00:173
 draft: False
 hidden: True

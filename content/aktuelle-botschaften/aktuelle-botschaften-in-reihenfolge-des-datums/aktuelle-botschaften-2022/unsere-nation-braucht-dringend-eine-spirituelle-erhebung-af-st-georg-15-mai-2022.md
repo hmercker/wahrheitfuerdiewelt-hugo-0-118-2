@@ -1,7 +1,7 @@
 ---
 title: "Unsere Nation braucht dringend eine spirituelle Erhebung"
 menu_title: ""
-description: "Unsere Nation braucht dringend eine spirituelle Erhebung"
+description: "St Georg, empfangen durch Al Fike: „Ich möchte euch sagen, dass ich das, was ihr tut, um euer Land und eure Gemeinden zu verbessern und zu erheben …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

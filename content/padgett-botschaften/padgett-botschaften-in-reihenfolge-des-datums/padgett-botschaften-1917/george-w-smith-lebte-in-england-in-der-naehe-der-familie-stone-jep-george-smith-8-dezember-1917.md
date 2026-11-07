@@ -1,7 +1,7 @@
 ---
 title: "George W. Smith lebte in England in der Nähe der Familie Stone"
 menu_title: ""
-description: "George W. Smith lebte in England in der Nähe der Familie Stone"
+description: "George W. Smith, empfangen durch James Padgett. Datum nicht bekannt: „Stone) kannte und sie in der spirituellen Welt getroffen und gesehen hat, wie sie ihm …“"
 date: 2020-08-01 06:25:48+00:236
 draft: False
 hidden: True

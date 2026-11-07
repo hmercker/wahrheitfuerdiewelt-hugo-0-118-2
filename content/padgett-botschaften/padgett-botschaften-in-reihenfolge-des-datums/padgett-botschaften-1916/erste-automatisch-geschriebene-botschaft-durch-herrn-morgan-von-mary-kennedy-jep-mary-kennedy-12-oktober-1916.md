@@ -1,7 +1,7 @@
 ---
 title: "Erste automatisch geschriebene Botschaft durch Herrn Morgan von Mary Kennedy"
 menu_title: ""
-description: "Erste automatisch geschriebene Botschaft durch Herrn Morgan von Mary Kennedy"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich werde ein paar Zeilen schreiben, um dem Doktor zu sagen, dass ich ihn sehr liebe. Er darf nicht denken …“"
 date: 2020-08-01 06:25:48+00:231
 draft: False
 hidden: True

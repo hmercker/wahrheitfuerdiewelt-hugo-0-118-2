@@ -1,7 +1,7 @@
 ---
 title: "Juwelen der Liebe"
 menu_title: ""
-description: "Juwelen der Liebe"
+description: "Jesus & Maria, empfangen durch Amada Reza: „Ich sage \"wir\", weil mein Sohn, Jesus, jetzt bei uns ist und diese Gelegenheit nutzen möchte, um seine …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

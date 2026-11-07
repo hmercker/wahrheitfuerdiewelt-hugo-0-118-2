@@ -1,7 +1,7 @@
 ---
 title: "Valentinstagsbotschaft"
 menu_title: ""
-description: "Valentinstagsbotschaft"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich bringe euch meine Liebe. Möge jeder von euch wissen, dass ihr geliebt werdet, von Gott innig geliebt, von den …“"
 date: 2025-02-14 06:00:00+00:10
 draft: False
 hidden: True

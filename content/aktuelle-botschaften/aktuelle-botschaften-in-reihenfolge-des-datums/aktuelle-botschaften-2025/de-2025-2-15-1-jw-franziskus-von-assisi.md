@@ -1,7 +1,7 @@
 ---
 title: "Zufluchtsorte schaffen"
 menu_title: ""
-description: "Zufluchtsorte schaffen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich möchte über die Erschaffung von Zufluchtsorten und vor allem von spiritueller Zufluchtsorten …“"
 date: 2025-02-15 06:00:00+00:10
 draft: False
 hidden: True

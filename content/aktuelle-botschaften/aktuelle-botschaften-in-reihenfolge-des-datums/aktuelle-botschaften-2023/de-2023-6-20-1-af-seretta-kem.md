@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur Vorbereitung auf das DS-Retreat"
 menu_title: ""
-description: "Anleitung zur Vorbereitung auf das DS-Retreat"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich schlage vor, dass ihr von jetzt an bis zum Zeitpunkt eures Treffens eine Umgebung des Friedens um euch herum …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

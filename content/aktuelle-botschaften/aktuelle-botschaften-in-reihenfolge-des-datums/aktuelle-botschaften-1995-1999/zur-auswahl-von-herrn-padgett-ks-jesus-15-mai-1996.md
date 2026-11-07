@@ -1,7 +1,7 @@
 ---
 title: "Zur Auswahl von Herrn Padgett"
 menu_title: ""
-description: "Zur Auswahl von Herrn Padgett"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich liebe Dich und bin dankbar für all die vielen Segnungen, die Du uns schenkst.“"
 date: 2020-08-01 06:25:48+00:105
 draft: False
 hidden: True

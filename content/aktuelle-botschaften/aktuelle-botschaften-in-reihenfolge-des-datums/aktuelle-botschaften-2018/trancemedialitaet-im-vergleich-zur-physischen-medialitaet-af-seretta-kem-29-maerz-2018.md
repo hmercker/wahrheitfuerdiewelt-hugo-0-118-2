@@ -1,7 +1,7 @@
 ---
 title: "Trance-Medialität im Vergleich zur physischen Medialität"
 menu_title: ""
-description: "Trance-Medialität im Vergleich zur physischen Medialität"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt die Frage nach dem Unterschied zwischen Trance-Medialität und materieller oder physischer Medialität gestellt.“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

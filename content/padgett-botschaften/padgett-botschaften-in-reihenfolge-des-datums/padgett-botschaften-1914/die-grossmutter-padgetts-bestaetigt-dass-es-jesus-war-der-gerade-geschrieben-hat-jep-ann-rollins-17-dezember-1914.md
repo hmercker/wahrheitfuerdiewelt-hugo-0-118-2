@@ -1,7 +1,7 @@
 ---
 title: "Die Großmutter Padgett's bestätigt, dass es Jesus war, der gerade geschrieben hat"
 menu_title: ""
-description: "Die Großmutter Padgett's bestätigt, dass es Jesus war, der gerade geschrieben hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Du bist wirklich gesegnet und bevorzugt. Es war Jesus und er war so liebevoll und barmherzig dass es mir …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

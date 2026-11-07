@@ -1,7 +1,7 @@
 ---
 title: "Strebe nach dem Höchsten"
 menu_title: ""
-description: "Strebe nach dem Höchsten"
+description: "Augustinus: „Seid gesegnet, meine Kinder, Augustinus. Es ist manchmal schwer für uns, uns zu zeigen, besonders unter Bedingungen, die nicht in wahrer …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

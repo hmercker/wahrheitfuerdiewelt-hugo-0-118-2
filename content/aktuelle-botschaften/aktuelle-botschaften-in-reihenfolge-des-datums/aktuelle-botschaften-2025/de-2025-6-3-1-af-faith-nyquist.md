@@ -1,7 +1,7 @@
 ---
 title: "Frag, ob du helfen kannst"
 menu_title: ""
-description: "Frag, ob du helfen kannst"
+description: "Faith Nuquist, empfangen durch Al Fike: „Kinder Gottes, möget ihr euren Weg in ein größeres Licht finden und eure Seelen zu einer größeren Liebe erwecken.“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

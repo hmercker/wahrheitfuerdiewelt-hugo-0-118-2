@@ -1,7 +1,7 @@
 ---
 title: "Jesus gibt zu, dass seine Macht in manchen Dingen begrenzt ist und nicht immer die Antwort kennt"
 menu_title: ""
-description: "Jesus gibt zu, dass seine Macht in manchen Dingen begrenzt ist und nicht immer die Antwort kennt"
+description: "Jesus, empfangen durch James Padgett: „Natürlich solltest du immer daran denken, dass ich nicht alles weiß, was geschehen ist oder was geschehen wird.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

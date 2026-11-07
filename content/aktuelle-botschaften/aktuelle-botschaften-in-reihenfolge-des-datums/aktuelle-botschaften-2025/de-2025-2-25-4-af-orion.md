@@ -1,7 +1,7 @@
 ---
 title: "Bedingungen für die Manifestation"
 menu_title: ""
-description: "Bedingungen für die Manifestation"
+description: "Orion, empfangen durch Al Fike: „Mögen eure Seelen sich noch mehr öffnen und durch dieses Geschenk der Liebe tiefgreifend verwandelt werden.“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

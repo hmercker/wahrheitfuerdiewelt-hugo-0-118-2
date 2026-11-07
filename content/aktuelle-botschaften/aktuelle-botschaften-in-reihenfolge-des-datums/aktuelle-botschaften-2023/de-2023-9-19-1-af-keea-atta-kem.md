@@ -1,7 +1,7 @@
 ---
 title: "Freier Wille und die Suche nach eurer Bestimmung auf dem Pfad der Göttlichen Liebe"
 menu_title: ""
-description: "Freier Wille und die Suche nach eurer Bestimmung auf dem Pfad der Göttlichen Liebe"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wenn ihr in Not seid, wenn ihr euch danach sehnt, mit Liebe erfüllt zu werden, sind das die Zeiten, in denen ihr …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

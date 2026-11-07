@@ -1,7 +1,7 @@
 ---
 title: "Großmutter von Padgett  beschreibt ihr Zuhause in der siebten Sphäre"
 menu_title: ""
-description: "Großmutter von Padgett  beschreibt ihr Zuhause in der siebten Sphäre"
+description: "Ann Rollins, empfangen durch James Padgett: „Du bist im Geistigen zu besorgt um meinen Besuch genießen zu können, wie du es sonst tun würdest, aber ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Maria Magdalena ist nicht die Seelenpartnerin Jesu"
 menu_title: ""
-description: "Maria Magdalena ist nicht die Seelenpartnerin Jesu"
+description: "Maria Magdalena, empfangen durch Al Fike: „Meine Liebe zu ihm ist groß. Mein Respekt und meine Anerkennung für seine schöne Seele, diesen schönen Mann, der …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

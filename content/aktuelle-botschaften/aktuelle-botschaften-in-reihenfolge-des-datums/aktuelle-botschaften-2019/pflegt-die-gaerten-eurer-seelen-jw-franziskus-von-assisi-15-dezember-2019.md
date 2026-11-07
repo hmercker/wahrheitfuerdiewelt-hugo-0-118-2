@@ -1,7 +1,7 @@
 ---
 title: "Pflegt die Gärten eurer Seelen"
 menu_title: ""
-description: "Pflegt die Gärten eurer Seelen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Man muss seinen Garten pflegen, der Schöpfer und die Natur kümmert sich um alles andere. Bewässert …“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Heilige Geist ist nicht Gott; es gibt keine unverzeihliche Sünde"
 menu_title: ""
-description: "Der Heilige Geist ist nicht Gott; es gibt keine unverzeihliche Sünde"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir sagen, ein für alle Mal, dass der Heilige Geist nicht Gott ist und die unverzeihliche Sünde ist eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

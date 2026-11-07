@@ -1,7 +1,7 @@
 ---
 title: "Im Zustand der Gnade sein"
 menu_title: ""
-description: "Im Zustand der Gnade sein"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern, lasst mich euch daran erinnern, dass euer Schicksal jenseits dieser Welt liegt …“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

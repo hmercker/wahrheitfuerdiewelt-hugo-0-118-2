@@ -1,7 +1,7 @@
 ---
 title: "Keiner von uns ist eine Insel"
 menu_title: ""
-description: "Keiner von uns ist eine Insel"
+description: "Moses: „Ich danke euch dafür, dass ich die Gelegenheit bekomme, mal wieder auf der Erdebene zu sein.“"
 date: 2020-06-04 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frau Padgett verbringt einen großen Teil ihrer spirituellen Zeit mit Herrn Padgett"
 menu_title: ""
-description: "Frau Padgett verbringt einen großen Teil ihrer spirituellen Zeit mit Herrn Padgett"
+description: "Helen, empfangen durch James Padgett: „Ich war heute bei dir, als die Dame anrief und hörte dein Gespräch und möchte dir sagen, dass es eine gewisse …“"
 date: 2020-08-01 06:25:48+00:244
 draft: False
 hidden: True

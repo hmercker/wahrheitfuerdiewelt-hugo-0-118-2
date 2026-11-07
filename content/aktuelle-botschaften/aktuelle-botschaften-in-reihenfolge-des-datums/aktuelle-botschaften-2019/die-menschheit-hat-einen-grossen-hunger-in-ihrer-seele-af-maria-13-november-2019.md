@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit hat einen großen Hunger in ihrer Seele"
 menu_title: ""
-description: "Die Menschheit hat einen großen Hunger in ihrer Seele"
+description: "Maria, empfangen durch Al Fike: „Wie sehr freue ich mich, zu euch in diesem Lichtkreis auf eurer Erdebene kommen zu können, so weit weg von meinem Wohnort.“"
 date: 2020-08-01 06:25:48+00:143
 draft: False
 hidden: True

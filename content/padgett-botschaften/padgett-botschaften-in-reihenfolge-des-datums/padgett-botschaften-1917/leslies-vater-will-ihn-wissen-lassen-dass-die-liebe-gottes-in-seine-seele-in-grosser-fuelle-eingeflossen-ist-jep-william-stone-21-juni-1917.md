@@ -1,7 +1,7 @@
 ---
 title: "Leslies Vater will ihn wissen lassen, dass die Liebe Gottes in seine Seele in großer Fülle eingeflossen ist"
 menu_title: ""
-description: "Leslies Vater will ihn wissen lassen, dass die Liebe Gottes in seine Seele in großer Fülle eingeflossen ist"
+description: "William Stone, empfangen durch James Padgett: „Ich möchte nur ein Wort an meinen Sohn richten. Ich habe das Recht, ihm zu sagen, dass diese Liebe zuweilen …“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

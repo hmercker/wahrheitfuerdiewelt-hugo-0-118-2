@@ -1,7 +1,7 @@
 ---
 title: "Der innewohnende Geist (Indwelling Spirit) ist kein gültiges Konstrukt"
 menu_title: ""
-description: "Der innewohnende Geist (Indwelling Spirit) ist kein gültiges Konstrukt"
+description: "Josephus, empfangen durch Al Fike: „Wenn es ein Bedürfnis gibt, eine Frage zu stellen und diese Frage für das Wachstum und die Entwicklung eurer Seele …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Harmonie wird bei dem Laurelville Retreat herrschen"
 menu_title: ""
-description: "Harmonie wird bei dem Laurelville Retreat herrschen"
+description: "Professor Salyards, empfangen durch Al Fike: „Ihr seht also, wenn ihr weiter zusammenarbeitet, entsteht Harmonie und alle Teile fügen sich so zusammen, wie …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

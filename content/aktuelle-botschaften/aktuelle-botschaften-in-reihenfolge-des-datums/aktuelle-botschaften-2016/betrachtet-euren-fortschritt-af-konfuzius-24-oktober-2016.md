@@ -1,7 +1,7 @@
 ---
 title: "Betrachtet euren Fortschritt"
 menu_title: ""
-description: "Betrachtet euren Fortschritt"
+description: "Konfuzius, empfangen durch Al Fike: „Oh, wie kämpft ihr mit der menschlichen Beschaffenheit, mit den großen Herausforderungen, denen ihr in dieser Welt …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

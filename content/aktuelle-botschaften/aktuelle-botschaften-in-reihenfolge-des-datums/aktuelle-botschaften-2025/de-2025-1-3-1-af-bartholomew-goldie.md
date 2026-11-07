@@ -1,7 +1,7 @@
 ---
 title: "Unser Ziel auf Barbados"
 menu_title: ""
-description: "Unser Ziel auf Barbados"
+description: "Bartholomäus, empfangen durch Al Fike: „Wie mein lieber Bruder sagt: Wir haben keine Zeit zu verlieren. In der Tat müsst ihr, die ihr so hingebungsvolle …“"
 date: 2025-01-03 06:00:00+00:10
 draft: False
 hidden: True

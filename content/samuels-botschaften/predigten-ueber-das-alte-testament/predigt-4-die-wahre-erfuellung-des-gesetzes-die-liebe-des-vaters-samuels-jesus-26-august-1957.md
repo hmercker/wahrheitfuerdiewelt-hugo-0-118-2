@@ -1,7 +1,7 @@
 ---
 title: "Predigt 4 - Die wahre Erfüllung des Gesetzes - die Liebe des Vaters"
 menu_title: ""
-description: "Predigt 4 - Die wahre Erfüllung des Gesetzes - die Liebe des Vaters"
+description: "Jesus, empfangen durch Dr Samuels: „Ich habe mich gefreut, dir schreiben zu können, um dir zu zeigen, dass die christlichen Kirchen in ihrer jetzigen Form …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

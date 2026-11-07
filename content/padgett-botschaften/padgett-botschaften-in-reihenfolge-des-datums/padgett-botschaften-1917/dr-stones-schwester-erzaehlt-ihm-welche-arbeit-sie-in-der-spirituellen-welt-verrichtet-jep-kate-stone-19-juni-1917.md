@@ -1,7 +1,7 @@
 ---
 title: "Dr. Stones Schwester erzählt ihm welche Arbeit sie in der Spirituellen Welt verrichtet"
 menu_title: ""
-description: "Dr. Stones Schwester erzählt ihm welche Arbeit sie in der Spirituellen Welt verrichtet"
+description: "Kate Stone, empfangen durch James Padgett: „Sage meinem Bruder, dass das, was er vor ein paar Nächten in Bezug auf mich gehört hat, wahr ist und dass ich …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

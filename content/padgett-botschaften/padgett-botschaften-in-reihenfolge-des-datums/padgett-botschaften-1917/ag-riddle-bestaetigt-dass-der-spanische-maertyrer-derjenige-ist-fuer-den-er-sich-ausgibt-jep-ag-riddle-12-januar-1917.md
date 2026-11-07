@@ -1,7 +1,7 @@
 ---
 title: "AG Riddle bestätigt, dass der spanische Märtyrer derjenige ist, für den er sich ausgibt"
 menu_title: ""
-description: "AG Riddle bestätigt, dass der spanische Märtyrer derjenige ist, für den er sich ausgibt"
+description: "Riddle, empfangen durch James Padgett: „Ich schreibe nur, um zu bestätigen, dass der Geist der behauptet ein spanischer Märtyrer zu sein, derjenige ist …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

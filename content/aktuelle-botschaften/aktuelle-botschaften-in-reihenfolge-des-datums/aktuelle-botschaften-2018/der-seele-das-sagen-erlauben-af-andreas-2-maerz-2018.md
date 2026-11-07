@@ -1,7 +1,7 @@
 ---
 title: "Der Seele das Sagen erlauben"
 menu_title: ""
-description: "Der Seele das Sagen erlauben"
+description: "Andreas, empfangen durch Al Fike: „Ja, ich war während eures Gesprächs anwesend und ich möchte einige meiner Gedanken zu dem hinzufügen, worüber ihr …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der erste Schritt zur Öffnung für die Liebe Gottes"
 menu_title: ""
-description: "Der erste Schritt zur Öffnung für die Liebe Gottes"
+description: "Johannes der Täufer, empfangen durch Jimbeau Walsh: „Ich kann euch sagen, dass der erste Schritt, um sich der Liebe Gottes zu öffnen, darin besteht, dass …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

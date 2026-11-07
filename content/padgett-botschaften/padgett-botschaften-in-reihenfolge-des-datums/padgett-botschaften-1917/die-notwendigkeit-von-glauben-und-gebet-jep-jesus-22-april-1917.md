@@ -1,7 +1,7 @@
 ---
 title: "Die Notwendigkeit von Glauben und Gebet"
 menu_title: ""
-description: "Die Notwendigkeit von Glauben und Gebet"
+description: "Jesus, empfangen durch James Padgett: „Ich war heute Nacht bei dir und hörte die Predigt, aber darin wurde nicht viel gesagt, was wesentlich für unsere …“"
 date: 2020-08-01 06:25:48+00:156
 draft: False
 hidden: True

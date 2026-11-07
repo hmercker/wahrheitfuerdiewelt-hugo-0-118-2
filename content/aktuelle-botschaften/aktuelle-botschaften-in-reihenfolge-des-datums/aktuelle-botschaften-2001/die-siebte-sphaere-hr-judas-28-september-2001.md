@@ -1,7 +1,7 @@
 ---
 title: "Die siebte Sphäre"
 menu_title: ""
-description: "Die siebte Sphäre"
+description: "Judas, empfangen durch H.: „Lass uns über die siebte Sphäre sprechen. [H.: Deine letzte Botschaft?“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

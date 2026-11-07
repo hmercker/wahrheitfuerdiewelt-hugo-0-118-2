@@ -1,7 +1,7 @@
 ---
 title: "Als Werkzeuge Gottes in der Welt wandeln"
 menu_title: ""
-description: "Als Werkzeuge Gottes in der Welt wandeln"
+description: "Seretta Kem, empfangen durch Al Fike: „Eure Arbeit geht weiter, nicht wahr, meine Freunde? Eure Arbeit geht auf dieser Erdebene weiter, um Licht und Liebe …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen versichert Herrn Padgett, dass Bunyan wirklich geschrieben hat"
 menu_title: ""
-description: "Helen versichert Herrn Padgett, dass Bunyan wirklich geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hast heute Abend viel geschrieben und musst aufhören, da es spät ist.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

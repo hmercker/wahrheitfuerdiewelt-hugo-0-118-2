@@ -1,7 +1,7 @@
 ---
 title: "Wenn die Seele den Vorrang hat"
 menu_title: ""
-description: "Wenn die Seele den Vorrang hat"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Er ist eine königliche und lichterfüllte Seele. Ich weiß, dass viele von euch mit dem Zwiespalt zu …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

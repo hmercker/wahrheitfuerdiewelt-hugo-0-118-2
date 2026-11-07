@@ -1,7 +1,7 @@
 ---
 title: "Kommunikationen von anderen Planeten - 2023"
 menu_title: ""
-description: "Kommunikationen von anderen Planeten - 2023"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Orion | Hilfe von Außerirdischen für die Menschheit | 27 Januar 2023 Orion | Integration des …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

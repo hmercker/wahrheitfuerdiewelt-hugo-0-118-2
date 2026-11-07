@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 9 :  Jesu Kindheit in Ägypten"
 menu_title: ""
-description: "Offenbarung 9 :  Jesu Kindheit in Ägypten"
+description: "Jesus, empfangen durch Dr Samuels: „Ich war bei euch, als Doktor Stone dir eine Botschaft überreicht hat, die James Padgett vor einigen Jahren empfangen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

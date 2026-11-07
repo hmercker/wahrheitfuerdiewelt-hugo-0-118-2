@@ -1,7 +1,7 @@
 ---
 title: "Judas' Erfahrung der Höllen"
 menu_title: ""
-description: "Judas' Erfahrung der Höllen"
+description: "Judas, empfangen durch H.: „Mein lieber H, heute war wirklich einer dieser Tage...! Ja, solche sind die Schwierigkeiten, deine Spiritualität auf Erden …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

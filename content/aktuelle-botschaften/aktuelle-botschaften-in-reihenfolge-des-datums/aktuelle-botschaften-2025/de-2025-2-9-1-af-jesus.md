@@ -1,7 +1,7 @@
 ---
 title: "Gottes heilende Berührung annehmen"
 menu_title: ""
-description: "Gottes heilende Berührung annehmen"
+description: "Jesus, empfangen durch Maureen Cardoso: „... jede anwesende Seele berühren, denn alles, was ihr braucht, ist der aufrichtige Wunsch, dieses Geschenk Gottes …“"
 date: 2025-03-19 06:00:00+00:10
 draft: False
 hidden: True

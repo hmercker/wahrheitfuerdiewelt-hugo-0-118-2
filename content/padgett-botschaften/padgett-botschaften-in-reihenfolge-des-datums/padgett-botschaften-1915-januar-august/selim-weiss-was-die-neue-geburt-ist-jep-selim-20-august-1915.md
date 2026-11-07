@@ -1,7 +1,7 @@
 ---
 title: "Selim weiß was die neue Geburt ist"
 menu_title: ""
-description: "Selim weiß was die neue Geburt ist"
+description: "Selim, empfangen durch James Padgett: „Ich war der erste muslimische Sultan dieses Namens und ich möchte dir für eine Weile schreiben, wenn du nichts …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

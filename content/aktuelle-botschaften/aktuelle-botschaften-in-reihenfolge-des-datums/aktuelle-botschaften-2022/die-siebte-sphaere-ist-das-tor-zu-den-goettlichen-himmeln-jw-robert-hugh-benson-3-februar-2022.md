@@ -1,7 +1,7 @@
 ---
 title: "Die siebte Sphäre ist das Tor zu den Göttlichen Himmeln"
 menu_title: ""
-description: "Die siebte Sphäre ist das Tor zu den Göttlichen Himmeln"
+description: "Robert Hugh Benson, empfangen durch Jimbeau Walsh: „Ich verfolge eure Lesungen und mein Herz ist erfüllt, wenn ich sehe, wie jede neue Enthüllung der …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Frank Davis, ein alter Kumpel von Padgett, beschreibt seinen Eintritt in die spirituelle Welt und von der Hilfe, die er dort erhielt"
 menu_title: ""
-description: "Frank Davis, ein alter Kumpel von Padgett, beschreibt seinen Eintritt in die spirituelle Welt und von der Hilfe, die er dort erhielt"
+description: "Frank Davis, empfangen durch James Padgett: „Nun, ich freue mich, dir schreiben zu können, eine Sache, die ich auf Erden nie von jemandem erwartet hätte …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

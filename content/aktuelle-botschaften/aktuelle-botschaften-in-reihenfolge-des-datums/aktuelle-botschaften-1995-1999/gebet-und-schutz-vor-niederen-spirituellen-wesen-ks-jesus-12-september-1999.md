@@ -1,7 +1,7 @@
 ---
 title: "Gebet und Schutz vor niederen spirituellen Wesen"
 menu_title: ""
-description: "Gebet und Schutz vor niederen spirituellen Wesen"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Gott, Schöpfer unserer Seelen, Quelle aller Liebe, ich habe das Gefühl, dass Deine dienenden Engel durch …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

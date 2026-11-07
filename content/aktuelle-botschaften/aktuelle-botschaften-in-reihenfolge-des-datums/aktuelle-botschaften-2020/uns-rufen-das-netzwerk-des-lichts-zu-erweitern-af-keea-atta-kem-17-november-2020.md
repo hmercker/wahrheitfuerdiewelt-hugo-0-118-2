@@ -1,7 +1,7 @@
 ---
 title: "Uns rufen, das Netzwerk des Lichts zu erweitern"
 menu_title: ""
-description: "Uns rufen, das Netzwerk des Lichts zu erweitern"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Möge Gott eure schönen Seelen mit Seiner Liebe segnen. Wenn ihr zusammen in diesen Kreisen des Lichts betet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

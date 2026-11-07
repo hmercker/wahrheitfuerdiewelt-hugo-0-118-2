@@ -1,7 +1,7 @@
 ---
 title: "Helen, die die Seelengefährtin von Richter Syrick ausfindig machte, erfreut sich, dass Rose heute Abend schreiben konnte"
 menu_title: ""
-description: "Helen, die die Seelengefährtin von Richter Syrick ausfindig machte, erfreut sich, dass Rose heute Abend schreiben konnte"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hast gerade einen Brief von Rose erhalten, die schon so lange darauf wartet, dir zu schreiben, und …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Heilender Segen für die Welt"
 menu_title: ""
-description: "Heilender Segen für die Welt"
+description: "Mylora, empfangen durch Al Fike: „Möge die Lebenskraft und der Segen von Gottes Atem über euch und über eure Welt kommen. Denn das sucht ihr, meine Lieben.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

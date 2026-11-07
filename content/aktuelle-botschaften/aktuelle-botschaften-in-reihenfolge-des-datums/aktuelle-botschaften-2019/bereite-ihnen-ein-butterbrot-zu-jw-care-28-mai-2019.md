@@ -1,7 +1,7 @@
 ---
 title: "Bereite ihnen ein Butterbrot zu"
 menu_title: ""
-description: "Bereite ihnen ein Butterbrot zu"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ihr alle beginnt nun zu sehen, wie euer Traum, die größere Gemeinschaft, direkt vor euren Augen …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

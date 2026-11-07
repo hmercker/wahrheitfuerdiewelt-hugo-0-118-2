@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt Gott, euch als Seine Kanäle der Liebe zu benutzen"
 menu_title: ""
-description: "Erlaubt Gott, euch als Seine Kanäle der Liebe zu benutzen"
+description: "Andreas, empfangen durch Al Fike: „Wir sind sehr zufrieden mit diesen beiden Instrumenten, die weit gereist sind und ein Instrument und Kanal waren, um …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

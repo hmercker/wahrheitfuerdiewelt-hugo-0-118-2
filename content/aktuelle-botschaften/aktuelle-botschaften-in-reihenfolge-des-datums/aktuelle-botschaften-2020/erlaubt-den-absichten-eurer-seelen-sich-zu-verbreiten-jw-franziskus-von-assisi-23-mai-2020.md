@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt den Absichten eurer Seelen, sich zu verbreiten"
 menu_title: ""
-description: "Erlaubt den Absichten eurer Seelen, sich zu verbreiten"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ihr habt oft gehört, dass wir euch Kinder, Brüder, Schwestern, unsere Freunde nennen, weil wir …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

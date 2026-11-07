@@ -1,7 +1,7 @@
 ---
 title: "Die Tochter von Herrn Padgett, Nitas zweiter Brief, konnte nicht der lange Brief sein, den sie schreiben wollte"
 menu_title: ""
-description: "Die Tochter von Herrn Padgett, Nitas zweiter Brief, konnte nicht der lange Brief sein, den sie schreiben wollte"
+description: "Nita Padgett, empfangen durch James Padgett: „Nun, Daddy, dies ist die Nacht, in der ich meine Nachricht schreiben sollte, und ich habe mich darauf …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

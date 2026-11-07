@@ -1,7 +1,7 @@
 ---
 title: "Engel begleiten alle, die Gottes Liebe suchen"
 menu_title: ""
-description: "Engel begleiten alle, die Gottes Liebe suchen"
+description: "Aaron, empfangen durch Al Fike: „Möge sie wissen, dass die Engel sie und ihre liebe Schwester weiterhin umgeben. Mit jedem Tag, der kommt, ruht Gottes Hand …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

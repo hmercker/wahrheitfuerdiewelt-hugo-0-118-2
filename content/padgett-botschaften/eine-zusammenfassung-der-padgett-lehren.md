@@ -1,7 +1,7 @@
 ---
 title: "Zusammenfassung der Padgett Lehren"
 menu_title: "Zusammenfassung der Padgett Lehren"
-description: "Zusammenfassung der Padgett Lehren"
+description: "Die erneuten Offenbarungen Jesu, wie sie durch James Padgett empfangen wurden, zeigen uns den Weg zu Gott und zu einem ewigen Leben in Seinem Göttlichen …“"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: False

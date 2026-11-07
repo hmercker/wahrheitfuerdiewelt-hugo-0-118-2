@@ -1,7 +1,7 @@
 ---
 title: "Die Erzengel und Satan"
 menu_title: ""
-description: "Die Erzengel und Satan"
+description: "Judas, empfangen durch H.: „Als du mittags in deinem Garten warst und die Brise und die Wärme der Sonne gespürt hast, als du die mit Blüten überhäuften …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sei meine Liebe, um die Welt zu verändern"
 menu_title: ""
-description: "Sei meine Liebe, um die Welt zu verändern"
+description: "Vater, empfangen durch Child of God: „Suche mich in deinem Herze, und du wirst mich finden. Lass Meine Liebe auf dich scheinen.“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

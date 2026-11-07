@@ -1,7 +1,7 @@
 ---
 title: "Aman spricht über den Himmel auf Erden, den er erlebt hat"
 menu_title: ""
-description: "Aman spricht über den Himmel auf Erden, den er erlebt hat"
+description: "Aman, empfangen durch Al Fike: „Viele von euch sind sich meiner Existenz und der meiner Seelenpartnerin bewusst, und ihr habt meine Botschaften bezüglich …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

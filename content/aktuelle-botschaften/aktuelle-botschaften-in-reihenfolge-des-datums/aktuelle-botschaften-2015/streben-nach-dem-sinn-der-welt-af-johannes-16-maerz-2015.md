@@ -1,7 +1,7 @@
 ---
 title: "Streben nach dem Sinn der Welt"
 menu_title: ""
-description: "Streben nach dem Sinn der Welt"
+description: "Johannes, empfangen durch Al Fike: „Jeder von euch wünscht sich, die Wahrheit zu sehen, die Natur des Lebens und eures eigenen Wesens zu verstehen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

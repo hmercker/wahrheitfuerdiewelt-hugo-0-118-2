@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit kann nie versagen"
 menu_title: ""
-description: "Die Wahrheit kann nie versagen"
+description: "Samuel: „Als ich heute Abend hier stand und jeden von euch beobachtete, wie ihr im Kreis saßt, und ich war mir eurer Gedanken bewusst, jener Dinge, die …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

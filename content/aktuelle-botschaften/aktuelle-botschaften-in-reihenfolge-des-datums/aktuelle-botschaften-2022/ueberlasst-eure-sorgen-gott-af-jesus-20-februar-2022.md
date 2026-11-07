@@ -1,7 +1,7 @@
 ---
 title: "Überlasst eure Sorgen Gott"
 menu_title: ""
-description: "Überlasst eure Sorgen Gott"
+description: "Jesus, empfangen durch Al Fike: „Diese Offenheit kommt mit der Sehnsucht und dem Verlangen im Inneren. Die Wahrheit kommt mit einer Seele, die empfänglich …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

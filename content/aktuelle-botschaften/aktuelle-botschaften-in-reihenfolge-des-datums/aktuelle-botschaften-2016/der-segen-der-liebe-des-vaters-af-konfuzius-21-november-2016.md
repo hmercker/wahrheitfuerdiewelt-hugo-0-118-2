@@ -1,7 +1,7 @@
 ---
 title: "Der Segen der Liebe des Vaters"
 menu_title: ""
-description: "Der Segen der Liebe des Vaters"
+description: "Konfuzius, empfangen durch Al Fike: „Während der Vater euch mit Seiner Liebe segnet, diesem tiefen und beständigen Segen der Liebe, strömt Seine Essenz in …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

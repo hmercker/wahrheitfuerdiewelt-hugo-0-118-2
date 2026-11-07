@@ -1,7 +1,7 @@
 ---
 title: "Glaube und die Seele 4: Befreiet euch vom einschränkenden Einfluss des Selbstzweifels"
 menu_title: ""
-description: "Glaube und die Seele 4: Befreiet euch vom einschränkenden Einfluss des Selbstzweifels"
+description: "Michael Collier, empfangen durch Al Fike: „Die Wahrheit dieser Liebe, die Segnungen von Gottes Wesen, zu verbreiten, erfordert viele Fähigkeiten und …“"
 date: 2026-04-12 06:00:00+00:10
 draft: False
 hidden: True

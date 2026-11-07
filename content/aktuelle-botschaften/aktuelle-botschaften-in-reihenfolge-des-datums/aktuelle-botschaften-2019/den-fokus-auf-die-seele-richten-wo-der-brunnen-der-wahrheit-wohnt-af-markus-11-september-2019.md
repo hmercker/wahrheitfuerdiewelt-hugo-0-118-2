@@ -1,7 +1,7 @@
 ---
 title: "Den Fokus auf die Seele richten, wo der Brunnen der Wahrheit wohnt"
 menu_title: ""
-description: "Den Fokus auf die Seele richten, wo der Brunnen der Wahrheit wohnt"
+description: "Markus, empfangen durch Al Fike: „Es ist gut, dass ihr weiterhin die Seelen in eurer Gemeinde, unserer Gemeinde, willkommen heißt und die Türen offen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

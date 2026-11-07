@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid ein Teil meiner Herde"
 menu_title: ""
-description: "Ihr seid ein Teil meiner Herde"
+description: "Jesus, empfangen durch Al Fike: „Ich liebe jede einzelne Seele hier, die die Liebe sucht, die sich wünscht, Gott nahe zu sein, und die es ernst meint in …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

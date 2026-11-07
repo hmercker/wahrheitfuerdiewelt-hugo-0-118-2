@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt, da Herr Padgett ihr Seelenpartner ist, sie hauptsächlich mit ihm arbeitet solange er auf Erden ist"
 menu_title: ""
-description: "Helen erklärt, da Herr Padgett ihr Seelenpartner ist, sie hauptsächlich mit ihm arbeitet solange er auf Erden ist"
+description: "Helen, empfangen durch James Padgett: „Nun, ich möchte dir sagen, dass ich heute Abend bei dir in der Versammlung war und sah, dass du etwas von der …“"
 date: 2020-08-01 06:25:48+00:246
 draft: False
 hidden: True

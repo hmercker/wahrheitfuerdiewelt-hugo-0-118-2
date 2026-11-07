@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur Erlangung der Gabe der Direkten Stimme"
 menu_title: ""
-description: "Anleitung zur Erlangung der Gabe der Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Wieder kommen wir im Gebet für die Entwicklung der Gabe der Direkten Stimme zusammen, um uns in jeder Hinsicht auf …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

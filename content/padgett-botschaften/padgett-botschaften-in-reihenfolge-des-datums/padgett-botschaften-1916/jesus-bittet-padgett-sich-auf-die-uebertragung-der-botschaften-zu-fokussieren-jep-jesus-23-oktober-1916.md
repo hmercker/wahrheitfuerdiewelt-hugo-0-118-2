@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, sich auf die Übertragung der Botschaften zu fokussieren"
 menu_title: ""
-description: "Jesus bittet Padgett, sich auf die Übertragung der Botschaften zu fokussieren"
+description: "Jesus, empfangen durch James Padgett: „Mit großem Erstaunen haben ich und die vielen anderen hohen, spirituellen Wesen beobachtet, welch außergewöhnlichen …“"
 date: 2020-08-01 06:25:48+00:242
 draft: False
 hidden: True

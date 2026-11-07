@@ -1,7 +1,7 @@
 ---
 title: "Chauncey Giles ändert seinen Glauben das Jesus Gott sei"
 menu_title: ""
-description: "Chauncey Giles ändert seinen Glauben das Jesus Gott sei"
+description: "Chauncey Giles, empfangen von James Padgett: „Lass mich dir eine Zeile schreiben, denn mich interessiert das, was dir gerade geschrieben wurde, denn als …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

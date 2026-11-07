@@ -1,7 +1,7 @@
 ---
 title: "Anbruch einer neuen Ära"
 menu_title: ""
-description: "Anbruch einer neuen Ära"
+description: "Josef, empfangen durch Al Fike: „Ein neuer Tag bricht an, eine neue Ära für die Menschheit, um das Unrecht zu berichtigen, den Irrtum zu heilen, Licht in …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

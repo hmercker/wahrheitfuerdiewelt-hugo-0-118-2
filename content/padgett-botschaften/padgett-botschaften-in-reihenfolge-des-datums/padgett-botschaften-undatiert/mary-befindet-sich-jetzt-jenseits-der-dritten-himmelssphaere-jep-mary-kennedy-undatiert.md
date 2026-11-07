@@ -1,7 +1,7 @@
 ---
 title: "Mary befindet sich jetzt jenseits der dritten Himmelssphäre"
 menu_title: ""
-description: "Mary befindet sich jetzt jenseits der dritten Himmelssphäre"
+description: "Mary Kennedy, empfangen durch James Padgett: „Helen sagt, dass ich nicht vergessen darf, ihm zu sagen, dass ich ihn liebe, und ihn dann überraschen soll …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

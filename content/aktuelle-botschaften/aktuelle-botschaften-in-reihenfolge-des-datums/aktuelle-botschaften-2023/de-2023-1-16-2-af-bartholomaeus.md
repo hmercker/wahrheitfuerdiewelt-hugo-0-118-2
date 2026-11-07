@@ -1,7 +1,7 @@
 ---
 title: "Ein Fundament aus Wahrheit, Demut, Liebe und Gnade errichten"
 menu_title: ""
-description: "Ein Fundament aus Wahrheit, Demut, Liebe und Gnade errichten"
+description: "Bartholoma4us, empfangen durch Al fike: „Ich sehe, dass ihr mit eurer Arbeit sehr zufrieden seid, und ich möchte, dass ihr wisst, dass wir es auch sind.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

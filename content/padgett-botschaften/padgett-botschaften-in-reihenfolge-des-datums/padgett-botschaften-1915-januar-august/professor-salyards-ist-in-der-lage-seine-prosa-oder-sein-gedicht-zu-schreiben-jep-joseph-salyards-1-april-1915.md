@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards ist in der Lage, seine Prosa oder sein Gedicht zu schreiben"
 menu_title: ""
-description: "Professor Salyards ist in der Lage, seine Prosa oder sein Gedicht zu schreiben"
+description: "Professor Salyards, empfangen durch James Padgett: „Ja, wir sind sehr glücklich, aber sie ist es mehr als ich. Sie verfügt über mehr Liebe in ihrer Seele.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

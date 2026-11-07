@@ -1,7 +1,7 @@
 ---
 title: "Bringe Frieden, Trost, Liebe, Heilung als Gott-Kanäle"
 menu_title: ""
-description: "Bringe Frieden, Trost, Liebe, Heilung als Gott-Kanäle"
+description: "Augustinus, empfangen durch Al Fike: „Wo es Streit gibt, möget ihr Frieden säen. Wo es Leid und Einsamkeit gibt, möget ihr den Segen Gottes als Kanal der …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

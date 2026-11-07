@@ -1,7 +1,7 @@
 ---
 title: "Die Arbeit geht weiter, wenn ihr Gott treu bleibt"
 menu_title: ""
-description: "Die Arbeit geht weiter, wenn ihr Gott treu bleibt"
+description: "Thomas von Aquin, empfangen durch Al Fike: „Ich möchte meinem lieben Schützling für seine Bemühungen danken, für seine tiefen und aufrichtigen Gebete, für …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

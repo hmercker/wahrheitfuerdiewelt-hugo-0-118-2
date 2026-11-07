@@ -1,7 +1,7 @@
 ---
 title: "Bitte aktualisiere mein Buch, wo es in seinem Text veraltet ist"
 menu_title: ""
-description: "Bitte aktualisiere mein Buch, wo es in seinem Text veraltet ist"
+description: "Robert James Lees, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, bitte erlaubt nicht den Worten aus einer anderen Zeit, einem anderen Ort, euren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

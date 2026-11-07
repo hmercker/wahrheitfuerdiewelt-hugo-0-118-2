@@ -1,7 +1,7 @@
 ---
 title: "Helen ist bei mir, wenn Harry zu Besuch ins Büro kommt"
 menu_title: ""
-description: "Helen ist bei mir, wenn Harry zu Besuch ins Büro kommt"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun, meine Lieber, ich sah, dass du wolltest, dass ich schreibe, und da ich sehr willig und bestrebt bin …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

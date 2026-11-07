@@ -1,7 +1,7 @@
 ---
 title: "Lektion 12 - Die Reise der Seele zu Gott"
 menu_title: ""
-description: "Lektion 12 - Die Reise der Seele zu Gott"
+description: "Jesus, empfangen durch Al Fike: „Es ist meine Hoffnung, dass eines Tages viele meine gesprochenen Worte lesen und großen Trost und Wahrheit in ihnen finden …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

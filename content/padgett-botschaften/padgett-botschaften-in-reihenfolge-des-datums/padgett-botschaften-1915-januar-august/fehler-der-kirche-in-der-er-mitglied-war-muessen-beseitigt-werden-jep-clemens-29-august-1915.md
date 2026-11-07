@@ -1,7 +1,7 @@
 ---
 title: "Fehler der Kirche, in der er Mitglied war, müssen beseitigt werden"
 menu_title: ""
-description: "Fehler der Kirche, in der er Mitglied war, müssen beseitigt werden"
+description: "Clemens, empfangen durch James Padgett: „Ich, Clemens, möchte ein paar Zeilen schreiben. Ich habe dir schon einmal geschrieben und dir von einigen Übeln …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

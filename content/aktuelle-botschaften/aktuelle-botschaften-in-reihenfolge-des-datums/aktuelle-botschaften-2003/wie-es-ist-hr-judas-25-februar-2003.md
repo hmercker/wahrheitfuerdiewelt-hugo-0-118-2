@@ -1,7 +1,7 @@
 ---
 title: "Wie es ist"
 menu_title: ""
-description: "Wie es ist"
+description: "Judas, empfangen durch H.: „Erlaube mir, dir zu sagen, dass ich dich in den letzten Tagen beobachtet habe, und ich habe deine Beschwerden verstanden - ja …“"
 date: 2020-08-01 06:25:48+00:259
 draft: False
 hidden: True

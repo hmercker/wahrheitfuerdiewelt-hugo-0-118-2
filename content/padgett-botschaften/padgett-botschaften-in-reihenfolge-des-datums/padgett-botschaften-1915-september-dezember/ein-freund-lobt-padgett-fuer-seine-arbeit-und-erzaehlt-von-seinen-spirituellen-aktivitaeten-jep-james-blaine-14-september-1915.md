@@ -1,7 +1,7 @@
 ---
 title: "Ein Freund lobt Padgett für seine Arbeit und erzählt von seinen spirituellen Aktivitäten"
 menu_title: ""
-description: "Ein Freund lobt Padgett für seine Arbeit und erzählt von seinen spirituellen Aktivitäten"
+description: "James G Blaine 1, empfangen von James Padgett: „Nun, ich war während der Zeit deines Schreibens bei dir und habe gesehen, welche Botschaften du erhalten …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

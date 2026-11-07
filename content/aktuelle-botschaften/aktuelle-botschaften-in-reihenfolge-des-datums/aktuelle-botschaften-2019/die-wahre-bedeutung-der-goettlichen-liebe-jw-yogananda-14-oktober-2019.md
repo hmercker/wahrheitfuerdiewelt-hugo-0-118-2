@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Bedeutung der Göttlichen Liebe"
 menu_title: ""
-description: "Die wahre Bedeutung der Göttlichen Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich sage euch, diese göttliche Liebe - und wenn ich von göttlicher Liebe spreche, meine ich die Liebe Gottes und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

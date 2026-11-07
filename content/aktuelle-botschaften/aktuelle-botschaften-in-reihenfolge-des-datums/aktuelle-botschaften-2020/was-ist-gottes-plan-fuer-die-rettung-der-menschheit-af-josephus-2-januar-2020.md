@@ -1,7 +1,7 @@
 ---
 title: "Was ist Gottes Plan für die Erlösung der Menschheit?"
 menu_title: ""
-description: "Was ist Gottes Plan für die Erlösung der Menschheit?"
+description: "Josephus, empfangen durch Al Fike: „Die Ursprünge von Gottes Plan für die Rettung der Menschheit kommen aus seiner Großen Seele.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

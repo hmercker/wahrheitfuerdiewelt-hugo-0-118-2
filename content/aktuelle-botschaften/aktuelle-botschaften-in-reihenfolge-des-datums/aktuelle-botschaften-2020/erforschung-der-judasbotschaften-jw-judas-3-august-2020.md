@@ -1,7 +1,7 @@
 ---
 title: "Erforschung der Judas-Botschaften"
 menu_title: ""
-description: "Erforschung der Judas-Botschaften"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es bereitet mir große Freude, euch zu besuchen, wenn ihr die Botschaften erforscht, die unserem Bruder in Ecuador …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

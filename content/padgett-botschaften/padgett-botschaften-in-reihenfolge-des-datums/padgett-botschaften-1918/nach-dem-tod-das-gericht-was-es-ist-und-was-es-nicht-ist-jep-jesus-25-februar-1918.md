@@ -1,7 +1,7 @@
 ---
 title: "Nach dem Tod das Gericht: Was es ist, und was es nicht ist"
 menu_title: ""
-description: "Nach dem Tod das Gericht: Was es ist, und was es nicht ist"
+description: "Jesus, empfangen durch James Padgett: „Ich weiß, dass die Bibel, oder vielmehr einige der Bücher, diesen Tag sehr betonen, wenn Gott, wie sie behaupten …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 15 - Die Erweiterung des Seelenbewusstseins mit göttlicher Liebe - Band 3"
 menu_title: ""
-description: "Lektion 15 - Die Erweiterung des Seelenbewusstseins mit göttlicher Liebe - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Ob in der materiellen Welt oder in der geistigen Welt, jede Seele wird von Gott zutiefst geliebt.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

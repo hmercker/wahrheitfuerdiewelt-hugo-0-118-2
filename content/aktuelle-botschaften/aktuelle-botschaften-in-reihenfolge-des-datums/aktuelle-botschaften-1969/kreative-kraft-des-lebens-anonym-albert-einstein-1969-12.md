@@ -1,7 +1,7 @@
 ---
 title: "Kreative Kraft des Lebens"
 menu_title: ""
-description: "Kreative Kraft des Lebens"
+description: "Albert Einstein: „Ich erkenne jetzt, wie wenig der Mensch wirklich weiß, während er auf der Erde ist, und ich erkenne jetzt, dass die Arbeit, die ich auf …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

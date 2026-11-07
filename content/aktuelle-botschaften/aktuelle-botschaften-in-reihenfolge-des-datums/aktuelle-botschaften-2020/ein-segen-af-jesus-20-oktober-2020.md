@@ -1,7 +1,7 @@
 ---
 title: "Ein Segen"
 menu_title: ""
-description: "Ein Segen"
+description: "Jesus, empfangen durch Al Fike: „Wie süß ist der Klang eurer Seele, die sich nach Gott sehnt. Wie schön ist das Licht eurer Seelen, die von den Segnungen …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

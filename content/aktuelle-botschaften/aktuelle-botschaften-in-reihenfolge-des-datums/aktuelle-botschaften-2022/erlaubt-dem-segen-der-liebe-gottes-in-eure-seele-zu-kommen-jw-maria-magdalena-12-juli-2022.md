@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt dem Segen der Liebe Gottes, in eure Seele zu kommen"
 menu_title: ""
-description: "Erlaubt dem Segen der Liebe Gottes, in eure Seele zu kommen"
+description: "Maria Magdalena, empfangen durch Jimbeau Walsh: „Ich lebe in einer Sphäre hoch in den himmlischen Gefilden. Die meisten wissen, welchen Beruf ich auf der …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

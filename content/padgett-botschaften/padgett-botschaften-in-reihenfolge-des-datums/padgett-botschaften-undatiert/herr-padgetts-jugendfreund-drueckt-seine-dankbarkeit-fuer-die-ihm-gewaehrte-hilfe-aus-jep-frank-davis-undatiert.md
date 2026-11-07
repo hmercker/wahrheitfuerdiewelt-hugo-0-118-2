@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgetts Jugendfreund drückt seine Dankbarkeit für die ihm gewährte Hilfe aus"
 menu_title: ""
-description: "Herr Padgetts Jugendfreund drückt seine Dankbarkeit für die ihm gewährte Hilfe aus"
+description: "Frank Davis, empfangen durch James Padgett: „Ich möchte dir unbedingt mitteilen, dass ich die Dunkelheit, in der ich mich befand, als ich das erste Mal zu …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Weihnachten ist eine großartige Zeit, um das Geschenk der Göttlichen Liebe zu teilen"
 menu_title: ""
-description: "Weihnachten ist eine großartige Zeit, um das Geschenk der Göttlichen Liebe zu teilen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn ihr betet und das Einströmen der Liebe des Schöpfers spürt, wird jede Trennung, die ihr fühlt, aufgehoben.“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

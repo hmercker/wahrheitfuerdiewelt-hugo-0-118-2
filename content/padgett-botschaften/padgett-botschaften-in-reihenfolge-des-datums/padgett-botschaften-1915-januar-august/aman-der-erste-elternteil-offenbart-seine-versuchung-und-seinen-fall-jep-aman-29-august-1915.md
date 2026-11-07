@@ -1,7 +1,7 @@
 ---
 title: "Aman, der erste Elternteil, offenbart seine Versuchung und seinen Fall"
 menu_title: ""
-description: "Aman, der erste Elternteil, offenbart seine Versuchung und seinen Fall"
+description: "Aman, empfangen durch James Padgett: „Aman, der erste Elternteil. Du solltest dich besonders gesegnet fühlen, dieses große Privileg zu haben, und du …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

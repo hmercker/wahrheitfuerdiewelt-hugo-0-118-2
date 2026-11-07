@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 24 : Jesus erklärt eine Passage im Gebet um die Göttliche Liebe"
 menu_title: ""
-description: "Offenbarung 24 : Jesus erklärt eine Passage im Gebet um die Göttliche Liebe"
+description: "Jesus, empfangen durch Dr Samuels: „Auch heute möchte ich dir wieder über die Wahrheiten des Vaters schreiben. Beginnen werden wir mit dem Gebet um die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

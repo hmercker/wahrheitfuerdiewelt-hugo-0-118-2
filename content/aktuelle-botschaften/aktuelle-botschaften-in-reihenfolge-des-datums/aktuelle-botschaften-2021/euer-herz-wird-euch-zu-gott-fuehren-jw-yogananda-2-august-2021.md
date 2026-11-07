@@ -1,7 +1,7 @@
 ---
 title: "Euer Herz wird euch zu Gott führen"
 menu_title: ""
-description: "Euer Herz wird euch zu Gott führen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Möge die Gnade unseres himmlischen Vaters über euch sein wie ein sanfter Regen, gefüllt mit Seinem Licht und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Konzentriert euch auf Gottes Willen und habt Glauben"
 menu_title: ""
-description: "Konzentriert euch auf Gottes Willen und habt Glauben"
+description: "Markus, empfangen durch Al Fike: „Heute versammeln wir uns, um ein neues Jahr für unsere geliebte Gemeinde zu beginnen, um die Reinigung und die …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

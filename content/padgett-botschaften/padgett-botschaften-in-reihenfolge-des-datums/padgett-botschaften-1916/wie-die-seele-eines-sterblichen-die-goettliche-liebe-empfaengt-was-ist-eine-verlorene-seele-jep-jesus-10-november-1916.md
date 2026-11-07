@@ -1,7 +1,7 @@
 ---
 title: "Wie die Seele eines Sterblichen die Göttliche Liebe empfängt. Was ist eine verlorene Seele?"
 menu_title: ""
-description: "Wie die Seele eines Sterblichen die Göttliche Liebe empfängt. Was ist eine verlorene Seele?"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir eine Botschaft über die Frage schreiben, wie die Seele eines Sterblichen die Göttliche Liebe …“"
 date: 2020-08-01 06:25:48+00:264
 draft: False
 hidden: True

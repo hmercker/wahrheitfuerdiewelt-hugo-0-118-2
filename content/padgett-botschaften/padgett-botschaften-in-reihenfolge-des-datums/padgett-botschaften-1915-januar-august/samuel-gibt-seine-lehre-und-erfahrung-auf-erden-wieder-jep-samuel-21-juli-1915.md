@@ -1,7 +1,7 @@
 ---
 title: "Samuel gibt seine Lehre und Erfahrung auf Erden wieder"
 menu_title: ""
-description: "Samuel gibt seine Lehre und Erfahrung auf Erden wieder"
+description: "Samuel, empfangen durch James Padgett: „Ich war ein spirituelles Wesen, das vergleichsweise glücklich lebte und die Gewissheit hatte, dass ich meine Arbeit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

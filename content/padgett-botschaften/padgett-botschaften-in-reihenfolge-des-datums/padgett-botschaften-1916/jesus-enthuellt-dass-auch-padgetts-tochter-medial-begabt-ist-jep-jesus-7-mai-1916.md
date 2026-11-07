@@ -1,7 +1,7 @@
 ---
 title: "Jesus enthüllt, dass auch Padgetts Tochter medial begabt ist"
 menu_title: ""
-description: "Jesus enthüllt, dass auch Padgetts Tochter medial begabt ist"
+description: "Jesus, empfangen durch James Padgett: „Obwohl du heute in so ausgezeichneter Verfassung bist, werde ich meinen Plan, dir eine formale Botschaft zu …“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

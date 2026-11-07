@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt das plötzliche Ableben ihrer Tochter Nita als Folge einer schweren Operation und die großen Fortschritte, die sie in der spirituellen Welt macht"
 menu_title: ""
-description: "Helen erklärt das plötzliche Ableben ihrer Tochter Nita als Folge einer schweren Operation und die großen Fortschritte, die sie in der spirituellen Welt macht"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster Ned, dein kleines Mädchen hat dich verlassen, wie du jetzt fühlst, aber sie ist nicht gegangen …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

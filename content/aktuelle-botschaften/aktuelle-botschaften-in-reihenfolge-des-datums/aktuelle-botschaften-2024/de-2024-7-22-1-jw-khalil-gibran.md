@@ -1,7 +1,7 @@
 ---
 title: "Das Geschenk der zeitlosen Liebe"
 menu_title: ""
-description: "Das Geschenk der zeitlosen Liebe"
+description: "Khalil Gibran, empfangen durch Jimbeau Walsh: „Welch ein Wunder, dass ihr die Welt dieses Mal beiseite gelassen habt, um eure Seele, eure zeitlose Seele …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

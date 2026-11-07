@@ -1,7 +1,7 @@
 ---
 title: "Stellt sich als einen der Heilung bringenden Engel vor"
 menu_title: ""
-description: "Stellt sich als einen der Heilung bringenden Engel vor"
+description: "Naari, empfangen durch Al Fike: „Obwohl ich mein Leben im Verborgenen verbracht habe, gibt es viele von uns, die an diesem erhabenen Ort leben, die ihren …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

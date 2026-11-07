@@ -1,7 +1,7 @@
 ---
 title: "Richtet nicht über andere, sondern akzeptiert und umarmt"
 menu_title: ""
-description: "Richtet nicht über andere, sondern akzeptiert und umarmt"
+description: "Andreas, empfangen durch Al Fike: „Nicht über andere urteilen, sondern akzeptieren und umarmen Ihr seid alle reich gesegnet worden in dieser letzten Zeit …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Alle Dinge, die in Gottes Liebe getan werden, sind gut"
 menu_title: ""
-description: "Alle Dinge, die in Gottes Liebe getan werden, sind gut"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Lasst eure Herzen sich öffnen, damit Gott eure Seelen berühren kann, so dass die Dinge, die euch an die Erde …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

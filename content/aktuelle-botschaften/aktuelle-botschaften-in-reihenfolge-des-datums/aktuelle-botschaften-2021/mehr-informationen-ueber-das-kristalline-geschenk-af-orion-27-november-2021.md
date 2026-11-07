@@ -1,7 +1,7 @@
 ---
 title: "Mehr Informationen über das kristalline Geschenk"
 menu_title: ""
-description: "Mehr Informationen über das kristalline Geschenk"
+description: "Orion, empfangen durch Al Fike: „Möge die Liebe des Vaters euch weiterhin erwecken, meine schönen Freunde. Eure Spezies hat begonnen zu verstehen, dass …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

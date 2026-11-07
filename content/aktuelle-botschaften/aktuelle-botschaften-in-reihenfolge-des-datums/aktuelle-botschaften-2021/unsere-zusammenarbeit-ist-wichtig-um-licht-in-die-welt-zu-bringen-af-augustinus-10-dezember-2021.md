@@ -1,7 +1,7 @@
 ---
 title: "Unsere Zusammenarbeit ist wichtig, um Licht in die Welt zu bringen"
 menu_title: ""
-description: "Unsere Zusammenarbeit ist wichtig, um Licht in die Welt zu bringen"
+description: "Augustinus, empfangen durch Al Fike: „Die Arbeit, die ihr gemeinsam in Angriff nehmt, ist wichtig. Es ist wichtig, mehr Licht in diese Welt zu bringen …“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

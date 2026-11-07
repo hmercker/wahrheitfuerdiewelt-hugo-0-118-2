@@ -1,7 +1,7 @@
 ---
 title: "Jesus schreibt über den Glauben und die Herrlichkeit des Vaters"
 menu_title: ""
-description: "Jesus schreibt über den Glauben und die Herrlichkeit des Vaters"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir lediglich schreiben, dass du aufrichtig sein sollst und dir wird die Macht zuteil und die Wahrheit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

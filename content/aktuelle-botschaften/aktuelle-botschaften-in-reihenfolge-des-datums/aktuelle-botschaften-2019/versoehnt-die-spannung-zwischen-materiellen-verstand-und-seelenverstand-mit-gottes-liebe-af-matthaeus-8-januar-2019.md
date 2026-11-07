@@ -1,7 +1,7 @@
 ---
 title: "Versöhnt die Spannung zwischen materiellen Verstand und  Seelenverstand mit Gottes Liebe"
 menu_title: ""
-description: "Versöhnt die Spannung zwischen materiellen Verstand und  Seelenverstand mit Gottes Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Es ist gut zu sehen, dass ihr einander die Hand reicht, die Verbindung sucht und kommt, um dieses Liebesband zu bauen …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

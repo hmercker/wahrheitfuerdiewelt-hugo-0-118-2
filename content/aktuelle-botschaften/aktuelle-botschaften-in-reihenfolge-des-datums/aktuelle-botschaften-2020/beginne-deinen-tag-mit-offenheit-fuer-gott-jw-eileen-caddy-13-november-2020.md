@@ -1,7 +1,7 @@
 ---
 title: "Beginne deinen Tag mit Offenheit für Gott"
 menu_title: ""
-description: "Beginne deinen Tag mit Offenheit für Gott"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ihr könnt euch mich als eure liebe Tante Eileen vorstellen, die über euch wacht, und obwohl es schon eine …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Maria kommt auf den Lichtstrahlen eures Liedes"
 menu_title: ""
-description: "Maria kommt auf den Lichtstrahlen eures Liedes"
+description: "Maria, empfangen durch Al Fike: „In dieser Einheit, die ihr schafft, in dieser Resonanz der Sehnsucht, ist Gott hier, sein Heiliger Geist, der Liebe in …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

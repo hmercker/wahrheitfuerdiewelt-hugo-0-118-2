@@ -1,7 +1,7 @@
 ---
 title: "Ermahnt uns, Verantwortung zu übernehmen"
 menu_title: ""
-description: "Ermahnt uns, Verantwortung zu übernehmen"
+description: "Augustinus, empfangen durch Al Fike: „Wir arbeiten eifrig daran, die Hindernisse um euch herum aus dem Weg zu räumen, die Atmosphäre zu reinigen und euch …“"
 date: 2025-02-24 06:00:00+00:10
 draft: False
 hidden: True

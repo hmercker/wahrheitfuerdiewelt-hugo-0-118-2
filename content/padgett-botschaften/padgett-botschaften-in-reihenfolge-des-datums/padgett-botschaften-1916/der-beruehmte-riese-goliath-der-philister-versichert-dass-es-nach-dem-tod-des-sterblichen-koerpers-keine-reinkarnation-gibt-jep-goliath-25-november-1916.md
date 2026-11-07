@@ -1,7 +1,7 @@
 ---
 title: "Der berühmte Riese Goliath der Philister versichert, dass es nach dem Tod des sterblichen Körpers keine Reinkarnation gibt"
 menu_title: ""
-description: "Der berühmte Riese Goliath der Philister versichert, dass es nach dem Tod des sterblichen Körpers keine Reinkarnation gibt"
+description: "Goliath, empfangen durch James Padgett: „Aber die Angelegenheit ist zu ernst, um sie auf humorvolle Weise zu behandeln, und ich werde ein paar Worte über …“"
 date: 2020-08-01 06:25:48+00:272
 draft: False
 hidden: True

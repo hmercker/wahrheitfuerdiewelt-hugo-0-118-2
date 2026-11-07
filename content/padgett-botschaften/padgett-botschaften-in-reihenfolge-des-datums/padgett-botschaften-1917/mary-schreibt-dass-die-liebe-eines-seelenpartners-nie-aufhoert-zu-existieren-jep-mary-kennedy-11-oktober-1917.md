@@ -1,7 +1,7 @@
 ---
 title: "Mary schreibt, dass die Liebe eines Seelenpartner's nie aufhört zu existieren"
 menu_title: ""
-description: "Mary schreibt, dass die Liebe eines Seelenpartner's nie aufhört zu existieren"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich möchte ein paar Zeilen schreiben, da ich so bestrebt bin, wieder in bewusste Gemeinschaft mit meinem …“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Hieronymus - Seine Schriften enthalten viele Fehler"
 menu_title: ""
-description: "Hieronymus - Seine Schriften enthalten viele Fehler"
+description: "Hieronymus, empfangen durch James Padgett: „Der heilige Hieronymus (Jerome). Du weißt vielleicht nichts über mich, aber ich wurde vor vielen Jahrhunderten …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

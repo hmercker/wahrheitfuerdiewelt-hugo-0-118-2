@@ -1,7 +1,7 @@
 ---
 title: "Führung und Dienst"
 menu_title: ""
-description: "Führung und Dienst"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Ich möchte euch versichern, dass euer Sohn heilen wird.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

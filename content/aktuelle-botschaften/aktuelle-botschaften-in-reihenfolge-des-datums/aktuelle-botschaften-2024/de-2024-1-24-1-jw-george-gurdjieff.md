@@ -1,7 +1,7 @@
 ---
 title: "Ein verwandeltes Herz"
 menu_title: ""
-description: "Ein verwandeltes Herz"
+description: "George Gurdjieff, empfangen durch Jimbeau Walsh: „Wir sprechen oft vom spirituellen Leben als der Reise zum Einssein mit Gott, und auf dieser Reise auf der …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

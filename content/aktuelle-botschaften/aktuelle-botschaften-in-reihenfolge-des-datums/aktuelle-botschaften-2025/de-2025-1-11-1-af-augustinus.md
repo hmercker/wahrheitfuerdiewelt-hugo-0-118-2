@@ -1,7 +1,7 @@
 ---
 title: "Hört auf eure eigene Seele, anstatt auf den Rat anderer"
 menu_title: ""
-description: "Hört auf eure eigene Seele, anstatt auf den Rat anderer"
+description: "Augustinus, empfangen durch Al Fike: „Ich bitte euch eindringlich, nicht auf den Rat anderer zu hören und ihn zu beherzigen, sondern in eure eigene Seele …“"
 date: 2025-01-11 06:00:00+00:10
 draft: False
 hidden: True

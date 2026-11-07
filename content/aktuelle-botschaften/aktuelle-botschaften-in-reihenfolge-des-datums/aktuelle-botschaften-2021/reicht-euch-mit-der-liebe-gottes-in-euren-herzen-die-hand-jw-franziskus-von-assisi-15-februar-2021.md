@@ -1,7 +1,7 @@
 ---
 title: "Reicht euch mit der Liebe Gottes in euren Herzen die Hand"
 menu_title: ""
-description: "Reicht euch mit der Liebe Gottes in euren Herzen die Hand"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Wie sehr liebe ich es, meine Brüder im Gebet zu sehen. Wie sehr liebe ich es, die süße Musik des …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

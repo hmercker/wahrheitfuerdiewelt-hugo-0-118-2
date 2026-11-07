@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist nur ein Gebet entfernt"
 menu_title: ""
-description: "Gottes Liebe ist nur ein Gebet entfernt"
+description: "Andreas, empfangen durch Al Fike: „Möge der Friede des Vaters ein Mantel über euch sein und Seine Liebe in eure Seelen strömen, Seine unendliche Liebe …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

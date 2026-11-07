@@ -1,7 +1,7 @@
 ---
 title: "Helen drängt Herrn Padgett, alles zu tun, um in die Verfassung zu kommen, wie Johannes geschrieben hat"
 menu_title: ""
-description: "Helen drängt Herrn Padgett, alles zu tun, um in die Verfassung zu kommen, wie Johannes geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Wenn du nur begreifen könntest, was das alles bedeutet, würdest du alle Anstrengungen unternehmen, um in den Zustand …“"
 date: 2020-08-01 06:25:48+00:106
 draft: False
 hidden: True

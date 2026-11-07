@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen das an die Glaubensbekenntnisse glaubte und sein Erwachen zur Wahrheit"
 menu_title: ""
-description: "Ein spirituelles Wesen das an die Glaubensbekenntnisse glaubte und sein Erwachen zur Wahrheit"
+description: "S.B. Southard, empfangen durch James Padgett: „In diesem Glauben bin ich gestorben und als ich in die spirituelle Welt kam, war ich enttäuscht und auch …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

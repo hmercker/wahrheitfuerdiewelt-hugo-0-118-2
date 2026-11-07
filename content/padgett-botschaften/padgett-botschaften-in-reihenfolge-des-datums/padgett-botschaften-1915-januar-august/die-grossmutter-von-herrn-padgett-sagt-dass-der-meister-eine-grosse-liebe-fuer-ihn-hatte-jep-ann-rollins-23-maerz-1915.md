@@ -1,7 +1,7 @@
 ---
 title: "Die Großmutter von Herrn Padgett sagt, dass der Meister eine große Liebe für ihn hat"
 menu_title: ""
-description: "Die Großmutter von Herrn Padgett sagt, dass der Meister eine große Liebe für ihn hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich war bei dir im Büro und dass du über die Liebe des Vaters nachgedacht hast und erkannt hast, dass sie …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

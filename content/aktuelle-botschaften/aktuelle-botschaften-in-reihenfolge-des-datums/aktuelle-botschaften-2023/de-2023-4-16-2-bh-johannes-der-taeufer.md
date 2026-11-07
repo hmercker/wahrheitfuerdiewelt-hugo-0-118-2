@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit der Gemeinschaft in Lichtkreisen"
 menu_title: ""
-description: "Die Wichtigkeit der Gemeinschaft in Lichtkreisen"
+description: "Johannes der Täufer, empfangen durch Brian Holmes: „Danke, dass ich heute mit dir sprechen darf. Viele von uns haben heute an eurem Online-Lichtkreis …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

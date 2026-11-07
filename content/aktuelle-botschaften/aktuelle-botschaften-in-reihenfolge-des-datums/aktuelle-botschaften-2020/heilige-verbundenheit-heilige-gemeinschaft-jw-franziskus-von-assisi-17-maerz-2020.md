@@ -1,7 +1,7 @@
 ---
 title: "Heilige Verbundenheit Heilige Gemeinschaft"
 menu_title: ""
-description: "Heilige Verbundenheit Heilige Gemeinschaft"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Die Worte heilige Verbundenheit bedeutet, in Gemeinschaft mit Gott zu sein. In diesen schönen …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

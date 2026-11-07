@@ -1,7 +1,7 @@
 ---
 title: "Die Rolle der Pharisäer"
 menu_title: ""
-description: "Die Rolle der Pharisäer"
+description: "Judas, empfangen durch H.: „Es tut mir sehr leid um das Missgeschick, das du erlitten hast. Aber wie du siehst, finden alle materiellen Probleme ihre Lösung.“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

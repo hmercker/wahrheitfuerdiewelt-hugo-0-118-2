@@ -1,7 +1,7 @@
 ---
 title: "Heilungen durch die Engel, wenn wir in Lichtkreisen sind"
 menu_title: ""
-description: "Heilungen durch die Engel, wenn wir in Lichtkreisen sind"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir haben unser Möglichstes getan, um euch sowohl physisch als auch spirituell zu unterstützen und euch dabei zu …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

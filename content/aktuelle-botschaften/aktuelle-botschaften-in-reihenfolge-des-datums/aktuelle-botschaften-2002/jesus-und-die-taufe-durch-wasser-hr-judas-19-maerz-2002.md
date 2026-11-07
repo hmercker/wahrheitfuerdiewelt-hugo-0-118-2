@@ -1,7 +1,7 @@
 ---
 title: "Jesus und die Taufe durch Wasser"
 menu_title: ""
-description: "Jesus und die Taufe durch Wasser"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, ich habe gesagt, dass ich über einige wichtige Ereignisse im Jahr 26 sprechen werde, und ich habe die …“"
 date: 2020-08-01 06:25:48+00:200
 draft: False
 hidden: True

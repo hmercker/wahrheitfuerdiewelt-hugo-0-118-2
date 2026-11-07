@@ -1,7 +1,7 @@
 ---
 title: "Die energetischen Eigenschaften der Erde beeinflussen euch alle"
 menu_title: ""
-description: "Die energetischen Eigenschaften der Erde beeinflussen euch alle"
+description: "Lukas, empfangen durch Al Fike: „Die Welt wurde von Gott geschaffen. Gottes Absichten schufen Impulse und Ausdrucksformen, bevölkerten die Erde in einer …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

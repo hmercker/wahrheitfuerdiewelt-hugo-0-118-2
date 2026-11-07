@@ -1,7 +1,7 @@
 ---
 title: "Betet mit uns, um mehr Licht in die Welt zu bringen"
 menu_title: ""
-description: "Betet mit uns, um mehr Licht in die Welt zu bringen"
+description: "Ann Rollins, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin eure Seelen erfüllen. Jedes Mal, wenn ihr betet, bringt ihr mehr Licht zu euch …“"
 date: 2025-01-16 06:00:00+00:10
 draft: False
 hidden: True

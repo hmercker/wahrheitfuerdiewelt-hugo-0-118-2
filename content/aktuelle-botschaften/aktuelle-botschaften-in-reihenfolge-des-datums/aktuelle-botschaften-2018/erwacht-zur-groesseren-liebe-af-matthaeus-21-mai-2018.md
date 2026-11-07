@@ -1,7 +1,7 @@
 ---
 title: "Erwacht zur Größeren Liebe"
 menu_title: ""
-description: "Erwacht zur Größeren Liebe"
+description: "Matthäus, empfangen durch Al Fike: „Segne diese, deine Kinder, die danach streben, ihre Seelen zu erkennen, die weiterhin den Weg verfolgen, um Dich zu …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

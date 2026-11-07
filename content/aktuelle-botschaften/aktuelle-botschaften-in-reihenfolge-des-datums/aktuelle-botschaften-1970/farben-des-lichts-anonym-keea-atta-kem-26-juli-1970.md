@@ -1,7 +1,7 @@
 ---
 title: "Farben des Lichts"
 menu_title: ""
-description: "Farben des Lichts"
+description: "Keea Atta Kem: „Es ist eine so große Freude für mich, hierher zu kommen und zu euch zu sprechen und bei euch zu sein und die große Liebe und Zuneigung zu …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

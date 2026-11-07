@@ -1,7 +1,7 @@
 ---
 title: "Eure Arbeit ist die Arbeit des demütigen Kindes"
 menu_title: ""
-description: "Eure Arbeit ist die Arbeit des demütigen Kindes"
+description: "Matthäus, empfangen durch Al Fike: „Ihr habt über eure Zukunft spekuliert und gesprochen, über eure Instrumentalität und die Zeit, die kommen wird, wo eure …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

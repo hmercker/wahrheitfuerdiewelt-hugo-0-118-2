@@ -1,7 +1,7 @@
 ---
 title: "Lernt Gottes Liebe zu euch kennen"
 menu_title: ""
-description: "Lernt Gottes Liebe zu euch kennen"
+description: "Orion, empfangen durch Al Fike: „Möget ihr das Wunder des Segens unseres Schöpfers für euch erkennen, die Macht der Liebe, die das Universum zusammenhält …“"
 date: 2025-02-11 06:00:00+00:10
 draft: False
 hidden: True

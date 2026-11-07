@@ -1,7 +1,7 @@
 ---
 title: "Der Glaube - Teil 2"
 menu_title: ""
-description: "Der Glaube - Teil 2"
+description: "Judas, empfangen durch H.: „Können wir zum Thema des Glaubens zurückkehren? Sehr gut, wenn du dich in der Verfassung fühlst, die Botschaft zu empfangen …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

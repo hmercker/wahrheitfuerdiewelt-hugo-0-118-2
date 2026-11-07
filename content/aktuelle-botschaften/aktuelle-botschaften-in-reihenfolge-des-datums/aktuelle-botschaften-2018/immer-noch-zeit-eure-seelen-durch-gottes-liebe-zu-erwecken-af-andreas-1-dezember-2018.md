@@ -1,7 +1,7 @@
 ---
 title: "Immer noch Zeit, eure Seelen durch Gottes Liebe zu erwecken"
 menu_title: ""
-description: "Immer noch Zeit, eure Seelen durch Gottes Liebe zu erwecken"
+description: "Andreas, empfangen durch Al Fike: „Ich bitte euch dringend, weiterhin inbrünstig um die Liebe des Vaters zu beten, nicht, dass ihr durch das Gebet …“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

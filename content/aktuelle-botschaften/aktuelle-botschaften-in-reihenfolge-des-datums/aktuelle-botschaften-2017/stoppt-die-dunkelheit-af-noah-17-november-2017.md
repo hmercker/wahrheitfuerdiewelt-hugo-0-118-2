@@ -1,7 +1,7 @@
 ---
 title: "Stoppt die Dunkelheit"
 menu_title: ""
-description: "Stoppt die Dunkelheit"
+description: "Noah, empfangen durch Al Fike: „Es gab große Umwälzungen in dieser Welt zu dieser Zeit in der Geschichte und die Existenz der Menschheit auf dieser Erde.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

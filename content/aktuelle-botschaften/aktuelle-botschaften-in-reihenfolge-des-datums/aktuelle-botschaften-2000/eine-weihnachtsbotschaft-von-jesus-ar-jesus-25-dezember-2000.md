@@ -1,7 +1,7 @@
 ---
 title: "Eine Weihnachtsbotschaft von Jesus"
 menu_title: ""
-description: "Eine Weihnachtsbotschaft von Jesus"
+description: "Jesus, empfangen durch Amada Reza: „[Lieber Gott, ich bete, dass Deine Göttliche Liebe meine Seele erfüllt, und wenn es Dein Wille ist, mögen Deine …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Vorteile eines spirituellen Lebens"
 menu_title: ""
-description: "Die Vorteile eines spirituellen Lebens"
+description: "Andreas, empfangen durch Al Fike: „So hat Gott uns mit der Anwesenheit vieler Menschen gesegnet, die mit unserem Gastgeber verbunden sind.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

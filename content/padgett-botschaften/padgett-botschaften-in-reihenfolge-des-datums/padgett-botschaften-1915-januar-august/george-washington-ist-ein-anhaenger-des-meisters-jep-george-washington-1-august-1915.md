@@ -1,7 +1,7 @@
 ---
 title: "George Washington ist ein Anhänger des Meisters"
 menu_title: ""
-description: "George Washington ist ein Anhänger des Meisters"
+description: "Georg Washington, empfangen durch James Padgett: „Ich war der erste Präsident der Vereinigten Staaten. Ich interessiere mich nicht mehr so sehr für die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

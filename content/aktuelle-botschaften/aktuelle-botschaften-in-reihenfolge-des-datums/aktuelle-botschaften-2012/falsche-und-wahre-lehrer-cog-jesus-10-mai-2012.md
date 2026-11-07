@@ -1,7 +1,7 @@
 ---
 title: "Falsche und wahre Lehrer"
 menu_title: ""
-description: "Falsche und wahre Lehrer"
+description: "Jesus, empfangen durch Child of God: „Heute werden wir über falsche und wahre Lehrer sprechen. Du fragst dich, ob es seit Jesus irgendwelche wahren Lehrer …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

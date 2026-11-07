@@ -1,7 +1,7 @@
 ---
 title: "Sühne und in Harmonie mit Gottes Gesetzen kommen"
 menu_title: ""
-description: "Sühne und in Harmonie mit Gottes Gesetzen kommen"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Das ist die korrekte Terminologie. Es ist ein kostbares Geschenk für uns in den himmlischen Reichen und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

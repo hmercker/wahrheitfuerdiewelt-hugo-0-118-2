@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Wirklichkeit Gottes"
 menu_title: ""
-description: "Sucht die Wirklichkeit Gottes"
+description: "Andreas, empfangen durch Al Fike: „Unser geliebter Bruder Jesus kommt, um jeden einzelnen von euch zu segnen. Er war sehr aktiv mit eurem anderen Kreis …“"
 date: 2022-08-19 06:00:00+00:10
 draft: False
 hidden: True

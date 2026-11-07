@@ -1,7 +1,7 @@
 ---
 title: "Lektion 14 - Das Gesetz des Begehrens - Band 3"
 menu_title: ""
-description: "Lektion 14 - Das Gesetz des Begehrens - Band 3"
+description: "Jesus, empfangen durch Al Fike: „So viele Konzepte und Vorstellungen von Wahrheit, die von heutigen spirituellen Lehrern vermittelt werden, sind …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

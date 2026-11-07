@@ -1,7 +1,7 @@
 ---
 title: "Eine Beschreibung der Seele und ihrer beständigen Natur"
 menu_title: ""
-description: "Eine Beschreibung der Seele und ihrer beständigen Natur"
+description: "Bruder Mandus, empfangen durch Al Fike: „Es ist euer Bruder Mandus. Und in dieser Welt versuchen viele, viele Individuen, ihren Verstand zu füttern …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

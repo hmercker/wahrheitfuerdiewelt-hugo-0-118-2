@@ -1,7 +1,7 @@
 ---
 title: "Sokrates beschreibt seinen seelischen Fortschritt"
 menu_title: ""
-description: "Sokrates beschreibt seinen seelischen Fortschritt"
+description: "Sokrates, empfangen durch James Padgett: „Ich erfuhr, dass du an mich dachtest und deine Gedanken zogen mich an. Diese Anziehung erfolgt, wenn ein …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

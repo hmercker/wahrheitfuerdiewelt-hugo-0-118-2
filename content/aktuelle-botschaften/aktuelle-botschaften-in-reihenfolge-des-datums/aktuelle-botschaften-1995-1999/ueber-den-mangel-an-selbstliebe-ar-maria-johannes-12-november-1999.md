@@ -1,7 +1,7 @@
 ---
 title: "Über den Mangel an Selbstliebe"
 menu_title: ""
-description: "Über den Mangel an Selbstliebe"
+description: "Maria & Johannes, empfangen durch Amada Reza: „Ich freue mich sehr, dass ich die Gelegenheit habe, auf Ms Frage zu antworten, und ich möchte ihm …“"
 date: 2020-08-01 06:25:48+00:149
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mary Kennedy gelingt es, ihren Seelenpartner Leslie in die dritte Sphäre zu bringen"
 menu_title: ""
-description: "Mary Kennedy gelingt es, ihren Seelenpartner Leslie in die dritte Sphäre zu bringen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Natürlich ist dies in einer Art von Humor, aber dennoch enthält Humor manchmal viel Wahrheit.“"
 date: 2020-08-01 06:25:48+00:289
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Gabe der Medialität"
 menu_title: ""
-description: "Die Gabe der Medialität"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus, der wieder gekommen ist, um zu sprechen. Ich möchte über die Gabe der Medialität …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

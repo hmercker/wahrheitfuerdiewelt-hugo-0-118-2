@@ -1,7 +1,7 @@
 ---
 title: "Erhalte die Harmonie in eurer Gruppe"
 menu_title: ""
-description: "Erhalte die Harmonie in eurer Gruppe"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gab einige Mitteilungen darüber, wie wichtig es ist, dass ihr alle in dieser Gruppe in Harmonie miteinander seid.“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

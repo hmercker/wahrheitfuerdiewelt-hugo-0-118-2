@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert das vorige spirituelle Wesen"
 menu_title: ""
-description: "Helen kommentiert das vorige spirituelle Wesen"
+description: "Helen, empfangen durch James Padgett: „Ich werde nur eine Zeile schreiben, da es sehr spät ist. Ich habe ihn nie zuvor gesehen, aber er kam aus den …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

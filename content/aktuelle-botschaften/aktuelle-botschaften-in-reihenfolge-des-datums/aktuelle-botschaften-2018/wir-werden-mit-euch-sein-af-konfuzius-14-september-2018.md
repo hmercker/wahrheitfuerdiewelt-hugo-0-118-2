@@ -1,7 +1,7 @@
 ---
 title: "Wir werden mit euch sein"
 menu_title: ""
-description: "Wir werden mit euch sein"
+description: "Konfuzius, empfangen durch Al Fike: „Es ist nicht leicht, unter diesen Bedingungen mit so vielen zu gehen, die psychisch so begabt sind. 1 Es gibt dort …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

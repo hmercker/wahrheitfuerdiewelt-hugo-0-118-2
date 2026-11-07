@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone bringt erneut ihre grosse Liebe zu ihrem Sohn zum Ausdruck "
 menu_title: ""
-description: "Priscilla Stone bringt erneut ihre grosse Liebe zu ihrem Sohn zum Ausdruck "
+description: "Priscilla Stone, empfangen durch James Padgett: „Ich liebe meinen Jungen mehr, als ich ihm sagen kann. Ich liebte ihn mit der Liebe einer Mutter auf Erden …“"
 date: 2020-08-01 06:25:48+00:234
 draft: False
 hidden: True

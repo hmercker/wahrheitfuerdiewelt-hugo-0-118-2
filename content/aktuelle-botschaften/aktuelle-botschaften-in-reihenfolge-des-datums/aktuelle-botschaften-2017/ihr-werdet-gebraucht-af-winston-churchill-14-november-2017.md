@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet gebraucht"
 menu_title: ""
-description: "Ihr werdet gebraucht"
+description: "Winston Churchill, empfangen durch Al Fike: „Es ist Churchill, Winston Churchill. Auch ich stehe an der Seite meines Bruders (König Georg VI.) und …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dem Willen Gottes folgen und das Gesetz des Fortschritts"
 menu_title: ""
-description: "Dem Willen Gottes folgen und das Gesetz des Fortschritts"
+description: "Augustinus, empfangen durch Al Fike: „Der Wille Gottes ist keine starre, fordernde Sache. Er ist die Saat, der Kern der göttlichen Absicht, die sich in …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

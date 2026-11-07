@@ -1,7 +1,7 @@
 ---
 title: "Nur die Liebe Gottes nährt die Menschen"
 menu_title: ""
-description: "Nur die Liebe Gottes nährt die Menschen"
+description: "Jeanne d'Arc, empfangen durch Elisabeth Mack: „Wir sind mächtig in unserem Geiste und sanft, und es ist nur die Liebe Gottes, die uns nährt, die uns erhebt …“"
 date: 2025-02-27 06:00:00+00:10
 draft: False
 hidden: True

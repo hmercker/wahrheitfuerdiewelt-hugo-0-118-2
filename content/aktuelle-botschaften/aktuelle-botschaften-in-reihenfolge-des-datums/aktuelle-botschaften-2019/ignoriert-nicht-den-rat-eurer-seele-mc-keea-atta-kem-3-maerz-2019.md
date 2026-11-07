@@ -1,7 +1,7 @@
 ---
 title: "Ignoriert nicht den Rat eurer Seele"
 menu_title: ""
-description: "Ignoriert nicht den Rat eurer Seele"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Geliebter Sohn, was für ein Herzens- und Seelengebet, das du geteilt hast, um diesen Kreis zu eröffnen.“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

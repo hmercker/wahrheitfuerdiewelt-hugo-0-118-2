@@ -1,7 +1,7 @@
 ---
 title: "Jährliche Trance-Botschaft"
 menu_title: ""
-description: "Jährliche Trance-Botschaft"
+description: "Jesus, empfangen durch Amada Reza: „[Das Medium betet laut: Lieber Himmlischer Vater, ich bete, dass Deine Liebe meine Seele in dieser Zeit erfüllt.“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

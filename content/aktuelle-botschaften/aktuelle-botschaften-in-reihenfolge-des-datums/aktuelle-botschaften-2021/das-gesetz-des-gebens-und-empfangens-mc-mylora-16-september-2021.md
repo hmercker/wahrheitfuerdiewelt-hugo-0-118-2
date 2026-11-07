@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz des Gebens und Empfangens"
 menu_title: ""
-description: "Das Gesetz des Gebens und Empfangens"
+description: "Mylora, empfangen durch Maureen Cardoso: „Ich habe noch nie durch dieses Instrument gesprochen und ich danke ihr für ihre Bereitschaft, meine Anwesenheit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

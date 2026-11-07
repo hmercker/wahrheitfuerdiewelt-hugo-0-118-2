@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer und Jesus als Heranwachsende"
 menu_title: ""
-description: "Johannes der Täufer und Jesus als Heranwachsende"
+description: "Judas, empfangen durch H.: „Ain Karim war ein kleines Dorf in Judäa, in der Nähe von Jerusalem. Die Menschen lebten von ihren Feldern, von ihren …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

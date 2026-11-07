@@ -1,7 +1,7 @@
 ---
 title: "Genieße jeden Moment der Seelen-Sehnsucht im Gebet"
 menu_title: ""
-description: "Genieße jeden Moment der Seelen-Sehnsucht im Gebet"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Einige von euch haben schon viele Reisen hinter sich, für andere stehen neue Anfänge bevor.“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

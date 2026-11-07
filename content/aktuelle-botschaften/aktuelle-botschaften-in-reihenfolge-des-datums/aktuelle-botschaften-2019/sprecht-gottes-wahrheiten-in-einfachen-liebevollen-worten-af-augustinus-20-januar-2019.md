@@ -1,7 +1,7 @@
 ---
 title: "Sprecht Gottes Wahrheiten in einfachen, liebevollen Worten"
 menu_title: ""
-description: "Sprecht Gottes Wahrheiten in einfachen, liebevollen Worten"
+description: "Augustinus, empfangen durch Al Fike: „Ich lebte vor vielen Jahren in einem Land (Algerien) in Nordafrika. Ich war der Bischof von Hippo.“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

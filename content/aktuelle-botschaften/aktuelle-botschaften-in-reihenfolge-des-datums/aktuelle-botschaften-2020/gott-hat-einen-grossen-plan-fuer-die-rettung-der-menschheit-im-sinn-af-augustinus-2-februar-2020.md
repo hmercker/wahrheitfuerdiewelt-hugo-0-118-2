@@ -1,7 +1,7 @@
 ---
 title: "Gott hat einen großen Plan für die Rettung der Menschheit im Sinn"
 menu_title: ""
-description: "Gott hat einen großen Plan für die Rettung der Menschheit im Sinn"
+description: "Augustinus, empfangen durch Al Fike: „Gott hat viele Pläne und viele Bemühungen im Gange, um die Rettung der Menschheit herbeizuführen, um den Seelen der …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

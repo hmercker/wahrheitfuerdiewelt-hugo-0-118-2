@@ -1,7 +1,7 @@
 ---
 title: "Das Direkte Stimme (DS) Dutzend, die Australien DS Gruppe und die Lichtbringer Gruppe zusammen gebracht"
 menu_title: ""
-description: "Das Direkte Stimme (DS) Dutzend, die Australien DS Gruppe und die Lichtbringer Gruppe zusammen gebracht"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr tragt das Licht und den Segen zu euren Mitstreitern in der Entwicklung der Direkten Stimme in anderen Teilen der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

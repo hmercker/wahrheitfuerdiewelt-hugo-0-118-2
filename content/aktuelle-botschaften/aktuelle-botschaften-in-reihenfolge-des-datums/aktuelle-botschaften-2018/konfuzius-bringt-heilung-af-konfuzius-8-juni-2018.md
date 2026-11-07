@@ -1,7 +1,7 @@
 ---
 title: "Konfuzius bringt Heilung"
 menu_title: ""
-description: "Konfuzius bringt Heilung"
+description: "Konfuzius, empfangen durch Al Fike: „Ich werde für die Heilung eines jeden von euch und denen, die kommen, verantwortlich sein.“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

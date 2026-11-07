@@ -1,7 +1,7 @@
 ---
 title: "Macht keine Vermutungen darüber, wie Gottes Wille zustande kommt"
 menu_title: ""
-description: "Macht keine Vermutungen darüber, wie Gottes Wille zustande kommt"
+description: "Stephanus, empfangen durch Al Fike: „Gott nutzt jeden Riss und jede Spalte, jedes Loch und jeden Winkel, um Licht und Wahrheit zu bringen.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

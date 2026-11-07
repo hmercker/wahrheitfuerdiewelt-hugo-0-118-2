@@ -1,7 +1,7 @@
 ---
 title: "Alles liegt in Gottes Hand "
 menu_title: ""
-description: "Alles liegt in Gottes Hand "
+description: "Goldie, empfangen durch Al Fike: „In der Tat, alles, was Freude bringt, mag ich, ich mag es sehr. Das müsst ihr tun, meine Freunde, das müsst ihr tun …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

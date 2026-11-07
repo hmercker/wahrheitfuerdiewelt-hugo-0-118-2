@@ -1,7 +1,7 @@
 ---
 title: "Nackt vor Gott stehen"
 menu_title: ""
-description: "Nackt vor Gott stehen"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich möchte, wenn ich darf, den aufschlussreichen Bemerkungen meines Bruders Yogananda etwas hinzufügen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

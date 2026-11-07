@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung und Führung - eine Anleitung zum Wandel"
 menu_title: ""
-description: "Ermutigung und Führung - eine Anleitung zum Wandel"
+description: "Seretta Kem, empfangen durch Al Fike: „Das ist es, worum wir euch gebeten haben und ihr hört in der Tat zu und macht die notwendigen Anstrengungen.“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

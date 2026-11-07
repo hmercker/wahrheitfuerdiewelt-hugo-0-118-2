@@ -1,7 +1,7 @@
 ---
 title: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2025"
 menu_title: ""
-description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2025"
+description: "Botschaften durch Jimbeau Walsh empfangen im Jahre 2025: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Thomas Merton | Eine Unze …“"
 date: 2025-03-27 02:18:11+11:00
 draft: False
 hidden: True

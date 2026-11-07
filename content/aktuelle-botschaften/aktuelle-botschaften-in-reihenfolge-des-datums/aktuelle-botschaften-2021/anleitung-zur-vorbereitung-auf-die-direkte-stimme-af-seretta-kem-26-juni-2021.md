@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur Vorbereitung auf die Direkte Stimme"
 menu_title: ""
-description: "Anleitung zur Vorbereitung auf die Direkte Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „Für alle von euch, die beharrlich sind und den Wunsch haben, zu kommen, um ein Teil dieses Kreises des Lichts im …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

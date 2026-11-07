@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit wird sich entscheiden müssen"
 menu_title: ""
-description: "Die Menschheit wird sich entscheiden müssen"
+description: "Moses, empfangen durch Al Fike: „Es gibt weder Zeit noch Interesse daran, ein Leben zu führen, das in Harmonie mit Verhaltensweisen ist, die einander …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

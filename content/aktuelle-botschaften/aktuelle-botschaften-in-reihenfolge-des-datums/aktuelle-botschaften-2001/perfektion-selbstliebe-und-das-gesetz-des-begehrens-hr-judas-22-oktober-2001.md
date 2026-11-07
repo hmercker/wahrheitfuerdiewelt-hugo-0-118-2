@@ -1,7 +1,7 @@
 ---
 title: "Vollkommenheit, Selbstliebe und das Gesetz des Begehrens"
 menu_title: ""
-description: "Vollkommenheit, Selbstliebe und das Gesetz des Begehrens"
+description: "Judas, empfangen durch H.: „Ja, mein lieber Bruder, es sind einige Tage ohne Botschaften vergangen, aber es scheint, dass die Dinge zur Normalität …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

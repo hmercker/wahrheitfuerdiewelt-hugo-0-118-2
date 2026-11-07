@@ -1,7 +1,7 @@
 ---
 title: "Heilung durch die Göttliche Liebe"
 menu_title: ""
-description: "Heilung durch die Göttliche Liebe"
+description: "Sri Yarisupta, empfangen durch Al Fike: „Möge das Licht auf jeden von euch und auf eure Welt scheinen. Es gibt viele heilende Energien im Universum und …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

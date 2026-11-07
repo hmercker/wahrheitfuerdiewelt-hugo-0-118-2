@@ -1,7 +1,7 @@
 ---
 title: "Was wichtig ist"
 menu_title: ""
-description: "Was wichtig ist"
+description: "James Padgett, empfangen durch Jimbeau Walsh: „Als ich begann, Botschaften vom Geist zu empfangen, war mein ganzes Bestreben, von meiner lieben Helen zu hören.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

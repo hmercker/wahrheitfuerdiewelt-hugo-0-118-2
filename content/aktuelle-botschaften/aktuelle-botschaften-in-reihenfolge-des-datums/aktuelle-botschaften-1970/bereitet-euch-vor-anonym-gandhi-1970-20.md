@@ -1,7 +1,7 @@
 ---
 title: "Bereitet euch vor"
 menu_title: ""
-description: "Bereitet euch vor"
+description: "Gandhi: „Möge Frieden in euren Herzen sein und Liebe in euren Seelen, Gandhi. Ich freue mich, wieder bei euch zu sein und ich habe das Gefühl, dass ich …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

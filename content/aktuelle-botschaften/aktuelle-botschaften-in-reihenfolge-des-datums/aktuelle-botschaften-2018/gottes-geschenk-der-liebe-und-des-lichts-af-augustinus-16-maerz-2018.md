@@ -1,7 +1,7 @@
 ---
 title: "Gottes Geschenk der Liebe und des Lichts"
 menu_title: ""
-description: "Gottes Geschenk der Liebe und des Lichts"
+description: "Augustinus, empfangen durch Al Fike: „Gesegnetes Kind, deine Mutter ist im Licht. Sie fährt fort, Gott auf ihre Weise und mit ihren Mitteln zu dienen.“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

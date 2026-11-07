@@ -1,7 +1,7 @@
 ---
 title: "Zuflucht schaffen in der Gemeinschaft mit dem Herzen"
 menu_title: ""
-description: "Zuflucht schaffen in der Gemeinschaft mit dem Herzen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Denn je mehr sich die Ereignisse in der Welt polarisieren, desto notwendiger wird das Bedürfnis nach Zuflucht …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

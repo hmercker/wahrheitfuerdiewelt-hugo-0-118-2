@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften empfangen von Lorna Scott"
 menu_title: ""
-description: "Aktuelle Botschaften empfangen von Lorna Scott"
+description: "Aktuelle Botschaften empfangen von Lorna Scott: „Ihre erste Mitteilung war am 13. Das ist eine ziemlich vernünftige Fortschrittsrate, aber es gibt …“"
 date: 2023-09-19 15:43:52+00:00
 draft: False
 hidden: True

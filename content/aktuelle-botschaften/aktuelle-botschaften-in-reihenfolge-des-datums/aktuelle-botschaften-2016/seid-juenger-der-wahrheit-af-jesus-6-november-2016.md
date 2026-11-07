@@ -1,7 +1,7 @@
 ---
 title: "Seid Jünger der Wahrheit"
 menu_title: ""
-description: "Seid Jünger der Wahrheit"
+description: "Jesus, empfangen durch Al Fike: „Jeder von euch muss aufstehen und gezählt werden, jeder muss diese Wahrheiten sprechen, wo die Gelegenheit und Gottes …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

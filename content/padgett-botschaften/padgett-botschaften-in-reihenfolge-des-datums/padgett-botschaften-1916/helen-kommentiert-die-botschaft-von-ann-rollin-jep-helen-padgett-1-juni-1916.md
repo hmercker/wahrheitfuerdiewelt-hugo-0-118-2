@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Botschaft von Ann Rollin"
 menu_title: ""
-description: "Helen kommentiert die Botschaft von Ann Rollin"
+description: "Helen, empfangen durch James Padgett: „Ich werde heute Abend nicht mehr schreiben, da ich sehe, dass du müde bist. Deine eigene wahre und liebevolle, Helen.“"
 date: 2020-08-01 06:25:48+00:174
 draft: False
 hidden: True

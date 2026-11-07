@@ -1,7 +1,7 @@
 ---
 title: "Vertraut euch selbst und vertraut Gott"
 menu_title: ""
-description: "Vertraut euch selbst und vertraut Gott"
+description: "Eileen Caddy, empfangen durch Al Fike: „Der Meister Jesus ist wieder hier. (Eileen Caddy spricht) Wie viele Engel sind jeden Tag an eure Tür gekommen, um …“"
 date: 2020-08-01 06:25:48+00:167
 draft: False
 hidden: True

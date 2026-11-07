@@ -1,7 +1,7 @@
 ---
 title: "Bringt die Wahrheit von Gottes Liebe zum Ausdruck, wo immer ihr seid"
 menu_title: ""
-description: "Bringt die Wahrheit von Gottes Liebe zum Ausdruck, wo immer ihr seid"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Möge der Segen der Essenz Gottes eure Seele erfüllen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

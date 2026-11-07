@@ -1,7 +1,7 @@
 ---
 title: "Diese Liebe wird euch zur Quelle der Gnade tragen"
 menu_title: ""
-description: "Diese Liebe wird euch zur Quelle der Gnade tragen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ihr werdet nicht hierher gezogen auf der Suche nach magischen Zeichen, spirituellen Manifestationen, sondern …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

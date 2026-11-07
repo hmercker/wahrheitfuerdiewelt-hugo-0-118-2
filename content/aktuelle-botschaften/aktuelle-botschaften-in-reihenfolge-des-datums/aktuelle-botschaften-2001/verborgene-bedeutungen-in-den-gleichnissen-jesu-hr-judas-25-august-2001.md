@@ -1,7 +1,7 @@
 ---
 title: "Verborgene Deutungen in den Gleichnissen Jesu"
 menu_title: ""
-description: "Verborgene Deutungen in den Gleichnissen Jesu"
+description: "Judas, empfangen durch H.: „Das ist ein sehr gutes Zeichen. Und du siehst mich, ja, du spürst mich in der Tat so nah bei dir, dass du mich berühren könntest.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Besuch, den Leslie in die spirituelle Welt machte, war eine der glücklichsten Nächte ihres Lebens"
 menu_title: ""
-description: "Der Besuch, den Leslie in die spirituelle Welt machte, war eine der glücklichsten Nächte ihres Lebens"
+description: "Mary Kennedy, empfangen durch James Padgett: „Lass mich schreiben, denn ich weiß, dass meine Mitteilung interessanter sein wird als die anderen, die du …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

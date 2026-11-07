@@ -1,7 +1,7 @@
 ---
 title: "Shandor's Kommentar über die Direkte Stimme"
 menu_title: ""
-description: "Shandor's Kommentar über die Direkte Stimme"
+description: "Shandor 1, empfangen durch Al Fike: „Al: Ich denke, dass sie sehr überrascht und ein wenig beeindruckt waren, dass wir ohne die Entwicklung, die seine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

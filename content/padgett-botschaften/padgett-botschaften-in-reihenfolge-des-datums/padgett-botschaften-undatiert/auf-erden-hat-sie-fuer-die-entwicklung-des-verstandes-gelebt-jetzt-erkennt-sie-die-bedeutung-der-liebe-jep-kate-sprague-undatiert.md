@@ -1,7 +1,7 @@
 ---
 title: "Auf Erden hat sie für die Entwicklung des Verstandes gelebt, jetzt erkennt sie die Bedeutung der Liebe"
 menu_title: ""
-description: "Auf Erden hat sie für die Entwicklung des Verstandes gelebt, jetzt erkennt sie die Bedeutung der Liebe"
+description: "Kate Sprague 1, empfangen durch James Padgett: „Gib mir deine Liebe und Hilfe. Ich sehe, dass deine Sympathie sich auf uns richtet, und dass deine Liebe …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

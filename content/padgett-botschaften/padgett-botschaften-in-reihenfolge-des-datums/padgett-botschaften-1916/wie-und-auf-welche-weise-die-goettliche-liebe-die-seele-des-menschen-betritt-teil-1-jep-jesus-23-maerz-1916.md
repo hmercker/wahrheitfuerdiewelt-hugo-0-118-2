@@ -1,7 +1,7 @@
 ---
 title: "Wie und auf welche Weise die Göttliche Liebe die Seele des Menschen betritt - Teil 1"
 menu_title: ""
-description: "Wie und auf welche Weise die Göttliche Liebe die Seele des Menschen betritt - Teil 1"
+description: "Jesus, empfangen durch James Padgett: „Wie ich dir schon gesagt habe, ist der Mensch ein Geschöpf Gottes mit einem Körper (physischen Körper), einem Geist …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

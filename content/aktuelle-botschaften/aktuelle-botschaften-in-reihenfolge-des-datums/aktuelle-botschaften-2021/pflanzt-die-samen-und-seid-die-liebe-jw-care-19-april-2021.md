@@ -1,7 +1,7 @@
 ---
 title: "Pflanzt die Samen und seid die Liebe"
 menu_title: ""
-description: "Pflanzt die Samen und seid die Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Das konnte ich auf der Erde nachempfinden. Ich weiß, dass einige von euch von denen umgeben sind, die die …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

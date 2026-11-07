@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 40 : Warum Jesus Gleichnisse verwendete und weshalb die Jünger fähig waren, Krankheiten zu heilen"
 menu_title: ""
-description: "Offenbarung 40 : Warum Jesus Gleichnisse verwendete und weshalb die Jünger fähig waren, Krankheiten zu heilen"
+description: "Jesus, empfangen durch Dr Samuels: „Wie ich sehe, bist du überrascht, dass ich heute Nacht bei dir bin — bete weiterhin in all der Ernsthaftigkeit und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

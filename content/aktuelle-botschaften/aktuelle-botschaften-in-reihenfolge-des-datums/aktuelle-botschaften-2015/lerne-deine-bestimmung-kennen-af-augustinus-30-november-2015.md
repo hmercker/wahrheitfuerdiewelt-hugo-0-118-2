@@ -1,7 +1,7 @@
 ---
 title: "Lerne deine Bestimmung kennen"
 menu_title: ""
-description: "Lerne deine Bestimmung kennen"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, jeder von euch hat eine große Bestimmung, und es ist für euch in dieser Zeit, während ihr auf dieser …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

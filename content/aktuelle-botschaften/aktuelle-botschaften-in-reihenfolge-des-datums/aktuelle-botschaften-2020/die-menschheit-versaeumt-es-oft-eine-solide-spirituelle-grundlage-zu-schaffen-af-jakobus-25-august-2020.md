@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit versäumt es oft, eine solide spirituelle Grundlage zu schaffen"
 menu_title: ""
-description: "Die Menschheit versäumt es oft, eine solide spirituelle Grundlage zu schaffen"
+description: "Jakobus, empfangen durch Al Fike: „Die Menschheit hat einen so unstillbaren Hunger, ein tiefes Verlangen, die Kuriositäten des Verstandes zu wissen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

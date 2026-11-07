@@ -1,7 +1,7 @@
 ---
 title: "Wir sind Menschenfischer geworden"
 menu_title: ""
-description: "Wir sind Menschenfischer geworden"
+description: "Petrus, empfangen durch Al Fike: „Es wird gesagt, dass ich der Fels war, auf dem das, was die Kirche wurde, gebaut wurde. In der Tat könnten sie über …“"
 date: 2020-08-01 06:25:48+00:116
 draft: False
 hidden: True

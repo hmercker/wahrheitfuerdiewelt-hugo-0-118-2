@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett beschreibt ihr Leben in den Göttlichen Sphären"
 menu_title: ""
-description: "Helen Padgett beschreibt ihr Leben in den Göttlichen Sphären"
+description: "Helen, empfangen durch James Padgett: „Ich werde dir jetzt über mein Zuhause schreiben, wie ich versprochen habe, und du darfst nicht denken, dass ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

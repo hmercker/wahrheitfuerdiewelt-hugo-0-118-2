@@ -1,7 +1,7 @@
 ---
 title: "Liebe muss Harmonie bringen, Licht muss die Dunkelheit vertreiben"
 menu_title: ""
-description: "Liebe muss Harmonie bringen, Licht muss die Dunkelheit vertreiben"
+description: "Seretta Kem, empfangen durch Al Fike: „Obwohl ihr nur wenige in diesem Kreis seid, seid ihr groß in eurer Macht und in euren Bemühungen und Gebeten …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

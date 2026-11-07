@@ -1,7 +1,7 @@
 ---
 title: "Der Verstand und die Spiritualität"
 menu_title: ""
-description: "Der Verstand und die Spiritualität"
+description: "Josef, empfangen durch Amada Reza: „[Lieber Himmlischer Vater/Mutter, ich wünsche mir, Dir durch Deine Göttliche Liebe zu dienen, die sich in meiner Seele …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

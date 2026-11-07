@@ -1,7 +1,7 @@
 ---
 title: "Rumi spricht von Direkter Stimme"
 menu_title: ""
-description: "Rumi spricht von Direkter Stimme"
+description: "Rumi, empfangen durch Al Fike: „Mein Herz erhebt sich, wenn ich solch schöne Lichter sehe. Ich wünsche mir, zu kommen und meine Wahrheiten noch einmal in …“"
 date: 2020-08-01 06:25:48+00:189
 draft: False
 hidden: True

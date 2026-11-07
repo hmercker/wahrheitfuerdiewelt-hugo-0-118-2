@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt der Seele - Teil 1"
 menu_title: ""
-description: "Die Geburt der Seele - Teil 1"
+description: "Seretta Kem, empfangen durch Al Fike: „(Erste Sitzung im verdunkelten Raum) Denn gewissermaßen kalibrieren wir die Bedingungen und Energien im Raum neu und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

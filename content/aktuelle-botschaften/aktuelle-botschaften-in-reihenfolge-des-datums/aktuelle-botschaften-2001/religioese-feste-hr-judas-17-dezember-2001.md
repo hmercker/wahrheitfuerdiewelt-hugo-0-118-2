@@ -1,7 +1,7 @@
 ---
 title: "Religiöse Feste"
 menu_title: ""
-description: "Religiöse Feste"
+description: "Judas, empfangen durch H.: „Mein lieber H Ich möchte diese Nachricht mit einer Reihe von Fragen beginnen. Was bedeutet der Yom Kippur Tag für dich?“"
 date: 2020-08-01 06:25:48+00:157
 draft: False
 hidden: True

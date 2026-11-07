@@ -1,7 +1,7 @@
 ---
 title: "Meine Reise zur Liebe"
 menu_title: ""
-description: "Meine Reise zur Liebe"
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Ihr kennt mich vielleicht aus meinen Werken, vor allem aus dem Buch \"Der Prophet\". Ich hatte die Gabe …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen freut sich, dass Perry geschrieben hat"
 menu_title: ""
-description: "Helen freut sich, dass Perry geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich sehe, dass du heute Abend nicht in der Verfassung bist, um lange zu schreiben und ich werde …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

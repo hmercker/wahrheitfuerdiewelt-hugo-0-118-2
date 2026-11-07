@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebets"
 menu_title: ""
-description: "Die Kraft des Gebets"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich freue mich, heute hier bei euch zu sein, während ihr in euren Widmungen des Gebets fortfahrt, den Wunsch habt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

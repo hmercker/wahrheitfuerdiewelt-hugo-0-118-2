@@ -1,7 +1,7 @@
 ---
 title: "Jesus informiert Herrn Padgett, dass seine Seele ein großes Einströmen der Göttlichen Liebe erfahren hat"
 menu_title: ""
-description: "Jesus informiert Herrn Padgett, dass seine Seele ein großes Einströmen der Göttlichen Liebe erfahren hat"
+description: "Jesus, empfangen durch James Padgett: „Ich weiß, daß du nicht mehr weit vom Reich Gottes entfernt bist und daß bald eine solche Liebe zu dir kommen wird …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

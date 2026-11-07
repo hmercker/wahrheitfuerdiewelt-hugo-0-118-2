@@ -1,7 +1,7 @@
 ---
 title: "Lektion 18 - Das Gesetz der Anziehung und der Seelenfortschritt - Band 2"
 menu_title: ""
-description: "Lektion 18 - Das Gesetz der Anziehung und der Seelenfortschritt - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Es geht um das Gesetz der Anziehung und sein Wirken in der materiellen Welt. Es ist ein Gesetz, das besagt, dass Gleiches …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

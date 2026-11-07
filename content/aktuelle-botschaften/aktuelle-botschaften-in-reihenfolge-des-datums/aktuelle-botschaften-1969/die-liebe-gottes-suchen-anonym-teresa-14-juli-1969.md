@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes suchen"
 menu_title: ""
-description: "Die Liebe Gottes suchen"
+description: "Teresa: „Ich möchte euch ein paar Worte der Ermutigung geben und ich freue mich, euch heute Abend hier sitzen zu sehen.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

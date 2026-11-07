@@ -1,7 +1,7 @@
 ---
 title: "Es ist wichtig, ein spirituelles Leben anzustreben"
 menu_title: ""
-description: "Es ist wichtig, ein spirituelles Leben anzustreben"
+description: "Augustinus, empfangen durch Al Fike: „Für diejenigen unter euch, die mich nicht kennen, ich war einst Bischof von Hippo vor vielen hundert Jahren, als ich …“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

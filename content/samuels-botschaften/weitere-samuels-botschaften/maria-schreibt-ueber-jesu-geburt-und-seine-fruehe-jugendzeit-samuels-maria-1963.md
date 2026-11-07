@@ -1,7 +1,7 @@
 ---
 title: "Maria schreibt über Jesu Geburt und seine frühe Jugendzeit"
 menu_title: ""
-description: "Maria schreibt über Jesu Geburt und seine frühe Jugendzeit"
+description: "Maria, empfangen durch Dr Samuels im Jahre: „Es ist eine beträchtliche Zeit her, rechnet man in Erdenjahren, dass ich eine Botschaft geschrieben habe …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

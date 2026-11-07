@@ -1,7 +1,7 @@
 ---
 title: "Lektion über die Falschheit des stellvertretenden Sühneopfers und die ungewisse Natur der persönlichen Wahrheit"
 menu_title: ""
-description: "Lektion über die Falschheit des stellvertretenden Sühneopfers und die ungewisse Natur der persönlichen Wahrheit"
+description: "Moses, empfangen durch Al Fike: „Ich danke dir, meine Tochter, für dein Gebet. Du hast ein reines Licht und eine tiefe Sehnsucht, mit Gott zu sein …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

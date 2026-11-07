@@ -1,7 +1,7 @@
 ---
 title: "Mit der Zeit wird das Rinnsal von Gottes Liebe in eure Seele ein mächtiger Fluss werden"
 menu_title: ""
-description: "Mit der Zeit wird das Rinnsal von Gottes Liebe in eure Seele ein mächtiger Fluss werden"
+description: "Augustinus, empfangen durch Al Fike: „Wie sehr sehnt ihr euch nach den mystischen Erfahrungen der Berührung Gottes auf euch und auf eure Seelen.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

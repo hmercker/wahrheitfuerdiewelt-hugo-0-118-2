@@ -1,7 +1,7 @@
 ---
 title: "Mary stimmt dem zu, was seine Mutter über Leslies Fortschritte in seiner Seelenentwicklung gesagt hat"
 menu_title: ""
-description: "Mary stimmt dem zu, was seine Mutter über Leslies Fortschritte in seiner Seelenentwicklung gesagt hat"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, wenn es seiner Mutter erlaubt ist, zu schreiben, denke ich, dass ich die Gelegenheit haben sollte, ein …“"
 date: 2020-08-01 06:25:48+00:252
 draft: False
 hidden: True

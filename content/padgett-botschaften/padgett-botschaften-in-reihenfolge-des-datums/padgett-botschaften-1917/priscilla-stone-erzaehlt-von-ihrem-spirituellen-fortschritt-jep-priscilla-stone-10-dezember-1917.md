@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone erzählt von ihrem spirituellen Fortschritt"
 menu_title: ""
-description: "Priscilla Stone erzählt von ihrem spirituellen Fortschritt"
+description: "Priscilla Stone, empfangen durch James Padgett: „Nun, in erster Linie möchte ich ihm sagen, dass ich Fortschritte mache und mich in einer Sphäre befinde …“"
 date: 2020-08-01 06:25:48+00:238
 draft: False
 hidden: True

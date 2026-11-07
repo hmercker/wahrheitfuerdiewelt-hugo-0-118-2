@@ -1,7 +1,7 @@
 ---
 title: "Ich bin wie ihr, ein Kind Gottes"
 menu_title: ""
-description: "Ich bin wie ihr, ein Kind Gottes"
+description: "Jesus: „Mögen Frieden und Glück immer mit euch sein. Möge unser Vater euch mit Seiner Liebe segnen.“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

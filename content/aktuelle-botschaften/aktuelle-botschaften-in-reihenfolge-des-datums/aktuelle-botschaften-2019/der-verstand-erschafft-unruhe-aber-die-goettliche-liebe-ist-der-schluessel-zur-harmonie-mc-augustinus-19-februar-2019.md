@@ -1,7 +1,7 @@
 ---
 title: "Der Verstand erschafft Unruhe, aber die göttliche Liebe ist der Schlüssel zur Harmonie"
 menu_title: ""
-description: "Der Verstand erschafft Unruhe, aber die göttliche Liebe ist der Schlüssel zur Harmonie"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Eure Gebete werden erhört und sie reichen in ihrer Aufrichtigkeit zu Gott. Bitte wisse, mein lieber Sohn …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

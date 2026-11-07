@@ -1,7 +1,7 @@
 ---
 title: "Ich fühlte eure ernsthafte Sehnsucht nach der Göttlichen Liebe"
 menu_title: ""
-description: "Ich fühlte eure ernsthafte Sehnsucht nach der Göttlichen Liebe"
+description: "Grace Moore 1: „Ich fühle mich so geehrt, dass ich hierher kommen darf, um zu euch zu sprechen und mit euch zusammen zu sein, um erneuert zu werden und …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

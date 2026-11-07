@@ -1,7 +1,7 @@
 ---
 title: "Weiterhin die Hand reichen"
 menu_title: ""
-description: "Weiterhin die Hand reichen"
+description: "Martin Luther, empfangen durch Joseph: „Ich möchte nur sagen, dass meine Gebete mit allen von euch sind, die an diesem besonderen Tag des Gebets teilnehmen …“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

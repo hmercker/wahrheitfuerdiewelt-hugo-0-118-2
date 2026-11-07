@@ -1,7 +1,7 @@
 ---
 title: "Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt"
 menu_title: ""
-description: "Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt"
+description: "John B Comeys, empfangen durch James Padgett: „Ich möchte dir eine kurze Zeit schreiben, um dich über bestimmte Wahrheiten zu informieren, die du über das …“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

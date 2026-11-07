@@ -1,7 +1,7 @@
 ---
 title: "Werde ein Nachfolger meiner Lehren"
 menu_title: ""
-description: "Werde ein Nachfolger meiner Lehren"
+description: "Jesus, empfangen durch Helge Mercker: „Zögere nicht, uns zu rufen, denn wir wollen dir bei allen Entscheidungen oder Aussagen, die du äußern möchtest, helfen.“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

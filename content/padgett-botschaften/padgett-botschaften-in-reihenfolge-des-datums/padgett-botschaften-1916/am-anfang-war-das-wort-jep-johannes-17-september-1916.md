@@ -1,7 +1,7 @@
 ---
 title: "Am Anfang war das Wort"
 menu_title: ""
-description: "Am Anfang war das Wort"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte bloß ein paar Worte bezüglich dessen sagen, was dir der Mann über das Evangelium, das mir …“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

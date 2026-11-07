@@ -1,7 +1,7 @@
 ---
 title: "Die Welt ist in großer Not"
 menu_title: ""
-description: "Die Welt ist in großer Not"
+description: "Augustinus, empfangen durch Al Fike: „Ja, die Welt ist in großer Not, nicht wahr? Und viele sind in großer Not.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

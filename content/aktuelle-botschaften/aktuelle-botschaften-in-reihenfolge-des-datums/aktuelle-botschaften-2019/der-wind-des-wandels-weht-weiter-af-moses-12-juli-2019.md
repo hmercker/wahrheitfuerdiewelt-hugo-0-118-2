@@ -1,7 +1,7 @@
 ---
 title: "Der Wind des Wandels weht weiter"
 menu_title: ""
-description: "Der Wind des Wandels weht weiter"
+description: "Moses, empfangen durch Al Fike: „Denn es gibt weder Zeit noch Interesse daran, ein Leben zu führen, das in Harmonie mit Verhaltensweisen steht, die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

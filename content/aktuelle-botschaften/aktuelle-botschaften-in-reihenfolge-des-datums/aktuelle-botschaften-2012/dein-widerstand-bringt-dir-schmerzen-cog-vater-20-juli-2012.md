@@ -1,7 +1,7 @@
 ---
 title: "Dein Widerstand bringt dir Schmerzen"
 menu_title: ""
-description: "Dein Widerstand bringt dir Schmerzen"
+description: "Vater, empfangen durch Child of God: „Du bittest um Rat und ich werde ihn dir zu diesem Zeitpunkt geben. Du solltest gehen und mit J. sprechen.“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

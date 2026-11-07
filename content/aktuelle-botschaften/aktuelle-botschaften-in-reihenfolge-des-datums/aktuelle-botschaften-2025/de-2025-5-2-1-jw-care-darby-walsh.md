@@ -1,7 +1,7 @@
 ---
 title: "Deine Wunden überwinden - Teil 1"
 menu_title: ""
-description: "Deine Wunden überwinden - Teil 1"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ihr könnt sie als spirituelles Orchester betrachten, denn gemeinsam versuchen wir, diese Versammlungen zu …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein französischer Philosoph, der die Idee der Göttlichen Liebe ablehnt und auf Vernunft und intellektuelle Entwicklung setzt"
 menu_title: ""
-description: "Ein französischer Philosoph, der die Idee der Göttlichen Liebe ablehnt und auf Vernunft und intellektuelle Entwicklung setzt"
+description: "Descartes 1, empfangen durch James Padgett: „Ich werde nicht versuchen, mich für eine große Weile aufzudrängen und möchte nur sagen, dass du nicht so gut …“"
 date: 2020-08-01 06:25:48+00:270
 draft: False
 hidden: True

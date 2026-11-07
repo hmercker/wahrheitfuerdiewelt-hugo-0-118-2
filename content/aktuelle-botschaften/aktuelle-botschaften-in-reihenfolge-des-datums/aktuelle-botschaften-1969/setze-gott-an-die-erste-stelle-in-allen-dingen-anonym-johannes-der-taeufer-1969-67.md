@@ -1,7 +1,7 @@
 ---
 title: "Setze Gott an die erste Stelle in allen Dingen"
 menu_title: ""
-description: "Setze Gott an die erste Stelle in allen Dingen"
+description: "Johannes der Täufer: „Ihr seid hier versammelt, um etwas von den wunderbaren Gesetzen der Kommunikation zu lernen.“"
 date: 2020-08-01 06:25:48+00:221
 draft: False
 hidden: True

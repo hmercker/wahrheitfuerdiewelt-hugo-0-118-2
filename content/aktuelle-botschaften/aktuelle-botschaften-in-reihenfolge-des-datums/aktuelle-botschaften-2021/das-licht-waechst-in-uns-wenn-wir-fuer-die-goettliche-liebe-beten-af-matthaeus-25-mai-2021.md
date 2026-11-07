@@ -1,7 +1,7 @@
 ---
 title: "Das Licht wächst in uns, wenn wir für die Göttliche Liebe beten"
 menu_title: ""
-description: "Das Licht wächst in uns, wenn wir für die Göttliche Liebe beten"
+description: "Matthäus, empfangen durch Al Fike: „Während die weltlichen Bedingungen in euer Leben hinein- und hinausziehen, wisst, dass, weil ihr diese Treue zu Gott …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

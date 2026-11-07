@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Wesen können ihr Aussehen anpassen, um den Erwartungen der Sterblichen, denen sie erscheinen, zu entsprechen"
 menu_title: ""
-description: "Spirituelle Wesen können ihr Aussehen anpassen, um den Erwartungen der Sterblichen, denen sie erscheinen, zu entsprechen"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Anmerkung : Die folgende Botschaft wurde als Antwort auf eine Frage erhalten, warum vier Menschen denselben Geist …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

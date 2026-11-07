@@ -1,7 +1,7 @@
 ---
 title: "Lass deine Gedanken zu Gott aufsteigen"
 menu_title: ""
-description: "Lass deine Gedanken zu Gott aufsteigen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn ihr die Tür zu eurem Herzen öffnet und Gott erlaubt, hereinzukommen und die Tür zu eurer Seele zu öffnen …“"
 date: 2022-01-27 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus setzt seine Botschaft über seine Geburt, Leben und Wirken fort"
 menu_title: ""
-description: "Jesus setzt seine Botschaft über seine Geburt, Leben und Wirken fort"
+description: "Jesus, empfangen durch James Padgett: „Ich werde meinen Brief über meine Geburt und mein Werk fortsetzen, so wie ich ihn gestern Nacht begonnen habe.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

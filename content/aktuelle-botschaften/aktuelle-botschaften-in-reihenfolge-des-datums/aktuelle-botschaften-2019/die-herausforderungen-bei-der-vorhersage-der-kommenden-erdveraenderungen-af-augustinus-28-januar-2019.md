@@ -1,7 +1,7 @@
 ---
 title: "Die Herausforderungen bei der Vorhersage der kommenden Erdveränderungen"
 menu_title: ""
-description: "Die Herausforderungen bei der Vorhersage der kommenden Erdveränderungen"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Möge die Liebe des Vaters weiterhin in immer größerer Fülle in eure Seelen strömen und …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

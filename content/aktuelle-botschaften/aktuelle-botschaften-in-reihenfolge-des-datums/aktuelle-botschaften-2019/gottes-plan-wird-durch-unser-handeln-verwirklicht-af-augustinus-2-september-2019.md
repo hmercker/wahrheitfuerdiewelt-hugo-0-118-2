@@ -1,7 +1,7 @@
 ---
 title: "Gottes Plan wird durch unser Handeln verwirklicht"
 menu_title: ""
-description: "Gottes Plan wird durch unser Handeln verwirklicht"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer, Augustinus. Ihr seht, wie sich die Welt verändern wird, Geliebte, einer zum anderen, ein Gebet …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

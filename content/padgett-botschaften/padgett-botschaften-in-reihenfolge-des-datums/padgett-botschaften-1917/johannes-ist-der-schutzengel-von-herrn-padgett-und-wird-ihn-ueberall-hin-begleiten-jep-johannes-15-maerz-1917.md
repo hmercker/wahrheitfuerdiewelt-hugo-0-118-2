@@ -1,7 +1,7 @@
 ---
 title: "Johannes ist der Schutzengel von Herrn Padgett und wird ihn überall hin begleiten"
 menu_title: ""
-description: "Johannes ist der Schutzengel von Herrn Padgett und wird ihn überall hin begleiten"
+description: "Johannes, empfangen durch James Padgett: „Ich war heute Abend mit dir bei der Séance und hörte was das Medium sagte, und sah, dass sie die verschiedenen …“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

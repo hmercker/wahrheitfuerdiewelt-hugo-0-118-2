@@ -1,7 +1,7 @@
 ---
 title: "Gebete aus der Seele"
 menu_title: ""
-description: "Gebete aus der Seele"
+description: "Johannes, empfangen durch Al Fike: „So zieht ihr uns an, die Mitglieder des himmlischen Königreichs, die mit euch beten und euch dienen.“"
 date: 2023-05-08 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Rutscht nicht in alte Muster zurück"
 menu_title: ""
-description: "Rutscht nicht in alte Muster zurück"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich würde empfehlen, dass ihr an die Farbe Grün denkt, dass sie euch umgibt, bevor ihr die Kammer betretet.“"
 date: 2020-08-01 06:25:48+00:170
 draft: False
 hidden: True

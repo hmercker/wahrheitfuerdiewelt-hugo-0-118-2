@@ -1,7 +1,7 @@
 ---
 title: "Jehosephat aus dem Alten Testament erklärt seinen Status während seines Lebens auf der Erde"
 menu_title: ""
-description: "Jehosephat aus dem Alten Testament erklärt seinen Status während seines Lebens auf der Erde"
+description: "Jehosephat, empfangen von James Padgett: „Ich war eine Figur im Alten Testament, und ich möchte nur ein Wort sagen. Ich war kein sehr religiöser Mensch …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

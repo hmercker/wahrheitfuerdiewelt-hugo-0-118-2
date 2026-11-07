@@ -1,7 +1,7 @@
 ---
 title: "Helen sagt, dass Padgett's Mutter der Königin helfen wird"
 menu_title: ""
-description: "Helen sagt, dass Padgett's Mutter der Königin helfen wird"
+description: "Helen, empfangen durch James Padgett: „Nun mein Schatz, du hattest eine lange Sitzung heute Abend und bist müde und darfst nicht mehr schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

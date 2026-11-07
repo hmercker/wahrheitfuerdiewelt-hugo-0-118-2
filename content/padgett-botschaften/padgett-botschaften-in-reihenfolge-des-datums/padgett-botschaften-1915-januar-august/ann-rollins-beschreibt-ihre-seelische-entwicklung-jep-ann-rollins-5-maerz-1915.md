@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins beschreibt ihre seelische Entwicklung"
 menu_title: ""
-description: "Ann Rollins beschreibt ihre seelische Entwicklung"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich möchte dir über mein Erfahrung während des Fortschrittes im spirituellen Leben berichten.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seine Überzeugungen waren rein intellektuell, nach einer Weile wurde er skeptisch"
 menu_title: ""
-description: "Seine Überzeugungen waren rein intellektuell, nach einer Weile wurde er skeptisch"
+description: "S.B.C. 1, empfangen durch James Padgett: „Aber um ehrlich zu sein, erwarte ich nicht, dass du mir irgendwie helfen kannst, denn der Moment der Hoffnung ist …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

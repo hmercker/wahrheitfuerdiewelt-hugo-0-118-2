@@ -1,7 +1,7 @@
 ---
 title: "Amoulomol ein Bewohner des Nordpol als er grün und warm war "
 menu_title: ""
-description: "Amoulomol ein Bewohner des Nordpol als er grün und warm war "
+description: "Amoulomol, empfangen durch James Padgett: „Ich war ein Bewohner eines Landes, das nicht mehr existiert und von der Menschheitsgeschichte völlig vergessen ist.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

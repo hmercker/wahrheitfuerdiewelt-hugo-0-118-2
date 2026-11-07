@@ -1,7 +1,7 @@
 ---
 title: "Der Kaiser hat keine Klamotten"
 menu_title: ""
-description: "Der Kaiser hat keine Klamotten"
+description: "George Gurdjieff, empfangen durch Jimbeau Walsh: „Ich studierte viele Traditionen von vielen Orten. Ich versuchte, die höchsten Lehren zu verwenden, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

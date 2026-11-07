@@ -1,7 +1,7 @@
 ---
 title: "Die Sünden der Eltern werden auf die Kinder bis in die dritte und vierte Generation übertragen"
 menu_title: ""
-description: "Die Sünden der Eltern werden auf die Kinder bis in die dritte und vierte Generation übertragen"
+description: "Lukas, empfangen durch James Padgett: „Ich habe den Wunsch, heute Abend für kurze Zeit über den Text zu schreiben: „Dass die Sünden der Eltern auf die …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

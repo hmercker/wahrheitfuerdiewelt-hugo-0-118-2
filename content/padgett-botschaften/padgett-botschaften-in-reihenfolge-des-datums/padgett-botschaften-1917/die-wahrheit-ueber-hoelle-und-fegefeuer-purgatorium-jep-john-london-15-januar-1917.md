@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit über Hölle und Fegefeuer (Purgatorium)"
 menu_title: ""
-description: "Die Wahrheit über Hölle und Fegefeuer (Purgatorium)"
+description: "John London, empfangen durch James Padgett: „Laß mich ein Wort sagen und ich werde mich besser fühlen. Aus Beobachtung und Erfahrung weiß ich, dass auf …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Erziehung Jesu in Ägypten"
 menu_title: ""
-description: "Die Erziehung Jesu in Ägypten"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , ich möchte diese Gelegenheit nutzen, um einige Fragen zu klären, die aufgrund von Botschaften, die ich …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

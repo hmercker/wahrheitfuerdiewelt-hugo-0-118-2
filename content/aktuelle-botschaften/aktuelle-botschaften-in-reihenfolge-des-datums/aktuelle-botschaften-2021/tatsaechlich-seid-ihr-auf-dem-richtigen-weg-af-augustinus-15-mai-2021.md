@@ -1,7 +1,7 @@
 ---
 title: "Tatsächlich seid ihr auf dem richtigen Weg"
 menu_title: ""
-description: "Tatsächlich seid ihr auf dem richtigen Weg"
+description: "Augustinus, empfangen durch Al Fike: „In der Tat, es gibt einen Plan, Geliebte. Es gibt nichts, worüber ihr euch Sorgen machen müsst, wenn es darum geht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

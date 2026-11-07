@@ -1,7 +1,7 @@
 ---
 title: "Jesus und Judas - Freunde aus der Kindheit?"
 menu_title: ""
-description: "Jesus und Judas - Freunde aus der Kindheit?"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H, dies ist keine Weihnachtsbotschaft, aber ich möchte mich mit einer Frage der Freundschaft befassen, die …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

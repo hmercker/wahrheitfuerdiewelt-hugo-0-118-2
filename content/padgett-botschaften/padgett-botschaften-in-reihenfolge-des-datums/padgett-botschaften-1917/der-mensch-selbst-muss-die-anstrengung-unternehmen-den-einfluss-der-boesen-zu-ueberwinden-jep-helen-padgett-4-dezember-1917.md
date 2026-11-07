@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch selbst muss die Anstrengung unternehmen, den Einfluss der Bösen zu überwinden"
 menu_title: ""
-description: "Der Mensch selbst muss die Anstrengung unternehmen, den Einfluss der Bösen zu überwinden"
+description: "Helen, empfangen durch James Padgett: „Zwar beeinflussen die bösen spirituellen Wesen in vielen Fällen die Sterblichen in ihren Gedanken und Handlungen …“"
 date: 2020-08-01 06:25:48+00:235
 draft: False
 hidden: True

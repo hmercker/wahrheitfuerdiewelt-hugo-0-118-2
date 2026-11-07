@@ -1,7 +1,7 @@
 ---
 title: "Erweckt andere für den Sinn des Lebens"
 menu_title: ""
-description: "Erweckt andere für den Sinn des Lebens"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt also heute viel gelernt. Ihr habt viele Menschen getroffen.“"
 date: 2020-08-01 06:25:48+00:171
 draft: False
 hidden: True

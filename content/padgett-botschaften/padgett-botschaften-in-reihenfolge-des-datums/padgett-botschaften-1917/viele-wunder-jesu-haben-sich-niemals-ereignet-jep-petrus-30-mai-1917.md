@@ -1,7 +1,7 @@
 ---
 title: "Viele Wunder Jesu haben sich niemals ereignet"
 menu_title: ""
-description: "Viele Wunder Jesu haben sich niemals ereignet"
+description: "Petrus, empfangen durch James Padgett: „Ich habe gesehen, was du gelesen hast (das Lukas Evangelium) und muss dir mitteilen, dass viele der angeblichen …“"
 date: 2020-08-01 06:25:48+00:188
 draft: False
 hidden: True

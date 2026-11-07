@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit durch Liebe verbreiten"
 menu_title: ""
-description: "Die Wahrheit durch Liebe verbreiten"
+description: "Petrus, empfangen durch Kathryn Stokes: „[Ich suche eine engelhafte Führung darüber, wie man die Padgett-Botschaften auf eine umfassendere Weise …“"
 date: 2020-08-01 06:25:48+00:300
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seelenheilung"
 menu_title: ""
-description: "Seelenheilung"
+description: "Seretta Kem, empfangen durch Helge Mercker: „Es ist die Seelenheilung, über die du nachdenkst, die Heilung jenes Teils von dir, der sich im Prozess der …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

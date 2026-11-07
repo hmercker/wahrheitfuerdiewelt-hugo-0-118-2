@@ -1,7 +1,7 @@
 ---
 title: "Paulus erklärt, was genau die Hölle ist und dass es keine ewige Verdammung gibt"
 menu_title: ""
-description: "Paulus erklärt, was genau die Hölle ist und dass es keine ewige Verdammung gibt"
+description: "Paulus, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich heute Abend in der Kirche war und dem Prediger [Dr. Ratcliff] seiner Gemeinde …“"
 date: 2020-08-01 06:25:48+00:267
 draft: False
 hidden: True

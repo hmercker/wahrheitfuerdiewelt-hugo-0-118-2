@@ -1,7 +1,7 @@
 ---
 title: "Werft eure Ängste und Sorgen ab"
 menu_title: ""
-description: "Werft eure Ängste und Sorgen ab"
+description: "Alec Gaunt, empfangen durch Al Fike: „Es kommen viele Veränderungen auf euch zu, geliebte Seelen, sowohl in euch als auch um euch herum.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

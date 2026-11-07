@@ -1,7 +1,7 @@
 ---
 title: "Johannes schrieb über die Redner beim spirituellen Treffen, dass sie nicht wissen, was Einheit mit dem Vater bedeute"
 menu_title: ""
-description: "Johannes schrieb über die Redner beim spirituellen Treffen, dass sie nicht wissen, was Einheit mit dem Vater bedeute"
+description: "Johannes, empfangen durch James Padgett: „Ich weiß, dass über dieses Thema schon früher in begrenztem Umfang geschrieben worden ist, aber ich möchte es im …“"
 date: 2020-08-01 06:25:48+00:209
 draft: False
 hidden: True

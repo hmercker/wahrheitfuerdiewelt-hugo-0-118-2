@@ -1,7 +1,7 @@
 ---
 title: "Eine Schule für Medien"
 menu_title: ""
-description: "Eine Schule für Medien"
+description: "Jakobus: „Ich möchte auch ein paar Worte an euch richten, Jakobus. Wie freue ich mich, zu kommen und mich mit euch in Liebe zu vereinen.“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

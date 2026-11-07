@@ -1,7 +1,7 @@
 ---
 title: "Die Wunder der Gesetze"
 menu_title: ""
-description: "Die Wunder der Gesetze"
+description: "Jesus, empfangen durch Kathryn Stokes: „Wie ihr sehr gut wisst, entscheiden sich die Menschen zu glauben, was immer sie wollen, egal was wir versucht haben …“"
 date: 2020-08-01 06:25:48+00:302
 draft: False
 hidden: True

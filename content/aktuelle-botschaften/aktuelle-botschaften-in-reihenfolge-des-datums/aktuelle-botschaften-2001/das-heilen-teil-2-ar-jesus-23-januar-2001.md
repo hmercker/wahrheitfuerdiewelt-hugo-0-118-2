@@ -1,7 +1,7 @@
 ---
 title: "Das Heilen - Teil 2"
 menu_title: ""
-description: "Das Heilen - Teil 2"
+description: "Jesus, empfangen durch Amda Reza: „Ich freue mich sehr über diese Gelegenheit, dir über das Thema Heilung zu schreiben, denn es gibt vieles, was du bei …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

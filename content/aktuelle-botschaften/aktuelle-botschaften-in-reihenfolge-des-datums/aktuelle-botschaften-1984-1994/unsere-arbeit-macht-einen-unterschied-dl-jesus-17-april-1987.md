@@ -1,7 +1,7 @@
 ---
 title: "Unsere Arbeit macht einen Unterschied"
 menu_title: ""
-description: "Unsere Arbeit macht einen Unterschied"
+description: "Jesus, empfangen durch David Lampron: „Liebster Jesus, deine letzte Botschaft über das „Gesetz des Gebets“ hat mir und unseren Kuratoren so viel Freude …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

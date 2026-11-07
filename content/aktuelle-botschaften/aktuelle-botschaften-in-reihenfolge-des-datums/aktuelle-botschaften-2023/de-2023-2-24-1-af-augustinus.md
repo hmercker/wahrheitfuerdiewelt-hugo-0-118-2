@@ -1,7 +1,7 @@
 ---
 title: "Habt Mitgefühl für euch selbst und die Welt"
 menu_title: ""
-description: "Habt Mitgefühl für euch selbst und die Welt"
+description: "Augustinus, empfangen durch Al Fike: „Füllt eure Seele, meine Lieben. Bevor ich mit meiner Rede beginne, möchte ich die liebe Seele würdigen, deren wir an …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

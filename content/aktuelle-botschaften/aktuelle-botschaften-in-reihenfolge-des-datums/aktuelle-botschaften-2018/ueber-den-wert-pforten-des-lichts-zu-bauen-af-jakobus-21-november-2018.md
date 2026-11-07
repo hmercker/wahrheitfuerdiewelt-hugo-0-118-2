@@ -1,7 +1,7 @@
 ---
 title: "Über den Wert, Pforten des Lichts zu bauen"
 menu_title: ""
-description: "Über den Wert, Pforten des Lichts zu bauen"
+description: "Jakobus, empfangen durch Al Fike: „Diese Portale sind ein mächtiger Katalysator, um Energien des Wandels in eure Welt zu bringen.“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

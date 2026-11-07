@@ -1,7 +1,7 @@
 ---
 title: "Ich hörte dich und antwortete"
 menu_title: ""
-description: "Ich hörte dich und antwortete"
+description: "Vater, empfangen durch Child of God: „Ich habe dich gehört und deinen Ruf erhört. Du akzeptierst, dass unter deinen Wunden Geschenke und Gelegenheiten für …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Anerkennung des Online-Gebetskreises, Ermutigung für Direkte Stimme"
 menu_title: ""
-description: "Anerkennung des Online-Gebetskreises, Ermutigung für Direkte Stimme"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ich möchte eure Bemühungen heute mit dem Einsatz anerkennen, dass ihr viele hineingezogen habt, die unter …“"
 date: 2020-08-01 06:25:48+00:255
 draft: False
 hidden: True

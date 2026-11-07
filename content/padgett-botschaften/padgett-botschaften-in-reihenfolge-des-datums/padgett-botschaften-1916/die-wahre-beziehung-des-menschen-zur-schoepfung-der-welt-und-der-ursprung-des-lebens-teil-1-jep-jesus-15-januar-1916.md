@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Beziehung des Menschen zur Schöpfung der Welt, und der Ursprung des Lebens - Teil 1"
 menu_title: ""
-description: "Die wahre Beziehung des Menschen zur Schöpfung der Welt, und der Ursprung des Lebens - Teil 1"
+description: "Jesus, empfangen durch James Padgett: „Deine Verbindung mit uns ist so viel besser, dass ich fühle, ich sollte dir eine Botschaft über ein bedeutendes …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

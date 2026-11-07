@@ -1,7 +1,7 @@
 ---
 title: "Wie die Wahrheit der Seele entspringt"
 menu_title: ""
-description: "Wie die Wahrheit der Seele entspringt"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich lebte in der Zeit von Ramses dem Zweiten in Ägypten. Ich war eine seiner Töchter.“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

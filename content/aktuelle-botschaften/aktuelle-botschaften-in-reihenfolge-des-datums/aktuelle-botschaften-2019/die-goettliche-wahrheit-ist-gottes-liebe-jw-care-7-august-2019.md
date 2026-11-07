@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Wahrheit ist Gottes Liebe"
 menu_title: ""
-description: "Die Göttliche Wahrheit ist Gottes Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Ich war hier und habe eurem Gespräch zugehört. Ich möchte meinem Geliebten hier danken, dass er diese …“"
 date: 2020-08-01 06:25:48+00:107
 draft: False
 hidden: True

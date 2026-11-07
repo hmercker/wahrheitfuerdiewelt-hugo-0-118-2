@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt alle, seine erhaltenen Botschaften zu lesen"
 menu_title: ""
-description: "Ermutigt alle, seine erhaltenen Botschaften zu lesen"
+description: "James Padgett, empfangen durch Al Fike: „Es ist wichtig, dass ihr weiterhin euren Verstand und eure Seelen für diese Wahrheiten öffnet, damit ihr die Reise …“"
 date: 2025-02-08 06:00:00+00:10
 draft: False
 hidden: True

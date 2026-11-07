@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Francis Bacon über die Kontinuität des Lebens nach dem Tod schrie"
 menu_title: ""
-description: "Helen bestätigt, dass Francis Bacon über die Kontinuität des Lebens nach dem Tod schrie"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebster, ich freue mich, dass du in der Lage bist, wieder die Botschaften der spirituellen Wesen zu empfangen …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

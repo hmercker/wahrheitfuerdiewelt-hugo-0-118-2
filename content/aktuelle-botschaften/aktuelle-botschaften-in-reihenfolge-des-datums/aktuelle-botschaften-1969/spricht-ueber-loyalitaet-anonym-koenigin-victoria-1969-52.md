@@ -1,7 +1,7 @@
 ---
 title: "Spricht über Loyalität"
 menu_title: ""
-description: "Spricht über Loyalität"
+description: "Königin Victoria 1: „Ihr habt so viele Lektionen aus den höheren Quellen gehört, und jetzt bringe ich euch wieder auf irdische Zustände hinunter, und ich …“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Seele, die sich nach göttlicher Liebe sehnt, bringt himmlische Unterstützung"
 menu_title: ""
-description: "Eine Seele, die sich nach göttlicher Liebe sehnt, bringt himmlische Unterstützung"
+description: "Alec Gaunt, empfangen durch Maureen Cardoso: „Es tut so gut, dir zuzuhören, mein lieber Sohn, wie du von deiner Reise und deiner Nähe zum Geist erzählst …“"
 date: 2020-08-01 06:25:48+00:247
 draft: False
 hidden: True

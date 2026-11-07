@@ -1,7 +1,7 @@
 ---
 title: "Johannes sagte, der Meister habe geschrieben und seine große Macht und Herrlichkeit gezeigt"
 menu_title: ""
-description: "Johannes sagte, der Meister habe geschrieben und seine große Macht und Herrlichkeit gezeigt"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte dir sagen, dass der Meister soeben geschrieben hat, und im Schreiben zeigte er erneut seine große …“"
 date: 2020-08-01 06:25:48+00:197
 draft: False
 hidden: True

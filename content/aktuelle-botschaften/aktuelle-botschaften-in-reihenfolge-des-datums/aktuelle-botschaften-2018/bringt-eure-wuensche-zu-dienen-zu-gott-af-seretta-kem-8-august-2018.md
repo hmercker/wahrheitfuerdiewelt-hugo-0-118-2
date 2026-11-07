@@ -1,7 +1,7 @@
 ---
 title: "Bringt eure Wünsche zu dienen zu Gott"
 menu_title: ""
-description: "Bringt eure Wünsche zu dienen zu Gott"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist schön, euch vier wieder gemeinsam im Gebet zu sehen. Ich möchte euch ermutigen, dies in der nächsten Zeit so …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

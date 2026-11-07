@@ -1,7 +1,7 @@
 ---
 title: "Erlaube Gott, euch zu verändern"
 menu_title: ""
-description: "Erlaube Gott, euch zu verändern"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Das Universum ist fortschreitend. Ihr seid alle hier, weil ihr in die Substanz eures Schöpfers verwandelt werden …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

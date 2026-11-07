@@ -1,7 +1,7 @@
 ---
 title: "Sei dir selbst und deinem Schöpfer treu"
 menu_title: ""
-description: "Sei dir selbst und deinem Schöpfer treu"
+description: "Konfuzius, empfangen durch Al Fike: „Kleine Tochter, du wunderschöne Seele, die du bist und die immer bereit ist, Gott und der Wahrheit zu dienen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

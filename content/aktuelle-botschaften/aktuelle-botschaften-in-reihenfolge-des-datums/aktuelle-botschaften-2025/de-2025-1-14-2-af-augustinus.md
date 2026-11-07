@@ -1,7 +1,7 @@
 ---
 title: "Ruft euch weiterhin zum Dienst auf"
 menu_title: ""
-description: "Ruft euch weiterhin zum Dienst auf"
+description: "Augustinus, empfangen durch Al Fike: „Ich weiß, dass ihr mit einem Ohr zuhört und mit dem anderen Ohr auf die Anforderungen eurer Welt gerichtet seid.“"
 date: 2025-01-14 06:00:00+00:10
 draft: False
 hidden: True

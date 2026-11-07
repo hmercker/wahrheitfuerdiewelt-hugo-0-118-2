@@ -1,7 +1,7 @@
 ---
 title: "Akzeptiere Liebe, um deine Liebe wachsen zu lassen"
 menu_title: ""
-description: "Akzeptiere Liebe, um deine Liebe wachsen zu lassen"
+description: "Vater, empfangen durch Child of God: „Ich weiß, dass dein Verstand dir Streiche spielt und unsere Kommunikation stört. Du darfst die Hoffnung nicht verlieren.“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

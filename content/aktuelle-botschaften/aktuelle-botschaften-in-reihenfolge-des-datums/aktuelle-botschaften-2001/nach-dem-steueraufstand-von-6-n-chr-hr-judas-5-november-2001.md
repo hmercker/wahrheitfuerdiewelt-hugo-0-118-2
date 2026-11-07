@@ -1,7 +1,7 @@
 ---
 title: "Nach dem Steueraufstand von 6 n. Chr."
 menu_title: ""
-description: "Nach dem Steueraufstand von 6 n. Chr."
+description: "Judas, empfangen durch H.: „[Judas lacht] Es ist wunderbar, was M euch geschrieben hat! Es ist eine wohlverdiente Rüge.“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

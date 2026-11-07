@@ -1,7 +1,7 @@
 ---
 title: "Heute sind so viele schöne Wesen anwesend, dass kein dunkles spirituelles Wesen es erträgt, in der gleichen Atmosphäre zu sein"
 menu_title: ""
-description: "Heute sind so viele schöne Wesen anwesend, dass kein dunkles spirituelles Wesen es erträgt, in der gleichen Atmosphäre zu sein"
+description: "Priscilla Stone, empfangen durch James Padgett: „Dieser Einfluss der Liebe kann nicht um euch herum sein, ohne dass eure Seele seine Anwesenheit wahrnimmt …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

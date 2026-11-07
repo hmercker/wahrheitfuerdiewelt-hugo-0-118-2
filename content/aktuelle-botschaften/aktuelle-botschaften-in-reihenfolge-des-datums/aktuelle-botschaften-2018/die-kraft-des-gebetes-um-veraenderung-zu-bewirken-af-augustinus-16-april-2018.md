@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebetes, um Veränderung zu bewirken"
 menu_title: ""
-description: "Die Kraft des Gebetes, um Veränderung zu bewirken"
+description: "Augustinus, empfangen durch Al Fike: „(Baby Emery ist anwesend) Für die Kinder, die Babys, die jungen und neuen Seelen in dieser Welt, gießt eure Liebe auf …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

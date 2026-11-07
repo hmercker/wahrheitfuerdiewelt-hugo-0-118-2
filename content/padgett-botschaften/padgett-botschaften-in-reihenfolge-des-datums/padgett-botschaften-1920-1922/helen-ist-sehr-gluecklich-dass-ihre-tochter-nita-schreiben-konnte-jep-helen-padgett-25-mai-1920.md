@@ -1,7 +1,7 @@
 ---
 title: "Helen ist sehr glücklich, dass ihre Tochter Nita schreiben konnte"
 menu_title: ""
-description: "Helen ist sehr glücklich, dass ihre Tochter Nita schreiben konnte"
+description: "Helen, empfangen durch James Padgett: „Es gibt ihr ein besseres Gefühl zu wissen, dass jetzt jemand weiß, was ihr Zustand ist und wie glücklich sie ist.“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

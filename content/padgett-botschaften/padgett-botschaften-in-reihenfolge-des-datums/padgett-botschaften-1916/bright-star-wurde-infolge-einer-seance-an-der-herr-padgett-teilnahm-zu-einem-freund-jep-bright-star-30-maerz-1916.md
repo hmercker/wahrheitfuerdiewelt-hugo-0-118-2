@@ -1,7 +1,7 @@
 ---
 title: "Bright Star wurde infolge einer Seance, an der Herr Padgett teilnahm, zu einem Freund"
 menu_title: ""
-description: "Bright Star wurde infolge einer Seance, an der Herr Padgett teilnahm, zu einem Freund"
+description: "Bright Star 1, empfangen durch James Padgett: „Du bist überrascht, mich zu sehen, aber ich habe diese Gelegenheit und ich möchte nur ein Wort sagen.“"
 date: 2020-08-01 06:25:48+00:134
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Padgett wird nicht im Irrtum sein, weil seine Schriften nur von spirituellen Wesen und Engeln stammen, die Gottes Wahrheit kennen"
 menu_title: ""
-description: "Padgett wird nicht im Irrtum sein, weil seine Schriften nur von spirituellen Wesen und Engeln stammen, die Gottes Wahrheit kennen"
+description: "Martin Luther, empfangen durch James Padgett: „Als ich auf Erden war, hatte ich meine Mühen und Leiden, aber dem Vater sei Dank, ich wurde nie verlassen …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

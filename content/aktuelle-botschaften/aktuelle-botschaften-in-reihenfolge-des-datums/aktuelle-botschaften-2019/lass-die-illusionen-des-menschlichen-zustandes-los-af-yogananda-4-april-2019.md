@@ -1,7 +1,7 @@
 ---
 title: "Lass die Illusionen des menschlichen Zustandes los"
 menu_title: ""
-description: "Lass die Illusionen des menschlichen Zustandes los"
+description: "Yogananda, empfangen durch Al Fike: „Es ist ein Geschenk an euch, an diesem Tag, meine Freunde. Jeder Tag, diese Berührung, dieser süße Nektar der Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

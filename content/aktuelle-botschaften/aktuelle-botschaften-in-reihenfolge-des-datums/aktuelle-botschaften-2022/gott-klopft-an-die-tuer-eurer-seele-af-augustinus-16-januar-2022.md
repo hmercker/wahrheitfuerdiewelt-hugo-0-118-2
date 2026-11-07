@@ -1,7 +1,7 @@
 ---
 title: "Gott klopft an die Tür eurer Seele"
 menu_title: ""
-description: "Gott klopft an die Tür eurer Seele"
+description: "Augustinus, empfangen durch Al Fike: „Möge der Friede, der alles Verstehen übersteigt, einen Mantel um jeden von euch legen, geliebte Kinder.“"
 date: 2022-01-01 06:25:48+00:73
 draft: False
 hidden: True

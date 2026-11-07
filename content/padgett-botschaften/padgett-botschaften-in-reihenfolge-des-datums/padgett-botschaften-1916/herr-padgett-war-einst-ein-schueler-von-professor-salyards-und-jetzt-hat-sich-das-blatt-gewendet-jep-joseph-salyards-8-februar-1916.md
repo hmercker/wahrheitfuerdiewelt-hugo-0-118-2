@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgett war einst ein Schüler von Professor Salyards und jetzt hat sich das Blatt gewendet"
 menu_title: ""
-description: "Herr Padgett war einst ein Schüler von Professor Salyards und jetzt hat sich das Blatt gewendet"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich meinen Vortrag von vor einigen Wochen beenden möchte und jederzeit …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

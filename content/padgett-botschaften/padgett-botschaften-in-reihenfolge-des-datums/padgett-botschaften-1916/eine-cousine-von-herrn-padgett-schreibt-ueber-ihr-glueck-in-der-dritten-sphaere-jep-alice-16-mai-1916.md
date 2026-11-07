@@ -1,7 +1,7 @@
 ---
 title: "Eine Cousine von Herrn Padgett schreibt über ihr Glück in der Dritten Sphäre"
 menu_title: ""
-description: "Eine Cousine von Herrn Padgett schreibt über ihr Glück in der Dritten Sphäre"
+description: "Alice, empfangen durch James Padgett: „Ich möchte eine Zeile schreiben. Marys Mutter und ich waren damals bei ihr und wir sahen, wie du mit ihr sprachst …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

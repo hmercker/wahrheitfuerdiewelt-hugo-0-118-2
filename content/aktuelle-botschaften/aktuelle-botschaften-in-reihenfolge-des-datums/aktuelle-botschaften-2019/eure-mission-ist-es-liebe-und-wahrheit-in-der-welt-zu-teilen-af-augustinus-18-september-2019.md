@@ -1,7 +1,7 @@
 ---
 title: "Eure Mission ist es, Liebe und Wahrheit in der Welt zu teilen"
 menu_title: ""
-description: "Eure Mission ist es, Liebe und Wahrheit in der Welt zu teilen"
+description: "Augustinus, empfangen durch Al Fike: „Ja, wir im himmlischen Königreich bedauern, dass es eine gewisse Einschränkung eurer Arbeit an diesem kostbaren Ort …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

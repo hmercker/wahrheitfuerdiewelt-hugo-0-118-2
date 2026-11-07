@@ -1,7 +1,7 @@
 ---
 title: "Nero erzählt von seiner Erfahrung in den Höllen und der Hilfe seiner Seelenpartnerin"
 menu_title: ""
-description: "Nero erzählt von seiner Erfahrung in den Höllen und der Hilfe seiner Seelenpartnerin"
+description: "Nero, empfangen durch James Padgett: „Ich stelle mich auf diese Weise vor, um dir die wunderbare Kraft der Göttlichen Liebe zu zeigen, denn jetzt bin ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

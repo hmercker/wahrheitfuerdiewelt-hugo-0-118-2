@@ -1,7 +1,7 @@
 ---
 title: "Die Sphären der spirituellen Welt"
 menu_title: ""
-description: "Die Sphären der spirituellen Welt"
+description: "Bartholomäus, empfangen durch Jimbeau Walsh: „Im irdischen Leben hat die Zeit eine große Bedeutung, das Maß der Zeit, Tage, Jahre und Fristen.“"
 date: 2025-01-27 06:00:00+00:10
 draft: False
 hidden: True

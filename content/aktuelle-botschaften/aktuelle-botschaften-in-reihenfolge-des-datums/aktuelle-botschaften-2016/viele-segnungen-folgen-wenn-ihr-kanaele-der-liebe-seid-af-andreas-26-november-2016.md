@@ -1,7 +1,7 @@
 ---
 title: "Viele Segnungen folgen, wenn ihr Kanäle der Liebe seid"
 menu_title: ""
-description: "Viele Segnungen folgen, wenn ihr Kanäle der Liebe seid"
+description: "Andreas, empfangen durch Al Fike: „Ja, in der Tat seid ihr auf diese wunderschöne Insel zurückgezogen worden. Liebe und Licht zu bringen, ein Kanal des …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

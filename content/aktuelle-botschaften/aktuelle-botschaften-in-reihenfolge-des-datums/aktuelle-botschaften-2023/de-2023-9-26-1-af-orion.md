@@ -1,7 +1,7 @@
 ---
 title: "Betet mit der größten Absicht und dem größten Wunsch"
 menu_title: ""
-description: "Betet mit der größten Absicht und dem größten Wunsch"
+description: "Orion, empfangen durch Al Fike: „Daher ist meine Verbindung zu ihm sehr stark und ich möchte seine Bemühungen anerkennen, mit mir in Verbindung zu treten.“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

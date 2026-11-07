@@ -1,7 +1,7 @@
 ---
 title: "Unterschiede zwischen den Geschlechtern"
 menu_title: ""
-description: "Unterschiede zwischen den Geschlechtern"
+description: "Maria Magdalena, empfangen durch Amada Reza: „Seit meiner Zeit auf Erden bete ich für Gottes Göttliche Liebe, und obwohl ich hoch oben im Göttlichen Himmel …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

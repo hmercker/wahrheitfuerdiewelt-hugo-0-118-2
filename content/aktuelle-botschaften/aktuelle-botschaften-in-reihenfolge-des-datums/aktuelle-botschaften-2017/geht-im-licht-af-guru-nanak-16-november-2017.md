@@ -1,7 +1,7 @@
 ---
 title: "Geht im Licht"
 menu_title: ""
-description: "Geht im Licht"
+description: "Guru Nanak, empfangen durch Al Fike: „Ja, wir haben Vorkehrungen getroffen, dass ihr eine Beziehung zu denen habt, die diese Religion in die Welt bringen.“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

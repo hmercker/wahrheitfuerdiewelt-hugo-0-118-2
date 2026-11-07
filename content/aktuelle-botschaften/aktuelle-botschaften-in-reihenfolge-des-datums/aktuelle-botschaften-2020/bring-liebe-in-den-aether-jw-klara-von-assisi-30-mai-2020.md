@@ -1,7 +1,7 @@
 ---
 title: "Bring Liebe in den Äther"
 menu_title: ""
-description: "Bring Liebe in den Äther"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Wir sind zusammengekommen, um euch im Gebet zu begleiten und euch auf eurem Weg in der Liebe Gottes zu …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

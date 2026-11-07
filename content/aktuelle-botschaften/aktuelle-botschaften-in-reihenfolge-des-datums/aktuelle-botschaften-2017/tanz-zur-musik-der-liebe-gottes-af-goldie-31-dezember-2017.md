@@ -1,7 +1,7 @@
 ---
 title: "Tanz zur Musik der Liebe Gottes"
 menu_title: ""
-description: "Tanz zur Musik der Liebe Gottes"
+description: "Goldie, empfangen durch Al Fike: „Denn Gott wird euch in diesem harmonischen, schönen Licht und der Musik der Seele tragen. Die Schritte, die ihr lernen …“"
 date: 2020-08-01 06:25:48+00:269
 draft: False
 hidden: True

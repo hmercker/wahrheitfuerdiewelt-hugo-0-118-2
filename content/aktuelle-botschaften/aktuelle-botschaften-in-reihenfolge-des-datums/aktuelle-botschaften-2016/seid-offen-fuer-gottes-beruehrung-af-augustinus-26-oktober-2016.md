@@ -1,7 +1,7 @@
 ---
 title: "Seid offen für Gottes Berührung"
 menu_title: ""
-description: "Seid offen für Gottes Berührung"
+description: "Augustinus, empfangen durch Al Fike: „Es ist so gut, so viele zu sehen, die aus unterschiedlichen Perspektiven und Verständnissen gekommen sind und doch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

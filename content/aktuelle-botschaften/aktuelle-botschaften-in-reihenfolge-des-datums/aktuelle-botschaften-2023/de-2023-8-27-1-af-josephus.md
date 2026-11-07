@@ -1,7 +1,7 @@
 ---
 title: "Gaben die genutzt werden können"
 menu_title: ""
-description: "Gaben die genutzt werden können"
+description: "Joephus, empfangen durch Al Fike: „In dem Maße, in dem jeder von euch mit Hingabe und Gebet voranschreitet, in dem Wunsch, Gott zu dienen, in dem Wunsch …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

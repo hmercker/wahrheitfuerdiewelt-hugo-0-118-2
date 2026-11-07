@@ -1,7 +1,7 @@
 ---
 title: "Gehen in Gnade"
 menu_title: ""
-description: "Gehen in Gnade"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Denn es ist eine große Menge anwesend, angezogen von eurem Licht, angezogen von eurem Gebet.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

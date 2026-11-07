@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr betet, ladet ihr Gott ein, unsere Welt zu heilen"
 menu_title: ""
-description: "Wenn ihr betet, ladet ihr Gott ein, unsere Welt zu heilen"
+description: "Paulus, empfangen durch Al Fike: „Denn ich wohne im Himmel und bin gekommen, um zu euch auf der Erde zu sprechen, diesem Ort voller Schwierigkeiten und …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

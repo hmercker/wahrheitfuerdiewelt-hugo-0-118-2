@@ -1,7 +1,7 @@
 ---
 title: "Meine Reise, um den Menschen Gleichheit und Liebe zu bringen"
 menu_title: ""
-description: "Meine Reise, um den Menschen Gleichheit und Liebe zu bringen"
+description: "Guru Nanak, empfangen durch Maureen Cardoso: „Als ich ein kleines Kind war, wussten meine Familienmitglieder, dass ich etwas Einzigartiges an mir hatte.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

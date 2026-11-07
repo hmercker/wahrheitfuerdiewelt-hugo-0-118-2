@@ -1,7 +1,7 @@
 ---
 title: "Gottes Zeitplan"
 menu_title: ""
-description: "Gottes Zeitplan"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Es gibt ein Sprichwort in der Welt: \"Alles kommt zur rechten Zeit\". Das ist eine Abwandlung des ursprünglichen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

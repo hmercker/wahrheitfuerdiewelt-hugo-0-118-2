@@ -1,7 +1,7 @@
 ---
 title: "Sprecht die Wahrheit ohne Reue"
 menu_title: ""
-description: "Sprecht die Wahrheit ohne Reue"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Inmitten dieses freudigen Ereignisses möchte ich ein wenig über Reue sprechen. In meiner Zeit auf der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

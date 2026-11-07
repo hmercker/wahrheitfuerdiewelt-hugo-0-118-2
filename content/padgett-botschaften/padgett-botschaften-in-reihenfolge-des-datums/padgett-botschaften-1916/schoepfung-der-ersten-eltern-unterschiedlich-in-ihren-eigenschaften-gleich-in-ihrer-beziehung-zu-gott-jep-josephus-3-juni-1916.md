@@ -1,7 +1,7 @@
 ---
 title: "Schöpfung der ersten Eltern. Unterschiedlich in ihren Eigenschaften, gleich in ihrer Beziehung zu Gott"
 menu_title: ""
-description: "Schöpfung der ersten Eltern. Unterschiedlich in ihren Eigenschaften, gleich in ihrer Beziehung zu Gott"
+description: "Josephus, empfangen durch James Padgett: „Ich meine nicht, dass ich das ganze Buch korrigieren möchte, aber ich möchte etwas zu einigen der Themen sagen …“"
 date: 2020-08-01 06:25:48+00:175
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Jesus geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Jesus geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich freue mich, dass der Meister dir heute Abend geschrieben hat, denn es zeigt, dass du in …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

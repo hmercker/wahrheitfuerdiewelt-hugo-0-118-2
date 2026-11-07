@@ -1,7 +1,7 @@
 ---
 title: "Der Vater eines der Stämme Israels ist heute ein Bewohner der Göttlichen Himmel"
 menu_title: ""
-description: "Der Vater eines der Stämme Israels ist heute ein Bewohner der Göttlichen Himmel"
+description: "Shem, empfangen von James Padgett: „Vielleicht denkst du, dass es seltsam ist, dass ich dir schreibe, aber ich interessiere mich für die Arbeit, die der …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

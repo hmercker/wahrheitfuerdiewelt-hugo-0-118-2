@@ -1,7 +1,7 @@
 ---
 title: "Johannes nennt Gründe, warum im Neuen Testament Korrekturen vorgenommen werden müsse"
 menu_title: ""
-description: "Johannes nennt Gründe, warum im Neuen Testament Korrekturen vorgenommen werden müsse"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte nur sagen, dass es dir bald wieder gut gehen wird und du in der Lage sein wirst, einige unserer …“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

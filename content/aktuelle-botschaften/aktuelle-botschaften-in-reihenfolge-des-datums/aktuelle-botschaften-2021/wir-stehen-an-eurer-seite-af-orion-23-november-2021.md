@@ -1,7 +1,7 @@
 ---
 title: "Wir stehen an eurer Seite"
 menu_title: ""
-description: "Wir stehen an eurer Seite"
+description: "Orion, empfangen durch Al Fike: „Wir arbeiten fleißig mit euren Engelsfreunden zusammen, um euch zu stärken, euch zu erwecken und euch in eurem Streben …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

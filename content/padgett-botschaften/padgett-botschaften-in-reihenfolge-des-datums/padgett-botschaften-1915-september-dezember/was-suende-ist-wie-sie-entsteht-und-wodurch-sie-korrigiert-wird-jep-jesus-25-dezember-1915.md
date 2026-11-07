@@ -1,7 +1,7 @@
 ---
 title: "Was Sünde ist, wie sie entsteht und wodurch sie korrigiert wird"
 menu_title: ""
-description: "Was Sünde ist, wie sie entsteht und wodurch sie korrigiert wird"
+description: "Jesus, empfangen durch James Padgett: „Heute war ein Tag, an dem die Leute deines Landes meinen angeblichen Geburtstag feierten. Sie haben mich auch als …“"
 date: 2020-08-01 06:25:48+00:225
 draft: False
 hidden: True

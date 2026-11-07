@@ -1,7 +1,7 @@
 ---
 title: "Die Gabe der Direkten Stimme rückt näher"
 menu_title: ""
-description: "Die Gabe der Direkten Stimme rückt näher"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr nähert euch der Verwirklichung dieser Gabe der materiellen Ausdrucksformen und Manifestationen in Einklang mit …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

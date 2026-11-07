@@ -1,7 +1,7 @@
 ---
 title: "Johannes empfiehlt zum jetzigen Zeitpunkt nicht, solche Botschaften zu empfangen"
 menu_title: ""
-description: "Johannes empfiehlt zum jetzigen Zeitpunkt nicht, solche Botschaften zu empfangen"
+description: "Johannes, empfangen durch James Padgett: „Lass mich nur ein Wort sagen, und zwar, dass ich mit einigem Interesse gewartet habe, bis das spirituelle Wesen …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

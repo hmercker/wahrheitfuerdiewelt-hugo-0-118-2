@@ -1,7 +1,7 @@
 ---
 title: "Die Beziehung zwischen dem Verstand und der Seele"
 menu_title: ""
-description: "Die Beziehung zwischen dem Verstand und der Seele"
+description: "Leytergus, empfangen durch Al Fike: „Ich war ein alter Philosoph, in der Antike, lange bevor Jesus auf diese Welt kam. Heute bin ich ein Bewohner des …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

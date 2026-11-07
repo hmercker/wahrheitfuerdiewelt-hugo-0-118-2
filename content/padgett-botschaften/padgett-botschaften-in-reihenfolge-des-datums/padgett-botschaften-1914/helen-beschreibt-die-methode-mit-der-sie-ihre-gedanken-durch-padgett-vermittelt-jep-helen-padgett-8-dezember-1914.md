@@ -1,7 +1,7 @@
 ---
 title: "Helen beschreibt die Methode, mit der sie ihre Gedanken durch Padgett vermittelt"
 menu_title: ""
-description: "Helen beschreibt die Methode, mit der sie ihre Gedanken durch Padgett vermittelt"
+description: "Helen, empfangen durch James Padgett: „Lass mich dir erklären, dass du dich nur selbst unglücklich machst, indem du versucht alles über den Weg zu lernen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

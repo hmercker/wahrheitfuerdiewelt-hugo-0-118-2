@@ -1,7 +1,7 @@
 ---
 title: "Heilende Eingriffe stehen uns allen zur Verfügung"
 menu_title: ""
-description: "Heilende Eingriffe stehen uns allen zur Verfügung"
+description: "Seretta Kem, empfangen durch Al Fike: „Jedem einzelnen von euch wird jeden Tag große Hilfe zuteil. Nicht nur für euch, sondern auch für eure Lieben und die …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

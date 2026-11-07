@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle Medizin"
 menu_title: ""
-description: "Spirituelle Medizin"
+description: "Lukas, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes über uns sein und unsere Seelen erfüllen. Ich habe schon früher über Heilung gesprochen, über …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

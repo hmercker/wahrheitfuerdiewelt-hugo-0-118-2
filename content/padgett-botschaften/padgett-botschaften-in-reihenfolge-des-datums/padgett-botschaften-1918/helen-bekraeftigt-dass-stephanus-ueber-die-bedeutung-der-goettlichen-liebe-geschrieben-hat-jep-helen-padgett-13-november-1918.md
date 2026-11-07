@@ -1,7 +1,7 @@
 ---
 title: "Helen bekräftigt, dass Stephan über die Bedeutung der Göttlichen Liebe geschrieben hat"
 menu_title: ""
-description: "Helen bekräftigt, dass Stephan über die Bedeutung der Göttlichen Liebe geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hast heute Abend einen sehr interessanten Brief über ein sehr wichtiges Thema erhalten, und …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Paulus schließt seine Botschaft über die Hölle ab"
 menu_title: ""
-description: "Paulus schließt seine Botschaft über die Hölle ab"
+description: "Paulus, empfangen durch James Padgett: „Ich möchte heute Abend meine Botschaft über die Hölle beenden - was sie ist und was ihr Zweck ist.“"
 date: 2020-08-01 06:25:48+00:271
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gott benutzt euch als Kanal"
 menu_title: ""
-description: "Gott benutzt euch als Kanal"
+description: "Maria, empfangen durch Al Fike: „Die Zeit ist jetzt gekommen, um aufzustehen und von der Liebe zu sprechen, der Macht der Liebe, der Schönheit der Liebe …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

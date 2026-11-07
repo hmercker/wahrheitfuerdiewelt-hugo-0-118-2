@@ -1,7 +1,7 @@
 ---
 title: "Jeder Einzelne erfährt die Göttliche Liebe auf einzigartige Weise "
 menu_title: ""
-description: "Jeder Einzelne erfährt die Göttliche Liebe auf einzigartige Weise "
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte weiter auf den Vortrag eingehen, den unser geliebter Josephus neulich gehalten hat.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

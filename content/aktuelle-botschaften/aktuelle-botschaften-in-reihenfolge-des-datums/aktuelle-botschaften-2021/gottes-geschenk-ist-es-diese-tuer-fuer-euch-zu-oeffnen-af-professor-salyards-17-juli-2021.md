@@ -1,7 +1,7 @@
 ---
 title: "Gottes Geschenk ist es, diese Tür für euch zu öffnen"
 menu_title: ""
-description: "Gottes Geschenk ist es, diese Tür für euch zu öffnen"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich spüre, dass euer Schwung ein wenig nachlässt, aber in der Tat, wie alles in eurem irdischen Leben …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

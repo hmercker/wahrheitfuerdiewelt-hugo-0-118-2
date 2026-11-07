@@ -1,7 +1,7 @@
 ---
 title: "Sensibilität hat einen hohen Preis"
 menu_title: ""
-description: "Sensibilität hat einen hohen Preis"
+description: "Barbara Davies, empfangen durch Al Fike: „Sensibilität hat einen hohen Preis. Viele von euch wünschen sich, auf euren Wegen und Reisen auf der Erde …“"
 date: 2025-01-22 06:00:00+00:10
 draft: False
 hidden: True

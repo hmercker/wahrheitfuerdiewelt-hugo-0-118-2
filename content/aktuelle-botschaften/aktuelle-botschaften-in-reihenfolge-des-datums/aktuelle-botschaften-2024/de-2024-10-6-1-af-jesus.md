@@ -1,7 +1,7 @@
 ---
 title: "Euer Licht kann Gott helfen, Generationen von Dunkelheit in der Welt aufzulösen"
 menu_title: ""
-description: "Euer Licht kann Gott helfen, Generationen von Dunkelheit in der Welt aufzulösen"
+description: "Jesus, empfangen durch Al Fike: „Danke, mein Bruder, für dein Gebet. Jeder von euch ist bestrebt, die Fesseln des Irrtums zu sprengen und sich von dem …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

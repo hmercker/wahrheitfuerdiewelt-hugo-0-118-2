@@ -1,7 +1,7 @@
 ---
 title: "Die Zusammenarbeit in einer Gruppe hat viele Vorteile für die Welt"
 menu_title: ""
-description: "Die Zusammenarbeit in einer Gruppe hat viele Vorteile für die Welt"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gibt viel, was wir mit dieser Gruppe erreichen können, wenn ihr euch dazu verpflichten wollt, im Kreis im Gebet …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

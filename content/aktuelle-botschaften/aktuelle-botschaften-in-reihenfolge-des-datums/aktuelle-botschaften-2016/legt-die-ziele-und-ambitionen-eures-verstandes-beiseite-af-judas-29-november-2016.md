@@ -1,7 +1,7 @@
 ---
 title: "Legt die Ziele und Ambitionen eures Verstandes beiseite"
 menu_title: ""
-description: "Legt die Ziele und Ambitionen eures Verstandes beiseite"
+description: "Judas, empfangen durch Al Fike: „Ich war mit euch auf eurem Ausflug zum felsigen Aussichtspunkt und ich habe euren Gesprächen zugehört.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

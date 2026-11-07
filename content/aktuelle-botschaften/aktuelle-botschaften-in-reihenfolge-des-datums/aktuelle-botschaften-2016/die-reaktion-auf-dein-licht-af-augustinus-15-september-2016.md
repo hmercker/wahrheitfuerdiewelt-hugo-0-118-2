@@ -1,7 +1,7 @@
 ---
 title: "Die Reaktion auf dein Licht"
 menu_title: ""
-description: "Die Reaktion auf dein Licht"
+description: "Augustinus, empfangen durch Al Fike: „Von einigen kommt ein wunderschönes Sehnen und eine Annäherung an euch, eine Antwort der Liebe, eine Anerkennung von …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

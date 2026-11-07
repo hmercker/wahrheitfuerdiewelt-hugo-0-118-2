@@ -1,7 +1,7 @@
 ---
 title: "Gott braucht diejenigen, die im Licht stehen, um der Menschheit durch die kommenden Veränderungen zu helfen"
 menu_title: ""
-description: "Gott braucht diejenigen, die im Licht stehen, um der Menschheit durch die kommenden Veränderungen zu helfen"
+description: "Augustinus, empfangen durch Al Fike: „Es ist unausweichlich, dass sich das Klima eurer Welt verändern wird. Was kommt, kann nicht aufgehalten werden, weil …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

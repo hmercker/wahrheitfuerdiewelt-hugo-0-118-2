@@ -1,7 +1,7 @@
 ---
 title: "Alle Geschenke kommen durch die Liebe Gottes"
 menu_title: ""
-description: "Alle Geschenke kommen durch die Liebe Gottes"
+description: "Seretta Kem, empfangen durch Al Fike: „Mögen eure Seelen weiterhin das große Einströmen der Liebe des Vaters empfangen, damit ihr in dieser Liebe …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

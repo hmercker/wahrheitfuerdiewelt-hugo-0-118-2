@@ -1,7 +1,7 @@
 ---
 title: "Elias kommentiert das mangelnde Wissen des Predigers über die Wahrheiten des Spiritualismus"
 menu_title: ""
-description: "Elias kommentiert das mangelnde Wissen des Predigers über die Wahrheiten des Spiritualismus"
+description: "Elias, empfangen durch James Padgett: „Ich schreibe ein paar Worte in Bezug auf die Predigt, die du dir heute Abend zu dieser Frage angehört hast …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

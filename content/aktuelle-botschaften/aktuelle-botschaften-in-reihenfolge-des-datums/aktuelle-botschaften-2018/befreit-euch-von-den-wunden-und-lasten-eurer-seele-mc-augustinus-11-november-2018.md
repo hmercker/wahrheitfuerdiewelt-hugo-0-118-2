@@ -1,7 +1,7 @@
 ---
 title: "Befreit euch von den Wunden und Lasten eurer Seele"
 menu_title: ""
-description: "Befreit euch von den Wunden und Lasten eurer Seele"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Und ich möchte euch heute ermutigen, zu erkennen, dass dies Gelegenheiten für euch sind, vor euren geliebten …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

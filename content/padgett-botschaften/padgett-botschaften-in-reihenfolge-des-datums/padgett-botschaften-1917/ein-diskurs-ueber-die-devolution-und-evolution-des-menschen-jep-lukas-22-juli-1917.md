@@ -1,7 +1,7 @@
 ---
 title: "Ein Diskurs über die Devolution und Evolution des Menschen"
 menu_title: ""
-description: "Ein Diskurs über die Devolution und Evolution des Menschen"
+description: "Lukas, empfangen durch James Padgett: „Nun, Ich möchte einige Zeilen über das Thema schreiben, das in dem Buch behandelt wurde, das du heute Nacht gelesen …“"
 date: 2020-08-01 06:25:48+00:219
 draft: False
 hidden: True

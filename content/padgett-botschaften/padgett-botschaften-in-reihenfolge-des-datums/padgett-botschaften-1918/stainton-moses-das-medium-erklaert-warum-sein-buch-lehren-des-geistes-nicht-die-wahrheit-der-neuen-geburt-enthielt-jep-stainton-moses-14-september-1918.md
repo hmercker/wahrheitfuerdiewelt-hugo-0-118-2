@@ -1,7 +1,7 @@
 ---
 title: "Stainton Moses, das Medium, erklärt warum sein Buch 'Lehren des Geistes' nicht die Wahrheit der Neuen Geburt enthielt"
 menu_title: ""
-description: "Stainton Moses, das Medium, erklärt warum sein Buch 'Lehren des Geistes' nicht die Wahrheit der Neuen Geburt enthielt"
+description: "Stainton Moses, empfangen durch James Padgett: „Erlaube mir, ein Wort zu sagen. Ich war anwesend, als du das Buch mit dem Titel \"Geistige Lehren\" gelesen …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

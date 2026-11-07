@@ -1,7 +1,7 @@
 ---
 title: "Wenn ihr einen Glauben hättet, der euch trägt"
 menu_title: ""
-description: "Wenn ihr einen Glauben hättet, der euch trägt"
+description: "Thomas Merton 1, empfangen durch Jimbeau Walsh: „Stellt euch vor, wenn die Religionen der Welt genauso hartnäckig an der Liebe Gottes und der Bruder- und …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

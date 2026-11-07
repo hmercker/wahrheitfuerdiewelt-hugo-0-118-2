@@ -1,7 +1,7 @@
 ---
 title: "Wo is die spirituelle Welt?"
 menu_title: ""
-description: "Wo is die spirituelle Welt?"
+description: "Maria, empfangen durch Amada Reza: „Nun zu der Frage nach der Natur der spirituellen Welt - ich müsste mich mit dieser Frage von dem Punkt aus befassen …“"
 date: 2020-08-01 06:25:48+00:291
 draft: False
 hidden: True

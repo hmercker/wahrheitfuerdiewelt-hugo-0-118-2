@@ -1,7 +1,7 @@
 ---
 title: "Die Welt braucht eure Gebete"
 menu_title: ""
-description: "Die Welt braucht eure Gebete"
+description: "White Cloud, empfangen durch Al Fike: „Ich habe eure Gebete für meine Brüder und Schwestern gehört, die mächtig in dieser Welt gekämpft haben, und für …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

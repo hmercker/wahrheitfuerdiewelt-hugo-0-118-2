@@ -1,7 +1,7 @@
 ---
 title: "Wir stricken euch zusammen, Seele zu Seele"
 menu_title: ""
-description: "Wir stricken euch zusammen, Seele zu Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Wir fahren fort, euch von Seele zu Seele zusammen zu stricken. So könnt ihr die Wahrheit von Gottes Schöpfung …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

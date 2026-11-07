@@ -1,7 +1,7 @@
 ---
 title: "Auch für Soul Links engagiert"
 menu_title: ""
-description: "Auch für Soul Links engagiert"
+description: "Michael Collier, empfangen durch Al Fike: „Ich freue mich so sehr, dass meine Landsleute den Wahrheiten der Liebe Gottes folgen, um gemeinsam und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

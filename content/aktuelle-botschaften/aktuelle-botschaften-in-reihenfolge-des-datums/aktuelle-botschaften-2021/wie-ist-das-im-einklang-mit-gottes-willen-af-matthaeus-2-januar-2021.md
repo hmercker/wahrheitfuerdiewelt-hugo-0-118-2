@@ -1,7 +1,7 @@
 ---
 title: "Wie ist das im Einklang mit Gottes Willen?"
 menu_title: ""
-description: "Wie ist das im Einklang mit Gottes Willen?"
+description: "Matthäus, empfangen durch Al Fike: „Während ihr in diesen Unternehmungen voranschreitet, ist es wichtig, dass ihr euch diese Fragen stellt: Wie ist dies im …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

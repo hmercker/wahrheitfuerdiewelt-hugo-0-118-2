@@ -1,7 +1,7 @@
 ---
 title: "Wir brauchen keine großen Konstruktionen, um Gottes Werk zu tun"
 menu_title: ""
-description: "Wir brauchen keine großen Konstruktionen, um Gottes Werk zu tun"
+description: "Shandor: „Ich fühle einen großen Frieden und eine große Liebe hier heute Abend und ich möchte all jenen, die sich mit uns versammeln, sagen, wie glücklich …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

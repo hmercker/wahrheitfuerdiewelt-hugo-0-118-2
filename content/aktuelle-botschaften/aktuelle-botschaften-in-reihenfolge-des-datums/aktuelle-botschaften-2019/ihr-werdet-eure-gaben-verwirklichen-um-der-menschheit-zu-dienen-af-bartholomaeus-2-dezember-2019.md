@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet eure Gaben verwirklichen, um der Menschheit zu dienen"
 menu_title: ""
-description: "Ihr werdet eure Gaben verwirklichen, um der Menschheit zu dienen"
+description: "Bartholomäus, empfangen durch Al Fike: „Ich arbeite weiterhin mit Meister Jesus und allen Jüngern und allen Engeln des Himmels, um die Wahrheit und die …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

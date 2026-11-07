@@ -1,7 +1,7 @@
 ---
 title: "Eure Sehnsucht nach Wahrheit"
 menu_title: ""
-description: "Eure Sehnsucht nach Wahrheit"
+description: "Jesus, empfangen durch Al Fike: „Betet um das große Geschenk des Lebens für eure Seele, meine Lieben. Denn wie viele haben Sehnsucht und wissen nicht, wie …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

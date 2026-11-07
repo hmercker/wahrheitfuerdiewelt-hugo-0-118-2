@@ -1,7 +1,7 @@
 ---
 title: "Glücklich, wieder mit dem Kreis der 7 zusammen zu sein"
 menu_title: ""
-description: "Glücklich, wieder mit dem Kreis der 7 zusammen zu sein"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Diese Entwicklung wird auf eurer weiteren Reise auf dieser Erdebene nicht aufhören und auch nicht ganz …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

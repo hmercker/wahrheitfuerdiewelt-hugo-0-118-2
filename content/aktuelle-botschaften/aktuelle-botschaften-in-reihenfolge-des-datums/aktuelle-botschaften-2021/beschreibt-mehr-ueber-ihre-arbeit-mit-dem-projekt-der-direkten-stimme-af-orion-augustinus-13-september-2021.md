@@ -1,7 +1,7 @@
 ---
 title: "Beschreibt mehr über ihre Arbeit mit dem Projekt der Direkten Stimme"
 menu_title: ""
-description: "Beschreibt mehr über ihre Arbeit mit dem Projekt der Direkten Stimme"
+description: "Orion & Augustinus, empfangen durch Al Fike: „Ich möchte euch zu euren bisherigen Bemühungen gratulieren. Ihr habt in der Tat die große Leiter in einen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein Pastor möchte seiner Gemeinde sagen, was er gelernt hat über die Wahrheit der Seele"
 menu_title: ""
-description: "Ein Pastor möchte seiner Gemeinde sagen, was er gelernt hat über die Wahrheit der Seele"
+description: "John Newman 1, empfangen durch James Padgett: „Ich wünschte, du würdest mich heute Abend ein paar Zeilen schreiben lassen. Ich war, als ich auf Erden war …“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

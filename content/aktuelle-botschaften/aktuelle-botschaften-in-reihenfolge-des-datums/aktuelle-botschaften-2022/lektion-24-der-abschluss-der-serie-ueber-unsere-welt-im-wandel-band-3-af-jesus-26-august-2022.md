@@ -1,7 +1,7 @@
 ---
 title: "Lektion 24 - Der Abschluss der Serie über unsere Welt im Wandel - Band 3"
 menu_title: ""
-description: "Lektion 24 - Der Abschluss der Serie über unsere Welt im Wandel - Band 3"
+description: "Jesus, empfangen durch Al Fike: „In der Tat kommen Veränderungen in euer Leben, während ihr euch anpasst und auf die Veränderungen vorbereitet, die auf die …“"
 date: 2022-08-26 06:00:00+00:10
 draft: False
 hidden: True

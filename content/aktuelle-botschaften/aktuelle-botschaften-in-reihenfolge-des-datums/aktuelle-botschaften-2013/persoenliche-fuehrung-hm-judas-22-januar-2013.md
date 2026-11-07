@@ -1,7 +1,7 @@
 ---
 title: "Persönliche Führung"
 menu_title: ""
-description: "Persönliche Führung"
+description: "Judas, empfangen durch Helge Mercker: „Was die richtige Schreibpraxis betrifft, so ist es nur, sich hinzusetzen, wann immer du dich am wohlsten fühlst und …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

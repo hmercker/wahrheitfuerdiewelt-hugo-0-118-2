@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir liebevoll zu denen sein, die uns beleidigen, uns ablehnen, mit uns nicht einverstanden sind?"
 menu_title: ""
-description: "Wie können wir liebevoll zu denen sein, die uns beleidigen, uns ablehnen, mit uns nicht einverstanden sind?"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wie können wir diejenigen lieben, die uns beleidigen, die uns ablehnen, die mit uns im Streit liegen, die uns …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

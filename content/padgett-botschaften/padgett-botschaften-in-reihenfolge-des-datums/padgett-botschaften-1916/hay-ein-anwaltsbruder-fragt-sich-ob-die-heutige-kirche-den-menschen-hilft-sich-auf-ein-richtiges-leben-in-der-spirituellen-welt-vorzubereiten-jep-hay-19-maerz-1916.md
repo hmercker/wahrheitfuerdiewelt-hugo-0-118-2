@@ -1,7 +1,7 @@
 ---
 title: "Hay, ein Anwaltsbruder fragt sich, ob die heutige Kirche den Menschen hilft, sich auf ein richtiges Leben in der spirituellen Welt vorzubereiten"
 menu_title: ""
-description: "Hay, ein Anwaltsbruder fragt sich, ob die heutige Kirche den Menschen hilft, sich auf ein richtiges Leben in der spirituellen Welt vorzubereiten"
+description: "E. R. Hay, empfangen durch James Padgett: „Ich habe erst kürzlich erfahren, dass spirituelle Wesen durch Sterbliche schreiben können, als ich mich …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

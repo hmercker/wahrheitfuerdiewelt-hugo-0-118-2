@@ -1,7 +1,7 @@
 ---
 title: "Loyola ist eine Anhänger des Meisters und eine Bewohner des Vater's Königreichs"
 menu_title: ""
-description: "Loyola ist eine Anhänger des Meisters und eine Bewohner des Vater's Königreichs"
+description: "Loyola, empfangen durch James Padgett: „Ich war ein Verfolger derer, die sich in meinen Ansichten über religiöse Dinge und Pflichten von mir unterschieden …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

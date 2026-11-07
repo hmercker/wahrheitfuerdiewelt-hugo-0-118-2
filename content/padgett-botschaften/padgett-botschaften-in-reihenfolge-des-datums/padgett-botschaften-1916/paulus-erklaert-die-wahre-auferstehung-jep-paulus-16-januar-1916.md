@@ -1,7 +1,7 @@
 ---
 title: "Paulus erklärt die wahre Auferstehung"
 menu_title: ""
-description: "Paulus erklärt die wahre Auferstehung"
+description: "Paulus, empfangen durch James Padgett: „Ich habe dir schon zuvor über meine angeblichen Schriften berichtet, wie sie in der Bibel enthalten sind, und die …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

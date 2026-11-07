@@ -1,7 +1,7 @@
 ---
 title: "Die Macht der Liebe, die Schönheit der Liebe, die Gnade der Liebe"
 menu_title: ""
-description: "Die Macht der Liebe, die Schönheit der Liebe, die Gnade der Liebe"
+description: "Andreas, empfangen durch Al Fike: „Es ist schwierig für uns, heute eine Verbindung mit diesem Instrument herzustellen, wegen der Bedingungen und Energien …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

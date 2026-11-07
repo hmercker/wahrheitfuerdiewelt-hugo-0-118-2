@@ -1,7 +1,7 @@
 ---
 title: "Die einfache Reise erwartet euch"
 menu_title: ""
-description: "Die einfache Reise erwartet euch"
+description: "Faith, empfangen durch Al Fike: „Danke für die Wertschätzung meines Bildes. Ich muss sagen, dass ich jetzt in der spirituellen Welt ein wenig anders aussehe.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

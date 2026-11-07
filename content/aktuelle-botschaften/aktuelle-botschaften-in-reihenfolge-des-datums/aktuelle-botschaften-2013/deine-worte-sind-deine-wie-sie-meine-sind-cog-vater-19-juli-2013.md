@@ -1,7 +1,7 @@
 ---
 title: "Deine Worte sind deine, wie sie meine sind"
 menu_title: ""
-description: "Deine Worte sind deine, wie sie meine sind"
+description: "Vater, empfangen durch Child of God: „Deine Worte sind deine Worte, so wie sie meine sind. Sie gehen aus dem Ort hervor, wo wir Eins sind.“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

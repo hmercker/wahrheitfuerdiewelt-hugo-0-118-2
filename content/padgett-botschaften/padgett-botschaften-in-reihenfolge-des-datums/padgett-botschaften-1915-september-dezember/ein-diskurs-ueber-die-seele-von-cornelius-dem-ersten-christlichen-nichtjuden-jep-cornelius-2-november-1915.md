@@ -1,7 +1,7 @@
 ---
 title: "Ein Diskurs über die Seele von Cornelius, dem ersten christlichen Nichtjuden"
 menu_title: ""
-description: "Ein Diskurs über die Seele von Cornelius, dem ersten christlichen Nichtjuden"
+description: "Cornelius, empfangen durch James Padgett: „Cornelius, der erste christliche Nichtjude. Gestatte mir nur ein Wort über die Seele zu sagen.“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

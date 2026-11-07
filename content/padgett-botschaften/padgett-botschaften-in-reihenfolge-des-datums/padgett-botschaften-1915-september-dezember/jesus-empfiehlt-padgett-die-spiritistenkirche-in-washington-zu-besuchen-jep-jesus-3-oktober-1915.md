@@ -1,7 +1,7 @@
 ---
 title: "Jesus empfiehlt Padgett weiterhin die Spiritistenkirche in Washington zu besuchen"
 menu_title: ""
-description: "Jesus empfiehlt Padgett weiterhin die Spiritistenkirche in Washington zu besuchen"
+description: "Jesus, empfangen von James Padgett: „Ich war heute Abend bei dir und du warst nicht sehr beeindruckt von den Gedanken, die der Redner geäußert hat, weil er …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

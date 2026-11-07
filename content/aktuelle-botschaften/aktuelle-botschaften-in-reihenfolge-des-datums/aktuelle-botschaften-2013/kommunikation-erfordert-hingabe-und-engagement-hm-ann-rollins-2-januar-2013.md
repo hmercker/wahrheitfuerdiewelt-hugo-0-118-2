@@ -1,7 +1,7 @@
 ---
 title: "Kommunikation erfordert Hingabe und Engagement"
 menu_title: ""
-description: "Kommunikation erfordert Hingabe und Engagement"
+description: "Ann Rollins, empfangen durch Helge Mercker: „Es erfordert Hingabe und Engagement, um die Aufgabe der Kommunikation zu erfüllen. Wir werden dir helfen und …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

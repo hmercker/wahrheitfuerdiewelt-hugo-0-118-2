@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt Gott, Seine Magie durch euch zu bewirken"
 menu_title: ""
-description: "Erlaubt Gott, Seine Magie durch euch zu bewirken"
+description: "Michael Collier, empfangen durch Al Fike: „Ich fahre fort, mit meiner geliebten Schwester und meinem Bruder in ihren Bemühungen zu arbeiten.“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

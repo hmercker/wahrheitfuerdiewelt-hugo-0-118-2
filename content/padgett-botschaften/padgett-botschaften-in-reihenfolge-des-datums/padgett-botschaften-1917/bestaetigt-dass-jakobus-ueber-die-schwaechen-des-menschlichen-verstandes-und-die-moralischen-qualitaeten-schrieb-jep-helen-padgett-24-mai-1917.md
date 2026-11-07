@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt, dass Jakobus über die Schwächen des menschlichen Verstandes und die moralischen Qualitäten schrieb"
 menu_title: ""
-description: "Bestätigt, dass Jakobus über die Schwächen des menschlichen Verstandes und die moralischen Qualitäten schrieb"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du hattest einen sehr angenehmen Abend, genau wie wir, die wir bei dir waren und deinem Gespräch …“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Größeres Leben für die Menschheit"
 menu_title: ""
-description: "Größeres Leben für die Menschheit"
+description: "Michael Collier, empfangen durch Al Fike: „Ich wohnte in den 1800er Jahren in England und starb in den frühen 1900er Jahren. Ich war ein einfacher …“"
 date: 2020-08-01 06:25:48+00:236
 draft: False
 hidden: True

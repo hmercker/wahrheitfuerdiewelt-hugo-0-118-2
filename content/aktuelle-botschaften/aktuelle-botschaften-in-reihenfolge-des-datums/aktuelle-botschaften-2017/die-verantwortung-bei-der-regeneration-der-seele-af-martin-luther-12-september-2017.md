@@ -1,7 +1,7 @@
 ---
 title: "Die Verantwortung bei der Regeneration der Seele"
 menu_title: ""
-description: "Die Verantwortung bei der Regeneration der Seele"
+description: "Martin Luther, empfangen durch Al Fike: „Ich habe eurem Gespräch heute Abend zugehört. Ich sehe, dass ihr an einen Ort gelangt seid, an dem ihr seht, dass …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

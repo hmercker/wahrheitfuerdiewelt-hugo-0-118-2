@@ -1,7 +1,7 @@
 ---
 title: "Engel werden während der Erdveränderungen mit uns sein"
 menu_title: ""
-description: "Engel werden während der Erdveränderungen mit uns sein"
+description: "Augustinus, empfangen durch Al Fike: „Möge die Liebe Gottes in eure Seelen eindringen, damit ihr dieses Geschenk in großer Fülle empfangt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

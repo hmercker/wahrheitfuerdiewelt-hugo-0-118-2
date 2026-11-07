@@ -1,7 +1,7 @@
 ---
 title: "Ingersoll ist der Großmutter von Padgett dankbar für die Hilfe, die sie ihm erwiesen hat, damit er in höhere Sphären vordringen kann"
 menu_title: ""
-description: "Ingersoll ist der Großmutter von Padgett dankbar für die Hilfe, die sie ihm erwiesen hat, damit er in höhere Sphären vordringen kann"
+description: "Robert G. Ingersoll, empfangen durch James Padgett: „Ich möchte meine Botschaft heute Abend beenden, wenn du damit einverstanden bist. Nun, unter den …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

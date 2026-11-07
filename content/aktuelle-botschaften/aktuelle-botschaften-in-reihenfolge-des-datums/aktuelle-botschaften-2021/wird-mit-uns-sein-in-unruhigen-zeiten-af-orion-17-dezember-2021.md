@@ -1,7 +1,7 @@
 ---
 title: "Wird mit uns sein in unruhigen Zeiten"
 menu_title: ""
-description: "Wird mit uns sein in unruhigen Zeiten"
+description: "Orion, empfangen durch Al Fike: „Ich möchte euch versichern, dass auch wir in den kommenden Zeiten für euch da sein werden, um euch zu helfen, euch zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

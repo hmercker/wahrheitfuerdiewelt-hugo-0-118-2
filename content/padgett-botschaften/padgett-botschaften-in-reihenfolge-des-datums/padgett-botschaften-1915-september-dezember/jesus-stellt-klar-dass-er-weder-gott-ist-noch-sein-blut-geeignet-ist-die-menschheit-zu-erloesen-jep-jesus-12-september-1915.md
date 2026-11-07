@@ -1,7 +1,7 @@
 ---
 title: "Jesus stellt klar, dass er weder Gott ist noch sein Blut geeignet ist, die Menschheit zu erlösen"
 menu_title: ""
-description: "Jesus stellt klar, dass er weder Gott ist noch sein Blut geeignet ist, die Menschheit zu erlösen"
+description: "Jesus, empfangen von James Padgett: „Ich war heute Abend bei dir und habe gesehen, dass der Geist dein Herz mit der göttlichen Liebe des Vaters erfüllt hat …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

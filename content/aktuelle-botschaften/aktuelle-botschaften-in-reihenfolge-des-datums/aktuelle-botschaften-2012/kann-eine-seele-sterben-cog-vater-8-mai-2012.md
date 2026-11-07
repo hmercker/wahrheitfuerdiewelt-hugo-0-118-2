@@ -1,7 +1,7 @@
 ---
 title: "Kann eine Seele sterben?"
 menu_title: ""
-description: "Kann eine Seele sterben?"
+description: "Vater, empfangen durch Child of God: „Heute Morgen ging es in deinen Gedanken darum, ob eine Seele sterben kann? Die Antwort auf diese Frage ist ja und nein.“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

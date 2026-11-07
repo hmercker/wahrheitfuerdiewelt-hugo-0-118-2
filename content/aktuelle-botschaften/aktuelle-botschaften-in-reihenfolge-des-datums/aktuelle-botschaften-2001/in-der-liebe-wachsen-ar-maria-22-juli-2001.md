@@ -1,7 +1,7 @@
 ---
 title: "In der Liebe wachsen"
 menu_title: ""
-description: "In der Liebe wachsen"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte mit dir über den Dienst an den anderen in Liebe sprechen, und was das bedeutet, wenn du in deinem …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

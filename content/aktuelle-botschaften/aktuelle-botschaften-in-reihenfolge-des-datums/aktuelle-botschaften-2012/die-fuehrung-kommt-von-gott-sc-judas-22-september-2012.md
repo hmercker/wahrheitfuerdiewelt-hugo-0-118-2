@@ -1,7 +1,7 @@
 ---
 title: "Die Führung kommt von Gott"
 menu_title: ""
-description: "Die Führung kommt von Gott"
+description: "Judas, empfangen durch Soulchild: „Wir helfen dir, der Führung zu folgen, die du von Vater erhältst. Der Wunsch und die Entwicklung deiner Seele werden …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

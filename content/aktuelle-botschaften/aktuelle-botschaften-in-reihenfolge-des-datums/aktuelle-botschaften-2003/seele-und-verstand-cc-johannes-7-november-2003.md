@@ -1,7 +1,7 @@
 ---
 title: "Seele und Verstand"
 menu_title: ""
-description: "Seele und Verstand"
+description: "Johannes, empfangen durch C C: „Ich möchte über den Verstand und seine Beziehung zur Seele sprechen. Dies wird keine umfassende und vollständige …“"
 date: 2020-08-01 06:25:48+00:262
 draft: False
 hidden: True

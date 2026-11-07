@@ -1,7 +1,7 @@
 ---
 title: "Den Schleier zwischen unseren beiden Welten lüften"
 menu_title: ""
-description: "Den Schleier zwischen unseren beiden Welten lüften"
+description: "Yogananda, empfangen durch Al Fike: „Wenn ihr so betet, lüftet ihr oft den Schleier zwischen unserer Welt und eurer und schafft so eine Verbindung zwischen …“"
 date: 2025-11-20 06:00:00+00:00
 draft: False
 hidden: True

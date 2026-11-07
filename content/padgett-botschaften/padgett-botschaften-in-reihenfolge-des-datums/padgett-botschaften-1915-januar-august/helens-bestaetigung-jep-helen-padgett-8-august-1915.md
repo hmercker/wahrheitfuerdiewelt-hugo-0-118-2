@@ -1,7 +1,7 @@
 ---
 title: "Helen's Bestätigung"
 menu_title: ""
-description: "Helen's Bestätigung"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hattest heute Abend sehr viele Beiträge und du musst müde sein, und ich werde dich nicht …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

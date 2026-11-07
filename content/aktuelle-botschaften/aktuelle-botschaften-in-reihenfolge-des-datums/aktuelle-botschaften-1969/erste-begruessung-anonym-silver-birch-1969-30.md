@@ -1,7 +1,7 @@
 ---
 title: "Erste Begrüßung"
 menu_title: ""
-description: "Erste Begrüßung"
+description: "Silver Birch: „Ich war viele, viele Monde bei euch und habe die wunderbaren Bedingungen genossen, die ich um euch herum aufgebaut habe, meine Freunde.“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

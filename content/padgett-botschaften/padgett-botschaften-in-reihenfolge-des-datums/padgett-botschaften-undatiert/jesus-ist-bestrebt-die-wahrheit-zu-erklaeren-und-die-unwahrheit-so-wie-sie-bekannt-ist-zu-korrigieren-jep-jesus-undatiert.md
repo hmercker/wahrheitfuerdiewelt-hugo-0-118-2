@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist bestrebt, die Wahrheit zu erklären und die Unwahrheit, so wie sie bekannt ist, zu korrigieren"
 menu_title: ""
-description: "Jesus ist bestrebt, die Wahrheit zu erklären und die Unwahrheit, so wie sie bekannt ist, zu korrigieren"
+description: "Jesus, empfangen durch James Padgett: „Lass mich nur eine Zeile schreiben, denn ich war bei dir, als du gelesen hast und sah, dass du dachtest, dass viele …“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

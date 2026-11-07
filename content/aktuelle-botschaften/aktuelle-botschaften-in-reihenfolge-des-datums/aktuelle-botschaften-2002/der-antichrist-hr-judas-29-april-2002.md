@@ -1,7 +1,7 @@
 ---
 title: "Der Antichrist"
 menu_title: ""
-description: "Der Antichrist"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, am Anfang dieser Botschaft ist es notwendig, eine Definition festzulegen, das heißt: Was bedeutet das Wort …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

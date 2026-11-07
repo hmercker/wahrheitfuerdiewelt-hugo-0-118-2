@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung durch Ann Rollins"
 menu_title: ""
-description: "Eine Bestätigung durch Ann Rollins"
+description: "Ann Rollins, empfangen durch James Padgett: „Du hast mit Jesus geredet. Ich weiß es, da ich hier war und mit ihm viele Male geredet habe.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mutter von Pfarrer Mitchell ist sehr glücklich, dass ihr Sohn die Wahrheit Gottes predigt"
 menu_title: ""
-description: "Mutter von Pfarrer Mitchell ist sehr glücklich, dass ihr Sohn die Wahrheit Gottes predigt"
+description: "Frau Mitchell, empfangen durch James Padgett: „Laß mich nur ein Wort sagen. Ich war heute Morgen in der Kirche anwesend und hörte die Predigt meines Sohnes …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

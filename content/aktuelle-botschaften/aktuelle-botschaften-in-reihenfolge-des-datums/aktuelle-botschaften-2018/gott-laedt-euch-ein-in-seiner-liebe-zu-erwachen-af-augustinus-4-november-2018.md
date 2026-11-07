@@ -1,7 +1,7 @@
 ---
 title: "Gott lädt euch ein, in seiner Liebe zu erwachen"
 menu_title: ""
-description: "Gott lädt euch ein, in seiner Liebe zu erwachen"
+description: "Augustinus, empfangen durch Al Fike: „Dies wird sich nur ausweiten, wenn ihr diese Bemühungen fortsetzt, wenn ihr weiterhin eure Seelen für dieses große …“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

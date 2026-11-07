@@ -1,7 +1,7 @@
 ---
 title: "Wie der Verstand Ereignisse interpretiert im Vergleich zur Seele"
 menu_title: ""
-description: "Wie der Verstand Ereignisse interpretiert im Vergleich zur Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „In eurer materiellen Welt hängt vieles, was in eurem Leben erlebt, seziert, verstanden, analysiert und beobachtet …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

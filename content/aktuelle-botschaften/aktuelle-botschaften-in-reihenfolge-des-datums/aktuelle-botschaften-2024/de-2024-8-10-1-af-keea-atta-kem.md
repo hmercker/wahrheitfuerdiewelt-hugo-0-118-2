@@ -1,7 +1,7 @@
 ---
 title: "Ihr schlaft nicht! Die Seelen erwachen!"
 menu_title: ""
-description: "Ihr schlaft nicht! Die Seelen erwachen!"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ihr alle sucht nach euren Seelen. Ihr alle wollt im Einklang mit euren Seelen sein, auf eure Seelen eingestimmt …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

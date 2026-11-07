@@ -1,7 +1,7 @@
 ---
 title: "Lektion 7 - Die Medialität in der Göttlichen Liebe"
 menu_title: ""
-description: "Lektion 7 - Die Medialität in der Göttlichen Liebe"
+description: "Jesus, empfangen durch Al Fike: „Denn die Seele schläft weiterhin in vielem, während der Verstand aktiv und in der materiellen Welt engagiert ist.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

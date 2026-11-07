@@ -1,7 +1,7 @@
 ---
 title: "Verweigert euch nicht denen, die nach Wahrheit streben"
 menu_title: ""
-description: "Verweigert euch nicht denen, die nach Wahrheit streben"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Mein lieber Bruder, meine liebe Schwester. Wenn es euch dienlich ist, euch von der Welt zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

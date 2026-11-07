@@ -1,7 +1,7 @@
 ---
 title: "Die Himmelfahrt Jesu und Daniels Prophezeiungen"
 menu_title: ""
-description: "Die Himmelfahrt Jesu und Daniels Prophezeiungen"
+description: "Maria, empfangen durch Amada Reza: „[Lieber himmlischer Vater, ich bete, dass Deine Liebe meine Seele, meinen Verstand und meinen Körper erfüllt, damit ich …“"
 date: 2020-08-01 06:25:48+00:126
 draft: False
 hidden: True

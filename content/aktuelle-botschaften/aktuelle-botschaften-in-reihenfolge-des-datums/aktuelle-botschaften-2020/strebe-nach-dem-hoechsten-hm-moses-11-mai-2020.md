@@ -1,7 +1,7 @@
 ---
 title: "Strebe nach dem Höchsten"
 menu_title: ""
-description: "Strebe nach dem Höchsten"
+description: "Moses, empfangen durch Helge Mercker: „Ich spreche und bringe dir meine Liebe. Wir bringen unsere Liebe und unseren Gruß im Gebet.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

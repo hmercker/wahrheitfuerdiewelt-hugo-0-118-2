@@ -1,7 +1,7 @@
 ---
 title: "Wunder und Gedanken"
 menu_title: ""
-description: "Wunder und Gedanken"
+description: "Judas, empfangen durch H.: „Fandest du meine letzte Botschaft wirklich so schockierend? [H.: Nicht schockierend, aber seltsam.“"
 date: 2020-08-01 06:25:48+00:240
 draft: False
 hidden: True

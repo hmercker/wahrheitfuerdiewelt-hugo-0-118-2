@@ -1,7 +1,7 @@
 ---
 title: "Betet zu Gott mit der Absicht, Seine Heilige Essenz zu empfangen"
 menu_title: ""
-description: "Betet zu Gott mit der Absicht, Seine Heilige Essenz zu empfangen"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr wollt wissen, wie die Engel des Himmels beten? Ihr könnt unmöglich verstehen, was unsere Erfahrung des Gebets zu …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

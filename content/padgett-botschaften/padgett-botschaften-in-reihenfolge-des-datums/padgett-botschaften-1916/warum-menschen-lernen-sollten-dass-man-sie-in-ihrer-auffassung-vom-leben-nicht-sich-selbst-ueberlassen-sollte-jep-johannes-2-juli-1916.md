@@ -1,7 +1,7 @@
 ---
 title: "Warum Menschen lernen sollten, dass man sie in ihrer Auffassung vom Leben nicht sich selbst überlassen sollte"
 menu_title: ""
-description: "Warum Menschen lernen sollten, dass man sie in ihrer Auffassung vom Leben nicht sich selbst überlassen sollte"
+description: "Johannes, empfangen durch James Padgett: „Ich werde keine sehr lange Botschaft schreiben, aber was ich sagen darf, wird die Wahrheit sein, und jeder Mensch …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

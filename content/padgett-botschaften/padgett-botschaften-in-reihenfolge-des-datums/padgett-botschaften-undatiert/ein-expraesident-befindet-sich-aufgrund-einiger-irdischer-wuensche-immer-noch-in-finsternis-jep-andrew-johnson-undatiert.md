@@ -1,7 +1,7 @@
 ---
 title: "Ein Ex-Präsident befindet sich aufgrund einiger irdischer Wünsche immer noch in Finsternis"
 menu_title: ""
-description: "Ein Ex-Präsident befindet sich aufgrund einiger irdischer Wünsche immer noch in Finsternis"
+description: "Andrew Johnson, empfangen durch James Padgett: „Ich möchte schreiben, weil ich in der Dunkelheit bin und unter den Erinnerungen an mein böses Leben leide …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

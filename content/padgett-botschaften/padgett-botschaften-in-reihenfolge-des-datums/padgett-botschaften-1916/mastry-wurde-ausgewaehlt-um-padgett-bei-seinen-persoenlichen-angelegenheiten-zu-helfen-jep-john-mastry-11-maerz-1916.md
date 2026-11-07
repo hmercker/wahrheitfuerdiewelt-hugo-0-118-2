@@ -1,7 +1,7 @@
 ---
 title: "Mastry wurde ausgewählt, um Padgett bei seinen persönlichen Angelegenheiten zu helfen"
 menu_title: ""
-description: "Mastry wurde ausgewählt, um Padgett bei seinen persönlichen Angelegenheiten zu helfen"
+description: "John D. Mastry, empfangen durch James Padgett: „Ich interessiere mich für das, was Johannes dir geschrieben hat, und möchte nur sagen, dass ich ausgewählt …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

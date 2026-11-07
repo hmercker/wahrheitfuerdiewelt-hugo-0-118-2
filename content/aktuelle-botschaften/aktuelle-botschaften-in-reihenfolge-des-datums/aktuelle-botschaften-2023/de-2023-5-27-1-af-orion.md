@@ -1,7 +1,7 @@
 ---
 title: "Das Zusammenführen der Seelichen und Materiellen Bewusstseinsebenen"
 menu_title: ""
-description: "Das Zusammenführen der Seelichen und Materiellen Bewusstseinsebenen"
+description: "Orion, empfangen durch Al Fike: „Der Schlüssel zu allen Türen, die euch verschlossen bleiben, die Wahrnehmungen, die mit der durch den großen Segen der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

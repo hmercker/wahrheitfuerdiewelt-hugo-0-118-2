@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 50 : Die Worte, die Jesus am Kreuz gesagt haben soll"
 menu_title: ""
-description: "Offenbarung 50 : Die Worte, die Jesus am Kreuz gesagt haben soll"
+description: "Jesus, empfangen durch Dr Samuels: „Da die Berichte der Evangelien aber gerade in dieser Hinsicht viele Irrtümer und Fehler enthalten, bin ich gerne …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

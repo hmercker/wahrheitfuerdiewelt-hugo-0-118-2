@@ -1,7 +1,7 @@
 ---
 title: "Versionen der Wahrheit"
 menu_title: ""
-description: "Versionen der Wahrheit"
+description: "Augustinus, empfangen durch Al Fike: „Möge die Liebe des Vaters weiterhin in eure Seelen fließen, ihr Lieben, meine schönen und wertvollen Schüler der …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

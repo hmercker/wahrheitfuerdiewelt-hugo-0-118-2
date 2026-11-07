@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt die Trennungen der Seelenpartner im Fall, dass nicht beide die Göttliche Liebe erlangen"
 menu_title: ""
-description: "Johannes erklärt die Trennungen der Seelenpartner im Fall, dass nicht beide die Göttliche Liebe erlangen"
+description: "Johannes, empfangen durch James Padgett: „Ich möchte über eine Angelegenheit schreiben, die dich interessieren wird, da ich gehört habe, wie du deine …“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

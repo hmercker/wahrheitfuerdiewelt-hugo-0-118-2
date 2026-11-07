@@ -1,7 +1,7 @@
 ---
 title: "Die eigentliche Wahrheit des Lebens auf Erden und was es für die Sterblichen bedeute"
 menu_title: ""
-description: "Die eigentliche Wahrheit des Lebens auf Erden und was es für die Sterblichen bedeute"
+description: "Jesus, empfangen durch James Padgett: „Dir geht es heute Abend in Bezug auf deine geistige Verfassung besser und ich werde dir eine offizielle Mitteilung …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

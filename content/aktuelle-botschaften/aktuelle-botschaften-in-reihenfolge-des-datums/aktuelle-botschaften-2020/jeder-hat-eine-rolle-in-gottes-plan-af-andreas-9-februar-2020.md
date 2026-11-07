@@ -1,7 +1,7 @@
 ---
 title: "Jeder hat eine Rolle in Gottes Plan"
 menu_title: ""
-description: "Jeder hat eine Rolle in Gottes Plan"
+description: "Andreas, empfangen durch Al Fike: „Ich freue mich, euch alle auf diese Weise zusammen zu sehen, im Gebet, um das Geschenk des Himmlischen Vaters der …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

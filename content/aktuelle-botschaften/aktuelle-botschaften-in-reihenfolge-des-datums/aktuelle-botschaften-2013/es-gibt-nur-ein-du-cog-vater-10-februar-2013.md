@@ -1,7 +1,7 @@
 ---
 title: "Es gibt nur ein du"
 menu_title: ""
-description: "Es gibt nur ein du"
+description: "Vater, empfangen durch Child of God: „Es hat nie einen anderen wie dich gegeben und es wird nie einen anderen wie dich geben. Du bist mein Tempel, so wie …“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

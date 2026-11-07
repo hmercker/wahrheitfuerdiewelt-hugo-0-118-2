@@ -1,7 +1,7 @@
 ---
 title: "Ein Bewohner der Siebten Sphäre möchte Padgett versichern, dass die Schreiber wahrhaftig die sind, für die sie sich ausgeben"
 menu_title: ""
-description: "Ein Bewohner der Siebten Sphäre möchte Padgett versichern, dass die Schreiber wahrhaftig die sind, für die sie sich ausgeben"
+description: "John D. Parker, empfangen durch James Padgett: „Lass mich ein Wort sagen, denn ich interessiere mich in hohem Maße für dich und deine Arbeit.“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

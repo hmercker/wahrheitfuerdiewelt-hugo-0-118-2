@@ -1,7 +1,7 @@
 ---
 title: "Lasst die Intoleranz los"
 menu_title: ""
-description: "Lasst die Intoleranz los"
+description: "Seretta Kem, empfangen durch Al Fike: „Geliebte Seelen, dies ist Seretta Kem. Aah, ihr seid alle so unterschiedlich, so einzigartige Persönlichkeiten, so …“"
 date: 2020-08-01 06:25:48+00:231
 draft: False
 hidden: True

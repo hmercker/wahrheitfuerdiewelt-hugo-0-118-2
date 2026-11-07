@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele"
 menu_title: ""
-description: "Das Erwachen der Seele"
+description: "Augustinus, empfangen durch Al Fike: „Die Menschheit befindet sich in einem tiefen Schlummer, meine Kinder. Jede Seele ist unter Schichten des menschlichen …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

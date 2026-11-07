@@ -1,7 +1,7 @@
 ---
 title: "Engel kommen auf die Erde, um die Wahrheiten der Liebe Gottes zu lehren"
 menu_title: ""
-description: "Engel kommen auf die Erde, um die Wahrheiten der Liebe Gottes zu lehren"
+description: "Andreas, empfangen durch Al Fike: „Wir sind viele, viele Male auf die Erde gekommen, seit der geliebte Meister kam, um die frohe Botschaft von Gottes Liebe …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sensible Seelen sind die Retter dieser Welt"
 menu_title: ""
-description: "Sensible Seelen sind die Retter dieser Welt"
+description: "Augustinus, empfangen durch Al Fike: „Ja, euer lieber Bruder (V.S.) hat große Fortschritte in der Welt des Geistes gemacht, und das ist oft so für diese …“"
 date: 2020-08-01 06:25:48+00:55
 draft: False
 hidden: True

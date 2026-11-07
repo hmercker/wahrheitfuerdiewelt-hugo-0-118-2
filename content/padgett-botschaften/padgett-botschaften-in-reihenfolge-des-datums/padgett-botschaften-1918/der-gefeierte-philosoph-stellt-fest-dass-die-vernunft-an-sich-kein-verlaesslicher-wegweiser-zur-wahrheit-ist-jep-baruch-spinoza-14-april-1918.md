@@ -1,7 +1,7 @@
 ---
 title: "Der gefeierte Philosoph stellt fest, dass die Vernunft an sich kein verlässlicher Wegweiser zur Wahrheit ist"
 menu_title: ""
-description: "Der gefeierte Philosoph stellt fest, dass die Vernunft an sich kein verlässlicher Wegweiser zur Wahrheit ist"
+description: "Baruch Spinoza 1, empfangen durch James Padgett: „Ich möchte ein paar Zeilen schreiben, wenn du es erlaubst. Ich brauche nicht zu sagen, dass ich dir noch …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

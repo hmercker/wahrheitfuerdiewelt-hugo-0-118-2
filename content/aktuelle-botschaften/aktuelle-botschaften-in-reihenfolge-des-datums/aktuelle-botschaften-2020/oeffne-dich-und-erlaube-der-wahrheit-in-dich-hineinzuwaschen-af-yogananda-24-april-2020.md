@@ -1,7 +1,7 @@
 ---
 title: "Öffne dich und erlaube der Wahrheit, in dich hineinzuwaschen"
 menu_title: ""
-description: "Öffne dich und erlaube der Wahrheit, in dich hineinzuwaschen"
+description: "Yogananda, empfangen durch Al Fike: „Seid gesegnet, ihr Mitreisenden auf diesem göttlichen Pfad. Wenn die Wellen der Liebe Gottes an den Ufern eurer Seelen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

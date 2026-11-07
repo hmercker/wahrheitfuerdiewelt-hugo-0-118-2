@@ -1,7 +1,7 @@
 ---
 title: "Gerechtfertigte Gewalt und Seelenpartner"
 menu_title: ""
-description: "Gerechtfertigte Gewalt und Seelenpartner"
+description: "Judas- empfangen durch H.: „Mein lieber Bruder, du bist ein sehr hartnäckiger Mann. Also werde ich deine Frage beantworten, obwohl sie schon viele Male …“"
 date: 2020-08-01 06:25:48+00:117
 draft: False
 hidden: True

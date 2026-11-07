@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Liebe Gottes zu erkennen"
 menu_title: ""
-description: "Sucht die Liebe Gottes zu erkennen"
+description: "Andreas, empfangen durch Al Fike: „Die Luft ist dick mit der Gegenwart Gottes, Geliebte. Atmet diesen wunderbaren Segen ein, der zu dieser Kirche gekommen ist.“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

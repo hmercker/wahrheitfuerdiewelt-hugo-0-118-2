@@ -1,7 +1,7 @@
 ---
 title: "Jesus beruft Padgett und Dr. Stone als seine Jünger"
 menu_title: ""
-description: "Jesus beruft Padgett und Dr. Stone als seine Jünger"
+description: "Jesus, empfangen durch James Padgett: „Ich habe gehört, was du deinem Freund, Dr. Stone, gestern Nacht gesagt hast und freue mich, wie wertvoll die Liebe …“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

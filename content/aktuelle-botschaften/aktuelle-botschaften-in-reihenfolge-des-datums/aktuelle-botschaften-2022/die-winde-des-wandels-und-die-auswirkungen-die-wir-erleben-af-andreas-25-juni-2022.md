@@ -1,7 +1,7 @@
 ---
 title: "Die Winde des Wandels und die Auswirkungen, die wir erleben"
 menu_title: ""
-description: "Die Winde des Wandels und die Auswirkungen, die wir erleben"
+description: "Andreas, empfangen durch Al Fike: „Spürt ihr diesen Wandel nicht in eurem Herzen, euren Seele und eurem Verstand? Es ist eine Reaktion auf Gottes Segen für …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

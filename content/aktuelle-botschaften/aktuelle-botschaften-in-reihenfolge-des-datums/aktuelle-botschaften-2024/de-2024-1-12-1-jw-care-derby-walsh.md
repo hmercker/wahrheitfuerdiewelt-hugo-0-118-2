@@ -1,7 +1,7 @@
 ---
 title: "Trauer und Liebe"
 menu_title: ""
-description: "Trauer und Liebe"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Obwohl ich meinem lieben Jimbeau versprochen hatte, heute eine Botschaft anderer Art zu überbringen …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

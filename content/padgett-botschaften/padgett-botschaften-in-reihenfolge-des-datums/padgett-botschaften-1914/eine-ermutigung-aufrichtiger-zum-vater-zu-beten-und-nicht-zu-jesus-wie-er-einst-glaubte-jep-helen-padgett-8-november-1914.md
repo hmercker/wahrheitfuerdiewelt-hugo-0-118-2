@@ -1,7 +1,7 @@
 ---
 title: "Eine Ermutigung, aufrichtiger zum Vater zu beten und nicht zu Jesus, wie er einst glaubte"
 menu_title: ""
-description: "Eine Ermutigung, aufrichtiger zum Vater zu beten und nicht zu Jesus, wie er einst glaubte"
+description: "Helen, empfangen durch James Padgett: „Ja, war ich und du hast von den Diensten 1 profitiert, obwohl du nicht die umfangreichen Segnungen der Tatsache …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

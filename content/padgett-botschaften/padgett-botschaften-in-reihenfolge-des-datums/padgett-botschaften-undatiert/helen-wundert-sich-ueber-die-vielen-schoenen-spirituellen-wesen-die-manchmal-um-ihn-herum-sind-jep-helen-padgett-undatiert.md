@@ -1,7 +1,7 @@
 ---
 title: "Helen wundert sich über die vielen schönen spirituellen Wesen, die manchmal um ihn herum sind"
 menu_title: ""
-description: "Helen wundert sich über die vielen schönen spirituellen Wesen, die manchmal um ihn herum sind"
+description: "Helen Padgett, empfangen durch James Padgett: „Du darfst heute Abend nicht mehr schreiben, denn du bist müde und musst schlafen. Wir waren heute Nachmittag …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

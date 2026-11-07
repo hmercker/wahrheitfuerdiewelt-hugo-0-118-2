@@ -1,7 +1,7 @@
 ---
 title: "Verheißungsvolle Segnungen der Liebe Gottes für eine große Anzahl von Seelen auf beiden Seiten des Schleiers"
 menu_title: ""
-description: "Verheißungsvolle Segnungen der Liebe Gottes für eine große Anzahl von Seelen auf beiden Seiten des Schleiers"
+description: "Jesus & Bartholomäus, empfangen durch Al Fike: „Denn wie viele Zeiten und Gelegenheiten gibt es für diese suchenden Seelen, Teil eines solchen Kreises des …“"
 date: 2025-01-21 06:00:00+00:10
 draft: False
 hidden: True

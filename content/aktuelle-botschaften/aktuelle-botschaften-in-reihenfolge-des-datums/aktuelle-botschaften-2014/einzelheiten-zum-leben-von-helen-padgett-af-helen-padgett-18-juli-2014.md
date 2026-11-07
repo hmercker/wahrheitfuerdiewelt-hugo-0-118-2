@@ -1,7 +1,7 @@
 ---
 title: "Einzelheiten zum Leben von Helen Padgett"
 menu_title: ""
-description: "Einzelheiten zum Leben von Helen Padgett"
+description: "Helen Padgett, empfangen durch Al Fike: „Mein lieber Ned hat euch viel von der Geschichte vermittelt, die für eure Anfragen über unser gemeinsames Leben …“"
 date: 2020-08-01 06:25:48+00:164
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Konfuzius begrüßt die Schar"
 menu_title: ""
-description: "Konfuzius begrüßt die Schar"
+description: "Konfuzius, empfangen durch Al Fike: „Meine kleinen Vögel, ihr habt euch wieder einmal zusammengefunden und wie sehr freuen wir uns, wenn dies geschieht.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

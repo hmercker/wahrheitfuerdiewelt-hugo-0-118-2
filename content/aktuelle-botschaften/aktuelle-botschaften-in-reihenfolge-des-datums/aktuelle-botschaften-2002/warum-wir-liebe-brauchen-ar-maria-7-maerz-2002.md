@@ -1,7 +1,7 @@
 ---
 title: "Warum wir Liebe brauchen"
 menu_title: ""
-description: "Warum wir Liebe brauchen"
+description: "Maria, empfangen durch Amada Reza: „Ich bewohne die göttlichen Himmelssphären, in denen nur die Liebe existiert. Ich möchte über das Thema schreiben, warum …“"
 date: 2020-08-01 06:25:48+00:193
 draft: False
 hidden: True

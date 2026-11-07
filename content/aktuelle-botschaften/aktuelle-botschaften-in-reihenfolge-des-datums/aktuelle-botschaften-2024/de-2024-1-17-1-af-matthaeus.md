@@ -1,7 +1,7 @@
 ---
 title: "Das Wohlwollen der Liebe Gottes"
 menu_title: ""
-description: "Das Wohlwollen der Liebe Gottes"
+description: "Matthäus, empfangen durch Al Fike: „Die Gedanken der Menschen wirbeln weiterhin in der menschlichen Existenz herum. Diese dunkle Gedankenwolke ist das …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

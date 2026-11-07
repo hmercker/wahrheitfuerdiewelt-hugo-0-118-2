@@ -1,7 +1,7 @@
 ---
 title: "Das Ergebnis der Verkündung Padgett's"
 menu_title: ""
-description: "Das Ergebnis der Verkündung Padgett's"
+description: "Jesus, empfangen durch James Padgett: „Dies mag dir als eine Kleinigkeit erscheinen, aber ich sage dir, es ist einer der bedeutendsten Momente, nicht nur …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

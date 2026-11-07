@@ -1,7 +1,7 @@
 ---
 title: "Liebevolle Erinnerung an die Wichtigkeit unserer Vorbereitungen"
 menu_title: ""
-description: "Liebevolle Erinnerung an die Wichtigkeit unserer Vorbereitungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Wie wir euch versichert und mitgeteilt haben, gibt es verschiedene Hindernisse und Herausforderungen, bevor ihr als …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

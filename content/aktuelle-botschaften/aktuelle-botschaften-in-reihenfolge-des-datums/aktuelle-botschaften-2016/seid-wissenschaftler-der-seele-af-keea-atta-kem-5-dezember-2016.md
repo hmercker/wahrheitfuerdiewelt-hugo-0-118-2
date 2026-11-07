@@ -1,7 +1,7 @@
 ---
 title: "Seid Wissenschaftler der Seele"
 menu_title: ""
-description: "Seid Wissenschaftler der Seele"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Fahre fort, den Boden an vielen Orten in dieser Welt zu bestellen. Viele von euch werden an viele Orte reisen, auf …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

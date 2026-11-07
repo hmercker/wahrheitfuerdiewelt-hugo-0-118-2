@@ -1,7 +1,7 @@
 ---
 title: "Ihr arbeitet daran, mehr Harmonie in die Welt zu bringen"
 menu_title: ""
-description: "Ihr arbeitet daran, mehr Harmonie in die Welt zu bringen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, wir hatten tatsächlich eine erfolgreiche Sitzung heute Morgen - nicht wahr? Viele von euch haben die …“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

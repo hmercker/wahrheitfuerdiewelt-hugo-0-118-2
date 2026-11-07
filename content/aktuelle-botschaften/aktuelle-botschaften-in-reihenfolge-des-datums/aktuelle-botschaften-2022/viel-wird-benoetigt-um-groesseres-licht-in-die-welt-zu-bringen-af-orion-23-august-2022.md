@@ -1,7 +1,7 @@
 ---
 title: "Viel wird benötigt, um größeres Licht in die Welt zu bringen"
 menu_title: ""
-description: "Viel wird benötigt, um größeres Licht in die Welt zu bringen"
+description: "Orion, empfangen durch Al Fike: „Der Wind des Wandels wirbelt weiter um euch herum, meine Freunde. Doch jeder von euch fühlt sich an seinem Platz, in …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

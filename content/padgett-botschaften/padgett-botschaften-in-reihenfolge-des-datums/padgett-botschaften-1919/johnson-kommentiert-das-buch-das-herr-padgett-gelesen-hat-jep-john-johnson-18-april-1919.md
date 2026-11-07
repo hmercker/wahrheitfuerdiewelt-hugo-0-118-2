@@ -1,7 +1,7 @@
 ---
 title: "Johnson kommentiert das Buch, das Herr Padgett gelesen hat"
 menu_title: ""
-description: "Johnson kommentiert das Buch, das Herr Padgett gelesen hat"
+description: "John B. Johnson, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen. Ich war heute Abend bei dir, als du das Buch gelesen hast, und habe …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

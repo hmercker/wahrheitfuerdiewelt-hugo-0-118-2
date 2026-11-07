@@ -1,7 +1,7 @@
 ---
 title: "Ich bin mit euch"
 menu_title: ""
-description: "Ich bin mit euch"
+description: "Jesus, empfangen durch Al Fike: „\"Lieber himmlischer Vater, möge sich Deine große Liebe in den Seelen dieser lieben Brüder, dieser schönen Kinder …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

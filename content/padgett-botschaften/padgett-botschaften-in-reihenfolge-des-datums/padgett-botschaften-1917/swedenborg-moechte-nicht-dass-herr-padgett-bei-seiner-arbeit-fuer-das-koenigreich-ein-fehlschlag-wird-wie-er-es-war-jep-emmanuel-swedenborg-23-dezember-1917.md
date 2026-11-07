@@ -1,7 +1,7 @@
 ---
 title: "Swedenborg möchte nicht, dass Herr Padgett bei seiner Arbeit für das Königreich ein Fehlschlag wird, wie er es war"
 menu_title: ""
-description: "Swedenborg möchte nicht, dass Herr Padgett bei seiner Arbeit für das Königreich ein Fehlschlag wird, wie er es war"
+description: "Swedenborg, empfangen durch James Padgett: „Ich habe die Botschaften, die du soeben erhalten hast, gehört, und ich möchte dir die Notwendigkeit und …“"
 date: 2020-08-01 06:25:48+00:248
 draft: False
 hidden: True

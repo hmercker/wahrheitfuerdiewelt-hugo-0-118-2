@@ -1,7 +1,7 @@
 ---
 title: "Die Anforderungen der Welt überwinden"
 menu_title: ""
-description: "Die Anforderungen der Welt überwinden"
+description: "Moses, empfangen durch Al Fike: „Möge der große Segen der Liebe des Vaters über jede eurer Seelen kommen. Ihr lebt auf einer Erde, die euch in viele …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

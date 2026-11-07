@@ -1,7 +1,7 @@
 ---
 title: "Die Verstand-Natur des Menschen"
 menu_title: ""
-description: "Die Verstand-Natur des Menschen"
+description: "Orion, empfangen durch Al Fike: „Auf eurer Erdebene gibt es eine große Tendenz, alle Aspekte eures Lebens zu kategorisieren und mit Definitionen, Worten …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

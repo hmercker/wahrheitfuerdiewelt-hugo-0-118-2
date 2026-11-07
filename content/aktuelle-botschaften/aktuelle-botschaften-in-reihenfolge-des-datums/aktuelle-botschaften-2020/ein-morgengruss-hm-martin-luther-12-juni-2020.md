@@ -1,7 +1,7 @@
 ---
 title: "Ein Morgengruss"
 menu_title: ""
-description: "Ein Morgengruss"
+description: "Martin Luther, empfangen durch Helge Mercker: „Gerne möchte ich schreiben, Martin Luther hier. Es kommt noch viel zu tun, meine Tochter und dies ist nur …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

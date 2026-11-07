@@ -1,7 +1,7 @@
 ---
 title: "Johannes sagt, der Prediger habe sehr wenig Kenntnis von der 'Wahrheit', wie sie in den erhaltenen Schriften offenbart wurde"
 menu_title: ""
-description: "Johannes sagt, der Prediger habe sehr wenig Kenntnis von der 'Wahrheit', wie sie in den erhaltenen Schriften offenbart wurde"
+description: "Johannes, empfangen durch James Padgett: „Nun, ich war heute Abend bei dir und du hast keine Wahrheit aus der Rede des Predigers (Terry) gelernt, die für …“"
 date: 2020-08-01 06:25:48+00:214
 draft: False
 hidden: True

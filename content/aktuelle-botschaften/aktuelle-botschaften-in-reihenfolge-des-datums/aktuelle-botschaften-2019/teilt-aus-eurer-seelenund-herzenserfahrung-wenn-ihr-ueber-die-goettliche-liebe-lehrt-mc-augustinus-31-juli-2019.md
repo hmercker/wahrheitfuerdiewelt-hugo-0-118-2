@@ -1,7 +1,7 @@
 ---
 title: "Teilt aus eurer Seelen- und Herzenserfahrung, wenn ihr über die Göttliche Liebe lehrt"
 menu_title: ""
-description: "Teilt aus eurer Seelen- und Herzenserfahrung, wenn ihr über die Göttliche Liebe lehrt"
+description: "Augustinus, empfangen durch Maureen Cardoso: „Wenn sich Seelen im Kreis versammeln und zusammenkommen, um zu erfahren, was es bedeutet, in ihrer Seele zu …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die Aussage, dass es keine Reinkarnation gibt"
 menu_title: ""
-description: "Helen bestätigt die Aussage, dass es keine Reinkarnation gibt"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du hast heute Abend einen etwas erstaunlichen Brief bekommen, ich meine erstaunlich, wenn man die …“"
 date: 2020-08-01 06:25:48+00:273
 draft: False
 hidden: True

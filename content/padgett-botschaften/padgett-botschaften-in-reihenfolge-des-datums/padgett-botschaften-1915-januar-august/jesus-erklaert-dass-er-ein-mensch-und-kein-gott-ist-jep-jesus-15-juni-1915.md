@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, dass er ein Mensch und kein Gott ist"
 menu_title: ""
-description: "Jesus erklärt, dass er ein Mensch und kein Gott ist"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir heute Abend sagen, dass es dir in deinem spirituellen Zustand viel besser geht und ich möchte dir …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

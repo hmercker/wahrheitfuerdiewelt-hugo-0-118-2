@@ -1,7 +1,7 @@
 ---
 title: "Über den Dienst an Gott"
 menu_title: ""
-description: "Über den Dienst an Gott"
+description: "Johannes, empfangen durch Al Fike: „Und der Dienst kommt auf viele Arten und in vielen Formen. Gott benutzt euch auf eine Weise, die ihr nicht einmal …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

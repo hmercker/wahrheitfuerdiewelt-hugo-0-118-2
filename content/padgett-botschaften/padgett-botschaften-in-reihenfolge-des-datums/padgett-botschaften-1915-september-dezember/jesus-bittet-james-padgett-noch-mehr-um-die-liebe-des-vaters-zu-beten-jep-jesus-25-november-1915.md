@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet James Padgett noch mehr um die Liebe des Vaters zu beten"
 menu_title: ""
-description: "Jesus bittet James Padgett noch mehr um die Liebe des Vaters zu beten"
+description: "Jesus, empfangen durch James Padgett: „Du musst also deine Gedanken zum Vater gehen lassen, und Er wird mit einer Fülle von Liebe zu dir kommen, die dich …“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

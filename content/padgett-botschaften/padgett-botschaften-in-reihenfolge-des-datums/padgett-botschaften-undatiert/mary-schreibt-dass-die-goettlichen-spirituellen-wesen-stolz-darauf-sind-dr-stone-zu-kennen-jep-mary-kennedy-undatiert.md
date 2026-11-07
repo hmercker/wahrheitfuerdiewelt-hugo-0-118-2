@@ -1,7 +1,7 @@
 ---
 title: "Mary schreibt, dass die göttlichen Spirituellen Wesen stolz darauf sind, Dr Stone zu kennen"
 menu_title: ""
-description: "Mary schreibt, dass die göttlichen Spirituellen Wesen stolz darauf sind, Dr Stone zu kennen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Lass mich dir nur eines sagen - Helen sagt, ich darf, und ich will natürlich, und ich werde nicht lange stören.“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

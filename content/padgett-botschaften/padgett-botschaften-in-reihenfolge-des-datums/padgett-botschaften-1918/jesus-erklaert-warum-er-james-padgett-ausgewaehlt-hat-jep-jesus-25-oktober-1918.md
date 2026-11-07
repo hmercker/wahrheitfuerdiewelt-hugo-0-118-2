@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, warum er James Padgett ausgewählt hat"
 menu_title: ""
-description: "Jesus erklärt, warum er James Padgett ausgewählt hat"
+description: "Jesus, empfangen durch James Padgett: „Mein lieber Bruder, die Zeit ist reif, der Welt meine wahre Lehre zu verkünden. Eine tiefe Sehnsucht hat die …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

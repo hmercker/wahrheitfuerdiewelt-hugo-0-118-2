@@ -1,7 +1,7 @@
 ---
 title: "Am Ende wird es Frieden und Harmonie geben"
 menu_title: ""
-description: "Am Ende wird es Frieden und Harmonie geben"
+description: "Augustinus, empfangen durch Al Fike: „Ja, eure Welt ist in großer Bedrängnis. Es gibt Zeiten, in denen es ganz offensichtlich wird, dass die Bedingungen …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

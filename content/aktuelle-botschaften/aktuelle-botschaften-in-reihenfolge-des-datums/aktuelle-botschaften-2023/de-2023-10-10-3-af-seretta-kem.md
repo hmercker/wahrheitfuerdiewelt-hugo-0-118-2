@@ -1,7 +1,7 @@
 ---
 title: "Die Bedeutung dessen, was jeder Einzelne zu diesem Kreis beiträgt"
 menu_title: ""
-description: "Die Bedeutung dessen, was jeder Einzelne zu diesem Kreis beiträgt"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, es gibt eine Chemie zwischen der Nähe jedes Einzelnen zum anderen und dem, was er ausstrahlt, im Vergleich zu …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

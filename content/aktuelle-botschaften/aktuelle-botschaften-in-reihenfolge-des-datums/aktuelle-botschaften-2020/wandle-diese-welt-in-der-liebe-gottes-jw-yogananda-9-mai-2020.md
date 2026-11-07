@@ -1,7 +1,7 @@
 ---
 title: "Wandle diese Welt in der Liebe Gottes"
 menu_title: ""
-description: "Wandle diese Welt in der Liebe Gottes"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Die Gaben, die jede Seele empfangen kann, werden zu einem Segen für die Welt, wenn sie in Liebe sind.“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

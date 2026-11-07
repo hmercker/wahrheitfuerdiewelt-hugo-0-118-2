@@ -1,7 +1,7 @@
 ---
 title: "Probleme organisierter religiöser Gruppen"
 menu_title: ""
-description: "Probleme organisierter religiöser Gruppen"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Lieber Himmlischer Vater, wir haben eine Frage über die Apostolische Kirche und wie die …“"
 date: 2020-08-01 06:25:48+00:192
 draft: False
 hidden: True

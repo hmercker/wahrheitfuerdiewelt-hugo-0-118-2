@@ -1,7 +1,7 @@
 ---
 title: "Ich werde euch führen"
 menu_title: ""
-description: "Ich werde euch führen"
+description: "Jesus, empfangen durch Al Fike: „Und wenn ihr weiterhin zulasst, dass sich diese Veränderungen in eurem Wesen manifestieren, wenn ihr akzeptiert, was Gott …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

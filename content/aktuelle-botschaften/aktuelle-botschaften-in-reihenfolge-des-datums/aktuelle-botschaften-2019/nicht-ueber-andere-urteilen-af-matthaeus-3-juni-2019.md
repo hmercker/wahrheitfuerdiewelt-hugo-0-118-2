@@ -1,7 +1,7 @@
 ---
 title: "Nicht über andere urteilen"
 menu_title: ""
-description: "Nicht über andere urteilen"
+description: "Matthäus, empfangen durch Al Fike: „Ich beschwöre euch, nicht über andere zu urteilen, die nicht mit eurer Perspektive oder eurem Verständnis von Wahrheit …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

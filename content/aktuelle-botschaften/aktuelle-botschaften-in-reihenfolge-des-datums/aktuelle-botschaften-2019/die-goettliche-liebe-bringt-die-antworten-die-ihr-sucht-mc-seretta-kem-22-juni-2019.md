@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe bringt die Antworten, die ihr sucht"
 menu_title: ""
-description: "Die Göttliche Liebe bringt die Antworten, die ihr sucht"
+description: "Seretta Kem, empfangen durch Maureen Cardoso: „Ich heiße euch in diesem Kreis des Lichts willkommen und öffne eure Seelen und euer Herz, um das größte …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

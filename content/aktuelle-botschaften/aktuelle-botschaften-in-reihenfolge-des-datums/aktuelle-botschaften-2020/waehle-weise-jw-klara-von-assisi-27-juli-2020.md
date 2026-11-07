@@ -1,7 +1,7 @@
 ---
 title: "Wähle weise"
 menu_title: ""
-description: "Wähle weise"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ihr könnt sehen, wie wichtig es ist, eure Gedanken über die Sorgen der Welt zu erheben. Wir waren in der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

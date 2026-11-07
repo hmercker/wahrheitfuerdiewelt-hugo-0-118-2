@@ -1,7 +1,7 @@
 ---
 title: "Die Falschheit des Blutes Jesu und persönliche Erfahrung"
 menu_title: ""
-description: "Die Falschheit des Blutes Jesu und persönliche Erfahrung"
+description: "G. H., empfangen durch James Padgett: „Du wirst dich an mich erinnern, wenn ich dir sage, dass ich ein alter Freund von dir und ein Bruder im Beruf bin.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

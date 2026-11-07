@@ -1,7 +1,7 @@
 ---
 title: "Legt euren Fokus auf das Gebet für die göttliche Liebe"
 menu_title: ""
-description: "Legt euren Fokus auf das Gebet für die göttliche Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Oh, wie jeder von euch in dieser Welt herausgefordert ist, dieser Welt voller Schmerz, dieser Welt, der es an Liebe …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

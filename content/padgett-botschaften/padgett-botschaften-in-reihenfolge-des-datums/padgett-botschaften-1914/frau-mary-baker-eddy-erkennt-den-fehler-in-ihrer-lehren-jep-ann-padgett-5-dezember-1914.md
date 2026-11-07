@@ -1,7 +1,7 @@
 ---
 title: "Frau Mary Baker Eddy erkennt den Fehler in ihrer Lehren"
 menu_title: ""
-description: "Frau Mary Baker Eddy erkennt den Fehler in ihrer Lehren"
+description: "Ann R. Padgett, empfangen durch James Padgett: „Es scheint so lange her zu sein, dass ich dir geschrieben habe. Ich liebe dich so sehr und fühle, dass ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

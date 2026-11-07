@@ -1,7 +1,7 @@
 ---
 title: "Hilfe in der spirituellen Welt unter den spirituellen Wesen"
 menu_title: ""
-description: "Hilfe in der spirituellen Welt unter den spirituellen Wesen"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich ein Thema besprechen, das sich auf die Wachstums- und Entwicklungsphase bezieht, die ich in meiner …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

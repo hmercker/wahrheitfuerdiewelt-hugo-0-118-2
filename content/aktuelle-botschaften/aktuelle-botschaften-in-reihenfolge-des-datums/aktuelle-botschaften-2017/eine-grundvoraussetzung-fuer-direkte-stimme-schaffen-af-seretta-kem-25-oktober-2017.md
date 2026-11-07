@@ -1,7 +1,7 @@
 ---
 title: "Eine Grundvoraussetzung für Direkte Stimme schaffen"
 menu_title: ""
-description: "Eine Grundvoraussetzung für Direkte Stimme schaffen"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist meine Hoffnung, dass alle materiellen Belange geklärt sind und wir über tiefere, spirituelle Dinge sprechen …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

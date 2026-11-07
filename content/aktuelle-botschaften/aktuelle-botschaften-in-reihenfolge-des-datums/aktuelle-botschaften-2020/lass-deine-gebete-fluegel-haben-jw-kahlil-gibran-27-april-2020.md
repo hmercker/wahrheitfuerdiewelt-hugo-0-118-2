@@ -1,7 +1,7 @@
 ---
 title: "Lass deine Gebete Flügel haben "
 menu_title: ""
-description: "Lass deine Gebete Flügel haben "
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Dieser ist an diesem Tag in Verbindung mit mir gewesen. Das Herz, das physische Herz, erhält den Sauerstoff …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

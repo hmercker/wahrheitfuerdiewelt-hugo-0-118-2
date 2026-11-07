@@ -1,7 +1,7 @@
 ---
 title: "Die Transformation"
 menu_title: ""
-description: "Die Transformation"
+description: "Orion, empfangen durch Al Fike: „Ihr habt eine Einheit gefunden, die sehr wichtig ist, um Harmonie und Liebe zu haben und euch gegenseitig anzuerkennen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Vorfall im Tempel"
 menu_title: ""
-description: "Der Vorfall im Tempel"
+description: "Judas, empfangen durch H.: „[Am Morgen fühlte ich eine große Unsicherheit. Ich war beunruhigt, weil ich keine Fehler machen wollte, wie z.B. mir Dinge …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

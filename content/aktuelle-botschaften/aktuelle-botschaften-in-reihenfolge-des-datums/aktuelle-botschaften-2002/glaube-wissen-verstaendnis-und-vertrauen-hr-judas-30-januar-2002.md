@@ -1,7 +1,7 @@
 ---
 title: "Glaube, Wissen, Verständnis und Vertrauen"
 menu_title: ""
-description: "Glaube, Wissen, Verständnis und Vertrauen"
+description: "Judas, empfangen durch H.: „Glaube bedeutet Wissen, inneres Wissen. Es ist unser Anteil an Gottes ganzheitlicher Vision.“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

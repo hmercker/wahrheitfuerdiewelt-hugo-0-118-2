@@ -1,7 +1,7 @@
 ---
 title: "Sonnenschein ist in euch"
 menu_title: ""
-description: "Sonnenschein ist in euch"
+description: "Goldie, empfangen durch Al Fike: „Gibt es heute Sonnenschein in eurer Seele? Macht es etwas aus, wenn es Wolken gibt, wenn ihr den Sonnenschein in eurer …“"
 date: 2020-08-01 06:25:48+00:101
 draft: False
 hidden: True

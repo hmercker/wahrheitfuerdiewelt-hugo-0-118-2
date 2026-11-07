@@ -1,7 +1,7 @@
 ---
 title: "Fußspuren im Sand"
 menu_title: ""
-description: "Fußspuren im Sand"
+description: "Judas, empfangen durch H.: „..... und du bist den ganzen Tag mit diesen Worten im Kopf gelaufen, du bist so weit gegangen, den Text aus dem Internet …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wenn ein Medium die Unwahrheit channelt"
 menu_title: ""
-description: "Wenn ein Medium die Unwahrheit channelt"
+description: "Maria, empfangen durch Amada Reza: „Lieber Himmlischer Vater, ich bete um ein Einströmen der Göttlichen Liebe in meine Seele zu dieser Zeit und ich bete …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

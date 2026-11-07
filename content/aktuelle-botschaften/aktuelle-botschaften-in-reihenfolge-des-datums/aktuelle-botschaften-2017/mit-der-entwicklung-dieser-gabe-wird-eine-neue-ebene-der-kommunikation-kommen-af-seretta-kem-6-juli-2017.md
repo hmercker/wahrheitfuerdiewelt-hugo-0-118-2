@@ -1,7 +1,7 @@
 ---
 title: "Mit der Entwicklung dieser Gabe wird eine neue Ebene der Kommunikation kommen"
 menu_title: ""
-description: "Mit der Entwicklung dieser Gabe wird eine neue Ebene der Kommunikation kommen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich sehe, dass ihr weiterhin eure Nachforschungen anstellt, eure Gebete sprecht und versucht, körperliche und …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

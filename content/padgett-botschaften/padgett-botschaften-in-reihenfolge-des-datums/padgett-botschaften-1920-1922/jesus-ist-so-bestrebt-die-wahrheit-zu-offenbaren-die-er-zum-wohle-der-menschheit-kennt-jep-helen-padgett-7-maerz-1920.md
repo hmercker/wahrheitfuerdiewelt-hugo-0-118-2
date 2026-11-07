@@ -1,7 +1,7 @@
 ---
 title: "Jesus ist so bestrebt, die Wahrheit zu offenbaren, die er zum Wohle der Menschheit kennt"
 menu_title: ""
-description: "Jesus ist so bestrebt, die Wahrheit zu offenbaren, die er zum Wohle der Menschheit kennt"
+description: "Helen, empfangen durch James Padgett: „Er ist so bestrebt die Wahrheit die er kennt, zu offenbaren und wie er sagt, wird sie zum Wohle der Menschheit sein.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Nachricht von Martin Luther"
 menu_title: ""
-description: "Eine kurze Nachricht von Martin Luther"
+description: "Martin Luther, empfangen durch James Padgett: „Ich sehe, dass du zu müde bist, um heute Abend zu schreiben und ich werde dich nicht bitten, dies zu tun …“"
 date: 2020-08-01 06:25:48+00:185
 draft: False
 hidden: True

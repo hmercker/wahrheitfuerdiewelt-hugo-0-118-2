@@ -1,7 +1,7 @@
 ---
 title: "Bearbeitung von Band II"
 menu_title: ""
-description: "Bearbeitung von Band II"
+description: "James Padgett, empfangen durch Kathryn Stokes: „[Lieber Vater der Liebe, A hat mich gefragt, ob ich eine schriftliche Nachricht von James E.“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

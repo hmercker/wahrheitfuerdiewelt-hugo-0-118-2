@@ -1,7 +1,7 @@
 ---
 title: "Jesus berichtigt die Beschreibung des Wesens Gottes"
 menu_title: ""
-description: "Jesus berichtigt die Beschreibung des Wesens Gottes"
+description: "Jesus, empfangen durch James Padgett: „Lasst mich heute Abend ein paar Worte sagen. Ich war wieder bei dir im Gottesdienst und habe dem Prediger 1 (Dr.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Reise zum Einssein"
 menu_title: ""
-description: "Die Reise zum Einssein"
+description: "Augustinus, empfangen durch Al Fike: „Möge der Vater in der Tat eure Seelen segnen. Möget ihr die Sehnsucht, die tief in euch wohnt, als die leitende Kraft …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

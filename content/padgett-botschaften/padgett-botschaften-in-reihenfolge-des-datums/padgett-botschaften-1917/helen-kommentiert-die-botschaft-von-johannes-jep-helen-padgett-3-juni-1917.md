@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Botschaft von Johannes"
 menu_title: ""
-description: "Helen kommentiert die Botschaft von Johannes"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hattest eine ziemlich ungewöhnliche Botschaft von Johannes, und ich muss sagen, dass, wie Jesus …“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit beginnt, die Wahrheit zu erkennen"
 menu_title: ""
-description: "Die Menschheit beginnt, die Wahrheit zu erkennen"
+description: "Jesus, empfangen durch David Lampron: „Heute möchte ich mich zu der guten Arbeit äußern, die du und andere bei der Vorbereitung unserer Neuoffenbarung an …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

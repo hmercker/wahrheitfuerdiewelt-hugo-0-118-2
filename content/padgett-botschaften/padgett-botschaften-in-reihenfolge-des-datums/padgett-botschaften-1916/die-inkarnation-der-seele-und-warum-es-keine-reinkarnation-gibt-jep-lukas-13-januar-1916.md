@@ -1,7 +1,7 @@
 ---
 title: "Die Inkarnation der Seele und warum es keine Reinkarnation gibt"
 menu_title: ""
-description: "Die Inkarnation der Seele und warum es keine Reinkarnation gibt"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte dir heute Nacht über das Geheimnis der Geburt einer Seele in ein menschliches Wesen berichten.“"
 date: 2020-08-01 06:25:48+00:65
 draft: False
 hidden: True

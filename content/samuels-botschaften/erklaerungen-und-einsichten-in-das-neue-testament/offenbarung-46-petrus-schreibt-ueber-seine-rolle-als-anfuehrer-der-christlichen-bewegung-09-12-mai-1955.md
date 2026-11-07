@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 46 : Petrus schreibt über seine Rolle als Anführer der christlichen Bewegung"
 menu_title: ""
-description: "Offenbarung 46 : Petrus schreibt über seine Rolle als Anführer der christlichen Bewegung"
+description: "Jesus, empfangen durch Dr Samuels: „Ich habe gehört, was ihr miteinander besprochen habt und möchte daher bestätigen, dass alles, was über mein Leben und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

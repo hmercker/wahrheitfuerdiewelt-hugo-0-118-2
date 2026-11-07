@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet von den Engeln inspiriert werden!"
 menu_title: ""
-description: "Ihr werdet von den Engeln inspiriert werden!"
+description: "Mozart, empfangen durch Al Fike: „Es wird euch sicher nicht überraschen, dass auch wir unsere Treffen und Diskussionen über diese gemeinsame Zeit hatten.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

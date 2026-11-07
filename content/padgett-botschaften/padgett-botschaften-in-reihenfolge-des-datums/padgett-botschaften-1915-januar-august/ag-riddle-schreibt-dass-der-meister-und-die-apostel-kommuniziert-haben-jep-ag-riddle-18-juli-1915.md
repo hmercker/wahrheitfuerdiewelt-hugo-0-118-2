@@ -1,7 +1,7 @@
 ---
 title: "A. G. Riddle schreibt, dass der Meister und die Apostel kommuniziert haben"
 menu_title: ""
-description: "A. G. Riddle schreibt, dass der Meister und die Apostel kommuniziert haben"
+description: "A. G. Riddle, empfangen durch James Padgett: „Nun, Padgett, eine solches Zeugnis wie diese, hätte vor Gericht eine Tatsache bestätigt, die du oder ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

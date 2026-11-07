@@ -1,7 +1,7 @@
 ---
 title: "Valentinstagsbotschaft für alle"
 menu_title: ""
-description: "Valentinstagsbotschaft für alle"
+description: "Augustinus, empfangen durch Al Fike: „Es ist schon irgendwie amüsant, dass ein Tag im Jahr der Liebe gewidmet ist, wo doch eigentlich jeder Tag im Jahr der …“"
 date: 2025-02-14 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir setzen die Reise gemeinsam fort"
 menu_title: ""
-description: "Wir setzen die Reise gemeinsam fort"
+description: "Orion, empfangen durch Al Fike: „All diese Dinge muss der Mensch auf einer Erde wie der euren überwinden und erfahren. Es gibt im Universum wenige …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

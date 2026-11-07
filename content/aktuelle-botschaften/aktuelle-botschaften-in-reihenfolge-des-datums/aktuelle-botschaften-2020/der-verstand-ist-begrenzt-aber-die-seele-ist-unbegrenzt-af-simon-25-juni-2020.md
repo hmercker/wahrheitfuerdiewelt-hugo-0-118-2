@@ -1,7 +1,7 @@
 ---
 title: "Der Verstand ist begrenzt, aber die Seele ist unbegrenzt"
 menu_title: ""
-description: "Der Verstand ist begrenzt, aber die Seele ist unbegrenzt"
+description: "Simon, empfangen durch Al Fike: „Viele von euch sind hierher gekommen, weil ihr neugierig seid und euch danach sehnt, eine größere Wahrheit zu finden.“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

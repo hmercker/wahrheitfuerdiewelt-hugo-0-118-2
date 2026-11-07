@@ -1,7 +1,7 @@
 ---
 title: "Glaube und die Seele 1: Geht im Glauben voran, um euer Schicksal zu erfüllen"
 menu_title: ""
-description: "Glaube und die Seele 1: Geht im Glauben voran, um euer Schicksal zu erfüllen"
+description: "Jesus & Augustinus, empfangen durch Al Fike: „Denn diese Kreise sind kostbar und in eurer Welt nicht alltäglich, aber die Kraft der Liebe, die ihr in eure …“"
 date: 2026-04-12 06:00:00+00:10
 draft: False
 hidden: True

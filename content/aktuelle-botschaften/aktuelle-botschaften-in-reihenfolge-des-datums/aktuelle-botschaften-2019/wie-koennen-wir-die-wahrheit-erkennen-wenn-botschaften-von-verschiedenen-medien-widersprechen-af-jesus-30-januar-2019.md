@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir die Wahrheit erkennen, wenn Botschaften von verschiedenen Medien widersprechen?"
 menu_title: ""
-description: "Wie können wir die Wahrheit erkennen, wenn Botschaften von verschiedenen Medien widersprechen?"
+description: "Jesus, empfangen durch Al Fike: „Wie ihr euch gut vorstellen könnt, gibt es viele Elemente und Aspekte, die mit diesem Geschenk verbunden sind.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

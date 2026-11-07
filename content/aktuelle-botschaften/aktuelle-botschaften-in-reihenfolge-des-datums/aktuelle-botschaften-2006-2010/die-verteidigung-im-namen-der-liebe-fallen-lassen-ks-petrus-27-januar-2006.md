@@ -1,7 +1,7 @@
 ---
 title: "Die Verteidigung im Namen der Liebe fallen lassen"
 menu_title: ""
-description: "Die Verteidigung im Namen der Liebe fallen lassen"
+description: "Petrus, empfangen durch Kathryn Stokes: „Wir sind jetzt hier bei dir, meine liebe Schwester, und wir freuen uns, dass du eingewilligt hast, eine Botschaft …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

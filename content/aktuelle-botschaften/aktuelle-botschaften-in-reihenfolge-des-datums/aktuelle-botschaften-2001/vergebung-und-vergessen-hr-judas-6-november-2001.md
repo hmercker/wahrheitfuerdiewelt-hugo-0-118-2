@@ -1,7 +1,7 @@
 ---
 title: "Vergebung und Vergessen"
 menu_title: ""
-description: "Vergebung und Vergessen"
+description: "Judas, empfangen durch H.: „Vergebung ist Vergesslichkeit. Das ist eine große Wahrheit.“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

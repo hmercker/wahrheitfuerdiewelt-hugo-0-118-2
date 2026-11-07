@@ -1,7 +1,7 @@
 ---
 title: "Erhöht eure Schwingung, um zu heilen"
 menu_title: ""
-description: "Erhöht eure Schwingung, um zu heilen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ganz besonders für die Leiden des Herzens, wo sich die Seele stagniert fühlt. Denn wenn man deprimiert, wütend …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

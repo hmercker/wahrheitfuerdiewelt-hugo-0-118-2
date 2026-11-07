@@ -1,7 +1,7 @@
 ---
 title: "Kommentar zur Medialität"
 menu_title: ""
-description: "Kommentar zur Medialität"
+description: "Bartholomäus, empfangen durch Al Fike: „Ihr tut gut daran, auf die Führung unseres Freundes zu hören, der gekommen ist, um zu euch zu sprechen.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

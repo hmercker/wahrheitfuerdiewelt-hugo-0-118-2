@@ -1,7 +1,7 @@
 ---
 title: "Jesus erklärt, was Unsterblichkeit bedeutet"
 menu_title: ""
-description: "Jesus erklärt, was Unsterblichkeit bedeutet"
+description: "Jesus, empfangen durch James Padgett: „Ich möchte dir sagen, was ich mit Unsterblichkeit meine, denn du und dein Freund hatten heute unterschiedliche …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

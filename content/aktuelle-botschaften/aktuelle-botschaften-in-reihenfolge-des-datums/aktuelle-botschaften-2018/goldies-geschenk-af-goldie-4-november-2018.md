@@ -1,7 +1,7 @@
 ---
 title: "Goldies Geschenk"
 menu_title: ""
-description: "Goldies Geschenk"
+description: "Goldie, empfangen durch Al Fike: „Ich möchte, dass ihr alle wisst, dass ich zu jedem von euch gekommen bin, als ihr heute gebetet habt, und ich habe jedem …“"
 date: 2020-08-01 06:25:48+00:223
 draft: False
 hidden: True

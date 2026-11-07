@@ -1,7 +1,7 @@
 ---
 title: "Nutze die gegebene Zeit"
 menu_title: ""
-description: "Nutze die gegebene Zeit"
+description: "Augustinus, empfangen durch Al Fike: „Ihr habt jetzt die große Chance, euch mehr auf eure Kommunikation und euer Verständnis zu konzentrieren, auf die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

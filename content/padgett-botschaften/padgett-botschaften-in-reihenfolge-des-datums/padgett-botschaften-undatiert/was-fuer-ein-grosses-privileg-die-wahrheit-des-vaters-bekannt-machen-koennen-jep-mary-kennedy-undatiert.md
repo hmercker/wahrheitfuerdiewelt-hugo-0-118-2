@@ -1,7 +1,7 @@
 ---
 title: "Was für ein großes Privileg die Wahrheit des Vaters bekannt machen können"
 menu_title: ""
-description: "Was für ein großes Privileg die Wahrheit des Vaters bekannt machen können"
+description: "Mary Kennedy, empfangen durch James Padgett: „Lass mich nur ein Wort sagen, bevor du gehst. Ich weiß, dass es eine Zumutung ist, aber du bist so gut, dass …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

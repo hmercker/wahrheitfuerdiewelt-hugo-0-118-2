@@ -1,7 +1,7 @@
 ---
 title: "Die vor uns liegende Arbeit"
 menu_title: ""
-description: "Die vor uns liegende Arbeit"
+description: "Jesus, empfangen durch David Lampron: „Wie du weißt, ist das Werk, das vor uns allen liegt, ein großes. In der Tat gibt es kein größeres Werk, das …“"
 date: 2020-08-01 06:25:48+00:81
 draft: False
 hidden: True

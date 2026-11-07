@@ -1,7 +1,7 @@
 ---
 title: "Der Anfang"
 menu_title: ""
-description: "Der Anfang"
+description: "Seretta Kem, empfangen durch Al Fike: „In jenen vergangenen Monaten, als der Beginn dieser Anstrengung geboren wurde und ihr alle nach vorne gekommen seid …“"
 date: 2020-08-01 06:25:48+00:144
 draft: False
 hidden: True

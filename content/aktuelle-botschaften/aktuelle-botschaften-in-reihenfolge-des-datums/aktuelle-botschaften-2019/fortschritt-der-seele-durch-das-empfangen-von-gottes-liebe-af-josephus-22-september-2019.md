@@ -1,7 +1,7 @@
 ---
 title: "Fortschritt der Seele durch das Empfangen von Gottes Liebe "
 menu_title: ""
-description: "Fortschritt der Seele durch das Empfangen von Gottes Liebe "
+description: "Fortschritt der Seele durch das Empfangen von Gottes Liebe: „Josephus - empfangen durch Al Fike am 22. September 2019, Gibsons, BC, Kanada.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

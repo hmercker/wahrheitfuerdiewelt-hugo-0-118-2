@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Kirche ist in euren Herzen"
 menu_title: ""
-description: "Die wahre Kirche ist in euren Herzen"
+description: "Jesus, empfangen durch Elisabeth Mack: „Gottes Liebe ist allumfassend. Sie beinhaltet viele Gaben in sich.“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein spirituelles Wesen spricht von Untersuchungen spiritueller Phänomene, über die er zu schreiben pflegte"
 menu_title: ""
-description: "Ein spirituelles Wesen spricht von Untersuchungen spiritueller Phänomene, über die er zu schreiben pflegte"
+description: "Robert Dale Owen, empfangen durch James Padgett: „Laß mich nur ein Wort sagen, denn ich interessiere mich für deine Arbeit und für die Phänomene des …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

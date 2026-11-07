@@ -1,7 +1,7 @@
 ---
 title: "Lebt ein Leben im Gebet"
 menu_title: ""
-description: "Lebt ein Leben im Gebet"
+description: "Augustinus, empfangen durch Al Fike: „Gesegnet seid ihr, geliebte Seelen, es ist euer Lehrer Augustinus. Es ist gut, dass ihr zusammenkommt, um zu beten …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

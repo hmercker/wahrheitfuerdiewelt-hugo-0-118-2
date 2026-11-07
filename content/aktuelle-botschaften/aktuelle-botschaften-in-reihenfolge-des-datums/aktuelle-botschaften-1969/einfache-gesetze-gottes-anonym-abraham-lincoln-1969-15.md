@@ -1,7 +1,7 @@
 ---
 title: "Einfache Gesetze Gottes"
 menu_title: ""
-description: "Einfache Gesetze Gottes"
+description: "Abraham Lincoln: „Oh, meine Freunde, obwohl ich im Geiste bin, möchte ich euch, die ihr noch sterblich seid, Hilfe geben.“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

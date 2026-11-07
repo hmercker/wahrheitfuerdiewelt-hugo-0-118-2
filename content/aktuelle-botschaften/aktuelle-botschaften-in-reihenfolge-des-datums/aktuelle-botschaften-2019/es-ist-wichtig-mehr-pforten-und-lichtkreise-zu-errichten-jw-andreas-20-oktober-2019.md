@@ -1,7 +1,7 @@
 ---
 title: "Es ist wichtig, mehr Pforten und Lichtkreise zu errichten"
 menu_title: ""
-description: "Es ist wichtig, mehr Pforten und Lichtkreise zu errichten"
+description: "Andreas, empfangen durch Jimbeau Walsh: „Wir danken euch für eure Bemühungen und werden uns euch anschließen, wann immer ihr dort in dieser wunderschönen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

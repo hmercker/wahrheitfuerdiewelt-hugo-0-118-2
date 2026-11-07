@@ -1,7 +1,7 @@
 ---
 title: "Die Seele"
 menu_title: ""
-description: "Die Seele"
+description: "Anonym, empfangen durch H.: „Die Öffnung der Seele ist keine passive Haltung; sie ist etwas Aktives, in das du deinen Willen und deine Bemühungen …“"
 date: 2020-06-04 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gruß von Faith "
 menu_title: ""
-description: "Gruß von Faith "
+description: "Faith, empfangen durch Helge Mercker: „Ich habe schon lange nicht mehr kommuniziert und ich möchte mich melden, da du den Wunsch hast, unsere Worte zu …“"
 date: 2020-08-01 06:25:48+00:79
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist die größte Kraft im Universum"
 menu_title: ""
-description: "Die Göttliche Liebe ist die größte Kraft im Universum"
+description: "Professor Salyards, empfangen durch Al Fike: „Dieses Element ist die Liebe. Eure Wissenschaftlerinnen und Wissenschaftler haben sich sehr viel Mühe …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

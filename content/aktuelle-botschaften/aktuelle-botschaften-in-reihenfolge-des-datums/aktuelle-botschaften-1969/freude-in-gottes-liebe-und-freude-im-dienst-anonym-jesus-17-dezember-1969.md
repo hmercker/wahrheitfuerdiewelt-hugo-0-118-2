@@ -1,7 +1,7 @@
 ---
 title: "Freude in Gottes Liebe und Freude im Dienst"
 menu_title: ""
-description: "Freude in Gottes Liebe und Freude im Dienst"
+description: "Jesus: „Wir haben gemeinsam für Gott gearbeitet, denn wahrlich, wir sind Brüder und Schwestern in Christus und wahrlich, wir sind Diener Gottes, unseres …“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

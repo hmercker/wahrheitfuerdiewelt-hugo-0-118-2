@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung von Maria"
 menu_title: ""
-description: "Ermutigung von Maria"
+description: "Maria, empfangen durch Al Fike: „Gott drängt oder besteht nicht auf eurem Dienst, sondern bittet in Seinem sanften Flüstern, bittet in Seinem liebevollen …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Entfernt Aspekte von euch selbst, die nicht der Liebe entsprechen"
 menu_title: ""
-description: "Entfernt Aspekte von euch selbst, die nicht der Liebe entsprechen"
+description: "Konfuzius, empfangen durch Al Fike: „Geliebte Seelen, es ist Konfuzius. Ich flehe euch an, geliebte Seelen, Veränderungen in euren Gedanken und in eurem …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

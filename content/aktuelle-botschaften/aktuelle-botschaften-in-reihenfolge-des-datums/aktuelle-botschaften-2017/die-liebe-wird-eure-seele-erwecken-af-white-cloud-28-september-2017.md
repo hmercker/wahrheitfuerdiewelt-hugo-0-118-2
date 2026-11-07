@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe wird eure Seele erwecken"
 menu_title: ""
-description: "Die Liebe wird eure Seele erwecken"
+description: "White Cloud, empfangen durch Al Fike: „Liebt ihr wirklich das Land, in dem ihr wohnt, diese Orte des Wassers und der Bäume und Berge?“"
 date: 2020-08-01 06:25:48+00:120
 draft: False
 hidden: True

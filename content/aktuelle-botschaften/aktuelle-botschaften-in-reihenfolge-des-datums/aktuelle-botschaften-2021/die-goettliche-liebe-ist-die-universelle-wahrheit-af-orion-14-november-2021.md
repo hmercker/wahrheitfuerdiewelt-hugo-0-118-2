@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist die universelle Wahrheit"
 menu_title: ""
-description: "Die Göttliche Liebe ist die universelle Wahrheit"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet und grüßt euch, meine Freunde. Möge der Segen der Göttlichen Liebe in großer Fülle in eure Seele eindringen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

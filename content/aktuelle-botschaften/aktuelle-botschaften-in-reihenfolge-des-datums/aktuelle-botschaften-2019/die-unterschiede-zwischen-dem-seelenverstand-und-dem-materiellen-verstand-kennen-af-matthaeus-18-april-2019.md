@@ -1,7 +1,7 @@
 ---
 title: "Die Unterschiede zwischen dem Seelenverstand und dem materiellen Verstand kennen"
 menu_title: ""
-description: "Die Unterschiede zwischen dem Seelenverstand und dem materiellen Verstand kennen"
+description: "Matthäus, empfangen durch Al Fike: „Ich habe euch bei eurem Gespräch begleitet und euren Gedanken und Ideen zu den Unterschieden zwischen dem …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

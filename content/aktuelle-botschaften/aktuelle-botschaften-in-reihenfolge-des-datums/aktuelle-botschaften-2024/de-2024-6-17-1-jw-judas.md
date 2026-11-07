@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe Gottes hat die Welt schon erobert"
 menu_title: ""
-description: "Die Liebe Gottes hat die Welt schon erobert"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ich danke euch, dass ihr so zahlreich zusammengekommen seid, um das große Geschenk der Liebe …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Amon, Mutter aller menschlichen Schöpfung, gibt ihre Erfahrung"
 menu_title: ""
-description: "Amon, Mutter aller menschlichen Schöpfung, gibt ihre Erfahrung"
+description: "Amon, empfangen durch James Padgett: „Wir wurden zur gleichen Zeit von Gott geschaffen und waren bereit, gleich nach dem Moment unserer Erschaffung das …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Verbreitet Liebe mit allen verfügbaren Mitteln"
 menu_title: ""
-description: "Verbreitet Liebe mit allen verfügbaren Mitteln"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Wenn ihr diese Worte lest, die James Padgett von mir und anderen gegeben wurden, vor allem über die Gesetze der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

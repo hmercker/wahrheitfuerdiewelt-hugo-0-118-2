@@ -1,7 +1,7 @@
 ---
 title: "Wir müssen allen die suchen, lehren, wie man von Angst frei sein kann"
 menu_title: ""
-description: "Wir müssen allen die suchen, lehren, wie man von Angst frei sein kann"
+description: "Paulus: „Es ist so erfreulich für uns, meine Kinder, die Schwingungsrate in so kurzer Zeit so hoch anheben zu können, denn als ich beiseite stand und …“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

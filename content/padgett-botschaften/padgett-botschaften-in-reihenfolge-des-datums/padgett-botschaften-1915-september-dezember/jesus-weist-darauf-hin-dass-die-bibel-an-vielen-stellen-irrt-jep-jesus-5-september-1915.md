@@ -1,7 +1,7 @@
 ---
 title: "Jesus weist darauf hin, dass die Bibel an vielen Stellen irrt"
 menu_title: ""
-description: "Jesus weist darauf hin, dass die Bibel an vielen Stellen irrt"
+description: "Jesus, empfangen von James Padgett: „Ich möchte, dass du versuchst, morgen Abend eine Botschaft von mir zu empfangen, denn ich denke, du wirst in der Lage …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

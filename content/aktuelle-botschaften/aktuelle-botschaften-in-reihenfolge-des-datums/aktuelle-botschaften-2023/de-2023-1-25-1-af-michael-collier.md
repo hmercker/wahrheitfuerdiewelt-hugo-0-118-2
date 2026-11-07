@@ -1,7 +1,7 @@
 ---
 title: "Unsere Rolle in Gottes Plan - Teil 1"
 menu_title: ""
-description: "Unsere Rolle in Gottes Plane - Teil 1"
+description: "Miachel Collier, empfangen durch Al Fike: „Da euch meine Gespräche mit euch in der Vergangenheit gefallen haben, bin ich wieder gekommen, um mit euch zu …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

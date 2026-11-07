@@ -1,7 +1,7 @@
 ---
 title: "Augustinus: Die Kraft des Gebets"
 menu_title: ""
-description: "Augustinus: Die Kraft des Gebets"
+description: "Augustinus [^1], empfangen durch Al Fike: „Tatsächlich ist es wichtig zu beten. Denn wenn ihr betet und diesen Kanal und diese Verbindung mit euerm …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Suche nach Weisheit"
 menu_title: ""
-description: "Suche nach Weisheit"
+description: "Konfuzius: „Wie ein Baum der nach mehr Sonnenlicht greift, so muss der Mensch nach größerer Weisheit suchen, Konfuzius.“"
 date: 2020-08-01 06:25:48+00:162
 draft: False
 hidden: True

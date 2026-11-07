@@ -1,7 +1,7 @@
 ---
 title: "Erlaubt Gottes Liebe, euren Tag zu durchdringen, eure Nacht zu erleuchten"
 menu_title: ""
-description: "Erlaubt Gottes Liebe, euren Tag zu durchdringen, eure Nacht zu erleuchten"
+description: "Judas, empfangen durch Jimbeau Walsh: „Eine Gruppe von Seelen, die sich verpflichtet haben, in Gemeinschaft zu leben. Jede einzelne Seele streckt sich aus …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

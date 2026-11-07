@@ -1,7 +1,7 @@
 ---
 title: "Einerlei in Gottes Liebe"
 menu_title: ""
-description: "Einerlei in Gottes Liebe"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ich habe schon oft über Einfachheit gesprochen. Ich habe über materielle und spirituelle Bedürfnisse …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

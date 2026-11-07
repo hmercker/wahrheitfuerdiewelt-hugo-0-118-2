@@ -1,7 +1,7 @@
 ---
 title: "Die Erschütterungen des Wandels sind wahre Geschenke"
 menu_title: ""
-description: "Die Erschütterungen des Wandels sind wahre Geschenke"
+description: "George Gurdjieff, empfangen durch Jimbeau Walsh: „Wie passend, dass die Botschaft von Noah in diesen Tagen auf der Erde gegeben wird. Der Kern seiner …“"
 date: 2025-07-06 06:00:00+00:00
 draft: False
 hidden: True

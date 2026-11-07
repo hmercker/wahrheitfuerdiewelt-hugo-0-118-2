@@ -1,7 +1,7 @@
 ---
 title: "Gemeinsam in der Freude der Liebe"
 menu_title: ""
-description: "Gemeinsam in der Freude der Liebe"
+description: "Goldie, empfangen durch Al Fike: „[Jeanne: Ich liebe dich auch.] Du willst wissen, wo ich gelebt habe?“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

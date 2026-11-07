@@ -1,7 +1,7 @@
 ---
 title: "Ein Geschenk an Gott"
 menu_title: ""
-description: "Ein Geschenk an Gott"
+description: "Maria, empfangen durch Amada Reza: „Ich freue mich, dass du dir meiner Gegenwart bewusst bist und dass du offen bist, eine Botschaft von mir zu empfangen.“"
 date: 2020-08-01 06:25:48+00:304
 draft: False
 hidden: True

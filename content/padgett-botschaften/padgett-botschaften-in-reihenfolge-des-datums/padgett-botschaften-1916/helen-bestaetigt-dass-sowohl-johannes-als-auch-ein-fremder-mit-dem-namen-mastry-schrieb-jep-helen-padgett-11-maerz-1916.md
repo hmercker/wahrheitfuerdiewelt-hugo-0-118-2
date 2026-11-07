@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass sowohl Johannes als auch ein Fremder mit dem Namen Mastry schrieb"
 menu_title: ""
-description: "Helen bestätigt, dass sowohl Johannes als auch ein Fremder mit dem Namen Mastry schrieb"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du darfst nicht daran zweifeln, was dir geschrieben wurde, sondern versuche dein Bestes, den Rat …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

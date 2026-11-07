@@ -1,7 +1,7 @@
 ---
 title: "Bringe es in die Welt!"
 menu_title: ""
-description: "Bringe es in die Welt!"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ist die Musik der Liebe nicht ein wunderschönes Geschenk, das ein Signal von oben ins Herz und durch die Ohren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

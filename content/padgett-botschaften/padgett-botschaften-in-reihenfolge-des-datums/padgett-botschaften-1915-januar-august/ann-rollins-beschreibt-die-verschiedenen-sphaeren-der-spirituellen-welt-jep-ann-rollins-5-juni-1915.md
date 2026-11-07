@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins beschreibt die verschiedenen Sphären der spirituellen Welt"
 menu_title: ""
-description: "Ann Rollins beschreibt die verschiedenen Sphären der spirituellen Welt"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich habe ziemliche Erfahrung damit, obwohl ich noch nicht eine sehr lange Zeit in der spirituellen Welt bin …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Johannes erklärt, warum es so wichtig ist, um die Göttliche Liebe zu beten"
 menu_title: ""
-description: "Johannes erklärt, warum es so wichtig ist, um die Göttliche Liebe zu beten"
+description: "Johannes, empfangen durch James Padgett: „Du musst mir also glauben und versuchen, gläubig zu empfangen, was ich heute Nacht schreiben werde, und du wirst …“"
 date: 2020-08-01 06:25:48+00:118
 draft: False
 hidden: True

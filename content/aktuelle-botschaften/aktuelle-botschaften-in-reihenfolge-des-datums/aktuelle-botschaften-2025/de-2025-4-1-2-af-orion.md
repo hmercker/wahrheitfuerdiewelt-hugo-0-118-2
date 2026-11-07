@@ -1,7 +1,7 @@
 ---
 title: "Antworte dem Ruf"
 menu_title: ""
-description: "Antworte dem Ruf"
+description: "Orion, empfangen durch Al Fike: „Es ist keine leichte Aufgabe, meine Freunde. Zumindest für euch auf dieser Erde gibt es Prüfungen, Schwierigkeiten, Kämpfe …“"
 date: 2025-04-19 06:00:00+00:00
 draft: False
 hidden: True

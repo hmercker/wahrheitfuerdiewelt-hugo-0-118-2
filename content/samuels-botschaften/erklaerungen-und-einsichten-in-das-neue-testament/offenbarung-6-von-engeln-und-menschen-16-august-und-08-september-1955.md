@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 6 : Von Engeln und Menschen"
 menu_title: ""
-description: "Offenbarung 6 : Von Engeln und Menschen"
+description: "Jesus, empfangen durch Dr Samuels: „Das Thema der heutigen Botschaft lautet: Wer waren die Engel, die vor der Erschaffung des Menschen existiert haben sollen?“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

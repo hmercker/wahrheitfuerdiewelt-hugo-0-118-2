@@ -1,7 +1,7 @@
 ---
 title: "Göttliche Romanze"
 menu_title: ""
-description: "Göttliche Romanze"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ihr seid in der Gegenwart Gottes im Glanz Seiner Liebe zusammengekommen, angezogen von der …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

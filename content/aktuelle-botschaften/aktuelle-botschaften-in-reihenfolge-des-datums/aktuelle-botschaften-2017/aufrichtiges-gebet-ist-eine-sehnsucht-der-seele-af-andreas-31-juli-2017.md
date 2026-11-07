@@ -1,7 +1,7 @@
 ---
 title: "Aufrichtiges Gebet ist eine Sehnsucht der Seele"
 menu_title: ""
-description: "Aufrichtiges Gebet ist eine Sehnsucht der Seele"
+description: "Andreas, empfangen durch Al Fike: „Nehmt euch jeden Tag Zeit im Gebet, um bei eurem himmlischen Vater zu sein, um in euch selbst zu sein, in eurer Seele …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

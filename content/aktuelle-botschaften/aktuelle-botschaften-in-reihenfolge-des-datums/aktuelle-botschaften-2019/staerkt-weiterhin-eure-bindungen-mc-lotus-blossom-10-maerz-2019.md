@@ -1,7 +1,7 @@
 ---
 title: "Stärkt weiterhin eure Bindungen"
 menu_title: ""
-description: "Stärkt weiterhin eure Bindungen"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Wir ziehen all die schönen Seelen zusammen, die zu dieser Zeit beten. Diejenigen, die sich im Retreat …“"
 date: 2020-08-01 06:25:48+00:97
 draft: False
 hidden: True

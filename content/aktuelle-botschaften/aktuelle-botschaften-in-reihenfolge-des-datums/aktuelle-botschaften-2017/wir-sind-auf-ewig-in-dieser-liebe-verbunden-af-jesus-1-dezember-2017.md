@@ -1,7 +1,7 @@
 ---
 title: "Wir sind auf ewig in dieser Liebe verbunden"
 menu_title: ""
-description: "Wir sind auf ewig in dieser Liebe verbunden"
+description: "Jesus, empfangen durch Al Fike: „Das lebendige Wasser der Liebe Gottes wäscht über euch, erfrischt euch, verändert euch, während Sein großes Geschenk sich …“"
 date: 2020-08-01 06:25:48+00:229
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Forrest freut sich über die Fortschritte, die er jetzt aus der Dunkelheit heraus macht und fühlt sich leicht wie Luft"
 menu_title: ""
-description: "Forrest freut sich über die Fortschritte, die er jetzt aus der Dunkelheit heraus macht und fühlt sich leicht wie Luft"
+description: "Forrest, empfangen durch James Padgett: „Ich werde nun nicht mehr schreiben, und ich weiß, dass du mir verzeihen wirst, dass ich eingedrungen bin.“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

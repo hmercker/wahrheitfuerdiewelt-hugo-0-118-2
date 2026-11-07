@@ -1,7 +1,7 @@
 ---
 title: "Jesus wird sich der Welt wieder offenbaren"
 menu_title: ""
-description: "Jesus wird sich der Welt wieder offenbaren"
+description: "Petrus, empfangen durch Al Fike: „Der Meister zeigte sein Licht und seine Autorität, als er zu euch sprach.“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

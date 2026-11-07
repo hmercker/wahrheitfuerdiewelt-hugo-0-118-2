@@ -1,7 +1,7 @@
 ---
 title: "Eine Einladung an die Mitglieder der Galaktischen Föderation"
 menu_title: ""
-description: "Eine Einladung an die Mitglieder der Galaktischen Föderation"
+description: "Jesus, empfangen durch Elisabeth Mack: „Meine Brüder und Schwestern in diesem Raum von meinem Vater. Mein Bruder spricht wahrhaftig und klar über das, was …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

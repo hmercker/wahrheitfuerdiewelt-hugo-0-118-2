@@ -1,7 +1,7 @@
 ---
 title: "Wie wichtig es ist, die Wahrheit über Gottes Liebe mit der Welt zu teilen"
 menu_title: ""
-description: "Wie wichtig es ist, die Wahrheit über Gottes Liebe mit der Welt zu teilen"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte euch ermutigen, mutig und stark zu sein, wenn ihr mit der Welt zu tun habt. Denn es ist leicht, in eurer …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

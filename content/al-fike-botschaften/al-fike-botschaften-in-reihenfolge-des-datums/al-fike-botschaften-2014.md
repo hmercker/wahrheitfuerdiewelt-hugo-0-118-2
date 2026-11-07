@@ -1,7 +1,7 @@
 ---
 title: "Al Fike Botschaften 2014"
 menu_title: "Al Fike Botschaften 2014"
-description: "Al Fike Botschaften vom Jahre 2014"
+description: "Al Fike Botschaften in Reihenfolge des Datums empfangen im Jahre 2014: „Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Unbekannt | …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe durchströmt die Welt"
 menu_title: ""
-description: "Die Liebe durchströmt die Welt"
+description: "Vater, empfangen durch Helge Mercker: „Ja, die Liebe durchflutet die Welt und du spürst sie sehr intensiv. Es ist meine Liebe, du bist ein Zeuge meiner …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

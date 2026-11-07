@@ -1,7 +1,7 @@
 ---
 title: "Frau Padgett bestätigt, dass Julius Cäsar schrieb"
 menu_title: ""
-description: "Frau Padgett bestätigt, dass Julius Cäsar schrieb"
+description: "Helen, empfangen durch James Padgett: „Ja, Liebes, es war Cäsar, der geschrieben hat, und er ist so glücklich und dankbar, dass er sich kaum in seinem …“"
 date: 2020-08-01 06:25:48+00:166
 draft: False
 hidden: True

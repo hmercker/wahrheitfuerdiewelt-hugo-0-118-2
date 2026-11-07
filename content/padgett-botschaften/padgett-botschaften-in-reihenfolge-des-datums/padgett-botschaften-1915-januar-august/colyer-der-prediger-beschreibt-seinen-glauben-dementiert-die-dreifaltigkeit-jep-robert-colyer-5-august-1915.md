@@ -1,7 +1,7 @@
 ---
 title: "Colyer, der Prediger, beschreibt seinen Glauben; dementiert die Dreifaltigkeit"
 menu_title: ""
-description: "Colyer, der Prediger, beschreibt seinen Glauben; dementiert die Dreifaltigkeit"
+description: "Robert Colyer, empfangen durch James Padgett: „Jetzt bin ich Prediger und meine Lehren sind die Lehren von Christus, die von den Glaubensbekenntnissen und …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

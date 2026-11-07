@@ -1,7 +1,7 @@
 ---
 title: "Widerlegt die Reinkarnation"
 menu_title: ""
-description: "Widerlegt die Reinkarnation"
+description: "Augustinus, empfangen durch Al Fike: „Ich lebe seit mehreren hundert Jahren in der Geisterwelt. Soll ich auf die Erdebene zurückkehren?“"
 date: 2022-04-18 06:00:00+00:10
 draft: False
 hidden: True

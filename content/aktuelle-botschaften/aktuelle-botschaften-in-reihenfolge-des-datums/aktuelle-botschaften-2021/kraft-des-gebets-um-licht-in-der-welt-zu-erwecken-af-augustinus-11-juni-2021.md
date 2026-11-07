@@ -1,7 +1,7 @@
 ---
 title: "Kraft des Gebets, um Licht in der Welt zu erwecken"
 menu_title: ""
-description: "Kraft des Gebets, um Licht in der Welt zu erwecken"
+description: "Augustinus, empfangen durch Al Fike: „Wir alle sind in diesem Moment bei Gott. Denn jeder von euch ist in diesen Kreis des Lichts gekommen mit der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

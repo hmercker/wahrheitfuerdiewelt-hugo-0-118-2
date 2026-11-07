@@ -1,7 +1,7 @@
 ---
 title: "Ein glorreicher Tag des Gebets"
 menu_title: ""
-description: "Ein glorreicher Tag des Gebets"
+description: "Jesus, empfangen durch Joseph: „Heute war ein glorreicher Tag des Gebets für Menschen auf der ganzen Welt. Mehr Menschen, als ihr euch vorstellen könnt …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

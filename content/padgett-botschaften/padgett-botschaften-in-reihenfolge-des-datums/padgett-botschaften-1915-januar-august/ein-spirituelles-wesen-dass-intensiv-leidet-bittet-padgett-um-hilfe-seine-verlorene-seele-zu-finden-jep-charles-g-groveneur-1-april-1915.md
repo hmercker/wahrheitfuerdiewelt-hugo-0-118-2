@@ -1,7 +1,7 @@
 ---
 title: "Ein Spirituelles Wesen, dass intensiv leidet, bittet Padgett um Hilfe seine verlorene Seele zu finden"
 menu_title: ""
-description: "Ein Spirituelles Wesen, dass intensiv leidet, bittet Padgett um Hilfe seine verlorene Seele zu finden"
+description: "Spirituelles Wesen, empfangen durch James Padgett: „Was würde ich nicht alles dafür geben, sie wieder zu haben und auf diese Weise wieder die Liebe zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

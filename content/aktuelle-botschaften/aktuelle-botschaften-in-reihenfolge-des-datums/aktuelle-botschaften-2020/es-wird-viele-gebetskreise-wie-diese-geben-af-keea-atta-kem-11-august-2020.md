@@ -1,7 +1,7 @@
 ---
 title: "Es wird viele Gebetskreise wie diese geben"
 menu_title: ""
-description: "Es wird viele Gebetskreise wie diese geben"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Ich sehe, dass es in der Zukunft viele Kreise wie diese in der Welt geben wird. Während ihr zusammenkommt, setzt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

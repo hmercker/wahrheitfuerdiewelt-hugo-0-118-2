@@ -1,7 +1,7 @@
 ---
 title: "Die göttliche Liebe ist euer, wenn ihr darum bittet"
 menu_title: ""
-description: "Die göttliche Liebe ist euer, wenn ihr darum bittet"
+description: "Yogananda, empfangen durch Al Fike: „In der Tat ist mein Lehrer gekommen, um euch zu besuchen, lieber Sohn. Er war ein großer Mann und ist immer noch ein …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Göttliche Liebe und die Mission eurer Seele auf der Erde"
 menu_title: ""
-description: "Göttliche Liebe und die Mission eurer Seele auf der Erde"
+description: "Jakobus, empfangen durch Maureen Cardoso: „Ich schließe mich euch im Kreis an, während ihr hier sitzt und um den Segen der Liebe Gottes auf eurer Seele …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

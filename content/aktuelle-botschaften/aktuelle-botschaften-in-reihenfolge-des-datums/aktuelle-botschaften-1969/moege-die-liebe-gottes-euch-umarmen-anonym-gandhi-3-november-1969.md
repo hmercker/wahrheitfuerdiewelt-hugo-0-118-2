@@ -1,7 +1,7 @@
 ---
 title: "Möge die Liebe Gottes euch umarmen"
 menu_title: ""
-description: "Möge die Liebe Gottes euch umarmen"
+description: "Gandhi: „Es bereitet uns so viel Freude und Vergnügen, mit euch zu sein, euch zu sehen, meine Freunde, meine Kinder, und euch zu beobachten, wie sich eure …“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

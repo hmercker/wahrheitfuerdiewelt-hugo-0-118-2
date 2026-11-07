@@ -1,7 +1,7 @@
 ---
 title: "Predigt 27 - Jesus erklärt Hosea's Prophezeiungen"
 menu_title: ""
-description: "Predigt 27 - Jesus erklärt Hosea's Prophezeiungen"
+description: "Jesus, empfangen durch Dr Samuels: „In meinem letzten Schreiben habe ich gezeigt, wie Hosea durch persönliches Leid lernte, dass der Vater mit einer …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

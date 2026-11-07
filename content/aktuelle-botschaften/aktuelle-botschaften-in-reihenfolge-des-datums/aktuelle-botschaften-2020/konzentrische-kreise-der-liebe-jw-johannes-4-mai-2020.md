@@ -1,7 +1,7 @@
 ---
 title: "Konzentrische Kreise der Liebe"
 menu_title: ""
-description: "Konzentrische Kreise der Liebe"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Möge hier nichts weniger als die Wahrheit gesprochen werden, damit Harmonie in der Welt, Frieden und Glaube in …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

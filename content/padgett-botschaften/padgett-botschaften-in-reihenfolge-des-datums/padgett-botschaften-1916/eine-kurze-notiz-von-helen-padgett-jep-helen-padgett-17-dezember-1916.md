@@ -1,7 +1,7 @@
 ---
 title: "Eine kurze Notiz von Helen Padgett"
 menu_title: ""
-description: "Eine kurze Notiz von Helen Padgett"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du bist müde und darfst jetzt nicht mehr schreiben. Ich will aber sagen, dass die spirituellen Wesen …“"
 date: 2020-08-01 06:25:48+00:294
 draft: False
 hidden: True

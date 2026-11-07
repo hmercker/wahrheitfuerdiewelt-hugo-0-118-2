@@ -1,7 +1,7 @@
 ---
 title: "Emerson, ein Bewohner der sechsten Sphäre, spricht von ihrer Reinheit"
 menu_title: ""
-description: "Emerson, ein Bewohner der sechsten Sphäre, spricht von ihrer Reinheit"
+description: "Ralph Waldo Emerson 1, empfangen durch James Padgett: „Gestatte mir, heute Abend über ein Thema zu schreiben, das für die Menschheit von Bedeutung ist und …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

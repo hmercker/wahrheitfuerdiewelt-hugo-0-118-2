@@ -1,7 +1,7 @@
 ---
 title: "Präsentation der Bänder"
 menu_title: ""
-description: "Präsentation der Bänder"
+description: "Jesus, empfangen durch Kathryn Stokes: „Es gibt keinen absoluten Weg, den wir haben, um dich oder andere davon zu überzeugen, dass wir die sind, die wir …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

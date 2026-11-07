@@ -1,7 +1,7 @@
 ---
 title: "Eure tiefste Beziehung ist mit eurem Schöpfer"
 menu_title: ""
-description: "Eure tiefste Beziehung ist mit eurem Schöpfer"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Liebe Seelen, jeder von euch hat eine angeborene Sehnsucht, ein angeborenes Verlangen nach Verbindung.“"
 date: 2020-08-01 06:25:48+00:259
 draft: False
 hidden: True

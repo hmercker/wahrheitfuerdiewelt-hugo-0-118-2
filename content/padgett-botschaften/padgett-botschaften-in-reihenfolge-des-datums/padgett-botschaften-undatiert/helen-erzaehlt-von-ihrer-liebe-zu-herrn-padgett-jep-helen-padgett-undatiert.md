@@ -1,7 +1,7 @@
 ---
 title: "Helen erzählt von ihrer Liebe zu Herrn Padgett"
 menu_title: ""
-description: "Helen erzählt von ihrer Liebe zu Herrn Padgett"
+description: "Helen Padgett, empfangen durch James Padgett: „Nun mein lieber Ned, du hast genug für heute Abend geschrieben. Ich möchte dir sagen, dass ich dich von …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

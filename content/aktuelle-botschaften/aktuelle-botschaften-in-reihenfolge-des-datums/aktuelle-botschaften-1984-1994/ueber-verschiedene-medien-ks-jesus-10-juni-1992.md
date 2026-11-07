@@ -1,7 +1,7 @@
 ---
 title: "Über verschiedene Medien"
 menu_title: ""
-description: "Über verschiedene Medien"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Lieber Bruder und Freund, Jesus, wenn du mich in der Verfassung findest, deine Gedanken heute Morgen klar und …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

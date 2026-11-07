@@ -1,7 +1,7 @@
 ---
 title: "Perry freut sich sehr, dass er bald in der Dritten Sphäre sein wird"
 menu_title: ""
-description: "Perry freut sich sehr, dass er bald in der Dritten Sphäre sein wird"
+description: "Ross Perry, empfangen durch James Padgett: „Gerne möchte ich dir wieder mitteilen, dass ich Fortschritte mache und die Liebe gefunden habe, von der du mir …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

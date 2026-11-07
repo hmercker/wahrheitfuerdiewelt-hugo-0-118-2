@@ -1,7 +1,7 @@
 ---
 title: "Fragen und Antworten über Dunkelheit und Chakren"
 menu_title: ""
-description: "Fragen und Antworten über Dunkelheit und Chakren"
+description: "Josephus, empfangen durch Al Fike: „Unsere geliebte Lehrerin, Keea, hat euch die Essenz der Botschaft gegeben, die wir beabsichtigen, euch und anderen zu …“"
 date: 2020-08-01 06:25:48+00:60
 draft: False
 hidden: True

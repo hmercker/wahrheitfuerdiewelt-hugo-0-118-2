@@ -1,7 +1,7 @@
 ---
 title: "Willkommen in diesem Kreis der Liebe"
 menu_title: ""
-description: "Willkommen in diesem Kreis der Liebe"
+description: "Konfuzius, empfangen durch Al Fike: „Geliebte Seelen, es ist Konfuzius. Eure Herzen freuen sich in der Tat über das Zusammenkommen.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

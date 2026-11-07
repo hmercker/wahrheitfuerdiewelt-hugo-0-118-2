@@ -1,7 +1,7 @@
 ---
 title: "Wagt euch als Gottes Instrument in die Welt"
 menu_title: ""
-description: "Wagt euch als Gottes Instrument in die Welt"
+description: "Jesus, empfangen durch Al Fike: „Ich fordere euch auf, geliebte Seelen, euch weiterhin als Werkzeuge Gottes in die Welt hinauszuwagen.“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

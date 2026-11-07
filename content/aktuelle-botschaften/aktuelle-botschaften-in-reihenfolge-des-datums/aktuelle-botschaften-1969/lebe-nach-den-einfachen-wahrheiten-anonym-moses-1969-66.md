@@ -1,7 +1,7 @@
 ---
 title: "Lebe nach den einfachen Wahrheiten"
 menu_title: ""
-description: "Lebe nach den einfachen Wahrheiten"
+description: "Moses: „Es ist lange her, daß ich zu euch gesprochen habe, aber ich möchte heute Abend zu euch kommen und zu euch sprechen, wie das Wunder dieses …“"
 date: 2020-08-01 06:25:48+00:220
 draft: False
 hidden: True

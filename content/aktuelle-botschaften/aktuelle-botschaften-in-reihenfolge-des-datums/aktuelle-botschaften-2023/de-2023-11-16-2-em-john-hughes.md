@@ -1,7 +1,7 @@
 ---
 title: "Der Ausdruck der Göttlichen Liebe ist notwendig, um die Erde zu heilen"
 menu_title: ""
-description: "Der Ausdruck der Göttlichen Liebe ist notwendig, um die Erde zu heilen"
+description: "John Hughes, empfangen durch Elisabeth Mack: „Ihr habt nach der Beziehung zwischen den menschlichen Seelen und den Erdveränderungen gefragt.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

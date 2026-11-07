@@ -1,7 +1,7 @@
 ---
 title: "Seid Liebe"
 menu_title: ""
-description: "Seid Liebe"
+description: "Maria, empfangen durch Al Fike: „Wo Liebe ist, gibt es Hoffnung. Wo es Liebe gibt, gibt es eine Erhebung.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

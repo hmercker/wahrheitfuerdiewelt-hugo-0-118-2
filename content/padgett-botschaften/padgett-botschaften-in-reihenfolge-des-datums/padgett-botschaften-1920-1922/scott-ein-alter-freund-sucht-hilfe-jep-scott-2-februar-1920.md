@@ -1,7 +1,7 @@
 ---
 title: "Scott, ein alter Freund, sucht Hilfe"
 menu_title: ""
-description: "Scott, ein alter Freund, sucht Hilfe"
+description: "Scott, empfangen von James Padgett: „Ich weiß jetzt, was der Tod bedeutet und wie wir für die Taten auf Erden bestraft werden und ich erleide meinen Teil …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

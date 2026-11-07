@@ -1,7 +1,7 @@
 ---
 title: "Eine wichtige Lektion für die Entwicklung der Medialität der Göttlichen Liebe"
 menu_title: ""
-description: "Eine wichtige Lektion für die Entwicklung der Medialität der Göttlichen Liebe"
+description: "Augustinus, empfangen durch Al Fike: „Dieses geliebte Instrument muss sich auf seinen Reisen und in seinem Dienst keine Sorgen um materielle Belange machen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit der Göttlichen Liebe"
 menu_title: ""
-description: "Die Wahrheit der Göttlichen Liebe"
+description: "Markus, empfangen durch Al Fike: „Ich residiere im himmlischen Königreich und komme heute, um zu euch zu sprechen. Wie diese beiden lieben Seelen andeuten …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

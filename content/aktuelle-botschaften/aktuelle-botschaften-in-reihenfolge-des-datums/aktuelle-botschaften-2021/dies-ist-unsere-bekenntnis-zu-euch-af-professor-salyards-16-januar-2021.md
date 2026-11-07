@@ -1,7 +1,7 @@
 ---
 title: "Dies ist unsere Bekenntnis zu euch"
 menu_title: ""
-description: "Dies ist unsere Bekenntnis zu euch"
+description: "Professor Salyards, empfangen durch Al Fike: „Meine Freunde, wir werden euch nicht im Stich lassen. Wir werden uns nicht abwenden.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

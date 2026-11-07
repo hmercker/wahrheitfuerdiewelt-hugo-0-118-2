@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft des Gebets ist der große Hebel, der die Tür zu Gott öffnet"
 menu_title: ""
-description: "Die Kraft des Gebets ist der große Hebel, der die Tür zu Gott öffnet"
+description: "Matthäus, empfangen durch Al Fike: „Die Kraft des Gebets ist der große Hebel, der die Tür zu Gott öffnet. Wie entscheidend ist es, eure Gedanken und …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

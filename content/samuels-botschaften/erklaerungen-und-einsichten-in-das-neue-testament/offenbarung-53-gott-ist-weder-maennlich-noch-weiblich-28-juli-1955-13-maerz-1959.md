@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 53 : Gott ist weder männlich noch weiblich"
 menu_title: ""
-description: "Offenbarung 53 : Gott ist weder männlich noch weiblich"
+description: "Jesus, empfangen durch Dr Samuels: „Ich freue mich, dass du mir ein weiteres Mal die Gelegenheit gibst, dir eine Botschaft zu schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

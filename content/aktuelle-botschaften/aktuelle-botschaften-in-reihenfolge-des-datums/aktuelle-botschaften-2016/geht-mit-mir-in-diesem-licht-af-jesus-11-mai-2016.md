@@ -1,7 +1,7 @@
 ---
 title: "Geht mit mir in diesem Licht"
 menu_title: ""
-description: "Geht mit mir in diesem Licht"
+description: "Jesus, empfangen durch Al Fike: „Werdet ihr eintauchen, geliebte Seelen, und in dieser Gnade sein und ihre tiefe Berührung in euch spüren und die Macht und …“"
 date: 2020-08-01 06:25:48+00:72
 draft: False
 hidden: True

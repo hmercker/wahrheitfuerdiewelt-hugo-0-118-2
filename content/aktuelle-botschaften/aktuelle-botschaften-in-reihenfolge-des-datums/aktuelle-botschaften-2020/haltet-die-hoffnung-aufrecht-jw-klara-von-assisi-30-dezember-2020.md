@@ -1,7 +1,7 @@
 ---
 title: "Haltet die Hoffnung aufrecht"
 menu_title: ""
-description: "Haltet die Hoffnung aufrecht"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Wir nähern uns einer neuen Morgendämmerung und doch fühlt ihr euch wie an einem Abgrund, mit der Aussicht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

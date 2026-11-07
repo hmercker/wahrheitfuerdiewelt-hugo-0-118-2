@@ -1,7 +1,7 @@
 ---
 title: "Loslassen der Erwartungen"
 menu_title: ""
-description: "Loslassen der Erwartungen"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte darüber sprechen, was es bedeutet, ein Kanal der Liebe in der Welt zu sein. Ihr habt von dieser geliebten …“"
 date: 2020-08-01 06:25:48+00:225
 draft: False
 hidden: True

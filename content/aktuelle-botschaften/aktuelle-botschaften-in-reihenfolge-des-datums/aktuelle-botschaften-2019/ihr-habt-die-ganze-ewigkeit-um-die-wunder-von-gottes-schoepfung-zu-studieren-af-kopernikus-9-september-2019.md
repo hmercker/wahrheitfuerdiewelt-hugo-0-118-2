@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt die ganze Ewigkeit, um die Wunder von Gottes Schöpfung zu studieren"
 menu_title: ""
-description: "Ihr habt die ganze Ewigkeit, um die Wunder von Gottes Schöpfung zu studieren"
+description: "Kopernikus 1, empfangen durch Al Fike: „Die Mysterien über Mysterien des Universums sind für jede Seele, die sich in der Liebe entwickeln und wachsen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

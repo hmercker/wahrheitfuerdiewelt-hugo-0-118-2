@@ -1,7 +1,7 @@
 ---
 title: "Salyards ist in der Siebten Sphäre und hört nie auf, Gott für Seine Liebe und Barmherzigkeit zu danken"
 menu_title: ""
-description: "Salyards ist in der Siebten Sphäre und hört nie auf, Gott für Seine Liebe und Barmherzigkeit zu danken"
+description: "Professor Salyards, empfangen durch James Padgett: „Ich möchte heute Abend ein wenig schreiben, da ich seit einiger Zeit nicht mehr geschrieben habe.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Dies ist ein Ort der Zuflucht"
 menu_title: ""
-description: "Dies ist ein Ort der Zuflucht"
+description: "Augustinus, empfangen durch Al Fike: „Es ist euer Lehrer Augustinus. Wie glücklich sind wir, den Segen des Meisters zu haben, für seine Anwesenheit in …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

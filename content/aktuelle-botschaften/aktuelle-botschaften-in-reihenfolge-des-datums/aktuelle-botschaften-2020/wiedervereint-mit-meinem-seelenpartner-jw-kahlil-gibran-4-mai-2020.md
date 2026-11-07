@@ -1,7 +1,7 @@
 ---
 title: "Wiedervereint mit meinem Seelenpartner"
 menu_title: ""
-description: "Wiedervereint mit meinem Seelenpartner"
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Ich habe gesagt, dass es viele Gaben in diesem Kreis und in eurer Gemeinschaft gibt und dass jeder etwas …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Catherine Koch spricht über ihr Ableben"
 menu_title: ""
-description: "Catherine Koch spricht über ihr Ableben"
+description: "Catherine Koch, empfangen durch Al Fike: „Meine Bemühungen, die als bloße Idee begannen, die dann aufblühten und viele Früchte trugen, haben sich wirklich …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

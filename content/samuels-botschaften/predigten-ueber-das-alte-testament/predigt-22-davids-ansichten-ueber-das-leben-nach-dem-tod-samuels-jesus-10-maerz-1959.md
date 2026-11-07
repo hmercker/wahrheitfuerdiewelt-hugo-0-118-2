@@ -1,7 +1,7 @@
 ---
 title: "Predigt 22 - Davids Ansichten über das Leben nach dem Tod"
 menu_title: ""
-description: "Predigt 22 - Davids Ansichten über das Leben nach dem Tod"
+description: "Jesus, empfangen durch Dr Samuels: „In meiner letzten Predigt habe ich anhand einiger Psalmen kurz angedeutet, wie sehr David es bedauerte, dass die …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

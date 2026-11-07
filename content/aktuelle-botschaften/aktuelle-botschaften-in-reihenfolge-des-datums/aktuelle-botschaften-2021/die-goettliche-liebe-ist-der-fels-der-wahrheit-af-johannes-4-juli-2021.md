@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe ist der Fels der Wahrheit"
 menu_title: ""
-description: "Die Göttliche Liebe ist der Fels der Wahrheit"
+description: "Johannes, empfangen durch Al Fike: „Möget ihr weiterhin auf dem Felsen der Wahrheit wohnen und euer Fundament darauf bauen. Wie wichtig ist es, eure …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

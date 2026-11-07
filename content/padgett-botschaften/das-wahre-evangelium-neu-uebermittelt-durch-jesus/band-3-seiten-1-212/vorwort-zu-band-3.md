@@ -1,7 +1,7 @@
 ---
 title: "Vorwort zu Band III"
 menu_title: ""
-description: "Vorwort zu Band III"
+description: "„Lass deine Gedanken zu Gott und Seiner Liebe gehen, und du wirst der glücklichste Mensch auf Erden sein, denn du hast in hohem Maße Seine Liebe, und du …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

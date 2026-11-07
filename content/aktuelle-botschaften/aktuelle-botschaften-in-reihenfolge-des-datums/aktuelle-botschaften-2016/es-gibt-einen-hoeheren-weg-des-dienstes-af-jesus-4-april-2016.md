@@ -1,7 +1,7 @@
 ---
 title: "Es gibt einen höheren Weg des Dienstes"
 menu_title: ""
-description: "Es gibt einen höheren Weg des Dienstes"
+description: "Jesus, empfangen durch Al Fike: „Ich habe das Licht in euch wachsen sehen, in jedem von euch brennt diese Laterne, diese Laterne der Wahrheit und der Liebe.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

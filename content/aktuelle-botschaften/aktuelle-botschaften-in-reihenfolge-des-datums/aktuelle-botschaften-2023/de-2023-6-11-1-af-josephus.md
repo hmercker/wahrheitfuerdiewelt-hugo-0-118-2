@@ -1,7 +1,7 @@
 ---
 title: "Intention ist der Schlüssel zum Gebet"
 menu_title: ""
-description: "Intention ist der Schlüssel zum Gebet"
+description: "Josephus, empfangen durch Al Fike: „Denn Gott hat jeder Seele, jedem Individuum, die Fähigkeit verliehen, zu wählen und in der Welt zu sein, und ihm alles …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

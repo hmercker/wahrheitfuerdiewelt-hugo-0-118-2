@@ -1,7 +1,7 @@
 ---
 title: "Noah's Erklärung"
 menu_title: ""
-description: "Noah's Erklärung"
+description: "Noah, empfangen durch Jimbeau Walsh: „Mein lieber Junge, du fragst nach der Flut und nach den Details und Umständen meines Lebens auf der Erde vor so …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

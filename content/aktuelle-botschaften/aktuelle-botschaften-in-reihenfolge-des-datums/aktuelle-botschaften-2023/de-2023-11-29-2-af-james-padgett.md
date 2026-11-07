@@ -1,7 +1,7 @@
 ---
 title: "Die weitreichende Wirkung, die eine kleine Entscheidung haben kann"
 menu_title: ""
-description: "Die weitreichende Wirkung, die eine kleine Entscheidung haben kann"
+description: "James Padgett, empfangen durch Al Fike: „Ihr habt in meiner Arbeit und in meinem Leben über mich gesprochen und mich so in euren Kreis gezogen.“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

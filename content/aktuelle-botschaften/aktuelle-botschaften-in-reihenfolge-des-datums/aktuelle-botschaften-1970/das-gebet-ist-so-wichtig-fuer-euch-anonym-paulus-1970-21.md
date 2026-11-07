@@ -1,7 +1,7 @@
 ---
 title: "Das Gebet ist so wichtig für euch"
 menu_title: ""
-description: "Das Gebet ist so wichtig für euch"
+description: "Paulus: „Wir haben so viel, wofür wir dankbar sein können. Der Frieden und die Harmonie, die wir erreichen und zu uns ziehen können, das Wissen und die …“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

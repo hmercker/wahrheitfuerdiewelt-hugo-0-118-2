@@ -1,7 +1,7 @@
 ---
 title: "Der Funke des Lichts in eurer Seele"
 menu_title: ""
-description: "Der Funke des Lichts in eurer Seele"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich war heute mit euch in eurem Kreis. Ich habe mich gefreut, dass ihr eurer Führung gefolgt seid und die …“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

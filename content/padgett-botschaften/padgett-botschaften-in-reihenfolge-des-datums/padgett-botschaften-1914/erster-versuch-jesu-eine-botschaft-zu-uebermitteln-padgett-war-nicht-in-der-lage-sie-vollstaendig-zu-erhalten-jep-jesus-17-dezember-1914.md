@@ -1,7 +1,7 @@
 ---
 title: "Erster Versuch Jesu, eine Botschaft zu übermitteln"
 menu_title: ""
-description: "Erster Versuch Jesu, eine Botschaft zu übermitteln"
+description: "Jesus, empfangen durch James Padgett: „Du bist nicht in der Verfassung als das ich dir davon erzählen könnte, was ich schreiben muss, weil du zu besorgt …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

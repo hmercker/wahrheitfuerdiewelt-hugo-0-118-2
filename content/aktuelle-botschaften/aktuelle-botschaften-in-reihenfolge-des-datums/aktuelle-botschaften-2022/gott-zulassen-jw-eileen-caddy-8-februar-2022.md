@@ -1,7 +1,7 @@
 ---
 title: "Gott zulassen"
 menu_title: ""
-description: "Gott zulassen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Obwohl die Welt voller Hindernisse ist und ihr diesen Druck spürt, stoßen eure Gebete Löcher in die …“"
 date: 2022-04-14 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Reinkarnation und ihre Wahrnehmung, die von vielen Yogis und Gurus des Ostens verbreitet wird"
 menu_title: ""
-description: "Reinkarnation und ihre Wahrnehmung, die von vielen Yogis und Gurus des Ostens verbreitet wird"
+description: "Yogananda, empfangen durch Al Fike: „Es wurde die Frage gestellt, wie man über vergangene Leben Bescheid weiß und dieses Wissen in seinem jetzigen Leben …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

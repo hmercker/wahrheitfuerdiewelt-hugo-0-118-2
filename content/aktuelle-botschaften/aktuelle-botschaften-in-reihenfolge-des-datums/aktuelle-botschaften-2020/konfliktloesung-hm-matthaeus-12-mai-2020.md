@@ -1,7 +1,7 @@
 ---
 title: "Konfliktlösung"
 menu_title: ""
-description: "Konfliktlösung"
+description: "Matthäus, empfangen durch Helge Mercker: „Die „Lösung des Konflikts“ sind die Worte, die du bereits aufgegriffen hast, und ich möchte mich dazu äußern.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

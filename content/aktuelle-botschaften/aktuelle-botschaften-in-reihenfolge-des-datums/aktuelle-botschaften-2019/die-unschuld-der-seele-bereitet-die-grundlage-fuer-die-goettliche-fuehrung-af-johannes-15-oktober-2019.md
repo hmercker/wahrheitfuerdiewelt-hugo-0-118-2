@@ -1,7 +1,7 @@
 ---
 title: "Die Unschuld der Seele bereitet die Grundlage für die göttliche Führung"
 menu_title: ""
-description: "Die Unschuld der Seele bereitet die Grundlage für die göttliche Führung"
+description: "Johannes, empfangen durch Al Fike: „Unsere liebe Tochter fühlt sich auf verlorenem Posten, wie ihr sagen würdet, und nicht sicher, welche Richtung sie …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

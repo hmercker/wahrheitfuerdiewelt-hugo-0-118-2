@@ -1,7 +1,7 @@
 ---
 title: Seid in der Welt, aber nicht von der Welt"
 menu_title: ""
-description: "Seid in der Welt, aber nicht von der Welt"
+description: "Augustinus, empfangen durch Al Fike: „Ich bitte euch, euch nicht auf die Bedingungen und Meinungen der verlorenen Kinder eurer Welt zu konzentrieren oder …“"
 date: 2025-07-12 06:00:00+00:10
 draft: False
 hidden: True

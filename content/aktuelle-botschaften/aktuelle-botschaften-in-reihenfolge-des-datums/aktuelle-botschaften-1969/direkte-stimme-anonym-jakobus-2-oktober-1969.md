@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme"
 menu_title: ""
-description: "Direkte Stimme"
+description: "Jakobus: „Ich stehe hier und meine Seele blutet, dass ihr nicht in der Lage seid, all diese Wahrheiten leichter zu empfangen, als ihr es in der …“"
 date: 2020-08-01 06:25:48+00:161
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Du bist allein gegangen, nun wache auf zu meiner Liebe"
 menu_title: ""
-description: "Du bist allein gegangen, nun wache auf zu meiner Liebe"
+description: "Vater, empfangen durch Child of God: „Ich rufe dich durch das Verlangen deiner Seele. Höre auf Meine Liebe und sie wird dein Herz öffnen.“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

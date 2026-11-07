@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgett wird Liebe und Kraft erhalten, um das große Werk des Meisters zu vollbringen"
 menu_title: ""
-description: "Herr Padgett wird Liebe und Kraft erhalten, um das große Werk des Meisters zu vollbringen"
+description: "Helen, empfangen durch James Padgett: „Du wirst bald erkennen, dass du über und in dir einen aufrechterhaltenden Einfluss hast, der dich befähigen wird …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

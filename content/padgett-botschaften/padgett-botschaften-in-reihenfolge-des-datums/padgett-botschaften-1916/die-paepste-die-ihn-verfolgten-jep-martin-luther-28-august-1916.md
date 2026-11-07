@@ -1,7 +1,7 @@
 ---
 title: "Die Päpste die ihn verfolgten"
 menu_title: ""
-description: "Die Päpste die ihn verfolgten"
+description: "Martin Luther, empfangen durch James Padgett: „Natürlich werde ich warten müssen, bis sie diese Botschaften geliefert haben. Ich habe jedoch keine Zweifel …“"
 date: 2020-08-01 06:25:48+00:204
 draft: False
 hidden: True

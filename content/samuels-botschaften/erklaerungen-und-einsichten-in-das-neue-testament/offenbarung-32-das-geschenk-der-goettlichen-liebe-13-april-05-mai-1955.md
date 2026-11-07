@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 32 : Das Geschenk der Göttlichen Liebe"
 menu_title: ""
-description: "Offenbarung 32 : Das Geschenk der Göttlichen Liebe"
+description: "Jesus, empfangen durch Dr Samuels: „Heute möchte ich die Frage, die du und er Doktor jüngst erörtert habt, beantworten, wann genau es für Sterbliche oder …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

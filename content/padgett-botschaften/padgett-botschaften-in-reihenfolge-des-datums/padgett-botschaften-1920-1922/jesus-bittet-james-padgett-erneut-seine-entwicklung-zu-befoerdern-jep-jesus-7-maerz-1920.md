@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet James Padgett erneut, seine Entwicklung zu befördern"
 menu_title: ""
-description: "Jesus bittet James Padgett erneut, seine Entwicklung zu befördern"
+description: "Jesus, empfangen durch James Padgett: „Lass mich dir ein paar Zeilen schreiben, denn ich sehe, dass dein Herz sich geradezu danach verzehrt, durch eine …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

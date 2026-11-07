@@ -1,7 +1,7 @@
 ---
 title: "Laßt euer Licht leuchten"
 menu_title: ""
-description: "Laßt euer Licht leuchten"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Und ihr werdet überrascht sein, wen ihr treffen werdet, wenn ihr weiterhin in die Welt hinausgeht und der Kanal …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

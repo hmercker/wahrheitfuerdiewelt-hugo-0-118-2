@@ -1,7 +1,7 @@
 ---
 title: "Antworten auf viele Fragen über den Heiligen Geist und den Himmlischen Vater"
 menu_title: ""
-description: "Antworten auf viele Fragen über den Heiligen Geist und den Himmlischen Vater"
+description: "Ann Rollins, empfangen durch James Padgett: „Du warst nicht in der Lage, dass was ich dir geschrieben hatte, zu verstehen. Du warst nur in einem Zustand …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

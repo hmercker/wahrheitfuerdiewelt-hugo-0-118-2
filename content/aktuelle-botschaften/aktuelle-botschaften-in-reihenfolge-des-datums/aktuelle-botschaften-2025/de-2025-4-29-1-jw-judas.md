@@ -1,7 +1,7 @@
 ---
 title: "Säet die Saat der Wahrheit in die Welt ohne Sorge"
 menu_title: ""
-description: "Säet die Saat der Wahrheit in die Welt ohne Sorge"
+description: "Judas, empfangen durch Jimbeau Walsh: „Auch ich möchte über das Thema sprechen, das euch allen so am Herzen liegt, nämlich die Wahrheiten der Liebe Gottes …“"
 date: 2025-07-11 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der Wandel kommt eine Seele nach der anderen"
 menu_title: ""
-description: "Der Wandel kommt eine Seele nach der anderen"
+description: "Mahatma Gandhi, empfangen durch Al Fike: „Ihr habt über die Zustände in meinem Land nachgedacht und über jene Zustände, die in vielen Teilen dieser Welt …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

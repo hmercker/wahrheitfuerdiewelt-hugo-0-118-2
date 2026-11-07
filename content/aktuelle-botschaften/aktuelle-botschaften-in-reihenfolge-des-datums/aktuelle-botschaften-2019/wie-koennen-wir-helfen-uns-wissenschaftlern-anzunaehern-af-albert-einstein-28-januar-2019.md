@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir helfen, uns Wissenschaftlern anzunähern? "
 menu_title: ""
-description: "Wie können wir helfen, uns Wissenschaftlern anzunähern? "
+description: "Albert Einstein, empfangen durch Al Fike: „Und ich frage euch, wie viele Möglichkeiten gibt es in eurer Welt, mit Sterblichen zu kommunizieren?“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

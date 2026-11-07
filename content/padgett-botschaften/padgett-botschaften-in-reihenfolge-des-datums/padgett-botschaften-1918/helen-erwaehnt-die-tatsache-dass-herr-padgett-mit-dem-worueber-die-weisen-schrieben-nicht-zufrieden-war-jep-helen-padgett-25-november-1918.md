@@ -1,7 +1,7 @@
 ---
 title: "Helen erwähnt die Tatsache, dass Herr Padgett mit dem, worüber die Weisen schrieben, nicht zufrieden war"
 menu_title: ""
-description: "Helen erwähnt die Tatsache, dass Herr Padgett mit dem, worüber die Weisen schrieben, nicht zufrieden war"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, heute Abend haben dir zwei 1 spirituelle Wesen geschrieben, die nicht zu unserer Gruppe gehören …“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

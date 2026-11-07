@@ -1,7 +1,7 @@
 ---
 title: "Segen für alle, die bei diesem Vorhaben mitgeholfen haben"
 menu_title: ""
-description: "Segen für alle, die bei diesem Vorhaben mitgeholfen haben"
+description: "Augustinus, empfangen durch Al Fike: „Ich möchte all jene Seelen anerkennen, die von vielen Orten aus mit euch gebetet haben. Sie haben ihre Zeit, ihre …“"
 date: 2020-08-01 06:25:48+00:262
 draft: False
 hidden: True

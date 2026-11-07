@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett bestätigt dass Jesus schrieb"
 menu_title: ""
-description: "Helen Padgett bestätigt dass Jesus schrieb"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hast heute Abend eine wunderbare Botschaft vom Meister erhalten, und du darfst sie gründlich …“"
 date: 2020-08-01 06:25:48+00:218
 draft: False
 hidden: True

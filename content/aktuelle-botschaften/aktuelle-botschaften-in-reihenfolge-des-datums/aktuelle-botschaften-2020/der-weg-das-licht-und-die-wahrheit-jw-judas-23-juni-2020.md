@@ -1,7 +1,7 @@
 ---
 title: "Der Weg, Das Licht und Die Wahrheit"
 menu_title: ""
-description: "Der Weg, Das Licht und Die Wahrheit"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich war heute mit dem lieben Bruder zusammen und er hat mich vorhin gefragt: \"Warum wird in dem, was zu dem wurde …“"
 date: 2020-08-01 06:25:48+00:147
 draft: False
 hidden: True

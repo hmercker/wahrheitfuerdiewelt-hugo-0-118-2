@@ -1,7 +1,7 @@
 ---
 title: "Pricilla Stone half ihrem Großvater aus der Dunkelheit herauszukommen"
 menu_title: ""
-description: "Pricilla Stone half ihrem Großvater aus der Dunkelheit herauszukommen"
+description: "Leslie Winfield, empfangen durch James Padgett: „Ich war der Großvater von Dr. Stones Mutter und war all die langen Jahre seit meiner Ankunft hier auf der …“"
 date: 2020-08-01 06:25:48+00:115
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erste erhaltene Botschaft von Herrn Padgett's Frau Helen"
 menu_title: ""
-description: "Erste erhaltene Botschaft von Herrn Padgett's Frau Helen"
+description: "Helen, empfangen durch James Padgett: „Ja, ich liebe dich und du weißt das. Wenn du zu Bett gehst, werde ich dich meine Arme um deinen Hals fühlen lassen …“"
 date: 2020-06-04 06:25:48+00:00
 draft: False
 hidden: True

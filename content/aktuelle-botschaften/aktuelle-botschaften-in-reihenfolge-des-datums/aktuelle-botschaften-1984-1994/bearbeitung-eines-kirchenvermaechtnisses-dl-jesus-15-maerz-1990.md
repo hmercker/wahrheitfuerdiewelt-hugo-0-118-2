@@ -1,7 +1,7 @@
 ---
 title: "Bearbeitung eines Kirchenvermächtnisses"
 menu_title: ""
-description: "Bearbeitung eines Kirchenvermächtnisses"
+description: "Jesus, empfangen durch David Lampron: „[Liebster Meister, Jesus, wie du sicher weißt, hat mich J gebeten, deine Kommentare in Bezug auf das Testament von L.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

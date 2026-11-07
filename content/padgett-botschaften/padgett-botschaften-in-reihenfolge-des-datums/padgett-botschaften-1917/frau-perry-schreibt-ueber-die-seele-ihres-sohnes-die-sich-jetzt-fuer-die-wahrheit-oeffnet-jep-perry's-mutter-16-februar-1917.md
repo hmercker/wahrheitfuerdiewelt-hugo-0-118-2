@@ -1,7 +1,7 @@
 ---
 title: "Frau Perry schreibt über die Seele ihres Sohnes, die sich jetzt für die Wahrheit öffnet"
 menu_title: ""
-description: "Frau Perry schreibt über die Seele ihres Sohnes, die sich jetzt für die Wahrheit öffnet"
+description: "Frau Perry, empfangen durch James Padgett: „Ich habe gehört, was Herr Taggart gerade gesagt hat, und ich fühle, daß ich auch kommen muß, um dir zu sagen …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

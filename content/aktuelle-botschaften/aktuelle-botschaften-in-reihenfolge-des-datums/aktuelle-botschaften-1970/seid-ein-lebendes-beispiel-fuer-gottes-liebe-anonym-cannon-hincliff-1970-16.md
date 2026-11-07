@@ -1,7 +1,7 @@
 ---
 title: "Seid ein lebendes Beispiel für Gottes Liebe"
 menu_title: ""
-description: "Seid ein lebendes Beispiel für Gottes Liebe"
+description: "Cannon Hincliff: „Wenn die ganze Erdenwelt Armeen für Gott haben wird, anstatt Armeen für die Zerstörung, dann werden wir Hoffnung für den Frieden auf …“"
 date: 2020-08-01 06:25:48+00:127
 draft: False
 hidden: True

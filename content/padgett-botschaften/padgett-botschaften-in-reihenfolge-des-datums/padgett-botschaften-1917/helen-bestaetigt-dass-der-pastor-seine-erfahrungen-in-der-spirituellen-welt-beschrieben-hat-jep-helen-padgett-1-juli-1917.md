@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass der Pastor seine Erfahrungen in der spirituellen Welt beschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass der Pastor seine Erfahrungen in der spirituellen Welt beschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du bist ein wenig müde, und ich muss nicht viel schreiben. Das spirituelle Wesen, das dir …“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True

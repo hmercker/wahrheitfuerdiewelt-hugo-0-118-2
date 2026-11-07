@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett kommentiert die Botschaft Jesu"
 menu_title: ""
-description: "Helen Padgett kommentiert die Botschaft Jesu"
+description: "Helen, empfangen durch James Padgett: „Du hast heute Nacht eine wunderbare Botschaft vom Meister empfangen, und sie wird bei vielen eine Überraschung …“"
 date: 2020-08-01 06:25:48+00:298
 draft: False
 hidden: True

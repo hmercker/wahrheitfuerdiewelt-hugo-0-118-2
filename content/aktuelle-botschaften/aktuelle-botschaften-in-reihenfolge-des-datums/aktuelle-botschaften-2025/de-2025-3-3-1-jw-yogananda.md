@@ -1,7 +1,7 @@
 ---
 title: "Der Weg der Welt und der Pfad der Göttlichen Liebe"
 menu_title: ""
-description: "Der Weg der Welt und der Pfad der Göttlichen Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wenn man mit Unterscheidungsvermögen und im Gebet auf die materielle Welt blickt, kann man die Sorgen der …“"
 date: 2025-03-18 06:00:00+00:10
 draft: False
 hidden: True

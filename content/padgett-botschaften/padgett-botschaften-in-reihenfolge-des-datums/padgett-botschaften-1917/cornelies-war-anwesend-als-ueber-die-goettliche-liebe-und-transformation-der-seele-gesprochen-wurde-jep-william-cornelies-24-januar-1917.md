@@ -1,7 +1,7 @@
 ---
 title: "Cornelies war anwesend, als über die Göttliche Liebe und Transformation der Seele gesprochen wurde"
 menu_title: ""
-description: "Cornelies war anwesend, als über die Göttliche Liebe und Transformation der Seele gesprochen wurde"
+description: "Cornelius, empfangen durch James Padgett: „Laß mich schreiben und dir sagen, daß ich dein Gespräch heute abend gehört habe und mich sehr für das Gesagte …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bezieht sich auf Johannes' und Paulus' und Salomo's Schreiben"
 menu_title: ""
-description: "Helen bezieht sich auf Johannes' und Paulus' und Salomo's Schreiben"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du bist müde und musst heute Abend nicht viel schreiben, denn es wird dir ein schlechtes Gewissen geben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

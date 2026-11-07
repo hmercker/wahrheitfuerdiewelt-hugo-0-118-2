@@ -1,7 +1,7 @@
 ---
 title: "Seid dankbar für das Leben"
 menu_title: ""
-description: "Seid dankbar für das Leben"
+description: "Josephus, empfangen durch Al Fike: „Möge der tiefe Segen des Heiligen Geistes eure Seele berühren. Jede Seele auf dieser Welt ist nicht von Gottes Segen …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

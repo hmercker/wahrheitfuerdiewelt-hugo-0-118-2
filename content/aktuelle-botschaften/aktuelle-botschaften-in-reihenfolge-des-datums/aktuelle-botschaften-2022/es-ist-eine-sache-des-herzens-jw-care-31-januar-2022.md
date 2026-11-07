@@ -1,7 +1,7 @@
 ---
 title: "Es ist eine Sache des Herzens"
 menu_title: ""
-description: "Es ist eine Sache des Herzens"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Denn der Weg des Herzens ist in diesem Kreis und darüber hinaus lebendig und gut. Diejenigen, die ihr …“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wir werden mit euch in diesem Heiligen Haus sein"
 menu_title: ""
-description: "Wir werden mit euch in diesem Heiligen Haus sein"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Wie ich versprochen habe, werde ich hierher kommen, wann immer ihr in \"Heiliger Kommunion\" mit der …“"
 date: 2020-08-01 06:25:48+00:85
 draft: False
 hidden: True

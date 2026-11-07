@@ -1,7 +1,7 @@
 ---
 title: "Wendet euch eher an die Seele als an den Verstand"
 menu_title: ""
-description: "Wendet euch eher an die Seele als an den Verstand"
+description: "Augustinus, empfangen durch Al Fike: „Die Diener Gottes werden morgen an einem Gottesdienst teilnehmen. Ein Ort, der euren Dienst sehr nötig hat.“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lasst den Garten in eurer Seele wachsen und erblühen"
 menu_title: ""
-description: "Lasst den Garten in eurer Seele wachsen und erblühen"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ihr zieht mich mit eurer Liebe in dieses Licht. Ihr seht, wie einfach es ist, genau wie in meinen Gesprächen …“"
 date: 2020-08-01 06:25:48+00:155
 draft: False
 hidden: True

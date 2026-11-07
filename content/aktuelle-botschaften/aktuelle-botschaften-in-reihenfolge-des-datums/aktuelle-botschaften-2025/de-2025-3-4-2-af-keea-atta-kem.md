@@ -1,7 +1,7 @@
 ---
 title: "Bereitet euch darauf vor, die Liebe zu leben"
 menu_title: ""
-description: "Bereitet euch darauf vor, die Liebe zu leben"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Der Weg zu Gott ist so einfach. In der Tat hat jeder von euch, auch wenn ihr euch abmüht, festgestellt, dass, wenn …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

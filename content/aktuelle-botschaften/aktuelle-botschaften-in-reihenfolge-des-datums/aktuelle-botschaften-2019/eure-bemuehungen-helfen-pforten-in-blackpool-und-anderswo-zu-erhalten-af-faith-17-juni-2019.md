@@ -1,7 +1,7 @@
 ---
 title: "Eure Bemühungen helfen, Pforten in Blackpool und anderswo zu erhalten"
 menu_title: ""
-description: "Eure Bemühungen helfen, Pforten in Blackpool und anderswo zu erhalten"
+description: "Faith, empfangen durch Al Fike: „Es ist wie ein Schirm, ein Vorhang, der um euch herum gezogen wurde, und das aus gutem Grund - um euch vor Bedingungen zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

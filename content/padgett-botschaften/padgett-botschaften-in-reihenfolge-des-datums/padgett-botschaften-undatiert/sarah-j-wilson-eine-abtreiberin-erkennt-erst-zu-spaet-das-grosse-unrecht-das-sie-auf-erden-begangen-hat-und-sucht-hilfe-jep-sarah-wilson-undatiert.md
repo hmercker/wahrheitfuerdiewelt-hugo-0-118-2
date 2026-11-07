@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Wilson, eine Abtreiberin, erkennt erst zu spät das große Unrecht, das sie auf Erden begangen hat, und sucht Hilfe"
 menu_title: ""
-description: "Sarah J. Wilson, eine Abtreiberin, erkennt erst zu spät das große Unrecht, das sie auf Erden begangen hat, und sucht Hilfe"
+description: "Sarah Wilson, empfangen durch James Padgett: „Lass mich schreiben, denn ich brauche so sehr Hilfe. Als ich auf der Erde war, habe ich versucht, meinen …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

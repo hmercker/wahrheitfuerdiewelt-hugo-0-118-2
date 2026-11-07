@@ -1,7 +1,7 @@
 ---
 title: "Die Erlaubnis der niederen spirituellen Wesen die Kontrolle zu übernehmen, haben Padgett so sehr deprimiert, dass er den Glauben an die göttlichen spirituellen Wesen verloren hat"
 menu_title: ""
-description: "Die Erlaubnis der niederen spirituellen Wesen die Kontrolle zu übernehmen, haben Padgett so sehr deprimiert, dass er den Glauben an die göttlichen spirituellen Wesen verloren hat"
+description: "Johannes, empfangen durch James Padgett: „Du warst in den letzten Tagen sehr deprimiert, was zum großen Teil darauf zurückzuführen ist, dass du den bösen …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

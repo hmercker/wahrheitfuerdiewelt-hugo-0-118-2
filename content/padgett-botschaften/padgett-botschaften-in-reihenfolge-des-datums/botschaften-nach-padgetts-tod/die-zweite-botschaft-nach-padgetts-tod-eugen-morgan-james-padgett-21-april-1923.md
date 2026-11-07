@@ -1,7 +1,7 @@
 ---
 title: "Dies zweite Botschaft nach Padgett's Tod"
 menu_title: ""
-description: "Dies zweite Botschaft nach Padgett's Tod"
+description: "James E. Padgett, empfangen durch Eugene Morgan etwa: „Nun, Morgan, da ich wieder hier bin, muss ich sagen, dass nichts, was ich mir je vorstellen konnte …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Seele betonen"
 menu_title: ""
-description: "Das Erwachen der Seele betonen"
+description: "Orion, empfangen durch Al Fike: „Ich danke euch für eure Hingabe, eure Beständigkeit und eure Gebete. Wenn die ganze Welt so hingebungsvoll wäre wie ihr …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

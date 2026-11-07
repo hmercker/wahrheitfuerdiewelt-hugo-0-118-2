@@ -1,7 +1,7 @@
 ---
 title: "Jeder Tag ist ein Geschenk des Neuanfangs"
 menu_title: ""
-description: "Jeder Tag ist ein Geschenk des Neuanfangs"
+description: "Yogananda, empfangen durch Al Fike: „Es ist ein Geschenk für euch, dieser Tag, meine Freunde. Jeder Tag, diese Berührung, dieser süße Nektar der Liebe wird …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

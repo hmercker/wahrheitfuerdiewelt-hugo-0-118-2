@@ -1,7 +1,7 @@
 ---
 title: "Ermutigt uns, das Werk von James Padgett fortzuführen"
 menu_title: ""
-description: "Ermutigt uns, das Werk von James Padgett fortzuführen"
+description: "Leslie Stone, empfangen durch Al Fike: „Ich freue mich so sehr, dass ihr die Arbeit fortsetzt, die mit James und meiner Unterstützung dabei begonnen hat.“"
 date: 2025-01-16 06:00:00+00:10
 draft: False
 hidden: True

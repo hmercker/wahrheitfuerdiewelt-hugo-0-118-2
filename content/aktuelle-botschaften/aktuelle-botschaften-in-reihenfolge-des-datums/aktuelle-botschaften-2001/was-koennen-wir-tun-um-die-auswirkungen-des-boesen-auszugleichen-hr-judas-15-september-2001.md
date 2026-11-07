@@ -1,7 +1,7 @@
 ---
 title: "Was können wir tun, um die Auswirkungen des Bösen auszugleichen?"
 menu_title: ""
-description: "Was können wir tun, um die Auswirkungen des Bösen auszugleichen?"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder H , bei so vielen Kriegs- und Racheschreien glaube ich, dass es sich lohnt, in dieser Hinsicht ein paar …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

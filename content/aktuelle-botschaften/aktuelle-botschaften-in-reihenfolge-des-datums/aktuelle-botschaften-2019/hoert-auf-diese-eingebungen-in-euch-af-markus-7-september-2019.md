@@ -1,7 +1,7 @@
 ---
 title: "Hört auf diese Eingebungen in euch"
 menu_title: ""
-description: "Hört auf diese Eingebungen in euch"
+description: "Markus, empfangen durch Al Fike: „Ich möchte jedem von euch, geliebte Freunde, sagen, dass ihr die ganze Woche über einen Engel bei euch haben werdet …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

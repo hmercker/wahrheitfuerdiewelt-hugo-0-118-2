@@ -1,7 +1,7 @@
 ---
 title: "Die diamantenen Lichter eures Seins"
 menu_title: ""
-description: "Die diamantenen Lichter eures Seins"
+description: "Lotus Blossom, empfangen durch Al Fike: „Der Körper reagiert auf eure Gedanken, geliebte Seelen, auf viele verschiedene Arten. Wenn ihr positive Gedanken …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

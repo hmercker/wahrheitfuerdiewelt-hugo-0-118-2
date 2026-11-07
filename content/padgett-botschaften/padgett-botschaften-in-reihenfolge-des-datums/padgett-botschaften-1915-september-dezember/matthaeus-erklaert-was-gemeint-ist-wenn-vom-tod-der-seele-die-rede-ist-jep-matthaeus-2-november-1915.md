@@ -1,7 +1,7 @@
 ---
 title: "Matthäus erklärt was gemeint ist, wenn vom Tod der Seele die Rede ist"
 menu_title: ""
-description: "Matthäus erklärt was gemeint ist, wenn vom Tod der Seele die Rede ist"
+description: "Matthäus, empfangen durch James Padgett: „Ich habe dir schon lange nicht geschrieben, und ich möchte ein paar Worte über Themen sagen, das die Seele und …“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

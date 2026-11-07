@@ -1,7 +1,7 @@
 ---
 title: "Engel sind an eurer Seite"
 menu_title: ""
-description: "Engel sind an eurer Seite"
+description: "Jesus, empfangen durch Al Fike: „So macht ihr es uns im Himmelreich leichter, auf die Erdebene zu kommen und mit euch zu beten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

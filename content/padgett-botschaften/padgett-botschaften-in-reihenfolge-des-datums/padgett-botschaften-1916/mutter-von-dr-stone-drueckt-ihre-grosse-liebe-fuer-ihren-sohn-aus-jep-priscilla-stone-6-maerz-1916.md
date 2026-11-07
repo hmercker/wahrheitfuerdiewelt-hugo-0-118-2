@@ -1,7 +1,7 @@
 ---
 title: "Mutter von Dr. Stone drückt ihre große Liebe für ihren Sohn aus"
 menu_title: ""
-description: "Mutter von Dr. Stone drückt ihre große Liebe für ihren Sohn aus"
+description: "Frau Stone, empfangen durch James Padgett: „Sein Vater ist auch sehr glücklich und macht Fortschritte und ist jetzt in der Lage, bald dafür zu sorgen, dass …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

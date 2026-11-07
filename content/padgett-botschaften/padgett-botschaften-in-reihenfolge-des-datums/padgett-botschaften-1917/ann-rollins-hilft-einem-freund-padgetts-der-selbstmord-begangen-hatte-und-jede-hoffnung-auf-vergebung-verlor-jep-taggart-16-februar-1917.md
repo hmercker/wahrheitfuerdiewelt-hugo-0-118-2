@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins hilft einem Freund Padgett's, der Selbstmord begangen hatte und jede Hoffnung auf Vergebung verlor"
 menu_title: ""
-description: "Ann Rollins hilft einem Freund Padgett's, der Selbstmord begangen hatte und jede Hoffnung auf Vergebung verlor"
+description: "Taggart, empfangen durch James Padgett: „Lass mich nur ein Wort sagen, denn ich möchte dir sagen, dass Perry durch das Erscheinen gewisser Selbstmorde ihm …“"
 date: 2020-08-01 06:25:48+00:110
 draft: False
 hidden: True

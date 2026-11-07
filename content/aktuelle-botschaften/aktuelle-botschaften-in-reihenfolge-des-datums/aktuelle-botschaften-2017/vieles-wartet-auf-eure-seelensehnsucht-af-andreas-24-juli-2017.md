@@ -1,7 +1,7 @@
 ---
 title: "Vieles wartet auf eure Seelensehnsucht"
 menu_title: ""
-description: "Vieles wartet auf eure Seelensehnsucht"
+description: "Andreas, empfangen durch Al Fike: „Viele Engel umgeben euch in dieser Zeit, geliebte Seelen, denn so wie ihr den Himmlischen Vater um Seine Liebe anfleht …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

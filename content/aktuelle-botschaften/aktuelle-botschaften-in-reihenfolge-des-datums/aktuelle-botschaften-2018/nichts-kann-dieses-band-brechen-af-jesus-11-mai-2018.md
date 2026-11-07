@@ -1,7 +1,7 @@
 ---
 title: "Nichts kann dieses Band brechen"
 menu_title: ""
-description: "Nichts kann dieses Band brechen"
+description: "Jesus, empfangen durch Al Fike: „Ihr werdet von Gott in der heiligen Verbundenheit beansprucht, im Licht und in der immerwährenden Liebe ist euer Geschenk …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

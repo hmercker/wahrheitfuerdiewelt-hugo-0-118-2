@@ -1,7 +1,7 @@
 ---
 title: "Wie kann man Vater und Mutter ehren, wenn sie gewalttätiges oder missbräuchliches Verhalten befürworten?"
 menu_title: ""
-description: "Wie kann man Vater und Mutter ehren, wenn sie gewalttätiges oder missbräuchliches Verhalten befürworten?"
+description: "Maria, empfangen durch Amada Reza: „Ich freue mich sehr, zu diesem Zeitpunkt zu kommen, um auf die Frage unseres Bruders einzugehen, wie man Vater und …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

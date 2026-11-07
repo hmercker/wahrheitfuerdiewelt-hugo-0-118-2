@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe unter uns fördern"
 menu_title: ""
-description: "Die Liebe unter uns fördern"
+description: "James Padgett & Dr Stone, empfangen durch Amada Reza: „[Lieber Gott, ich bete um ein Einströmen Deiner Göttlichen Liebe in dieser Zeit, damit ich in …“"
 date: 2020-08-01 06:25:48+00:168
 draft: False
 hidden: True

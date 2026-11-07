@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt, wie Saleeba durch Padgett sprechen würde"
 menu_title: ""
-description: "Helen erklärt, wie Saleeba durch Padgett sprechen würde"
+description: "Helen, empfangen durch James Padgett: „Ich sehe, dass du mich in meinem Schreiben abkürzen wirst, aber ich weiß, dass du mich genauso liebst und ich liebe …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

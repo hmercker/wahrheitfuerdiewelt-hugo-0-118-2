@@ -1,7 +1,7 @@
 ---
 title: "Die wahre Bestimmung eurer Seele in der Welt"
 menu_title: ""
-description: "Die wahre Bestimmung eurer Seele in der Welt"
+description: "Jesus, empfangen durch Al Fike: „Ihr sollt wissen, dass Gott einen Plan für jeden von euch hat, dass Gott beabsichtigt, dass jeder von euch in den …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

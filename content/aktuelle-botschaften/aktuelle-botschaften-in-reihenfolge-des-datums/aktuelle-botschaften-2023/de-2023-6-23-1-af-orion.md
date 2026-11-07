@@ -1,7 +1,7 @@
 ---
 title: "Engel betreuen und beschützen euch"
 menu_title: ""
-description: "Engel betreuen und beschützen euch"
+description: "Orion, empfangen durch Al Fike: „Möge dieser gemeinsame Tag gesegnet sein. Die Harmonie, die ihr spürt, ist die Harmonie eurer Seelen, die sich an eurer …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

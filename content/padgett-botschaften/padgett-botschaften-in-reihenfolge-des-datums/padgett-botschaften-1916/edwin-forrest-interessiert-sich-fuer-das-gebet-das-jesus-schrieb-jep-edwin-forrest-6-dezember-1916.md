@@ -1,7 +1,7 @@
 ---
 title: "Edwin Forrest interessiert sich für das Gebet, das Jesus schrieb"
 menu_title: ""
-description: "Edwin Forrest interessiert sich für das Gebet, das Jesus schrieb"
+description: "Edwin Forrest, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen. Ich weiß, dass es schon spät ist, aber ich habe deinem Lesen und deiner …“"
 date: 2020-08-01 06:25:48+00:282
 draft: False
 hidden: True

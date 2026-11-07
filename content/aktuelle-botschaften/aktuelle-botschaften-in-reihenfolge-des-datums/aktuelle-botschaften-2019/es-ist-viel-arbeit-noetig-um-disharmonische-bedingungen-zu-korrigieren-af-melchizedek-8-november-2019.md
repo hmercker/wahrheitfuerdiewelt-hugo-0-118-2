@@ -1,7 +1,7 @@
 ---
 title: "Es ist viel Arbeit nötig, um disharmonische Bedingungen zu korrigieren"
 menu_title: ""
-description: "Es ist viel Arbeit nötig, um disharmonische Bedingungen zu korrigieren"
+description: "Melchizedek, empfangen durch Al Fike: „Es gibt viel Arbeit, die in dieser Welt getan werden muss. Viel Arbeit, um die disharmonischen Zustände zu …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

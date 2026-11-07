@@ -1,7 +1,7 @@
 ---
 title: "Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht "
 menu_title: ""
-description: "Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht "
+description: "John Wesley, empfangen durch James Padgett: „Ich möchte auch ein Wort schreiben, denn ich war dabei, als der Meister euch seine große Liebe schenkte und …“"
 date: 2020-08-01 06:25:48+00:211
 draft: False
 hidden: True

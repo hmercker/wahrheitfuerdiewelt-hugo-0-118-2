@@ -1,7 +1,7 @@
 ---
 title: "Ein Gespräch über Kinder"
 menu_title: ""
-description: "Ein Gespräch über Kinder"
+description: "Maria empfangen durch Al Fike: „Die Kinder sind eure Zukunft. Sie bringen die Bestimmung von Gottes Willen in diese Welt und doch sind so viele verloren …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Aus den Höllen herauskommen"
 menu_title: ""
-description: "Aus den Höllen herauskommen"
+description: "Judas, empfangen durch H.: „Ich möchte meine Botschaft von gestern fortsetzen. \"Der Schlüssel zu unserer Rettungsarbeit ist die Schaffung eines Zustandes …“"
 date: 2020-08-01 06:25:48+00:257
 draft: False
 hidden: True

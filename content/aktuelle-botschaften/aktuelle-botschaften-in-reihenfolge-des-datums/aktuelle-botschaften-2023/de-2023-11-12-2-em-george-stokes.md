@@ -1,7 +1,7 @@
 ---
 title: "Lebt dieses Leben mit eurer erweiterten Liebe"
 menu_title: ""
-description: "Lebt dieses Leben mit eurer erweiterten Liebe"
+description: "George Stokes, empfangen durch Elisabeth Mack: „Denn in diesem Moment strahlt Gott seine Liebe auf jede Seele auf der ganzen Welt aus. Gottes Segen wird …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

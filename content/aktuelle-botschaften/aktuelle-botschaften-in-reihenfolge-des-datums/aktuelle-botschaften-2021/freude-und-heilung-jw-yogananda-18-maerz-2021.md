@@ -1,7 +1,7 @@
 ---
 title: "Freude und Heilung"
 menu_title: ""
-description: "Freude und Heilung"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Wir alle hier in den himmlischen Reichen leben in Freude und Glückseligkeit und einem unvergleichlichen Glück.“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

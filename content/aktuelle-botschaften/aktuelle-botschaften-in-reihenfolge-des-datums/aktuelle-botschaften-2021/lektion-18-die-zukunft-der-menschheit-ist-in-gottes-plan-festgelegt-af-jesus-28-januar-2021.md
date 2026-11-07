@@ -1,7 +1,7 @@
 ---
 title: "Lektion 18 - Die Zukunft der Menschheit ist in Gottes Plan festgelegt"
 menu_title: ""
-description: "Lektion 18 - Die Zukunft der Menschheit ist in Gottes Plan festgelegt"
+description: "Jesus, empfangen durch Al Fike: „Ich habe weiterhin große Liebe und konzentriere mich auf die (Menschen) der Erdenebene, denn diese Ebene ist ein äußerst …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

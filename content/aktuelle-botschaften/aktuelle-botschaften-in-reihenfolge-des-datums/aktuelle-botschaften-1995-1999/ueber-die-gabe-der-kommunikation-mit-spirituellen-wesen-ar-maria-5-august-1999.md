@@ -1,7 +1,7 @@
 ---
 title: "Über die Gabe der Kommunikation mit spirituellen Wesen"
 menu_title: ""
-description: "Über die Gabe der Kommunikation mit spirituellen Wesen"
+description: "Maria, empfangen durch Amada Reza: „[Lieber Himmlischer Vater/Mutter-Gott, ich weiß, dass Du nicht von der Materie bist, wenn ich Dich Vater/Mutter nenne …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

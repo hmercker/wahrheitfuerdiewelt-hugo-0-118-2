@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt die Botschaft von Michael Collier"
 menu_title: ""
-description: "Bestätigt die Botschaft von Michael Collier"
+description: "Charles Darwin, empfangen durch Al Fike: „Ich bestätige nur, was unser Freund gesagt hat. Ich stimme mit seiner Beschreibung der Evolution überein.“"
 date: 2025-01-23 06:00:00+00:10
 draft: False
 hidden: True

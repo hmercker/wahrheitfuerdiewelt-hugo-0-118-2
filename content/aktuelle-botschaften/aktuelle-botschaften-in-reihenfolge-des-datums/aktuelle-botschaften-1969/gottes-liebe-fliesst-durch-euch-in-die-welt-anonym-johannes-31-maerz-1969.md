@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe fließt durch euch in die Welt"
 menu_title: ""
-description: "Gottes Liebe fließt durch euch in die Welt"
+description: "Johannes: „Ihr habt meine Evangelien der Liebe gelesen und ich habe viel über dieses Thema gesprochen.“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

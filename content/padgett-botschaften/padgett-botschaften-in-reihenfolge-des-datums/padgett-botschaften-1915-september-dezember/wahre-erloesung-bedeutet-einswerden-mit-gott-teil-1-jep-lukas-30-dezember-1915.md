@@ -1,7 +1,7 @@
 ---
 title: "Wahre Erlösung bedeutet Eins-Werden mit Gott -Teil 1"
 menu_title: ""
-description: "Wahre Erlösung bedeutet Eins-Werden mit Gott -Teil 1"
+description: "Lukas, empfangen durch James Padgett: „Ich möchte dir erzählen, dass die Liebe, von der wir dir geschrieben haben, die einzige Liebe ist, die ein …“"
 date: 2020-08-01 06:25:48+00:233
 draft: False
 hidden: True

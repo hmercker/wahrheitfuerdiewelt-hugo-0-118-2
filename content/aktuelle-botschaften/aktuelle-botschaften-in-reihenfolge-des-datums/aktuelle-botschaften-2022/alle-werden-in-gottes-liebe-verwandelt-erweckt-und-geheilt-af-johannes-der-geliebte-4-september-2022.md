@@ -1,7 +1,7 @@
 ---
 title: "Alle werden in Gottes Liebe verwandelt, erweckt und geheilt"
 menu_title: ""
-description: "Alle werden in Gottes Liebe verwandelt, erweckt und geheilt"
+description: "Johannes der Geliebte, empfangen durch Al Fike: „Gottes Liebe sei mit euch, Geliebte. Denn in Gott sind alle Lösungen möglich, alle Dilemmas werden …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

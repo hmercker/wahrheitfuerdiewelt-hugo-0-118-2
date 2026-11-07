@@ -1,7 +1,7 @@
 ---
 title: "Josephus bekräftigt, dass Jesus ein wahrer Sohn Gottes ist, auf Erden lebte und gekreuzigt wurde"
 menu_title: ""
-description: "Josephus bekräftigt, dass Jesus ein wahrer Sohn Gottes ist, auf Erden lebte und gekreuzigt wurde"
+description: "Josephus, empfangen durch James Padgett: „Du bist kein Mann, den man allein lassen sollte. Ich meine, dass ich etwas von meinem Wissen über die Dinge jener …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

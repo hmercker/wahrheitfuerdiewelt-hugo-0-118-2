@@ -1,7 +1,7 @@
 ---
 title: "Predigt 10 - Menschliche Liebe ist eine Voraussetzung für die Wertschätzung der Göttlichen Liebe"
 menu_title: ""
-description: "Predigt 10 - Menschliche Liebe ist eine Voraussetzung für die Wertschätzung der Göttlichen Liebe"
+description: "Jesus, empfangen durch Dr Samuels: „In meiner neunten Predigt habe ich über das Neue Herz geschrieben und darüber, wie in den langen Zeiträumen, die im …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

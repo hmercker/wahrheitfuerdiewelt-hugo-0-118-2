@@ -1,7 +1,7 @@
 ---
 title: "Haltet euer Herz offen"
 menu_title: ""
-description: "Haltet euer Herz offen"
+description: "Johannes der Geliebte, empfangen durch Jimbeau Walsh: „Der Meister sagte: „Lass dein Auge allein”, und so will ich es auch zu euch sagen. Was auch immer …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

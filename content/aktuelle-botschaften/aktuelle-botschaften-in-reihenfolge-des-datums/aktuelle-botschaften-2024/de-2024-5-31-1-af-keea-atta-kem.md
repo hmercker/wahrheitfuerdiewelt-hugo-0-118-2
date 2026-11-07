@@ -1,7 +1,7 @@
 ---
 title: "Die Stimme Gottes liegt in der Luft"
 menu_title: ""
-description: "Die Stimme Gottes liegt in der Luft"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Er flüstert in euer Ohr und schenkt euch die süßen Klänge und die Wahrheit seiner Liebe. Er ist jedem einzelnen …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

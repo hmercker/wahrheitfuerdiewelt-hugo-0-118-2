@@ -1,7 +1,7 @@
 ---
 title: "Um Gottes Liebe bitten und sie empfangen "
 menu_title: ""
-description: "Um Gottes Liebe bitten und sie empfangen "
+description: "Andreas, empfangen durch Al Fike: „Mögen die Segnungen der Liebe euch einhüllen und euch mit Seinem tiefen Frieden und Seiner Liebe für jeden von euch umarmen.“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

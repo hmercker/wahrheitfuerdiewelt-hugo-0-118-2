@@ -1,7 +1,7 @@
 ---
 title: "Gebet, die beste Vorbereitung"
 menu_title: ""
-description: "Gebet, die beste Vorbereitung"
+description: "Josef, empfangen durch Kathryn Stokes: „[Lieber Himmlischer Vater, jemand in unserer erweiterten spirituellen Familie fragte sich, ob die dienenden Engel …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

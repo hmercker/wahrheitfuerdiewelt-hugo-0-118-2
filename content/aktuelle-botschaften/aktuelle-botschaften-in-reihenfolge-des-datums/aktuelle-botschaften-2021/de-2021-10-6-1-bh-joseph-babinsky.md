@@ -1,7 +1,7 @@
 ---
 title: ""
 menu_title: ""
-description: ""
+description: "Joseph Babinsky, empfangen durch Brian Holmes: „Danke, dass du in der Nähe bist, Joseph Babinsky. Es ist schön, von dir zu hören.]“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

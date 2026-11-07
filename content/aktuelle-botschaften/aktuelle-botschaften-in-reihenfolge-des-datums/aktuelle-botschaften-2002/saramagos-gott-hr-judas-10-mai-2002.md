@@ -1,7 +1,7 @@
 ---
 title: "Saramago's Gott"
 menu_title: ""
-description: "Saramago's Gott"
+description: "Judas, empfangen durch H.: „Sicherlich sehr wenig, wie ich in meiner letzten Botschaft bemerkte. Gott ist für den menschlichen Verstand nicht zugänglich …“"
 date: 2020-08-01 06:25:48+00:226
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gott beantwortet alle Gebete"
 menu_title: ""
-description: "Gott beantwortet alle Gebete"
+description: "Jesus: „„Überschütte sie, Vater, mit der Essenz deiner Göttlichen Liebe, damit jeder hier den Frieden und das Glück fühlt und erneuert hinausgeht.“"
 date: 2020-08-01 06:25:48+00:194
 draft: False
 hidden: True

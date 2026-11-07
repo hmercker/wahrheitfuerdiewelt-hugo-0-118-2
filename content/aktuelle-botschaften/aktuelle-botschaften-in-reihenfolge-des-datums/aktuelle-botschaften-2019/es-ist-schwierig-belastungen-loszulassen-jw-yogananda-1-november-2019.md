@@ -1,7 +1,7 @@
 ---
 title: "Es ist schwierig, Belastungen loszulassen"
 menu_title: ""
-description: "Es ist schwierig, Belastungen loszulassen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Diese Welt, die so sehr von materiellem Verlangen und Angst umhüllt ist, mit so viel Dunkelheit.“"
 date: 2020-08-01 06:25:48+00:133
 draft: False
 hidden: True

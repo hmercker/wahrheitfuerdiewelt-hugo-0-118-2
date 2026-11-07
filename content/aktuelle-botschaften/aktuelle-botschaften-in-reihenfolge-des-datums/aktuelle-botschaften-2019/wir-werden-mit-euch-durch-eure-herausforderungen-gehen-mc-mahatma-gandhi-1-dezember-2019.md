@@ -1,7 +1,7 @@
 ---
 title: "Wir werden mit euch durch eure Herausforderungen gehen"
 menu_title: ""
-description: "Wir werden mit euch durch eure Herausforderungen gehen"
+description: "Mahatma Gandhi, empfangen durch Maureen Cardoso: „Darf ich sagen, dass dieses liebe Instrument sich mit mir unterhielt, bevor sie mir erlaubte zu sprechen.“"
 date: 2020-08-01 06:25:48+00:151
 draft: False
 hidden: True

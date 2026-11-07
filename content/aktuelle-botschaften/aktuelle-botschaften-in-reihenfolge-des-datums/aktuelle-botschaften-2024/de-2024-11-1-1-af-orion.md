@@ -1,7 +1,7 @@
 ---
 title: "Multi-Dimensionen der Schöpfung Gottes"
 menu_title: ""
-description: "Multi-Dimensionen der Schöpfung Gottes"
+description: "Orion, empfangen durch Al Fike: „Möge die große Liebe des Schöpfers in eure Seele eindringen und euch auf dem ewigen Weg des Lebens voranbringen.“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

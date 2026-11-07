@@ -1,7 +1,7 @@
 ---
 title: "Die Zustände in der Welt als Jesus zum lehren kam"
 menu_title: ""
-description: "Die Zustände in der Welt als Jesus zum lehren kam"
+description: "Jesus, empfangen durch James Padgett: „Es geht dir heute Abend besser und ich werde versuchen ein bisschen zu schreiben. Ich weiß nicht, ob du in der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

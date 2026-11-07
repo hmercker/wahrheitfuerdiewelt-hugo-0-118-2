@@ -1,7 +1,7 @@
 ---
 title: "Lacht im Ernst des Lernens spiritueller Dinge"
 menu_title: ""
-description: "Lacht im Ernst des Lernens spiritueller Dinge"
+description: "Goldie, empfangen durch Al Fike: „Manchmal sind meine Lehrerfreunde zu ernst, denke ich, und sie vergessen, dass alles Lernen durch Freude Spaß gemacht wird.“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

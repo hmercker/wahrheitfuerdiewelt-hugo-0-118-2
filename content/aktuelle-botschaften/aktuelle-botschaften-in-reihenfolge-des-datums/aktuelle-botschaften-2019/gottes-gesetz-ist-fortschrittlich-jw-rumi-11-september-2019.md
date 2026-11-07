@@ -1,7 +1,7 @@
 ---
 title: "Gottes Gesetz ist fortschrittlich"
 menu_title: ""
-description: "Gottes Gesetz ist fortschrittlich"
+description: "Rumi, empfangen durch Jimbeau Walsh: „Ich möchte jenen in eurer Welt vermitteln, dass ihre Gedanken über jene von uns, die etwas berühmt waren, während wir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

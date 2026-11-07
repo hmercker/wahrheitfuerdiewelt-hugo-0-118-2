@@ -1,7 +1,7 @@
 ---
 title: "Ein sanfter Regen aus Licht fällt auf die Erde"
 menu_title: ""
-description: "Ein sanfter Regen aus Licht fällt auf die Erde"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Stellt euch vor, die ganze Erde wäre offen, diesen sanften Fluss von Licht und Liebe des Vaters zu empfangen.“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Herr Padgett's Cousine sucht seine Hilfe"
 menu_title: ""
-description: "Herr Padgett's Cousine sucht seine Hilfe"
+description: "Laura Burrough, empfangen durch James Padgett: „Oh, mein lieber Edward, du unternimmst etwas um mir zu helfen. Ich fühle, dass du mir helfen kannst, also …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

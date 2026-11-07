@@ -1,7 +1,7 @@
 ---
 title: "Erstaunt über die wunderbare Herrlichkeit des Meisters"
 menu_title: ""
-description: "Erstaunt über die wunderbare Herrlichkeit des Meisters"
+description: "White Eagle, empfangen von James Padgett: „Ich möchte sagen, dass du heute Abend in einer sehr guten Verfassung bist und dass eine große spirituelle Kraft …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

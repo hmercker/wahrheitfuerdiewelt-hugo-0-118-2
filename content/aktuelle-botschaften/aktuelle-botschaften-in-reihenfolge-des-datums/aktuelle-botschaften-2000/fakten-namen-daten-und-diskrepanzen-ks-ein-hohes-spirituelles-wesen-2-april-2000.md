@@ -1,7 +1,7 @@
 ---
 title: "Fakten, Namen, Daten und Diskrepanzen"
 menu_title: ""
-description: "Fakten, Namen, Daten und Diskrepanzen"
+description: "Ein hohes spirituelles Wesen, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich bete für ein großes Einströmen Deiner Göttlichen Liebe in …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

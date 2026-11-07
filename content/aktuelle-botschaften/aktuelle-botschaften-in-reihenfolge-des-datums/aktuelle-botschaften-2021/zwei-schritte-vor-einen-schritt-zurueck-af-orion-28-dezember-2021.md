@@ -1,7 +1,7 @@
 ---
 title: "Zwei Schritte vor, einen Schritt zurück"
 menu_title: ""
-description: "Zwei Schritte vor, einen Schritt zurück"
+description: "Orion, empfangen durch Al Fike: „Wir haben an jedem von euch in eurem physischen und spirituellen Körper gearbeitet und euch dabei geholfen, Zustände zu …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

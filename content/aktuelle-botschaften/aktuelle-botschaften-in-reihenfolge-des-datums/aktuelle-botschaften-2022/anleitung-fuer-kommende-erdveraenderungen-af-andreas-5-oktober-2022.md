@@ -1,7 +1,7 @@
 ---
 title: "Anleitung für kommende Erdveränderungen"
 menu_title: ""
-description: "Anleitung für kommende Erdveränderungen"
+description: "Andreas, empfangen durch Al Fike: „Ihr führt wichtige Gespräche über eure Zukunft und versucht, Gottes Willen zu erfüllen und euch auf die Veränderungen …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

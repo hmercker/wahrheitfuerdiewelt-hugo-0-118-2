@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die vorhergehende Botschaft und bestätigt die Identität Jesu"
 menu_title: ""
-description: "Helen kommentiert die vorhergehende Botschaft und bestätigt die Identität Jesu"
+description: "Helen, empfangen durch James Padgett: „Nun, hat der Herr nicht auf eine einfache Weise erklärt, was eine verlorengegangene Seele bedeutet?“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft über den Glauben und den Blick nach innen"
 menu_title: ""
-description: "Eine Botschaft über den Glauben und den Blick nach innen"
+description: "Johannes Markus, empfangen durch H.: „Bitte, beruhige dich, H , alles ist in Ordnung. Ja, ich weiß, du hast einen anderen spirituelles Wesen gesehen, einen …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Habt Vertrauen in Gottes Verheißung"
 menu_title: ""
-description: "Habt Vertrauen in Gottes Verheißung"
+description: "Jesus, empfangen durch Elisabeth Mack: „Meine Kinder, unser Vater arbeitet, er nimmt alle seine Kinder in seinen Schoß auf und bringt Licht und mehr Licht …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

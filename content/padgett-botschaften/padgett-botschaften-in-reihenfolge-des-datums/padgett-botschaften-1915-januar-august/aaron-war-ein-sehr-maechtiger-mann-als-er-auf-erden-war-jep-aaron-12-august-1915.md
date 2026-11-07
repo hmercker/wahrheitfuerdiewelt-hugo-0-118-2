@@ -1,7 +1,7 @@
 ---
 title: "Aaron war ein sehr mächtiger Mann als er auf Erden war"
 menu_title: ""
-description: "Aaron war ein sehr mächtiger Mann als er auf Erden war"
+description: "Aaron, empfangen durch James Padgett: „Ich war ein Prophet, der Bruder Moses' und der Priester der Tabernakel. Ich war ein sehr mächtiger Mann, als ich auf …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

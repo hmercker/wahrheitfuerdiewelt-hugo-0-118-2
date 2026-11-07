@@ -1,7 +1,7 @@
 ---
 title: "Ich liebe euch innig"
 menu_title: ""
-description: "Ich liebe euch innig"
+description: "Jesus, empfangen durch Al Fike: „Möge der Segen unseres Schöpfers weiterhin eure Seelen erhellen. Denn wenn ihr den höchsten Segen sucht, die große Liebe …“"
 date: 2025-03-10 06:00:00+00:10
 draft: False
 hidden: True

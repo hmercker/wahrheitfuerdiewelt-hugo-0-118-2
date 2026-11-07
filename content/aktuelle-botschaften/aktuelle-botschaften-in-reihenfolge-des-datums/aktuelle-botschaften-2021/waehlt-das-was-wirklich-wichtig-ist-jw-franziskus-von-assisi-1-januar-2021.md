@@ -1,7 +1,7 @@
 ---
 title: "Wählt das, was wirklich wichtig ist"
 menu_title: ""
-description: "Wählt das, was wirklich wichtig ist"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Es ist ein neues Jahr für euch alle. Während ihr es im Gebet willkommen heißt, schließen wir uns …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

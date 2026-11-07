@@ -1,7 +1,7 @@
 ---
 title: "Die höchste Form des Gebets"
 menu_title: ""
-description: "Die höchste Form des Gebets"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Möge die Liebe Gottes mit euch sein und eure Seelen erfüllen. Wie oft bitten wir euch, im Gebet zu Gott …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine harmonische Welt, die auf Ehrlichkeit, Wahrheit und gegenseitiger Liebe basiert, wird kommen"
 menu_title: ""
-description: "Eine harmonische Welt, die auf Ehrlichkeit, Wahrheit und gegenseitiger Liebe basiert, wird kommen"
+description: "Josephus, empfangen durch Al Fike: „Die Welt verändert sich und ihr, geliebte Seelen, auch. Genauer gesagt, spreche ich zu euch über eine Welt, die als …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

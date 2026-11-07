@@ -1,7 +1,7 @@
 ---
 title: "Die Briefe in der Bibel sind nicht dieselben, die die Apostel geschrieben haben, und sehr wenig ist über die Neue Geburt zu lesen"
 menu_title: ""
-description: "Die Briefe in der Bibel sind nicht dieselben, die die Apostel geschrieben haben, und sehr wenig ist über die Neue Geburt zu lesen"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du heute Abend Teile der Bibel gelesen hast und dass du in derselben keine …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

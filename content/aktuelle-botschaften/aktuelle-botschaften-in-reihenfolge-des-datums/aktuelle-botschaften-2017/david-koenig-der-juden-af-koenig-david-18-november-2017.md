@@ -1,7 +1,7 @@
 ---
 title: "David, König der Juden"
 menu_title: ""
-description: "David, König der Juden"
+description: "König David, empfangen durch Al Fike: „Ich möchte vor meinem Volk erscheinen, damit sie hören, was ich als ihr großer König zu sagen habe, der nun in das …“"
 date: 2020-08-01 06:25:48+00:199
 draft: False
 hidden: True

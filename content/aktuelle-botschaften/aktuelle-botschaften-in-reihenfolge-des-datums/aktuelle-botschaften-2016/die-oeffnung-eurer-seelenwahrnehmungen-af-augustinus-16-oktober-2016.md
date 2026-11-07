@@ -1,7 +1,7 @@
 ---
 title: "Die Öffnung eurer Seelenwahrnehmungen"
 menu_title: ""
-description: "Die Öffnung eurer Seelenwahrnehmungen"
+description: "Augustinus, empfangen durch Al Fike: „Meine Schüler, es ist euer Lehrer Augustinus. Ich sehe, dass ihr beginnt, zwischen dem Bewusstsein eures Verstandes …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

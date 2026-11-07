@@ -1,7 +1,7 @@
 ---
 title: "Medialität und der Wert von Botschaften"
 menu_title: ""
-description: "Medialität und der Wert von Botschaften"
+description: "Judas, empfangen durch H.: „Mein lieber H, mach dir keine Sorgen. In letzter Zeit hast du in deiner Latein-Gruppe viel über Medialität gesprochen.“"
 date: 2020-08-01 06:25:48+00:217
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen ist dankbar, dass die beiden Generäle etwas über die Göttliche Liebe erfahren konnten"
 menu_title: ""
-description: "Helen ist dankbar, dass die beiden Generäle etwas über die Göttliche Liebe erfahren konnten"
+description: "Helen, empfangen durch James Padgett: „Du hattest heute Abend einige ziemlich überraschende Mitteilungen. Wir hielten es für richtig, die beiden alten …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

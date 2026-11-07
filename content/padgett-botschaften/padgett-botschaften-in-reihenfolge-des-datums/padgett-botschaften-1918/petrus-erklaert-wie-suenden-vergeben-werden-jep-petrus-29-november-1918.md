@@ -1,7 +1,7 @@
 ---
 title: "Petrus erklärt, wie Sünden vergeben werden"
 menu_title: ""
-description: "Petrus erklärt, wie Sünden vergeben werden"
+description: "Petrus, empfangen durch James Padgett: „Lass mich ein paar Zeilen schreiben, denn es ist mir ein großes Anliegen, dir über eine Wahrheit zu schreiben, die …“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

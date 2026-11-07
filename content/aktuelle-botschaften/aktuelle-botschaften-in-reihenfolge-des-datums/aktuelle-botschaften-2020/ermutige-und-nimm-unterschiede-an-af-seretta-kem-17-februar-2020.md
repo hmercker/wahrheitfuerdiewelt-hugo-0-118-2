@@ -1,7 +1,7 @@
 ---
 title: "Ermutige und nimm Unterschiede an"
 menu_title: ""
-description: "Ermutige und nimm Unterschiede an"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr werdet alle in diesem großen Projekt gebraucht, das ihr für Direkte Stimme anstrebt. Jeder trägt seinen Teil in …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

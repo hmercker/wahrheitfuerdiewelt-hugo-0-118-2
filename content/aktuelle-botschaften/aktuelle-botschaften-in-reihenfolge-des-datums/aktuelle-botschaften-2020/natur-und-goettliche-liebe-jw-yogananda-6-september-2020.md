@@ -1,7 +1,7 @@
 ---
 title: "Natur und göttliche Liebe"
 menu_title: ""
-description: "Natur und göttliche Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine Lieben, während die Wellen an das Ufer schwappen, die Sonne auf- und untergeht und der Mond die Nacht …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

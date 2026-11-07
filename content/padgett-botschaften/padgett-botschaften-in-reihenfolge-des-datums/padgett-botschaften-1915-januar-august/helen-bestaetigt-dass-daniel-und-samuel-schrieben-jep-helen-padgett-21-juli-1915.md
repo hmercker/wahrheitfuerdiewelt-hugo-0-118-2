@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Daniel und Samuel geschrieben haben"
 menu_title: ""
-description: "Helen bestätigt, dass Daniel und Samuel geschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, du musst für heute Abend aufhören. Du bist müde und es würde dir schaden, mehr zu schreiben.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

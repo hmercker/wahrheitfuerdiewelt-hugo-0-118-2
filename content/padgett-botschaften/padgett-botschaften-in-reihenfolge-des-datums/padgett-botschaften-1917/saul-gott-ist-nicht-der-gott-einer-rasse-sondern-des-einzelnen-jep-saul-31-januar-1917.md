@@ -1,7 +1,7 @@
 ---
 title: "Saul: Gott ist nicht der Gott einer Rasse, sondern des Einzelnen"
 menu_title: ""
-description: "Saul: Gott ist nicht der Gott einer Rasse, sondern des Einzelnen"
+description: "Saul, empfangen durch James Padgett: „Ich habe dir seit einiger Zeit nicht mehr geschrieben und möchte nur ein paar Worte sagen.“"
 date: 2020-08-01 06:25:48+00:86
 draft: False
 hidden: True

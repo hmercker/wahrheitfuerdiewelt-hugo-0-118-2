@@ -1,7 +1,7 @@
 ---
 title: "Lebt in Gnade außerhalb eurer Schachteln"
 menu_title: ""
-description: "Lebt in Gnade außerhalb eurer Schachteln"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte euch einige Gedanken über größeres Bewusstsein mitteilen. Wenn ihr die Gegenwart Gottes, seine große …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

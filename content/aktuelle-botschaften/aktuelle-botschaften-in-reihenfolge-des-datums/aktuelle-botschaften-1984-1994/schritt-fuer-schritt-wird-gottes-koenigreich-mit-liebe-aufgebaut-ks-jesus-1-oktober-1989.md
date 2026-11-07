@@ -1,7 +1,7 @@
 ---
 title: "Schritt für Schritt wird Gottes Königreich mit Liebe aufgebaut"
 menu_title: ""
-description: "Schritt für Schritt wird Gottes Königreich mit Liebe aufgebaut"
+description: "Jesus, empfangen durch Kathryn Stokes: „Obwohl es immer noch eine große Ernte von Seelen gibt, die wir von ihren Irrwegen retten und auf den Pfad der …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

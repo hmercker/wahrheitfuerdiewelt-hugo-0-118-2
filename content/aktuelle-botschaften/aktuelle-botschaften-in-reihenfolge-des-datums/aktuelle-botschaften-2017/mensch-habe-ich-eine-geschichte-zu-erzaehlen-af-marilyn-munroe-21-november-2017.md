@@ -1,7 +1,7 @@
 ---
 title: "Mensch, habe ich eine Geschichte zu erzählen!"
 menu_title: ""
-description: "Mensch, habe ich eine Geschichte zu erzählen!"
+description: "Marilyn Munroe, empfangen durch Al Fike: „Junge, habe ich eine Geschichte zu erzählen! Ich würde gerne meine Geschichte mit direkter Stimme erzählen.“"
 date: 2020-08-01 06:25:48+00:212
 draft: False
 hidden: True

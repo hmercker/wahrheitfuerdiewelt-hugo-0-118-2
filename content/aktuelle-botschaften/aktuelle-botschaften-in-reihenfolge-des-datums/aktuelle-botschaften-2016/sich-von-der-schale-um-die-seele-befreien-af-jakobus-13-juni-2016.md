@@ -1,7 +1,7 @@
 ---
 title: "Sich von der Schale um die Seele befreien"
 menu_title: ""
-description: "Sich von der Schale um die Seele befreien"
+description: "Jakobus, empfangen durch Al Fike: „Ja, ihr seid alle bestrebt, Gott zu dienen, im Fluss Seiner Liebe zu sein, in jenem Licht zu wandeln, das euch auf eurem …“"
 date: 2020-08-01 06:25:48+00:75
 draft: False
 hidden: True

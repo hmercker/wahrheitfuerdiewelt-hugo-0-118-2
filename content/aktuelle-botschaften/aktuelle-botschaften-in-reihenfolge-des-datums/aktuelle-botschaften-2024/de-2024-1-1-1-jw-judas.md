@@ -1,7 +1,7 @@
 ---
 title: "Die Vorteile des Schweigens"
 menu_title: ""
-description: "Die Vorteile des Schweigens"
+description: "Judas, empfangen durch Jimbeau Walsh: „Es gibt viel zu sagen über die Vorteile der Stille. Denn in der Stille sprechen wir zu euren Seelen und die Sprache …“"
 date: 2025-03-09 06:00:00+00:10
 draft: False
 hidden: True

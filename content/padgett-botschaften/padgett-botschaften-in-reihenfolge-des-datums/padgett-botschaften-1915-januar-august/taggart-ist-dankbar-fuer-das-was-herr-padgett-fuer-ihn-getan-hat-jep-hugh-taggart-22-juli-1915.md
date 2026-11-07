@@ -1,7 +1,7 @@
 ---
 title: "Taggart ist dankbar für das, was Herr Padgett für ihn getan hat"
 menu_title: ""
-description: "Taggart ist dankbar für das, was Herr Padgett für ihn getan hat"
+description: "Taggart, empfangen durch James Padgett: „Wie Mackey sagte, bin ich dankbar für das, was du für mich getan hast und für das große Licht, das durch deinen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

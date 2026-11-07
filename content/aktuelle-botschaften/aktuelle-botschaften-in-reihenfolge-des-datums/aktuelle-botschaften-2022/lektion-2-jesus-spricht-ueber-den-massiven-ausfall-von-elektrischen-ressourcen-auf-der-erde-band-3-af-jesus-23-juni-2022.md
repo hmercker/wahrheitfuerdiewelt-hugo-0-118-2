@@ -1,7 +1,7 @@
 ---
 title: "Lektion 2 - Massiver Ausfall elektrischer Ressourcen auf der Erde - Band 3"
 menu_title: ""
-description: "Lektion 2 - Massiver Ausfall elektrischer Ressourcen auf der Erde - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Wir werden unser Projekt fortsetzen und uns mit verschiedenen Themen befassen, die für diejenigen von Interesse sein …“"
 date: 2022-07-03 06:00:00+00:10
 draft: False
 hidden: True

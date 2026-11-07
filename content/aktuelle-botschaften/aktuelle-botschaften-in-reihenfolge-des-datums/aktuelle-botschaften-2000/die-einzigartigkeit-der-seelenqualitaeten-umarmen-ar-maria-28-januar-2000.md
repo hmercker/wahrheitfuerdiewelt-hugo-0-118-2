@@ -1,7 +1,7 @@
 ---
 title: "Die Einzigartigkeit der Seelenqualitäten umarmen"
 menu_title: ""
-description: "Die Einzigartigkeit der Seelenqualitäten umarmen"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte verdeutlichen, wie wichtig es ist, die Einzigartigkeit der Seelenqualitäten anzunehmen, die sich in eurem …“"
 date: 2020-08-01 06:25:48+00:160
 draft: False
 hidden: True

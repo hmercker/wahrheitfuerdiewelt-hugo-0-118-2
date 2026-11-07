@@ -1,7 +1,7 @@
 ---
 title: "Helen Padgett berichtet über die Seligkeit, die sie umgibt"
 menu_title: ""
-description: "Helen Padgett berichtet über die Seligkeit, die sie umgibt"
+description: "Helen, empfangen durch James Padgett: „Nun, war das nicht eine wunderbare Botschaft des Meisters? Sie war so voll von Dingen, die die Menschen zum …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

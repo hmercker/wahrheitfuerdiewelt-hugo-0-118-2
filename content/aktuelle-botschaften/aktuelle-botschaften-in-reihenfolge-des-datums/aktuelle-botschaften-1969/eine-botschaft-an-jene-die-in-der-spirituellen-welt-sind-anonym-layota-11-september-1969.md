@@ -1,7 +1,7 @@
 ---
 title: "Eine Botschaft an jene, die in der spirituellen Welt sind"
 menu_title: ""
-description: "Eine Botschaft an jene, die in der spirituellen Welt sind"
+description: "Layota: „Der Grund, warum ich heute Abend hierher gekommen bin, ist nicht so sehr, um euch eine Botschaft zu geben, sondern vielmehr, um jenen Menschen …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

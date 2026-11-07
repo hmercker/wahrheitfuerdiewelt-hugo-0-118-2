@@ -1,7 +1,7 @@
 ---
 title: "Vergiss nicht, wir sind eins"
 menu_title: ""
-description: "Vergiss nicht, wir sind eins"
+description: "Vater, empfangen durch Child of God: „Dies ist eine persönliche Nachricht für dich. Ich möchte, dass du die Worte verbreitest.“"
 date: 2020-08-01 06:25:48+00:96
 draft: False
 hidden: True

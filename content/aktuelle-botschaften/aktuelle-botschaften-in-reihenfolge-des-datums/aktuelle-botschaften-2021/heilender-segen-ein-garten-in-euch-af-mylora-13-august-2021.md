@@ -1,7 +1,7 @@
 ---
 title: "Heilender Segen - Ein Garten in euch"
 menu_title: ""
-description: "Heilender Segen - Ein Garten in euch"
+description: "Mylora, empfangen durch Al Fike: „Möge die Liebe Gottes eure Seelen erwecken, meine schönen Freunde. Geliebte, geliebte Seelen, ihr seid Lichter.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

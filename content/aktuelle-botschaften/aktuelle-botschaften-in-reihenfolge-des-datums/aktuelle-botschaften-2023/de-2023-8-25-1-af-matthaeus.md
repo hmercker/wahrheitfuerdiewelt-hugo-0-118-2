@@ -1,7 +1,7 @@
 ---
 title: "Die Kraft von Gottes Segen ist stärker als jede andere Kraft im Universum"
 menu_title: ""
-description: "Die Kraft von Gottes Segen ist stärker als jede andere Kraft im Universum"
+description: "Matthäus, empfangen durch Al Fike: „Ja, es gibt große Probleme in eurer Welt. Eine Welt, die den Launen des Menschen unterworfen ist, eine Welt, die den …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

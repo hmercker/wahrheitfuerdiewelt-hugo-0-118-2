@@ -1,7 +1,7 @@
 ---
 title: "Die vor uns liegende Arbeit"
 menu_title: ""
-description: "Die vor uns liegende Arbeit"
+description: "Jesus, empfangen durch David Lampron: „Die Wahrheit ist, dass ich dies ohne deine formelle Bitte tun wollte, denn ich wollte dir auch meine Liebe und …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

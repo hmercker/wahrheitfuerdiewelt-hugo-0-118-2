@@ -1,7 +1,7 @@
 ---
 title: "Frau Morgan möchte Jennie Lawsons Übergang in die spirituelle Welt erklären"
 menu_title: ""
-description: "Frau Morgan möchte Jennie Lawsons Übergang in die spirituelle Welt erklären"
+description: "Frau Morgan, empfangen durch James Padgett: „Ich war heute bei ihm und habe seinen Verstand in Bezug auf seine Freundin gesehen, die gerade in die …“"
 date: 2020-08-01 06:25:48+00:179
 draft: False
 hidden: True

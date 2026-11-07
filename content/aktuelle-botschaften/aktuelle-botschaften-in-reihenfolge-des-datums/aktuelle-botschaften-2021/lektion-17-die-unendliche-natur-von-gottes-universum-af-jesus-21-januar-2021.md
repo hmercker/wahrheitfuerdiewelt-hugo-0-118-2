@@ -1,7 +1,7 @@
 ---
 title: "Lektion 17 - Die unendliche Natur des Universums Gottes"
 menu_title: ""
-description: "Lektion 17 - Die unendliche Natur des Universums Gottes"
+description: "Jesus, empfangen durch Al Fike: „Oft habt ihr eure Gebete an Gott gerichtet, ihr bittet Ihn um viele Dinge, ihr bringt euer Herz in Gefühlen und Wünschen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

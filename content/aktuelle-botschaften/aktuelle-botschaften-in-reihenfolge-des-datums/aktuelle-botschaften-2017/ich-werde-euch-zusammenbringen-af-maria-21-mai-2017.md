@@ -1,7 +1,7 @@
 ---
 title: "Ich werde euch zusammenbringen"
 menu_title: ""
-description: "Ich werde euch zusammenbringen"
+description: "Maria, empfangen durch Al Fike: „Ich werde euch zusammenbringen, meine Kinder. Es ist wichtig, dass ihr diese Zeit zusammen habt, denn jeder trägt zum …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

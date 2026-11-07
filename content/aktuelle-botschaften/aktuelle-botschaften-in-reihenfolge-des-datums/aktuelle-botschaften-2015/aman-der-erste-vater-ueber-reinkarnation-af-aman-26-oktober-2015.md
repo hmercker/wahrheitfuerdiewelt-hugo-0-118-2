@@ -1,7 +1,7 @@
 ---
 title: "Aman, der erste Vater, über Reinkarnation"
 menu_title: ""
-description: "Aman, der erste Vater, über Reinkarnation"
+description: "Aman, empfangen durch Al Fike: „Und als erster Elter, der seit vielen Tausenden Jahren in der Geisterwelt lebt und vielen, vielen Generationen seit unserem …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Judas über die unverzeihliche Sünde geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Judas über die unverzeihliche Sünde geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Nun, ich freue mich, dass du die Botschaft von Judas erhalten hast, und es ist eine wunderbare Botschaft voller …“"
 date: 2020-08-01 06:25:48+00:239
 draft: False
 hidden: True

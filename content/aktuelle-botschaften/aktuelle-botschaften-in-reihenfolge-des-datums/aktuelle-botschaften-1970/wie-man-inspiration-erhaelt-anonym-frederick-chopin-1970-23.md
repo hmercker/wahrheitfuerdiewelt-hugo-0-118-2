@@ -1,7 +1,7 @@
 ---
 title: "Wie man Inspiration erhält"
 menu_title: ""
-description: "Wie man Inspiration erhält"
+description: "Frederick Chopin: „Ich empfinde großes Mitgefühl für euch, als ich meine Kompositionen hörte, die euch heute Abend vorgespielt werden, und ich möchte …“"
 date: 2020-08-01 06:25:48+00:135
 draft: False
 hidden: True

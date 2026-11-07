@@ -1,7 +1,7 @@
 ---
 title: "Immer im Licht von Gottes Liebe wandeln"
 menu_title: ""
-description: "Immer im Licht von Gottes Liebe wandeln"
+description: "Konfuzius, empfangen durch Al Fike: „Wandelt immer im Licht der Liebe Gottes. Sucht Seinen Segen über euch.“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

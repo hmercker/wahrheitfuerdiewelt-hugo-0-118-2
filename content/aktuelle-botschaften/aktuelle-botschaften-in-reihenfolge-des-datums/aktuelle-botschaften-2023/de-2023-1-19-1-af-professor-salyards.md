@@ -1,7 +1,7 @@
 ---
 title: "Professor Salyards bestätigt die Kultur der Medialität"
 menu_title: ""
-description: "Professor Salyards bestätigt die Kultur der Medialität"
+description: "Professor Salyards, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Möge die Liebe des Vaters weiterhin in eure Seelen fließen, euch aufwecken und …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

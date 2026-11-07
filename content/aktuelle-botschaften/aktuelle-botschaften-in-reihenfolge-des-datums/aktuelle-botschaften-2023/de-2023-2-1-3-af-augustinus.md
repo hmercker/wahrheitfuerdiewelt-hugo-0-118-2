@@ -1,7 +1,7 @@
 ---
 title: "Der tiefe Schmerz, der mit dem freien Willen einhergeht"
 menu_title: ""
-description: "Der tiefe Schmerz, der mit dem freien Willen einhergeht"
+description: "Augustinus, empfangen durch Al Fike: „Der freie Wille ist eine gewaltige Kraft in eurer Welt. Er hat den Verlauf der menschlichen Geschichte von Anfang an …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

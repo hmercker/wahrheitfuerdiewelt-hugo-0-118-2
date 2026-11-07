@@ -1,7 +1,7 @@
 ---
 title: "Ihr seid in Gottes Gnade und Segen "
 menu_title: ""
-description: "Ihr seid in Gottes Gnade und Segen "
+description: "Jesus, empfangen durch Al Fike: „Ich gehe für immer mit euch und wir sind für alle Ewigkeit miteinander verbunden. In alle Ewigkeit werden wir ins Licht …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

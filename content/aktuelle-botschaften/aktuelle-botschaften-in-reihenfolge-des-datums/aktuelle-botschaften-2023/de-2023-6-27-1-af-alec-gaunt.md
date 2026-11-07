@@ -1,7 +1,7 @@
 ---
 title: "Das Einhalten von Vereinbarungen"
 menu_title: ""
-description: "Das Einhalten von Vereinbarungen"
+description: "Alec Gaunt, empfangen durch Al Fike: „Ich glaube, ihr hattet gestern ein wichtiges Gespräch über eure Verpflichtungen, euren Zeitplan und eure Koordination.“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Mache das Gebet zu Gott zu einer Priorität, um so deine Barrieren zu Ihm zu überwinden"
 menu_title: ""
-description: "Mache das Gebet zu Gott zu einer Priorität, um so deine Barrieren zu Ihm zu überwinden"
+description: "Augustinus, empfangen durch Al Fike: „Möge Gott euch mit Seiner Liebe segnen. Obwohl diese Kreise, an denen ihr zusammen teilnehmt, wichtig sind und wir …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

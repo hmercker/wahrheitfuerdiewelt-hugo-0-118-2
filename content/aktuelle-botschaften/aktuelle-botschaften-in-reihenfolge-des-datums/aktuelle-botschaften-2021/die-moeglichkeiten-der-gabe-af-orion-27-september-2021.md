@@ -1,7 +1,7 @@
 ---
 title: "Die Möglichkeiten der Gabe"
 menu_title: ""
-description: "Die Möglichkeiten der Gabe"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Ihr entdeckt also die Möglichkeiten dieses Geschenks, das euch gegeben wurde, was daraus …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

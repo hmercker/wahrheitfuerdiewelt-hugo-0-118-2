@@ -1,7 +1,7 @@
 ---
 title: "Sprung in die Glorie des Seelenbewusstseins"
 menu_title: ""
-description: "Sprung in die Glorie des Seelenbewusstseins"
+description: "Kopernikus, empfangen durch Al Fike: „Viel Segen für euch, meine Freunde. Möge das Geschenk der Liebe des Vaters weiterhin in eure Seelen strömen, denn das …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

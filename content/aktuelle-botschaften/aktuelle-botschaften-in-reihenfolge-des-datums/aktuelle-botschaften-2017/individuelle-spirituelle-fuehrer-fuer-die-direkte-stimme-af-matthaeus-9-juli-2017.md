@@ -1,7 +1,7 @@
 ---
 title: "Individuelle spirituelle Führer für die Direkte Stimme"
 menu_title: ""
-description: "Individuelle spirituelle Führer für die Direkte Stimme"
+description: "Matthäus, empfangen durch Al Fike: „Ich werde Teil derer sein, die eng mit euch in der Vorbereitung und Ausführung dieses Geschenkes zusammenarbeiten.“"
 date: 2020-08-01 06:25:48+00:84
 draft: False
 hidden: True

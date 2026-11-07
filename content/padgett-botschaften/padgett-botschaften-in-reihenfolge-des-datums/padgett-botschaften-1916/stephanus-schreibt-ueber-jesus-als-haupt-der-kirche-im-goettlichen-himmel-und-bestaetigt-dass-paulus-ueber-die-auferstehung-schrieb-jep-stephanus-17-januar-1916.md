@@ -1,7 +1,7 @@
 ---
 title: "Stephanus schreibt über Jesus als Haupt der Kirche im Göttlichen Himmel und bestätigt, dass Paulus über die Auferstehung schrieb"
 menu_title: ""
-description: "Stephanus schreibt über Jesus als Haupt der Kirche im Göttlichen Himmel und bestätigt, dass Paulus über die Auferstehung schrieb"
+description: "Stephanus, empfangen durch James Padgett: „Ich möchte nur ein Wort über die Wichtigkeit des Themas sagen, das Paulus über die Auferstehung geschrieben hat.“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

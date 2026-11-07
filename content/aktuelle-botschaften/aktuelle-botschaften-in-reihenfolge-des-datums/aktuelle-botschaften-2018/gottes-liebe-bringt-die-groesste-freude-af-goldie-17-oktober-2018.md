@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe bringt die größte Freude"
 menu_title: ""
-description: "Gottes Liebe bringt die größte Freude"
+description: "Goldie, empfangen durch Al Fike: „Es ist ein guter Tag, um die Wärme der Sonne zu spüren, die schöne weiche Luft, die euch umschmeichelt, die Blumen, die …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Shellington wurde von Helen aus der Dunkelheit geholfen"
 menu_title: ""
-description: "Shellington wurde von Helen aus der Dunkelheit geholfen"
+description: "Joe Shellington, empfangen durch James Padgett: „Ich habe lange darauf gewartet, dir zu schreiben. Da deine Gruppe meinem Schreiben nicht zustimmte, musste …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

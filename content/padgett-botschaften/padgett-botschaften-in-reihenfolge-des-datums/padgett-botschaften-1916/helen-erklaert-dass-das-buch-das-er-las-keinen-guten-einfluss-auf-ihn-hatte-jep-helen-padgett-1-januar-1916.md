@@ -1,7 +1,7 @@
 ---
 title: "Helen erklärt, dass das Buch, das er las keinen guten Einfluss auf ihn hatte"
 menu_title: ""
-description: "Helen erklärt, dass das Buch, das er las keinen guten Einfluss auf ihn hatte"
+description: "Helen, empfangen durch James Padgett: „Nun, ich sehe, dass du heute Abend in deiner Entwicklung nicht in einem so guten Zustand bist, und es tut mir leid …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

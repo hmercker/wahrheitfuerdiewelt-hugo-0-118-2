@@ -1,7 +1,7 @@
 ---
 title: "Gespräche über Anpassungen an die Entfaltung unserer geistlichen Gaben"
 menu_title: ""
-description: "Gespräche über Anpassungen an die Entfaltung unserer geistlichen Gaben"
+description: "Seretta Kem, empfangen durch Al Fike: „Manchmal mag dies überraschend und herausfordernd sein, wenn ihr euren Weg durch das Labyrinth der verschiedenen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

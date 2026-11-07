@@ -1,7 +1,7 @@
 ---
 title: "Lektion 14 - Eine Seele, die durch den Segen der Göttlichen Liebe verwandelt wurde, kann die Welt verändern - Band 2"
 menu_title: ""
-description: "Lektion 14 - Eine Seele, die durch den Segen der Göttlichen Liebe verwandelt wurde, kann die Welt verändern - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Das Thema dieser Lektion bezieht sich auf die Veränderungen, die innerhalb des Individuums und in einem größeren Ausmaß …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

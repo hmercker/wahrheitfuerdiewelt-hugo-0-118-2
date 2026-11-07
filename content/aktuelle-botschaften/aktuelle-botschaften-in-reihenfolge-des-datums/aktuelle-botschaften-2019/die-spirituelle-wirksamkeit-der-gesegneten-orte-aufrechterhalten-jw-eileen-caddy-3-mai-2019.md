@@ -1,7 +1,7 @@
 ---
 title: "Die spirituelle Wirksamkeit der gesegneten Orte aufrechterhalten"
 menu_title: ""
-description: "Die spirituelle Wirksamkeit der gesegneten Orte aufrechterhalten"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Danke, dass ihr meinen Souffleur angenommen habt und eure Bereitschaft, mir zu erlauben, mein Gespräch mit …“"
 date: 2020-08-01 06:25:48+00:61
 draft: False
 hidden: True

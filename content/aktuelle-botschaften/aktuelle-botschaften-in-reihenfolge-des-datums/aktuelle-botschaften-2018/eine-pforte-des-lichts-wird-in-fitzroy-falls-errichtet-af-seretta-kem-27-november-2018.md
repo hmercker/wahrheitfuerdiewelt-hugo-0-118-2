@@ -1,7 +1,7 @@
 ---
 title: "Eine Pforte des Lichts wird in Fitzroy Falls errichtet"
 menu_title: ""
-description: "Eine Pforte des Lichts wird in Fitzroy Falls errichtet"
+description: "Seretta Kem, empfangen durch Al Fike: „Diese Öffnung wurde durch Gottes Berührung, seinen heiligen Segen auf dieses Geschenk, erweckt.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

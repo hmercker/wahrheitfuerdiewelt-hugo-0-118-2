@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Josephus schrieb und kommentiert die Gleichheit der Geschlechter"
 menu_title: ""
-description: "Helen bestätigt, dass Josephus schrieb und kommentiert die Gleichheit der Geschlechter"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, du hast eine Botschaft von Josephus erhalten, die als Argument für die Rechte der Frauen …“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

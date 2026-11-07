@@ -1,7 +1,7 @@
 ---
 title: "Der Geist des Lebens"
 menu_title: ""
-description: "Der Geist des Lebens"
+description: "Judas- empfangen durch H.: „[Lieber Gott, ich danke Dir für all die Gelegenheiten, die Du mir gegeben hast, und für die Segnungen, die ich jeden Tag erhalte.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

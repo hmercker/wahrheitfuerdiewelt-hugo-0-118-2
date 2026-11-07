@@ -1,7 +1,7 @@
 ---
 title: "Die Geburt der Direkten Stimme"
 menu_title: ""
-description: "Die Geburt der Direkten Stimme"
+description: "Seretta Kem, empfangen durch Al Fike: „In der Tat sind wir nahe dran, die Gabe der direkten Stimme unter euch zu erlangen. Ein Geschenk, nach dem ihr euch …“"
 date: 2020-08-01 06:25:48+00:256
 draft: False
 hidden: True

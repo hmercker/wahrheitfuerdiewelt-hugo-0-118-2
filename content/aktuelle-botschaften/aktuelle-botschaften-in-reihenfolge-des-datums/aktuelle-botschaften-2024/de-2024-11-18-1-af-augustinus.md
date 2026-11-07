@@ -1,7 +1,7 @@
 ---
 title: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
 menu_title: ""
-description: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
+description: "Augustinus, empfangen durch Al Fike: „Es gibt Zeiten, in denen wir euch bitten, euch zu beugen, aber nicht zu brechen. So weit wollen wir euch nicht …“"
 date: 2025-02-23 06:00:00+00:10
 draft: False
 hidden: True

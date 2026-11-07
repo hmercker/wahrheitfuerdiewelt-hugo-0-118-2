@@ -1,7 +1,7 @@
 ---
 title: "Helen fordert Padgett auf,  in einem Zustand der Liebe zu bleiben"
 menu_title: ""
-description: "Helen fordert Padgett auf,  in einem Zustand der Liebe zu bleiben"
+description: "Helen, empfangen durch James Padgett: „Ich kann dir nicht sagen, wie fleißig ich für dich gewesen bin, und habe den Vater gebeten, dass er seinen Heiligen …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

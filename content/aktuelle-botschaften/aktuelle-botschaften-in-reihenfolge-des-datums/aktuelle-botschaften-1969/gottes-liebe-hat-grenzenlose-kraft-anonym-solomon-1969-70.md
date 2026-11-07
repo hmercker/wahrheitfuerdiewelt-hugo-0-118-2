@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe hat grenzenlose Kraft"
 menu_title: ""
-description: "Gottes Liebe hat grenzenlose Kraft"
+description: "Shalom-Salomon: „Ich liebe euch wirklich; ich möchte den Liebesbund zwischen euch allen stärken. Ich wünsche, dass ihr eins werdet in Seele und Geist und …“"
 date: 2020-08-01 06:25:48+00:224
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erreichen des Seelenbewusstseins"
 menu_title: ""
-description: "Erreichen des Seelenbewusstseins"
+description: "Petrus, empfangen durch Al Fike: „Denn er stellt sehr sachdienliche Fragen über seinen eigenen Seelenweg und seine Erfahrungen mit Gott.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

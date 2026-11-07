@@ -1,7 +1,7 @@
 ---
 title: "Moses betont die Wichtigkeit, dass die Juden die Wahrheiten Gottes erfahren, wie sie von Jesus verkündet wurden"
 menu_title: ""
-description: "Moses betont die Wichtigkeit, dass die Juden die Wahrheiten Gottes erfahren, wie sie von Jesus verkündet wurden"
+description: "Moses, empfangen durch James Padgett: „Ich war bei mehreren Anlässen bei dir, als dir einige der uralten spirituellen Wesen schrieben, und ich war sehr …“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

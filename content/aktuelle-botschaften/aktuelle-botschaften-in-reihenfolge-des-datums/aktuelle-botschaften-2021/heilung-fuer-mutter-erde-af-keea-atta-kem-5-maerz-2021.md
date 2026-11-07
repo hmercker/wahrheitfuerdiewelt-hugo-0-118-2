@@ -1,7 +1,7 @@
 ---
 title: "Heilung für Mutter Erde"
 menu_title: ""
-description: "Heilung für Mutter Erde"
+description: "Keea-Atta Kem, empfangen durch Al Fike: „Gott schuf diese Welt in Harmonie. Er schuf alles, was in ihr ist und setzte Seinen Atem des Lebens darauf.“"
 date: 2020-08-01 06:25:48+00:69
 draft: False
 hidden: True

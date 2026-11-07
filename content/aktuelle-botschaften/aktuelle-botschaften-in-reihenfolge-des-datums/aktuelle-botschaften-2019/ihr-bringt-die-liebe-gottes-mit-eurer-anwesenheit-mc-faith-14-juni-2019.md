@@ -1,7 +1,7 @@
 ---
 title: "Ihr bringt die Liebe Gottes mit eurer Anwesenheit"
 menu_title: ""
-description: "Ihr bringt die Liebe Gottes mit eurer Anwesenheit"
+description: "Faith, empfangen durch Maureen Cardoso: „Mein gnädiger Bruder und meine gnädige Schwester, ich danke euch. Danke für euren Dienst der Liebe.“"
 date: 2020-08-01 06:25:48+00:76
 draft: False
 hidden: True

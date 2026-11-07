@@ -1,7 +1,7 @@
 ---
 title: "Dienen im Netzwerk der Liebe"
 menu_title: ""
-description: "Dienen im Netzwerk der Liebe"
+description: "Andreas, empfangen durch Helge Mercker: „Liebe Tochter, ich möchte schreiben und wünsche, diese Gebetszeit mit dir zu verbringen und über die Errichtung …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

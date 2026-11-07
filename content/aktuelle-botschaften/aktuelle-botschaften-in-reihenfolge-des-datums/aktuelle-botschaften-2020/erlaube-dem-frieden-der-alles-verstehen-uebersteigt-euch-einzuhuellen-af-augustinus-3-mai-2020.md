@@ -1,7 +1,7 @@
 ---
 title: "Erlaube dem Frieden, der alles Verstehen übersteigt, euch einzuhüllen "
 menu_title: ""
-description: "Erlaube dem Frieden, der alles Verstehen übersteigt, euch einzuhüllen "
+description: "Augustinus, empfangen durch Al Fike: „Mögen die Segnungen der Liebe des Vaters weiterhin in eure Seelen strömen. Wenn ich von dem Segen des Friedens …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

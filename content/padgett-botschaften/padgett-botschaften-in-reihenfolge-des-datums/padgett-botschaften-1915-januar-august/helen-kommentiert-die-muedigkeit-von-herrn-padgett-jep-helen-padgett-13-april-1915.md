@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Müdigkeit von Herrn Padgett"
 menu_title: ""
-description: "Helen kommentiert die Müdigkeit von Herrn Padgett"
+description: "Helen, empfangen durch James Padgett: „Ja, ich werde hier sein, egal was passieren wird. Nun, der Professor hat eine beachtliche, wundervolle, Rede gehalten.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

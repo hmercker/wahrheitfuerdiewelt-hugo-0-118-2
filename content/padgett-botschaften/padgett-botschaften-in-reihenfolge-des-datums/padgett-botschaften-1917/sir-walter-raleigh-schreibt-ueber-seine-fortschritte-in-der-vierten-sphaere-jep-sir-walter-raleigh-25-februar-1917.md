@@ -1,7 +1,7 @@
 ---
 title: "Sir Walter Raleigh schreibt über seine Fortschritte in der vierten Sphäre"
 menu_title: ""
-description: "Sir Walter Raleigh schreibt über seine Fortschritte in der vierten Sphäre"
+description: "Raleigh, empfangen durch James Padgett: „Nun, ich habe gehört, was das letzte spirituelle Wesen geschrieben hat, und möchte nur sagen, dass der Kern seiner …“"
 date: 2020-08-01 06:25:48+00:114
 draft: False
 hidden: True

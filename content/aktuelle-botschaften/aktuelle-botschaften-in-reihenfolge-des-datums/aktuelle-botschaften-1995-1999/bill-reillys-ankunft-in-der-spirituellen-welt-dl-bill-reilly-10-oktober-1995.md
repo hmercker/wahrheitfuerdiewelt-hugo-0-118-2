@@ -1,7 +1,7 @@
 ---
 title: "Bill Reilly's Ankunft in der spirituellen Welt"
 menu_title: ""
-description: "Bill Reilly's Ankunft in der spirituellen Welt"
+description: "Bill Reilly, empfangen durch David Lampron: „Ich dachte mir, dass Bill genug Zeit hatte, sich an seine neue Umgebung und sein neues Leben zu gewöhnen, also …“"
 date: 2020-08-01 06:25:48+00:104
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Pforten des Lichts unterstützen die Heilungsarbeit"
 menu_title: ""
-description: "Pforten des Lichts unterstützen die Heilungsarbeit"
+description: "Keea Atta Kem, empfangen durch Maureen Cardoso: „Dies ist eine kostbare Gabe, die Gott in eure Seelen gelegt hat und die ihr entwickelt haben wollt, um so …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

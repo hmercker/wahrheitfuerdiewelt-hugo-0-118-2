@@ -1,7 +1,7 @@
 ---
 title: "Mögen eure Seelen mit der Liebe des Vaters leuchten"
 menu_title: ""
-description: "Mögen eure Seelen mit der Liebe des Vaters leuchten"
+description: "Jesus, empfangen durch Al Fike: „Wo immer ihr geht, möge Sein Licht auf euren Weg scheinen. Wenn ihr sprecht, möge das Licht der Wahrheit durch eure Lippen …“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

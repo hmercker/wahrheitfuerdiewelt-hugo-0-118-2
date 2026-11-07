@@ -1,7 +1,7 @@
 ---
 title: "Seid voller Freude"
 menu_title: ""
-description: "Seid voller Freude"
+description: "Goldie, empfangen durch Al Fike: „Oh, ihr seid alle so ernsthaft. Ihr arbeitet so hart, ihr seid so fleißig in euren Bemühungen.“"
 date: 2020-08-01 06:25:48+00:227
 draft: False
 hidden: True

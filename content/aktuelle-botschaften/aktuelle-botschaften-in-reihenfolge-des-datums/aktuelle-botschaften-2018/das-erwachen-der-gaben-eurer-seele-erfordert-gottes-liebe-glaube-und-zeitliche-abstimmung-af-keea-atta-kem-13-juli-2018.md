@@ -1,7 +1,7 @@
 ---
 title: "Das Erwachen der Gaben eurer Seele erfordert Gottes Liebe, Glaube und zeitliche Abstimmung"
 menu_title: ""
-description: "Das Erwachen der Gaben eurer Seele erfordert Gottes Liebe, Glaube und zeitliche Abstimmung"
+description: "Keea Atta Kem, empfangen durch Al Fike: „Wie wunderbar ist es, das Licht zu sehen, das ihr untereinander teilt, die Liebe, die ihr füreinander habt und wie …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Orion und Jesus ermutigen zu zukünftigen Veröffentlichungen"
 menu_title: ""
-description: "Orion und Jesus ermutigen zu zukünftigen Veröffentlichungen"
+description: "Orion & Jesus, empfangen durch Al Fike: „Auch euer geliebter Bruder Jesus ist hier. Gemeinsam bilden wir eine mächtige Allianz aus Licht und Liebe, die …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

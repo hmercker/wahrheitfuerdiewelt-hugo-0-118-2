@@ -1,7 +1,7 @@
 ---
 title: "Die Fakultäten der Seele"
 menu_title: ""
-description: "Die Fakultäten der Seele"
+description: "Josephus, empfangen durch Al Fike: „Möge Seine Liebe ein großes Einströmen in eure Seele finden. Ich war ein Philosoph und Lehrer des jüdischen Glaubens …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

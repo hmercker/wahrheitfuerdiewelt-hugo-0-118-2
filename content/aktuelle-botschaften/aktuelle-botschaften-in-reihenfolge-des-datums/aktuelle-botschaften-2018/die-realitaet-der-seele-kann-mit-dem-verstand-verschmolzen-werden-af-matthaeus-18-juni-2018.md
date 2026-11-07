@@ -1,7 +1,7 @@
 ---
 title: "Die Realität der Seele kann mit dem Verstand verschmolzen werden"
 menu_title: ""
-description: "Die Realität der Seele kann mit dem Verstand verschmolzen werden"
+description: "Matthäus, empfangen durch Al Fike: „Wir sind nicht so sehr darauf bedacht, dass ihr uns als das erkennt, was wir sind, sondern nur darauf, dass die Worte …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

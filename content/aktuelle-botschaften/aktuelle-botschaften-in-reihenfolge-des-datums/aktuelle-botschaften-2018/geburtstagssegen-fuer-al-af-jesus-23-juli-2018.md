@@ -1,7 +1,7 @@
 ---
 title: "Geburtstagssegen für Al"
 menu_title: ""
-description: "Geburtstagssegen für Al"
+description: "Jesus, empfangen durch Al Fike: „Ich gehe mit ihm und erkläre, dass er wahrhaftig mein Bruder auf dieser großen Reise der Erweckung der Seele durch die …“"
 date: 2020-08-01 06:25:48+00:150
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ein Whisky-Verkäufer in Finsternis"
 menu_title: ""
-description: "Ein Whisky-Verkäufer in Finsternis"
+description: "George E. Young, empfangen durch James Padgett: „Ich brauche deine Hilfe und Unterstützung. Wenn du es also tun kannst.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe wird die Welt verändern"
 menu_title: ""
-description: "Die Liebe wird die Welt verändern"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Als ich wusste, dass ich mich verändern muss und dass Veränderung nur von Gott kommen kann, habe ich …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

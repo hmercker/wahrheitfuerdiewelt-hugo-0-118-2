@@ -1,7 +1,7 @@
 ---
 title: "Atme tief meine Liebe ein"
 menu_title: ""
-description: "Atme tief meine Liebe ein"
+description: "Vater, empfangen durch SoulChild: „In der Tat, atme tief meine Liebe ein und genieße die Herrlichkeit und den Segen, den du dadurch empfängst.“"
 date: 2020-08-01 06:25:48+00:93
 draft: False
 hidden: True

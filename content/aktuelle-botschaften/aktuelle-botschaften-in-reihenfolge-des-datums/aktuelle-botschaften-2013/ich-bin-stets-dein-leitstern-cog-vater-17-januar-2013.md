@@ -1,7 +1,7 @@
 ---
 title: "Ich bin stets dein Leitstern"
 menu_title: ""
-description: "Ich bin stets dein Leitstern"
+description: "Vater, empfangen durch Child of God: „Viele Themen gehen dir durch den Verstand und oft fühlst du dich ein wenig verwirrt darüber, worauf du dich …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wahrheiten über Evolution"
 menu_title: ""
-description: "Wahrheiten über Evolution"
+description: "Michael Collier, empfangen durch Al Fike: „Ausgehend von dem, was unser lieber Seretta Kem gesagt hat, weiß ich, dass es in eurer Welt eine große Debatte …“"
 date: 2025-01-23 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der freie Wille des Menschen und Gottes Wille"
 menu_title: ""
-description: "Der freie Wille des Menschen und Gottes Wille"
+description: "Eileen Caddy, empfangen durch Jimbeau Walsh: „Ich möchte ein paar Dinge über den freien Willen und den Willen Gottes sagen. Ihr möchtet vielleicht darüber …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

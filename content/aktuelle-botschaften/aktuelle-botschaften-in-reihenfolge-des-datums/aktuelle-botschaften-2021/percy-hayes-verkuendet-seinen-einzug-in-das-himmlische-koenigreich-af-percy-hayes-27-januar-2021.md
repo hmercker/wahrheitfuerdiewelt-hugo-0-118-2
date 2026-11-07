@@ -1,7 +1,7 @@
 ---
 title: "Percy Hayes verkündet seinen Einzug in das Himmlische Königreich "
 menu_title: ""
-description: "Percy Hayes verkündet seinen Einzug in das Himmlische Königreich "
+description: "Percy Hayes, empfangen durch Al Fike: „Es ist schon einige Zeit her, dass ich mit euch allen gesprochen habe. Ich möchte meinen lieben Töchtern meine Liebe …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

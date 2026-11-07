@@ -1,7 +1,7 @@
 ---
 title: "Strebe nach dem Einklang, um im höchsten Zustand zu sein "
 menu_title: ""
-description: "Strebe nach dem Einklang, um im höchsten Zustand zu sein "
+description: "Professor Salyards, empfangen durch Al Fike: „Ich möchte über eure bisherigen Fortschritte sprechen und darüber, wie ihr auf diesem kurzen Weg, der euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

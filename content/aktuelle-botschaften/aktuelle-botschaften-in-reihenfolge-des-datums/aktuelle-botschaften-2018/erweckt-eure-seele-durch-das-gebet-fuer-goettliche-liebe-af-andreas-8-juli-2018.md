@@ -1,7 +1,7 @@
 ---
 title: "Erweckt eure Seele durch das Gebet für göttliche Liebe"
 menu_title: ""
-description: "Erweckt eure Seele durch das Gebet für göttliche Liebe"
+description: "Andreas, empfangen durch Al Fike: „Diese Substanz kommt nur durch Einladung in eure Seele, mit einem Wunsch an Gott, einem Gebet, um die Schleusen zu …“"
 date: 2020-08-01 06:25:48+00:146
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Erfreut über neue Direkte Stimme Entwicklungen"
 menu_title: ""
-description: "Erfreut über neue Direkte Stimme Entwicklungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr geht also einen weiteren Schritt in diesem großen Abenteuer, das ihr euch selbst auferlegt habt, um zu dienen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

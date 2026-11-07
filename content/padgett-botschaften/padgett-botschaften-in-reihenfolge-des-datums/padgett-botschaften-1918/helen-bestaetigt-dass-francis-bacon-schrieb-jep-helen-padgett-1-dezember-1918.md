@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Francis Bacon schrieb "
 menu_title: ""
-description: "Helen bestätigt, dass Francis Bacon schrieb "
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, die Nachricht, die du gerade erhalten hast, war von dem spirituellen Wesen, das dir vor ein paar …“"
 date: 2020-08-01 06:25:48+00:123
 draft: False
 hidden: True

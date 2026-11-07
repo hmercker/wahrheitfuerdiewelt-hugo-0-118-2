@@ -1,7 +1,7 @@
 ---
 title: "Eure Verantwortung, anderen den Weg zu Gott zu zeigen"
 menu_title: ""
-description: "Eure Verantwortung, anderen den Weg zu Gott zu zeigen"
+description: "Moses, empfangen durch Al Fike: „Sie hatten sozusagen kein Zuhause und waren ruhelos, entmutigt und fühlten sich von Gott verlassen.“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lerne Gottes Plan kennen"
 menu_title: ""
-description: "Lerne Gottes Plan kennen"
+description: "Elias, empfangen durch Al Fike: „Geliebter Vater, möge die Kraft deiner Liebe die Seelen aller berühren, die in diesen Kreis des Lichts kommen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

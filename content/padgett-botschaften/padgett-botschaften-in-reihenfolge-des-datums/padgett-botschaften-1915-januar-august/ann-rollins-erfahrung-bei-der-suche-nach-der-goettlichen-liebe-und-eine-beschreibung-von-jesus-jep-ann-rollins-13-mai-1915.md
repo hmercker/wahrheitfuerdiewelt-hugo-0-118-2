@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins' Erfahrung bei der Suche nach der Göttlichen Liebe und eine Beschreibung von Jesus"
 menu_title: ""
-description: "Ann Rollins' Erfahrung bei der Suche nach der Göttlichen Liebe und eine Beschreibung von Jesus"
+description: "Ann Rollins, empfangen durch James Padgett: „Ich lebe in meinem Haus von welchem ich dir vor einigen Nächten berichtet habe und es ist ein wunderschönes …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

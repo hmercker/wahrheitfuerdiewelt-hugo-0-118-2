@@ -1,7 +1,7 @@
 ---
 title: "Ein Gruß der Liebe"
 menu_title: ""
-description: "Ein Gruß der Liebe"
+description: "Martin Luther, empfangen durch Helge Mercker: „Verlasse dich auf Gottes Führung und alles wird gut werden. Lass dich nicht in deinen Gedanken hin und her …“"
 date: 2020-08-01 06:25:48+00:91
 draft: False
 hidden: True

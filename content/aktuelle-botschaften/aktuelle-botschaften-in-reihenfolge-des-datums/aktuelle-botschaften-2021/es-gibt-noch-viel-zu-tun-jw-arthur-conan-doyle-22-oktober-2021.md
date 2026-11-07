@@ -1,7 +1,7 @@
 ---
 title: "Es gibt noch viel zu tun"
 menu_title: ""
-description: "Es gibt noch viel zu tun"
+description: "Arthur Conan Doyle, empfangen durch Jimbeau Walsh: „Es gibt viele Möglichkeiten, die Welt mit der Wahrheit von Gottes Liebe zu erreichen und zu berühren.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

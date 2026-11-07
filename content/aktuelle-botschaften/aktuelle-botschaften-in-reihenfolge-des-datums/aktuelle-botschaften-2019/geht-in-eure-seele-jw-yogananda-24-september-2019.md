@@ -1,7 +1,7 @@
 ---
 title: "Geht in eure Seele"
 menu_title: ""
-description: "Geht in eure Seele"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Der Verstand hat eine solche Dominanz über die Menschheit, so viel zu verarbeiten, Gedanken, alle Arten von …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jede Seele ist einzigartig"
 menu_title: ""
-description: "Jede Seele ist einzigartig"
+description: "Andreas, empfangen durch Al Fike: „Ja, viele, die in verschiedenen Religionen auf der Welt führend waren, sind zur höchsten Wahrheit der Liebe Gottes gekommen.“"
 date: 2020-08-01 06:25:48+00:152
 draft: False
 hidden: True

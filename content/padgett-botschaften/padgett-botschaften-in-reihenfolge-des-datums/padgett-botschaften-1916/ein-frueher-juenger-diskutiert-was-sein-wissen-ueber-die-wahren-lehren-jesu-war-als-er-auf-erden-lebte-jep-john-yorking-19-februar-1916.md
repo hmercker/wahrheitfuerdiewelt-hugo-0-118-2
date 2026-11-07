@@ -1,7 +1,7 @@
 ---
 title: "Ein früher Jünger diskutiert, was sein Wissen über die Wahren Lehren Jesu war, als er auf Erden lebte"
 menu_title: ""
-description: "Ein früher Jünger diskutiert, was sein Wissen über die Wahren Lehren Jesu war, als er auf Erden lebte"
+description: "Johannes Yorking, empfangen durch James Padgett: „Ich war sein Jünger, aber der Geschichte bin ich ein Unbekannter. Und so wie zahlreiche andere in jenen …“"
 date: 2020-08-01 06:25:48+00:90
 draft: False
 hidden: True

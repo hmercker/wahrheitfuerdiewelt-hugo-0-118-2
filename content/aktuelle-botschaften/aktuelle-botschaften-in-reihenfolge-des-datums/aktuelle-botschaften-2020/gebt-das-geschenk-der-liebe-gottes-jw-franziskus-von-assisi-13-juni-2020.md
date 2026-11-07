@@ -1,7 +1,7 @@
 ---
 title: "Gebt das Geschenk der Liebe Gottes"
 menu_title: ""
-description: "Gebt das Geschenk der Liebe Gottes"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Denn ist es nicht das, was er sagt, worauf wir unsere Absicht setzen, oder wie Lukas sagte: \"Wo das …“"
 date: 2020-08-01 06:25:48+00:141
 draft: False
 hidden: True

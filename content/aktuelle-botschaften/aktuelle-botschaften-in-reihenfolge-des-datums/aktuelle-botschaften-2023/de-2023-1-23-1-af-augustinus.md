@@ -1,7 +1,7 @@
 ---
 title: "Spricht das Dilemma an, Neuankömmlinge für die Wahrheit zu gewinnen"
 menu_title: ""
-description: "Spricht das Dilemma an, Neuankömmlinge für die Wahrheit zu gewinnen"
+description: "Augustinus, empfangen durch Al Fike: „Ihr sprecht von dem Dilemma, die Wahrheit der Göttlichen Liebe in die Welt zu bringen, und die Art und Weise, wie ihr …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

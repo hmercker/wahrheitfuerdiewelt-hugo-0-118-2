@@ -1,7 +1,7 @@
 ---
 title: "Paulus von Tarsus und der erste Brief an die Korinther"
 menu_title: ""
-description: "Paulus von Tarsus und der erste Brief an die Korinther"
+description: "Judas, empfangen durch H.: „Mein lieber H , ich habe die Absicht, die Geschichte Jesu in chronologischer Reihenfolge fortzusetzen.“"
 date: 2020-08-01 06:25:48+00:242
 draft: False
 hidden: True

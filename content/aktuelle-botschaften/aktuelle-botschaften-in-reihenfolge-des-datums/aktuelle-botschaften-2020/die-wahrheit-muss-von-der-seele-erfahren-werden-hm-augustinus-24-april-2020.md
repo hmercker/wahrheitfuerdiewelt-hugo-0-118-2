@@ -1,7 +1,7 @@
 ---
 title: "Die Wahrheit muss von der Seele erfahren werden"
 menu_title: ""
-description: "Die Wahrheit muss von der Seele erfahren werden"
+description: "Augustinus, empfangen durch Helge Mercker: „Die Schriften der Wahrheit werden oft, auf viele Arten und zu vielen verschiedenen Gelegenheiten offenbart.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Anleitung zur Vertraulichkeit"
 menu_title: ""
-description: "Anleitung zur Vertraulichkeit"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt es bereits getan, viele von euch haben es getan. Es gibt keinen Grund, sich zu verstecken, geheimnisvoll zu …“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

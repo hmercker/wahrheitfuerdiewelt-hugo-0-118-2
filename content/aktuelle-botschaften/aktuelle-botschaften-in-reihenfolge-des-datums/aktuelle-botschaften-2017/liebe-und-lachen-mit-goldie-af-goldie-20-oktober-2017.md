@@ -1,7 +1,7 @@
 ---
 title: "Liebe und Lachen mit Goldie"
 menu_title: ""
-description: "Liebe und Lachen mit Goldie"
+description: "Goldie, empfangen durch Al Fike: „Und Gott liebt euch noch mehr, und wir alle lieben euch, jeden einzelnen von euch, denn ihr seid liebenswert.“"
 date: 2020-08-01 06:25:48+00:139
 draft: False
 hidden: True

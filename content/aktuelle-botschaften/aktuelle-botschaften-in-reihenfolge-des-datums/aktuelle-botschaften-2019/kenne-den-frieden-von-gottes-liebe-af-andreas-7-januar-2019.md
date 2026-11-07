@@ -1,7 +1,7 @@
 ---
 title: "Kenne den Frieden von Gottes Liebe"
 menu_title: ""
-description: "Kenne den Frieden von Gottes Liebe"
+description: "Andreas, empfangen durch Al Fike: „Gott erhebt euch ins Licht. Wenn ihr weiterhin in diesem Heiligtum betet und von diesem Portal des Lichts profitiert …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

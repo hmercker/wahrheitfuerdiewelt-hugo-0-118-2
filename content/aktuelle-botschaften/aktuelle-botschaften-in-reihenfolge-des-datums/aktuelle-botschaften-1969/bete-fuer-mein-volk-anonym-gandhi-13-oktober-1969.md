@@ -1,7 +1,7 @@
 ---
 title: "Bete für mein Volk"
 menu_title: ""
-description: "Bete für mein Volk"
+description: "Gandhi: „Ich wollte nicht sprechen, bis ich dieses Instrument gut genug kontrollieren konnte, um durch dieses Instrument nur die Gedanken auszusprechen …“"
 date: 2020-08-01 06:25:48+00:138
 draft: False
 hidden: True

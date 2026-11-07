@@ -1,7 +1,7 @@
 ---
 title: "Betet gemeinsam"
 menu_title: ""
-description: "Betet gemeinsam"
+description: "Andreas, empfangen durch Al Fike: „...und die Liebe im Inneren anzuerkennen. Und diese Liebe ist in eure Seelen geflossen, meine Kinder.“"
 date: 2020-08-01 06:25:48+00:142
 draft: False
 hidden: True

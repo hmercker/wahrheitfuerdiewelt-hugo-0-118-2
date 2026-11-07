@@ -1,7 +1,7 @@
 ---
 title: "Der Wert, seine Seele zu kennen"
 menu_title: ""
-description: "Der Wert, seine Seele zu kennen"
+description: "James Reid [^1], empfangen durch Al Fike: „Meine Freunde, es ist James, James Reid. Wie anders es ist, auf dieser Seite der Stimme zu sprechen.“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Jesus bittet Padgett, noch inniger um die Göttliche Liebe zu beten"
 menu_title: ""
-description: "Jesus bittet Padgett, noch inniger um die Göttliche Liebe zu beten"
+description: "Jesus, empfangen durch James Padgett: „Deine Gebete, mein lieber Bruder, sind erhört worden, denn das, was in deiner Seele glüht und lodert, ist nichts …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

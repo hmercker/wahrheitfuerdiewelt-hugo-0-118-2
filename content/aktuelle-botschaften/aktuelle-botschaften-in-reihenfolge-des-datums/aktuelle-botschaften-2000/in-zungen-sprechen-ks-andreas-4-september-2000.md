@@ -1,7 +1,7 @@
 ---
 title: "In Zungen sprechen"
 menu_title: ""
-description: "In Zungen sprechen"
+description: "Andreas, empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, ich bete für ein großes Einströmen Deiner Liebe in dieser Zeit. Ich wurde wieder mit …“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

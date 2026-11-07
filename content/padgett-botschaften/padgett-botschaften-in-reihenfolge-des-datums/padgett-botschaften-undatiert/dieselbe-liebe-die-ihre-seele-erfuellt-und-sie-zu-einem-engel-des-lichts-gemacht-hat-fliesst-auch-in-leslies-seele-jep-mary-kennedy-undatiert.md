@@ -1,7 +1,7 @@
 ---
 title: "Dieselbe Liebe, die ihre Seele erfüllt und sie zu einem Engel des Lichts gemacht hat, fließt auch in Leslie's Seele"
 menu_title: ""
-description: "Dieselbe Liebe, die ihre Seele erfüllt und sie zu einem Engel des Lichts gemacht hat, fließt auch in Leslie's Seele"
+description: "Mary Kennedy, empfangen durch James Padgett: „Du meinst es nicht ernst, wenn du eine solche Frage stellst, oder du hast vergessen, dass es in der …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

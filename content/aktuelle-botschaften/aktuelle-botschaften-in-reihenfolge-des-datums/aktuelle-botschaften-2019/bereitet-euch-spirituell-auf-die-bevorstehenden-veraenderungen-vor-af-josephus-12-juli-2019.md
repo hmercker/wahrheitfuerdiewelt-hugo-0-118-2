@@ -1,7 +1,7 @@
 ---
 title: "Bereitet euch spirituell auf die bevorstehenden Veränderungen vor"
 menu_title: ""
-description: "Bereitet euch spirituell auf die bevorstehenden Veränderungen vor"
+description: "Josephus, empfangen durch Al Fike: „Auch ich möchte euch danken, dass ihr zugehört habt, dass ihr an diesem Kreis des Lichts teilnehmt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

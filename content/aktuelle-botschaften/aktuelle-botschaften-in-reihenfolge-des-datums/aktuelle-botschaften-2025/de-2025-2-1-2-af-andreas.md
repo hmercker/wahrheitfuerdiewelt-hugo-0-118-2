@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe zu empfangen, beginnt als Rinnsal und kann zu einem Sturzbach werden"
 menu_title: ""
-description: "Gottes Liebe zu empfangen, beginnt als Rinnsal und kann zu einem Sturzbach werden"
+description: "Andreas, empfangen durch Al Fike: „Für diejenigen, die sich gerade erst auf den Weg zur Wahrheit, zu Gott, machen, beginnt der Segen Seiner Liebe oft wie …“"
 date: 2025-02-01 06:00:00+00:10
 draft: False
 hidden: True

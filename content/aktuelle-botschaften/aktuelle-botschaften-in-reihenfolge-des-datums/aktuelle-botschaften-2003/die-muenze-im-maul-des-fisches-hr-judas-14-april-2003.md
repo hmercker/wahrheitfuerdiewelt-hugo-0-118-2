@@ -1,7 +1,7 @@
 ---
 title: "Die Münze im Maul des Fisches"
 menu_title: ""
-description: "Die Münze im Maul des Fisches"
+description: "Judas, empfangen durch H.: „Montag des Passahfestes, mein lieber Bruder: Ich werde mich mit einem Thema beschäftigen, das nur entfernt mit Passah zu tun hat.“"
 date: 2020-08-01 06:25:48+00:266
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Vorwärtskommen in dieser und der nächsten Welt"
 menu_title: ""
-description: "Vorwärtskommen in dieser und der nächsten Welt"
+description: "Jesus, empfangen durch Kathryn Stokes: „Ich bete, dass ich die Gedanken Jesu heute Morgen klar empfangen kann. Eine suchende Seele, , sucht Trost und …“"
 date: 2020-08-01 06:25:48+00:111
 draft: False
 hidden: True

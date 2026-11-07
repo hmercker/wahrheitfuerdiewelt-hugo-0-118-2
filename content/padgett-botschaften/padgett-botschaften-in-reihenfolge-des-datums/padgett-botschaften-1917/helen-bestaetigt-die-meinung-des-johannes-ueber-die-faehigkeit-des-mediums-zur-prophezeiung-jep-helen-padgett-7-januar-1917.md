@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt die Meinung des Johannes über die Fähigkeit des Mediums zur Prophezeiung"
 menu_title: ""
-description: "Helen bestätigt die Meinung des Johannes über die Fähigkeit des Mediums zur Prophezeiung"
+description: "Helen, empfangen durch James Padgett: „Ich war auch froh, dass es dir so viel besser geht und dass du deine Sorgen abgelegt hast.“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

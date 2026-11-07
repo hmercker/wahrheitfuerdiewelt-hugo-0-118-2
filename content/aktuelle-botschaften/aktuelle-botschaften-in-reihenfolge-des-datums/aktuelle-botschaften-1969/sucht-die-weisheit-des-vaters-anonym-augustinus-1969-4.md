@@ -1,7 +1,7 @@
 ---
 title: "Sucht die Weisheit des Vaters"
 menu_title: ""
-description: "Sucht die Weisheit des Vaters"
+description: "Augustinus: „Sucht wahrhaftig die Weisheit des Vaters. Warum in der Finsternis tappen, wenn ihr das Licht sehen könnt?“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

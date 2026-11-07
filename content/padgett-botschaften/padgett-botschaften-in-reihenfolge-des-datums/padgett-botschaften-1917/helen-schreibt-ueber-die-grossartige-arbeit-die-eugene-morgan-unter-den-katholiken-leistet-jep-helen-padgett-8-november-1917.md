@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über die großartige Arbeit, die Eugene Morgan unter den Katholiken leistet"
 menu_title: ""
-description: "Helen schreibt über die großartige Arbeit, die Eugene Morgan unter den Katholiken leistet"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebling, du hattest heute Abend einen ungewöhnlichen Besucher, und ich war sehr interessiert an seinem …“"
 date: 2020-08-01 06:25:48+00:234
 draft: False
 hidden: True

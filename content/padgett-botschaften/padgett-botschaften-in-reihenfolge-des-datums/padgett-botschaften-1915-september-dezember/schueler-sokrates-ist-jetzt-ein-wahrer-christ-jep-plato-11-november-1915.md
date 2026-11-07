@@ -1,7 +1,7 @@
 ---
 title: "Schüler Sokrates, ist jetzt ein wahrer Christ"
 menu_title: ""
-description: "Schüler Sokrates, ist jetzt ein wahrer Christ"
+description: "Plato, empfangen durch James Padgett: „Ich möchte einer sein, der dir von der Wahrheit erzählt, die du kennenlernen willst. Ich war ein Jünger Socrates' …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

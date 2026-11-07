@@ -1,7 +1,7 @@
 ---
 title: "Haltet die Vision Gottes und lasst euch nicht ablenken"
 menu_title: ""
-description: "Haltet die Vision Gottes und lasst euch nicht ablenken"
+description: "Mahatma Gandhi, empfangen durch Maureen Cardoso: „Es war eine Reise, eure Zeit in diesem fernen Land, zu diesem Heilungszentrum. Ihr seid auf ein Buch …“"
 date: 2020-08-01 06:25:48+00:102
 draft: False
 hidden: True

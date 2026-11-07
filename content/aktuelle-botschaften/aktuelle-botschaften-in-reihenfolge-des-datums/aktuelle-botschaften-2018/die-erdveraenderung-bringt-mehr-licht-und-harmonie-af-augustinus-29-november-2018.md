@@ -1,7 +1,7 @@
 ---
 title: "Die Erdveränderungen bringen mehr Licht und Harmonie der Menschheit"
 menu_title: ""
-description: "Die Erdveränderungen bringen mehr Licht und Harmonie der Menschheit"
+description: "Augustinus, empfangen durch Al Fike: „Ihr kennt keine wahren Widrigkeiten, meine Lieben. Euer Leben ist gut gegen wahre Not isoliert.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

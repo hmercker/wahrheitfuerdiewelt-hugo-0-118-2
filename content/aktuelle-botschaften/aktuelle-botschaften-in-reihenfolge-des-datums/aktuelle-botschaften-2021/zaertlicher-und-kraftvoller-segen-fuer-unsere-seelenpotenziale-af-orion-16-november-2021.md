@@ -1,7 +1,7 @@
 ---
 title: "Zärtlicher und kraftvoller Segen für unsere Seelenpotenziale"
 menu_title: ""
-description: "Zärtlicher und kraftvoller Segen für unsere Seelenpotenziale"
+description: "Orion, empfangen durch Al Fike: „Möge Gott euch weiterhin mit der universellen Liebe erwecken, die die Essenz Seiner Seele ist, damit ihr euren Weg durch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

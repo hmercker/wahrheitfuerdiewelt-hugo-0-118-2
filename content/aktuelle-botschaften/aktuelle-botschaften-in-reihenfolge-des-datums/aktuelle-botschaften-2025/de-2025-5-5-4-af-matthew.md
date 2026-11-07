@@ -1,7 +1,7 @@
 ---
 title: "Habt Mitgefühl für die verlorenen Seelen"
 menu_title: ""
-description: "Habt Mitgefühl für die verlorenen Seelen"
+description: "Matthäus, empfangen durch Al Fike: „Wenn ihr durch diese Stadt (San Francisco) spaziert und Menschen begegnet, die im Leben stehen, seht ihr dann, wie sie …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Berührt andere mit Liebe und alles wird an seinen Platz fallen"
 menu_title: ""
-description: "Berührt andere mit Liebe und alles wird an seinen Platz fallen"
+description: "Paulus, empfangen durch Jimbeau Walsh: „Manchmal wird mir die Verbreitung der Botschaft Jesu über die jüdische Gemeinde hinaus in die heidnische Welt …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

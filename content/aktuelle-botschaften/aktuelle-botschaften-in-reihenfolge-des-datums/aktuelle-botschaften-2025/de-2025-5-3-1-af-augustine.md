@@ -1,7 +1,7 @@
 ---
 title: "Es sind die Ausreißer und Nichtkonformen, die außerhalb der gesellschaftlichen Normen arbeiten, die die Welt verändern werden!"
 menu_title: ""
-description: "Es sind die Ausreißer und Nichtkonformen, die außerhalb der gesellschaftlichen Normen arbeiten, die die Welt verändern werden!"
+description: "Augustinus, empfangen durch Al Fike: „Eure Gruppen werden auch in Zukunft eher uneinheitlich sein, Ausreißer, Individuen, die nicht in den Hauptstrom der …“"
 date: 2025-07-09 06:00:00+00:00
 draft: False
 hidden: True

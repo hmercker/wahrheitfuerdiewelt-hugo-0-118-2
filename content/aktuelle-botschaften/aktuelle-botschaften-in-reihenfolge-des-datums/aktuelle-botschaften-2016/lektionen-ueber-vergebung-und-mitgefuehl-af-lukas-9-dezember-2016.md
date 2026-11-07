@@ -1,7 +1,7 @@
 ---
 title: "Lektionen über Vergebung und Mitgefühl"
 menu_title: ""
-description: "Lektionen über Vergebung und Mitgefühl"
+description: "Lukas, empfangen durch Al Fike: „Wie ihr wisst, ist die Welt voller Schwierigkeiten, Bedingungen, die von der Menschheit über viele, viele Tausende von …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Reise und der Kampf zum Seelenbewusstsein"
 menu_title: ""
-description: "Die Reise und der Kampf zum Seelenbewusstsein"
+description: "Orion, empfangen durch Al Fike: „Ich möchte euch die drei Bewusstseinszentren, die in euch existieren, näher erläutern. Da wir nicht aus eurer Welt kommen …“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

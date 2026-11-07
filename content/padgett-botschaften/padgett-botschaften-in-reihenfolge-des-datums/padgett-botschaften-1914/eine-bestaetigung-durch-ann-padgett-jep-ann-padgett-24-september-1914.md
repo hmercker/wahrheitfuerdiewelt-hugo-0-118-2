@@ -1,7 +1,7 @@
 ---
 title: "Eine Bestätigung durch Ann Padgett"
 menu_title: ""
-description: "Eine Bestätigung durch Ann Padgett"
+description: "Ann Padgett, empfangen durch James Padgett: „Es war der Christus welcher geredet hat. Er ist dein Freund und Retter.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

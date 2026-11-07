@@ -1,7 +1,7 @@
 ---
 title: "Wie Gott Gebete beantwortet und über das Gesetz von Kommunikation und Verbindung"
 menu_title: ""
-description: "Wie Gott Gebete beantwortet und über das Gesetz von Kommunikation und Verbindung"
+description: "Johannes, empfangen durch James Padgett: „Darum sage ich: Vertraue auf den Vater und auf unsere Hilfe, und du wirst nicht enttäuscht werden.“"
 date: 2020-08-01 06:25:48+00:231
 draft: False
 hidden: True

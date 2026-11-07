@@ -1,7 +1,7 @@
 ---
 title: "Reagiert Mutter Erde auf menschliche Negativität?"
 menu_title: ""
-description: "Reagiert Mutter Erde auf menschliche Negativität?"
+description: "Jesus, empfangen durch Kathryn Stokes: „[Ich betete und bereitete mich darauf vor, eine Botschaft zu empfangen, wenn ich in der Verfassung dazu war.“"
 date: 2020-08-01 06:25:48+00:307
 draft: False
 hidden: True

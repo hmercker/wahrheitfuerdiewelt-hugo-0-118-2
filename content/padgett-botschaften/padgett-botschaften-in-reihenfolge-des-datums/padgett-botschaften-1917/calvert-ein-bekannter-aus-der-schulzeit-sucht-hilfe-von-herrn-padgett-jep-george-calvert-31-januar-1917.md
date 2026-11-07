@@ -1,7 +1,7 @@
 ---
 title: "Calvert: Ein Bekannter aus der Schulzeit sucht Hilfe von Herrn Padgett"
 menu_title: ""
-description: "Calvert: Ein Bekannter aus der Schulzeit sucht Hilfe von Herrn Padgett"
+description: "Calvert, empfangen durch James Padgett: „Ich war ein Bekannter von dir, als du Student am New Market warst und du wirst dich an mich erinnern, wenn ich …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

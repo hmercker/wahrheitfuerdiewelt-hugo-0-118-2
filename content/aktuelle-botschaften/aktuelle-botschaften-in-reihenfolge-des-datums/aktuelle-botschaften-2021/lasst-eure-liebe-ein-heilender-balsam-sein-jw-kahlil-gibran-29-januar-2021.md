@@ -1,7 +1,7 @@
 ---
 title: "Lasst eure Liebe ein heilender Balsam sein"
 menu_title: ""
-description: "Lasst eure Liebe ein heilender Balsam sein"
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Denn ich lebte wie zwischen zwei Welten, eine sehr menschliche Existenz, sehr irdisch und doch war meine …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

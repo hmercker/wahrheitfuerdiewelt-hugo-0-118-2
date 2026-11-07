@@ -1,7 +1,7 @@
 ---
 title: "James Padgett beweint den Tod seiner Tochter"
 menu_title: ""
-description: "James Padgett beweint den Tod seiner Tochter"
+description: "Jesus, empfangen durch James Padgett: „Du darfst die Dinge nicht mit so verzagten Gefühlen betrachten. Ich verstehe, wie natürlich es für dich ist, die …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

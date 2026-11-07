@@ -1,7 +1,7 @@
 ---
 title: "Das fortwährende Leben eines Menschen nach dem Tod, wie es sich aus den Manifestationen der Natur ergibt, ist nicht schlüssig"
 menu_title: ""
-description: "Das fortwährende Leben eines Menschen nach dem Tod, wie es sich aus den Manifestationen der Natur ergibt, ist nicht schlüssig"
+description: "Samuel, empfangen durch James Padgett: „Ich möchte für eine kurze Zeit über ein Thema schreiben, das für diejenigen von Bedeutung ist, die Zweifel an der …“"
 date: 2020-08-01 06:25:48+00:124
 draft: False
 hidden: True

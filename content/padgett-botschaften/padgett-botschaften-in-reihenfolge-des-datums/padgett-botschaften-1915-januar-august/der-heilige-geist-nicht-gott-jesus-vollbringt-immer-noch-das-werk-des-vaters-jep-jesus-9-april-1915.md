@@ -1,7 +1,7 @@
 ---
 title: "Der Heilige Geist ist nicht Gott. Jesus vollbringt immer noch das Werk des Vaters"
 menu_title: ""
-description: "Der Heilige Geist ist nicht Gott. Jesus vollbringt immer noch das Werk des Vaters"
+description: "Jesus, empfangen durch James Padgett: „Ja, das bin ich und du wirst vollständig in der Lage sein zu verstehen, was der Heilige Geist ist und welche …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

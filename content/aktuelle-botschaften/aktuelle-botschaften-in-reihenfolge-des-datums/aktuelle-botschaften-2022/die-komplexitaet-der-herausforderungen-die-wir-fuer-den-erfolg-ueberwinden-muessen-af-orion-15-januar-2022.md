@@ -1,7 +1,7 @@
 ---
 title: "Die Komplexität der Herausforderungen, die wir für den Erfolg überwinden müssen"
 menu_title: ""
-description: "Die Komplexität der Herausforderungen, die wir für den Erfolg überwinden müssen"
+description: "Orion, empfangen durch Al Fike: „Ich möchte darüber sprechen, wie eure Kanäle und Gaben geöffnet werden können, und über den Prozess, der oft mit dieser …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

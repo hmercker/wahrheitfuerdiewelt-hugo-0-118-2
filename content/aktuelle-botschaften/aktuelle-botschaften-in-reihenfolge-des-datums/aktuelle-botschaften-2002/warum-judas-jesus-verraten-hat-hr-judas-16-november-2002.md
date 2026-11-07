@@ -1,7 +1,7 @@
 ---
 title: "Warum Judas Jesus verraten hat"
 menu_title: ""
-description: "Warum Judas Jesus verraten hat"
+description: "Judas, empfangen durch H.: „Es tut mir sehr leid, dass ich gestern unseren Kontakt unterbrechen musste, aber ich hatte das Gefühl, dass es keine guten …“"
 date: 2020-08-01 06:25:48+00:246
 draft: False
 hidden: True

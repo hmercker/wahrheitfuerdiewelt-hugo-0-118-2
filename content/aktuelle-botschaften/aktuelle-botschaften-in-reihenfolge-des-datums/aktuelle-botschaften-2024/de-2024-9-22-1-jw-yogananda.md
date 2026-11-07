@@ -1,7 +1,7 @@
 ---
 title: "Glaube statt Angst"
 menu_title: ""
-description: "Glaube statt Angst"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ihr habt den Ausdruck „Glaube statt Angst“ gehört. Die tiefere Bedeutung ist, dass, wenn man seine Seele mit der …“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

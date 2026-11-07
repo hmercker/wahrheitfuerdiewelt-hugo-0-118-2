@@ -1,7 +1,7 @@
 ---
 title: "Die Reise zum Seelenerwachen"
 menu_title: ""
-description: "Die Reise zum Seelenerwachen"
+description: "Johannes, empfangen durch Al Fike: „Jede Seele begibt sich auf eine Lebensreise, auf der Suche nach sich selbst, auf der Suche nach dem Leben in all seinen …“"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True

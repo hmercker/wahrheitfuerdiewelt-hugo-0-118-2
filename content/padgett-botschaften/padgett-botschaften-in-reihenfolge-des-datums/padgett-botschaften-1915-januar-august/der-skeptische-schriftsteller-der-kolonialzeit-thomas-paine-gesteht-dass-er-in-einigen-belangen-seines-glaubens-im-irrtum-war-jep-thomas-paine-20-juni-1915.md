@@ -1,7 +1,7 @@
 ---
 title: "Der skeptische Schriftsteller der Kolonialzeit, Thomas Paine, gesteht, dass er in einigen Belangen seines Glaubens im Irrtum war"
 menu_title: ""
-description: "Der skeptische Schriftsteller der Kolonialzeit, Thomas Paine, gesteht, dass er in einigen Belangen seines Glaubens im Irrtum war"
+description: "Thomas Paine, empfangen durch James Padgett: „Als ich starb, glaubte ich nicht an Jesus als Gottes Sohn oder als Sein Bote, der gesandt worden war, um der …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

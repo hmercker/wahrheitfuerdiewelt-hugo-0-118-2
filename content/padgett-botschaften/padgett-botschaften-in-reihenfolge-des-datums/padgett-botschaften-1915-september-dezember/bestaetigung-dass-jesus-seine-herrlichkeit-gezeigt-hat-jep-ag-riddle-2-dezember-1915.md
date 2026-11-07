@@ -1,7 +1,7 @@
 ---
 title: "Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat"
 menu_title: ""
-description: "Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat"
+description: "A G Riddle, empfangen durch James Padgett: „Ich weiß, es ist spät, aber dennoch muss ich sagen, dass das, was dir gesagt wurde, wahr ist, und wenn wir von …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

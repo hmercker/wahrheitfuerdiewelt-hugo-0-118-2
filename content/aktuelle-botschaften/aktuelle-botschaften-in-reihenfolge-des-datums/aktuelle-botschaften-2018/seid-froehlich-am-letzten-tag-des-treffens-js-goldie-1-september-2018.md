@@ -1,7 +1,7 @@
 ---
 title: "Seid fröhlich am letzten Tag des Treffens"
 menu_title: ""
-description: "Seid fröhlich am letzten Tag des Treffens"
+description: "Goldie, empfangen durch Jesper Sorensen: „Eine solche Freude, hierher zu kommen und ein wenig Zeit mit euch zu verbringen. Es fühlt sich wunderbar an, auf …“"
 date: 2020-08-01 06:25:48+00:243
 draft: False
 hidden: True

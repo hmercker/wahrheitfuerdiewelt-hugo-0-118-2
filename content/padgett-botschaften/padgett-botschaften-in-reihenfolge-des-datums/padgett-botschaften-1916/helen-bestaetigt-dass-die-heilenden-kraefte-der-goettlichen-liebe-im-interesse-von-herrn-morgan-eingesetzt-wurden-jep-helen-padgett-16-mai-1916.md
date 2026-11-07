@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass die heilenden Kräfte der Göttlichen Liebe im Interesse von Herrn Morgan eingesetzt wurden"
 menu_title: ""
-description: "Helen bestätigt, dass die heilenden Kräfte der Göttlichen Liebe im Interesse von Herrn Morgan eingesetzt wurden"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebling, ich werde nicht viel schreiben, da du müde bist und früh ins Bett gehen musst.“"
 date: 2020-08-01 06:25:48+00:165
 draft: False
 hidden: True

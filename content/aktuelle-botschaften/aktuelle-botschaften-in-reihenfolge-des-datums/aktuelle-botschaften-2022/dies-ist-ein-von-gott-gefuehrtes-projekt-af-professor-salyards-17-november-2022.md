@@ -1,7 +1,7 @@
 ---
 title: "Dies ist ein von Gott geführtes Projekt"
 menu_title: ""
-description: "Dies ist ein von Gott geführtes Projekt"
+description: "Professor Salyards, empfangen durch Al Fike: „Ich sehe, wenn ihr vor einer Entscheidung steht, greift ihr oft auf die altbewährten Methoden der …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

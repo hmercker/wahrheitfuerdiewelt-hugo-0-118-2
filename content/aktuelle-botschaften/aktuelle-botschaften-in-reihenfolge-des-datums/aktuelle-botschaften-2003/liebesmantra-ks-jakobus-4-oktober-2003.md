@@ -1,7 +1,7 @@
 ---
 title: "Liebes-Mantra"
 menu_title: ""
-description: "Liebes-Mantra"
+description: "Jakobus, empfangen durch Kathryn Stokes: „Ich möchte das Problem angehen, sich von aufgestautem Ärger zu befreien - Ärger, der viele Jahre lang ein Teil …“"
 date: 2020-08-01 06:25:48+00:278
 draft: False
 hidden: True

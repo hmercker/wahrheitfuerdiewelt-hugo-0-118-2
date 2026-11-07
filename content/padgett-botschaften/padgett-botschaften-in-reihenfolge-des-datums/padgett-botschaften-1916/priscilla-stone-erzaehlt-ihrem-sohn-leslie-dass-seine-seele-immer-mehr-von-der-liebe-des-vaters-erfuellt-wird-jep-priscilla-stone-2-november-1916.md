@@ -1,7 +1,7 @@
 ---
 title: "Priscilla Stone erzählt ihrem Sohn Leslie, dass seine Seele immer mehr von der Liebe des Vaters erfüllt wird"
 menu_title: ""
-description: "Priscilla Stone erzählt ihrem Sohn Leslie, dass seine Seele immer mehr von der Liebe des Vaters erfüllt wird"
+description: "Priscilla Stone, empfangen durch James Padgett: „Lass mich nur eine Zeile schreiben. Er mag den Unterschied zwischen seinem jetzigen Zustand und dem von …“"
 date: 2020-08-01 06:25:48+00:251
 draft: False
 hidden: True

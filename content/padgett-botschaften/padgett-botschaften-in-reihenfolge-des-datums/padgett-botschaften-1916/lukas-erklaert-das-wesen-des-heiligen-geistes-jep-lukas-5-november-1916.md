@@ -1,7 +1,7 @@
 ---
 title: "Lukas erklärt das Wesen des Heiligen Geistes"
 menu_title: ""
-description: "Lukas erklärt das Wesen des Heiligen Geistes"
+description: "Lukas, empfangen durch James Padgett: „Ich weiß, dass die orthodoxen Ihn im Allgemeinen für einen Teil der \"Dreifaltigkeit\" halten und so katalogisieren …“"
 date: 2020-08-01 06:25:48+00:259
 draft: False
 hidden: True

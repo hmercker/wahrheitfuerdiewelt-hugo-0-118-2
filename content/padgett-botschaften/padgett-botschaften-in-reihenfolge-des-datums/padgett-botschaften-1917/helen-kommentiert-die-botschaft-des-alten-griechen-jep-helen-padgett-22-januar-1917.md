@@ -1,7 +1,7 @@
 ---
 title: "Helen kommentiert die Botschaft des alten Griechen"
 menu_title: ""
-description: "Helen kommentiert die Botschaft des alten Griechen"
+description: "Helen, empfangen durch James Padgett: „Nun, meine Lieber, du hast heute Abend einen recht bemerkenswerten Brief des griechischen spirituellen Wesen …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

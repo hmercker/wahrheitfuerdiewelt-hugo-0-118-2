@@ -1,7 +1,7 @@
 ---
 title: "Gottes Liebe ist die großartigste Sache im Universum"
 menu_title: ""
-description: "Gottes Liebe ist die großartigste Sache im Universum"
+description: "Charlie Chaplin, empfangen durch Jimbeau Walsh: „Wie sehr liebte ich es, die Wahrheit zu sagen und Unwahrheiten mit Humor zu entlarven, während ich auf der …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

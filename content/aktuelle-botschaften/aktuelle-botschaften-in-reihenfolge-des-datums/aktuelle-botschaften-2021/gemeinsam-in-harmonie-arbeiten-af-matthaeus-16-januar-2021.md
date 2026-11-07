@@ -1,7 +1,7 @@
 ---
 title: "Gemeinsam in Harmonie arbeiten"
 menu_title: ""
-description: "Gemeinsam in Harmonie arbeiten"
+description: "Matthäus, empfangen durch Al Fike: „Segen für euch, geliebte Brüder und Schwestern. In der Tat sind wir mit euch in euren Vorhaben, während jeder von euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

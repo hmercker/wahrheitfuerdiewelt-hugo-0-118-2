@@ -1,7 +1,7 @@
 ---
 title: "Thomas B. Monroe kommentiert den Vortrag des Predigers"
 menu_title: ""
-description: "Thomas B. Monroe kommentiert den Vortrag des Predigers"
+description: "Thomas B. Moore 1, empfangen durch James Padgett: „Lasse mich ein Wort sagen, denn auch ich war heute Abend bei dem Treffen anwesend und hörte dem Prediger …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz der Ausgewogenheit oder des Gleichgewichts"
 menu_title: ""
-description: "Das Gesetz der Ausgewogenheit oder des Gleichgewichts"
+description: "Jesus, empfangen durch David Lampron: „Wie dir gesagt wurde, gibt es viele Gesetze, sowohl natürliche als auch spirituelle, die das Funktionieren von …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

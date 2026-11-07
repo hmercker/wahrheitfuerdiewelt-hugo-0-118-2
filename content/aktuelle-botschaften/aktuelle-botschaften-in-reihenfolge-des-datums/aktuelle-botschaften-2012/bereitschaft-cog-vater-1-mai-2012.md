@@ -1,7 +1,7 @@
 ---
 title: "Bereitschaft"
 menu_title: ""
-description: "Bereitschaft"
+description: "Vater, empfangen von Child of God: „Bei der heutigen Kommunikation geht es um Bereitschaft. Deine Bereitschaft, alles zu akzeptieren, was ist.“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

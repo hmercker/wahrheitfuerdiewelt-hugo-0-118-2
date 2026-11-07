@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 2: Johannes der Täufer schreibt über sein Leben und sein öffentliches Wirken"
 menu_title: ""
-description: "Offenbarung 2: Johannes der Täufer schreibt über sein Leben und sein öffentliches Wirken"
+description: "Johannes, empfangen durch Dr Samuels: „Ich freue mich, dass du mir gestattest, durch dich zu schreiben, auch wenn ich weiß, dass du bereits eine Botschaft …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

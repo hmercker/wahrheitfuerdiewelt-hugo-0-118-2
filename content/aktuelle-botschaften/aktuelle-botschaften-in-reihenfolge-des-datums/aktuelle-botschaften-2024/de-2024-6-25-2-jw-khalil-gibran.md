@@ -1,7 +1,7 @@
 ---
 title: "Endlose Liebe"
 menu_title: ""
-description: "Endlose Liebe"
+description: "Kahlil Gibran, empfangen durch Jimbeau Walsh: „Ihr sucht die Ewigkeit, ohne zu wissen, was sie ist, aber auch ohne zu wollen, was sie nicht ist.“"
 date: 2024-05-24 06:00:00+00:10
 draft: False
 hidden: True

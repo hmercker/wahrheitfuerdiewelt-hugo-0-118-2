@@ -1,7 +1,7 @@
 ---
 title: "Die Großmutter ermutigt Padgett und bezieht sich auf die große Liebe Jesu"
 menu_title: ""
-description: "Die Großmutter ermutigt Padgett und bezieht sich auf die große Liebe Jesu"
+description: "Ann Rollins, empfangen durch James Padgett: „Lass mich heute Abend ein paar Zeilen schreiben, da ich deinem Gespräch mit einigem Interesse zugehört habe …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

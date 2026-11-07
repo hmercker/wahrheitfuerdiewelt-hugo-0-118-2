@@ -1,7 +1,7 @@
 ---
 title: "Klara von Assisi spricht vom einzigen und wahren Schatz"
 menu_title: ""
-description: "Klara von Assisi spricht vom einzigen und wahren Schatz"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Er war unsere Inspiration und unser Mentor, und bis heute haben viele Brüder und Schwestern den Weg der …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

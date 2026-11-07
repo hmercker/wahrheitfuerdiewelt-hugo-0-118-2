@@ -1,7 +1,7 @@
 ---
 title: "Nicht das Blut Jesu, sondern die Göttliche Liebe ist es, was rettet und erlöst"
 menu_title: ""
-description: "Nicht das Blut Jesu, sondern die Göttliche Liebe ist es, was rettet und erlöst"
+description: "Johannes, empfangen von James Padgett: „Ich habe gesehen, wie du die Bibel oder vielmehr die Teile des Buches studiert hast, in denen es um die Erlösung …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

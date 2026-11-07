@@ -1,7 +1,7 @@
 ---
 title: "Die Intensität des Gebets bringt einen näher zu Gott"
 menu_title: ""
-description: "Die Intensität des Gebets bringt einen näher zu Gott"
+description: "Michael Collier, empfangen durch Al Fike: „Wünscht ihr euch, wach zu sein, erweckt von Gottes Liebe, erweckt in eurem Bewusstsein für die spirituellen …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

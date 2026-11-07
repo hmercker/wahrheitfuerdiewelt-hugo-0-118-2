@@ -1,7 +1,7 @@
 ---
 title: "Befreit die Einbildungen des Verstandes"
 menu_title: ""
-description: "Befreit die Einbildungen des Verstandes"
+description: "Augustinus, empfangen durch Al Fike: „Ihr hört die Glocke läuten, nicht wahr? Ich rufe euch auf, eure Seelen zu erwecken, damit ihr Gott effektiv und als …“"
 date: 2020-08-01 06:25:48+00:222
 draft: False
 hidden: True

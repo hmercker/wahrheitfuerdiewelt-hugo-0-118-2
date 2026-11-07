@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet wissen, welche Rolle ihr zu spielen habt"
 menu_title: ""
-description: "Ihr werdet wissen, welche Rolle ihr zu spielen habt"
+description: "Professor Salyards, empfangen durch Al Fike: „Dies ist euer Professor Salyards. Vieles wird kommen, das euch alle in der Tat beschäftigt und in diesen …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

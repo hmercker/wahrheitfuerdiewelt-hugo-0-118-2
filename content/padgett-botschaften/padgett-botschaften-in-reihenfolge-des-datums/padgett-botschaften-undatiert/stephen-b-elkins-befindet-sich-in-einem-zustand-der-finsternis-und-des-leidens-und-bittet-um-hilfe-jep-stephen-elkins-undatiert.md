@@ -1,7 +1,7 @@
 ---
 title: "Stephen B. Elkins befindet sich in einem Zustand der Finsternis und des Leidens und bittet um Hilfe"
 menu_title: ""
-description: "Stephen B. Elkins befindet sich in einem Zustand der Finsternis und des Leidens und bittet um Hilfe"
+description: "Stephen Elkins, empfangen durch James Padgett: „Ich möchte dir sagen, dass ich mich in einem Zustand der Dunkelheit und des Leidens befinde, der mich …“"
 date: 2020-08-01 06:25:48+00:128
 draft: False
 hidden: True

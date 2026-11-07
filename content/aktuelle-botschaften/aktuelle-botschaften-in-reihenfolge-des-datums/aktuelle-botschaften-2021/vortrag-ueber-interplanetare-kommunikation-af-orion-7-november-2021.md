@@ -1,7 +1,7 @@
 ---
 title: "Vortrag über interplanetare Kommunikation"
 menu_title: ""
-description: "Vortrag über interplanetare Kommunikation"
+description: "Orion, empfangen durch Al Fike: „Ich möchte, dass die gesamte Menschheit weiß, dass sie Teil einer großen Familie ist, einer Familie, die über alle …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

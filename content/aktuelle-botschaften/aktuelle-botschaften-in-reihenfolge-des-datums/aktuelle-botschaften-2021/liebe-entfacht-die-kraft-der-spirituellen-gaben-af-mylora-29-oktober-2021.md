@@ -1,7 +1,7 @@
 ---
 title: "Liebe entfacht die Kraft der spirituellen Gaben"
 menu_title: ""
-description: "Liebe entfacht die Kraft der spirituellen Gaben"
+description: "Mylora, empfangen durch Al Fike: „Wir sind bei euch, wenn ihr auf diesem Weg weiter wachst, und wir werden euch auf dieser besonderen Reise begleiten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Eine Nachricht von White Eagle"
 menu_title: ""
-description: "Eine Nachricht von White Eagle"
+description: "White Eagle, empfangen durch James Padgett: „Ich habe es ihnen erzählt und sie lernen nun und scheinen enttäuscht zu sein, aber werden bereitwillig gehen.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

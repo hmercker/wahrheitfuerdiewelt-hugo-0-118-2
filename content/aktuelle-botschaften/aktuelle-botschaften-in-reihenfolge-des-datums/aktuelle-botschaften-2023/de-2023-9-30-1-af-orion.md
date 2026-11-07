@@ -1,7 +1,7 @@
 ---
 title: "Vergleicht Natürlichen- und Göttlichen Liebesweg"
 menu_title: ""
-description: "Vergleicht Natürlichen- und Göttlichen Liebesweg"
+description: "Orion, empfangen durch Al Fike: „Seid gesegnet, meine Freunde. Dieses Instrument hat über bestimmte Aspekte vieler Menschen nachgedacht, die auf dem Weg …“"
 date: 2023-11-02 06:00:00+00:10
 draft: False
 hidden: True

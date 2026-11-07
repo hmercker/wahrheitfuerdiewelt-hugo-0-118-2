@@ -1,7 +1,7 @@
 ---
 title: "Es ist an der Zeit, dass die Wahrheiten bekannt gemacht werden"
 menu_title: ""
-description: "Es ist an der Zeit, dass die Wahrheiten bekannt gemacht werden"
+description: "Johannes der Täufer, empfangen von James Padgett: „Die Liebe des Vaters wartet darauf, dass du deine Seele bis zum Äußersten füllst, und das Einzige, was …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ratschläge zur Heilung. Kommentare zu Büchern, die vorgeben, von Gott geschrieben zu sein"
 menu_title: ""
-description: "Ratschläge zur Heilung. Kommentare zu Büchern, die vorgeben, von Gott geschrieben zu sein"
+description: "Jesus- empfangen durch Kathryn Stokes: „[Lieber Vater im Himmel, Danke für die vielen Segnungen, die Du uns jeden Tag schenkst. Ich bete, dass ich Jesu …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

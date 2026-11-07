@@ -1,7 +1,7 @@
 ---
 title: "Swedenborg wusste nicht, dass die Göttliche Liebe sich von der natürlichen Liebe unterscheidet"
 menu_title: ""
-description: "Swedenborg wusste nicht, dass die Göttliche Liebe sich von der natürlichen Liebe unterscheidet"
+description: "Schwedenborg, empfangen durch James Padgett: „Ich möchte nur sagen, dass ich mein Werk so gelesen habe, wie du es gelesen hast, und dass mir jetzt klar …“"
 date: 2020-08-01 06:25:48+00:148
 draft: False
 hidden: True

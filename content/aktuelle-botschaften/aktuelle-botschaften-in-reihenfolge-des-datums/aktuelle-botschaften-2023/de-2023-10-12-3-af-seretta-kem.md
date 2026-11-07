@@ -1,7 +1,7 @@
 ---
 title: "Jedem von uns ist ein Engel zugeteilt"
 menu_title: ""
-description: "Jedem von uns ist ein Engel zugeteilt"
+description: "Seretta Kem, empfangen durch Al Fike: „Seid wahrhaftig im Einklang mit Gott und alles wird so kommen, wie es versprochen wurde. Geliebte Seelen, ihr steht …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

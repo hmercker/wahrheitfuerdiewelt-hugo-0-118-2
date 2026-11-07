@@ -1,7 +1,7 @@
 ---
 title: "Die einzigartige Schöpfung der Erzengel und die Rolle der himmlischen Engel"
 menu_title: ""
-description: "Die einzigartige Schöpfung der Erzengel und die Rolle der himmlischen Engel"
+description: "Shelayis, empfangen durch Al Fike: „Ihr wisst nichts von mir, aber ich weiß von euch. Ich fühle mich euch sehr nahe.“"
 date: 2025-01-13 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Kommunikation und Medialität"
 menu_title: ""
-description: "Kommunikation und Medialität"
+description: "Judas, empfangen durch H.: „Nach unserem Treffen heute Nachmittag dachte ich nicht, dass wir uns heute Abend noch einmal treffen könnten.]“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

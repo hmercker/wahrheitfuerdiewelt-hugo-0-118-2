@@ -1,7 +1,7 @@
 ---
 title: "Eine Lektion über ein Leben im Einklang mit Gottes Willen"
 menu_title: ""
-description: "Eine Lektion über ein Leben im Einklang mit Gottes Willen"
+description: "Augustinus, empfangen durch Al fike: „Jeder Tag, den Gott euch auf dieser Erdebene schenkt, ist ein kostbares Geschenk. Wie oft habt ihr dieses kleine …“"
 date: 2023-05-8 06:00:00+00:10
 draft: False
 hidden: True

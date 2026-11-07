@@ -1,7 +1,7 @@
 ---
 title: "Garfield schreibt, dass Padgett's Großmutter eine positive Wirkung auf ihn hatte "
 menu_title: ""
-description: "Garfield schreibt, dass Padgett's Großmutter eine positive Wirkung auf ihn hatte "
+description: "Garfield, empfangen durch James Padgett: „Nein, ich habe dir schon lange nicht mehr geschrieben, obwohl ich mit dir in Kontakt geblieben bin und viele Male …“"
 date: 2020-08-01 06:25:48+00:265
 draft: False
 hidden: True

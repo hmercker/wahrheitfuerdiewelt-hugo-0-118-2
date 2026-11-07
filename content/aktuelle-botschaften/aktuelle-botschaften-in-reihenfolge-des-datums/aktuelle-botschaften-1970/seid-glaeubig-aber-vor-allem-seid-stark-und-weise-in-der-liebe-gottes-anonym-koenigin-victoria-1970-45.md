@@ -1,7 +1,7 @@
 ---
 title: "Seid gläubig, aber vor allem, seid stark und weise in der Liebe Gottes"
 menu_title: ""
-description: "Seid gläubig, aber vor allem, seid stark und weise in der Liebe Gottes"
+description: "Königin Victoria 1: „Mögen die Segnungen, die von Gott kommen, die euren sein, meine Freunde, Victoria. Wenn ich an mein Leben auf der Erde denke, fühle …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

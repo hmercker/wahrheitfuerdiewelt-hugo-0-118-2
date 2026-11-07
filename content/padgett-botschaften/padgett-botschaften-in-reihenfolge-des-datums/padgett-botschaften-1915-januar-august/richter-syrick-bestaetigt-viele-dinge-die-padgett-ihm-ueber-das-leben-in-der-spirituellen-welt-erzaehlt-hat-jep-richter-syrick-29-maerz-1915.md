@@ -1,7 +1,7 @@
 ---
 title: "Richter Syrick bestätigt viele Dinge, die Padgett ihm über das Leben in der Spirituellen Welt erzählt hat"
 menu_title: ""
-description: "Richter Syrick bestätigt viele Dinge, die Padgett ihm über das Leben in der Spirituellen Welt erzählt hat"
+description: "Richter Syrick, empfangen durch James Padgett: „Nun, alter Freund, das unbestimmte wurde zur Gewissheit und ich weiß nun, dass Geister mit sterblichen …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

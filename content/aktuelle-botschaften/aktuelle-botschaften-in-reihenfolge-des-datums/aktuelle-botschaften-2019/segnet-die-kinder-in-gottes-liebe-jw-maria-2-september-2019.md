@@ -1,7 +1,7 @@
 ---
 title: "Segnet die Kinder in Gottes Liebe"
 menu_title: ""
-description: "Segnet die Kinder in Gottes Liebe"
+description: "Maria, empfangen durch Jimbeau Walsh: „Meine Gruppe und ich, wir nähren die Gebete derer, die uns gegenüber offen sind, aber wir schützen sie auch.“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

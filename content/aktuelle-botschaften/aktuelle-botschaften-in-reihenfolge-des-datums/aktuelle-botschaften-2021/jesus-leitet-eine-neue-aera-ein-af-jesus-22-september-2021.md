@@ -1,7 +1,7 @@
 ---
 title: "Jesus leitet eine neue Ära ein"
 menu_title: ""
-description: "Jesus leitet eine neue Ära ein"
+description: "Jesus, empfangen durch Al Fike: „Mit diesem Segen kommen die offenen Türen vieler Möglichkeiten und Geschenke, die Gottes Absichten durch euch entfalten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

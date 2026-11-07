@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, wie glücklich sie ist, wieder in Kontakt zu sein"
 menu_title: ""
-description: "Helen schreibt, wie glücklich sie ist, wieder in Kontakt zu sein"
+description: "Helen Padgett, empfangen durch James Padgett: „Wir sind alle so gespannt darauf, dass du schreibst, und haben so viel Lust, dir von unserer Liebe und …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

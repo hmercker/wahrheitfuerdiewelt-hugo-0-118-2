@@ -1,7 +1,7 @@
 ---
 title: "Die Göttliche Liebe steht allen offen—ob auf Erden oder im spirituellen Reich"
 menu_title: ""
-description: "Die Göttliche Liebe steht allen offen—ob auf Erden oder im spirituellen Reich"
+description: "John Garner, empfangen durch James Padgett: „Nicht einmal der übelste Sünder entzieht sich den Grenzen seiner Sorge und Liebe. Er ist kein Gott, der eine …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

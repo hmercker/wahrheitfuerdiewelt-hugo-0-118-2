@@ -1,7 +1,7 @@
 ---
 title: "Konzentriere dich weiter auf Gott während der Krise des Covid 19"
 menu_title: ""
-description: "Konzentriere dich weiter auf Gott während der Krise des Covid 19"
+description: "Maria, empfangen durch Al Fike: „Es ist ein solcher Segen, dass ihr in diesen Kreisen des Lichts zusammenkommt, für eure Brüder und Schwestern betet, für …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

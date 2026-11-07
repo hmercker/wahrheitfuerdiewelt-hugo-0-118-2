@@ -1,7 +1,7 @@
 ---
 title: "Was ist Demut?"
 menu_title: ""
-description: "Was ist Demut?"
+description: "Hier folgt nun eine Botschaft von Augustinus, empfangen durch Al Fike: „Demut ist anwesend wenn es eine Form der Würde im Individuum gibt- eine Würde, die …“"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

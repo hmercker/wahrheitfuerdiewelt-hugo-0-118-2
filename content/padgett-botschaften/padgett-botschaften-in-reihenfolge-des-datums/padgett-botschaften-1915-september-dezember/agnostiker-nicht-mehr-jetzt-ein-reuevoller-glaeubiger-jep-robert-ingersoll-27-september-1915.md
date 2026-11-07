@@ -1,7 +1,7 @@
 ---
 title: "Agnostiker nicht mehr, jetzt ein reuevoller Gläubiger"
 menu_title: ""
-description: "Agnostiker nicht mehr, jetzt ein reuevoller Gläubiger"
+description: "Robert Ingersoll 1, empfangen von James Padgett: „Ich muss ein Wort sagen, denn mein Herz ist so erfüllt von Bedauern und Reue und der Erinnerung an meine …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

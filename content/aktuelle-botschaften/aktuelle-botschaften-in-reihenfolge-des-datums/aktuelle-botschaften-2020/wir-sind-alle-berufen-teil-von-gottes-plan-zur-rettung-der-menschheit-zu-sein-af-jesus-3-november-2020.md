@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle berufen, Teil von Gottes Plan zur Rettung der Menschheit zu sein"
 menu_title: ""
-description: "Wir sind alle berufen, Teil von Gottes Plan zur Rettung der Menschheit zu sein"
+description: "Jesus, empfangen durch Al Fike: „Ich danke dir, mein Sohn, für dein Gebet. Viele von euch haben eine tiefe Bestimmung, die es in dieser Welt zu erfüllen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

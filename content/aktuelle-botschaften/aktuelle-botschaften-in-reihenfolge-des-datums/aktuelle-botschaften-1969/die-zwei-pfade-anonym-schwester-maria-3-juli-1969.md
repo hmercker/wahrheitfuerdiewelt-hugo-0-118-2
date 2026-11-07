@@ -1,7 +1,7 @@
 ---
 title: "Die zwei Pfade"
 menu_title: ""
-description: "Die zwei Pfade"
+description: "Schwester Maria: „Ihr kennt Männer und Frauen, die auf unsere Seite gelangen und die den Wunsch haben, vollkommene Menschen zu werden, oder sollte ich …“"
 date: 2020-08-01 06:25:48+00:198
 draft: False
 hidden: True

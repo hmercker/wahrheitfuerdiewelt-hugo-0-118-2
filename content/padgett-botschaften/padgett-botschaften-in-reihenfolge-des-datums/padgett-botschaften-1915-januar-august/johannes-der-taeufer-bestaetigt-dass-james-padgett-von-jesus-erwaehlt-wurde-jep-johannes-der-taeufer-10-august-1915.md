@@ -1,7 +1,7 @@
 ---
 title: "Johannes der Täufer bestätigt, dass James Padgett von Jesus erwählt wurde"
 menu_title: ""
-description: "Johannes der Täufer bestätigt, dass James Padgett von Jesus erwählt wurde"
+description: "Johannes der Täufer, empfangen durch James Padgett: „Ich tue dies, damit du glaubst und nicht an den Botschaften zweifelst, die du von ihm empfangen hast.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

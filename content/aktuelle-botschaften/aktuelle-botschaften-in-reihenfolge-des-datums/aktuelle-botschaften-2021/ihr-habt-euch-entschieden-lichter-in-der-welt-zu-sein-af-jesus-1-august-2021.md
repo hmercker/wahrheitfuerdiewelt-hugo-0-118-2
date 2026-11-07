@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt euch entschieden, Lichter in der Welt zu sein"
 menu_title: ""
-description: "Ihr habt euch entschieden, Lichter in der Welt zu sein"
+description: "Jesus, empfangen durch Al Fike: „Möge die Berührung der Liebe unseres Vaters dieses Geschenk für eure Seele sein, während wir heute gemeinsam beten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

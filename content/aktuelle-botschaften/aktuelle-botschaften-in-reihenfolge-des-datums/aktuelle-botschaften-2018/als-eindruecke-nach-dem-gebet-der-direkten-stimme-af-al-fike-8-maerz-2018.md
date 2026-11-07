@@ -1,7 +1,7 @@
 ---
 title: "Al's Eindrücke nach dem Gebet der Direkten Stimme"
 menu_title: ""
-description: "Al's Eindrücke nach dem Gebet der Direkten Stimme"
+description: "Empfangen durch Al Fike am 8. März 2018, Punaluua, Oahu, HI, USA: „Zu Beginn des Gebetes sah ich jeden von uns in einem weißen Gewand und um die Taille war …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

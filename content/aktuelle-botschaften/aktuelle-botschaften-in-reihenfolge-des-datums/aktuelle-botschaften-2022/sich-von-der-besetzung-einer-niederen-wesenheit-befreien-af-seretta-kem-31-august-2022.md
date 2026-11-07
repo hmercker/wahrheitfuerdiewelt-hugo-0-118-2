@@ -1,7 +1,7 @@
 ---
 title: "Sich von der Besetzung einer niederen Wesenheit befreien"
 menu_title: ""
-description: "Sich von der Besetzung einer niederen Wesenheit befreien"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich war bei euren Gesprächen anwesend und habe die Aspekte und Elemente dieser Arbeit, die ihr die Befreiung von …“"
 date: 2022-08-13 06:00:00+00:10
 draft: False
 hidden: True

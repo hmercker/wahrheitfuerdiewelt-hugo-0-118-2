@@ -1,7 +1,7 @@
 ---
 title: "Strebt nach dem Königreich des Himmels"
 menu_title: ""
-description: "Strebt nach dem Königreich des Himmels"
+description: "Andreas: „Es gibt hier einen wunderbaren Zustand und für einige von euch mag es sich seltsam anfühlen.“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Betet zu Gott, dass er die Kluft zwischen jeder Seele und Gott heilt"
 menu_title: ""
-description: "Betet zu Gott, dass er die Kluft zwischen jeder Seele und Gott heilt"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte darüber sprechen, was die Grundursachen für die Zustände sind, die innerhalb des Individuums geschaffen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Diener Gottes sein"
 menu_title: ""
-description: "Diener Gottes sein"
+description: "Paulus: „Heute Abend, meine Kinder, möchte ich jeden von euch hier bitten, heute Abend von diesem Ort zu gehen, entschlossener denn je, Diener Gottes zu …“"
 date: 2020-08-01 06:25:48+00:122
 draft: False
 hidden: True

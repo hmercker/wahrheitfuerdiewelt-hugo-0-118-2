@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung von Jesus"
 menu_title: ""
-description: "Ermutigung von Jesus"
+description: "Jesus, empfangen durch Al Fike: „„Segne diese deine Kinder, die in sich eine große Aufgabe haben, die sie in diesem Leben erfüllen müssen.“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

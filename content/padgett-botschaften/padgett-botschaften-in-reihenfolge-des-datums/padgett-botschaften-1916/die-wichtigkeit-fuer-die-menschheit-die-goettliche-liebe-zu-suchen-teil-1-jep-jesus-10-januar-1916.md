@@ -1,7 +1,7 @@
 ---
 title: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 1"
 menu_title: ""
-description: "Die Wichtigkeit für die Menschheit die Göttliche Liebe zu suchen - Teil 1"
+description: "Jesus, empfangen durch James Padgett: „Wie wichtig es für die Menschheit ist, die göttliche Liebe zu suchen und sich nicht damit zufrieden zu geben, nur …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

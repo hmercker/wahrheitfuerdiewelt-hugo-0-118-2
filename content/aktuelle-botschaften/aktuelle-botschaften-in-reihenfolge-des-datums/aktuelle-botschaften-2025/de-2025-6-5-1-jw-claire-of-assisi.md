@@ -1,7 +1,7 @@
 ---
 title: "Wächter willkommen"
 menu_title: ""
-description: "Wächter willkommen"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Und ich möchte euch einfach daran erinnern, dass wir für euch da sind und dass ihr, wenn ihr mit eurem …“"
 date: 2025-07-08 06:00:00+00:00
 draft: False
 hidden: True

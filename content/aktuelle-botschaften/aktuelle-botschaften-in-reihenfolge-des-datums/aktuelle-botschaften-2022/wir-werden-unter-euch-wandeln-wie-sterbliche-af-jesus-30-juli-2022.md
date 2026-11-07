@@ -1,7 +1,7 @@
 ---
 title: "Wir werden unter euch wandeln wie Sterbliche"
 menu_title: ""
-description: "Wir werden unter euch wandeln wie Sterbliche"
+description: "Jesus, empfangen durch Al Fike: „Ich freue mich, dass es Menschen gibt, die innerhalb der größeren Gemeinschaft Gruppen und Untergruppen bilden, um sich …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

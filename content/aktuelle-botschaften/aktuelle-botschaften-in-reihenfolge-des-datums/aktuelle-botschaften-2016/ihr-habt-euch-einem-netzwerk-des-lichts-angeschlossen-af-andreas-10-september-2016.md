@@ -1,7 +1,7 @@
 ---
 title: "Ihr habt euch einem Netzwerk des Lichts angeschlossen"
 menu_title: ""
-description: "Ihr habt euch einem Netzwerk des Lichts angeschlossen"
+description: "Andreas, empfangen durch Al Fike: „Ihr seid zusammengekommen und habt gemeinsam gebetet, und damit habt ihr euch in ein Netzwerk des Lichts eingefügt, das …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

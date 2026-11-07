@@ -1,7 +1,7 @@
 ---
 title: "Lektion 13 - Gleichgewicht erzeugt Harmonie - Band 3"
 menu_title: ""
-description: "Lektion 13 - Gleichgewicht erzeugt Harmonie - Band 3"
+description: "Jesus, empfangen durch Al Fike: „Bevor ich mit meinem Vortrag beginne, möchte ich jedem von euch (i.Orig.:“DV Dozen participants“, Anm. d.“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

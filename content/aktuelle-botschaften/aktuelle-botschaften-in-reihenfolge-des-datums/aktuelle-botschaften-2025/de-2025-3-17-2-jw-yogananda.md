@@ -1,7 +1,7 @@
 ---
 title: "Gott dient denen, die Gott dienen"
 menu_title: ""
-description: "Gott dient denen, die Gott dienen"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Gandhi predigte den friedlichen Protest, „ahimsa“, um das Joch des Kolonialismus zu überwinden, damit sein Land …“"
 date: 2025-03-27 06:00:00+00:10
 draft: False
 hidden: True

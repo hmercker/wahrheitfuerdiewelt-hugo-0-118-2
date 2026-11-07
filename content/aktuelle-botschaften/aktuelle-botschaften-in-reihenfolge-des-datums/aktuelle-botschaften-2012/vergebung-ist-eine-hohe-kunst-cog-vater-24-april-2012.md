@@ -1,7 +1,7 @@
 ---
 title: "Vergebung ist eine hohe Kunst"
 menu_title: ""
-description: "Vergebung ist eine hohe Kunst"
+description: "Vater, empfangen durch Child of God: „Mitten in der Nacht bist du schreiend wegen eines Traums aufgewacht. Es ging um deine Mutter und du warst verwirrt …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

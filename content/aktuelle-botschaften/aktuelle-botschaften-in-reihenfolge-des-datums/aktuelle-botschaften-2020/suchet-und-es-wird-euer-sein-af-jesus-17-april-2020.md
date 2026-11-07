@@ -1,7 +1,7 @@
 ---
 title: "Suchet und es wird euer sein"
 menu_title: ""
-description: "Suchet und es wird euer sein"
+description: "Jesus, empfangen durch Al Fike: „Ich möchte dieses wunderbare Instrument für seine Bemühungen loben, die Wahrheit der Seele ans Licht zu bringen.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

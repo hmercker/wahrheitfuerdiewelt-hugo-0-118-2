@@ -1,7 +1,7 @@
 ---
 title: "Mit dem Bösen kämpfen"
 menu_title: ""
-description: "Mit dem Bösen kämpfen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ja, einige von euch haben mit den Bedingungen dieser Welt zu kämpfen und ihr seid jetzt und während ihr zusammen …“"
 date: 2020-08-01 06:25:48+00:268
 draft: False
 hidden: True

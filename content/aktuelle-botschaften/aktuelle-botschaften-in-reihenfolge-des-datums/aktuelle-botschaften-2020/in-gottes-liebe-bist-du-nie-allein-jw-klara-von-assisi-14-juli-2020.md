@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe bist du nie allein"
 menu_title: ""
-description: "In Gottes Liebe bist du nie allein"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Die armen Frauen und ich, die als die Klarissen bekannt wurden. Wir wollten den Sehnsüchten unserer …“"
 date: 2020-08-01 06:25:48+00:158
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Fortschreiten der Seele"
 menu_title: ""
-description: "Das Fortschreiten der Seele"
+description: "Jesus, empfangen durch Helge Mercker: „Das ist das ständige Näherkommen zu dem Zustand, von neuem in die Göttlichkeit Seiner Liebe geboren zu werden.“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

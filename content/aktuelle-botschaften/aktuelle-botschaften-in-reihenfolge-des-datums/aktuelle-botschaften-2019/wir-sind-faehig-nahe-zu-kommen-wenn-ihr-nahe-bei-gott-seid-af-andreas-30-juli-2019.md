@@ -1,7 +1,7 @@
 ---
 title: "Wir sind fähig, nahe zu kommen, wenn ihr nahe bei Gott seid"
 menu_title: ""
-description: "Wir sind fähig, nahe zu kommen, wenn ihr nahe bei Gott seid"
+description: "Andreas, empfangen durch Al Fike: „Möge Seine Liebe ein tiefes Einströmen in eure Seelen finden und alle Schätze eurer Seele, die Schönheit eurer Seele und …“"
 date: 2020-08-01 06:25:48+00:98
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Ich brauche nur deine Sehnsucht"
 menu_title: ""
-description: "Ich brauche nur deine Sehnsucht"
+description: "Vater, empfangen durch Child of God: „Ich brauche nur dein Herz. Ich brauche nur deine Sehnsucht.“"
 date: 2020-08-01 06:25:48+00:121
 draft: False
 hidden: True

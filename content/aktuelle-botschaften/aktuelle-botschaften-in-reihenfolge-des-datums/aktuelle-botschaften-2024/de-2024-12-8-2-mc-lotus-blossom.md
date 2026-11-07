@@ -1,7 +1,7 @@
 ---
 title: "Hoffnung in jeder Seele"
 menu_title: ""
-description: "Hoffnung in jeder Seele"
+description: "Lotus Blossom, empfangen durch Maureen Cardoso: „Wenn ihr um das große Einströmen von Gottes Liebe betet, zieht ihr mich in eure Nähe. Denn in jedem Herzen …“"
 date: 2025-02-26 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Große Umwälzungen kommen auf die Erde zu "
 menu_title: ""
-description: "Große Umwälzungen kommen auf die Erde zu "
+description: "Augustinus- empfangen durch Al Fike: „Ich war einst Bischof von Hippo vor vielen, vielen Jahren. Ja, die Welt, auf der ihr lebt, leidet weiterhin.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

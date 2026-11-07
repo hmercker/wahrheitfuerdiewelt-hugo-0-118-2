@@ -1,7 +1,7 @@
 ---
 title: "Gott und die Engel werden uns die Energie und die Ressourcen geben, um die Wahrheiten der Göttlichen Liebe zu teilen"
 menu_title: ""
-description: "Gott und die Engel werden uns die Energie und die Ressourcen geben, um die Wahrheiten der Göttlichen Liebe zu teilen"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr seid gesegnet, Geliebte. Gott führt euch in der Tat und schickt euch in die Welt hinaus.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Gesetz des Gebets"
 menu_title: ""
-description: "Das Gesetz des Gebets"
+description: "Jesus, empfangen durch David Lampron: „Wir wissen nicht alles, was es zu wissen gibt. Aber wir sind uns bestimmter Gesetze bewusst, die, wenn sie aktiviert …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

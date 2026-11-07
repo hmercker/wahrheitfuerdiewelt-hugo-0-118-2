@@ -1,7 +1,7 @@
 ---
 title: "Der große Weltlehrer wird der Meister sein, wenn er wieder zu Erde kommt in Form seiner Göttlichen Offenbarungen"
 menu_title: ""
-description: "Der große Weltlehrer wird der Meister sein, wenn er wieder zu Erde kommt in Form seiner Göttlichen Offenbarungen"
+description: "George Whitefield, empfangen durch James Padgett: „Ich war heute Nacht mit dir beim Gebetstreffen und hörte, was der Prediger sagte, und mich haben …“"
 date: 2020-08-01 06:25:48+00:228
 draft: False
 hidden: True

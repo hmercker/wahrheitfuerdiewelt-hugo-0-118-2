@@ -1,7 +1,7 @@
 ---
 title: "Was beeinflusst eine Seele, sich dem Vater zuzuwenden"
 menu_title: ""
-description: "Was beeinflusst eine Seele, sich dem Vater zuzuwenden"
+description: "Maria, empfangen durch Amada Reza: „Ich möchte erörtern, was die Seele eines Sterblichen beeinflusst, sich dem Vater im Gebet und in Demut zuzuwenden.“"
 date: 2020-08-01 06:25:48+00:191
 draft: False
 hidden: True

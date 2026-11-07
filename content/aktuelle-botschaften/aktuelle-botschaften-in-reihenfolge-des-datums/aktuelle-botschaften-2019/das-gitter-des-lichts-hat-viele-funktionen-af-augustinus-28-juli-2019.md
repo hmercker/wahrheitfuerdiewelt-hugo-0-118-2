@@ -1,7 +1,7 @@
 ---
 title: "Das Gitter des Lichts hat viele Funktionen"
 menu_title: ""
-description: "Das Gitter des Lichts hat viele Funktionen"
+description: "Augustinus, empfangen durch Al Fike: „Geliebte Seelen, es ist euer Lehrer Augustinus, der gekommen ist, um heute zu euch zu sprechen, liebliche Seelen, die …“"
 date: 2020-08-01 06:25:48+00:92
 draft: False
 hidden: True

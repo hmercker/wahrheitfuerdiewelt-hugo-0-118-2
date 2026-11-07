@@ -1,7 +1,7 @@
 ---
 title: "Lass meine Liebe über dich strömen"
 menu_title: ""
-description: "Lass meine Liebe über dich strömen"
+description: "Vater, empfangen durch Child of God: „Es gab mehrere Themen in deinem Verstand, über die du uns sprechen lassen willst. Lasst uns mit dem gestrigen Thema …“"
 date: 2020-08-01 06:25:48+00:103
 draft: False
 hidden: True

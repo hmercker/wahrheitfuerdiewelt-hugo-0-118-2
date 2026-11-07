@@ -1,7 +1,7 @@
 ---
 title: "Johannes bekräftigt die außergewöhnliche Erfahrung des Ewigen Juden"
 menu_title: ""
-description: "Johannes bekräftigt die außergewöhnliche Erfahrung des Ewigen Juden"
+description: "Johannes, empfangen durch James Padgett: „Nun, du warst über die letzte Botschaft überrascht, und das ist kein Wunder. Ich weiß, dass diese Geschichte für …“"
 date: 2020-08-01 06:25:48+00:202
 draft: False
 hidden: True

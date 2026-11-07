@@ -1,7 +1,7 @@
 ---
 title: "Über das Feiern von Weihnachten "
 menu_title: ""
-description: "Über das Feiern von Weihnachten "
+description: "Jesus, empfangen durch Al Fike: „Segen für euch, Brüder und Schwestern, wahre Anhänger meiner Lehren, der Lehren des Christus-Geistes.“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

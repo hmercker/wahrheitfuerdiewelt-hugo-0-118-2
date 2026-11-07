@@ -1,7 +1,7 @@
 ---
 title: "Beharrlichkeit über Rituale hinaus"
 menu_title: ""
-description: "Beharrlichkeit über Rituale hinaus"
+description: "Judas, empfangen durch Jimbeau Walsh: „Meine lieben Freunde, ich weiß, dass ihr euch in diesen unruhigen Zeiten oft in die eine oder andere Richtung …“"
 date: 2025-01-24 06:00:00+00:10
 draft: False
 hidden: True

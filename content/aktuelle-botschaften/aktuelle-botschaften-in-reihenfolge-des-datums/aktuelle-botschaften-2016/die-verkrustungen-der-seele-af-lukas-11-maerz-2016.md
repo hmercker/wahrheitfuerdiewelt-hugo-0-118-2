@@ -1,7 +1,7 @@
 ---
 title: "Die Verkrustungen der Seele"
 menu_title: ""
-description: "Die Verkrustungen der Seele"
+description: "Lukas, empfangen durch Al Fike: „Es drückt gegen diese Schale, diese Verhärtung, die durch eure Lebenserfahrungen verursacht wird, und es schafft Risse …“"
 date: 2020-08-01 06:25:48+00:56
 draft: False
 hidden: True

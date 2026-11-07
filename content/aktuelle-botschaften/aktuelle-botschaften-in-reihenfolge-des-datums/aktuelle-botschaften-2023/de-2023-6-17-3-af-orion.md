@@ -1,7 +1,7 @@
 ---
 title: "Orion spricht über Schutz und Macht"
 menu_title: ""
-description: "Orion spricht über Schutz und Macht"
+description: "Orion, empfangen durch Al Fike: „Möge die Essenz Gottes weiterhin in eure Seelen fließen. Denn in dieser Verbindung von Engeln und Menschen, von hellen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

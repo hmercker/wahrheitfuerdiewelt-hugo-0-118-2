@@ -1,7 +1,7 @@
 ---
 title: "Die Schwingung zu erhöhen"
 menu_title: ""
-description: "Die Schwingung zu erhöhen"
+description: "Saul: „Es ist durch die Kraft der Göttlichen Liebe Gottes, dass wir kommen können, und euer Verständnis wird sich erhöhen, und dann kann ich zu euch über …“"
 date: 2020-08-01 06:25:48+00:136
 draft: False
 hidden: True

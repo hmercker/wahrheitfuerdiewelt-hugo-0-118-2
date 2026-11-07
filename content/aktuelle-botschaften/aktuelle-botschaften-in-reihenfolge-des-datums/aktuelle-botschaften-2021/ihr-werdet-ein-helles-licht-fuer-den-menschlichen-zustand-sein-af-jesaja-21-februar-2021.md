@@ -1,7 +1,7 @@
 ---
 title: "Ihr werdet ein helles Licht für den menschlichen Zustand sein "
 menu_title: ""
-description: "Ihr werdet ein helles Licht für den menschlichen Zustand sein "
+description: "Jesaja, empfangen durch Al Fike: „Gott hebt einen Schleier zwischen sich und euren Seelen. Wenn ihr gemeinsam auf diese Weise betet, formt ihr einen …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Sucht Gottes göttliche Essenz"
 menu_title: ""
-description: "Sucht Gottes göttliche Essenz"
+description: "Andreas, empfangen durch Al Fike: „In diesem Augenblick fließt die Liebe des Vaters in eure Seelen und stillt den Durst tief in euch, die göttliche Essenz …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der wundervolle Weg"
 menu_title: ""
-description: "Der wundervolle Weg"
+description: "Jane, empfangen durch Kathryn Stokes: „[Liebe Schöpferseele, Quelle aller Liebe, ich bete für ein großes Einströmen Deiner Liebe in dieser Zeit.“"
 date: 2020-08-01 06:25:48+00:247
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Seelenentscheidungen - Gut und Böse"
 menu_title: ""
-description: "Seelenentscheidungen - Gut und Böse"
+description: "Samuel, empfangen durch Al Fike: „Ich habe eurem Gespräch 1 über die Seele zugehört und möchte mich dazu äußern und hoffentlich einige Missverständnisse …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

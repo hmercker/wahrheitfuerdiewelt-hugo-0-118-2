@@ -1,7 +1,7 @@
 ---
 title: "Das Hinübergehen"
 menu_title: ""
-description: "Das Hinübergehen"
+description: "Judas, empfangen durch H: „[Am späten Nachmittag des 6. Dezember 2002 starb die Mutter des Ehemannes einer meiner Schwägerinnen plötzlich an einem Herzinfarkt.“"
 date: 2020-08-01 06:25:48+00:249
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Euer Erwachen hat gerade erst begonnen"
 menu_title: ""
-description: "Euer Erwachen hat gerade erst begonnen"
+description: "Matthäus, empfangen durch Al Fike: „Denn das Gesetz der Anziehung und der Kommunikation spielt seine Rolle und erlaubt uns aus diesen hohen Sphären, bei …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

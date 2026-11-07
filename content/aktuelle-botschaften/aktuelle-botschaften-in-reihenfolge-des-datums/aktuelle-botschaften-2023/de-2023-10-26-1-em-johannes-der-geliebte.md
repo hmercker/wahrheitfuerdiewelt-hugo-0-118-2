@@ -1,7 +1,7 @@
 ---
 title: "Eure sehnlichsten Wünsche für Gott werden euch weiter auf eurem Weg bringen"
 menu_title: ""
-description: "Eure sehnlichsten Wünsche für Gott werden euch weiter auf eurem Weg bringen"
+description: "Johannes der Geliebte, empfangen durch Elisabeth Mack: „Eure Gebete zu hören, die Sehnsüchte eurer Seelen zu spüren, bringt so viel Freude und Licht in …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

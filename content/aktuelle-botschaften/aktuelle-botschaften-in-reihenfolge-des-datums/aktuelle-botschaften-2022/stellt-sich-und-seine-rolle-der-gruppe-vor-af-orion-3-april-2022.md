@@ -1,7 +1,7 @@
 ---
 title: "Stellt sich und seine Rolle der Gruppe vor"
 menu_title: ""
-description: "Stellt sich und seine Rolle der Gruppe vor"
+description: "Orion, empfangen durch Al Fike: „Möge Gott mit euch sein, meine Freunde. Ich danke euch, dass ihr mich in euren Kreis eingeladen habt.“"
 date: 2022-03-08 06:00:00+00:10
 draft: False
 hidden: True

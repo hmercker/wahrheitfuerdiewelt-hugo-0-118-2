@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass Forrest ernsthaft für die Göttliche Liebe betet und Fortschritte macht"
 menu_title: ""
-description: "Helen schreibt, dass Forrest ernsthaft für die Göttliche Liebe betet und Fortschritte macht"
+description: "Helen, empfangen durch James Padgett: „Ich hielt es für das Beste, Forrest dir schreiben zu lassen, da er so bestrebt war und so viel Freude daran zu haben …“"
 date: 2020-08-01 06:25:48+00:233
 draft: False
 hidden: True

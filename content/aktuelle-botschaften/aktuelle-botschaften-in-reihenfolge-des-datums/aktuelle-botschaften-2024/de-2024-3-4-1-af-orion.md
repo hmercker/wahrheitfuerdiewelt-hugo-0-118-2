@@ -1,7 +1,7 @@
 ---
 title: "Die Absicht der Stellaren Freunde, uns bei der Transformation der Welt zu helfen"
 menu_title: ""
-description: "Die Absicht der Stellaren Freunde, uns bei der Transformation der Welt zu helfen"
+description: "Orion, empfangen durch Al Fike: „In der Tat, ich passe auf diese Beschreibung, ich gehöre nicht zu diesem Planeten. Und doch bin ich wahrhaftig euer …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die größte aller Arten von Heilung ist die Heilung durch die Göttliche Liebe"
 menu_title: ""
-description: "Die größte aller Arten von Heilung ist die Heilung durch die Göttliche Liebe"
+description: "Seretta Kem, empfangen durch Al Fike: „Als ich auf der Erde war, lebte ich in dem, was ihr Ägypten nennt, vor vielen, vielen Generationen, als mein Land …“"
 date: 2020-08-01 06:25:48+00:169
 draft: False
 hidden: True

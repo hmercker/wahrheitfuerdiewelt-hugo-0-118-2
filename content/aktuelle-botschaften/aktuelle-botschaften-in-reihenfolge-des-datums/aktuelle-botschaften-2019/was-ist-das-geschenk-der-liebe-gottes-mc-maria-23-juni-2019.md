@@ -1,7 +1,7 @@
 ---
 title: "Was ist das Geschenk der Liebe Gottes?"
 menu_title: ""
-description: "Was ist das Geschenk der Liebe Gottes?"
+description: "Maria, empfangen durch Maureen Cardoso: „Eure Seelen sehnen sich nach dem Höchsten, nach der liebevollen Gnade der Göttlichen Liebe Gottes, um in eure …“"
 date: 2020-08-01 06:25:48+00:83
 draft: False
 hidden: True

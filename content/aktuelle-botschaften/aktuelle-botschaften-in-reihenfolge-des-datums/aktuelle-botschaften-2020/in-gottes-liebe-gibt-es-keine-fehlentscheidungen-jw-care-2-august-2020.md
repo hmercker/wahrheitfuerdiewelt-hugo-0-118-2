@@ -1,7 +1,7 @@
 ---
 title: "In Gottes Liebe gibt es keine Fehlentscheidungen"
 menu_title: ""
-description: "In Gottes Liebe gibt es keine Fehlentscheidungen"
+description: "Care Darby Walsh, empfangen durch Jimbeau Walsh: „Meine lieben Brüder, für euch wird gesorgt und jedes eurer Bedürfnisse wird in allen Sphären und bei uns …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 17 - Einige Details bezüglich der bevorstehenden Veränderungen in eurer Welt - Band 2"
 menu_title: ""
-description: "Lektion 17 - Einige Details bezüglich der bevorstehenden Veränderungen in eurer Welt - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Heute möchte ich über die kommenden Veränderungen in eurer Welt sprechen und darüber, was sich in der Welt manifestieren …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

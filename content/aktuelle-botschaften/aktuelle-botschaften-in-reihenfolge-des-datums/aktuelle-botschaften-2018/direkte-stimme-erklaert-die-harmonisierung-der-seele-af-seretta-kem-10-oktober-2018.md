@@ -1,7 +1,7 @@
 ---
 title: "Direkte Stimme erklärt - Die Harmonisierung der Seele"
 menu_title: ""
-description: "Direkte Stimme erklärt - Die Harmonisierung der Seele"
+description: "Seretta Kem, empfangen durch Al Fike: „Ihr habt gewissermaßen erwartet, dass ich über das Thema der “Direkten Stimme” spreche und ich freue mich, dies …“"
 date: 2020-08-01 06:25:48+00:195
 draft: False
 hidden: True

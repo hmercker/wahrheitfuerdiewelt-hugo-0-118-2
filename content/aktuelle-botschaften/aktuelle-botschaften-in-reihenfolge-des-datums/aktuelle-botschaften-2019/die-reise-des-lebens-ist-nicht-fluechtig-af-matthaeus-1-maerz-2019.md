@@ -1,7 +1,7 @@
 ---
 title: "Die Reise des Lebens ist nicht flüchtig"
 menu_title: ""
-description: "Die Reise des Lebens ist nicht flüchtig"
+description: "Matthäus, empfangen durch Al Fike: „Ihr alle setzt eure Lebensreise fort, und für diejenigen, die jünger sind, gibt es einen Eifer, dass die Reise schnell …“"
 date: 2020-08-01 06:25:48+00:68
 draft: False
 hidden: True

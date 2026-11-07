@@ -1,7 +1,7 @@
 ---
 title: "Das Bestreben, aus der Dunkelheit herauszukommen"
 menu_title: ""
-description: "Das Bestreben, aus der Dunkelheit herauszukommen"
+description: "James L Young, empfangen durch James Padgett: „Ich wollte dies nur sagen, damit du eine gewisse Sicherheit hast, dass deine Arbeit in ihrer Wirkung real …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

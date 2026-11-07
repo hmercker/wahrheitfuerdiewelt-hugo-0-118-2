@@ -1,7 +1,7 @@
 ---
 title: "Maria Magdalena"
 menu_title: ""
-description: "Maria Magdalena"
+description: "Judas, empfangen durch H.: „Ja, mein Junge, du hast Recht. Maria, die Magdalena hat immer gelächelt, oder sogar gelacht.“"
 date: 2020-08-01 06:25:48+00:238
 draft: False
 hidden: True

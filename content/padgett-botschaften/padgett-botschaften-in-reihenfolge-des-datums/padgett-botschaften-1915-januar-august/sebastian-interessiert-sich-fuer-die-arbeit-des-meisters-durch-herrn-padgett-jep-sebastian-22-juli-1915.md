@@ -1,7 +1,7 @@
 ---
 title: "Sebastian interessiert sich für die Arbeit des Meisters durch Herrn Padgett"
 menu_title: ""
-description: "Sebastian interessiert sich für die Arbeit des Meisters durch Herrn Padgett"
+description: "Sebastian 1, empfangen durch James Padgett: „Ich war kein sehr großer Christ in dem Sinne, dass ich einen hohen Grad an Seelenentwicklung hatte, aber ich …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

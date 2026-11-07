@@ -1,7 +1,7 @@
 ---
 title: "Die Liebe ist der große Befreier"
 menu_title: ""
-description: "Die Liebe ist der große Befreier"
+description: "Jesus, empfangen durch Jesper Sorensen: „Die Liebe ist der große Befreier. Die Liebe ist das, was eure Seele von den Verkrustungen und der Dunkelheit, die …“"
 date: 2020-08-01 06:25:48+00:240
 draft: False
 hidden: True

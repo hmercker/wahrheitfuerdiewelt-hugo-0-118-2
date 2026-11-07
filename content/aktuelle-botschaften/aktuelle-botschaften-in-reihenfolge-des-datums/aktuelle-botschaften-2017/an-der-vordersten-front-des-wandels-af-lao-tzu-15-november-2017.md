@@ -1,7 +1,7 @@
 ---
 title: "An der vordersten Front des Wandels"
 menu_title: ""
-description: "An der vordersten Front des Wandels"
+description: "Lao Tzu, empfangen durch Al Fike: „Ich war ein chinesischer Philosoph von einiger Bedeutung in der Geschichte und ich möchte mit direkter Stimme zu meinem …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

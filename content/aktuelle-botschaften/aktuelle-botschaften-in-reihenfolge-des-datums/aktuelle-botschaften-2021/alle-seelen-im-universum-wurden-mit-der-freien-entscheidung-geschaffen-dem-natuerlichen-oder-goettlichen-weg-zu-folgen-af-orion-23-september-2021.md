@@ -1,7 +1,7 @@
 ---
 title: "Alle Seelen im Universum wurden mit der freien Entscheidung geschaffen, dem natürlichen oder göttlichen Weg zu folgen"
 menu_title: ""
-description: "Alle Seelen im Universum wurden mit der freien Entscheidung geschaffen, dem natürlichen oder göttlichen Weg zu folgen"
+description: "Orion, empfangen durch Al Fike: „Ich möchte, dass ihr wisst, dass Gott viele Orte im Universum mit Seelen besät hat, die auf ihre Reise zurück zu Gott warten.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bedauert, dass sie einem alten Freund nicht erlauben kann zu schreiben"
 menu_title: ""
-description: "Helen bedauert, dass sie einem alten Freund nicht erlauben kann zu schreiben"
+description: "Helen, empfangen durch James Padgett: „Nun, da gab es ein spirituelles Wesen, das sehr bestrebt war, zu schreiben, und ich war bereit, ihn schreiben zu …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

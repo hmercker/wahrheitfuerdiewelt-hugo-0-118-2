@@ -1,7 +1,7 @@
 ---
 title: "Die Herausforderungen, die mit dem Wachstum der Seele kommen"
 menu_title: ""
-description: "Die Herausforderungen, die mit dem Wachstum der Seele kommen"
+description: "Augustinus, empfangen durch Al Fike: „Ich bezweifle, dass ihr heute Schwierigkeiten haben werdet, meine Stimme zu hören und es ist gut, dass ihr …“"
 date: 2020-08-01 06:25:48+00:67
 draft: False
 hidden: True

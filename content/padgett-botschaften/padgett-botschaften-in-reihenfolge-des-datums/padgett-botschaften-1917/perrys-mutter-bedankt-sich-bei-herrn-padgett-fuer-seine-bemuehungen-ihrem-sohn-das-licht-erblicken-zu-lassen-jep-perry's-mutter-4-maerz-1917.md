@@ -1,7 +1,7 @@
 ---
 title: "Perry's Mutter bedankt sich bei Herrn Padgett für seine Bemühungen, ihrem Sohn das Licht erblicken zu lassen"
 menu_title: ""
-description: "Perry's Mutter bedankt sich bei Herrn Padgett für seine Bemühungen, ihrem Sohn das Licht erblicken zu lassen"
+description: "Perry’s Mutter, empfangen durch James Padgett: „Du musst mich ein Wort sagen lassen, denn wenn es jemals einen dankbareres Wesen in der ganzen spirituellen …“"
 date: 2020-08-01 06:25:48+00:125
 draft: False
 hidden: True

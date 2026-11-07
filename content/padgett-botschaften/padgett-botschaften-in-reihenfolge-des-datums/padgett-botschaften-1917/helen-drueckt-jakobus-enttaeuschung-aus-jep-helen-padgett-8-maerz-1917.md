@@ -1,7 +1,7 @@
 ---
 title: "Helen drückt Jakobus' Enttäuschung aus"
 menu_title: ""
-description: "Helen drückt Jakobus' Enttäuschung aus"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, ich sehe, dass du heute Abend enttäuscht bist, dass du die Botschaft von Jakobus nicht erhalten …“"
 date: 2020-08-01 06:25:48+00:129
 draft: False
 hidden: True

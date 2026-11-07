@@ -1,7 +1,7 @@
 ---
 title: "Ein dickes Buch!"
 menu_title: ""
-description: "Ein dickes Buch!"
+description: "Judas, empfangen durch H.: „Ich sehe, dass du einige Fragen erhalten hast. Und ich werde zwei von ihnen beantworten.“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

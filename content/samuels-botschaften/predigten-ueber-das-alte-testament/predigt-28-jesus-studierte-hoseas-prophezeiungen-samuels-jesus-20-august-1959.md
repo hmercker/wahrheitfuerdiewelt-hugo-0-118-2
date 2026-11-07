@@ -1,7 +1,7 @@
 ---
 title: "Predigt 28 - Jesus studierte Hosea's Prophezeiungen"
 menu_title: ""
-description: "Predigt 28 - Jesus studierte Hosea's Prophezeiungen"
+description: "Jesus, empfangen durch Dr Samuels: „In meiner letzten Predigt habe ich darauf hingewiesen, wie Hosea, der große Prophet Israels, die Strafe für die …“"
 date: 2020-08-01 06:25:48+00:00
 draft: False
 hidden: True

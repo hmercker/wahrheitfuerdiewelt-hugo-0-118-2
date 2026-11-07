@@ -1,7 +1,7 @@
 ---
 title: "Jesus geht kurz auf die Bahai-Religion ein"
 menu_title: ""
-description: "Jesus geht kurz auf die Bahai-Religion ein"
+description: "Jesus, empfangen durch James Padgett: „Du bist heute nicht in der Verfassung, eine meiner Botschaften zu empfangen. Ich werde deshalb nicht einmal …“"
 date: 2020-08-01 06:25:48+00:94
 draft: False
 hidden: True

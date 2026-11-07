@@ -1,7 +1,7 @@
 ---
 title: "Der Friede, der alles Verständnis übersteigt"
 menu_title: ""
-description: "Der Friede, der alles Verständnis übersteigt"
+description: "Mylora, empfangen durch Al Fike: „Ich engagiere jeden von euch und bitte euch, mir zu helfen, Heilung in euren Teil der Welt zu bringen.“"
 date: 2024-06-01 06:00:00+00:10
 draft: False
 hidden: True

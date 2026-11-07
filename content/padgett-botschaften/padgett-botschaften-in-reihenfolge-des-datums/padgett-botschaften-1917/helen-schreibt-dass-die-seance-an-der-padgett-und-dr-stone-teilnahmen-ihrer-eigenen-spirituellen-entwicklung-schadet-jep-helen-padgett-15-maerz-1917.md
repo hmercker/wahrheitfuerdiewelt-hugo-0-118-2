@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt, dass die Seance, an der Padgett und Dr. Stone teilnahmen, ihrer eigenen spirituellen Entwicklung schadet"
 menu_title: ""
-description: "Helen schreibt, dass die Seance, an der Padgett und Dr. Stone teilnahmen, ihrer eigenen spirituellen Entwicklung schadet"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Lieber, ich war natürlich mit dir bei der Séance, und was dir gesagt wurde, ist wahr, und ich brauche das …“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

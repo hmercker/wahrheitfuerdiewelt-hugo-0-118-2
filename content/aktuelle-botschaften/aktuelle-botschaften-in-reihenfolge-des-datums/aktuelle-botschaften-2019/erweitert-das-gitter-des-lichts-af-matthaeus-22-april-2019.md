@@ -1,7 +1,7 @@
 ---
 title: "Erweitert das Gitter des Lichts"
 menu_title: ""
-description: "Erweitert das Gitter des Lichts"
+description: "Matthäus, empfangen durch Al Fike: „Das Licht nimmt um euch herum zu, ihr Geliebten. Es ist offensichtlich, dass eure Seelen sich weiterhin im Licht ausdehnen.“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

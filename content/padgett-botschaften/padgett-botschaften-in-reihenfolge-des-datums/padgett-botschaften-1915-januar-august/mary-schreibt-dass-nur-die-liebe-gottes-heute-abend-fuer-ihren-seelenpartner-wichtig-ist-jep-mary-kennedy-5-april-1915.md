@@ -1,7 +1,7 @@
 ---
 title: "Mary schreibt, dass nur die Liebe Gottes heute Abend für ihren Seelenpartner wichtig ist"
 menu_title: ""
-description: "Mary schreibt, dass nur die Liebe Gottes heute Abend für ihren Seelenpartner wichtig ist"
+description: "Mary Kennedy, empfangen durch James Padgett: „Du hast heute Abend einige Geister empfangen, welche ohne Zweifel dankbar dafür sind, dass sie dir schreiben …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

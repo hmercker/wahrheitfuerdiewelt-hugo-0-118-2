@@ -1,7 +1,7 @@
 ---
 title: "Die Gabe des Gebens in Gottes Liebe"
 menu_title: ""
-description: "Die Gabe des Gebens in Gottes Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Meine lieben Brüder und Schwestern, möge das Licht der Liebe Gottes eure Seelen erfüllen und euch die …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

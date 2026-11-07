@@ -1,7 +1,7 @@
 ---
 title: "Ann Rollins kommentiert die Botschaft die Jesus geschrieben hat"
 menu_title: ""
-description: "Ann Rollins kommentiert die Botschaft die Jesus geschrieben hat"
+description: "Ann Rollins, empfangen durch James Padgett: „Was für eine wahrheitsgemäße und wichtige Mitteilung, die der Herr dir geschrieben hat, er weiß, dass das was …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

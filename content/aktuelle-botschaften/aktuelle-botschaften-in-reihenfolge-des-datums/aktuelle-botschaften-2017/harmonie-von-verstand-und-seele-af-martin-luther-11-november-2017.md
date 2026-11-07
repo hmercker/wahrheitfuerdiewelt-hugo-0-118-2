@@ -1,7 +1,7 @@
 ---
 title: "Harmonie von Verstand und Seele"
 menu_title: ""
-description: "Harmonie von Verstand und Seele"
+description: "Martin Luther, empfangen durch Al Fike: „Möge die Liebe des Vaters sich weiterhin in eure Seelen ergießen, meine Freunde, damit Seine Liebe die …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gott kann sehen und hören und wissen, was die Gedanken der Menschen sind"
 menu_title: ""
-description: "Gott kann sehen und hören und wissen, was die Gedanken der Menschen sind"
+description: "Stephanus, empfangen durch James Padgett: „Ich möchte nur ein Wort sagen. Zur Zeit meines Martyriums sah ich, wie sich die Himmel öffneten und die …“"
 date: 2020-08-01 06:25:48+00:186
 draft: False
 hidden: True

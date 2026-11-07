@@ -1,7 +1,7 @@
 ---
 title: "Grover Cleveland kommt zu Herrn Padgett und bittet um Hilfe"
 menu_title: ""
-description: "Grover Cleveland kommt zu Herrn Padgett und bittet um Hilfe"
+description: "Grover Cleveland, empfangen durch James Padgett: „Ich möchte nur eine Zeile schreiben. Ich war kein sehr religiöser Mensch im Sinne der Seelenentwicklung …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

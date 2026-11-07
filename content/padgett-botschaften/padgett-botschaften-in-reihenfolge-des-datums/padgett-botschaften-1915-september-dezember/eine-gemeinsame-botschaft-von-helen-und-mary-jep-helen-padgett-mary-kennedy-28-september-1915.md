@@ -1,7 +1,7 @@
 ---
 title: "Eine gemeinsame Botschaft von Helen und Mary"
 menu_title: ""
-description: "Eine gemeinsame Botschaft von Helen und Mary"
+description: "Helen, empfangen von James Padgett: „Was für eine wunderbare, glückliche Nacht haben wir alle gehabt - du und Dr. Stone im sterblichen Leben und wir …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

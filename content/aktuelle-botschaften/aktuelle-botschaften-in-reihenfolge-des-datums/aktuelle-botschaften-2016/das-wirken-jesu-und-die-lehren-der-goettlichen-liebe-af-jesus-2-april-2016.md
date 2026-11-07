@@ -1,7 +1,7 @@
 ---
 title: "Das Wirken Jesu und die Lehren der Göttlichen Liebe"
 menu_title: ""
-description: "Das Wirken Jesu und die Lehren der Göttlichen Liebe"
+description: "Jesus, empfangen durch Al Fike: „Es gibt heute viele, die glauben, dass meine Botschaft und meine Absicht, auf diese Erde zu kommen, aus meinem Opfer am …“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

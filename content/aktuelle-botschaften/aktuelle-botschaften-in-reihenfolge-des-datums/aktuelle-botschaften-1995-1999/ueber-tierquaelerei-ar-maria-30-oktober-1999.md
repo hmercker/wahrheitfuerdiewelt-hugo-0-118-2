@@ -1,7 +1,7 @@
 ---
 title: "Über Tierquälerei"
 menu_title: ""
-description: "Über Tierquälerei"
+description: "Maria, empfangen durch Amada Reza: „[In einer Petition zum Schutz vor Tierquälerei heißt es: \"Unter der hellen spanischen Sonne findet eine Krise von …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

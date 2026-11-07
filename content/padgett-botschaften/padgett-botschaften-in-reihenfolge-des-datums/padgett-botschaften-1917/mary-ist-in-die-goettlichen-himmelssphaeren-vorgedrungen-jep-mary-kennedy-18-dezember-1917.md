@@ -1,7 +1,7 @@
 ---
 title: "Mary ist in die göttlichen Himmelssphären vorgedrungen"
 menu_title: ""
-description: "Mary ist in die göttlichen Himmelssphären vorgedrungen"
+description: "Mary Kennedy, empfangen durch James Padgett: „Nun, ich sehe, dass du lieber von mir hören möchtest als vom letzten spirituellen Wesen, obwohl du daran …“"
 date: 2020-08-01 06:25:48+00:243
 draft: False
 hidden: True

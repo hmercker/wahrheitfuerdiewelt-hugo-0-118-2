@@ -1,7 +1,7 @@
 ---
 title: "Augustinus Botschaften - 2020"
 menu_title: ""
-description: "Augustinus Botschaften - 2020"
+description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Augustinus | Die Welt ist in Nebel und Grautöne gehüllt | 7 Januar 2020 Augustinus | In …“"
 date: 2023-02-12 06:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Segen der Beruhigung und Liebe auf eurer Reise"
 menu_title: ""
-description: "Segen der Beruhigung und Liebe auf eurer Reise"
+description: "Guru Nanak, empfangen durch Al Fike: „Eine gewaltige Reise, meine Freunde, eine, die oft nicht zum Leben in eurer Welt gehört, eine, die eure Hingabe und …“"
 date: 2020-08-01 06:25:48+00:176
 draft: False
 hidden: True

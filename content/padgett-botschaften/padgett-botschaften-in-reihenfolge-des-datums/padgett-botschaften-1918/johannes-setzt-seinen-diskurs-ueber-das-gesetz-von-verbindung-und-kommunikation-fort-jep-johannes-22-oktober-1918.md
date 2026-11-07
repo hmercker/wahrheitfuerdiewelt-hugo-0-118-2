@@ -1,7 +1,7 @@
 ---
 title: "Johannes setzt seinen Diskurs über das Gesetz von Verbindung und Kommunikation fort"
 menu_title: ""
-description: "Johannes setzt seinen Diskurs über das Gesetz von Verbindung und Kommunikation fort"
+description: "Johannes, empfangen durch James Padgett: „Erlaube mir, heute Abend ein paar Zeilen zu schreiben, denn ich habe schon lange nicht mehr geschrieben und bin …“"
 date: 2020-08-01 06:25:48+00:109
 draft: False
 hidden: True

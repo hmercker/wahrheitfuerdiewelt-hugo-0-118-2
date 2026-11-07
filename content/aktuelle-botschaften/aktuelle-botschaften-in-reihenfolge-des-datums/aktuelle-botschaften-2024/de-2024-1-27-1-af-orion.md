@@ -1,7 +1,7 @@
 ---
 title: "Gesetz des Fortschritts"
 menu_title: ""
-description: "Gesetz des Fortschritts"
+description: "Orion, empfangen durch Al Fike: „Es ist euer alter Freund Orion. Ja, ich darf mich als euer alter Freund bezeichnen, denn wir kennen uns schon eine Weile …“"
 date: 2024-01-10 06:00:00+00:10
 draft: False
 hidden: True

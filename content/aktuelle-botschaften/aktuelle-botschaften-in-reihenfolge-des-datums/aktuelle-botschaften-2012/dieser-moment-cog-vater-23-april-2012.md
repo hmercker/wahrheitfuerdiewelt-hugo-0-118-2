@@ -1,7 +1,7 @@
 ---
 title: "Dieser Moment"
 menu_title: ""
-description: "Dieser Moment"
+description: "Vater, empfangen durch Child of God: „Heute werden wir über diesen Moment sprechen. Dieser Moment ist perfekt.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

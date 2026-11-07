@@ -1,7 +1,7 @@
 ---
 title: "Zwei unterschiedliche spirituelle Reisen"
 menu_title: ""
-description: "Zwei unterschiedliche spirituelle Reisen"
+description: "Samuel, empfangen durch Al Fike: „Wenn ihr diesen Segen wirklich kennt, könnt ihr vielleicht einen Blick darauf werfen und eine Veränderung in euch sehen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

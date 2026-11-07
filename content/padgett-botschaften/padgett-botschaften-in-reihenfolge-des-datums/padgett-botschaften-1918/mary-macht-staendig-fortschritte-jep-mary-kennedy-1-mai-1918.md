@@ -1,7 +1,7 @@
 ---
 title: "Mary macht ständig Fortschritte"
 menu_title: ""
-description: "Mary macht ständig Fortschritte"
+description: "Mary Kennedy, empfangen durch James Padgett: „Ich weiß, dass er sich die ganze Zeit für mich interessiert, aus dem Grund, weil ich weiß, dass er mich liebt …“"
 date: 2020-08-01 06:25:48+00:87
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Gottes Göttliche Liebe ist der Weg zu Glück und guter Gesundheit"
 menu_title: ""
-description: "Gottes Göttliche Liebe ist der Weg zu Glück und guter Gesundheit"
+description: "Dr. Gordon Leonard: „Ich möchte mit euch darüber sprechen, wie ihr gesund und glücklich bleiben könnt. Ich habe das schon früher getan, aber ich fühle …“"
 date: 2020-08-01 06:25:48+00:207
 draft: False
 hidden: True

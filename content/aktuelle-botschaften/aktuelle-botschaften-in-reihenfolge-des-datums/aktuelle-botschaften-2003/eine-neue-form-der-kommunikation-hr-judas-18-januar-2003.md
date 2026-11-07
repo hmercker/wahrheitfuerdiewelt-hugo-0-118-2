@@ -1,7 +1,7 @@
 ---
 title: "Eine neue Form der Kommunikation"
 menu_title: ""
-description: "Eine neue Form der Kommunikation"
+description: "Judas, empfangen durch H.: „Es war eine völlig neue Sensation... Während des Tages, als ich mich danach sehnte, mit Judas in Kontakt zu sein, spürte ich …“"
 date: 2020-08-01 06:25:48+00:250
 draft: False
 hidden: True

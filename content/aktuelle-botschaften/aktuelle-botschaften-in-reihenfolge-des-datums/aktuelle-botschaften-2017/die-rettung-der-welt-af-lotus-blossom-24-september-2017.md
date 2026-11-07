@@ -1,7 +1,7 @@
 ---
 title: "Die Rettung der Welt"
 menu_title: ""
-description: "Die Rettung der Welt"
+description: "Lotus Blossom, empfangen durch Al Fike: „Wenn ihr von der Rettung der Menschheit sprecht, müsst ihr auch die Rettung eurer Welt mit einbeziehen, denn es …“"
 date: 2020-08-01 06:25:48+00:64
 draft: False
 hidden: True

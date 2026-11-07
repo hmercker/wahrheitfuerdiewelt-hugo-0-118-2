@@ -1,7 +1,7 @@
 ---
 title: "Ingersoll berichtet von seinen Erfahrungen bei der Erlangung der Göttlichen Liebe"
 menu_title: ""
-description: "Ingersoll berichtet von seinen Erfahrungen bei der Erlangung der Göttlichen Liebe"
+description: "Robert G. Ingersoll, empfangen durch James Padgett: „Wie ich dir in meiner letzten Mitteilung sagte, bin ich ein durch und durch überzeugtes spirituelles …“"
 date: 2020-08-01 06:25:48+00:88
 draft: False
 hidden: True

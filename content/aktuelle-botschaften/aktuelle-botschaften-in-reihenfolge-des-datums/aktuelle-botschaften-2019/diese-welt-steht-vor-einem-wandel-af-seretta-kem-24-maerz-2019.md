@@ -1,7 +1,7 @@
 ---
 title: "Diese Welt steht vor einem Wandel"
 menu_title: ""
-description: "Diese Welt steht vor einem Wandel"
+description: "Seretta Kem, empfangen durch Al Fike: „Der Wandel ist über diese eure Welt gekommen, denn der Wille Gottes bringt weiterhin Segnungen und Energien und …“"
 date: 2020-08-01 06:25:48+00:70
 draft: False
 hidden: True

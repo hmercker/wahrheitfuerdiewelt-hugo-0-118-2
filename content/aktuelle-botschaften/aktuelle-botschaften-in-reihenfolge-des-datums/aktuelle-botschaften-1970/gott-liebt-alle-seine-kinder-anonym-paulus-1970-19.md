@@ -1,7 +1,7 @@
 ---
 title: "Gott liebt alle Seine Kinder"
 menu_title: ""
-description: "Gott liebt alle Seine Kinder"
+description: "Paulus: „Ich fühle mich erneuert und in Frieden. Wenn wir dieses Gefühl des Friedens heute in eure Erdebene bringen und diese Wahrheiten und dieses …“"
 date: 2020-08-01 06:25:48+00:130
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die einzigartige Reise unserer Seele zu Gott "
 menu_title: ""
-description: "Die einzigartige Reise unserer Seele zu Gott "
+description: "Ann Rollins, empfangen durch Al Fike: „Ich habe nicht oft durch dieses Instrument gesprochen, aber ihr kennt mich durch die Bücher von Padgett und wisst …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

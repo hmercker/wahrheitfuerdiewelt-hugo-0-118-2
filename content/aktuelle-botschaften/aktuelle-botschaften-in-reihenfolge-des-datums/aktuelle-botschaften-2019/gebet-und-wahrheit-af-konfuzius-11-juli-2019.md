@@ -1,7 +1,7 @@
 ---
 title: "Gebet und Wahrheit"
 menu_title: ""
-description: "Gebet und Wahrheit"
+description: "Konfuzius, empfangen durch Al Fike: „Ihr wollt wissen, wie die Engel des Himmels beten?! Ihr könntet unmöglich verstehen, was unsere Erfahrung des Gebets …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

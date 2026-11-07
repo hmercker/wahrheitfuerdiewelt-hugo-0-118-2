@@ -1,7 +1,7 @@
 ---
 title: "Was bringt die Medialität der Göttlichen Liebe?"
 menu_title: ""
-description: "Was bringt die Medialität der Göttlichen Liebe?"
+description: "Seretta Kem, empfangen durch Al Fike: „Es gibt viel zu vermitteln in Bezug auf das, was ihr Medialität der Göttlichen Liebe nennt.“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

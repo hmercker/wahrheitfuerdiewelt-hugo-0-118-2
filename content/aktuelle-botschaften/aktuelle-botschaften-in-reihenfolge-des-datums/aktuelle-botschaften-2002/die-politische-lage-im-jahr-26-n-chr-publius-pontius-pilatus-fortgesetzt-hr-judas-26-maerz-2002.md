@@ -1,7 +1,7 @@
 ---
 title: "Die politische Lage im Jahr 26 n. Chr. - Publius Pontius Pilatus fortgesetzt"
 menu_title: ""
-description: "Die politische Lage im Jahr 26 n. Chr. - Publius Pontius Pilatus fortgesetzt"
+description: "Judas, empfangen durch H.: „In meiner letzten Botschaft sprach ich über Pilatus' Familienhintergrund und wie Sejanus ihn als Präfekt nach Judäa schickte …“"
 date: 2020-08-01 06:25:48+00:205
 draft: False
 hidden: True

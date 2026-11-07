@@ -1,7 +1,7 @@
 ---
 title: "Weitere Wahrheiten werden mit der Zeit enthüllt werden"
 menu_title: ""
-description: "Weitere Wahrheiten werden mit der Zeit enthüllt werden"
+description: "James Padgett, empfangen durch Al Fike: „So seid ihr von einer sehr geschätzten Seele gesegnet worden, die darauf bedacht ist, die tiefen Wahrheiten Gottes …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

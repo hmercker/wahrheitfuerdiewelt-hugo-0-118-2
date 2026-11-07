@@ -1,7 +1,7 @@
 ---
 title: "Eure Gebete für Gottes Liebe haben einen Einfluss auf eure zukünftigen Generationen"
 menu_title: ""
-description: "Eure Gebete für Gottes Liebe haben einen Einfluss auf eure zukünftigen Generationen"
+description: "Andreas, empfangen durch Al Fike: „Ja, ich habe mich verpflichtet, der Schutzengel des Namensträgers dieses Instruments 1 zu sein und werde ihn sein ganzes …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

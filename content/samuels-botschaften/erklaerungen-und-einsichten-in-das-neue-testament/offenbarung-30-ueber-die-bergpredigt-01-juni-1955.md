@@ -1,7 +1,7 @@
 ---
 title: "Offenbarung 30 : Über die Bergpredigt "
 menu_title: ""
-description: "Offenbarung 30 : Über die Bergpredigt "
+description: "Jesus, empfangen durch Dr Samuels: „Die heutige Botschaft beschäftigt sich mit der Bergpredigt — und welchen Zusammenhang es dabei mit der Neuen Geburt gibt.“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

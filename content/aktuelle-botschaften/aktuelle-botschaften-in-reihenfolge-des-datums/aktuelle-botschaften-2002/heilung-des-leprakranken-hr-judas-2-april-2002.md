@@ -1,7 +1,7 @@
 ---
 title: "Heilung des Leprakranken"
 menu_title: ""
-description: "Heilung des Leprakranken"
+description: "Judas, empfangen durch H.: „Während er (Jesus) in einer der Städte war, stieß Jesus auf einen Mann, der massenhaft Lepra hatte.“"
 date: 2020-08-01 06:25:48+00:210
 draft: False
 hidden: True

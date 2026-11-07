@@ -1,7 +1,7 @@
 ---
 title: "Die Erfahrung von Pfingsten"
 menu_title: ""
-description: "Die Erfahrung von Pfingsten"
+description: "Matthäus, empfangen durch Al Fike: „Ich freue mich, dass ihr unserem Ruf gefolgt seid und im Gebet zusammengekommen seid. Und in der Tat habt ihr viele Fragen.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

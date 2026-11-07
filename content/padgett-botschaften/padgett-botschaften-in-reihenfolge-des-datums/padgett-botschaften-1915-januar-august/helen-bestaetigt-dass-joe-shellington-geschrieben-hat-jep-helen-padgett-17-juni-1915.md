@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Joe Shellington geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Joe Shellington geschrieben hat"
+description: "Helen, empfangen durch James Padgett: „Er schreitet jetzt voran und betet zum Vater und hat einen gewissen Glauben. Wie er sagte, habe ich versucht, ihm zu …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

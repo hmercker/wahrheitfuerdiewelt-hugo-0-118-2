@@ -1,7 +1,7 @@
 ---
 title: "Wie der Glaube erlangt wird und das eigene Leben verändert"
 menu_title: ""
-description: "Wie der Glaube erlangt wird und das eigene Leben verändert"
+description: "Faith, empfangen durch Maureen Cardoso: „Ich wohne im himmlischen Königreich und meine Seele wurde durch das Geschenk von Gottes göttlicher Liebe in einen …“"
 date: 2020-08-01 06:25:48+00:59
 draft: False
 hidden: True

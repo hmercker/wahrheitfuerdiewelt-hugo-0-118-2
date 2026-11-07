@@ -1,7 +1,7 @@
 ---
 title: "Warum Jesus nicht auf Kriegsschauplätzen und Schlachtfeldern zugegen ist"
 menu_title: ""
-description: "Warum Jesus nicht auf Kriegsschauplätzen und Schlachtfeldern zugegen ist"
+description: "Jesus, empfangen durch James Padgett: „Natürlich sind die Szenen, in denen ich dargestellt wurde, reine Phantasiegebilde und sollen dem Beobachter den …“"
 date: 2020-08-01 06:25:48+00:250
 draft: False
 hidden: True

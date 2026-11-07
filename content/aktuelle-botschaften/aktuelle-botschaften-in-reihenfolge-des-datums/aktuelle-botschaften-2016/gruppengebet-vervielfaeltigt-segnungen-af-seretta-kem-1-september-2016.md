@@ -1,7 +1,7 @@
 ---
 title: "Gruppengebet vervielfältigt Segnungen"
 menu_title: ""
-description: "Gruppengebet vervielfältigt Segnungen"
+description: "Seretta Kem, empfangen durch Al Fike: „Denn Gottes Liebe ist unbegrenzt, die Fähigkeit, diese Liebe zu empfangen, ist unbegrenzt, nur begrenzt durch eure …“"
 date: 2020-08-01 06:25:48+00:82
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Helen bestätigt, dass Johannes, Saul und Maria geschrieben haben"
 menu_title: ""
-description: "Helen bestätigt, dass Johannes, Saul und Maria geschrieben haben"
+description: "Helen, empfangen durch James Padgett: „Nun, du hast heute Abend einige wunderbare Botschaften erhalten, und du musst glauben, dass sie von den spirituellen …“"
 date: 2020-08-01 06:25:48+00:145
 draft: False
 hidden: True

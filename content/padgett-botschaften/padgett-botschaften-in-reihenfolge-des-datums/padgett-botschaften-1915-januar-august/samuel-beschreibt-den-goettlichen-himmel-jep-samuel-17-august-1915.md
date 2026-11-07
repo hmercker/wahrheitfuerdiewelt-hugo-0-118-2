@@ -1,7 +1,7 @@
 ---
 title: "Samuel beschreibt den göttlichen Himmel"
 menu_title: ""
-description: "Samuel beschreibt den göttlichen Himmel"
+description: "Samuel, empfangen durch James Padgett: „Heute Abend möchte ich dir von den wunderbaren Dingen erzählen, die Gott für seine erlösten Kinder in den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

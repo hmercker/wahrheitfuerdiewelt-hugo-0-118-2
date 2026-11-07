@@ -1,7 +1,7 @@
 ---
 title: "Es ist die Seele, die wirklich die Wahrheit kennt, nicht der Verstand"
 menu_title: ""
-description: "Es ist die Seele, die wirklich die Wahrheit kennt, nicht der Verstand"
+description: "Lotus Blossom, empfangen durch Al Fike: „Ich lebte vor vielen Jahren in dem, was ihr China nennt. Es gibt viele Ideen unter euch, viele Erfahrungen und …“"
 date: 2020-08-01 06:25:48+00:71
 draft: False
 hidden: True

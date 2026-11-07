@@ -1,7 +1,7 @@
 ---
 title: "Großvater und Vater halfen Eugene Morgan bei seiner spirituellen Entwicklung"
 menu_title: ""
-description: "Großvater und Vater halfen Eugene Morgan bei seiner spirituellen Entwicklung"
+description: "Morgan's Großvater, empfangen durch James Padgett: „Ich war der Vater seines Vaters und bin vor vielen Jahren gestorben. Ich habe mich für die Erfahrungen …“"
 date: 2020-08-01 06:25:48+00:255
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Josef und Maria kehren nach Nazareth zurück"
 menu_title: ""
-description: "Josef und Maria kehren nach Nazareth zurück"
+description: "Judas, empfangen durch H.: „Wie ich gestern schon sagte, werden wir mit dem Bericht von Josef und seiner Familie in Ägypten fortfahren.“"
 date: 2020-08-01 06:25:48+00:119
 draft: False
 hidden: True

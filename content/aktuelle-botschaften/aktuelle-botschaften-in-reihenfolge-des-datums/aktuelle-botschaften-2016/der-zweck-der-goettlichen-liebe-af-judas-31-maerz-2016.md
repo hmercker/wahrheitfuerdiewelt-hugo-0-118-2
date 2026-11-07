@@ -1,7 +1,7 @@
 ---
 title: "Der Zweck der Göttlichen Liebe"
 menu_title: ""
-description: "Der Zweck der Göttlichen Liebe"
+description: "Judas, empfangen von Al Fike: „Um die Göttliche Liebe zu verstehen, muss man bis zu den Anfängen gehen. Als die Menschheit erschaffen wurde, wählte der …“"
 date: 2020-08-01 06:25:48+00:62
 draft: False
 hidden: True

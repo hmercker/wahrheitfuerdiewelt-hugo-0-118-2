@@ -1,7 +1,7 @@
 ---
 title: "Padgett's Vater bestätigt, dass es Jesus war, der am Samstag geschrieben hat"
 menu_title: ""
-description: "Padgett's Vater bestätigt, dass es Jesus war, der am Samstag geschrieben hat"
+description: "Padgett’s Vater, empfangen durch James Padgett: „Du beginnst die wahren Lehren der Bibel zu erkennen. Lass deine Lehren in Christo sein, da er die Wahrheit …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

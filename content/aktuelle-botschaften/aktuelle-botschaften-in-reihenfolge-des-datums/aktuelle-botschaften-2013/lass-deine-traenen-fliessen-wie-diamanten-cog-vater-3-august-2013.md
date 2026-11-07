@@ -1,7 +1,7 @@
 ---
 title: "Laß deine Tränen fließen wie Diamanten"
 menu_title: ""
-description: "Laß deine Tränen fließen wie Diamanten"
+description: "Vater, empfangen durch Child of God: „Mein geliebter Engel auf Erden. Ich wache über dich und lasse dich nie aus den Augen.“"
 date: 2020-08-01 06:25:48+00:137
 draft: False
 hidden: True

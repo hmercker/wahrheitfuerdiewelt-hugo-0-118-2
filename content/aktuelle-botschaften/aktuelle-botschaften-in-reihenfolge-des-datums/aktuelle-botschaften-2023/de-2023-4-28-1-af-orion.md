@@ -1,7 +1,7 @@
 ---
 title: "Viele Engel, helle Wesen und Sternenfreunde sind hier, um bei der Transformation der Welt zu helfen"
 menu_title: ""
-description: "Viele Engel, helle Wesen und Sternenfreunde sind hier, um bei der Transformation der Welt zu helfen"
+description: "Orion, empfangen durch Al Fike: „Wir kommen, um zu helfen, wir kommen, um zu erheben, und wir sind nur ein kleiner Teil von allem, was zur Verfügung steht …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

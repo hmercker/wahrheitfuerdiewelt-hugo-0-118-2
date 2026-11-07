@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch muss diese Gesetze Gottes kennen"
 menu_title: ""
-description: "Der Mensch muss diese Gesetze Gottes kennen"
+description: "Augustinus: „Einige von euch geben denen, die suchen, sehr viel Zeit, aber wenn die Direkte Stimme kommt, werdet ihr nicht in der Lage sein, diese Arbeit …“"
 date: 2020-08-01 06:25:48+00:216
 draft: False
 hidden: True

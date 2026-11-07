@@ -1,7 +1,7 @@
 ---
 title: "Die Lichtbringer haben die Aufgabe, sich der Welt zuzuwenden"
 menu_title: ""
-description: "Die Lichtbringer haben die Aufgabe, sich der Welt zuzuwenden"
+description: "Professor Salyards, empfangen durch Al Fike: „Seid gesegnet, meine Freunde, es ist euer Professor Salyards. Eure Organisation soll Einzelpersonen und …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

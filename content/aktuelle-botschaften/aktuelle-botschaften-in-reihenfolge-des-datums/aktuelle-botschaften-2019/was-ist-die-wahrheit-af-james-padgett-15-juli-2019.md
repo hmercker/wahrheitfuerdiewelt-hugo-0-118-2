@@ -1,7 +1,7 @@
 ---
 title: "Was ist die Wahrheit?"
 menu_title: ""
-description: "Was ist die Wahrheit?"
+description: "James Padgett, empfangen durch Al Fike: „Ich habe mich diesem lieben Instrument genähert, weil er an mich und meine Arbeit gedacht hat.“"
 date: 2020-08-01 06:25:48+00:89
 draft: False
 hidden: True

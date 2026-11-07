@@ -1,7 +1,7 @@
 ---
 title: "Lukas: Die Kraft des Gebets"
 menu_title: ""
-description: "Lukas: Die Kraft des Gebets"
+description: "Lukas, empfangen durch Al Fike: „Diese beiden lieben Seelen sind gekommen, um ein Gebet zu beantworten. Gott legt den Wunsch in sie hinein, den Gedanken …“"
 date: 2020-08-01 06:25:48+00:57
 draft: False
 hidden: True

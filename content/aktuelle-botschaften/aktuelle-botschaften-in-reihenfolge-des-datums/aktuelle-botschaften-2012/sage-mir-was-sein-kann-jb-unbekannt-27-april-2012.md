@@ -1,7 +1,7 @@
 ---
 title: "Sage mir, was sein kann"
 menu_title: ""
-description: "Sage mir, was sein kann"
+description: "Unbekannt, empfangen durch Joseph: „[Ich erwachte nach nur 4 Stunden Schlaf. Ein Wort kam zu mir, und das Wort war dieses: Sag mir nicht, was nicht sein …“"
 date: 2020-08-01 06:25:48+00:66
 draft: False
 hidden: True

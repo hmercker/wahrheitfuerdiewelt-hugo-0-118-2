@@ -1,7 +1,7 @@
 ---
 title: "Verstandesmuster freisetzen"
 menu_title: ""
-description: "Verstandesmuster freisetzen"
+description: "Seretta Kem, empfangen durch Al Fike: „Ich möchte über die Gewohnheiten und Routinen in eurem Leben sprechen. Wir haben schon oft gesagt, dass eine der …“"
 date: 2020-08-01 06:25:48+00:74
 draft: False
 hidden: True

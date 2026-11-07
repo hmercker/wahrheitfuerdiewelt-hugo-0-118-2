@@ -1,7 +1,7 @@
 ---
 title: "Warum Judas Jesus verraten hat"
 menu_title: ""
-description: "Warum Judas Jesus verraten hat"
+description: "Judas, empfangen durch James Padgett: „Ich war ein sehr begeisterter Liebhaber des Meisters und glaubte fest an seine Lehren und seine Macht und glaubte …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

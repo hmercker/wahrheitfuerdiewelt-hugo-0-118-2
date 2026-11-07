@@ -1,7 +1,7 @@
 ---
 title: "Die Welt verlangsamt sich"
 menu_title: ""
-description: "Die Welt verlangsamt sich"
+description: "Franziskus von Assisi, empfangen durch Jimbeau Walsh: „Ist es nicht erstaunlich, zu sehen und zu wissen, dass sich die Dinge in einem Moment ändern können …“"
 date: 2020-08-01 06:25:48+00:113
 draft: False
 hidden: True

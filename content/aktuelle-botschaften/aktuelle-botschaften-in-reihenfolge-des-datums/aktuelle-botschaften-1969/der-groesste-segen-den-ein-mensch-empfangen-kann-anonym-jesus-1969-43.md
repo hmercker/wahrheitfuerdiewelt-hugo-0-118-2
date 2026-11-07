@@ -1,7 +1,7 @@
 ---
 title: "Der größte Segen, den ein Mensch empfangen kann"
 menu_title: ""
-description: "Der größte Segen, den ein Mensch empfangen kann"
+description: "Jesus: „Meine Kinder, euch eurer Mission im Leben bewusst zu sein, ist so wichtig für euch und so die Quelle eurer Schöpfung zu berühren, ist der größte …“"
 date: 2020-08-01 06:25:48+00:153
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Geistlichen Reiche"
 menu_title: ""
-description: "Die Geistlichen Reiche"
+description: "Robert Hugh Benson, empfangen durch Jimbeau Walsh: „Mein Bruder, ich freue mich über das, was du neulich erhalten hast, um den Seelen mitzuteilen, was …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

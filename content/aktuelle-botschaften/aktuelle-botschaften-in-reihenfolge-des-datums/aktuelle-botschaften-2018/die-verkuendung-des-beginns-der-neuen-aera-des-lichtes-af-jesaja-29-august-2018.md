@@ -1,7 +1,7 @@
 ---
 title: "Die Verkündung des Beginns der neuen Ära des Lichtes "
 menu_title: ""
-description: "Die Verkündung des Beginns der neuen Ära des Lichtes "
+description: "Jesaja, empfangen durch Al Fike: „Gott berührt die Welt mit Liebe. Er gießt Seine Liebe in viele Teile eurer Welt und schafft große Veränderungen für den …“"
 date: 2020-07-03 06:25:48+00:00
 draft: False
 hidden: True

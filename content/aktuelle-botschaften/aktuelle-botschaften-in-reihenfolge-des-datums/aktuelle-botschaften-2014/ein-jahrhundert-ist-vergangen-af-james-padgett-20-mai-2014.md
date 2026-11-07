@@ -1,7 +1,7 @@
 ---
 title: "Ein Jahrhundert ist vergangen"
 menu_title: ""
-description: "Ein Jahrhundert ist vergangen"
+description: "James Padgett, empfangen durch Al Fike: „Ja, ein Jahrhundert, ein Jahrhundert ist vergangen und wir im Geiste haben fleißig gearbeitet, um sicherzustellen …“"
 date: 2020-08-01 06:25:48+00:154
 draft: False
 hidden: True

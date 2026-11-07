@@ -1,7 +1,7 @@
 ---
 title: "Bekräftigt Orions Botschaft"
 menu_title: ""
-description: "Bekräftigt Orions Botschaft"
+description: "Augustinus, empfangen durch Al Fike: „Wir haben schon oft über Hindernisse gesprochen. Bedingungen, die ihr in euch tragt, Haltungen, die lieblos sind und …“"
 date: 2024-08-01 06:00:00+00:10
 draft: False
 hidden: True

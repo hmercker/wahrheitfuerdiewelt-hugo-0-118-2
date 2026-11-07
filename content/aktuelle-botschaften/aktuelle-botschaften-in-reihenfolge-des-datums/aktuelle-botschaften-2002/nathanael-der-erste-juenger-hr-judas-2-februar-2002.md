@@ -1,7 +1,7 @@
 ---
 title: "Nathanael, der erste Jünger"
 menu_title: ""
-description: "Nathanael, der erste Jünger"
+description: "Judas, empfangen durch H.: „Es war interessant, deine beiden Hunde zu beobachten. Kaum streichelst du einen von ihnen, kommt der andere angerannt, mischt …“"
 date: 2020-08-01 06:25:48+00:177
 draft: False
 hidden: True

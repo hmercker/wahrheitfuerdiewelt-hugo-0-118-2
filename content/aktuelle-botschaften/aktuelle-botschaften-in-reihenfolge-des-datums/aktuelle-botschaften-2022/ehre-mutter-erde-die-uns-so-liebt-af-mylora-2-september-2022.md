@@ -1,7 +1,7 @@
 ---
 title: "Ehre Mutter Erde, die uns so liebt"
 menu_title: ""
-description: "Ehre Mutter Erde, die uns so liebt"
+description: "Mylora, empfangen durch Al Fike: „Ja, wenn alle Elemente dieser Erde in Harmonie miteinander sind, gibt es Fülle. Wenn diese Harmonie gestört ist und sich …“"
 date: 2022-07-06 06:00:00+00:10
 draft: False
 hidden: True

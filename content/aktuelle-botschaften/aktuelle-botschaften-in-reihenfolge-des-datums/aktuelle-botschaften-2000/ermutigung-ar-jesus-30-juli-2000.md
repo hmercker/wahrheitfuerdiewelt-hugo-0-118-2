@@ -1,7 +1,7 @@
 ---
 title: "Ermutigung"
 menu_title: ""
-description: "Ermutigung"
+description: "Jesus, empfangen durch Amada Reza: „[Lieber Gott, ich bete darum, ein Werkzeug Deiner Liebe zu sein, und dass, wenn die Engel der Göttlichen Himmeln uns …“"
 date: 2020-08-01 06:25:48+00:178
 draft: False
 hidden: True

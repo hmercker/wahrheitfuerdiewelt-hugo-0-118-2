@@ -1,7 +1,7 @@
 ---
 title: "Die Dynamik des Lebens 1: Das Böse"
 menu_title: ""
-description: "Die Dynamik des Lebens 1: Das Böse"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder: Heute morgen bin ich, wie so oft an jedem Tag, bei dir gewesen. Mit großem Interesse habe ich dich …“"
 date: 2020-08-01 06:25:48+00:260
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Nehmt euch das zu Herzen"
 menu_title: ""
-description: "Nehmt euch das zu Herzen"
+description: "Klara von Assisi, empfangen durch Jimbeau Walsh: „Ich wünsche euch allen, dass ihr in der Liebe Gottes seid, in seinem Frieden, dem Frieden, der das …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

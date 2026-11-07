@@ -1,7 +1,7 @@
 ---
 title: "Wir sind alle an dieser grossen Anstrengung beteiligt"
 menu_title: ""
-description: "Wir sind alle an dieser grossen Anstrengung beteiligt"
+description: "Petrus, empfangen durch Al Fike: „Ich arbeite weiterhin an der Seite meines geliebten Bruders, um die Wahrheit der Liebe Gottes in alle Welten zu bringen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Lektion 12 - Beschreibung der drei Bewusstseinszentren - Band 2"
 menu_title: ""
-description: "Lektion 12 - Beschreibung der drei Bewusstseinszentren - Band 2"
+description: "Jesus, empfangen durch Al Fike: „Heute möchte ich über die drei Bewusstseinszentren [^1] eines jeden Individuums sprechen. Ich weiß, dass dies für euch …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

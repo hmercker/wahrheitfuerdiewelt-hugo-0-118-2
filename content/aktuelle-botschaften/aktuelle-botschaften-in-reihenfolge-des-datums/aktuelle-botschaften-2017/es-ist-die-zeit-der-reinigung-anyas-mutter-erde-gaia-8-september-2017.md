@@ -1,7 +1,7 @@
 ---
 title: "Es ist die Zeit der Reinigung"
 menu_title: ""
-description: "Es ist die Zeit der Reinigung"
+description: "Mutter Erde, Gaia, empfangen durch Anyas: „Urantia: \"Liebe Tochter von Mir, du wünschst dir, dass wir eine Herzensbeziehung zueinander aufbauen.“"
 date: 2020-08-01 06:25:48+00:63
 draft: False
 hidden: True

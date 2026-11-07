@@ -1,7 +1,7 @@
 ---
 title: "Die Geborgenheit der Liebe Gottes"
 menu_title: ""
-description: "Die Geborgenheit der Liebe Gottes"
+description: "Judas, empfangen durch Jimbeau Walsh: „Ich wache über euch und ermutige euch in dem Wissen, dass nur wir wissen können, was euch erwartet.“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

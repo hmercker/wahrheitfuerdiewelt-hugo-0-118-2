@@ -1,7 +1,7 @@
 ---
 title: "Ein Neujahrssegen"
 menu_title: ""
-description: "Ein Neujahrssegen"
+description: "Seretta Kem, empfangen durch Al Fike: „Jeder von euch hat an diesem Abend eine tiefe Heilung erhalten, einen Segen, der durch die Engel und die Gebete, die …“"
 date: 2020-08-01 06:25:48+00:52
 draft: False
 hidden: True

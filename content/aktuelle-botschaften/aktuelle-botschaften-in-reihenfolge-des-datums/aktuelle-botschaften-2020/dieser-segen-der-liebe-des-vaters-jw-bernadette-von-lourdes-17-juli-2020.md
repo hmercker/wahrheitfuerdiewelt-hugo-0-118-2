@@ -1,7 +1,7 @@
 ---
 title: "Dieser Segen der Liebe des Vaters"
 menu_title: ""
-description: "Dieser Segen der Liebe des Vaters"
+description: "Bernadette von Lourdes, empfangen durch Jimbeau Walsh: „Diese Gemeinschaft der Seelen, die so viele angezogen hat, könnt ihr euch nicht vorstellen.“"
 date: 2020-08-01 06:25:48+00:159
 draft: False
 hidden: True

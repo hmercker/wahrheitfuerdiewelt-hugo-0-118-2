@@ -1,7 +1,7 @@
 ---
 title: "Ich habe große Liebe für China"
 menu_title: ""
-description: "Ich habe große Liebe für China"
+description: "Lotus Blossom: „Möge großer Frieden mit euch allen hier sein, meine Freunde. Ich möchte sagen, dass viele chinesische Freunde hier sind.“"
 date: 2020-08-01 06:25:48+00:95
 draft: False
 hidden: True

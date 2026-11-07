@@ -1,7 +1,7 @@
 ---
 title: "Alle Wahrheit beginnt mit der in Liebe erwachten Seele"
 menu_title: ""
-description: "Alle Wahrheit beginnt mit der in Liebe erwachten Seele"
+description: "John Wesley, empfangen durch Al Fike: „Für viele von euch ist euer Leben ein Traum, aus dem ihr erwachen müsst. Denn ihr lebt in eurem Verstand, und der …“"
 date: 2020-08-01 06:25:48+00:54
 draft: False
 hidden: True

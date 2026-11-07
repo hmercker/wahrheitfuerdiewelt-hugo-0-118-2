@@ -1,7 +1,7 @@
 ---
 title: "Ihr alle habt die Fähigkeit, ein Kanal für heilende Energien zu sein"
 menu_title: ""
-description: "Ihr alle habt die Fähigkeit, ein Kanal für heilende Energien zu sein"
+description: "Maria, empfangen durch Amada Reza: „Ich werde mich jetzt diesem Anliegen unseres Bruders Alfredo zuwenden, und ich möchte, dass er weiß, dass wir in der …“"
 date: 2020-08-01 06:25:48+00:163
 draft: False
 hidden: True

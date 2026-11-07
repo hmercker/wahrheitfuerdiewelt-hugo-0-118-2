@@ -1,7 +1,7 @@
 ---
 title: "Seelen im Umbruch"
 menu_title: ""
-description: "Seelen im Umbruch"
+description: "Johannes, empfangen durch Jimbeau Walsh: „Wenn ihr die Worte im Gebet des Meisters lest, in denen er die Seele als die größte aller Schöpfungen Gottes …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Der untreue Verwalter"
 menu_title: ""
-description: "Der untreue Verwalter"
+description: "Judas, empfangen durch H.: „Wenn Menschen Religion predigen, Regeln für das Zusammenleben vorstellen oder Ratschläge geben, was man tun oder lassen sollte …“"
 date: 2020-08-01 06:25:48+00:215
 draft: False
 hidden: True

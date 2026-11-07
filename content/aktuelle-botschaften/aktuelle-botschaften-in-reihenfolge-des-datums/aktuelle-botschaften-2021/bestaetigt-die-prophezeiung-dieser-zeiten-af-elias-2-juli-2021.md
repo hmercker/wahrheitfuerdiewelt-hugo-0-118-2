@@ -1,7 +1,7 @@
 ---
 title: "Bestätigt die Prophezeiung dieser Zeiten"
 menu_title: ""
-description: "Bestätigt die Prophezeiung dieser Zeiten"
+description: "Elias, empfangen durch Al Fike: „Ja, sobald meine beiden Brüder von mir gesprochen haben, bin ich gekommen. Obwohl die Frage ist, ob ich ihnen die Idee …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

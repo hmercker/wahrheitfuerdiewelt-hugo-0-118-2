@@ -1,7 +1,7 @@
 ---
 title: "Die politische Lage im Jahre 26 n. Chr. - Tiberius Claudius Nero"
 menu_title: ""
-description: "Die politische Lage im Jahre 26 n. Chr. - Tiberius Claudius Nero"
+description: "Judas, empfangen durch H.: „Mein lieber Bruder, in Übereinstimmung mit dem, was ich das letzte Mal erwähnt habe, werden wir uns heute auf das große …“"
 date: 2020-08-01 06:25:48+00:201
 draft: False
 hidden: True

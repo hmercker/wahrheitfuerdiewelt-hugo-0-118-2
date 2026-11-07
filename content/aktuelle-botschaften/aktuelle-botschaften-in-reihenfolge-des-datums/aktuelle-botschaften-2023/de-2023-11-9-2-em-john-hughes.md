@@ -1,7 +1,7 @@
 ---
 title: "Je mehr ihr euch öffnet, um Gottes Liebe zu empfangen, desto mehr werdet ihr geliebt"
 menu_title: ""
-description: "Je mehr ihr euch öffnet, um Gottes Liebe zu empfangen, desto mehr werdet ihr geliebt"
+description: "John Hughes, empfangen durch Elisabeth Mack: „Ich möchte mit euch über eure Liebe zu Jesus, dem Meister, sprechen. Er wurde „der beliebteste Sohn Gottes” …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

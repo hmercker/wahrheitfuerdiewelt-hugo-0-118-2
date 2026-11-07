@@ -1,7 +1,7 @@
 ---
 title: "Endungen und ein neuer Anfang"
 menu_title: ""
-description: "Endungen und ein neuer Anfang"
+description: "Jakobus, empfangen durch Al Fike: „Jeder von euch wird auf euren Reisen gesegnet sein, wenn ihr nach Hause zurückkehrt, und diese Segnungen, die ihr durch …“"
 date: 2020-08-01 06:25:48+00:99
 draft: False
 hidden: True

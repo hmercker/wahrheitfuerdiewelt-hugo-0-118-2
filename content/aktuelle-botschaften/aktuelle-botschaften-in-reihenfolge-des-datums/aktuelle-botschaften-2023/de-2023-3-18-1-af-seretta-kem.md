@@ -1,7 +1,7 @@
 ---
 title: "Wachsendes Seelen-Bewusstsein"
 menu_title: ""
-description: "Wachsendes Seelen-Bewusstsein"
+description: "Seretta Kem, empfangen durch Al Fike: „Es ist gut, dass ihr auf diese Weise zusammenkommt. Aber unser Plan und unser Bestreben ist es, eure …“"
 date: 2023-01-28 06:00:00+00:10
 draft: False
 hidden: True

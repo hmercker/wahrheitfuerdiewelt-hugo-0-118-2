@@ -1,7 +1,7 @@
 ---
 title: "Leslie's Mutter will ihn wissen lassen, dass sie für seine Gesundheit betet"
 menu_title: ""
-description: "Leslie's Mutter will ihn wissen lassen, dass sie für seine Gesundheit betet"
+description: "Priscilla Stone, empfangen durch James Padgett: „Lass mich nur eine Zeile schreiben, denn ich möchte meinem Sohn nur sagen, dass ich sehr froh bin zu …“"
 date: 2020-08-01 06:25:48+00:100
 draft: False
 hidden: True

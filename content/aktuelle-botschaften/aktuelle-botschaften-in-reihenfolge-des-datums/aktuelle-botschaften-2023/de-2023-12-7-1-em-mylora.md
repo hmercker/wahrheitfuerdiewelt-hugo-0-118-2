@@ -1,7 +1,7 @@
 ---
 title: "Partner der Heilung"
 menu_title: ""
-description: "Partner der Heilung"
+description: "Mylora, empfangen durch Elisabeth Mack: „Dies ist ein Segen, den er seinen wahren Kindern auf dieser Erde anbietet, eine Gnadenfrist, wenn ihr so wollt …“"
 date: 2023-10-30 06:00:00+00:10
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Baut weiter auf dem Fundament der Liebe Gottes "
 menu_title: ""
-description: "Baut weiter auf dem Fundament der Liebe Gottes "
+description: "Seretta Kem, empfangen durch Al Fike: „Die Welt beginnt zu begreifen, dass die Erde sich verändert. Sie sehen undeutlich in die Zukunft und erkennen, dass …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

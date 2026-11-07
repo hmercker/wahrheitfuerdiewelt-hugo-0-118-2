@@ -1,7 +1,7 @@
 ---
 title: "Die Wirksamkeit des Gebets"
 menu_title: ""
-description: "Die Wirksamkeit des Gebets"
+description: "Judas, empfangen durch H.: „[H.: Lieber Gott, bitte erlaube mir, mit meinem Führer Judas in Kontakt zu treten. Ich möchte das erhalten, was er mir za sagen …“"
 date: 2020-08-01 06:25:48+00:78
 draft: False
 hidden: True

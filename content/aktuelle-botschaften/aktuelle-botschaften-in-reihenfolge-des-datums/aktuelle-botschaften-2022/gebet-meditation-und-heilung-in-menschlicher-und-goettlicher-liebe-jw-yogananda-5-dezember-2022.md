@@ -1,7 +1,7 @@
 ---
 title: "Gebet, Meditation und Heilung in menschlicher und Göttlicher Liebe"
 menu_title: ""
-description: "Gebet, Meditation und Heilung in menschlicher und Göttlicher Liebe"
+description: "Yogananda, empfangen durch Jimbeau Walsh: „Ich möchte nicht nur über die Verbindung zwischen Meditation und Gebet sprechen, sondern auch über die Aspekte …“"
 date: 2023-01-30 06:00:00+00:10
 draft: False
 hidden: True

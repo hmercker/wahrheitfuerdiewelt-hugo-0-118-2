@@ -1,7 +1,7 @@
 ---
 title: "Ein Segen der Heilung"
 menu_title: ""
-description: "Ein Segen der Heilung"
+description: "Guru Ram Das, empfangen durch Maureen Cardoso: „Ich wohne in den Göttlichen Himmeln. Ich war der vierte Guru der Sikh-Tradition, bekannt für meine …“"
 date: 2020-08-01 06:25:48+00:252
 draft: False
 hidden: True

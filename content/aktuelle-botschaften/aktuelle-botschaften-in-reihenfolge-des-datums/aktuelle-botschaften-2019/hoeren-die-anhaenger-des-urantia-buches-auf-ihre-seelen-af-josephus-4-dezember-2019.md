@@ -1,7 +1,7 @@
 ---
 title: "Hören die Anhänger des Urantia Buches auf ihre Seelen?"
 menu_title: ""
-description: "Hören die Anhänger des Urantia Buches auf ihre Seelen?"
+description: "Josephus, empfangen durch Al Fike: „[Frage: Ist mehr eine Klärung, eine Bitte um eine Klärung einer kürzlichen Botschaft, die ihr mit uns geteilt habt, im …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

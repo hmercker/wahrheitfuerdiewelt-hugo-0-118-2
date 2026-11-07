@@ -1,7 +1,7 @@
 ---
 title: "Gemeinsame Arbeit ist sehr wichtig"
 menu_title: ""
-description: "Gemeinsame Arbeit ist sehr wichtig"
+description: "Orion, empfangen durch Al Fike: „Es gibt viele Organisationen im Universum, die zusammenarbeiten, um diesen euren Planeten, der an der Schwelle zu großen …“"
 date: 2023-05-12 06:00:00+00:10
 draft: False
 hidden: True

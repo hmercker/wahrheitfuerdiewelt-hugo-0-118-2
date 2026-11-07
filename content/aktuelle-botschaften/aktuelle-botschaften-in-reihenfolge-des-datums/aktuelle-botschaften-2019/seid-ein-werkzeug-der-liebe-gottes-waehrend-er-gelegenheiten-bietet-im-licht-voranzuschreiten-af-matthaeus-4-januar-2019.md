@@ -1,7 +1,7 @@
 ---
 title: "Seid ein Werkzeug der Liebe Gottes, während er Gelegenheiten bietet, im Licht voranzuschreiten"
 menu_title: ""
-description: "Seid ein Werkzeug der Liebe Gottes, während er Gelegenheiten bietet, im Licht voranzuschreiten"
+description: "Matthäus, empfangen durch Al Fike: „So wie ihr euch weiterhin in die Welt hinauswagt in dem tiefen Wunsch, Gott zu dienen, so öffnet Gott weiterhin Türen …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

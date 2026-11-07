@@ -1,7 +1,7 @@
 ---
 title: "Helen schreibt über den Besuch, den Padgett mit Dr. Stone bei Dr. Arbelee gemacht hat, der sich in einem Zustand des Todes befand"
 menu_title: ""
-description: "Helen schreibt über den Besuch, den Padgett mit Dr. Stone bei Dr. Arbelee gemacht hat, der sich in einem Zustand des Todes befand"
+description: "Helen, empfangen durch James Padgett: „Nun, Liebster, ich sehe, dass du heute Abend eine gute Arbeit für eine arme Seele (Dr. Arbelee) geleistet hast, der …“"
 date: 2020-08-01 06:25:48+00:77
 draft: False
 hidden: True

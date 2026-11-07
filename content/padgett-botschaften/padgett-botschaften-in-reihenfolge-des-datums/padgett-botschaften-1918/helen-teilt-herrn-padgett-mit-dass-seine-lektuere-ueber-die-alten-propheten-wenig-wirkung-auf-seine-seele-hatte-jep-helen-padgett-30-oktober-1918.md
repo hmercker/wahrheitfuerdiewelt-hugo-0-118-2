@@ -1,7 +1,7 @@
 ---
 title: "Helen teilt Herrn Padgett mit, dass seine Lektüre über die alten Propheten wenig Wirkung auf seine Seele hatte"
 menu_title: ""
-description: "Helen teilt Herrn Padgett mit, dass seine Lektüre über die alten Propheten wenig Wirkung auf seine Seele hatte"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Liebster, du warst heute Abend in zwei Zuständen von Seele und Verstand. Der eine, eher abweisend und …“"
 date: 2020-08-01 06:25:48+00:112
 draft: False
 hidden: True

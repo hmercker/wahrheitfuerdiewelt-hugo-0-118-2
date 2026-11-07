@@ -1,7 +1,7 @@
 ---
 title: "Josephus versichert, dass Jesus in Palästina lebte als er über ihn schrieb"
 menu_title: ""
-description: "Josephus versichert, dass Jesus in Palästina lebte als er über ihn schrieb"
+description: "Josephus, empfangen von James Padgett: „Ich möchte nur sagen, dass ich mich seit meinem letzten Brief an dich erkundigt habe, wer gelehrt hat, dass mein …“"
 date: 2020-08-01 06:25:48+00:80
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Schönheit des täglichen Lebens"
 menu_title: ""
-description: "Die Schönheit des täglichen Lebens"
+description: "Johannes, empfangen durch Amada Reza: „Viele Menschen fragen sich, was die Wahrheit ist, wenn sie sich nicht im Einklang mit dem fühlen, was um sie herum …“"
 date: 2020-08-01 06:25:48+00:131
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Die Menschheit steht vor einem Abgrund"
 menu_title: ""
-description: "Die Menschheit steht vor einem Abgrund"
+description: "Albert Einstein, empfangen durch Al Fike: „Was ihr da macht, ist äußerst interessant, meine Freunde. Ich finde das faszinierend.“"
 date: 2020-08-01 06:25:48+00:203
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Wie die Seele die Wahrheit und die Funktion des Geistes der Wahrheit wahrnimmt"
 menu_title: ""
-description: "Wie die Seele die Wahrheit und die Funktion des Geistes der Wahrheit wahrnimmt"
+description: "Jakobus, empfangen durch Al Fike: „Ihr kommt mit vielen Fragen. Ihr kommt von einem Ort, an dem ihr einige feste Überzeugungen und Verständnisse über das …“"
 date: 2020-08-01 06:25:48+00:51
 draft: False
 hidden: True

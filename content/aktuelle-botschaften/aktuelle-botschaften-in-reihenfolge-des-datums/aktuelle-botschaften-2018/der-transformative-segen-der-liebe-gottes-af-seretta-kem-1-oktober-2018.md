@@ -1,7 +1,7 @@
 ---
 title: "Der transformative Segen der Liebe Gottes"
 menu_title: ""
-description: "Der transformative Segen der Liebe Gottes"
+description: "Seretta Kem, empfangen durch Al Fike: „Ahh, wir stehen kurz vor dem Beginn, nicht wahr? Ich möchte die Aussage dieses Instrumentes bezüglich der …“"
 date: 2020-08-01 06:25:48+00:184
 draft: False
 hidden: True

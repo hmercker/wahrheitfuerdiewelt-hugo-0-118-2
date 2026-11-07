@@ -1,7 +1,7 @@
 ---
 title: "Vielfalt und Einssein"
 menu_title: ""
-description: "Vielfalt und Einssein"
+description: "Thomas Merton 1, empfangen durch Jimbeau Walsh: „Ich fühle mich zu diesem Kreis durch seine Vielfalt und sein Einssein hingezogen. Ihr, die ihr aus …“"
 date: 2020-08-01 06:25:48+00:73
 draft: False
 hidden: True

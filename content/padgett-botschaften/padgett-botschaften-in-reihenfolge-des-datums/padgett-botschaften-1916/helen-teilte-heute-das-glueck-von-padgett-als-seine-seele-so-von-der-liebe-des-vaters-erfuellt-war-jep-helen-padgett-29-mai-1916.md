@@ -1,7 +1,7 @@
 ---
 title: "Helen teilte heute das Glück von Padgett, als seine Seele so von der Liebe des Vaters erfüllt war"
 menu_title: ""
-description: "Helen teilte heute das Glück von Padgett, als seine Seele so von der Liebe des Vaters erfüllt war"
+description: "Helen, empfangen durch James Padgett: „Nun, mein Schatz, du hast heute Abend einige sehr wichtige Botschaften erhalten, und der Meister sagt, dass du sie …“"
 date: 2020-08-01 06:25:48+00:172
 draft: False
 hidden: True

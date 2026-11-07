@@ -1,7 +1,7 @@
 ---
 title: "Eine strahlende Zukunft"
 menu_title: ""
-description: "Eine strahlende Zukunft"
+description: "Unbekannt, empfangen durch Kathryn Stokes: „Wir sind hier bei dir, unsere liebe Schwester in Gottes Liebe. Du bist dir der Tatsache bewusst, dass oft, wenn …“"
 date: 2020-08-01 06:25:48+00:58
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Das Beten um die Göttliche Liebe öffnet die Tür zum Seelenerwachen"
 menu_title: ""
-description: "Das Beten um die Göttliche Liebe öffnet die Tür zum Seelenerwachen"
+description: "Martha, empfangen durch Al Fike: „Ich möchte euch einige Dinge über mich selbst erzählen, in der Hoffnung, dass sie euch in euren Schwierigkeiten und euren …“"
 date: 2020-08-01 06:25:48+00:187
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
 title: "Euer und mein Schöpfer"
 menu_title: ""
-description: "Euer und mein Schöpfer"
+description: "Konfuzius: „Es ist einige Zeit vergangen, seit ich gekommen bin und zu euch gesprochen habe, meine Kinder.“"
 date: 2020-08-01 06:25:48+00:208
 draft: False
 hidden: True
