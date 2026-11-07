@@ -4,6 +4,13 @@ title = "Wahrheit für die Welt"
 theme = "newbirth"
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Show the HTML written inside pages (footnotes, images, line breaks, anchors).
+      # All content on this site is written by the site owner and team.
+      unsafe = true
+
 [outputs]
 home = [ "HTML", "HEADERS" ]
 
