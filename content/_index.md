@@ -12,6 +12,8 @@ weight:
 
 ### Der Weg zur Wahrheit der ewigen Liebe
 
+**[Neu hier? Hier beginnen →](/hier-beginnen/)**
+
 Früher oder später begibt sich jeder von uns auf die Suche nach Wahrheit, nach Liebe, nach einer Seelenverbindung zum Göttlichen.  Diese Webseite ist denen gewidmet die nach der Wahrheit suchen - den Sinn des Lebens zu verstehen, Harmonie und Frieden zu finden, zu ergründen was geschieht wenn wir sterben, den inneren Antrieb der Suche nach [Gott](/zentrale-themen/wer-oder-was-ist-gott/) zu folgen, die Suche nach etwas dass uns in Einklang bringt was wir im Laufe der Jahre durch verschiedene spirituelle Wege, etablierte Religionsrichtungen und anderes gelernt haben.
 
 Was in den folgenden Seiten präsentiert wird, ist verfügbar für ein jeden Suchenden,  wo das Begehren des Herzens nach Liebe nie verbrennt, der Hunger nach Wahrheit und Weisheit immer vorhanden ist, der Durst nach  den Wassern des ewigen Frieden und Glückseligkeit nie gestillt wurde.  Hier wird ein [Weg](/der-weg-der-goettlichen-liebe/) offenbart der zu den ewigen Quellen der Liebe führt,  der ewigen [Liebe Gottes](/padgett-botschaften/die-gabe-der-goettlichen-liebe/).  Hervor gehen die Wahrheiten die Jesus erfahren und der Menschheit offenbart hat. Mittels himmlischer Botschaften wurden diese [Wahrheiten](/padgett-botschaften/das-wahre-evangelium-neu-uebermittelt-durch-jesus/) der Menschheit wieder geschenkt und in Dankbarkeit teilen wir sie mit einem jeden.  
