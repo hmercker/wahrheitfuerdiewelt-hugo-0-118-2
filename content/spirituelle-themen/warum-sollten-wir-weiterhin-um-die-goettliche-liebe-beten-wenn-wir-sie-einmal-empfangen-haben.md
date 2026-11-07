@@ -1,7 +1,7 @@
 ---
 title: "Warum sollten wir weiterhin um die Göttliche Liebe beten, wenn wir sie einmal empfangen haben?"
 menu_title: ""
-description: "Durch die vorangegangenen Diskussionen haben wir erkannt, dass ein Teil der Göttlichen Natur, der einmal in eine Seele aufgenommen wurde, nie wieder …“"
+description: "Warum sollten wir weiterhin um die Göttliche Liebe beten, wenn wir sie einmal empfangen haben?"
 date: 2020-07-03 02:18:11+11:00
 draft: False
 hidden: True

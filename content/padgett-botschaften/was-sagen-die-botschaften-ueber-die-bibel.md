@@ -1,7 +1,7 @@
 ---
 title: "Was sagen die Botschaften über die Bibel"
 menu_title: "Was sagen die Botschaften über die Bibel"
-description: "Christen aller Prägungen und Glaubensrichtungen gründen ihre Überzeugungen auf die Bibel. Was haben diese neuen Offenbarungen über die Genauigkeit der …“"
+description: "Was sagen die Botschaften über die Bibel"
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: False

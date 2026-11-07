@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle Botschaften 2019"
 menu_title: "Aktuelle Botschaften 2019"
-description: "Author | Titel der Botschaft | Datum der Botschaft ---|---|--- Markus | Die Kraft des Lichts, um die Dunkelheit zu überwinden | 4 Januar 2019 Augustinus | …“"
+description: "Aktuelle Botschaften vom Jahre 2019"
 date: 2020-06-19 02:18:11+11:00
 draft: False
 hidden: True
