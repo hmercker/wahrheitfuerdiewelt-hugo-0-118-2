@@ -9,7 +9,7 @@ weight:
 ---
 ### Gott will die Qualen seiner Kinder heilen
 
-Jenne d'Arc - empfangen durch Elisabeth Mack am 22. Oktober 2023, Rock Hill, SC, USA.
+Jeanne d'Arc - empfangen durch Elisabeth Mack am 22. Oktober 2023, Rock Hill, SC, USA.
 
 Ich bin hier. Ich bin Jeanne und ich komme mit dem Segen meines Vaters, der hoch über dem Göttlichen Himmel schwebt und auf seine Kinder herabschaut. Er sieht die Ängste und den Mangel an Liebe und möchte seine Liebe über all diese Seelen gießen, um ihnen Frieden und Trost zu bringen, egal auf welcher Seite des Schleiers sie sich befinden.
 
