@@ -15,7 +15,7 @@
 {{ define "banner" }}
 <!-- Banner -->
 <div id="banner">
-    <img class="img-fluid" src="{{ "images/logo-banner.jpg" | relURL }}" width="940" height="290" alt="A Spiritual Journey" />
+    <picture><source srcset="{{ "images/logo-banner.webp" | relURL }}" type="image/webp"><img class="img-fluid" src="{{ "images/logo-banner.jpg" | relURL }}" width="940" height="290" alt="A Spiritual Journey" fetchpriority="high" /></picture>
 </div>
 <!-- /Banner -->
 {{ end }}
