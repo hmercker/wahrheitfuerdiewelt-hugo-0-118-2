@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="{{ ($styles | minify | fingerprint).RelPermalink }}">
   {{ end }}
 
+  <link rel="preload" href="/fonts/pt-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
   {{ block "header_css" . }}{{ end }}
   {{ block "meta_tags" . }}{{ end }}
   {{ template "_internal/google_analytics.html" . }}
@@ -49,8 +50,8 @@
     {{ block "banner" . }}
     <div id="banner">
       <a href="/" title="Home | New birth">
-        <img class="img-fluid" src="{{ "images/logo-banner-inner.jpg" | relURL }}" width="940" height="80"
-          alt="Eine Spirituelle Reise" />
+        <picture><source srcset="{{ "images/logo-banner-inner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src="{{ "images/logo-banner-inner.jpg" | relURL }}" width="940" height="80"
+          alt="Eine Spirituelle Reise" /></picture>
       </a>
     </div>
     {{ end }}
