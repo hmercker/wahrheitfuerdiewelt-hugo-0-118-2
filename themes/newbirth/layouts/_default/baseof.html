@@ -51,7 +51,7 @@
     {{ block "banner" . }}
     <div id="banner">
       <a href="/" title="Home | New birth">
-        <picture><source srcset="{{ "images/logo-banner-inner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src="{{ "images/logo-banner-inner.jpg" | relURL }}" width="940" height="80"
+        <picture><source srcset="{{ "images/logo-banner-inner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src="{{ "images/logo-banner-inner.jpg" | relURL }}" width="940" height="86"
           alt="Eine Spirituelle Reise" /></picture>
       </a>
     </div>
@@ -70,7 +70,7 @@
       </nav>
       <!-- /Primary navigation -->
       <!-- Article -->
-      <article>
+      <article role="main">
         <div class="wrapper content">
           {{ block "main" . }}{{ end }}
         </div>
@@ -88,7 +88,6 @@
     &copy; {{ .Site.Title }}, {{ now.Format "2006"}}
   </footer>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
   {{ $scripts := resources.Get "js/scripts.js" }}
   {{ $js := slice $scripts | resources.Concat "js/bundle.js" }}
